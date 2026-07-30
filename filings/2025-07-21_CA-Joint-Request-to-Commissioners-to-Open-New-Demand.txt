@@ -1,0 +1,194 @@
+July 21, 2025
+Sent Via Electronic Mail
+Commission President Alice Reynolds
+Commissioner Houck
+Commissioner Reynolds
+Commissioner Douglas
+Commissioner Baker
+California Public Utility Commission
+Sent via electronic mail
+RE: Request for New Demand Response Proceeding
+Dear Commissioners:
+The California Efficiency + Demand Management Council (“the Council”), the
+California Energy Storage Alliance (CESA),the Vehicle Grid Integration Council (VGIC),
+Leapfrog Power, Inc. (“Leap”), Renew Home, LLC (“Renew Home”), CPower, Sunrun,
+Inc. (“Sunrun”), Voltus, Inc, (“Voltus”), and Nostromo Energy, Inc. (“Nostromo”),
+(collectively “the Joint DR Parties”) submit this letter to request a new demand response
+(“DR”) proceeding at the California Public Utilities Commission (“Commission”).
+Background on the Joint DR Parties
+The Council is a statewide trade association of non-utility businesses that provide
+energy efficiency, demand response, and data analytics services and products in
+California.1 Our member companies employ many thousands of Californians
+throughout the state. They include energy efficiency (“EE”), demand response (“DR”),
+and distributed energy resources (“DER”) service providers, implementation and
+evaluation experts, energy service companies, engineering and architecture firms,
+contractors, financing experts, workforce training entities, and energy efficient product
+manufacturers. The Council’s mission is to support appropriate EE, DR, and DER
+policies, programs, and technologies to create sustainable jobs, long-term economic
+growth, stable and reasonably priced energy infrastructures, and environmental
+improvement.
+CESA is a 501(c)(6) membership-based advocacy group committed to advancing
+the role of energy storage in the electric power sector. CESA strives to advance a more
+1 Additional information about the Council, including the organization’s current membership,
+Board of Directors, antitrust guidelines and code of ethics for its members, can be found at
+http://www.cedmc.org. The views expressed by the Council are not necessarily those of its
+individual members.
+
+affordable, efficient, reliable, safe, and sustainable electric power system for all
+Californians, including through the implementation of DERs and DR.
+VGIC is a 501(c)(6) membership-based advocacy group committed to advancing
+the role of vehicle-grid integration (VGI) through policy development, education,
+outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from flexible EV charging and discharging is
+recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+Leap is a DR provider founded in 2017 and headquartered in Sacramento,
+California. The company provides DR services to residential, commercial, industrial, and
+agricultural customers throughout the state of California. Through its technology
+platform, Leap enables DER providers in California to provide grid flexibility, delivering
+revenue for their customers and integrating additional demand-side resources into the
+California electricity system. Leap believes that demand-side resources integrated into
+California’s wholesale electricity market will play an increasingly important role in
+helping California achieve a resilient and zero carbon future. Leap is a registered DR
+Provider (“DRP”), as well as a registered Scheduling Coordinator, with the California
+Independent System Operator Corporation (“CAISO”).
+Renew Home, founded in April 2024, operates over 100 demand response
+programs across the United States, including the OhmConnect product, which has over
+237 thousand CAISO market registered residential and small commercial users in
+California. The company comprises the Google Nest Energy Services team, which was
+spun off from Google, and OhmConnect, which is a wholly owned subsidiary of Renew
+Home. The Google Nest Energy Services team was responsible for controlling Google
+Nest thermostats and providing grid services, including the widely used Rush Hour
+Rewards service. OhmConnect is a market-integrated demand response platform that
+combines device automation and behavior-based demand response in California, New
+York, and Texas. Renew Home’s mission is to save consumers energy and alleviate
+cost burdens through shifting household energy use to better match the time-value of
+energy.
+Nostromo provides sustainable energy storage solutions for commercial and
+industrial buildings that enable measurable reduction of energy costs and carbon
+emissions and increases resilience for the building and grid. Nostromo’s clean, safe and
+highly efficient IceBrick® solution transforms how buildings manage their main use of
+energy, which is cooling. This solution stores energy during off-peak or surplus solar
+energy hours, when electricity’s cost and carbon emission are low, so it can be used for
+cooling during peak demand hours, when electricity’s cost and carbon emissions are
+high
+CPower is the leading distributed energy resources monetization and Virtual
+Power Plant provider in the country, working to enable a flexible, clean and dependable
+energy future. With over 7.0 GW of capacity at approximately 29,000 sites across the
+U.S., CPower works to unlock the full value of DERs to strengthen the grid when and
+where reliable, dispatchable resources are needed most.
+2
+
+Sunrun Inc. revolutionized the solar industry in 2007 by removing financial
+barriers and democratizing access to locally-generated, renewable energy. Today,
+Sunrun is the nation’s leading provider of clean energy as a subscription service,
+offering residential solar and storage with no upfront costs. Sunrun’s innovative
+products and solutions can connect homes to the cleanest energy on earth, providing
+them with energy security, predictability, and peace of mind. Sunrun also manages
+energy services that benefit communities, utilities, and the electric grid while enhancing
+customer value.
+Voltus is an aggregator of retail customers operating in all nine North American
+wholesale markets. Voltus enables retail electric customers to provide critical grid
+services by connecting behind-the-meter assets to wholesale energy, capacity, and
+ancillary service markets. Voltus has been a CAISO market participant since 2020.
+Voltus is an approved provider for CPUC-jurisdictional demand response offerings
+including the Base Interruptible Program and Capacity Bidding Program; transacts
+Resource Adequacy; and participates in the Demand-Side Grid Support program.
+Voltus manages approximately 50 MW of flexible resources across the state.
+Summary
+The Joint DR Parties request that the Commission open a new rulemaking to
+address DR issues. On October 25, 2024, the Commission issued D.24-10-011 which
+is the Decision Denying the Public Advocates Office’s Petition to Open a Rulemaking to
+Adopt, Amend, or Repeal a Regulation Pursuant to Public Utilities Code Section 1708.5
+in P.24-03-013. D.24-10-011 confirmed “that future, and individual proceedings are
+expected to be opened to address EE, DR, and low-income EE issues that will be
+closely coordinated and effectively integrated.”2 However, since that time no new DR
+proceeding has been issued and there is currently not an active proceeding in which to
+address DR.
+In addition, on June 27, the Commission issued D.25-06-048 in the resource
+adequacy (“RA”) proceeding (R.23-10-011) which is the Decision Adopting Local
+Capacity Obligations for 2026-2028, Flexible Capacity Obligations for 2026, and
+Program Refinements. D.25-06-048 states that “DR questions may be addressed in the
+successor RA proceeding or a new DR rulemaking,”3 once again identifying a DR
+rulemaking as a valuable arena to discuss outstanding issues in the existing regulatory
+framework for DR.
+As is discussed in more detail below, the Joint DR Parties urge the Commission
+to adopt a new Order Instituting Rulemaking (“OIR”) for a new DR proceeding.
+Discussion
+The Commission should act quickly to open a new DR rulemaking. There has
+not been an overarching DR rulemaking since the closure of Rulemaking (“R.”) 13-09-
+2 D.24-10-011, at p. 25.
+3 D.25-06-048, at p. 118.
+3
+
+011. R.13-09-011 was closed on June 27, 2018 pursuant to D.18-06-012. It was re-
+opened in 2023 only to consider a Petition for Modification which was rejected on March
+22, 2023 in D.23-03-020. D.23-03-020 also re-closed R.13-09-011.
+On May 2, 2022, Pacific Gas and Electric Company (PG&E), San Diego Gas &
+Electric Company (SDG&E) and Southern California Electric Company (SCE) filed their
+2023-2027 DR portfolio applications which became Application (A.) 22-05-002, et al.
+These applications were initially closed on April 24, 2024 through D.24-04-006. These
+Applications have been re-opened to address a Joint Petition for Modification of D.22-
+12-009.
+Ultimately, there have been many changes to DR since these two proceedings
+were opened and/or closed and now is the time to address accumulating issues facing
+DR. DR is a resource that is necessary to manage the needs of a 21st century grid, and
+the large number of DERs installed in California makes the state uniquely well-
+positioned to leverage this resource. As such, California should be bold in appropriately
+evaluating and developing effective models for DR that can be adopted across the
+country, recognizing that California is the leader in clean energy development and often
+sets the standard for the rest of the nation.
+This is especially urgent because CAISO has recently launched a new initiative
+focused on challenges to demand-side resources’ participation in the state’s wholesale
+market, which is expected to run through 2027. Because both CAISO and the
+Commission play central, complementary roles in overseeing DR, coordination between
+them is essential to ensure a coherent regulatory framework. Opening a DR proceeding
+now would allow these two agencies to address changes to the DR regulatory
+framework in parallel, which would maintain consistency, avoid policy gaps, and
+streamline implementation of improvements.
+A new DR proceeding should evaluate numerous new issues, including but not
+limited to:
+• Allocation of Net Qualifying Capacity (NQC) to DR outside of the Availability
+Assessment Hours (AAH)
+• Device-level measurement to reduce barriers to customer participation in DR
+programs
+• Updating dual participation rules between multiple load-modifying (including
+dynamic rate pilots) and/or supply-side DR programs, and/or emergency
+reliability DR programs
+• Improved baseline methodologies
+• Simplifying Market participation
+• Improved Economic DR participation pathways that capture cost-effective C&I
+capacity and meet targets for Economic DR within state load shift goals
+• How DR programs can incorporate two- to three-hour resources to address the
+super peak period of highest demand
+• Investor-owned utility-specific allocations of the statewide Load Shift Goal
+4
+
+• Competitive parity issues
+• Implementation of data access improvements identified in the Commission’s
+Data Working Group, which is expected to release its final report in September
+• RA accreditation for DER exports
+• Final refinements to the CEC’s incentive-based supply-side demand response
+qualifying capacity proposal
+• Program designs that value the benefits of diverse DR resources, such as
+dispatchable load shift
+• Updating of the ACC model to reflect additional value streams
+The Commission should open a new rulemaking as expeditiously as possible to
+best position DR to meet current and future needs.
+Conclusion
+For the reasons explained above, the Joint DR Parties respectfully respect that
+the Commission adopt a new OIR to address DR programs.
+Respectfully submitted,
+July 21, 2025
+/s/ JOSEPH DESMOND
+Joseph Desmond
+On Behalf of the California Efficiency + Demand
+Management Council, CESA, VGIC, Leapfrog Power,
+Inc., Renew Home, CPower, Sunrun, Voltus, and
+Nostromo
+849 E. Stanley Blvd #264
+Livermore, CA 94550
+Telephone: (925) 785-2878
+Email: jdesmond@cedmc.org
+cc: Service Lists in R.13-09-011, A.22-05-002, et al., and P.24-03-013.
+5

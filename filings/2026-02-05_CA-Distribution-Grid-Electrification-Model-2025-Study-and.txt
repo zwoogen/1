@@ -1,0 +1,149 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE PUBLIC
+ADVOCATES OFFICE’S DISTRIBUTION GRID ELECTRIFICATION MODEL 2025
+STUDY AND REPORT
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (279) 895-7855
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: February 5, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE PUBLIC
+ADVOCATES OFFICE’S DISTRIBUTION GRID ELECTRIFICATION MODEL 2025
+STUDY AND REPORT
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Public Advocates Office at the California Public Utilities Commission
+(“Cal Advocates”) Distribution Grid Electrification Model 2025 Study and Report (“DGEM 2025
+Study and Report”) pursuant to the Administrative Law Judge’s Ruling Soliciting Comments on
+the Public Advocates Office’s 2025 Distribution Grid Electrification Model 2025 Study and Report
+issued by Administrative Law Judge Jack Chang on January 08, 2026.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to comment on the DGEM 2025 Study and Report, and
+we thank Cal Advocates staff for undertaking this substantial analytical effort and for continuing
+to refine a transparent, third‑party assessment of how electrification will affect California’s
+distribution system costs and, in turn, ratepayers.
+The DGEM 2025 Report meaningfully builds on Cal Advocates’ prior 2023 analysis and
+usefully complements the investor‑owned utilities’ Electrification Impact Studies Part 2 ("EIS Part
+2"). Together, these analyses provide the Commission with a more complete evidentiary record:
+the EIS Part 2 studies illustrate how utility‑specific assumptions translate into infrastructure needs,
+2
+
+while DGEM offers an independent, system‑wide view of distribution upgrade costs and rate
+impacts under varying electrification and load‑management scenarios. In particular, the DGEM
+shows that increased EV adoption can place downward pressure on rates by spreading fixed
+distribution system costs over greater load, especially under scenarios that incorporate managed
+charging and other load-shaping strategies. As the Commission evaluates next steps in Track 1 of
+this proceeding, particularly regarding distribution planning practices and assumptions, it should
+strongly consider DGEM as a complementary source of evidence alongside the EIS Part 2 studies.
+VGIC’s prior comments on the Draft EIS Part 2 emphasized that vehicle‑grid integration
+("VGI") strategies, including managed charging platforms and bidirectional charging solutions,
+represent a critical set of tools for moderating distribution system costs while advancing
+California’s transportation electrification and reliability goals. The DGEM 2025 Report reinforces
+those conclusions with additional data and modeling. In response to the 2025 DGEM, VGIC offers
+the following comments:
+• DGEM provides critical evidence of the value of vehicle-grid integration initiatives.
+• Cal Advocates should consider further benefits of VGI for ratepayers, including
+bidirectional EV charging systems, which can deepen the total load reduction available
+across California’s EV fleet.
+II. DGEM PROVIDES ADDITIONAL, INDEPENDENT EVIDENCE OF THE VALUE
+OF VEHICLE‑GRID INTEGRATION.
+Consistent with the Draft EIS Part 2 findings, the DGEM 2025 Report shows that
+unmanaged electrification can drive substantial distribution system upgrade costs, while strategic
+load management, particularly for EVs, can significantly reduce them. Overall, Cal Advocates
+3
+
+finds that shifting EV charging to manage load on distribution circuits can deliver between
+$5 billion and $18 billion in cost savings by 2040.1
+Importantly, DGEM’s highest‑savings scenarios are not driven by electrification alone, but
+by assumptions that charging behavior is actively shaped to reduce coincident peaks on
+distribution circuits. Cal Advocates explains that “Our constructed managed charging load shape
+is intended to roughly emulate the grid benefits of a variety of managed charging strategies,
+describing the potential output of incentivized active managed charging programs, dynamic rate
+charging incentives, or other managed charging structures.”2 Under the core managed scenario,
+DGEM assumes participation from roughly half of light‑duty EVs and one‑fifth of medium‑ and
+heavy‑duty EVs.3 Additional savings could be provided with additional participation, and Cal
+Advocates shows initial data indicating an additional $2.7 billion in cost savings could be provided
+with 90% light-duty participation and 50% medium- and heavy-duty participation. Cal Advocates
+further notes that this likely underestimates the marginal value of additional medium- and heavy-
+duty participation in charging management strategies.4
+These results are consistent with VGIC’s earlier EIS Part 2 comments, highlighting that
+EVs can offer a significant source of modeled load flexibility and avoided costs.5 DGEM therefore
+provides valuable, independent confirmation that investments in VGI can be a key strategy for
+protecting ratepayers from unnecessary distribution upgrades as EV adoption accelerates.
+At the same time, Cal Advocates appropriately notes a critical gap between modeled
+outcomes and today’s policy landscape, “No rate or program currently exists that is likely to
+1 DGEM at 83.
+2 DGEM at 79.
+3 DGEM at 88.
+4 DGEM at 88, Cal Advocates notes: “because of the spatial uncertainties in our MDHD modeling, this analysis may
+underestimate the marginal value of MDHD charging management.”
+5 VGIC Comments on Draft EIS Part 2 Studies at 3-4.
+4
+
+achieve the degree of load shifting that our scenario describes” (emphasis added).6 VGIC
+strongly agrees with this assessment. The Commission should consider extending existing
+initiatives, such as PG&E’s V2X Residential and V2X Commercial Pilots, or authorizing new
+ones, such as the proposed Low Carbon Fuel Standard Holdback pilots for EV charging. The
+Commission should also seek to improve dynamic rate implementation to attract more customers
+by using simpler pilot designs.
+III. FUTURE DGEM ANALYSIS SHOULD INCORPORATE BIDIRECTIONAL EVS
+AND EXPORT CAPABILITIES.
+VGIC strongly supports Cal Advocates’ stated intent to continue refining DGEM in future
+iterations.7 The Commission should support continued refinements of DGEM and analytical work
+from Cal Advocates. For future DGEM reports, VGIC does encourage Cal Advocates to expand
+the analyses to include bidirectional EV charging and customer‑sited exports.
+The DGEM 2025 Report does not model any discharge from EVs, focusing instead on load
+shifting through managed charging. While this is an appropriate starting point, it likely understates
+the full flexibility potential available from the transportation fleet. As discussed in VGIC’s EIS
+Part 2 comments, PG&E’s analysis found that bidirectional EVs alone could provide hundreds of
+megawatts of local load reduction by 2040, even under conservative assumptions about adoption.8
+Meanwhile, bidirectional vehicle and charger availability is expanding rapidly across light‑,
+medium‑, and heavy‑duty segments.9 Conceptually, bidirectional charging system allows a
+participating customer’s flexibility to grow from simply avoiding charging, which is often done at
+6 DGEM at 79.
+7 DGEM at 86.
+8 PG&E EIS Part 2 at 34.
+9 VGIC Comments on Draft EIS Part 2 Studies at 6.
+5
+
+~10 kW, to avoiding charging and providing discharged energy to meet site load and/or export
+past the customer meter, yielding ~20 kW of flexibility.
+Incorporating bidirectional charging systems into the DGEM would allow Cal Advocates
+to independently assess and confirm the extent to which these systems’ ability to serve behind-the-
+meter load and/or export to the grid could further reduce distribution upgrade needs, particularly
+on constrained circuits or during localized peaks. This would, in turn, help the Commission and
+stakeholders better understand the relative cost‑effectiveness of promoting bidirectional charging
+systems compared to traditional infrastructure investments. Given that SCE and SDG&E did not
+examine bidirectional charging systems in EIS Part 2, a DGEM‑based assessment would provide
+critical insight and help inform future program and rate design.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Cal Advocates’
+updated DGEM and to reiterate our tremendous gratitude for Cal Advocates’ investment in
+expertly modeling this complex, emerging topic. We look forward to further collaboration with
+the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: February 5, 2026
+6

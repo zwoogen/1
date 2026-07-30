@@ -1,0 +1,103 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF NEVADA
+Application of Nevada Power Company d/b/a Docket No. 25-12031
+NV Energy, filed under Advice Letter No. 562,
+to revise Tariff No. 1-B to modify Generating
+Facility Interconnections Rule No. 15 pursuant
+to the Order issued in Docket No. 24-05041
+PETITION FOR LEAVE TO INTERVENE OF THE VEHICLE-GRID INTEGRATION
+COUNCIL
+Pursuant to Nevada Administrative Code (“NAC”) sections 703.580, 703.585, 703.590,
+and 703.595, the Vehicle-Grid Integration Council (“VGIC”) respectfully petitions for the
+Commission to grant leave for VGIC to intervene in the above-referenced proceeding. VGIC
+requests to be placed on the service list for this proceeding and to receive all future notices and
+pleadings in this matter electronically at the following addresses:
+Vehicle-Grid Integration Council
+Attn: Zach Woogen, Executive Director
+1401 21st St., Suite 5409
+Sacramento, California 95811
+(279) 895-7855
+vgicregulatory@vgicouncil.org
+zwoogen@vgicouncil.org
+I. DESCRIPTION OF VGIC.
+VGIC is a national 501(c)6 member-based advocacy group committed to advancing the
+role of vehicle-grid integration (“VGI”) through policy development, education, and research.
+VGIC aims to ensure the value from flexible EV charging and discharging is recognized and
+compensated to achieve a more reliable, affordable, and efficient electric grid. VGIC’s members
+include automotive original equipment manufacturers (“OEMs”), EV charging station
+manufacturers, EV charging site developers, distributed energy resource (“DER”) aggregators, EV
+1
+
+charging station installers, operations, and maintenance providers, EV and charging station
+hardware suppliers, and publicly-owned electric utilities.
+II. INTEREST IN THIS PROCEEDING.
+As it relates to the requirements in NAC 703.595(2)(a)-(c) and NAC 703.580, VGIC’s
+membership includes companies that deploy residential and non-residential bidirectional EV
+charging systems, sometimes referred to as “Vehicle-to-Grid” or “V2G” systems, including Ford,
+General Motors, Tesla, and Nissan. These members have a direct and substantial interest in the
+outcome of this proceeding, as NV Energy proposes revisions to its interconnection regulation,
+Rule No. 15. The proposed Rule No. 15 revisions detail the interconnection processes and
+requirements for bidirectional charging systems in its service territory. Given that VGIC’s member
+companies will conform to these interconnection rules, the outcomes of this proceeding have a
+direct, material impact on the technology choices, development and deployment costs, and related
+business decisions of VGIC’s members and, in turn, VGIC’s members’ customers.
+VGIC intends to participate in this proceeding to ensure that the proposed Rule No. 15
+adequately accounts for impacts on VGIC’s members. This representation of member interests
+before a Public Utility Commission proceeding is a core function of VGIC’s day-to-day policy
+development and engagement operations. VGIC’s unique interests in bidirectional charging
+solutions will not be adequately represented by any other party in this proceeding, and VGIC attests
+that its intervention will not unduly broaden the issues in this proceeding.
+VGIC will offer factual contentions related to how specific elements of NV Energy’s
+proposed Rule No. 15 revisions will impact vendor and customer behavior in support of grid safety
+and reliability. These contentions are directly pertinent to the issues presented in the proceeding.
+2
+
+III. CONCLUSION.
+VGIC’s participation in this proceeding will not prejudice any party and will not delay the
+schedule or broaden the scope of the issues in the proceeding. For the reasons stated above, VGIC
+respectfully requests that the Commission grant this Petition for Leave to Intervene.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: February 4, 2026
+3
+
+CERTIFICATE OF SERVICE
+I hereby certify that I have on this date caused the above “PETITION FOR LEAVE TO
+INTERVENE OF THE VEHICLE-GRID INTEGRATION COUNCIL” to be served pursuant to the
+laws of the State of Nevada by electronic mail (e-mail) to all persons with a valid e-mail address
+on the below service list.
+Executed February 4, 2026 at Sacramento, California
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+(279) 895-7855
+vgicregulatory@vgicouncil.org
+zwoogen@vgicouncil.org
+Service List
+Aaron Schaar Aaron.schaar@nvenergy.com
+NV Energy
+Jennifer Fedinec jfedinec@nvenergy.com
+NV Energy
+Roman Borisov roman.borisov@nvenergy.com
+NV Energy
+Fred Voltz zebedee_177@yahoo.com
+Fred Voltz
+Midhat Mafazy midhatm@irecusa.org
+IREC
+NV Energy Regulatory Dept regulatory@nvenergy.com
+NV Energy
+Attorney General’s Bureau of Consumer bcpserv@ag.nv.gov
+Protection
+Michael Saunders msaunders@ag.nv.gov
+Bureau of Consumer Protection
+Staff Counsel Pucn.sc@pucn.nv.gov
+scassity@puc.nv.gov
+dlomoljo@puc.nv.gov
+tsundheim@puc.nv.gov
+4

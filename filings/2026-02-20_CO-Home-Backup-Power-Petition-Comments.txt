@@ -1,0 +1,78 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE STATE OF COLORADO
+PROCEEDING NO. 25D-0536E
+IN THE MATTER OF PETITION OF FORD MOTOR COMPANY FOR A
+DECLARATORY ORDER DETERMINING THAT FORD'S ELECTRIC VEHICLE
+CHARGING SYSTEMS WITH HOME BACKUP POWER FEATURES AND DISABLED
+HOME POWER MANAGEMENT FEATURES ARE NOT SUBJECT TO
+INTERCONNECTION RULES
+VEHICLE-GRID INTEGRATION COUNCIL’S COMMENTS IN SUPPORT OF FORD
+MOTOR COMPANY’S PETITION FOR DECLARATORY ORDER
+The Vehicle-Grid Integration Council (“VGIC”) respectfully submits these Comments in support
+of the Petition for Declaratory Order (“Petition”) filed by Ford Motor Company (“Ford”) on
+December 23, 2025.
+I. INTRODUCTION
+VGIC is a national 501(c)(6) non-profit trade association focused on accelerating the role of
+flexible electric vehicle (“EV”) charging and discharging to support a more reliable, efficient,
+and affordable electric grid. VGIC supports Ford’s request for a Declaratory Order clarifying the
+applicability of the Commission's Interconnection Rules to systems using Home Backup Power
+(“HBP”) or disabled Home Power Management (“HPM”) features.
+II. COMMENTS
+VGIC has engaged closely with automakers, utilities, third-party testing laboratories, EV
+charging equipment manufacturers, vehicle-grid integration (“VGI”) aggregators and service
+providers, policy-makers, non-profit organizations, and academics since 2020 on the topic of
+bidirectional charging systems, including through the development of its V2X Bidirectional
+Charging Systems: Best Practices for Service Connection or Interconnection.1 Based on this
+experience, the Commission granting Ford’s request through a Declaratory Order would
+constitute a reasonable formalization and confirmation of an existing best practice already
+implemented and, in some cases, clarified, in other markets. VGIC agrees with the Petition’s
+assertion that HBP feature is not an “interconnection resource” because it operates in a “break-
+before-make” fashion, physically isolating the home from the grid before discharging power. As
+noted in the Petition, the Electric Power Research Institute (“EPRI”) conducted laboratory
+assessments confirming that the system provides backup power only after the system is properly
+disconnected from the grid. Moreover, this treatment is widely applied to existing home backup
+1 V2X Bidirectional Charging Systems: Best Practices for Service Connection or Interconnection. August 2022.
+https://www.vgicouncil.org/s/VGIC-Special-Initiative-2022.pdf
+1
+
+systems operating in a break-before-make configuration. Because these systems are physically
+incapable of backfeeding the grid during operation, they cannot impact power quality or safety.
+Classifying such verified, isolated systems as “interconnection resources” would impose
+administrative burdens without providing any grid safety benefit. As transportation
+electrification is expected to continue growing in Colorado, the unnecessary paperwork and
+administrative burden of completing and processing interconnection applications, along with the
+associated costs, including any application fees, for both the utility and the customer, must be
+considered. Without technical merit to justify these soft costs and/or application fees, they would
+serve only to create barriers to customer adoption with no incremental grid safety benefit.
+Additionally, regarding Ford’s HPM feature (which supports grid-parallel bidirectional
+charging), Ford clarifies that the hardware is sold with this feature disabled. Activation requires a
+strict three-phase process: (1) Eligibility, (2) Interconnection & Onboarding, and (3) Final
+Activation.
+VGIC supports the position that latent hardware capabilities should not trigger interconnection
+rules. Regulation should focus on active capabilities. Ford’s process ensures that the utility is
+notified and an interconnection agreement is signed before the device is enabled for parallel
+operation. This, too, echoes the existing paradigm for other customer-sited distributed energy
+resources, such as rooftop solar or stationary energy storage, which do not enter grid-parallel
+operation until the utility grants an interconnection agreement. Requiring interconnection filings
+for disabled hardware would unnecessarily and significantly bottleneck EV deployment in
+Colorado.
+Lastly, VGIC notes that granting this Petition would align Colorado with other leading
+regulatory jurisdictions. For example, the Michigan Public Service Commission recently issued a
+declaratory ruling finding that Ford’s HBP feature does not require interconnection authorization
+because it prevents parallel operation. Building this type of consistency across jurisdictions is
+critical to reducing friction in the relatively nascent VGI solutions market, ensuring EVs remain
+a valuable, safe, environmentally friendly, and relatively inexpensive backup power option for
+Coloradoans.
+III. CONCLUSION
+VGIC respectfully requests that the Commission grant the Petition and issue the four
+determinations requested by Ford, affirming that its isolated backup systems and disabled grid-
+parallel features do not trigger interconnection requirements.
+Respectfully submitted,
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council (VGIC)
+2
+
+vgicregulatory@vgicouncil.org
+(279) 895-7855
+www.vgicouncil.org
+3

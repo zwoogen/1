@@ -1,0 +1,180 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF NEVADA
+Application of Nevada Power Company d/b/a Docket No. 25-12031
+NV Energy, filed under Advice Letter No. 562,
+to revise Tariff No. 1-B to modify Generating
+Facility Interconnections Rule No. 15 pursuant
+to the Order issued in Docket No. 24-05041
+Application of Sierra Pacific Power Company Docket No. 25-12032
+d/b/a NV Energy, filed under Advice Letter
+No. 689-E, to revise Tariff No. 1 to modify
+Generating Facility Interconnections Rule No.
+15 pursuant to the Order issued in Docket No.
+24-05041
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+PROPOSED RULE NO. 15
+Pursuant to the guidance provided in Procedural Order No. 1, issued February 13, 2026 by
+Commissioner and Presiding Officer Tammy Cordova, the Vehicle-Grid Integration Council
+(“VGIC”) respectfully submits reply comments on NV Energy’s Proposed Rule No. 15.
+I. INTRODUCTION.
+VGIC is a national 501(c)6 member-based advocacy group committed to advancing the
+role of vehicle-grid integration (“VGI”) through policy development, education, and research.
+VGIC aims to ensure the value from flexible EV charging and discharging is recognized and
+compensated to achieve a more reliable, affordable, and efficient electric grid. VGIC’s members
+include automotive original equipment manufacturers (“OEMs”), EV charging station
+manufacturers, EV charging site developers, distributed energy resource (“DER”) aggregators, EV
+charging station installers, operations, and maintenance providers, EV and charging station
+hardware suppliers, and publicly-owned electric utilities.
+1
+
+II. THE PROPOSED RULE SHOULD BE REVISED TO CORRECT ERRORS
+RELATED TO THE DEFINITION OF VEHICLE-TO-GRID (V2G) EV.
+The Proposed Rule 15 would define “Vehicle-to-Grid (V2G) EV” on sheet 93M as:
+“An EV that has the bidirectional transfer of electricity between it and the Utility’s
+Distribution System enabled through Certified bidirectional EVSE for V2G-AC, or
+an onboard inverter for V2G-DC, and that operates in Parallel Operation with the
+Utility’s Distribution System. V2G operation may include charging from the
+Utility’s Distribution System, discharging to serve all or a portion of onsite Host
+Load, and/or Exporting to the Utility’s Distribution System. For purposes of this
+Rule, a V2G EV (meaning that its V2G operational mode is enabled) is considered
+an ESD.”
+This proposed definition is technically incorrect, as AC bidirectional charging systems convert
+power onboard the vehicle, whereas DC bidirectional charging systems use an inverter offboard
+the vehicle (e.g., in an EVSE or as a separate external wall box). Additionally, the definition
+implies that V2G operation may include “charging from the Utility’s Distribution System,” which
+is unclear, as EV charging is typically treated as load, not generation or energy storage. VGIC is
+unaware of any other utility or utilities commission that has included or proposed to include
+language in its definitions that deems EV charging “V2G operation,” including in California,
+Connecticut, Maryland, New Mexico, New York, and Texas. With these errors in mind, VGIC
+recommends the following alternative language be adopted:
+“An EV that has enabled the bidirectional transfer of electricity between it and the
+Utility’s Distribution System enabled through Certified bidirectional EVSE for
+V2G-DCAC, or an onboard inverter for V2G-ACDC, and that operates in Parallel
+Operation with the Utility’s Distribution System. V2G operation may include
+charging from the Utility’s Distribution System, discharging to serve all or a portion
+of onsite Host Load, and/or Exporting to the Utility’s Distribution System. For
+purposes of this Rule, a V2G EV (meaning that its V2G operational mode is
+enabled) is considered an ESD.”
+III. ATTACHMENT 1 CONFIGURATIONS SHOULD BE CORRECTED TO
+APPROPRIATELY TREAT BREAK-BEFORE-MAKE BIDIRECTIONAL
+2
+
+CHARGING SYSTEMS AND REMAIN INTERNALLY CONSISTENT WITH
+OTHER BREAK-BEFORE-MAKE ENERGY STORAGE DEVICES.
+Attachment 1 at PUC Sheet No. 93AZ(12) aims to detail various configurations and use
+cases. The guidance details that a break-before-make resource is not subject to Rule 15. This is
+consistent with VGIC’s understanding of Rule 15 and Rule 19. However, at PUC Sheet No.
+93AZ(14), the guidance states that bidirectional charging systems using the same break-before-
+make configuration are subject to Rule 15. The Proposed Rule 15 offers no explanation, nor is
+VGIC aware of any precedent in other states, for applying this treatment for bidirectional charging
+systems. Additionally, Proposed Rule 15 does not explain why this requirement is imposed on
+bidirectional charging systems but not on other resources, such as stationary Energy Storage
+Devices. Given the absence of a clear rationale for this requirement either in Attachment 1 or
+elsewhere in the Proposed Rule 15, VGIC respectfully urges that the Proposed Rule 15 be revised
+to clarify that these break-before-make bidirectional charging systems do not need to be subject to
+Rule 15. With this in mind, VGIC recommends the following alternative language:
+Bidirectional Yes, No Export while No No Rule 15
+EVSE or V2G Interconnected grid-connected Yes Application
+EV configured and Parallel (discharging required. Subject
+for V2G Operation but only in islanded to Rule 19.
+operation, V2G EV acts Microgrid or Rule 15
+discharging will solely as load backup mode) Application.
+not occur while when charging
+connected to the
+grid, but
+discharging will
+occur during
+Islanded
+Microgrid or
+backup mode
+following Break-
+before-Make
+3
+
+IV. CONCLUSION.
+VGIC’s appreciates the opportunity to submit these reply comments and looks forward to
+future collaboration with the Commission and parties in this proceeding.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: May 15, 2026
+4
+
+CERTIFICATE OF SERVICE
+I hereby certify that I have on this date caused the above “REPLY COMMENTS OF
+THE VEHICLE-GRID INTEGRATION COUNCIL ON PROPOSED RULE NO. 15” to be
+served pursuant to the laws of the State of Nevada by electronic mail (e-mail) to all persons with
+a valid e-mail address on the below service list.
+Executed May 15, 2026 at Sacramento, California
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+(279) 895-7855
+vgicregulatory@vgicouncil.org
+zwoogen@vgicouncil.org
+Service List
+Aaron Schaar aaron.schaar@nvenergy.com
+NV Energy
+Jennifer Fedinec jfedinec@nvenergy.com
+NV Energy
+Roman Borisov roman.borisov@nvenergy.com
+NV Energy
+Angel De Fazio angel@ntef-usa.org
+National Toxic Encephalopathy Foundation
+Angel De Fazio info@nvestopsmartmeters.info
+NV Energy Stop Smart Meters
+Angel De Fazio info@pucwatchdogs.com
+PUCN Watch Dogs
+Angel De Fazio ntefusa@aol.com
+1
+
+Angel De Fazio
+Fred Voltz zebedee_177@yahoo.com
+Fred Voltz
+Midhat Mafazy midhatm@irecusa.org
+IREC
+NV Energy Regulatory Dept regulatory@nvenergy.com
+NV Energy
+Seth Goldman sgoldman@smwlaw.com
+Shute Mihaly & Weinberger LLP (for
+Interstate Renewable Energy Council)
+Yochanan Zakai yzakai@smwlaw.com
+Shute Mihaly & Weinberger LLP (for
+Interstate Renewable Energy Council)
+Amanda Sanchez alsanchez@hollandhart.com
+Holland & Hart LLP (for Solar Energy
+Industries Association)
+Joan White jwhite@seia.org
+Solar Energy Industries Association
+Traci Cunningham tncunningham@hollandhart.com
+Holland & Hart LLP (for Solar Energy
+Industries Association)
+Lucas Foletta lmfoletta@hollandhart.com
+Holland & Hart LLP (for Solar Energy
+Industries Association)
+Will Gehl wgehl@seia.org
+Solar Energy Industries Association
+Andrew Schwartz anschwartz@tesla.com
+Tesla, Inc.
+Curt Ledford crl@dvclaw.com
+Davison Van Cleve, PC (for Tesla)
+Vehicle-Grid Integration Council vgicregulatory@vgicouncil.org
+2
+
+Vehicle-Grid Integration Council
+Zach Woogen zwoogen@vgicouncil.org
+Vehicle-Grid Integration Council
+Attorney General’s Bureau of Consumer bcpserv@ag.nv.gov
+Protection
+Michael Saunders msaunders@ag.nv.gov
+Bureau of Consumer Protection
+Staff Counsel Pucn.sc@pucn.nv.gov
+scassity@puc.nv.gov
+dlomoljo@puc.nv.gov
+tsundheim@puc.nv.gov
+3

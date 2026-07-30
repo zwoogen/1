@@ -1,0 +1,208 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+05/11/26
+Order Instituting Rulemaking on Rulemaking 26-04-009
+04:59 PM
+California Advanced Electric Rate (Filed April 9, 2026)
+R2604009
+Design.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ORDER INSTITUTING RULEMAKING ON CALIFORNIA ADVANCED
+ELECTRIC RATE DESIGN
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: May 11, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 25-09-004
+Enhance Demand Response in (Filed September 18, 2025)
+California.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ORDER INSTITUTING RULEMAKING ON CALIFORNIA ADVANCED
+ELECTRIC RATE DESIGN
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Order Instituting Rulemaking on California Advanced Electric Rate Design
+(“OIR”), issued on April 9, 2026.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to provide comments on the OIR on California
+Advanced Electric Rate Design. California is entering a new phase of electrification in which
+customer-sited distributed energy resources (“DERs”), including electric vehicles (“EVs”),
+behind-the-meter batteries, and flexible loads, will play an increasingly important role on the
+electric grid. Ensuring that rate signals are shaping these resources to meet grid needs is critical
+for supporting grid reliability, affordability, and decarbonization goals.
+Not only is it important to shape the consumption of electricity, but it is equally important
+to shape the increasing number of exports from these resources. Bidirectional EVs in particular
+represent a rapidly growing and largely untapped grid resource. The California Energy
+Commission (“CEC”) has estimated that EV battery capacity on California roads already exceeds
+the state’s installed stationary storage capacity and highlights bidirectional EV discharge as the
+1
+
+single largest source of demand flexibility. 1 At the same time, the Commission’s recent decision
+in Southern California Edison Company’s (“SCE”) General Rate Case (“GRC”) Phase 2
+proceeding highlighted the absence of a consistent statewide framework for export compensation
+and raised broader policy questions surrounding export rate design. 2 Currently, export
+compensation structures are fragmented across technologies, utility pilots, and individual
+proceedings, creating uncertainty for customers, the bidirectional EV industry, and utilities.
+Without clear export compensation pathways, customers and technology providers are
+likely to optimize these resources entirely for private customer benefits, such as self-consumption
+and backup power, rather than for broader grid needs. This risks leaving substantial system value
+unrealized and undermining California’s affordability and reliability objectives. Conversely, well-
+designed export compensation structures can help align customer behavior with system needs,
+encourage flexible load shaping, and unlock significant grid value from customer resources.
+For these reasons, VGIC believes this proceeding presents an important opportunity for the
+Commission to establish a more holistic framework for export rate design in California and we
+recommend that the Commission expand this proceeding to consider the issues highlighted in our
+comments below.
+II. BACKGROUND & INTEREST IN PROCEEDING.
+VGIC is a 501(c)6 member-based advocacy group committed to advancing the role of EVs
+and vehicle-grid integration (“VGI”) through policy development, education, outreach, and
+research. VGIC supports the transition to a decarbonized transportation and electric sector by
+1 California Energy Commission. A Roadmap to Unlocking the Benefits of Bidirectional Charging. March
+2026. Page 2. https://efiling.energy.ca.gov/GetDocument.aspx?tn=268952&DocumentContentId=106145
+2 D.26-04-033 at 49.
+2
+
+ensuring the value from flexible EV charging and discharging is recognized and compensated to
+achieve a more reliable, affordable, and efficient electric grid. VGIC’s members include
+automotive original equipment manufacturers (“OEMs”), EV service providers (“EVSPs”), DER
+aggregators, EV charging site developers, publicly owned electric utilities, and Community Choice
+Aggregators.
+EVs can provide critical load flexibility in California and rate design has a huge impact on
+charging and dispatch behaviors for these vehicles. As EV adoption in the state grows, these large
+batteries on wheels have the potential to be a significant flexible load resource, shifting load
+between different times and providing energy to customers and the grid via bidirectional
+capabilities. VGIC, therefore, holds a direct interest in modifications to rate design affecting EVs.
+VGIC has been an active party in the previous rulemakings on advanced rate design, DERs, and
+demand flexibility such as R.22-07-005, R.21-06-017, and R.25-09-004.
+III. COMMENTS ON THE PROPOSED SCOPE AND SCHEDULE - QUESTIONS
+FOR PARTY COMMENT.
+3.3.1 Please provide comments on the list of preliminary issues. Are there any missing
+issues?
+VGIC strongly believes that the rate design for customer exports should be discussed in this
+proceeding. There are now a wide variety of DERs that can provide exports to the grid, including
+bidirectional EVs, which are poised to be the largest distributed resource in the state of California.
+These resources can provide immense grid value, but currently there is no unified framework for
+export rate design. Instead, the Commission has addressed export rate proposals within the context
+of technology-specific programs, such as Net Energy Metering, or in utility-specific applications
+and pilots, such as San Diego Gas and Electric’s (“SDG&E”) Dynamic Export Rate Pilot and
+Pacific Gas and Electric’s (“PG&E”) Hourly Flex Pricing pilot. However, discussing export rate
+3
+
+design in various venues has led to a fractured approach to exports in California and does not
+ensure that customer exports are being compensated appropriately across service territories and
+technology types.
+Most recently, in Southern California Edison’s (“SCE”) General Rate Case Phase 2,
+Application (“A.”) 24-03-019, the Commission denied an export rate designed for EVs, raising
+issues surrounding broader policymaking for exports in California. The Commission highlighted
+a desire to consider broader export ratemaking policy before adopting an EV export rate. In
+particular, the Commission highlighted three areas that need further evaluation, “(1) the accuracy
+and cost-effectiveness of [Avoided Cost Calculator (“ACC”)]-based, versus real-time marginal-
+cost-based, credits in reflecting marginal costs; (2) customer preferences and behaviors regarding
+export rates; and (3) customer and broader distributed energy resource export flexibility under
+different compensation structures.”3 All of these issues are not unique to one utility or technology
+type and would be appropriately considered in this proceeding.
+VGIC recommends that an additional issue on customer exports be added to the scope of
+this proceeding. Within this issue, the following questions should be addressed:
+“How should export compensation rates be structured to more accurately reflect the value of
+customer exports? What export compensation structures best incentivize customer flexibility,
+and how should rates be designed to maximize the grid benefits of distributed energy resource
+exports?”
+This will allow the Commission to design holistic export rates and ensure that California is moving
+towards appropriate compensation to unlock load flexibility.
+3 D.26-04-033 at 49.
+4
+
+Additionally, many customers are adopting multiple resources that have the potential to export.
+While solar customers have traditionally used Net Energy Metering (“NEM”) and Net Billing
+Tariffs (“NBT”), it can be complicated to add other exporting DERs, including bidirectional EV
+charging systems. Currently, this requires using the NEM or NBT Multiple Tariff provisions,
+which requires the addition of a Net Generation Output Meter (“NGOM”). NGOMs can vary in
+their cost, but NGOM installations cost often over $1,000-$2,000 for even small residential
+customers. This has posed a major barrier for the deployment of bidirectional charging systems.
+There are several available solutions to address this challenge, but no existing proceeding in which
+to consider them. This proceeding should discuss not only export rate design but also how to best
+implement these rates, including any relevant metering requirements for multi-DER sites.
+3.3.2 Please provide comments on the schedule. Should this proceeding initially focus on
+only a portion of the preliminary issues? If so, which issues should be addressed first
+and why?
+Within the proposed schedule, the Commission outlines a workshop that would be held in
+this proceeding in Q2 of 2026 but does not specify a topic for the workshop. VGIC recommends
+that issues surrounding export rate design be discussed at this workshop.
+3.3.3 What changes or updates are needed to improve the income verification processes
+used for the Base Services Charge (formerly the income-graduated fixed charge), as
+adopted in D.24-05-028? Please refer to the Process Working Group Final Report,
+served to the R.22-07-005 Service List on January 15, 2026, and included as
+Attachment A to this OIR.
+VGIC has no position on this topic at this time but may provide additional information in reply
+comments.
+3.3.4 Are there any statutory interpretation issues of the Public Utilities Code that were
+not resolved in R.22-07-005 and should be considered in this proceeding regarding
+the Base Services Charge, reform of residential rates to better reflect cost causation,
+5
+
+or regarding the interplay between the California Alternate Rates for Energy (CARE)
+program and the Base Services Charge?
+VGIC has no position on this topic at this time but may provide additional information in reply
+comments.
+3.3.5 AB 205 amended Pub. Util. Code Section 739.9(c) to eliminate the requirement that
+the Commission “require each electrical corporation to offer default rates to
+residential customers with at least two usage tiers.” Is it consistent with Public
+Utilities Code for the Commission to consider adopting default time-of-use rates that
+do not include usage tiers?
+VGIC has no position on this topic at this time but may provide additional information in reply
+comments.
+3.3.6 What rate designs and tariff service agreement terms have been adopted in other
+states or regions for data center customers? Have other states or regions created a
+separate customer class for data center customers? Should these rates be applicable
+in California? If so, how?
+VGIC has no position on this topic at this time but may provide additional information in reply
+comments.
+3.3.7 What rate designs have been adopted in other states or regions for other large load
+customers, including for industrial heat process producers and large commercial
+hydrogen generation, to support electrification, beneficial load growth and load
+flexibility? Should these rate designs be applicable in California? If so, how?
+VGIC has no position on this topic at this time but may provide additional information in reply
+comments.
+3.3.8 Should the Commission authorize the Proposal for Consultant Contract provided in
+Attachment B? Should any amendments to the proposal be made?
+VGIC has no position on this topic at this time but may provide additional information in reply
+comments.
+6
+
+IV. CATEGORIZATION, AND NEED FOR HEARINGS.
+VGIC supports the categorization of this proceeding and agrees with the preliminary
+determination that hearings may be necessary.
+V. NOTICES.
+Service of all notices and communications in this proceeding should be directed to the
+following VGIC representative:
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+VI. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the OIR. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: May 11, 2026
+7

@@ -1,0 +1,222 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+05/29/26
+Order Instituting Rulemaking to Update Rulemaking 25-08-004
+04:59 PM
+Distribution Level Interconnection (Filed August 14, 2025)
+R2508004
+Rules and Regulations.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ASSIGNED COMMISSIONER’S SCOPING MEMO AND RULING
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (279) 895-7855
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: May 29, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Update Rulemaking 25-08-004
+Distribution Level Interconnection (Filed August 14, 2025)
+Rules and Regulations.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ASSIGNED COMMISSIONER’S SCOPING MEMO AND RULING
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Assigned Commissioner’s Scoping Memo and Ruling (“Scoping
+Memo”), issued by President Alice Reynolds on March 3, 2026, as modified by the Email Ruling
+Granting Extension for Comments, Motion to Late File NOI, and Motions for Party Status issued
+by Administrative Law Judge Andrew Dugowson.
+I. INTRODUCTION.
+VGIC appreciates opening comments from parties on improvements to Rule 21 and Phase
+1 issues. As California continues to advance transportation electrification, updates to Rule 21 will
+play an increasingly important role in enabling bidirectional electric vehicle (“EV”) charging
+systems to meet grid needs.
+In this proceeding, VGIC looks forward to further improvements to Rule 21 that will better
+enable the interconnection of distributed energy resources (“DERs”) and bidirectional charging
+systems. In Opening Comments on the Scoping Memo, parties broadly discussed opportunities to
+streamline interconnection processes for simpler projects, particularly non-export systems.1 VGIC
+1 Advanced Energy United Opening Comments at 2; Electrify America Opening Comments at 4-6; PG&E
+Opening Comments at 17; Tesla Opening Comments at 5-12.
+1
+
+supported these efforts in comments on the Order Instituting Rulemaking and encourages the
+Commission to continue prioritizing streamlined review pathways and updates to technical
+requirements that can improve interconnection efficiency while maintaining safety and reliability
+standards. This effort may also include further clarification and refinement of bidirectional
+charging system configurations and operational definitions. To the extent these issues cannot be
+fully addressed during this phase of the proceeding, the Commission should prioritize more
+detailed discussion of interconnection streamlining and technical requirement updates in Phase 2.
+In Phase 1 of this proceeding, the Commission should ensure that interconnection processes
+and fees appropriately reflect the operational characteristics and grid impacts of these technologies
+and avoid creating unnecessary barriers to deployment. In these reply comments, VGIC provides
+the following comments:
+• Small non-NEM bidirectional charging systems should use the existing NEM / NBT
+interconnection fee.
+• The Commission should clarify that isolated, backup-only bidirectional systems and load-
+only EV systems with disabled grid-parallel features2 are not subject to Rule 21
+interconnection requirements.
+II. SMALL NON-NEM BIDIRECTIONAL CHARGING SYSTEMS SHOULD USE
+THE EXISTING NEM / NBT INTERCONNECTION FEE.
+In Opening Comments, VGIC recommended that the Commission set the interconnection
+application fee for non-NEM bidirectional charging systems equal to the interconnection fee
+2 Load-only EV systems with disabled grid-parallel features are defined as systems that have the hardware
+necessary to operate in parallel with the grid, but they cannot and do not operate in parallel with the grid
+because they are prevented from doing so due to software controls and/or software locks. These systems
+operate solely as load-only, EV charging resources.
+2
+
+currently in place for small NEM systems. Other parties made similar recommendations, with
+Tesla and CALSSA explicitly recommending that the non-NEM interconnection application fee
+align with the current NEM amounts.
+These recommendations were made largely because of similarities between small NEM
+and non-NEM systems. Tesla notes that “a residential non-exporting solar-plus-storage addition,
+a residential standalone storage system or a V2G interconnection application has more in common
+and probably should be directed to the same group and leverage the same review processes as
+NEM/NBT projects.”3 CALSSA similarly notes that, “Such projects are not technically more
+complex and do not create any novel risks to the grid. Many of the same processes used to evaluate
+residential-scale NEM/NBT systems can be applied to evaluate smaller-scale V2G and exporting
+standalone storage systems.”4 SEIA also proposes to eliminate the differentiation between NEM
+and non-NEM projects and agrees that “Given the comparability of those projects both in terms of
+scale/complexity and potential grid impacts disparate fees are not warranted.” 5
+Currently, grid-parallel, bidirectional charging systems are treated under Rule 21 as a form
+of energy storage because they use the same battery technology as stationary energy storage.
+Namely, bidirectional charging systems use UL 1741 SB-certified systems: 1) The Ford Charge
+Station Pro + Home Integration System, 2) GM Energy PowerShift Charge + V2H Enablement
+Kit, 3) dcbel Ara, 4) Wallbox Quasar 2, 5) Nuvve TP-60DC-V2G-H1-C, Nuvve TP-40DCV2G-
+H1-C, and Nuvve TP-20DC-V2G-H1-C, 6) InCharge Energy ICE-22-V2X, InCharge Energy
+ICE44-V2X, InCharge Energy ICE-66 V2X, and InCharge Energy ICE-132 V2X, 7) Tellus Power
+TP-V2G-60-480, Tellus Power TP-V2G-40-480, Tellus Power TP-V2G-30-480, and Tellus Power
+3 Tesla Opening Comments at 15.
+4 CALSSA Opening Comments at 19.
+5 SEIA Opening Comments at 65.
+3
+
+TP-V2G-20-480 bidirectional charging systems are all certified to UL 1741 SB.6 In addition, the
+Tesla Powershare Grid Support system, leveraging the Tesla Universal Wall Connector, now
+meets IEEE 1547-2018 via a new UL 1741 SB Certification Requirements Decision (“CRD”) in
+April 2026.7 These systems are not only certified to the same standards as stationary storage
+devices, but can even be the exact same models, with companies like Enphase using the same
+inverter models for their residential stationary storage and forthcoming bidirectional charger
+products.8 These certifications and inverter similarities ensure that bidirectional charging systems
+operate with the same safety and reliability features that utilities are already very familiar with
+from their processing of stationary storage and solar interconnections.
+Given the similarities between these products, utilities should require similar levels of
+review effort and associated costs for interconnection applications for NEM / NBT systems, non-
+NEM/NBT stationary storage, and grid-parallel bidirectional charging systems. The Commission
+should therefore adopt a fee structure for small bidirectional charging systems that aligns with
+existing NEM interconnection application fees and directs utilities to process these projects
+through comparable residential storage review pathways.
+In Opening Comments, VGIC recommended that, if the Commission wishes to set the
+interconnection fee for bidirectional charging systems based on the costs of installing those
+systems, it should do so only after reaching a specified threshold. Specifically, VGIC
+6 See: California Energy Commission V2G Equipment List
+https://v2gel.energy.ca.gov/Home/ProcessView. Accessed April 13, 2026; GM Energy Inverter
+Specifications. https://gmenergy.gm.com/content/dam/gmenergy/na/us/en/index/01-pdfs/gm-energy-
+inverter-specifications.pdf
+7 UL, Certificate Performance of Grid Interactive Equipment and Systems for Tesla, Inc.:
+https://energylibrary.tesla.com/docs/Public/More/ProductCertificationInformation/Powershare_UL1741_
+VoC.pdf
+8 Enphase uses IQ microinverters for their stationary storage and bidirectional products. See the IQ
+Bidirectional EV Charger specifications: https://enphase.com/download/iq-bidirectional-ev-charger-data-
+sheet; IQ Battery 5P specifications: https://enphase.com/en-au/download/iq-battery-5p-anz
+4
+
+recommended that this shift should be triggered after surpassing 10,000 total completed small non-
+NEM bidirectional charging system interconnection applications across all three IOUs.
+However, given the similarities between stationary and mobile storage highlighted by
+parties in Opening Comments, VGIC modifies its recommendation and instead recommends that
+any reevaluation of interconnection fees occur after utilities collectively process 10,000 completed
+small non-NEM energy storage interconnection applications across all three IOUs (including non-
+NEM additions to NEM projects). Because bidirectional charging systems are operationally and
+technologically like stationary storage systems, the utility experience processing small energy
+storage interconnection applications is a more appropriate benchmark than experience limited
+solely to bidirectional EV charging systems.
+If interconnection fees are set equally for all types of energy storage, it will also be
+important for the Commission to evaluate differences in review complexity and cost between
+projects of different sizes, as highlighted by parties in Opening Comments.9 The Commission
+should therefore ensure that any future fee structure appropriately reflects the actual review
+burdens associated with residential-scale projects and does not impose disproportionate costs on
+smaller customer-sited systems.
+III. THE COMMISSION SHOULD CLARIFY THAT BACKUP-ONLY
+BIDIRECTIONAL SYSTEMS AND LOAD-ONLY EV SYSTEMS WITH
+DISABLED GRID-PARALLEL FEATURES ARE NOT SUBJECT TO RULE 21
+INTERCONNECTION REQUIREMENTS
+In Opening Comments, Ford highlighted the current confusion surrounding the
+applicability of Rule 21 to systems being used solely for charging and/or backup power. As Ford
+explains, the Commission has previously discussed that systems operating only for charging and/or
+9 PG&E Opening Comments at 20; SEIA Opening Comments at 64-65; Tesla Opening Comments at 12-
+13.
+5
+
+backup power in a break-before-make configuration are not intended to proceed through the Rule
+21 interconnection process.10 Instead, backup power customers are generally expected to provide
+notification to the utility that a backup generator is being installed. However, utilities currently
+route these notifications through their Rule 21 portals in ways that can be difficult for customers
+and installers to navigate.
+Ford highlights that PG&E’s portal requires users to click through the page as if they are
+submitting a Rule 21 application before selecting a “Standby Emergency Generator” option.11 SCE
+similarly requires a Rule 21 application process to be initiated before users can select an “Isolated
+Backup Power” option.12 Although these processes appear to function as notification pathways
+rather than actual Rule 21 applications, their placement within Rule 21 interconnection portals
+creates unnecessary confusion for customers and installers.
+Neither PG&E nor SCE appears to be charging the $800 interconnection application fee
+for these break-before-make backup power generators, and these projects do not proceed through
+the Rule 21 evaluation and study process. VGIC commends the utilities for applying this
+appropriate treatment. However, as Ford notes, the current structure “leaves the possibility for
+customers and installers of backup power systems to inadvertently bin themselves into categories
+that would improperly apply the fees and additional processes required by interconnection, which
+is intended for parallel operation use cases.”13
+10 Ford Opening Comments at 5-6.
+11 Ford Opening Comments at 6.
+12 See SCE Form 14-732:
+https://edisonintl.sharepoint.com/:b:/t/Public/Misc/ER_UWBusgIlPqlrMiOJLXpAB4djEWq4hq_pVJ7hb
+WEnsFw?e=RuGxTc
+13 Ford Opening Comments at 7.
+6
+
+This confusion could create unnecessary barriers to the adoption of backup power and
+bidirectional charging technologies by causing customers and installers to incorrectly believe they
+must complete full Rule 21 interconnection processes or incur substantial fees for systems intended
+solely for backup operation during outages. Clearer guidance and processes would significantly
+reduce customer uncertainty, minimize administrative burdens, and support broader
+deployment of electric vehicles and resiliency technologies.
+Although current rules already indicate that load-only EV systems with disabled grid-
+parallel features and break-before-make, backup-only systems do not need to proceed through Rule
+21 interconnection review, VGIC agrees with Ford that the Commission should explicitly clarify
+in this proceeding that the following systems are not required to submit Rule 21
+interconnection applications or pay Rule 21 interconnection application fees: 1) load-only
+EV systems that operate as load but have disabled grid-parallel features; and 2) backup
+generators, including bidirectional charging systems, enabled in bidirectional mode only
+when isolated from the grid.
+In addition, utilities should revise and clarify their customer-facing forms and processes to
+ensure that load-only EV systems with disabled grid-parallel features and backup-only systems are
+clearly distinguished from systems intended to operate in parallel with the grid. Furthermore,
+VGIC recommends that utilities more explicitly outline backup power notification processes on
+their websites and either establish separate backup power notification portals or provide a clear
+“backup power” selection option on the first page and/or initial guidance of the Rule 21 portal.
+Standardized and transparent processes and guidance across all IOUs would reduce customer
+confusion and help ensure that backup-only systems are not inadvertently subjected to
+inappropriate interconnection requirements.
+7
+
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Scoping Memo. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: May 29, 2026
+8

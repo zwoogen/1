@@ -1,0 +1,396 @@
+July 17, 2026
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission to Regarding Electric
+Vehicle Supply Equipment and Infrastructure.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL (VGIC)
+ON JOINT UTILITIES COMPREHENSIVE RESIDENTIAL MANAGED CHARGING
+REPORT
+I. INTRODUCTION
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based trade
+association committed to advancing vehicle-grid integration (VGI) through policy development,
+education, and research. VGIC aims to ensure that the value of flexible EV charging and
+discharging is recognized and compensated, thereby achieving a more affordable, reliable, and
+efficient energy future. Established in 2020, VGIC represents 35 members1, including
+automotive original equipment manufacturers (OEMs), leading electric vehicle service providers
+(EVSPs) and aggregators, electric vehicle supply equipment (EVSE) manufacturers and site
+developers, and non-investor-owned utilities. VGIC prioritizes collaborative engagement with all
+VGI champions and remains business model- and technology-agnostic in pursuing its mission.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Ford Motor Company,
+General Motors, Nissan Group of North America, Bidirectional Energy, BMW of North America LLC, bodeEV,
+ChargePoint, ChargeScape, Codibly Inc., Critical Loop, dcbel, Eaton Corporation, EnergyHub, Enphase,
+EV.Energy, Fermata Energy, Mercedes-Benz Research & Development North America, Inc., Orange Charger, Inc.,
+Renew Home, Rivian, Stellantis, SWTCH Energy Inc., Tesla, The Mobility House, Toyota Motor North America,
+Inc., UL Solutions, WeaveGrid, Clean Power Alliance, Connecticut Green Bank, Los Angeles Department of Water
+and Power, Marin Clean Energy, San Diego Community Power, Sacramento Municipal Utility District, and Salt
+River Project. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views
+of all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+VGIC appreciates the opportunity to comment on the Joint Utilities’ (JU) Comprehensive
+Residential Managed Charging Report (JU Report), filed March 16, 2026.
+II. VGIC COMMENTS ON THE JOINT UTILITIES’ RECOMMENDATION #1.
+VGIC agrees that utilities should explore more advanced objectives, including “dynamic
+alignment” and “supply cost optimization and alignment with periods of low-carbon or
+renewable energy supply.”2 The JU Report states that managed charging, including both passive
+programs and active programs, “consistently deliver grid value.”3 They further report on the
+value of active managed charging programs, detailing its ability to “…offer more precise control
+to deliver more value…”4 However, the JU Report points to limited opportunities to use the
+active charge management capabilities to deliver additional value, such as through dynamic
+alignment with low-supply cost hours or low-carbon/high-renewable periods.5
+The JU’s findings regarding the value of active managed charging and vehicle-grid
+integration programs, aligned with more dynamic signals and co-optimization with
+decarbonization objectives, are consistent with the extensive existing literature from other
+programs and studies. A recent report published by VGIC and the Smart Electric Power Alliance
+(SEPA), developed jointly with leading automakers, charger manufacturers, aggregators, and
+utilities, provides a summary list of key relevant studies, included below in Table 1.
+Table 1. Recent VGI Studies and Analysis from Valuing Vehicle-Grid Integration Programs6
+Title Author Year Published
+A Roadmap to Unlocking the Benefits of Bidirectional California Energy Commission and 2026
+Charging National Laboratory of the Rockies
+Demonstrating the Full Value of Managed Electric Vehicle Brattle 2026
+Charging: Based on a Real-World Trial of EnergyHub's EV
+Solution
+2 JU Report at 20-21.
+3 Id. at 18.
+4 Id. at 19.
+5 Id. at 20.
+6 Fitzgerald et al. Valuing Vehicle-Grid Integration Programs: A Tool for Improving Energy Affordability through
+EV Grid Services. May 2026.
+https://www.vgicouncil.org/s/SEPA324VGICVehicleGridIntegrationProgramsReportFinal.pdf
+2
+
+Residential vehicle-to-grid profits under dynamic pricing: The Stanford University and VW Group 2026
+role of real-world charging behavior
+Distribution Grid Electrification Model 2025 Study and California Public Advocates Office 2025
+Report
+DRAFT Electrification Impact Study Part 2 Pacific Gas & Electric 2025
+Electrification Impacts Study Part 2: Draft Report Southern California Edison 2025
+Harnessing the Power of Electric Vehicles Union of Concerned Scientists 2025
+Impact of electric vehicle charging demand on power Yanning Li and Alan Jenn, UC 2025
+distribution grid congestion Berkeley
+New York's Grid Flexibility Potential: Volume I: Summary Brattle 2025
+Report
+Peak Potential: Load Management for an Affordable Net-Zero Energy + Environmental Economics 2025
+Grid
+PG&E Draft Electrification Impact Study Part 2 Energy + Environmental Economics 2025
+Standard Review Projects and AB 1082/1083 Pilots: Cadmus 2025
+Evaluation Year 2024
+The Utility Playbook: Turning EV Grid Risk into a $30 Brattle 2025
+Billion Opportunity
+Multi-State Transportation Electrification Impact Study National Laboratory of the Rockies, 2024
+Lawrence Berkeley National
+Laboratory, Kevala, and U.S.
+Department of Energy
+The State of Managed Charging in 2024: the Next Iteration: Smart Electric Power Alliance 2024
+Distribution-Level Optimization
+Unlocking the Value of Flexible DERs Energy + Environmental Economics 2024
+Economic Analysis of Vehicle-to-Grid Fleets for Grid Pacific Northwest National 2023
+Services Laboratory
+Quantifying the Financial Impacts of EVs on Utility Lawrence Berkeley National 2023
+Ratepayers and Shareholders Laboratory
+Advanced Rate Designs Harnessing Vehicle-Grid Integration Energy + Environmental Economics, 2021
+Technology Honda
+The value of consumer acceptance of controlled electric UC Irvine and Rochester Institute of 2021
+vehicle charging in a decarbonizing grid: The case of Technology
+California
+3
+
+Final Report of the California Joint Agencies Vehicle-Grid Joint California State Agencies 2020
+Integration Working Group
+Distribution System Constrained Vehicle-to-Grid Services for EPRI 2019
+Improved Grid Stability and Reliability
+EPRI - Open Standards-Based Vehicle-to-Grid: Value EPRI 2019
+Assessment
+The Costs of Revving Up the Grid for Electric Vehicles Boston Consulting Group 2019
+The Potential Electric Grid Benefits of Vehicle-to-Grid Lawrence Livermore National 2018
+Technology in California Laboratory
+The JU Report and the above-listed literature collectively detail clear benefits of maturing
+the portfolio of New York’s managed charging programs. Without clear direction to significantly
+expand the use of active managed charging to unlock greater distribution system optimization
+benefits, implement more dynamic cost optimization, and co-optimize with decarbonization
+goals, these benefits may remain locked away behind existing but latent EV flexibility capability.
+The JU Report recommends the Commission “allow utilities to include program designs
+that incorporate these additional objectives in modifications provided that they align with the
+guidance and categories outlined in Recommendation #4.”7 Rather than merely “allowing”
+utilities to include these program design elements, VGIC recommends the Commission
+explicitly order them to do so in any forthcoming proposals, applications, or utility-led
+program changes. VGIC urges this more direct and prescriptive approach because of the high
+cost of inaction, should a utility opt out of implementing these higher-value capabilities. New
+York’s energy affordability, reliability, and decarbonization future depends significantly on the
+degree to which utilities tap all currently available tools, including unlocking already-deployed,
+customer-owned energy resources like EVs and EVSE.
+III. VGIC COMMENTS ON THE JOINT UTILITIES’ RECOMMENDATION #2.
+The JU Report highlights the utilities’ firsthand experience working with vendors, as well
+as their detailed knowledge of their own capabilities to leverage existing vendors' offerings to
+meet grid needs. The primary goal of managed charging and VGI broadly is to ensure that EV
+7 JU Report at 21.
+4
+
+load flexibility is recognized and compensated to support an affordable, reliable, and
+decarbonized energy future. VGIC offers the comments below to align Recommendation #2 as
+closely as possible with this primary goal.
+Overall, VGIC supports multiple participation pathways and recognizes that these
+multiple pathways offer various benefits and risks. We encourage the utilities to consider the
+relevant tradeoffs when assessing vendors and partners. Customers’ options for participating in a
+managed charging program should reflect a utility’s service territories, program objectives, and
+available technologies. Eligible pathways should include both networked EVSE and vehicle
+telematics, as long as the chosen approaches are capable of reliably meeting managed charging
+program goals. No single pathway will serve every customer, vehicle, charging configuration, or
+use case. Utilities should evaluate available options based on supporting enrollment rates,
+customer access, cost, reliability, functionality, and data quality, and explain their pathway
+selections in their Managed Charging Implementation Plans. This flexibility should not result in
+unnecessarily narrow eligibility that excludes significant numbers of customers or imposes
+undue limits on competition among automakers, charging providers, and program vendors.
+Greater participation pathways can support program scale, thereby increasing program cost-
+effectiveness and, ultimately, supporting New York’s affordability, reliability, and
+decarbonization efforts.
+The JU Report notes:
+Ultimately, program effectiveness is the result of holistically evaluating the available
+program delivery options and associated tradeoffs, considering factors such as customer
+access, cost, reliability, functionality, and data quality when selecting vendors to support
+managed charging programs.8
+VGIC generally agrees with this finding, especially regarding the evaluation of tradeoffs and the
+consideration of functionality. These tradeoffs include the benefits and costs of OEM-authorized
+telematics vs customer-authorized telematics. These approaches may be suitable for different use
+cases, depending on the access to and fidelity of the collected data. As such, the JU and
+Commission should continue detailing the appropriate use cases and tradeoffs for OEM-
+8 JU Report at 24.
+5
+
+authorized telematics vs customer-authorized telematics. Although there is some variation
+among them, OEM-authorized telematics are generally based on defined data schemas, data
+collection methods, and error-handling expectations. Customer-authorized telematics rely on
+customer credentials and endpoints designed to leverage existing consumer apps. Both pathways
+share commonalities, as detailed in the Technical Standards Working Group Report Addressing
+Electric Vehicle Supply Equipment and Telematics Accuracy (TSWG Report), filed September 2,
+2025. First, both pathways leverage the same underlying telematics data sources, though they
+may be structured differently. Second, the vehicle telematics data sources, in general, were not
+historically purpose-built to support managed charging programs or utility use cases. Third, it is
+clearly possible to address certain errors or gaps in the underlying telematics data by processing
+it to make it suitable for use in a managed charging program or utility use cases.
+The tradeoffs across various participation pathways, including networked EVSE, OEM-
+authorized telematics, and customer-authorized telematics, also extend to associated customer
+engagement channels. Leveraging a variety of marketing and enrollment channels provides a
+strong foundation for program scale. Marketing and enrollment can be supported through mobile
+applications, email marketing, dealerships, installer and electrician outreach, and other OEM and
+EVSE channels likely to offer cost-effective pathways to enroll many customers efficiently.
+However, it is important to note that customer engagement tools may not offer an equal
+experience across all participation pathways or even different providers within a single
+participation pathway. As such, choices around customer engagement and enrollment channels
+may ultimately impact the extent and quality of program access, as well as the ability for
+customers to re-access the program after customer- or vendor-induced changes to hardware or
+software.
+Regardless of the chosen participation pathways and associated customer engagement
+channels, significant investment will likely be required to expand enrollment, as the overall state
+of industry- and utility-led customer engagement in managed charging programs remains
+relatively nascent. This same dynamic is found when considering the state of customer education
+for EVs, generally, with Plug In America’s 2026 Annual EV Driver Survey demonstrating EV
+drivers self-report EV-specific websites or forums (78.6%), video reviewers (57.1%), and friends
+6
+
+and family (31.9%) as their top sources of “useful” information.9 Regarding managed charging,
+only about 20% of EV owners reported they received education or advice from dealerships on
+how to optimize home charging in JD Power’s 2026 U.S. Electric Vehicle Experience Home
+Charging Study.10 These findings suggest an overall underperformance in customer engagement
+strategies, including utility-, OEM-, and non-OEM-managed channels. VGIC recommends that
+the utilities consider any relevant trade-offs in customer engagement tools arising from the
+chosen participation pathways.
+As detailed in VGIC’s Comments on the Technical Standards Working Group Report
+Addressing EVSE and Telematics Accuracy and DPS Staff Questions, filed December 8, 2025,
+and our subsequent reply comments filed December 22, 2025,11 we anticipate the reliability, data
+accuracy, and other tradeoffs of vendor offerings, including those highlighted above, will
+become much more important considerations as three factors mature:
+(1) overall program enrollment;
+(2) program focus on distribution system optimization;
+(3) enrollment of customers in dynamic and dispatchable active managed charging
+programs.
+As each of these factors evolves, the operational importance of the programs is likely to increase,
+as will the cost stemming from limited customer access, reliability, functionality, and data
+quality. Similarly, the extent to which the grid relies on managed charging programs can have
+implications for cybersecurity needs. As such, the utilities should also consider the evolving
+performance requirements they demand from vendors, including by leveraging existing customer
+9 Plug In America. 2026 Annual EV Driver Survey. July, 2026. https://pluginamerica.org/wp-
+content/uploads/2026/07/2026-Plug-In-America-EV-Driver-Annual-Survey-Report.pdf
+10 JD Power. EV Home Charging Costs Rise and Satisfaction Falls, but Few EV Owners Take Advantage of Scheduled
+Charging or Smart Chargign Programs, JD Power Finds. March 23, 2026.
+https://www.jdpower.com/business/press-releases/2026-us-electric-vehicle-experience-evx-home-charging-
+study/
+11 See: Comments of the Vehicle Grid Integration Council (VGIC) on the Technical Standards Working Group
+Report Addressing EVSE and Telematics Accuracy and DPS Staff Questions. Case 18-E-0138. December 8, 2025;
+and Reply Comments of the Vehicle Grid Integration Council (VGIC) on the Technical Standards Working Group
+Report Addressing EVSE and Telematics Accuracy and DPS Staff Questions. Case 18-E-0138. December 22, 2025.
+7
+
+data access frameworks used for Green Button Connect, EDI, and similar initiatives. These
+performance requirements may be met by vendors through sufficient data completeness,
+accuracy, latency, and affordability; error handling and continuity of customer experience;
+cybersecurity practices, including those based on NIST standards; ability to support relevant
+measurement and verification requirements; ability to support program goals without
+compromising customer mobility needs; and the pathways’ suitability for the desired use cases,
+including passive managed charging, active managed charging, and bidirectional charging.
+As programs continue to optimize for greater grid services, such as localized distribution
+constraints, deferring or avoiding infrastructure upgrades, improving hosting capacity for
+electrification, and supporting more efficient operation of the distribution grid, the available
+participation pathways and enabling technology integrations should be similarly optimized. With
+this in mind, the VGIC recommends that the Commission direct the JU to clearly define the core
+performance standards and capabilities it seeks, and to use the RFP process to assess and
+compare vendors’ capabilities to meet these standards. In contrast to our comments above on
+Recommendation #1, which urge specificity regarding the goals of managed charging
+programs, our feedback on Recommendation #2 urges providing the JU, who have firsthand
+experience implementing programs, with flexibility in the means to achieve Commission-set
+program goals.
+As overall program enrollment, focus on distribution system optimization, and
+enrollment of customers in dynamic and dispatchable active managed charging programs
+grow, VGIC recommends that the Commission consider prescribing more specific
+standards for customer access, cost, reliability, functionality, and data quality. These
+standards should be closely aligned with related national efforts, including those from standards
+bodies or industry-led efforts, as detailed in VGIC’s Comments on the Technical Standards
+Working Group Report Addressing EVSE and Telematics Accuracy and DPS Staff Questions,
+filed December 8, 2025, and our subsequent reply comments filed December 22, 2025. Adopting
+more specific, fit-for-purpose, and nationally aligned measurement and verification requirements
+that reflect how the data will be used will reduce risk and expand benefits as programs and
+emerging technologies continue to mature.
+8
+
+IV. VGIC COMMENTS ON THE JOINT UTILITIES’ RECOMMENDATION #3.
+VGIC supports establishing an evergreen program structure with triennial review and
+budget cycles. This will send a clear regulatory signal to industry actors, providing market
+certainty and facilitating investment that will enable greater technological capabilities, including
+both managed charging and bidirectional charging solutions. Moreover, program continuity
+mitigates the risk of disrupting customer engagement and, in turn, undermining program goals.
+A triennial review and budgeting cycle strikes an appropriate balance of long-term
+market stability with necessary regulatory oversight and accountability. During these reviews,
+the Commission and other interested parties can assess performance and recommend or adopt
+modifications to budget categories, technology requirements, and/or incentive structures to meet
+evolving grid needs and solution capabilities.
+In addition to the base triennial review and budget cycle, VGIC also recommends the
+Commission grant utilities flexibility to seek off-cycle program and budget modifications if
+participation materially strays from expectations (in either direction) and/or to extend existing
+authorizations if unforeseen policy and regulatory developments threaten the continuity of the
+program lapse. Overall, any material change should remain transparent, data-driven, and subject
+to stakeholder input.
+V. VGIC COMMENTS ON THE JOINT UTILITIES’ RECOMMENDATION #4.
+As detailed above, VGIC supports a triennial review with flexibility to seek off-cycle
+changes. To facilitate efficiency and limit delay, mechanisms for interim or off-cycle program
+updates should also be defined by the Commission. This is needed as technologies, customer
+preferences, and utility program learnings are continually evolving. As such, VGIC supports the
+proposed tiered approach to modifications:
+• Immaterial changes and administrative updates: Adding eligible vehicle or charger
+models, eligible vendors or channels through which customers can enroll, minor
+incentive adjustments within Commission-authorized parameters, and similarly minor
+9
+
+program updates should be implementable without formal Commission or DPS staff
+approval.
+• Department of Public Service (DPS) Staff review: Limited modifications and/or specific
+time-bound pilots or demonstrations, for example, testing new technologies, should
+require only DPS Staff review and approval.
+• Commission approval: Material changes to program objectives, eligibility, or incentive
+structures should remain subject to full Commission review and stakeholder comment.
+This flexibility can reduce administrative burden and allow programs to evolve alongside the
+technology landscape, customer understanding, and utility learnings. Regardless of the approach
+taken, changes should be made apparent on utility- or vendor-maintained program webpages, in
+any interim program reporting, or, if a formal proposal to the Commission, on the docket card.
+VI. VGIC RESPECTFULLY URGES THE COMMISSION TO DIRECT
+UTILITIES TO LAUNCH BIDIRECTIONAL CHARGING OFFERINGS AS A
+SUBSET OF MANAGED CHARGING PROGRAMS IN THE NEAR-TERM.
+Given the immense potential of dispatchable bidirectional charging systems to support
+customer needs, bolster grid reliability, and lower system costs, as well as recent major
+developments aimed at lowering the costs of bidirectional charging equipment, VGIC strongly
+recommends that the Commission direct utilities to launch dispatchable bidirectional
+charging offerings as a subset of managed charging programs.
+Explicitly requiring each utility to propose a near-term bidirectional charging offering
+within its managed charging portfolio will help to unlock latent energy storage capacity for New
+York’s grid. Notably, the long-promised market for bidirectional charging is here today, with 18
+light-duty vehicle models across 9 OEM brands currently offering grid-parallel bidirectional
+charging features, as well as nearly every electric school bus sold in the U.S. over the last 5
+years. New York stands as a stark outlier among its region and peer EV leadership states,
+offering no dispatchable programs that enable bidirectional charging systems to support the grid.
+California (via Emergency Load Reduction Program and Demand Side Grid Support) and
+Massachusetts and Rhode Island (under ConnectedSolutions) have been leveraging dispatching
+10
+
+bidirectional charging systems for years to support real-time grid needs; Colorado and
+Maryland’s approved dispatchable programs – Aggregator Virtual Power Plant and V2G Pilots,
+respectively – support the enrollment of bidirectional charging systems. Customers in Texas
+(under the Aggregated Distributed Energy Resource program) can export power from eligible
+vehicles to dynamically support the grid when needed, while pending proposals in Virginia and
+New Jersey and forthcoming filings in Connecticut and Illinois would enable the same. While
+New York utilities offer static export credits to bidirectional charging customers through the
+Value of Distributed Energy Resources (VDER) tariff, and NYSERDA continues to fund ad hoc
+single-site technology demonstrations for bidirectional charging systems, these approaches
+significantly underutilize the greatest feature of EVs and bidirectional charging systems:
+widespread dispatchability.
+As demonstrated by Table 1 in Section II above, the potential value of bidirectional
+charging solutions is tremendous. Notably, the Grid of the Future analysis commissioned by the
+Commission and developed by Brattle demonstrates that EVs – including both managed and
+bidirectional charging – represent the largest single source of long-term load flexibility.
+Meanwhile, the market and product readiness is evolving at a rapid pace, growing the ability for
+dispatchable bidirectional charging systems to meaningfully support New York’s grid. For
+example, the first AC bidirectional charging solution – in which inverter functionality is onboard
+the vehicle – is now available in the U.S. market, offering access to these features at a lower
+overall cost to the customer. In May 2026, UL 1741, the core certification standard for the safe
+and reliable interconnection of generators and energy storage to utility systems, was updated to
+incorporate UL 1741 SC, a long-awaited supplement intended to facilitate widespread,
+interoperable, and low-cost bidirectional AC charging. In July 2026, ISO 15118-20 Amendment
+1 was published, further catalyzing progress toward widespread, interoperable bidirectional
+charging features for both DC and AC charging systems.
+In anticipation of these key standards and other developments in the bidirectional
+charging system market, several utilities and states have recently adopted or proposed updates to
+interconnection rules, including in California, Connecticut, Maryland, Massachusetts, Nevada,
+New Mexico, and Texas. Here, too, the JU and Commission remain outliers among their peers,
+11
+
+having not yet taken action to consider the updates needed to enable the safe interconnection of
+grid-parallel AC bidirectional charging systems. VGIC looks forward to continued engagement
+with New York’s Interconnection Technical Working Group to modernize the JU
+interconnection rules to ensure the safe and reliable interconnection of bidirectional charging
+systems. We respectfully request that the Commission, in this or another proceeding, set a
+schedule for these updates, as previous ITWG updates have been ad hoc, hindering progress and
+introducing significant uncertainty into market development.
+As stated above, the primary barrier to unlocking dispatchable, grid-supportive
+bidirectional charging remains the lack of an available program participation pathway for
+customers. VGIC urges the Commission to directly address this gap in any upcoming order
+directing changes to or the continuation of the JU managed charging program portfolio,
+rather than deferring to future program cycles (i.e., the next triennial review) or other
+venues facing delay (i.e., the Grid of the Future proceeding). VGIC remains an active
+contributor to the Grid of the Future proceeding, including as a member of every Capability
+Assessment Team managed by the Commission’s consultant, Guidehouse. However, near-term
+progress on dispatchable bidirectional charging programs need not wait on the Grid of the Future
+proceeding. Instead, VGIC recommends that the Commission “builds the bridge from both
+ends.” In other words, near-term, participation-limited dispatchable bidirectional charging should
+be enabled now through the JU managed charging program portfolio, as the Commission and
+stakeholders develop long-term frameworks for leveraging dispatchable DERs. This can
+establish a base of customers who can later be moved over, as appropriate, into the long-term
+framework for leveraging dispatchable DERs. Additionally, this approach can provide key
+learnings in the near-term to development Grid of the Future policies. Moreover, and perhaps
+most obviously, New York can deploy these assets immediately by leveraging the underlying
+customer enrollment, dispatch, and incentive structures already established by existing managed
+charging programs. Lastly, such a program offering could establish an important alternative for
+customers for whom the existing VDER tariff is not well-suited. This could be due to customer
+mobility needs and/or preferences, as the ways customers interact with their vehicles and with
+the grid through vehicles and chargers vary widely across customers.
+12
+
+With this in mind, VGIC reiterates its recommendation that the Commission should
+direct the JUs to introduce near-term, dispatchable bidirectional charging offerings within the JU
+managed charging portfolio as an alternative option to VDER. Participation can be limited, if
+needed, to help ensure the primary focus of the programs remains on shifting EV load. This
+approach is essential for gaining real-world experience to inform future policy developments,
+accommodate diverse customer needs and preferences, and, more than anything, maximize the
+grid and ratepayer benefits of existing customer-owned resources without “reinventing the
+wheel” in program design.
+VII. CONCLUSION
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Commission, the joint utilities, and other stakeholders to ensure the success of
+New York’s transportation electrification efforts.
+Respectfully submitted,
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+vgiregulatory@vgicouncil.org
+13

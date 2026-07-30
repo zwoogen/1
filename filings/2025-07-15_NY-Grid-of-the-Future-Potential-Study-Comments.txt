@@ -1,0 +1,361 @@
+July 15, 2025
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 24-E-0165: Proceeding on Motion of the Commission to Regarding the Grid of
+the Future.
+Comments of the Vehicle-Grid Integration Council (VGIC) on Grid of the Future Potential
+Study and the First Iteration of the Grid of the Future Plan
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based advocacy
+group committed to advancing the role of electric vehicles (EVs) and vehicle-grid integration
+(VGI) through policy development, education, outreach, and research. VGIC supports the
+transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated to
+achieve a more reliable, affordable, and efficient electric grid. VGIC appreciates the opportunity
+to provide comments on Grid of the Future Potential Study and the First Iteration of the Grid of
+the Future Plan.
+Overarching Recommendations to Staff and Stakeholders Regarding Addressing VGI
+Issues
+VGIC generally supports the AEU, ACE, ConEd, and O&R Joint Principles for the Grid
+of the Future Proceeding, filed July 1, 2025. One enhanced principles that VGIC recommends is
+close coordination across related PSC proceedings and initiatives. VGIC has witnessed several
+well-intentioned efforts across the country held back by a lack of coordination across similar
+Grid of the Future proceedings and transportation electrification-related proceedings.
+Specifically, VGIC highlights that the light-duty (18-E-0138), medium- and heavy-duty (23-E-
+0070), demand charge alternatives (22-E-0236), and proactive planning (24-E-0364) proceedings
+be managed in a closely coordinated manner. VGI progress often enlists relatively complex,
+interrelated issues that cut across these proceedings, in addition to the related EV Technical
+Standards Working Group, Interconnection Technical Working Group, and EV Infrastructure
+1
+
+Interconnection Working Group. The interconnected nature of VGI issues, as well as related
+DER issues, means Commissions can no longer afford to operate through siloed staff across
+siloed dockets. Critically, this cross-collaboration should not manifest as “passing the buck”
+from one proceeding/team to another. Rather, this coordination should be visible through open
+information sharing and clear regulatory road mapping. Certainty over the proceeding and
+timeframe for a specific issue to be addressed is paramount.
+Comments on the Grid of the Future Potential Study: Volume I
+VGIC commends the work conducted by DPS staff and Brattle in developing the three
+volumes of the Grid of the Future Potential Study (“Potential Study”). The study reflects
+significant meaningful engagement with relevant stakeholders, and VGIC believes it represents a
+leading framework for assessing load and DER flexibility potential. Below, VGIC offers
+comments on Volume I of the Potential Study, focusing on Section 7: Barriers and Solutions to
+Expanding Grid Flexibility.
+Compensation Mechanisms
+VGIC generally supports the recommendations to refine existing programs to
+accommodate all technology types and, specifically, update VDER tariffs and MCOS
+studies more frequently. While VGIC generally supports considering locational variation,
+we caution against over-indexing on this variation. Too much locational granularity could
+backfire, creating significant savings uncertainty for customers, for example, because the
+local grid may change relatively often due to new load or generation at the grid edge, or
+utility-side upgrades. This may make it more challenging for customers to make upfront
+investments in the equipment required to enable their participation. Alternatives could be
+explored that achieve a balanced locational granularity or otherwise support customer
+investments in enabling technologies. For example, locational value “lock-ins” can be
+used for a certain number of years to provide customers with the necessary certainty to
+make equipment investments, for example in bidirectional charging equipment.
+VGIC also supports exploring optional real-time residential rates. EV customers
+are particularly diverse, as each driver and fleet interacts in different ways with their
+vehicles and, moreover, with the grid. Some customers may be interested in these types
+of dynamic rates, whereas others may opt for simpler program enrollment, and still others
+may be keen to enroll in more static time-varying rates.
+Applying VDER tariff to both imports and exports and/or developing a separate
+tariff for bidirectional DERs, including bidirectional charging equipment, is of particular
+interest to VGIC. Without these or similarly scalable compensation mechanisms for
+2
+
+bidirectional charging equipment, New York will be unlikely to see any vehicle-to-grid
+(“V2G”) capability, and especially not the nearly 2 GW of cost-effective residential V2G
+capacity potential by 2040 detailed in Volume I of the Potential Study.
+Notably, dedicated, large-scale V2G programs are underway in Massachusetts
+and California. For example, the Massachusetts Clean Energy Center’s V2X
+Demonstration Project, which aims to deploy 100 free bidirectional chargers to customers
+over the next several months, and Pacific Gas and Electric’s Residential, Commercial,
+and Microgrid V2X Pilots, which aim to enroll over 1,000 customers.
+VGIC believes that focused, well-designed compensation mechanisms for
+bidirectional charging equipment can far exceed the residential V2G potential detailed in
+the Potential Study. Today, each Ford F-150 Lightning Electric, all but one General
+Motors (i.e., Chevrolet, Cadillac, GMC) vehicle, Nissan LEAF, Kia EV9, and Tesla
+Cybertruck sold in New York is capable of bidirectional charging. While VGIC
+appreciates Brattle’s approach to modeling V2G in the 2030 timeframe (i.e., 0%), we
+believe that given the current deployment of these bidirectional-charging vehicles, there
+is immense opportunity to achieve significant V2G capacity by 2030.
+We posit there is a “chicken-or-egg” dynamic occurring as it relates to modeling
+V2G in the context of New York’s future grid. If stakeholders continue defining V2G
+potential as zero “due to the early stage of technical and commercial readiness,” we will
+never meaningfully support that commercial readiness. VGIC urges the Commission to
+take bold action, keeping in mind the considerable technical potential of V2G to
+meaningfully support the grid, to support V2G commercialization in NY. While other
+states like California, Maryland, and Massachusetts are pulling ahead on this, New York
+must act now to avoid losing a leadership role on V2G, the way the state has filled a
+strong leadership role for legacy stationary energy storage technologies.
+Notably, the transition to promoting bidirectional charging in New York will not
+take much. Utilities have proven to be effective implementers of mass-market residential
+managed charging programs. Considering much of the marketing for bidirectional
+charging solutions is already driven by the automative OEMs (e.g., GM, Ford, Kia, and
+Tesla all have dedicated websites and even Super Bowl ads promoting this capability),
+VGIC believes some incremental administrative and marketing budget is needed to
+expand utility capabilities in the bidirectional charging space, but that it would not be an
+intolerable sum.
+Additionally, VGIC notes the commercially-available bidirectional charging
+offerings have been expanding quickly in just the past 12-18 months. This trend is
+expected to continue, especially given recent milestones related to the standardization of
+3
+
+V2X AC (i.e., inverter capabilities onboard the vehicle). Meanwhile, V2X DC (i.e.,
+inverter capabilities offboard the vehicle) equipment is much more common today. We
+expect the increase in equipment options to drive down purchase costs. Regarding
+installation and related upgrade costs, these may also decrease, as newer bidirectional
+charging solutions have been offering lower charging rates, which can obviate the need
+for panel upgrades and other electrical infrastructure upgrades.
+New York’s aggressive climate and environmental goals will necessitate the
+retirement of polluting fossil fuel resources. Since utility-scale renewable energy
+development faces significant financial headwinds and transmission interconnection
+challenges, the state must leverage all available tools to ensure sufficient energy
+supply and reliability, especially in downstate areas. For example, NYISO recently
+had to delay the retirement of peaker plants in New York City to ensure reliability, noting
+that New York City would otherwise face an expected 446 MW of capacity deficiency
+beginning in mid-2025.1 Given the high real estate costs in downstate New York, VGI
+has immense potential to serve the state’s needs since EVs and the associated charging
+infrastructure will already be deployed as a result of the state’s EV adoption goals.
+Unlike most other energy resources, unlocking bidirectional capabilities from these
+resources will not require the acquisition of additional real estate (i.e., compared to
+unidirectional charging). The NYISO Gold Book 2023 EV stock forecast includes 4,800
+electric buses by 2025 and 28,800 electric buses by 2030.2 Modestly assuming that half
+are school buses with 120 kWh batteries and 40 kW chargers, school buses alone
+would total 96 MW of capacity and 288 MWh of energy in 2025, and 576 MW of
+capacity and 1.728 GWh of energy in 2030.
+However, current infrastructure costs and export compensation mechanisms do
+not make investments in V2G-capable vehicles and chargers economically viable in New
+York. VGIC appreciates the Commission’s decision in Docket 18-E-0138 to require the
+Joint Utilities to update their VDER tariffs to include V2G, which will establish
+uniformity across the state regarding the eligibility of V2G resources to participate in
+VDER. However, based on VGIC’s estimates, the compensation under VDER is
+currently insufficient to warrant investments in V2G projects, especially in areas outside
+of ConEd territory. For example, using highly generous assumptions for each 120-kWh
+electric bus (i.e., batteries discharge all 120 kWh of stored energy across three hours of a
+CSRP call window for 20 days per month), fleets can earn a maximum of approximately
+1 S&P Capital IQ. “Facing New York City power shortfall, NYISO delays retirement of peaker plants.” 2023.
+https://www.capitaliq.spglobal.com/apisv3/spg-webplatform-core/news/article?id=78946545
+2 NYISO. 2023 Load & Capacity Data Report (Gold Book), Table I-11a: Electric Vehicle Stock Forecast. 2023.
+https://www.nyiso.com/documents/20142/2226333/2023-Gold-Book-Public.pdf
+4
+
+$8,400 per vehicle over three summer months in ConEd territory by participating in
+VDER.3 However, in National Grid territory, the corresponding best-case-scenario
+compensation drops to only approximately $1,800 per vehicle per summer. While VGIC
+has not developed similar estimates for the remaining IOUs, recent VDER statements
+show that the other IOUs’ Value Stack credit rates are similar to or lower than those
+offered by National Grid, and therefore provide a similar or even lower compensation
+level for V2G projects.4 Given the relatively high upfront costs of developing and
+deploying bidirectional charging infrastructure and the enabling equipment, which is
+particularly high in the current, relatively nascent market stage that V2X equipment is in,
+the (somewhat unrealistic) best-case-scenario VDER revenue in most New York utility
+territories (with the exception of ConEd) would be wholly insufficient to unlock this
+latent V2G capacity. Additionally, the CSRP and DLRP programs require participants to
+forego the DRV and LSRV components of VDER but only include a small number of
+events each summer, resulting in even lower per-summer compensation than what fleets
+can earn from the DRV component alone.
+In contrast, the Connected Solutions demand response (DR) programs offered by
+utilities in New England provide a much more attractive compensation mechanism and
+should serve as a model for V2G program design. For example, National Grid’s
+Massachusetts Connected Solutions Daily Dispatch program calls between 30 and 60
+events per summer, each lasting two to three hours, and provides $200 per kW per
+summer in compensation based on average performance.5 Eversource offers the same
+program (called Daily Curtailment), resulting in consistent compensation throughout
+Massachusetts.6 For comparison, assuming the same 120 kWh of battery capacity, the
+compensation amount fleets can earn from V2G is between $8,000 and $12,000 per
+vehicle per summer in Massachusetts.7 Similarly, Rhode Island Energy’s Connected
+Solutions program provides $300 per kW per summer, allowing a much smaller vehicle
+3 This estimate assumes each vehicle exports its entire battery capacity over three hours for 20 days each month
+during the CSRP call window to maximize the DRV component, which has the greatest value. The estimate does
+not include the LSRV component, which is only available on a limited number of distribution circuits.
+4 Joint Utilities of New York. Value of Distributed Energy Resources (VDER).
+https://jointutilitiesofny.org/distributed-generation/VDER
+5 National Grid. Daily Dispatch. https://www.nationalgridus.com/MA-Business/Energy-Saving-Programs/Daily-
+Dispatch
+6 Eversource. Demand Response. https://www.eversource.com/content/business/save-money-energy/energy-
+efficiency-programs/demand-response
+7 This estimate assumes each vehicle exports its entire battery capacity over the entire duration of each event
+during all events called each summer. The lower estimate corresponds to a scenario with 100% three-hour events
+during which each vehicle exports at 40 kW; the higher estimate corresponds to a scenario with 100% two-hour
+events during which each vehicle exports at 60 kW.
+5
+
+battery (Nissan’s 60-kWh LEAF) on a much smaller charger (Fermata Energy’s 15-kW
+FE-15) to earn on average approximately $4,000 per summer.8
+Based on these current program offerings, VGIC expects V2G investments on the
+east coast to likely concentrate toward New England states with Connected Solutions
+options. Even though revenue under the VDER tariff were comparable to the real-world
+results from V2G projects in New England, New York V2G site deployment will still
+likely lag, given the overall higher costs faced by fleets and technology providers in the
+state, especially in the downstate area. Without improvements to its V2G export
+compensation mechanism(s), New York risks being left out of the development of
+V2G projects and, instead, may become home to an immense amount of a new type
+of stranded asset: latent distributed energy storage capacity locked away behind
+unidirectional chargers.
+With this in mind, VGIC recommends the Commission explore three paths
+forward to support V2G potential:
+1. Instituting a “V2G Adder” in VDER
+2. Establishing a new V2G-specific program, which could mimic the
+Connected Solutions program available in other northeast states
+3. Expanding the existing managed charging programs to include
+bidirectional charging customers.
+Regulatory Barriers
+Firstly, VGIC strongly supports the Volume I recommendation to establish a
+long-term vision for grid flexibility, ensuring focus by utilities on the topic, amid other
+topics they must focus on in this time of transition.
+VGIC believes establishing a statewide target for flexibility capability is key to
+supporting the grid of the future. Critically, the Commission must set technology-specific
+goals. Not all measures (e.g., rates and programs) must be technology-specific, but
+establishing technology-specific goals is a reasonable method to benchmark and track
+progress on a given technology against expectations for that technology. Given resource
+constraints, this should not be done for each technology, but just the most promising
+solution sets by 2030 and 2040, as identified in Volume I.
+8 Michigan Public Service Commission. EV Technical Conference. January 25, 2024. Slide 63: Presentation from
+Fermata Energy. https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/workgroups/technical-
+conference/EV-Techincal-Conference-Presentation-Day-
+2.pdf?rev=5d8df7e45d4d4093add720e2bb8fa9e5&hash=FFC86A3557D5EFFEF7A6D4BAF79666B5
+6
+
+Regarding broader regulatory reforms, VGIC generally supports providing
+performance-based incentives to utilities for meeting grid flexibility goals through
+various mechanisms, as opposed to the existing mechanisms that focus on meeting NWA
+goals. However, implementation must be closely monitored, as performance-based
+frameworks systems can be gamed by establishing benchmarks that would’ve been met
+based on existing trends.
+Building on more traditional utility regulation, VGIC also supports allowing
+utilities to earn a return on spending on grid flexibility programs, specifically on IT
+investments (including DERMS platforms and/or other aggregator integrations),
+customer equipment rebates, upfront enrollment incentives, grid upgrades, marketing,
+and program administration. We believe this allowance would create a strong incentive
+for utilities to earnestly pursue load flexibility solutions.
+Regarding assessing benefits and costs, VGIC supports incorporating other types
+of benefits. Specific to VGI, it is, admittedly, unlikely that a VGI measure (e.g., managed
+charging program or bidirectional charging credit) sways a residential customer to
+purchase an EV that would not have otherwise purchased one. However, VGI measures
+do have significant bearing on fleet adoption. Fleet transition decisions are driven by total
+cost of ownership (“TCO”) calculations, and TCO is significantly influenced by the
+ongoing fuel cost, which VGI helps to lower far below a non-VGI scenario. With this in
+mind, VGIC urges the Commission to consider the local pollution and GHG reduction
+benefits of VGI efforts, which have a direct impact on a fleet’s decision to electrify.
+VGIC supports waiving cost-effectiveness for pilots and other exploratory
+investments, as detailed in Volume I. New York should aim to have a robust resource
+toolkit available by 2040, which means investing today in the capabilities that will be
+needed in that timeframe, as well as the deployment of the necessary technology itself.
+For example, if only unidirectional charging equipment is deployed in New York, then
+the state risks a path dependency that limits the overall opportunity for V2G potential by
+2030 and 2040. Moreover, there’s overwhelming precedent for exempting pilots and
+other exploratory investments from cost-effectiveness testing at utility commissions
+across the country. For example, this is how California and Massachusetts have become
+established leaders on BTM storage and , more recently, bidirectional charging and V2G.
+Lastly, VGIC supports considering pre-approval for initiatives and allowing
+utilities the flexibility needed to pursue different solutions to achieve certain objectives.
+This pairs particularly well with VGI topics, which can present new and interesting
+challenges through which utilities must innovate. Moreover, adopting this
+recommendation supports parity with the evolving paradigm for utility investments (i.e.,
+7
+
+Proactive Planning). It may be hard to justify to ratepayers why the Commission can pre-
+approve $1 billion of proactive planning upgrades but would not apply the same principle
+of pre-approval to demand flexibility measures, many of which can substantially, directly
+mitigate future proactive planning requests. In other words, supporting load flexibility
+measures, including managed charging programs, bidirectional charging initiatives, and
+flexible service connection (either software-based or DER-paired solutions), can help to
+balance out the ratepayer risks imposed by proactive planning. VGIC does not believe
+New York should pursue one without the other.
+Customer Experience
+VGIC notes there is a significant opportunity to leverage industry experts with close
+customer relationships, like automotive OEMs, to support customer enrollment process.
+This is particularly important given that reaching EV customers at the point-of-sale is the
+most effective way to enroll them in managed charging programs and/or rates. While
+centering contractors for customer engagement initiatives may be appropriate for rooftop
+solar, which is driven in part by door-to-door sales, EVs are driven by OEMs and/or car
+dealerships. With this in mind, VGIC recommends that the Commission promote
+strategies that leverage automotive OEM customer relationships to support customer rate
+and/or program enrollment.
+Regarding Further Research and Data Development
+VGIC generally supports the further research and data development efforts
+referenced in Volume I. We clarify that, based on our understanding of efforts funded by
+NYSERDA, utilities, and/or private sector parties, there is no early large-scale pilot for
+MHDV V2G. There have been, and currently are, one-off demonstration projects. These
+demonstrate technological capabilities that have been proven for many years in New
+York and across the country (and the world). At a minimum, VGIC urges the
+Commission to establish a pilot focused not on technology demonstration, which would
+re-pilot what is already commercially available today (e.g., offerings from Ford, GM,
+Kia, Nissan, Tesla, BlueBird, Thomas Built, RIDE, etc.), but on the customer
+engagement, incentive and compensation mechanism design, and operational
+integration of these resources on a multi-customer scale. In other words, it is not that
+the technology needs to be demonstrated to work in New York, but that New York’s
+ecosystem of stakeholders, including the JUs, and existing rules and regulations can
+effectively implement a MHDV V2G program.
+More broadly, we strongly urge the Commission not to delay action while the
+studies detailed in this section of Volume I are addressed. For VGI, and V2X specifically,
+there are thousands of EVs being sold every week that could meaningfully support New
+8
+
+York’s grid, but will continue to represent an untapped resource class unless the PSC
+takes bold, urgent action to enable these technologies. VGIC has no doubt that we can
+spend the next 25 years studying the theoretical value of VGI in 2040. What ratepayers
+and EV customers need is focused, urgent action to unlock VGI capabilities across the
+state.
+Comments on Flexible Service Connection
+Although both the Potential Study and the First Iteration of the Grid of the Future Plan
+reference flexible service connection, VGIC notes a clear gap in the framework for this solution
+set. VGIC believes it is critical that the Commission scale standardized, accessible flexible
+service connection options for customers that can leverage software or DER-backed solutions to
+accelerate low-cost grid connection in areas of grid constraint.
+In general, the framework used in both the Brattle and DNV reports focus on deploying
+equipment (HVAC, EV chargers, etc.) and then using the connectivity and flexibility to manage
+the grid and avoid costs, namely those costs resulting from other resources or customers, like
+new renewable generation, or inflexible load growth from relatively inflexible EV charging, data
+centers, reshoring, and other electrification. This is one lens through which to view avoided costs
+and NWA, and is a reasonable approach that VGIC supports. However, there is another
+framework that is being overlooked: the ability for customers, namely multi-charger sites like
+fleet depots, workplace, multi-family, and some DC fast charging sites, to mitigate the bottom-up
+impact of their own connection to the grid. These have several different characteristics than the
+solutions and barriers discussed in the Brattle and DNV reports, but still offer tremendous value
+to the grid. Primarily, this value is in distribution cost deferral and avoidance. First, it relies on
+decisions made early in the site design and construction phase. Second, the deployment of these
+solutions depend not on the establishment of new programs or rate designs, but rather in the
+process that utilities use to guide customers through these decisions.
+As detailed above regarding pre-approval for load flexibility initiatives, New York’s
+emerging proactive planning paradigm is a significant departure from historic treatment of utility
+investments. Flexible service connection offers an important counterweight to balance the risk
+placed on all ratepayers by proactive planning. In establishing the Load Management
+Technology Incentive Program (LMTIP), the Commission and Joint Utilities have made great
+strides in supporting the deployment of technology that enables flexible service connection.
+VGIC reiterates its recommendation provided in 18-E-0138 to maintain LMTIP and expand
+technology eligibility under the program.
+However, while the funding for these solutions is critical, equally important is the
+standardized process that needs to exist to underpin customer election of these technologies.
+Specifically, there must be a clear pathway for proactively or reactively identifying
+9
+
+customers/sites for flexible service connection. For example, utilities should easily be able to
+answer questions on the topic, such as: Do utilities provide make-ready site candidates with
+insufficient grid connections any information regarding LMTIP and flexible connection
+agreements (FCAs)? How many customers have asked for FCAs? What data does a utility need
+to provide to a customer, and vice versa, to finalize a FCA? Where does this data come from?
+These process-related questions are critical to the success of LMTIP and, more
+importantly, the long-term success of flexible service connection in New York. With this in
+mind, VGIC urges the Commission to explicitly direct utilities to maintain clear and consistent
+flexible service connection guidance for their customers with the goal to bring flexible service
+connection to all customers that may choose to elect it.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Commission, Department of Public Service Staff, the Joint Utilities, and other
+stakeholders to ensure the success of New York’s transportation electrification, clean energy, and
+resilient communities efforts. We look forward to continued collaboration with all parties on this
+important initiative.
+Respectfully submitted,
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+10

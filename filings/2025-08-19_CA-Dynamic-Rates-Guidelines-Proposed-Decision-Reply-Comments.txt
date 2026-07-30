@@ -1,0 +1,157 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+08/19/25
+Order Instituting Rulemaking to Rulemaking 22-07-005
+04:59 PM
+Advance Demand Flexibility (Filed July 14, 2022)
+R2207005
+Through Electric Rates.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING GUIDELINES FOR PACIFIC GAS AND
+ELECTRIC COMPANY, SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN
+DIEGO GAS & ELECTRIC COMPANY ON DEMAND FLEXIBILITY RATE DESIGN
+PROPOSALS
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: August 19, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING GUIDELINES FOR PACIFIC GAS AND
+ELECTRIC COMPANY, SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN
+DIEGO GAS & ELECTRIC COMPANY ON DEMAND FLEXIBILITY RATE DESIGN
+PROPOSALS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Proposed Decision Adopting Guidelines for Pacific Gas and Electric
+Company, Southern California Edison Company, and San Diego Gas & Electric Company On
+Demand Flexibility Rate Design Proposals (“Proposed Decision” or “PD”), issued by
+Administrative Law Judges Rajan Mutialu and Carolyn Sisto on July 25, 2025.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to reply to party comments on the Demand Flexibility
+(“DF”) guidelines. This next stage of DF rates is critical to enabling customers of the investor-
+owned utilities (“IOUs”), Pacific Gas and Electric (“PG&E”), Southern California Edison
+(“SCE”), and San Diego Gas and Electric (“SDG&E”), to provide valuable load flexibility. VGIC
+offers the following responses to party comments.
+II. PARTIES AGREE THAT THE COMMISSION SHOULD REQUIRE THE
+UTILITIES TO PROVIDE DYNAMIC EXPORT RATES.
+1
+
+VGIC agrees with Sierra Club and the Solar Energy Industry Association (“SEIA”) that
+the PD is deficient because it fails to require IOUs to include export compensation in their DF rate
+proposals. As discussed by both Sierra Club and SEIA, the Commission adopted DF principles
+that state that DF rate proposals should include marginal cost-based compensation for exports.
+Specifically, SEIA notes that “the PD, in recounting all parties’ positions on this issue, and the
+basis therefore, presents no advocacy or justification for the exclusion of export compensation
+from the Large IOUs’ demand flexibility rate proposals. A Commission decision must be
+supported by its findings. This determination is not” (emphasis added).1 Therefore, the
+Commission should require the IOUs to provide export compensation in their DF rates, a finding
+that is sufficiently supported by the record of this proceeding.
+III. UTILITIES SHOULD BE REQUIRED TO OFFER COMPLIANT DYNAMIC
+RATES EVEN IF EXTENSIONS ARE GRANTED.
+In Opening Comments, all three IOUs ask for extensions to provide proposals that comply
+with the guidance in this decision. VGIC understands that significant work will need to be done to
+offer comprehensive DF rates, but the IOUs should be required to offer pilots and rates in the near-
+term that allow customers to meaningfully access dynamic rates. In response to the three IOUs’
+requests, VGIC believes:
+• SDG&E: SDG&E requests an extension to propose dynamic rates in late 2026,2 which
+should be denied. SDG&E is currently the only IOU territory without a dynamic import
+pilot. In A.21-12-006 approving SDG&E’s dynamic export rate pilot, settling parties
+agreed that SDG&E should defer consideration of a dynamic import rate proposal until the
+1 SEIA Opening Comments at page 4
+2 SDG&E Opening Comments at 12.
+2
+
+Commission approved DF guidelines. However, parties had a reasonable expectation that
+SDG&E would move expeditiously once this PD is approved, and in D.23-11-006, the
+Commission set a deadline for SDG&E to propose a dynamic import rate 90 days after the
+adoption of DF guidance.3 This deadline for an SDG&E proposal, or at least a pilot
+proposal, should be maintained in this final decision. Put simply, the 90-day timeline
+should be no surprise to SDG&E, which officially received this timeline in the November
+2023 Commission decision.
+• SCE: With regard to SCE’s extension request, VGIC notes that SCE’s existing dynamic
+rate pilot is currently misaligned with the Commission guidance in D.24-01-032, as the
+utility does not provide export compensation for bidirectional EV customers.4 Any
+extension granted to SCE should be contingent on ensuring that the existing dynamic rate
+pilot complies with the vision set forth in D.24-01-032 regarding the eligibility of
+bidirectional charging customers.
+• PG&E: VGIC does not oppose PG&E’s extension request, given that PG&E already offers
+dynamic rates to bidirectional EV customers and other relevant customer classes. However,
+continuity is critical. There should be no gap between the expanded pilots and Vehicle-to-
+Everything (“V2X”) pilots and new optional DF rates. The Commission should ensure that
+any extension granted to PG&E is contingent on a clear continuity plan, including any
+required funding or authorizations to continue their existing pilots until a permanent rate is
+established. It is critical to keep customer engagement and prevent customers from
+dropping out of demand flexibility by losing access to dynamic rates.
+3 D.23-11-006 at Ordering Paragraph 1.
+4 See D..24-01-032 at C-1. The Commission directs pilots to assess “The response of customer loads to
+prices, to evaluate the efficacy of the dynamic pilot rate to shift customer exports into peak hours.”
+3
+
+IV. DUAL PARTICIPATION IN DYNAMIC RATES AND OTHER DEMAND
+RESPONSE PROGRAMS SHOULD BE CLARIFIED.
+VGIC generally agrees with Leap and Voltus that dual participation with Demand
+Response (“DR”) should be addressed by the Commission.5 However, VGIC recommends that, at
+a minimum, the PD explicitly allow dual participation in dynamic rates and any out-of-market
+emergency DR programs, such as the Emergency Load Reduction Program (“ELRP”) and the
+Demand Side Grid Support (“DSGS”) Program. This dual participation was permitted in the
+expanded dynamic rate pilots and strengthens grid reliability.6 VGIC agrees that dual participation
+with supply-side DR programs is more complex and should be taken up in a new regulatory venue,
+such as a new DR proceeding as described by Leap and Voltus. 7
+V. CALIFORNIA SHOULD CONTINUE TO PURSUE METHODS BEYOND
+DYNAMIC RATES TO UNLOCK DEMAND FLEXIBILITY.
+VGIC agrees with Sierra Club’s recommendation to not forego other opportunities to
+advance rate design that unlocks demand flexibility, including through larger time-of-use peak to
+off-peak differentials and Critical Peak Pricing offerings.8 Additionally, diverse demand flexibility
+programs, such as DR options and the distribution optimization programs outlined by VGIC in
+Opening Comments,9 should continue to be offered to customers. There are a variety of ways to
+unlock maximum demand flexibility potential, but “current rate offerings in between tiered rates
+and demand flexible rates are lacking.”10 EV customer profiles are diverse, with varying
+5 Leap and Voltus Opening Comments at 3-4.
+6 D.24-01-032 at Conclusions of Law 35.
+7 Leap and Voltus Opening Comments at 3-4.
+8 Sierra Club Opening Comments at 6.
+9 VGIC Opening Comments at 11-13.
+10 Sierra Club Opening Comments at 7.
+4
+
+technology capabilities, duty cycles, and preferences. To advance long-term state goals, there
+should be a reasonable menu of cost-based rates and cost-effective program options available to
+customers, more than just current default whole-home time-of-use rates and fully dynamic rates.
+VI. PROCEDURAL CLARITY IS NEEDED GIVEN PG&E AND SCE’S ONGOING
+APPLICATIONS DISCUSSING DYNAMIC RATES.
+VGIC is concerned with procedural conflicts for PG&E’s implementation of dynamic rates
+posed by this PD. As raised by Small Business Utility Advocates (“SBUA”) in Opening
+Comments, PG&E is currently discussing dynamic rates in its General Rate Case (“GRC”) Phase
+II. Yesterday, the proceeding schedule for PG&E’s GRC Phase II was suspended due to an
+unrelated error in PG&E calculations, but it is unclear how guidance from this decision will be
+incorporated into PG&E’s ongoing GRC schedule. The Commission should coordinate to ensure
+that the ongoing schedule for PG&E’s GRC Phase II considers needed modifications to PG&E’s
+original proposal and that intervenors have sufficient time to prepare intervenor testimony after
+PG&E submits updated testimony.
+VII. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the Proposed
+Decision.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: August 19, 2025
+5

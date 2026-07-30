@@ -1,0 +1,42 @@
+Docket No. 25-00008-UT
+BEFORE THE NEW MEXICO PUBLIC REGULATION COMMISSION
+IN THE MATTER OF THE POTENTIAL )
+ADOPTION OF AN INTERCONNECTION RULE ) Docket No. 25-00008-UT
+APPLICABLE TO RURAL ELECTRIC )
+COOPERATIVES
+REPLY COMMENTS OF VEHICLE-GRID INTEGRATION COUNCIL
+ON PROPOSED RULE 17.9.575 NMAC
+Filed: April 27, 2026
+I. INTRODUCTION.
+The Vehicle-Grid Integration Council (“VGIC”) respectfully provides its reply comments on the
+Commission’s Order Issuing Notice of Proposed Rulemaking, filed February 13, 2026, proposing
+the adoption of a new interconnection rule at 17.9.575 NMAC applicable to rural electric
+cooperatives (“Proposed Rule”) and corresponding amendments to the existing interconnection
+rule at 17.9.568 NMAC. VGIC timely submitted its initial comments on April 13, 2026.
+II. INITIAL COMMENTS SHOW GENERAL CONSENSUS AMONG PARTIES
+THAT THE BLANKET EXCLUSION OF BIDIRECTIONAL CHARGING
+SYSTEMS FROM THE PROPOSED RULE SHOULD BE REMOVED.
+In initial comments, the Renewable Energy Industries Association of New Mexico (“REIA-NM”),
+Nuvve Holding Corp. (“Nuvve”), and – most notably – the New Mexico Rural Electric
+Cooperative Association (“NMRECA”) emphasize that bidirectional charging systems should be
+treated as other battery energy storage systems for interconnection purposes and, as a result, should
+not be excluded from the Proposed Rule. VGIC commends NMRECA for its specific comment to
+“delete the last sentence, ‘DER does not include vehicle-to-grid functionality[,]’ from the
+definition of Distributed Energy Resource (DER)” and for recognizing the peak load reduction
+potential of electric vehicles.
+Given this broad consensus and NMRECA's recommendation, VGIC reiterates its initial
+recommendation to remove the blanket prohibition on bidirectional charging systems from the
+Proposed Rule. We also respectfully request that the utilities consider the supplemental guidance
+we provided in our initial comments, whether by formally adopting it in the Proposed Rule or by
+adopting it informally for internal use.
+III. CONCLUSION.
+1
+
+Docket No. 25-00008-UT
+VGIC appreciates the opportunity to provide these reply comments and looks forward to further
+collaboration with stakeholders on this important initiative.
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+2

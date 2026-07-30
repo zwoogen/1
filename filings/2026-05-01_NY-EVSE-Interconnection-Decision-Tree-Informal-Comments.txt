@@ -1,0 +1,106 @@
+May 1, 2026
+New York State Joint Utilities c/o
+Constantine Spanos, Con Edison
+Rick Abraham, National Grid
+RE: Comments of Vehicle Grid Integration Council on New York Joint Utilities’ EV
+Configuration Decision Tree
+The Vehicle Grid Integration Council (VGIC) appreciates the opportunity to share comments on
+the New York State Joint Utilities EV Configuration Decision Tree (Decision Tree) for light-
+duty vehicles and residential DERs 50 kW or less. It is our understanding that the decision tree
+was developed through discussions at the Interconnection Technical Working Group (ITWG) as
+a classification tool for determining whether new electric vehicle supply equipment (EVSE)
+installations are subject to Standardized Interconnection Requirements (SIR) and distributed
+energy resource (DER) interconnection review.
+The top-level branch of the decision tree appears to distinguish between new EVSE “connection
+type” as either load-only or bidirectional. The next level for the bidirectional EVSE branch
+indicates that an interconnection application is required. Only those bidirectional EVSE devices
+that have the latest UL 1741 SB certification in compliance with IEEE 1547-2018 meet the SIR
+and thus proceed through the interconnection review.
+The Decision Tree does not recognize two common classes of bidirectional charging systems.
+The first are systems that are designed and deployed to operate in bidirectional mode only
+when islanded from the grid. These “break-before-make” systems incorporate robustly
+engineered, industry-standard protections using either a microgrid interconnection device (MID)
+or an automatic transfer switch (ATS) to prevent bidirectional charging unless the site is
+electrically isolated from the grid.
+An ATS or MID makes unauthorized back-feeding physically and programmatically impossible.
+While connected to the grid, these bidirectional charging systems operate strictly as
+unidirectional charging systems. Because a MID provides the exact same “break-before-make”
+isolation as a conventional ATS, if utilities trust an ATS to safely isolate a fossil-fuel home
+standby generator, there is no technical justification to treat a MID differently. These systems do
+not operate in bidirectional mode when in parallel with the grid and, therefore, do not present an
+1
+
+inadvertent backfeed risk. These systems should not be directed to proceed through the SIR
+study process1 because “distributed generation or energy storage systems neither designed to
+operate, nor operating, in parallel with the utility’s electrical systems are not subject to these
+requirements”; instead, they should be subject to existing processes for residential standby
+generators. If the existing requirements for residential standby generators are not sufficient, those
+requirements for standby generators should be updated for all standby generators (e.g., gas,
+diesel, etc.), rather than singling out a specific backup generator technology (e.g., EVs).
+The second class of bidirectional charging systems not contemplated in the Decision Tree is
+bidirectional charging systems that operate in unidirectional charging modes at all times,
+unless and until the manufacturer enables them for bidirectional charging. Crucially, this
+enablement is a strict software-locked gate configured at the time of system commissioning. The
+capability to enable bidirectional functionality is accessible only via a proprietary
+commissioning application utilized exclusively by the manufacturer or certified channel
+partners; it is not a setting that the customer can access or toggle on themselves. This
+manufacturer enablement step would either occur to become (a) the above-referenced type of
+“island-only” system or (b) a grid-parallel bidirectional charging system following an approved
+SIR request.
+For example, new electric school bus depots should be permitted to operate bidirectional
+charging systems in load-only mode before receiving SIR approval. Ordering and installing
+vehicles and chargers, only for them to sit idle, unable to charge to get children to school while
+awaiting SIR approval, is a negative customer experience that will undercut New York’s goals
+for electric school bus deployment. Notably, this treatment (connecting in load-only mode prior
+to receiving DER interconnection approval) has already been explicitly codified in the
+interconnection rules of California2 and Maryland3, has been proposed in Nevada and
+Massachusetts, and has been reported to occur in other jurisdictions.
+1 New York Public Service Commission, August 1, 2025, New York State Standardized Interconnection
+Requirements and Application Process For New Distributed Generators and/or Energy Storage Systems 5 MW or
+Less Connected in Parallel with Utility Distribution Systems.
+2 See California Public Utilities Commission’s Electric Rule 21: Generating Facility Interconnections available
+at https://www.cpuc.ca.gov/Rule21/.
+3 See The Code of Maryland Regulations (COMAR) 20.50 available at
+https://regs.maryland.gov/us/md/exec/comar/20.50.
+2
+
+Another example where load-only deployment of bidirectional charging systems will soon
+become increasingly common is in the anticipated prevalence of AC bidirectional charging
+solutions. At least one such system is already on New York roads and in garages and homes
+across the state. These systems are lower-cost and simpler than DC bidirectional charging
+systems because they do not require a separate inverter, a dark-start battery, or, in some cases, a
+gateway. As a result, it is likely New York utilities will see widespread adoption of a given
+vehicle and charger model marketed for both unidirectional and, if and only if enabled by the
+manufacturer, bidirectional charging. If there is no option to connect these systems in load-only
+mode without going through the SIR process, these customers, which may quickly number in the
+tens of thousands, will be faced with the added costs and delay associated with SIR study, even if
+they do not request that the manufacturer enable bidirectional charging. This, too, directly
+undercuts New York’s goals for EV charger deployment and the swift EVSE connection process
+envisioned by the NY PSC (i.e., via the Electric Vehicle Infrastructure and Interconnection
+Working Group).
+Because both types of bidirectional charging systems (backup-only and load-only) are not
+designed to nor would be deployed to discharge energy to the grid while grid-connected, they
+should not be subject to New York’s SIR review process per the New York State Standardized
+Interconnection Requirements and Application Process For New Distributed Generators and
+Energy Storage Systems 5 MW or Less Connected in Parallel with Utility Distribution Systems,
+Appendix A, unless and until they request such treatment (i.e., to subsequently enable grid-
+parallel bidirectional charging mode). Instead, they are more appropriately treated as (a)
+residential standby generators (for island-only systems) and (b) unidirectional EVSE (for
+bidirectional-“capable” systems not yet enabled by the manufacturer nor accessible by the
+customer for any bidirectional operations).
+VGIC respectfully requests that the ITWG revisit the Decision Tree, considering the below flow
+chart and, this time, seek feedback from relevant stakeholders in the EV and EVSE industry:
+3
+
+VGIC and its members are committed to bringing innovative technologies to market that meet
+the highest standards of safety and protection while delivering meaningful value to consumers.
+VGIC welcomes the opportunity to discuss these comments with the ITWG.
+4
+
+Sincerely,
+Steve Letendre, PhD
+Senior Advisor
+Vehicle-Grid Integration Council (VGIC)
+sletendre@vgicouncil.org
+(802) 779-3580
+5

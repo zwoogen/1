@@ -1,0 +1,165 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+05/29/26
+Order Instituting Rulemaking to Rulemaking 21-06-017
+04:59 PM
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+R2106017
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ASSIGNED COMMISSIONER’S RULING ISSUING QUESTIONS ON THE
+ELECTRIFICATION IMPACT STUDY PART 2 FINAL REPORTS
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: May 29, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ASSIGNED COMMISSIONER’S RULING ISSUING QUESTIONS ON THE
+ELECTRIFICATION IMPACT STUDY PART 2 FINAL REPORTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Assigned Commissioner’s Ruling Issuing Questions on the Electrification
+Impact Study Part 2 Final Reports issued by Commissioner Darcie Houck on May 8, 2026.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to comment on the Assigned Commissioner’s Ruling
+Issuing Questions on the Electrification Impact Study Part 2 (“EIS2”) Final Reports. The EIS2
+studies provide important evidence demonstrating that electrification, when paired with demand
+flexibility strategies, can reduce distribution infrastructure costs and provide benefits to ratepayers.
+For example, Pacific Gas and Electric (“PG&E”) found that “Electrification growth may provide
+downward pressure on distribution rates by as much as 25% by 2040.”1 The Public Advocates
+Office at the California Public Utilities Commission (“Cal Advocates”) similarly found in its
+Distribution Grid Electrification Model 2025 report that electrification can reduce rates by 0.2 to
+1 PG&E EIS2 at 14.
+2
+
+4.5 cents per kilowatt-hour by 2040.2 With California facing continued affordability pressures
+while pursuing ambitious climate goals, these findings underscore the importance of investing in
+electrification strategies that minimize system costs and maximize grid efficiency.
+The EIS2 studies also highlight the significant value of electric vehicle (“EV”) demand
+flexibility and vehicle-grid integration (“VGI”) in reducing future distribution infrastructure
+investment needs. Across the studies, EV-enabled load flexibility emerges as one of the largest
+sources of potential load reduction and avoided infrastructure costs. In particular, PG&E’s analysis
+demonstrates that active managed charging and bidirectional EV capabilities can provide
+substantial peak load reductions that help defer or reduce traditional grid upgrades. VGIC therefore
+provides the following comments:
+• The Commission should begin incorporating EIS2 findings into future Distribution
+Planning and Execution Process (“DPEP”) cycles and related distribution planning
+activities.
+• Additional analysis is warranted regarding the contribution of specific demand flexibility
+resources, particularly managed EV charging and bidirectional charging systems.
+• Southern California Edison (“SCE”) and San Diego Gas and Electric (“SDG&E”) should
+include bidirectional EV capabilities in future demand flexibility and distribution planning
+evaluations consistent with PG&E’s approach.
+II. RESPONSES TO RULING QUESTIONS
+1. How should the findings of the EIS2 inform the yearly DPEP?
+2 Cal Advocates, Distribution Grid Electrification Model 2025 at p.15. Available at:
+https://www.publicadvocates.cpuc.ca.gov/press-room/reports-and-analyses/distribution-grid-electrification-model-
+2025
+3
+
+The EIS2 reports provide some of the clearest evidence to date that electrification, when
+paired with coordinated demand flexibility strategies, can reduce distribution system costs and
+lower ratepayer impacts. The studies therefore should not remain purely exploratory exercises.
+Instead, the Commission should begin incorporating EIS2 findings into yearly DPEP planning
+assumptions, particularly in areas related to transportation electrification and flexible load
+management.
+Rather than planning solely around unmanaged peak demand growth, the DPEP should
+increasingly evaluate opportunities to use managed charging, coordinated distributed energy
+resource (“DER”) operations, and bidirectional EV capabilities to defer or reduce traditional
+infrastructure upgrades where cost-effective. This is particularly important because transportation
+electrification is expected to become one of the largest drivers of future distribution load growth
+in California.
+4. The EIS2 models enhanced demand flexibility and the coordinated management of DERs
+as a cost-saving tool to reduce future distribution infrastructure investment needs. Are the
+underlying assumptions of demand flexibility (including the scale of DER participation, load
+flexibility response rates, and timing of deployment) sufficiently supported by current data
+to be reliable as inputs for distribution planning and cost forecasting?
+a. If yes, how will the utilities incorporate these assumptions into future DPEP cycles?
+b. If not, what must utilities demonstrate to establish that those projections are
+sufficiently reliable, and what time frame expectations should the Commission
+establish?
+Generally, the Final EIS2 studies demonstrate that demand flexibility should begin
+informing future distribution planning efforts, particularly because the studies consistently show
+that coordinated load management can reduce future infrastructure investment needs. However,
+4
+
+additional granularity regarding the contribution of specific demand flexibility resources would
+help the Commission and utilities determine how best to incorporate these findings into future
+planning processes.
+All three IOUs modeled multiple forms of demand flexibility, including building
+electrification, behind-the-meter solar and stationary storage, and vehicle-grid integration
+(“VGI”). However, only PG&E identifies in detail how each of these demand flexibility resources
+contributes to overall load reduction in the enhanced demand flexibility scenario.3 By contrast,
+SCE and SDG&E do not provide comparable detail regarding how individual technologies or
+strategies contribute to the approximately $1.38 billion and $697 million in modeled savings
+associated with their respective demand flexibility scenarios.4
+Providing more granular results is important for two reasons. First, it helps evaluate
+whether specific assumptions are sufficiently validated for distribution planning purposes. Second,
+it provides important insight into which demand flexibility strategies are likely to provide the
+greatest ratepayer value and infrastructure cost savings.
+In particular, active managed EV charging has the potential to defer significant amounts of
+distribution infrastructure investment. PG&E found that active EV charging management could
+provide 1,007 MW of peak load reduction by 2040.5 While SCE and SDG&E modeled some
+elements of active managed charging, neither utility clearly quantified the specific contribution of
+managed charging to overall load reductions or avoided costs.6 Additional analysis on the impacts
+of managed charging would be valuable given that Cal Advocates found that shifting EV charging
+3 See PG&E EIS2 at Table 6 showing MW contributions of different technologies to coincident load flexibility.
+4 SCE EIS2 at 5; SDG&E EIS2 at 1.
+5 PG&E EIS2 at Table 6.
+6 SCE EIS2 at 37-38; SDG&E EIS2 at 13-16.
+5
+
+to manage distribution circuit load could provide between $5 billion and $18 billion in cost savings
+by 2040. 7
+6. Does EIS2 reveal any methodological or analytical limitations that should be considered
+before applying its findings in regulatory planning processes?
+a. What factors need to be considered or further validated before incorporating EIS2
+findings directly into future planning processes?
+b. Please identify the specific aspects of the study where additional clarification or
+analysis may be warranted.
+Additional analysis from SCE and SDG&E is warranted regarding the potential for
+bidirectional charging systems to provide demand flexibility and reduce future distribution
+infrastructure needs. Neither SCE nor SDG&E included bidirectional charging systems as a source
+of demand flexibility capable of serving onsite load or exporting energy back to the grid.
+By contrast, PG&E found that bidirectional charging systems could provide 859 MW
+of the utility’s estimated 2,770 MW of load reduction by 2040, representing more than 30%
+of PG&E’s total estimated load flexibility potential.8 Given the scale of this potential resource,
+future demand flexibility and distribution planning evaluations should include bidirectional
+charging capabilities as part of the analysis.
+This is particularly important because bidirectional EV and charging equipment
+availability is rapidly increasing across both light-duty and medium- and heavy-duty transportation
+sectors. Future studies should therefore continue refining assumptions of bidirectional charging
+adoption and evaluating how these resources can support localized distribution planning needs.
+7 Cal Advocates, Distribution Grid Electrification Model 2025 at p.83. Available at:
+https://www.publicadvocates.cpuc.ca.gov/press-room/reports-and-analyses/distribution-grid-electrification-model-
+2025
+8 PG&E EIS2 at Table 6.
+6
+
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the EIS2 studies. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: May 29, 2026
+7

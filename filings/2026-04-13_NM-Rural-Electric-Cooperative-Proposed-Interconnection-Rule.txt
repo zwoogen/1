@@ -1,0 +1,155 @@
+Docket No. 25-00008-UT
+BEFORE THE NEW MEXICO PUBLIC REGULATION COMMISSION
+IN THE MATTER OF THE POTENTIAL )
+ADOPTION OF AN INTERCONNECTION RULE ) Docket No. 25-00008-UT
+APPLICABLE TO RURAL ELECTRIC )
+COOPERATIVES
+INITIAL COMMENTS OF VEHICLE-GRID INTEGRATION COUNCIL
+ON PROPOSED RULE 17.9.575 NMAC
+Filed: April 13, 2026
+I. INTRODUCTION AND INTEREST OF VEHICLE-GRID INTEGRATION
+COUNCIL
+The Vehicle-Grid Integration Council (“VGIC”)1 respectfully provides its comments in to the
+Commission’s Order Issuing Notice of Proposed Rulemaking, filed February 13, 2026, proposing
+the adoption of a new interconnection rule at 17.9.575 NMAC applicable to rural electric
+cooperatives (“Proposed Rule”) and corresponding amendments to the existing interconnection
+rule at 17.9.568 NMAC. VGIC is a 501(c)(6) membership-based advocacy group committed to
+advancing the role of vehicle-grid integration (“VGI”) through policy development, education,
+outreach, and research. VGIC works to ensure that the value of flexible EV charging and
+discharging is recognized and compensated for, thereby achieving a more reliable, affordable, and
+efficient electric grid.
+II. VGIC OPPOSES THE BLANKET EXCLUSION OF BIDIRECTIONAL
+CHARGING SYSTEMS FROM THE PROPOSED RULE
+a. The Proposed Rule offers no technical or safety justification for this
+exclusion.
+VGIC recognizes that the core purpose of interconnection rules and procedures is to protect the
+safety and reliability of the grid and line workers, a goal we agree is imperative. We also
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Ford Motor Company,
+General Motors, Nissan Group of North America, Bidirectional Energy, BMW of North America, BodeEV,
+ChargePoint, ChargeScape, Codibly, Critical Loop, dcbel, Eaton Corporation, EnergyHub, EV.Energy, Fermata
+Energy, Gravity, Mercedes-Benz USA, Orange Charger, Renew Home, Rivian, Stellantis N.V., SWTCH Energy,
+Tesla, The Mobility House, Toyota Motor North America, Inc., UL Solutions, WeaveGrid, Clean Power Alliance,
+Connecticut Green Bank, Los Angeles Department of Water & Power, MCE Community Choice Energy, San Diego
+Community Power, and Sacramento Municipal Utility District. The views expressed in these Comments are those of
+VGIC, and do not necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/)
+1
+
+Docket No. 25-00008-UT
+acknowledge that, as a relatively new commercially available solution, bidirectional charging
+solutions may not be familiar to utilities. However, bidirectional charging systems that operate in
+bidirectional mode when connected to the grid (i.e., those typically subject to utility
+interconnection processes) are designed and certified to the same underlying distributed energy
+resource (“DER”) grid safety and interoperability requirements referenced in the Proposed Rule
+for other DERs. Specifically, today’s grid-parallel bidirectional charging equipment demonstrates
+conformance to IEEE 1547-2018 through certification to UL 1741 Supplement B (“SB”). The Ford
+Charge Station Pro + Sunrun Home Integration Kit, GM Energy PowerShift Charge + V2H
+Enablement Kit, dcbel Ara, Wallbox Quasar 2, Nuvve TP-60DC-V2G-H1-C, Nuvve TP-40DC-
+V2G-H1-C, Nuvve TP-20DC-V2G-H1-C, InCharge Energy ICE-22-V2X, InCharge Energy ICE-
+44-V2X, Tellus Power TP-V2G-60-480, Tellus Power TP-V2G-40-480, Tellus Power TP-V2G-
+30-480, and Tellus Power TP-V2G-20-480 bidirectional charging systems are all certified to UL
+1741 SB.2 In addition, the Tesla Powershare Grid Support system, leveraging the Tesla Universal
+Wall Connector, is expected to meet IEEE 1547-2018 via a new UL 1741 SB Certification
+Requirements Decision (“CRD”) in April, 2026.3
+The compliance of bidirectional charging systems with IEEE 1547-2018 and UL 1741 SB is
+relevant because these standards are referenced in the Proposed Rule itself as the underlying safety
+and reliability requirements for interconnection. As the Proposed Rule does not provide any safety
+or reliability justification for excluding bidirectional charging systems from interconnection, it is
+unreasonable to disallow certain UL 1741 SB-certified DERs from interconnecting while allowing
+others to do so. In some cases, the UL 1741 SB-certified equipment is the very same models used
+in stationary battery storage and/or rooftop solar systems.
+b. The Proposed Rule is inconsistent with national practices and precedent.
+Although bidirectional charging systems are relatively new, several utilities and states have
+moved these systems through a simple interconnection process and provided permission to
+operate. The World Resources Institute estimates that electric school bus bidirectional charging
+alone has been enacted in 26 utility service territories across 19 states.4 With this deployment,
+utilities and utility commissions are working to clarify that bidirectional charging systems are
+subject to the same underlying interconnection requirements and processes (i.e., UL 1741 SB
+2 See: California Energy Commission V2G Equipment List https://v2gel.energy.ca.gov/Home/ProcessView.
+Accessed April 13, 2026; GM Energy Inverter Specifications.
+https://gmenergy.gm.com/content/dam/gmenergy/na/us/en/index/01-pdfs/gm-energy-inverter-specifications.pdf.
+Version 5.2-12/2025; Opening Brief of Ford Motor Company. Colorado Public Utilities Commission Proceeding
+No. 25D-0536E. April 2, 2026. Page 22. https://www.dora.state.co.us/pls/efi/EFI_Search_UI.search
+3 Tesla. Powershare Bi-directional EV Charging. 2026 California Public Utilities Commission’s Annual Vehicle-
+Grid Integration Forum. https://www.cpuc.ca.gov/industries-and-topics/electrical-
+energy/infrastructure/transportation-electrification/vehicle-grid-integration-activities. Event Recording at 1:56:41.
+4 Robert Stafford. Latest Lessons From Electric School Bus Vehicle-to-Grid Programs. May 13, 2025. World
+Resources Institute. https://www.wri.org/update/electric-school-bus-v2g-lessons-examples
+2
+
+Docket No. 25-00008-UT
+certification). For example, the Public Utilities Commission of Nevada is currently considering
+NV Energy’s proposed update to its interconnection rules, which include clarifying the treatment
+for bidirectional charging systems.5 Texas, Maryland, California, Connecticut, Colorado,
+Massachusetts, and New York have or are similarly addressing the interconnection of
+bidirectional charging systems.6 Notably, none of these other states or utilities have adopted or
+proposed a blanket exclusion of bidirectional charging systems from interconnection rules. VGIC
+is not aware of any established precedent categorically prohibiting bidirectional charging
+systems that comply with IEEE 1547 from being subject to interconnection rules and regulations.
+III. VGIC RECOMMENDS SIMPLE, EASY-TO-IMPLEMENT GUIDELINES
+FOR INCORPORATING BIDIRECTIONAL CHARGING SYSTEMS INTO
+THE PROPOSED RULE.
+VGIC recommends easily implementable best practices we’ve observed across the U.S. to
+provide clear, consistent pathways to safely and reliably interconnect both types of bidirectional
+charging systems: Direct Current (“DC” – where the inverter is offboard the vehicle) and
+Alternating Current (“AC” – where the power conversion takes place onboard the vehicle). The
+former is most common today, with available products from Ford, General Motors, Nissan,
+Volvo, Polestar, Kia, dcbel, Wallbox, BlueBird, Thomas Built, RIDE, Nuvve, Heliox, InCharge,
+and Tellus Power Green. The latter is less common, but emerging, with available products from
+Tesla and likely other solution providers soon. VGIC respectfully urges the Commission to revise
+the Proposed Rule as follows:
+a. Define Bidirectional Charging Systems as “a combination of hardware and
+software in or around the charger and electric vehicle for the purposes of
+communication with and programmed flow of energy into and out of the vehicle
+battery in support of electrical loads or systems offboard the EV, including the
+electric grid.” This definition comprehensively encompasses both DC and AC
+systems, without being overly prescriptive as to the use case for which these
+systems will be enabled.
+b. Clarify that bidirectional charging systems shall not be enabled for grid-parallel
+bidirectional charging without first receiving permission to operate from the
+utility.
+5 See PUCN Docket No. 25-12031.
+6 See TX PUC Project No. 54233, MD PSC Rulemaking 87, CA PUC D.20-09-035 in R.17-07-007, CT PURA
+Docket No. 25-08-05, CO PUC Proceeding No. 25D-0536E, National Grid MA Interconnection Documents, NY
+Joint Utilities EV Configuration Decision Tree.
+3
+
+Docket No. 25-00008-UT
+c. Clarify that bidirectional charging systems without enabled bidirectional charging
+features should not be directed to move through an interconnection review and
+study process.
+d. Adopt that, for the purposes of interconnection, a bidirectional charging system
+with bidirectional charging features enabled is an energy storage system. This is
+consistent with best practices that VGIC has observed in other utility service
+territories and states. This avoids the need to entirely “reinvent the wheel” for
+bidirectional charging systems and instead leverages the years of experience that
+utilities, installers, and solution providers have gained working with the same
+underlying safety and reliability standards for inverters (i.e., IEEE 1547-2018 and
+UL 1741).
+e. Establish a clear pathway (i.e., an interconnection form) for DC bidirectional
+charging systems that meet IEEE 1547-2018 via UL 1741 SB certification.
+f. Establishes two pathways for AC bidirectional charging systems, in recognition
+that both are capable of ensuring safety and reliability but the market has not yet
+coalesced around a single pathway. These two pathways for AC interconnection
+are suited for different use cases. Specifically, a UL 1741 SC Pathway can
+support multiple EVs being used at a certified charging station, whereas a UL
+1741 SB CRD for DER Systems can support only a single defined EV used as
+part of a certified bidirectional charging system, for example, in a single-family
+home context.
+VGIC believes these modifications are reasonable and appropriate, and we recommend the
+Proposed Rule be adapted to include these considerations, rather than the unjustified, blanket
+prohibition on bidirectional charging systems.
+Establishing these rules is important for expanding safe and reliable access to available VGI
+technology, which will lead to significant benefits for participating customers and reduce cost
+impacts on the grid and, in turn, all customers.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide comments and looks forward to further
+collaboration with stakeholders on this important initiative.
+4
+
+Docket No. 25-00008-UT
+Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+5

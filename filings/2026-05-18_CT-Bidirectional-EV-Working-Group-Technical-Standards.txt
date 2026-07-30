@@ -1,0 +1,84 @@
+May 18, 2026
+Stephan Wollenburg
+Facilitator, CT Bidirectional EV Working Group
+Customized Energy Solutions
+RE: Clarification of VGIC’s Recommendations on Technical Standards and
+Certifications of Bidirectional Charging Systems for the Energy Storage
+Solutions Program
+VGIC seeks to clarify its recommendations regarding the technical standards and
+certification requirements used to determine eligibility for bidirectional charging systems
+under the Energy Storage Solutions (ESS) program. As bidirectional charging solutions
+continue to evolve, program eligibility criteria must reflect both established safety
+standards and the current state of commercially available solutions, without inadvertently
+excluding viable commercially available systems that can meaningfully support the grid.
+Recommendation #1: Separate Requirements for DC and AC Bidirectional Charging
+Systems
+Technical standards and certification requirements should be established separately for
+DC and AC bidirectional charging systems. This distinction is consistent with existing
+interconnection frameworks, which recognize the fundamental differences in how these
+distinct bidirectional charging architectures are certified and deployed. Aligning ESS
+program eligibility requirements with this structure will help ensure clarity and reduce
+ambiguity for participants, program administrators, and technology providers.
+Recommendation #2: Align ESS Program Requirements with Distribution System
+Interconnection Requirements
+To further bolster clarity and reduce ambiguity, the standards and required certifications
+for bidirectional charging system ESS program eligibility should be mapped to the
+requirements for safe and reliable distribution system interconnection. Requirements for
+1
+
+ESS program eligibility that do not also appear in the relevant interconnection
+requirements should be identified with a clear explanation as to why the standard or
+certification is required.
+Recommendation #3: Provide a Grace Period for Equipment That Does Not Meet
+Program Communication Protocols Eligibility Requirements
+VGIC appreciates the importance of and supports advancing toward a robust and
+interoperable bidirectional charging ecosystem, including through the use of open
+standards, which may include ISO 15118-20 Amendment 1 for Bidirectional Power Transfer
+(BPT) and the Open Charge Point Protocol (OCPP), Version 2.1. These standards are likely
+to play an important role over the long term in enabling greater interoperability across
+vehicles, charging equipment, and charge station management platforms.
+At the same time, the market for bidirectional charging remains in a nascent stage of
+development. Many commercially available systems today rely on proprietary or
+alternative communication approaches and would not meet strict compliance
+requirements if imposed today. Establishing near-term eligibility requirements tied to
+these protocols risks excluding viable products currently in the market, thereby limiting
+participation, slowing the pace of early deployment and learning, and restricting the
+magnitude of system peak load reduction and, in turn, the benefits that can accrue to all
+ratepayers.
+Connecticut is taking a leadership role as one of the first jurisdictions to move from one-off
+demonstrations toward full integration of bidirectional charging systems into a customer
+program. As such, program design must reflect current market realities while allowing the
+industry a chance to mature. VGIC recommends establishing a defined grace period during
+which bidirectional charging systems that are not yet designed to open standards remain
+eligible for program participation. This approach would enable continued market
+development while providing a clear signal that interoperability standards will become
+increasingly important over time.
+A time-bound grace period, paired with a commitment to revisit communication protocol
+requirements in future program years, strikes an appropriate balance between supporting
+market transformation and unlocking customer benefits (both for participating customers
+and non-participating ratepayers) without compromising long-term interoperability goals.
+This phased approach will help ensure that early market momentum is not disrupted while
+positioning the program to transition toward standardized, interoperable solutions as
+2
+
+design and certification frameworks (e.g., IEA Task 53), testing infrastructure (e.g., CharIn
+Testivals and California’s new Capital Charge Yard), and commercially available products
+continue to evolve.
+Recommendation #4: Coordinate the Consideration of Technical Requirements with
+that of Incentive Structure
+As a general note, VGIC recognizes that any program design elements that provide
+equipment rebates should be balanced to avoid deploying assets that may later become
+stranded. However, it is unclear at this stage of the Bidirectional EV Working Group
+whether the resulting report and recommendations to PURA will advise that equipment
+rebates be provided. VGIC posits that if equipment rebates are not provided, the concern
+over stranded assets would be eliminated, as program funds would not be placed at risk in
+the first place.
+Thank you for considering these recommendations. VGIC would be happy to meet to
+discuss or clarify any of the above recommendations at your convenience.
+Sincerely,
+Steve Letendre, PhD
+Senior Advisor
+Vehicle-Grid Integration Council (VGIC)
+sletendre@vgicouncil.org
+(802) 779-3580
+3

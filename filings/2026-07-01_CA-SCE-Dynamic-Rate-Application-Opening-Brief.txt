@@ -1,0 +1,257 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Southern California Edison Application 24-06-014
+Company (U-338E) for Approval of Large (Filed September 30, 2024)
+Power Dynamic Pricing Rate.
+Application 24-12-008
+And Related Matter.
+OPENING BRIEF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: July 1, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Southern California Edison Application 24-06-014
+Company (U-338E) for Approval of Large (Filed September 30, 2024)
+Power Dynamic Pricing Rate.
+Application 24-12-008
+And Related Matter.
+OPENING BRIEF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+Pursuant to Rule 13.1 of the Rules of Practice and Procedure of the California Putlic
+Utilities Commission (“Commission”) and the Administrative Law Judge’s Ruling Modifying The
+Proceeding Schedule Including the Addition of Supplemental Testimony issued on March 25, 2026,
+the Vehicle-Grid Integration Council (“VGIC”) hereby submits this Brief on the consolidated
+Application of Southern California Edison Company (U 338-E) for Approval of Large Power
+Dynamic Pricing Rate.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to comment on Southern California Edison Company's
+("SCE") dynamic rate design. The record in this proceeding demonstrates that SCE’s dynamic rate
+developed for Load Management Standard compliance should include dynamic export credits,
+especially for bidirectional electric vehicle charging systems (i.e., non-NEM and non-NBT
+exporting systems). Dynamic export credits are consistent with the Commission's clear, repeated
+direction that distributed energy resource (“DER”) exports: (a) be compensated based on unscaled
+marginal costs; (b) can be implemented using SCE's proposed dynamic rate framework; and (c)
+will enable customers to provide valuable grid services when those services are most needed. In
+an era of outright ratepayer rage over electricity affordability, the Commission must not
+1
+
+fumble an immediate opportunity to unlock grid-edge energy exports that, by definition, are
+provided during the most valuable hours.
+When SCE developed its proposal, it anticipated that customers with bidirectional EV
+charging systems, which are non-NEM and non-NBT systems, would have access to export credits
+through the Vehicle-Grid Resource Proposal ("VGRP") in Application (“A.”) 24-03-019.
+Following the Commission's decision not to adopt VGRP, that assumption no longer holds. As a
+result, customers with bidirectional EV charging systems now lack a durable pathway to provide
+compensated exports to the grid, despite broad agreement in this proceeding that dynamic export
+compensation should be based on unscaled marginal costs.
+Providing a dynamic export rate would align SCE's proposal with the Commission's
+marginal-cost pricing principles while unlocking substantial reliability and affordability benefits
+from California's rapidly growing fleet of EVs, a growing share of which offer bidirectional
+charging features. Conversely, failing to provide a pathway for exports will encourage customers
+and technology providers to optimize these systems primarily for behind-the-meter applications,
+limiting their ability to support the electric grid and significantly reducing the broader benefits
+these resources can provide. For these reasons, the Commission should require SCE to include
+dynamic export credits for bidirectional EV charging systems (as non-NEM, non-NBT systems)
+in the implementation of its dynamic rate.
+II. THE COMMISSION SHOULD REQUIRE DYNAMIC EXPORT CREDITS BASED
+ON UNSCALED MARGINAL COSTS.
+A. The record demonstrates broad agreement that dynamic export credits should be based
+on unscaled marginal costs.
+The record reflects broad agreement that export credits be included in a dynamic rate based
+on unscaled marginal costs consistent with D.25-08-049. The parties addressing export credits,
+2
+
+including Cal Advocates, SEIA, and VGIC, all share support for a dynamic export rate based on
+unscaled marginal costs.1 This is in line with the Commission’s underlying Demand Flexibility
+Design Principles, which state that demand flexibility tariffs should provide marginal cost-
+based compensation for exports.2 As discussed by SEIA, a dynamic export rate should be
+adopted because “Export rates that are closely linked to actual market prices and loads will provide
+the most economically efficient price signals.”3 In other proceedings, Cal Advocates has proposed
+that the Commission should “expand existing dynamic rate pilots [to include exports] and continue
+to test export credits based on a dynamic price signal,” since these dynamic rate frameworks can
+most accurately compensate for the value of exports. 4
+Additionally, Cal Advocates has highlighted a concern that a dynamic transmission rate
+may include recovery of non-marginal costs.5 However, VGIC believes that if SCE’s dynamic
+transmission rate includes non-marginal cost components, those components should be removed
+from the export rate, such that all export components are based solely on unscaled marginal costs,
+constituting a defensible, durable approach. VGIC believes that this is technically feasible, since
+SCE has shared the ability to separate scaled from unscaled factors and separate out marginal from
+non-marginal cost components.
+B. SCE has confirmed that dynamic export credits can be implemented.
+1 CA-04 at p.21, lines 8-9; SEIA-01 at p.14, lines 23-27 – p.15, lines 1-6; VGIC-01 at p.15, lines 16-22 –
+p.16, lines 1-3.
+2 SEIA-01 at p.14, lines 12-15.
+3 SEIA-01 at p.14, lines 15-16.
+4 Cal Advocates comments at 4
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M582/K489/582489355.PDF
+5 CA-04 at p.22, lines 3-20.
+3
+
+The record contains no evidence that technical barriers prevent the implementation of
+dynamic export credits. In fact, SCE itself has, in no uncertain terms, confirmed that “SCE
+can offer dynamic hourly export rates following the dynamic rates design methods as
+detailed in A.24-12-008,”6 and has outlined that SCE would be able to develop a rate,
+“consist[ing] of non-EPMC-scaled SCE distribution and generation capacity marginal cost
+rates, CAISO day-ahead market prices, and hourly transmission prices, as ordered in
+Decision 25-08-049.”7
+Notably, Pacific Gas and Electric (PG&E) has also shown that dynamic export
+compensation rates can be developed and implemented. PG&E currently offers export
+compensation in its dynamic rate pilot and proposes to extend dynamic rate export compensation
+in its long-term dynamic rate (with the subscription component becoming optional in the long-
+term proposal).8 Given the already proven ability of utilities to implement dynamic export rates,
+and SCE’s explicit confirmation that a dynamic export compensation rate compliant with D.25-
+08-049 can be feasibly implemented in its service territory, the Commission should require SCE
+to adopt dynamic export compensation based on unscaled marginal costs for which bidirectional
+EV charging systems (and likely other DERs) are eligible for credits.
+III. THE FACTUAL CIRCUMSTANCES UNDERLYING SCE'S PROPOSAL HAVE
+MATERIALLY CHANGED.
+SCE's original proposal did not include dynamic export compensation because it
+anticipated that customers with bidirectional EV charging systems would instead receive export
+6 DATA REQUEST SET VGIC - SCE - 02
+7 DATA REQUEST SET VGIC - SCE – 02 question 1.A
+8 VGIC-01 at p.23, lines 14-20, citing PG&E, Pacific Gas and Electric Company 2023 General Rate Case
+Phase II Supplemental Testimony Exhibit (PG&E-5) Real-Time Pricing Proposal, served to A.24-09-014
+on October 29,2025, at p.2-41, lines 1-7.
+4
+
+compensation through the Vehicle-Grid Resource Proposal ("VGRP") in Application 24-03-019.
+Under that framework, SCE was concerned that having both VGRP and a dynamic export rate
+would “lead to customer confusion, settlement and billing complexities, and potentially promote
+inequities among participating EV customers.”9
+Since SCE filed this Application and submitted testimony outlining its proposed dynamic
+rate, the Commission declined to adopt VGRP. As a result, the fundamental assumption underlying
+SCE's export compensation proposal no longer exists. Unlike customers with solar, bidirectional
+EV charging customers in SCE’s service territory now lack any export compensation pathway
+beyond summer 2027. 10
+In A.24-03-019, the Commission rejected VGRP because of concerns from Cal Advocates,
+namely concerns around “the accuracy and cost-effectiveness of ACC-based, versus real-time
+marginal-cost-based, credits in reflecting marginal costs.”11 Those concerns do not apply to the
+proposal advanced here. Rather than relying on ACC values, VGIC and parties propose dynamic
+export compensation based on unscaled marginal costs consistent with D.25-08-049. For this
+reason, while Cal Advocates opposed VGRP, they can support dynamic export pricing, stating
+“Cal Advocates supports the Commission adopting a dynamic export rate in this proceeding only
+if the export rate is based only on unscaled marginal costs.”12
+9 SCE-03 at p.41, lines 20-24.
+10 See VGIC-01 at p.22, lines 19-21. Outside of rates, there are very limited opportunities for bidirectional
+charging systems to provide value to the grid through exports in SCE’s service territory. The only currently
+available programs are the Emergency Load Reduction Program (“ELRP”), which is scheduled to sunset
+after 2027, and the Demand Side Grid Support Program (“DSGS”), which may not continue beyond this
+year. As a result, absent further Commission action, bidirectional charging systems will effectively have no
+pathway to provide grid services after 2027.
+11 D.26-04-033 at 49.
+12 CA-04 at p.21, lines 8-9.
+5
+
+IV. DYNAMIC EXPORT COMPENSATION WILL UNLOCK SUBSTANTIAL GRID
+BENEFITS.
+DERs can provide tremendous value to the grid through exports, especially from resources
+that have not traditionally participated in Net Energy Metering (“NEM”) or Net Billing Tariff
+(“NBT”) tariffs. EVs are the largest source of energy storage in California, with the California
+Energy Commission (“CEC”) estimating that there are already 18.5 GW of aggregate vehicle
+battery capacity statewide, surpassing California’s installed stationary storage capacity. 13 Every
+day, additional vehicles are sold in California with grid-parallel bidirectional charging features,
+including 24 models on the market today from 14 automotive brands, with four additional models
+from four more automakers announced for upcoming release.14 For SCE specifically, as of the end
+of 2025, VGIC estimated that there were already over 70,000 vehicles with bidirectional charging
+features in its service territory.15
+These resources can provide significant grid value. The Commission's own Integrated
+Resource Planning assumptions indicate bidirectional EV charging could provide more than
+13,500 MW of additional capacity by 2045 beyond the contributions from managed charging
+alone.16 The CEC’s report on bidirectional charging estimates that bidirectional discharge will be
+the largest source of customer load flexibility and grid value, providing 5 GW of residential peak
+13 California Energy Commission. A Roadmap to Unlocking the Benefits of Bidirectional Charging. March
+2026. Page 2. https://efiling.energy.ca.gov/GetDocument.aspx?tn=268952&DocumentContentId=106145
+14 VGIC-01 at Table 1 (p.8-13) and p.14, lines 3-7.
+15 VGIC-01 at p.13, lines 3-4.
+16 VGIC-01 at p.5, lines 3-14, citing California Public Utilities Commission (“CPUC”), Draft Inputs &
+Assumptions, 2024 – 2026 Integrated Resource Planning (IRP) at p.111. https://www.cpuc.ca.gov/-
+/media/cpuc-website/divisions/energydivision/documents/integrated-resource-plan-and-long-term-
+procurement-plan-irp-ltpp/2024-2026-irp-cycle-eventsand-
+materials/2025_draft_inputs_and_assumptions_doc_20250220.pdf
+6
+
+load reduction and approximately three times the value of unidirectional managed charging.17
+These projections demonstrate that establishing a pathway for bidirectional EV charging exports
+is essential to realizing the reliability and affordability benefits anticipated in the Commission's
+planning processes.
+V. THE COMMISSION MUST ENABLE GRID-INTERACTIVE ACTIVITIES THAT
+ENCOURAGE CUSTOMERS TO CONTRIBUTE TO THE GRID, RATHER
+THAN ENCOURAGE GRID DEFECTION.
+Given the untapped potential of bidirectional EV charging, including the sheer energy
+capacity available in each vehicle, customers will seek safe ways to use these assets to their benefit.
+It is therefore critical to ratepayer interests that the Commission establish pathways that enable
+and encourage these resources to contribute to grid needs. SCE has already demonstrated
+significant customer interest in “V2G energy exports,” with 81% of SCE’s surveyed customers
+expressing at least “a little interested” and 16% of customers stating they are “very interested.”18
+Absent export opportunities or participation in grid service programs, customers are
+likely to use these vehicles solely to meet onsite needs. The CEC’s Roadmap anticipates this
+outcome, noting that customers can prioritize vehicle-to-home (“V2H”) applications to offset
+consumption during peak time-of-use periods, potentially through systems voluntarily islanded
+from the grid. 19 While such use cases can provide benefits, including an estimated 5 GW reduction
+in residential peak load by 2030, these systems may operate disconnected from the grid and
+therefore limit broader system value. Systems configured in this manner can mitigate a
+customer’s impact on the grid but do nothing to mitigate their neighbor’s impact.
+17 California Energy Commission. A Roadmap to Unlocking the Benefits of Bidirectional Charging. March
+2026. Page 3.
+18 SCE-04A at p. 125, lines 10-16.
+19 The CEC roadmap refers to these systems as “grid disconnected.”
+7
+
+This trajectory risks pushing customers to maximize their private benefits rather than
+aligning their behavior with the system's needs. While non-exporting applications of bidirectional
+EV charging systems may occasionally coincide with grid benefits, they will not consistently
+deliver optimized system outcomes. Customers acting independently will not necessarily
+discharge at times of the highest grid value, nor will they support load shaping in ways that reduce
+overall system costs, including the immense estimated costs of distribution system upgrade costs
+identified by the Commission’s Electrification Impact Studies – Part 1, the utilities’ Electrification
+Impact Studies – Part 2, and Cal Advocates’ Distribution Grid Electrification Model.
+VGIC is particularly concerned that this dynamic could lead to unintended cost shifts. In
+studies on the benefits of electrification, increased grid consumption during off-peak times reduces
+rates for all Californians.20 Shaping increased load, therefore, becomes important to maximize
+ratepayer savings, but simply removing significant overall load from the system does not
+address California’s affordability crisis and could lead to cost shifts among customers.
+In the absence of export compensation or clear grid-participation signals, technology
+providers may increasingly design products for self-consumption or grid-disconnected use
+cases. Early generations of bidirectional EV charging solutions are already marketed primarily for
+grid-isolated backup power. Technology development cycles are occurring now for products that
+will be deployed over the next three to five years. Without clear policy direction, these systems
+are likely to be optimized for customer-only use, including daily cycling for time-of-use arbitrage
+and elective islanding, even under “blue sky” or normal operating conditions.
+20 The Public Advocates Office. Abishek, Benjamin Hoffman, Leo Steinmetz, and Richard Khoe.
+Distribution Grid Electrification Model 2025. https://www.publicadvocates.cpuc.ca.gov/-/media/cal-
+advocates-website/files/presentations/251030-public-advocates-office-dgem-2025-slides.pdf
+8
+
+To avoid this outcome, the Commission should establish a framework that encourages
+bidirectional EV charging systems to remain connected to, and actively support, the grid.
+Providing a pathway for export and grid services will help align customer incentives with system
+needs, unlock the full value of these DERs, and ensure that benefits are shared across all ratepayers.
+VGIC reiterates that, in the case of denying export compensation for bidirectional
+EV charging customers, there is an immense ratepayer cost of inaction, as this misstep will
+directly lead to greater development and deployment of very large home batteries (in the
+form of 80kWh/11kW bidirectional EV charging systems) that support grid defection and
+reduced utility revenue from these customers, directly undermining the Commission’s
+affordability goals.
+VI. CONCLUSION.
+VGIC appreciates the opportunity to submit this Opening Brief. For the above reasons, the
+Commission should require SCE to include dynamic export compensation based on unscaled
+marginal costs as part of its dynamic rate.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: July 1, 2026
+9

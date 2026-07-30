@@ -1,0 +1,471 @@
+May 15th, 2026
+VIA BPU E-FILING SYSTEM AND ELECTRONIC MAIL
+Attn: Sherri L. Lewis
+Secretary of the New Jersey Board of Public Utilities
+44 South Clinton Avenue
+1st Floor, PO Box 350
+Trenton, NJ 08625-0350
+board.secretary@nj.bpu.gov
+RE: Vehicle Grid Integration Council Comments in the Matter of Developing Integrated
+Distributed Energy Resource Plans to Modernize New Jersey’s Electric Grid, Docket No.
+QO24030199
+Vehicle-Grid Integration Council (“VGIC”)1 is a 501(c)(6) membership-based advocacy
+organization committed to advancing the role of vehicle-grid integration (“VGI”) through policy
+development, education, and research. VGIC supports the transition to decarbonized
+transportation and electric sectors by ensuring that the value from flexible electric vehicle
+(“EV”) charging and discharging is recognized, compensated, and aligned with a more reliable,
+affordable, and efficient electric grid.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Ford Motor Company,
+General Motors, Nissan Group of North America, Bidirectional Energy, BMW of North America LLC, bodeEV,
+ChargePoint, ChargeScape, Codibly Inc., Critical Loop, dcbel, Eaton Corporation, EnergyHub, EV.Energy, Fermata
+Energy, Gravity Inc., Mercedes-Benz Research & Development North America, Inc., Orange Charger, Inc., Renew
+Home, Rivian, Stellantis, SWTCH Energy Inc., Tesla, The Mobility House, Toyota Motor North America, Inc., UL
+Solutions, WeaveGrid, Clean Power Alliance, Connecticut Green Bank, Los Angeles Department of Water and
+Power, Marin Clean Energy, San Diego Community Power, and Sacramento Municipal Utility District. The views
+expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC
+member companies or supporters. (https://www.vgicouncil.org/)
+
+Introduction
+VGIC commends the New Jersey Board of Public Utilities (“BPU”) for initiating this important
+proceeding to advance integrated distributed energy resource planning, modernize
+interconnection processes, and identify opportunities to more efficiently and cost-effectively
+enable the interconnection of distributed energy resources (“DERs”) across the State. In
+particular, VGIC recognizes the Board’s focus on improving hosting capacity transparency,
+addressing constrained circuits, and exploring regulatory and technical pathways to accelerate
+DER deployment in response to growing load and affordability pressures.
+VGIC appreciates the opportunity to provide comments and share its informed perspective based
+on extensive work across the United States on vehicle-grid integration potential and bidirectional
+charging system interconnection. VGIC member companies are actively advancing these
+solutions and bring direct experience working with utilities, regulators, and system operators to
+enable the safe, reliable, and scalable integration of electric vehicles as grid resources.
+The focus of our comments is on EVs as flexible grid resources and the opportunity to leverage
+the latent energy storage capacity in EVs to address the energy affordability challenge. Research
+from New York2 and Massachusetts3, among others, finds that electric vehicles represent the
+single largest source of flexible demand on the system, driven by their scale, high availability,
+and multi-kilowatt capability. Compared to traditional curtailment-based demand response
+resources, these characteristics allow EVs to deliver capacity more efficiently and with lower
+administrative cost per kW.
+VGIC respectfully offers the following recommendations to support the Board’s goals of
+accelerating DER interconnection, increasing hosting capacity, improving affordability, and
+enabling EVs to operate as flexible grid resources.
+• Recommendation #1: Evaluate and plan for the opportunity to leverage the latent
+energy storage capacity of EVs through utility planning processes, including load
+forecasting, distribution system planning, and resource adequacy analysis.
+• Recommendation #2: Optimize the use of vehicle-grid integration to increase
+hosting capacity and reduce distribution system investments through managed
+2 The Brattle Group, January 202, New York’s Grid Flexibility Potential, Volume 1: Summary Report available at
+https://www.brattle.com/wp-content/uploads/2025/02/New-Yorks-Grid-Flexibility-Potential-Volume-I-Summary-
+Report.pdf.
+3 Massachusetts Department of Energy Resources, December 2025, Peak Potential: Load Management for an
+Affordable Net-Zero Grid available at https://www.mass.gov/doc/doer-peak-potential-report-and-policy-
+recommendations/download.
+
+charging, bidirectional charging, and other operational strategies that improve grid
+utilization and defer infrastructure upgrades.
+• Recommendation #3: Adopt emerging best practices in bidirectional charging
+system interconnection by establishing clear and standardized pathways for AC and DC
+bidirectional charging systems using existing technical standards and interconnection
+frameworks.
+• Recommendation #4: Develop mechanisms to efficiently manage installation,
+interconnection, and program administration for customers with multiple DERs at
+a single site through streamlined review procedures, clear net metering treatment, and
+coordinated program participation requirements for multi-DER sites.
+Electric Vehicles as Distributed Energy Resources
+Vehicle-grid integration, often abbreviated as VGI, describes the coordinated management of
+electric vehicle charging and, where bidirectional capabilities are enabled, the controlled
+discharge of energy from vehicle batteries. EVs represent a rapidly growing and highly flexible
+form of electric load. Because vehicles are parked for the vast majority of the day, their charging
+behavior can often be adjusted in time without affecting mobility. Through appropriate software
+platforms, communications systems, and program designs, EV charging can be shifted from
+high-demand periods to times when the system has excess capacity, and electricity prices are
+lower. In addition, EVs paired with bidirectional charging systems can discharge energy stored
+in their batteries to meet site load or export to the grid when needed, while still meeting the
+driver's mobility needs and protecting the vehicle battery's health. With these capabilities,
+electric vehicles can serve as flexible grid resources that help balance supply and demand in the
+electric system and, specifically, manage constraints in the distribution system.
+Vehicle-grid integration also aligns closely with emerging flexible service connection and
+flexible interconnection frameworks designed to increase utilization of existing grid
+infrastructure and reduce the need for costly system upgrades. Under these approaches, energy
+storage and flexible loads are interconnected subject to operational limits or dynamic controls
+that manage electricity imports and exports in response to distribution system constraints. These
+frameworks may be particularly valuable for fleet electrification applications, where large
+charging loads and bidirectional export capability can be actively managed to remain within grid
+constraints while avoiding or deferring costly upgrades. As a result, VGI should be viewed not
+only as a managed charging or export strategy, but also as an operational tool that can support
+flexible grid connections.
+VGI technology has advanced quickly in recent years and is moving from early demonstrations
+toward broader deployment and adoption. The software platforms, communications systems,
+
+vehicles, and charging equipment needed to support these capabilities are now available in the
+marketplace and are increasingly being incorporated into offerings from automakers, charging
+equipment manufacturers, and software providers. As electric vehicle adoption grows, these
+technologies are creating the foundation for electric vehicles to operate as flexible grid resources.
+Significant progress has already been made in deploying managed charging solutions. Several
+platform providers are working with utilities and automakers to scale programs that shift EV
+charging in response to grid conditions and electricity prices. Companies such as ChargeScape,
+EnergyHub, ev.energy, and WeaveGrid have developed software platforms that use vehicle
+telematics, charger data, and utility signals to coordinate charging across large numbers of
+vehicles. These platforms are already supporting managed charging programs in multiple states
+and demonstrate that flexible EV charging can be delivered reliably at scale.
+In recent years, automakers and EV charging equipment providers have expanded the available
+set of bidirectional charging system offerings, detailed below in Table 1.
+Table 1: EV and EVSE on New Jersey’s roads that are offered with bidirectional charging
+features
+Product Notes
+Nissan LEAF - Model Year (“MY”) 2013 or later.
+- Bidirectional charging enabled with dcbel Ara.4
+Ford F-150 Lightning Electric - Bidirectional charging enabled with Ford Charge Station Pro and
+Home Integration System.5
+Chevrolet Bolt EV - MY 2027.
+- Bidirectional charging enabled with GM Energy PowerShift.6
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+4 dcbel, California Energy Commission. California Connected Home Rebate. Accessed January 13, 2026.
+https://redwds.dcbel.energy/
+5 Bill Crider. Your Next Side Hustle Might Come from Your Parked Electric Vehicle. Ford From the Road. October
+28, 2025. https://www.fromtheroad.ford.com/us/en/articles/2025/introducing-ford-home-power-management
+6 GM Energy. V2H-Capable GM EVs. Accessed January 13, 2026. https://gmenergy.gm.com/
+
+Chevrolet Silverado EV - MY 2024, 2025, and 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+Chevrolet Equinox EV - MY 2024, 2025, and 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+Chevrolet Blazer EV - MY 2024, 2025, and 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+GMC Hummer EV SUT - MY 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+GMC Sierra EV - MY 2024, 2025, and 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+Cadillac CELESTIQ - MY 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+Cadillac VISTIQ - MY 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+Cadillac ESCALADE IQ - MY 2025 and 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+
+Cadillac OPTIQ - MY 2025 and 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+Cadillac LYRIQ - MY 2024, 2025, and 2026.
+- Bidirectional charging enabled with GM Energy PowerShift.
+- Although GM does not explicitly advertise grid-parallel
+bidirectional charging, the GM Energy V2X Enablement Kit does
+include a UL 1741 SB-certified inverter.
+Tesla Cybertruck - Bidirectional charging enabled with Tesla Universal Wall
+Connector.7
+Kia EV9 - Bidirectional charging enabled with Wallbox Quasar 2.8
+Volvo EX90 - Bidirectional charging enabled with dcbel Ara.9
+Polestar 3 - Bidirectional charging enabled with dcbel Ara.10
+BlueBird - 155 kWh or 196 kWh school buses11
+BYD / RIDE - 156 kWh, 230 kWh, or 288 kWh school buses12
+7 Tesla. Powershare. Accessed January 13, 2026. https://www.tesla.com/powershare
+8 Kia EV9 x Wallbox Quasar 2. Accessed January 13, 2026. https://wallbox.com/en_us/kia-ev9-quasar-2
+9 dcbel, California Energy Commission. California Connected Home Rebate. Accessed January 13, 2026.
+https://redwds.dcbel.energy/
+10 dcbel, California Energy Commission. California Connected Home Rebate. Accessed January 13, 2026.
+https://redwds.dcbel.energy/
+11 BusinessWire. Blue Bird Receives Record Order of 180 Electric School Buses. January 16, 2024.
+https://www.businesswire.com/news/home/20240116715215/en/Blue-Bird-Receives-Record-Order-of-180-Electric-
+School-Buses
+12 PG&E. Vehicle-to-Everything (V2X) pilot program: Eligible Product List for the V2X Commercial Pilot.
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-
+v2x-pilot-programs.html. Retrieved January 13, 2026.
+
+IC Bus - 210 kWh or 315 kWh school buses13
+Green Power Motors - 118 kWh or 193 kWh school buses14
+Thomas Built Buses - 226 kWh school buses15
+Tellus Power Green - 20, 30, 40, or 60 kW EVSE16
+InCharge - 22, 44, or 66 kW EVSE17
+Heliox - 60 kW EVSE18
+In addition to the above-listed currently available solutions, the following EVs are associated
+with announced, but not yet available, bidirectional charging features: Hyundai Ioniq 9,19 Kia
+EV6,20 and Rivian R2.21 This totals 24 models on the market today from 14 automakers, with
+three additional models from three more automakers already announced for near-term release.
+Electric Vehicle Supply Equipment (“EVSE”) manufacturers that have announced but not yet
+13 IC Bus. Electric CE Series School Bus. https://www.icbus.com/-
+/media/Project/Navistar/ICBus/ICBus/electric_ce_series_brochure_spread_format.pdf. Retrieved January 7, 2025.
+14 California HVIP. School Bus: Vehicle Type – ZESBI $ Eligible. https://californiahvip.org/vehicle-category/school-
+bus/?type=655. Retrieved January 7, 2025.
+15 Thomas Built Buses, Retrieved March 3, 2026 from https://thomasbuiltbuses.com/electric-school-buses/utility-
+providers/
+16 PG&E. Vehicle-to-Everything (V2X) pilot program: Eligible Product List for the V2X Commercial Pilot.
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-
+v2x-pilot-programs.html. Retrieved January 7, 2025.
+17 InCharge. Chargers & Hardware. https://inchargeus.com/chargers/. Retrieved January 7, 2025.
+18 Heliox. Heliox 60 kW. https://www.heliox-energy.com/us-products/60-kw-dc-charger. Retrieved January 7, 2025.
+19 Hyundai. Hyundai Motor Group Expands EV Energy Services with Vehicle to Grid and Vehicle to Home.
+November 28, 2025. https://www.hyundainews.com/releases/4634
+20 Ibid.
+21 EV.com. $45,000 Rivian R2 Will Power Homes With New Bidirectional Charging Technology. November 6,
+2025. https://ev.com/news/45000-rivian-r2-will-power-homes-with-new-bidirectional-charging-technology
+
+released bidirectional charging solutions include: Emporia,22 ChargePoint,23 Enphase,24
+SolarEdge, and Autel.
+Notably, all of the above-listed bidirectional charging systems in both the light-duty and
+medium/heavy-duty segments is certified to UL 1741 SB. This certification ensures compliance
+with IEEE 1547-2018 and facilitates safe and reliable interconnection. Nearly all of the light-
+duty bidirectional charging system models listed above have been enabled for bidirectional
+operation in parallel with the grid under initiatives in either Maryland,25 Michigan,26 Texas,27
+California,28 Massachusetts,29 and/or Connecticut.30 The medium- and heavy-duty systems have
+been deployed in grid-parallel bidirectional charging mode in Virginia, Maryland, North
+Carolina, South Carolina, Florida, Tennessee, Illinois, Iowa, Michigan, New York,
+Massachusetts, Maine, Vermont, Colorado, New Mexico, Washington, Oregon, Nevada, and
+California.31
+In order to allow customers to operate their bidirectional charging systems in grid-parallel mode,
+the relevant features must be enabled, which requires the appropriate hardware and software
+activation after the required utility interconnection study and agreement process is completed.
+22 Emporia. Coming Soon: V2X Bi-Directional Charger. Accessed January 13, 2026.
+https://www.emporiaenergy.com/how-the-emporia-v2x-charger-works/
+23 ChargePoint. ChargePoint and Eaton launch breakthrough ultrafast DC V2G chargers and power infrastructure to
+accelerate the future of EV charging. August 28, 2025. https://www.chargepoint.com/about/news/chargepoint-and-
+eaton-launch-breakthrough-ultrafast-dc-v2g-chargers-and-power
+24 Enphase. IQ Bidirectional EV Charger. Accessed January 13, 2026. https://enphase.com/ev-chargers/bidirectional
+25 Sunrun. Sunrun and BGE Operate Nation’s First Residential Vehicle-To-Grid Distributed Power Plant Using
+Ford F-150 Lightning Trucks, September 24, 2025. https://investors.sunrun.com/news-events/press-
+releases/detail/352/sunrun-and-bge-operate-nations-first-residential
+26 Bill Crider, Ford Motor Company. Your Next Side Hustle Might Come from Your Parked Electric Vehicle.
+October 28, 2025. https://www.fromtheroad.ford.com/us/en/articles/2025/introducing-ford-home-power-
+management.
+27 Tesla. What is Powershare Grid Support. Accessed March 18, 2026.
+https://www.tesla.com/support/powershare/what-is-powershare-grid-support
+28 See, for example: Volvo/dcbel. Powerful. Even when Parked. Accessed March 18, 2026.
+https://volvo.dcbel.energy/; Bidirectional Energy. Join Bidirectional Energy’s V2X Charger Program in California.
+Accessed March 18, 2026. https://www.bidirectional.energy/learn/california; PG&E. Vehicle-to-Everything (V2X)
+pilot program. Accessed March 18, 2026. https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-
+with-electric-vehicles/vehicle-to-everything-v2x-pilot-programs.html
+29 Massachusetts Clean Energy Center. Vehicle-to-Everything Demonstration Projects. Accessed March 18, 2026.
+https://www.masscec.com/masscec-focus/clean-transportation/electric-vehicle-charging-infrastructure/vehicle-to-
+everything-demonstration
+30 Bidirectional Energy. Join Bidirectional Energy’s V2X Charger Program in Connecticut. Accessed March 18,
+2026. https://www.bidirectional.energy/learn/connecticut
+31 World Resources Institute. Latest Lessons from Electric School Bus Vehicle-to-Grid Programs. May 13, 2025.
+https://www.wri.org/update/electric-school-bus-v2g-lessons-examples
+
+Vehicle-Grid Integration and Distribution System Planning
+The recommendations in this section are responsive to the request for information’s (“RFI’s”)
+focus on improving hosting capacity analysis, addressing constrained circuits, and identifying
+operational strategies that can support additional DER integration while minimizing
+infrastructure costs. Specifically, these recommendations highlight how vehicle-grid integration,
+including managed charging and bidirectional charging, can function as a flexible grid resource
+that increases effective hosting capacity, improves utilization of existing distribution
+infrastructure, and helps defer or reduce the need for traditional system upgrades. By
+incorporating VGI into distribution planning and hosting capacity analysis, the Board and
+utilities can better evaluate how flexible EV load and bidirectional capabilities can support the
+State’s affordability, reliability, and grid modernization objectives.
+Recommendation #1: Evaluate and Plan for the Opportunity to Leverage the
+Latent Energy Storage Capacity of EVs
+Given the rapid advancement of vehicle-grid integration technologies, the growing availability of
+both managed charging platforms and bidirectional charging systems, and the increasing
+penetration of EVs capable of providing flexible grid services, VGIC recommends that the BPU
+initiate a formal process to quantify and evaluate the VGI resource in New Jersey. As
+demonstrated above, EVs are no longer simply an incremental load; they represent a scalable,
+dispatchable, and highly flexible resource capable of shifting demand and, where enabled,
+discharging energy to support grid reliability and manage distribution system constraints. These
+capabilities may be particularly valuable in emerging flexible service connection frameworks,
+especially for fleet electrification applications where charging and bidirectional export can be
+actively managed to operate within distribution system constraints and reduce the need for costly
+infrastructure upgrades. However, without a structured effort to quantify this resource and assess
+its operational characteristics, the State risks underutilizing a key asset to reduce capacity costs
+and place downward pressure on rates.
+VGIC recommends that the BPU direct utilities, in collaboration with stakeholders, to take a
+practical step toward evaluating how EVs can function as grid resources, including both
+managed charging and bidirectional capabilities. At a minimum, utilities should be required to
+assess how these resources can be incorporated into core planning functions such as load
+forecasting, distribution system planning, and resource adequacy. This effort should include
+targeted analysis and stakeholder engagement, with the objective of establishing a clear
+foundation for integrating VGI into planning and capturing its potential to reduce costs, defer
+infrastructure investment, and support grid reliability.
+
+Recommendation #2: Optimize the Use of VGI to Increase Hosting Capacity and
+Reduce Distribution System Investments
+The electric distribution companies (EDC) responses to the RFI raised valid concerns about the
+operational challenges associated with high levels of distributed energy resources, particularly
+related to reverse power flow, voltage regulation, and system protection. For example, Jersey
+Central Power & Light identifies reverse power flow as a key constraint that can trigger the need
+for system upgrades.32 Similarly, PSE&G notes that high penetrations of DERs can create
+voltage and reliability issues that may require costly infrastructure investments if not properly
+managed.33 These concerns are important, but they largely reflect a static view of grid operations
+that assumes limited ability to actively manage load and generation, including through the use of
+power import limits (”PIL“) and power export limits (”PEL”).
+This perspective also contributes to a broader utility concern that DERs, including vehicle-grid
+integration resources, are inherently expensive to integrate. For example, PSE&G anticipates that
+enabling large-scale DER adoption will require significant investment in traditional
+infrastructure and suggests that controllable resources, such as VPPs, may entail high costs.34
+While infrastructure investment will play a role, this framing does not fully reflect the growing
+body of evidence showing that flexible demand and bidirectional charging can reduce or defer
+those costs.
+The body of academic and technical literature, including measurement and evaluation of utility
+pilots and programs, is clear that VGI, including both managed charging and bidirectional
+charging, can lower overall system costs when properly designed. At the system level, studies
+consistently find that these resources reduce peak demand, defer generation and distribution
+investments, improve utilization of existing infrastructure, and better align load with renewable
+generation. For example, planning analyses in California, New York, and Massachusetts all show
+that bidirectional charging can unlock gigawatts of additional capacity and billions of dollars in
+avoided system costs.35 These findings directly address the concerns raised in EDC filings by
+demonstrating that the same constraints utilities identify can often be mitigated through
+operational strategies rather than capital investment.
+32 Jersey Central Power & Light, March 5, 2026, Comments of Jersey Central Power & Light Company in response
+to the Notice of Request for Information In the Matter of Developing Integrated Distributed Energy Resource Plans
+to Modernize New Jersey’s Electric Grid BPU Docket No. QO24030199, pp. 6–10.
+33 PSE&G NJ, March 5, 2026, In the Matter of Developing Integrated Distributed Energy Resource Plans to
+Modernize New Jersey’s Electrical Grid Docket No. QO24030199, page 6.
+34 PSE&G, March 5, 2025, In the Matter of Developing Integrated Distributed Energy Resource Plans to Modernize
+New Jersey’s Electrical Grid Docket No. QO24030199, page 6.
+35 Needs multiple citations
+
+Importantly, the literature also shows that managed charging and bidirectional charging should
+be viewed as complementary tools. Initial comments submitted in this docket by WeaveGrid
+highlight numerous studies demonstrating that VGI can create meaningful consumer value and
+expand hosting capacity.36 These studies find that system benefits, particularly at the secondary
+distribution level, can translate into meaningful customer value, with EV owners potentially
+generating $100s to over $1,000 per year per vehicle in system benefits depending on program
+design and market conditions. This reinforces the importance of designing programs that align
+customer incentives with system needs.
+Accessing this grid value can entail launching new programs and/or rate opportunities, which can
+range from simple event-based dispatch (e.g., via email notification) to real-time DER
+integration in a utility DERMS platform.
+Given this evidence, program design and regulatory policy in New Jersey should prioritize
+operational solutions that actively manage load and generation in real-time. Integrating VGI into
+distribution planning provides a lower-cost pathway to increase hosting capacity, accommodate
+load growth, and support DER adoption while maintaining reliability. It also aligns with the
+State’s broader goals of affordability and clean energy by reducing the need for costly
+infrastructure investments and creating new value streams for customers.
+Bidirectional Charging System Interconnection and Multi-DER
+Integration
+The recommendations in this section are responsive to the RFI’s focus on energy storage system
+interconnection, smart inverter functionality, interoperability standards, and flexible
+interconnection protocols for DERs on constrained circuits. Specifically, these recommendations
+address the need for clear and standardized pathways to interconnect bidirectional charging
+systems, appropriate application of IEEE 1547 and UL 1741 standards, and coordinated
+treatment of hybrid DER configurations that combine solar, storage, and bidirectional EV
+charging. The recommendations also support the Board’s interest in operational flexibility and
+export management by outlining practical approaches to streamline interconnection review,
+manage multiple DER technologies behind the meter, and ensure that program administration
+and tariff treatment evolve alongside increasingly integrated customer energy systems.
+36 WeaveGrid, Mrach 5, 2025, In the Matter of Developing Integrated Distributed Energy Resource Plans to
+Modernize New Jersey’s Electric Grid, Docket No. QO24030199.
+
+Recommendation #3: Adopt Emerging Best Practices in Bidirectional Charging
+System Interconnection
+VGIC recommends the EDCs adopt easily implementable guidance based on observations across
+the U.S. to provide clear, consistent pathways to safely and reliably interconnect both types of
+bidirectional charging systems: Direct Current (“DC” – where the inverter is off-board the
+vehicle) and Alternating Current (“AC” – where the power conversion takes place onboard the
+vehicle). The former is most common today, with available products from Ford, General Motors,
+Nissan, Volvo, Polestar, Kia, dcbel, Wallbox, BlueBird, Thomas Built, RIDE, Nuvve, Heliox,
+InCharge and Tellus Power Green. The latter is less common but emerging, with available
+products from Tesla and likely other solution providers soon. VGIC respectfully urges the BPU
+to adopt the following general guidance for the safe and reliable interconnection of bidirectional
+charging systems:
+a. Define Bidirectional Charging Systems as “a combination of hardware and software in or
+around the charger and electric vehicle for the purposes of communication with and
+programmed flow of energy into and out of the vehicle battery in support of utility-
+connected electrical loads offboard the vehicle.” This definition comprehensively
+encompasses both DC and AC systems, without being overly prescriptive to the use case
+for which these systems will be enabled.
+b. Clarify that the manufacturer or manufacturer-authorized party shall not enable
+bidirectional charging systems to operate in bidirectional mode while connected to the
+grid without first receiving permission to operate from the utility.
+c. Clarify that bidirectional charging systems without enabled bidirectional charging
+features should not be directed to move through an interconnection review and study
+process.
+d. Establish a clear pathway (i.e., an interconnection form and related guidance to installers
+and customers) for DC bidirectional charging systems that meet IEEE 1547-2018 via UL
+1741 SB certification.
+e. Establishes two pathways for AC bidirectional charging systems, in recognition that both
+are capable of ensuring safety and reliability, but the market has not yet coalesced around
+a single pathway. These two pathways for AC interconnection are suited for different use
+cases. Specifically, a UL 1741 SC Pathway can support multiple EVs being used at a
+certified charging station, whereas a UL 1741 SB CRD for DER Systems can support
+only a single defined EV used as part of a certified bidirectional charging system, for
+example, in a single-family home context.
+
+Establishing these rules is important for expanding safe and reliable access to available VGI
+technology, which will lead to significant benefits for participating customers and reduce the cost
+impacts on the grid and, in turn, all customers
+Recommendation #4: Develop Mechanisms to Efficiently Manage Multiple-DER
+Installations for Interconnection and Program Administration
+As more customers install combinations of rooftop solar, stationary batteries, and bidirectional
+EV charging systems, there is a growing need to address how multiple DERs are evaluated for
+interconnection and how they are treated across different programs. Today, these systems are
+often reviewed and administered separately, which can create confusion, inconsistent
+requirements, and unnecessary complexity for both customers and utilities.
+Utilities have already recognized this challenge. Jersey Central Power & Light notes that energy
+storage systems require additional review to understand charging and discharging behavior,
+operating modes, and controls, particularly when paired with other DERs.37 This highlights the
+need for a more integrated approach to interconnection review as multi-DER configurations
+become more common.
+Utilities and regulators have raised concerns about maintaining the integrity of net metering
+programs when customers add bidirectional charging systems behind the meter. These concerns
+are manageable. However, it is important that these issues are addressed prior to launching
+bidirectional EV programs, as experience in other jurisdictions suggests that approximately 50 to
+70 percent of customers interested in bidirectional charging also have rooftop solar installations.
+A range of practical approaches exists, some of which can be implemented alongside one
+another, including, but not limited to:
+• Treating non-exporting bidirectional EV charging additions to existing rooftop solar as
+non-material modifications, requiring only notification to the utility rather than a new
+interconnection application;
+• Allowing standalone export from EV batteries under separate, non-net-metering tariffs or
+programs designed to encourage grid services;
+• Using controls such as power control systems to ensure that site-level exports do not
+exceed solar generation;
+37 Jersey Central Power & Light, March 5, 2026, Comments of Jersey Central Power & Light Company in response
+to the Notice of Request for Information In the Matter of Developing Integrated Distributed Energy Resource Plans
+to Modernize New Jersey’s Electric Grid BPU Docket No. QO24030199, p 8.
+
+• Applying billing approaches that distinguish between solar and non-solar exports,
+including subtractive billing (e.g., total exports minus EV discharge or total exports
+minus solar generation) or submetering at the EV or charger level; and
+• Using alternative methods to determine net metering credits, such as sub-metered or
+estimated solar generation, rather than relying solely on net meter readings.
+Providing clear guidance on how these configurations will be treated will reduce uncertainty and
+avoid delays as customers adopt combined solar, storage, and bidirectional EV charging systems.
+VGIC respectfully urges the Board to direct utilities to develop clear and standardized
+procedures for reviewing these configurations. This should include common combinations such
+as bidirectional EV charging plus solar, bidirectional EV charging plus storage, and solar plus
+storage plus bidirectional EV charging systems. The goal should be to create a consistent and
+predictable process that can be applied across utilities and projects.
+Finally, the Board should ensure that program administration keeps pace with these changes.
+Customers with multiple DERs should be able to understand and enroll in programs, provide grid
+services, and receive compensation without duplicative applications, conflicting requirements, or
+delays. Clear rules for metering, data access, and participation will be critical to enabling these
+systems to deliver value to both the grid and the customer.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to collaboration
+with industry stakeholders to advance the BPU’s goals of improving the efficiency and speed of
+DER interconnection, increasing hosting capacity on constrained circuits, and supporting the
+accelerated deployment of distributed energy resources to address reliability and affordability
+challenges in New Jersey.
+Sincerely,
+Steve Letendre, PhD
+Senior Advisor
+Vehicle-Grid Integration Council (VGIC)
+sletendre@vgicouncil.org
+(802) 779-3580

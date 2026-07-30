@@ -1,0 +1,221 @@
+VGIC Informal Feedback on Dominion VPP Proposal
+Background
+On May 2nd, Governor Youngkin signed the Community Energy Act (HB 2346 / SB 1100) into
+law, directing Dominion Energy Virginia, the state’s largest utility, to:
+• Propose a 450 MW VPP pilot program by December 1, 2025
+o Propose a program tariff for residential and C&I customers by November 15,
+2026
+▪ Participants may enroll directly with utility or through a third-party
+aggregator
+o By December 1, 2027, propose a V2G school bus program
+Dominion currently offers:
+• A $40/yr managed charging program for eligible Level 2 chargers (ChargePoint,
+Emporia, EVO, and Wallbox)
+• A whole-home off-peak charging rate for interested customers
+• Dual participation in the two is not permitted
+View Dominion’s VPP proposal here: https://www.dominionenergy.com/virginia/save-
+energy/virtual-power-plant .
+Dominion Feedback Form and Proposed VGIC Response
+Dominion’s questions are listed below in bold; VGIC’s responses are listed below each
+bolded question.
+What benefits do you see a VPP bringing to customers, businesses, and communities?
+Given the significant anticipated load growth expected in Dominion’s service territory due
+to new data centers, VPPs are one of the only tools available to Dominion to unlock
+affordability and reliability benefits that, in turn, accrue to all customers, including non-
+participating ratepayers. Meanwhile, participating customers benefit from bill savings
+and/or credits and, for customers with on-site generation and/or storage, resilience during
+outages. These benefits are particularly meaningful for residential bidirectional charging
+solutions, which Dominion should deem eligible for the VPP pilot in recognition of the
+significant interest from automakers, including those in VGIC’s 43 members representing
+automakers, EV charging companies, EV aggregators, charging station installers and O&M
+providers, and EV charging site developers.
+
+What should Dominion Energy Virginia seek to demonstrate and/or learn from this
+pilot?
+Dominion should ensure that residential bidirectional charging systems are supported
+through this pilot, as bidirectional-capable vehicle offerings from Ford, GM, Tesla, Kia,
+Honda, Nissan, Mercedes-Benz, BMW, Stellantis, Hyundai, Rivian, Lucid, and Toyota are
+either currently available or will be released in the next few model years, and the
+corresponding charging equipment from Wallbox, dcbel, ChargePoint, Emporia, Autel,
+Enphase, and several others are in the same status.
+Additionally, Dominion should seek to develop and implement strategies needed to
+facilitate its planned scale-up from limited pilot to mass-market offerings. Specifically,
+Dominion should develop and implement customer enrollment and retention strategies,
+including specific strategies targeting residential EV drivers and non-residential fleets
+interested in unidirectional managed charging solutions or grid-parallel bidirectional
+charging systems (sometimes referred to as “vehicle-to-grid” systems).
+Dominion must also develop and implement strategies to facilitate opportunities for
+aggregators and third-party technology providers to enable effective customer response.
+Notably, this is a statutory requirement of HB 2346 / SB 1100, and must be implemented in
+the VPP pilot. This access should be non-discriminatory, meaning aggregators should have
+comparable ability to enroll customers as Dominion. Given Dominion will likely serve as
+both platform operator and competitor to aggregators, Dominion should explicitly propose
+guardrails against utility self-preferencing. The relevant data access protocols and
+platforms, APIs or third-party integration platforms, and any commercial and legal
+agreements must be developed and implemented in this pilot to yield key learnings that
+will facilitate later scale-up to mass-market VPP offerings. Additionally, Dominion should
+develop and implement strategies to test the efficacy of different payment structures or
+levels.
+Dominion should consider implementing flexible service connection offerings that
+critically inform initial site design and construction, especially for larger commercial and
+industrial sites that can leverage flexible connection agreements to avoid, defer, or serve as
+a bridge to lengthy utility-side upgrade processes. These flexible service connection
+offerings not only accelerate energization timelines, but also avoid or defer system costs
+and, in doing so, can support affordability for all customers, not just those that elect
+flexible connection arrangements. Dominion should consider implementing a shared
+savings model for these customers, wherein a share of the avoided or deferred costs are
+provided upfront or over time as part of VPP participation.
+
+Above all else, the VPP pilot must focus on how to make VPPs successful from the
+perspective of customer participation (e.g., understanding what drives strong customer
+engagement in a VPP), value/metrics (e.g., illustrating real-world benefits and optimal
+program design at scale), and equity (e.g., demonstrating broad/equitable participation).
+What metrics should be used to measure pilot outcomes?
+Metrics should always be explicitly tied to the Goals and Outcomes of the pilot. Goals
+provide the highest-level orientation for that the VPP pilot aims to achieve. For example,
+compliance with HB 2346 / SB 1100, increased system reliability, and affordability can
+inform the identification of appropriate Goals. Outcomes are more specific factors that
+derive from Dominion’s operations and business decisions. Outcomes are observable,
+whether qualitatively or quantitively. Metrics are the way Outcomes are measured. Each
+Metric should include (a) specific data definitions, (b) precise formula used to quantify
+each metric, (c) data collection and analysis techniques, including identifying the entity
+responsible for collecting and/or reporting the data, (d) requirements for measurement and
+reporting, and (e) verification techniques.
+As for the specific Metrics to be used, VGIC recommends that, in addition to the Goals-
+Outcomes-Metrics framework, all relevant inputs for Lawrence Berkeley National Lab’s
+Benefit-Cost Analysis Guide for Managed Charging Programs be collected from the VPP
+pilot. The guide can be found here: emp.lbl.gov/publications/best-practices-guide-benefit-
+cost. Critically, the guide includes details on baselining methodologies to support the
+measurement of VPP participation relative to business-as-usual operations. Collecting
+these inputs can inform the cost-effectiveness testing for future, large-scale VPP programs.
+Any metrics needed to shape Dominion’s integrated resource planning process must be
+collected. If these metrics are not incorporated into the IRP process and the resulting
+selection of resources and investment decisions, then the benefits from VPP
+implementation will remain hypothetical. By ensuring VPP data collection is explicitly tied
+to IRP modeling, Dominion can unlock reliability and affordability benefits in practice, not
+just in theory.
+As detailed below regarding barriers related to complexity, VGIC does not recommend that
+the initial VPP pilot seek to integrate resources into the PJM market. However, Dominion’s
+evaluation and measurement of the VPP pilot should include recommendations to evolve
+the VPP offering to align with the vision of FERC Order 2222, including identifying and
+proposing solutions to any dual participation, double counting, interconnection tariff, site
+telemetry, performance penalties, and/or foundational cross-jurisdictional policy issues.
+
+Given the apparent increased risk of extreme weather events, cybersecurity attacks, and
+physical security attacks, VGIC recommends Dominion estimate the value of resilience
+that the program enables. To the extent that the VPP pilot encourages adoption of local and
+customer-sited generation and/or energy storage, the resulting resilience benefits for
+participants should be accounted for in assessing the pilot. While this is hard to quantify,
+metrics like business interruption cost/lost revenues, lost assets, healthcare costs, and/or
+individual customers’ willingness to pay for backup power can be collected to derive a
+value of lost load.
+Most importantly, all metrics and data should be publicly reported on a predictable
+timeline. This should include, at a minimum, interim and final reports. Dominion and/or the
+SCC should host stakeholder engagement opportunities and welcome questions and
+recommended enhancements from interested stakeholders. This transparency is critical to
+ensure the VPP pilot does not become a siloed experiment confined to Dominion’s internal
+stakeholders.
+Do you have any concerns about how a VPP may impact customers, business, and
+communities?
+Yes. Insufficient savings and/or bill credit opportunity and abrupt program disruption can
+both result in a poor customer experience. Additionally, prohibiting customers with grid-
+parallel generation and/or energy storage, including residential bidirectional charging
+systems, from participating in the program, as well as prohibiting net exporting systems (as
+opposed to non-export, grid-parallel systems), will negatively impact the customer
+experience. A lack of clear guidance to customers and aggregators on what is needed of
+them to apply and participate in the program will restrict the opportunities for customers to
+enroll, participate in the VPP, and, in turn, support the reliability and affordability
+challenges facing Dominion and its customers.
+Additionally, Dominion should deem the widest range of technological pathways eligible for
+enrollment and participation. For example, a customer should be given the choice to
+participate in the VPP pilot via EV and/or EV charger, and the list of eligible devices should
+be inclusive of a variety of options. Limiting the enrollment and participation pathways to
+an overly limited number or type of devices will severely restrict participation.
+Relatedly, Dominion should incentivize or otherwise promote interoperability and devices
+using open standards to ensure long-term scalability and customer satisfaction.
+What would motivate you (or your customers/constituents) to participate in a VPP?
+Sufficient savings and/or bill credit opportunity is critical to encourage customers and
+aggregators to participate in a VPP. National Grid and Eversource’s Connected Solutions –
+
+Daily Dispatch option is an example of a cost-effective, technology-agnostic, and
+aggregator-friendly VPP program that sufficiently attracts customers. The program is
+underpinned by high ISO/RTO costs that utilities would otherwise be subject to. Xcel Energy
+Colorado’s recently filed VPP Settlement provides another example structure and
+magnitude of performance-based compensation that could motivate customers and
+aggregators to participate in a VPP.
+Ensuring eligibility for residential bidirectional charging systems is critical to motivating
+participation from the automotive industry actors, including the automakers themselves,
+third-party aggregators such as ChargeScape, WeaveGrid, EnergyHub, ev.energy, Kaluza,
+Optiwatt, Bidirectional Energy, Nuvve/Fermata, and The Mobility House, and the charging
+companies including ChargePoint, Emporia, dcbel, Wallbox, and Enphase.
+What barriers might prevent participation (e.g., cost, complexity, trust)?
+(1) Insufficient savings and/or credit opportunity, (2) limiting VPP pilot compensation to
+load-only and/or non-export resources, and/or (3) imposing onerous interconnection
+requirements for grid-parallel generation/storage resources, including residential
+bidirectional V2G charging equipment, will undoubtedly prevent participation.
+Additionally, too much friction in the enrollment process, generally, will limit participation.
+Streamlined portals and partner and installer trainings will be key to the success of the VPP
+pilot.
+Regarding complexity, VGIC recommends that the initial VPP pilot be designed and
+implemented by Dominion Energy as a retail utility program offering in which customer
+resources are not integrated into the PJM wholesale market. While in the long run, VGIC
+believes that wholesale market integration, as envisioned by FERC Order 2222, is a critical
+step to advance VPP, we recommend that Dominion focus on its own implementation of
+this as a demand-side management customer program, rather than a ISO/RTO
+participation pathway.
+Above all else, the lack of a consistent, predictable program opportunity will preclude
+customer and aggregator participation. This is particularly true for resources and/or
+product development capabilities that require significant upfront investment. This has
+been borne out across the country, where compelling two- or three-year VPP pilots see
+little participation and, when asked, the critical enabling technology providers site a lack of
+certainty in the long-term stability of the opportunity as a primary barrier.
+How can Dominion Energy Virginia ensure that low-income or underserved
+households are able to access VPP benefits?
+
+First, the VPP should be at significant scale and compensation levels to attract customer
+participation both inside and outside of low-income and underserved communities. The
+underlying reliability and, most importantly, affordability benefits of a VPP will accrue to all
+customers, including customers not participating in VPPs. Low-income and underserved
+households are hit hardest by increased rates. Through earnest and effective VPP
+implementation, Dominion can support these most burdened customers by lowering their
+rates on average.
+Second, the VPP should ensure low-income and underserved households can participate
+in the VPP, including customers in both single-family and multi-family residences. This can
+be done through adders to performance-based compensation, upfront incentives to offset
+equipment costs and related infrastructure, on-bill financing and other alternative
+financing options, and/or targeted customer marketing, education, and outreach.
+Third, as it relates to eligible EV technologies, customer should be enabled to enroll
+through their vehicle, charger, or other device. This will enable fair access to the program,
+as customers in single-family homes, multi-family homes, and rural communities have
+varying degrees of access to Wi-Fi, broadband, or other means of coordinating VPP
+enrollment and participation. Should Dominion choose an active, event-based program
+design for its VPP pilot, customers should always be permitted to opt-out of a given event.
+These opt-out rights are particularly important for EV drivers, as EVs are primarily used as a
+mobility resource.
+What role should local governments or community groups play in a VPP?
+Dominion should engage local government and community groups to support customer
+marketing, education, and outreach. Additionally, Dominion should engage with local
+authority having jurisdictions responsible for permitting to streamline the local electrical
+permitting process, especially for customer-sited generation and energy storage. This is
+particularly critical for emerging solutions like bidirectional EV charging systems, which
+may be new for many AHJs.
+Please provide any additional feedback or recommendations that you would like
+Dominion Energy Virginia to consider for its VPP.
+Dominion should ensure that proposals for future VPP pilot extension/expansion are
+brought to stakeholders early and filed with its regulator long before any customer cap,
+budget cap, or sunset date for the initial VPP pilot are reached. If there is a disruption in
+program authorization and implementation, customers may never come back to the
+extended/expanded offering and aggregators may look to other markets to engage with
+utilities offering more consistent and predictable opportunities.
+
+Dominion should ensure its interconnection rules and processes are modernized to
+accommodate newer types of IEEE 1547-2018-compliant and UL 1741 SB or SC-certified
+DERs, namely bidirectional charging systems. The proper forms, portals, and guidance
+should be clear and readily available to installers and site developers.
+Lastly, VGIC reiterates that Dominion should include residential V2G systems as eligible for
+the VPP pilot. The list of commercially-available and validated products has grown
+significantly over the previous 12-18 months and will continue to do so in the coming 6-12
+months, as several new charging systems gain UL certification, a critical milestone and
+gating item for commercial launch of these systems. VGIC strongly recommends Dominion
+seriously consider how to accommodate these resources and, in turn, position itself as a
+national leader on V2G. VGIC offers itself as a resource in the VPP design process.

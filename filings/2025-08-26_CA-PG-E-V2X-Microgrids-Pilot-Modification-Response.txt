@@ -1,0 +1,101 @@
+August 26, 2025
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+RE: Response of the Vehicle Grid Integration Council to Pacific Gas and Electric Advice
+Letter 7378-E-A Supplemental: PG&E’s Request for Modification to Phase II Scope for
+PG&E’s Vehicle-to-Everything Pilot #3 (V2X Microgrid Pilot)
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 7378-E-A of Pacific
+Gas and Electric Company (“PG&E”), Supplemental: PG&E’s Request for Modification to Phase
+II Scope for PG&E’s Vehicle-to-Everything Pilot #3 (V2X Microgrid Pilot) (“Advice Letter”) on
+August 6, 2025.
+VGIC appreciates PG&E’s work to advance vehicle-grid integration (“VGI”) in its service
+territory by conducting three VGI pilots and providing learnings on how to best integrate electric
+vehicles (“EVs”) into the grid and leverage bidirectional charging capabilities. The V2X Microgrid
+Pilot discussed in this Advice Letter has yielded valuable learnings but has also seen challenges.
+Given this, PG&E is requesting that Phase II of the microgrid pilot transition into a hybrid support
+model where PG&E staff continues supporting V2X readiness in a technical consultancy role at
+Microgrid Incentive Program sites.
+Generally, VGIC supports PG&E’s request to transition away from the original Phase II
+scope. However, VGIC recommends the V2X Microgrid Pilot resources be redirected to provide
+additional funding and staff support for the other two V2X Pilots: Residential and Commercial.
+Moreover, VGIC believes that it is inappropriate for PG&E to publicly disclose specific details on
+vendors included in Appendix I of the Advice Letter. The Commission should remind PG&E and
+other utilities to file sensitive information confidentially.
+I. VGIC SUPPORTS PG&E’S TRANSITION AWAY FROM THE PHASE II V2X
+MICROGRID PILOT.
+It has long been acknowledged, and discussed previously in VGIC filings, that the V2X
+Microgrid Pilot includes the most complex projects of the three VGI pilots approved in Resolution
+1
+
+E-5192. While PG&E’s VGI pilots are testing deployment strategies for new bidirectional
+charging solutions, including developing customer engagement strategies and modernizing utility
+operations and planning, community microgrids are themselves still in a pilot stage and often
+utilize nascent equipment and configurations. This has created unique challenges for the V2X
+Microgrid Pilot.
+In response to these challenges, PG&E is requesting to transition the Phase II pilot to a
+hybrid support model. This will allow customers participating in the Microgrid Incentive Program
+(MIP) to leverage bidirectional technologies in their community microgrids. VGIC believes that
+directing efforts to MIP to integrate bidirectional EVs into community microgrids is reasonable,
+given that it is expected that communities building these microgrids will be participating in MIP.
+PG&E does not need to duplicate efforts in a separate pilot at this time. On the other hand, MIP
+and community microgrid uptake overall has been slow. As such, VGIC believes that the resources
+and funding previously directed for use in V2X Microgrid Phase II should be used to cover MIP
+and community microgrid support, which is likely to remain minimal, as well as supplementing
+existing staff support and funding for the more active and impactful Residential and
+Commercial V2X Pilots.
+II. PG&E AND OTHER UTILITIES SHOULD FILE DETAILS ON VENDORS
+CONFIDENTIALLY.
+While VGIC is understanding of PG&E’s request in the Advice Letter, it was inappropriate
+for PG&E to publish details on individual vendors in Appendix I in a public filing. Publicly
+revealing vendor names was unnecessary to provide the Energy Division staff with sufficient
+responses to data requests for useful context on pilot challenges. Publicly attributing specific
+technical or contractual difficulties to a single company risks reputational harm while offering
+little value to regulatory decision-making.
+Typically, public filings such as Advice Letters describe vendor-related issues without
+disclosing specific names, which allows the Commission and stakeholders to understand the nature
+of the problem without singling out individual companies. Indeed, in the body of this Supplemental
+Advice Letter on page 3, PG&E appropriately summarized vendor and contractor challenges in
+general terms without naming companies. That level of detail was sufficient and should have been
+what was included in the public-facing document.
+Moreover, PG&E itself acknowledges that these challenges were not the result of unique
+failures by any individual vendor but rather reflected broader issues with the nascency of the
+bidirectional charging market. As PG&E states: “If we are to expand this microgrid pilot and add
+more EVSE vendors and EV OEMs in different microgrid settings, it is a practical certainty that
+there will be similar problems of significant magnitude/impact, and the pilot will continue to
+2
+
+experience significant delays.”1 This demonstrates that the problems encountered by PG&E in the
+deployment of the V2X Microgrid Pilot were industry-wide, not vendor-specific. Therefore, it was
+unnecessary to name individual vendors in the public filing.
+VGIC understands that the details in Appendix I were provided in response to Energy
+Division questions, but PG&E should have filed that portion of the Advice Letter confidentially.
+The Commission has long-standing procedures to allow utilities to provide sensitive information
+under seal, ensuring regulators have full access without unnecessarily disclosing commercially
+sensitive details to the public. Moreover, utilities have long closely followed the norm of disclosing
+sensitive information confidentially, and the departure from that norm in this case is entirely
+unexpected and unnecessary.
+By instead choosing to single out a vendor in a public filing, PG&E departed from
+regulatory norms and created the risk of chilling future participation from innovative companies
+who may be less willing to partner with utilities if early-stage challenges are likely to be publicized.
+This is particularly concerning given the relatively nascent market for bidirectional charging
+solutions and vendors, and the immense pressures already creating challenges for that market,
+including the uncertainty about how and when mass-market, cost-based compensation
+mechanisms will be made available to customers eager to adopt this technology. For these reasons,
+VGIC urges the Commission and Energy Division staff to remind PG&E and other utilities that
+vendor-specific information should be submitted confidentially in future Advice Letters.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to the Advice Letter and looks
+forward to collaborating with the Energy Division and stakeholders on this important initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+Vehicle Grid Integration Council (VGIC)
+cc: Sidney Bob Dietz II, PG&E, c/o Megan Lawson (PGETariffs@pge.com)
+Service lists: R.18-12-006 and R.23-12-008
+1 Advice Letter at 4.
+3

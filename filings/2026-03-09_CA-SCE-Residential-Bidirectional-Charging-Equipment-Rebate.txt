@@ -1,0 +1,205 @@
+March 9, 2026
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Reply Comments of the Vehicle-Grid Integration Council on Draft
+Resolution E-5452. Southern California Edison Orchestrated Charging
+and Advanced Resiliency for Distribution Vehicle Grid Integration
+Proposal Using Low Carbon Fuel Standard Holdback Revenue
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B the Comment Letter accompanying Draft
+Resolution E-5452, the Vehicle-Grid Integration Council (“VGIC”) respectfully replies to
+comments on the proposed approval with modifications of Southern California Edison’s (“SCE”)
+Advice Letter 5536-E, Southern California Edison’s Request for Approval to Update Its Low Carbon
+Fuel Standard Holdback Revenue Return Implementation Plan to Include a New Vehicle Grid
+Integration Program and to Qualify for Exemption from Public Utilities Code Section 851(“Advice
+Letter”).
+I. INTRODUCTION.
+VGIC’s Opening Comments on the Draft Resolution highlighted the significant grid, customer, and
+ratepayer benefits that can be unlocked through bidirectional charging systems and emphasized the
+importance of approving SCE’s proposed incentives for bidirectional charging systems in its
+Orchestrated Charging and Advanced Resiliency for Distribution (“ORCHARD”) program.
+Opening Comments from other stakeholders demonstrate overwhelming consensus around the value
+of bidirectional charging systems beyond backup power and the importance of reducing barriers to
+bidirectional charging system deployment. Additionally, recent analysis from the California Energy
+Commission (“CEC”), supported by the National Laboratory of the Rockies, which was released
+after Opening Comments were submitted, strongly supports these same conclusions, highlighting
+the substantial demand flexibility potential of bidirectional charging systems and identifying upfront
+equipment and installation costs as a key barrier to deployment. Lastly, new developments in the
+distribution interconnection proceeding suggest forthcoming delays in reducing the high
+interconnection application fee, which itself is only one of several major upfront cost barriers to
+customer adoption.
+For these reasons, the Commission should approve SCE’s request to include bidirectional charging
+incentives within the ORCHARD program and support the continued development of vehicle-grid
+integration technologies that can provide least-cost flexibility for California’s electric grid.
+
+March 9, 2026
+Page 2
+II. STAKEHOLDERS SHOW BROAD SUPPORT FOR AND GRID VALUE FROM
+BIDIRECTIONAL CHARGING SYSTEM DEPLOYMENT INCENTIVES.
+A. The majority of comments on the Draft Resolution emphasize the importance of the
+ORCHARD bidirectional incentive proposal.
+A wide range of stakeholders expressed support for authorizing incentives for bidirectional charging
+systems, including ChargeScape, SCE, WeaveGrid, VGIC, Ford Motor Company, and a Joint
+Comment Letter signed by 37 organizations. These organizations include Plug In America, Ford
+Motor Company, American Honda Motor Co., Inc., GM, Tesla, Inc., Toyota, Volvo Cars, Acterra:
+Action for a Healthy Planet, Advanced Energy United, Alliance for Automotive Innovation,
+Alliance for Transportation Electrification, Bidirectional Energy, bodeEV, Inc., CALSTART,
+Ceres, ChargePoint, Inc., ChargeScape, Clean Coalition, Clean Energy Works, Codibly, Inc., Debel
+LLC, Eaton, Emporia Energy, Energy Hub, Enphase Energy, ev.energy, Fermata Energy, GRID
+Alternatives, International Energy Agency TCP-EV Task 53, Leap, NEMA, The Climate Center,
+The Mobility House, Treehouse, VGIC, Wallbox, WeaveGrid, and World Resources Institute.
+These comments consistently highlight two key points:
+1. There are valuable use cases for bidirectional charging systems outside of backup
+power use cases. This includes providing load reduction and bill management services, with
+SCE estimating that customers can achieve $500 in bill savings through EV discharge
+“offsetting behind-the-meter loads alone,” without exports.1 ChargeScape also highlights
+that, “The Draft Resolution's concerns do not apply to grid-parallel V2H operation where
+energy flows remain behind the meter and serve only the customer's own load,” and that this
+pathway would be leveraged by customers today if not for the cost barriers currently
+posed, including high upfront costs and the $800 interconnection fee.2 However, export
+opportunities are also being pursued, such as SCE’s Vehicle Grid Resource Proposal
+(VGRP).3
+2. Incremental grid value can be provided by bidirectional charging systems: VGIC’s
+Opening Comments discussed the significant grid services these systems can provide when
+operating in parallel with the grid.4 The Commission is already planning for approximately
+13,500 MW of capacity from bidirectional charging systems by 2045,5 while the CEC
+estimates that roughly 18.5 GW of vehicle battery storage capacity is already available in
+1 SCE Opening Comments on Draft Resolution at 2.
+2 ChargeScape Opening Comments on Draft Resolution at 3.
+3 SCE Opening Comments on Draft Resolution at 2.
+4 VGIC Opening Comments at 3-5.
+5 California Public Utilities Commission (“CPUC”), Draft Inputs & Assumptions, 2024 – 2026 Integrated Resource
+Planning (IRP) at 111.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/integrated-resource-plan-and-
+long-term-procurement-plan-irp-ltpp/2024-2026-irp-cycle-events-and-
+materials/2025_draft_inputs_and_assumptions_doc_20250220.pdf
+
+March 9, 2026
+Page 3
+California today.6 SCE similarly emphasizes that bidirectional charging incentives can
+improve system affordability by unlocking flexible capacity from existing EV batteries.7 As
+WeaveGrid notes, “Without proper incentives, there may be substantial untapped capacity
+left on the table that can offer least-cost, best-fit resources for ratepayers.” 8
+B. A new roadmap from the CEC further shows the benefits of bidirectional charging
+systems for California.
+On March 5, the CEC released a new Roadmap to Unlock the Benefits of Bidirectional Charging,
+highlighting the significant demand flexibility potential of bidirectional charging systems. The
+roadmap, developed with support from the National Lab of the Rockies (NLR), finds that by 2035
+bidirectional charging systems will be the single largest source of demand flexibility in California.9
+Whether we capture that source to provide value to ratepayers largely rests on the Commission
+taking decisive action today to adopt no-regrets measures to deploy the needed charging
+infrastructure. Otherwise, customers will be locked into unidirectional charging systems - a stranded
+asset – and unable to contribute to the grid. The CEC’s vision aligns well with SCE’s proposed
+LCFS-funded rebate, which would, critically, not rely on already-stressed ratepayer funds, in-
+demand EPIC research funding, or highly uncertain legislative appropriations.
+Importantly, the CEC’s report estimates that bidirectional discharge can provide approximately
+three times the value of unidirectional managed charging.10 Even without exporting energy to
+the grid, residential bidirectional discharge to the home could reduce peak residential demand
+by up to 5 GW by 2030.11
+At the same time, the CEC identifies high upfront equipment and installation costs as one of
+the primary barriers to adoption. 12 Interconnection costs are one important component of these
+costs; for a $10,000 system, the $800 interconnection fee alone represents roughly 8% of total
+system costs. VGIC provides additional detail below regarding these upfront costs.
+Taken together, stakeholder comments and the CEC’s recent analysis demonstrate the substantial
+value bidirectional charging systems can provide to California’s electric grid and the importance of
+reducing barriers to deployment. The Commission should therefore approve SCE’s request to
+provide bidirectional charging incentives through the ORCHARD program.
+C. The interconnection application fee, which may not be reduced expeditiously, is one of
+many upfront costs that grid-parallel bidirectional charging system adopters must
+6 CEC, A Roadmap to Unlocking the Benefits of Bidirectional Charging at 2.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=268952&DocumentContentId=106145
+7 SCE Opening Comments on Draft Resolution at 2.
+8 Weavegrid Opening Comments at 3
+9 CEC, A Roadmap to Unlocking the Benefits of Bidirectional Charging at 4.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=268952&DocumentContentId=106145
+10 Ibid at 3.
+11 Ibid at 1.
+12 Ibid at 8.
+
+March 9, 2026
+Page 4
+shoulder.
+In opening comments, Ford states, “if there were rebates (or a lower cost interconnection
+application fee altogether) to help offset the $800 interconnection application fee for Home Power
+Management users, it would be able to offer this feature to more customers in California.”13 Ford
+further details that “If the Commission is going to deny SCE’s ORCHARD rebates, the high
+interconnection application fee in California should be quickly taken up as a topic in the
+Commission’s Rulemaking to Update Distribution Level Interconnection Rules and Regulations
+(R.25-08-004).”14 VGIC notes that “the interconnection process and fees for resources that are not
+interconnection under the Net Billing Tariff (NBT) or Net Energy Metering (NEM) Tariff”15 is
+currently slated to be addressed in R.25-08-004, with opening and reply comments on the issue
+due April 30, 2026 and May 29, 2026, respectively.16 However, the $800 interconnection
+application fee is unlikely to be addressed promptly. The previous interconnection proceeding did
+not resolve the first bidirectional charging-related issues, which were initially scoped into the
+proceeding in 2017, until 2020. Notably, the first action taken by the Commission in R.25-08-004
+after issuing its March 3, 2026, Scoping Memo and Ruling was to delay comments, which
+suggests similar delays may be possible throughout this proceeding. Meanwhile, customers today
+seek to adopt bidirectional charging systems to reduce their own energy burden and, in doing so,
+reduce overall grid costs. Auto OEMs, including Ford and many other Joint Commenters, as well
+as charging equipment manufacturers, are already offering these systems to certain customers and
+are eager to expand the offering.17
+Moreover, as detailed in our Opening Comments, the $800 interconnection application fee is only
+one of several categories of upfront cost barriers that grid-parallel bidirectional charging
+customers currently face. If the $800 interconnection application fee is reduced before the launch
+of ORCHARD, several key upfront costs will certainly still remain. Although VGIC anticipates
+many upfront costs of bidirectional charging system deployment to decline over time as greater
+13 Ford Motor Company Opening Comments on Draft Resolution at 5.
+14 Ford Motor Company Opening Comments on Draft Resolution at 5.
+15 Assigned Commissioner’s Scoping Memo and Ruling in R.25-08-004. Issued March 3, 2026.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M601/K158/601158095.PDF
+16 R.25-08-004. Email Ruling Granting Extension for Comments, Motion to Late File NOI, and Motions for Party Status.
+Issued March 6, 2026, by ALJ Dugowson.
+17 See Joint Opening Comments submitted by Plug In America, Ford Motor Company, American Honda Motor Co.,
+Inc., GM, Tesla, Inc., Toyota, Volvo Cars, Acterra: Action for a Healthy Planet, Advanced Energy United, Alliance for
+Automotive Innovation, Alliance for Transportation Electrification, Bidirectional Energy, bodeEV, Inc., CALSTART,
+Ceres, ChargePoint, Inc., ChargeScape, Clean Coalition, Clean Energy Works, Codibly, Inc., Debel LLC, Eaton,
+Emporia Energy, Energy Hub, Enphase Energy, ev.energy, Fermata Energy, GRID Alternatives, International Energy
+Agency TCP-EV Task 53, Leap, NEMA, The Climate Center, The Mobility House, Treehouse, VGIC, Wallbox,
+WeaveGrid, and World Resources Institute.
+
+March 9, 2026
+Page 5
+deployment leads to lessons learned, economies of scale, and matured policy frameworks, today’s
+list of upfront costs for a given customer may include:
+• Net generation output meters (NGOM) for customers on NEM Multiple Tariff (NEM-
+MT), needing to parse EV discharge from rooftop solar generation for certain customers
+• Site design and engineering costs, which may be greater for bidirectional systems due to
+the relatively nascent state of deployment and resulting inefficiencies
+• Certified, bidirectional inverters (if external to the vehicle), which are an added
+component and cost relative to unidirectional charging systems
+• Charging dispensers and/or wall boxes, including those with embedded inverters,
+themselves may be higher than unidirectional charging equipment, which is likely due to
+limited economies of scale in manufacturing/production
+• Gateways, site EMS, and CT coil/clips to coordinate EV discharge (e.g., to support grid-
+parallel, non-exporting use cases), which may not be needed for unidirectional charging
+sites
+• Panel and wiring upgrade costs, which may be greater for bidirectional charging systems
+than unidirectional charging equipment due to the higher-powered equipment, including
+for DC-based systems
+• Mounting and safety equipment costs, which can be greater for bidirectional charging
+systems than unidirectional charging systems due to the larger size, including for DC-
+based systems
+• Labor, permitting and inspection, and related installation costs, which may be greater
+for bidirectional charging systems due to the relatively nascent state of deployment and
+resulting lack of streamlining
+With these additional upfront cost categories in mind, the likelihood of distribution interconnection
+proceeding delays, the overwhelming consensus displayed in stakeholders’ Opening Comments, the
+addition of the CEC’s newest study to the nine independent studies detailed in VGIC’s Opening
+Comments, the current and forthcoming non-backup-power use cases and products, and the
+precedent established in the states exhibiting leadership on bidirectional charging, VGIC strongly
+reiterates its recommendation that the Commission modify the Draft Resolution to approve SCE’s
+request to provide bidirectional charging incentives through the (non-ratepayer-funded) ORCHARD
+program.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit these Reply Comments on the Draft Resolution. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+
+March 9, 2026
+Page 6
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL

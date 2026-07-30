@@ -1,0 +1,119 @@
+July 17, 2026
+California Air Resources Board
+1001 I Street
+Sacramento, CA 95814
+Re: Joint Comments – Incorporate ‘virtual miles’ into Drive Forward durability and warranty requirements
+to account for V2X wear on EV battery state of health
+We, the undersigned organizations, strongly support the proliferation of bidirectional EVs. This technology
+holds immense promise to support California’s clean energy and grid reliability and resiliency goals – the
+Energy Commission estimates vehicle-to-home adoption alone could reduce peak residential demand by
+up to 5 GW in 2030.1 The state has an extensive framework of policies driving EVs to become
+bidirectional, including:
+• Supplying 100 percent of its electricity from renewable and zero carbon resources by 2045.2
+• Requiring the Public Utilities Commission to develop strategies and quantifiable metrics to
+maximize vehicle grid integration by 2030.3
+• Adopting a goal to shift 7,000 MW of energy demand by 2030, of which approximately 600 MW
+comes from bidirectional EVs.4
+• Allowing the California Energy Commission to require any vehicle to be bidirectional capable if it
+determines it benefits drivers and the grid.5
+These policies strongly encourage EV batteries to be increasingly used not only for propulsion but also as
+stationary distributed energy resources – providing home backup power, solar self-consumption, peak-
+shaving, grid services, and emergency resilience. However, CARB’s proposed EV battery durability and
+warranty requirements evaluate battery state of health (SOH) solely through vehicle age and odometer
+miles, even though odometer miles capture only propulsion-related battery cycling. As bidirectional use
+expands, a growing share of battery cycling will occur without vehicle motion, meaning CARB’s durability
+and warranty frameworks will increasingly undercount total battery usage.
+1 California Energy Commission. A Roadmap to Unlocking the Benefits of Bidirectional Charging. March 2026. Page 1.
+2 Senate Bill 100 (de Leon, 2018). Public Utilities Code 454.53.
+3 Senate Bill 676 (Bradford, 2019). Public Utilities Code 740.16.
+4 California Energy Commission. SB 846 Load-Shift Goal Report. May 2023. Page 24.
+5 Senate Bill 59 (Skinner, 2024). Health and Safety Code 44269.
+
+To provide market certainty and consumer protection, we encourage CARB to incorporate this additional
+battery usage through a metric called “virtual miles”. Virtual miles convert the energy discharged for V2X6
+purposes into the equivalent number of miles the vehicle would have driven to use the same amount of
+battery energy. This allows CARB to continue to use its existing, consumer-friendly mileage-based
+durability and warranty thresholds while ensuring that all battery usage – not just driving – is counted.
+Multidisciplinary Digital Publishing Institute published research on the impact of V2X cycling on battery
+durability concluding that V2X use activates the same degradation mechanisms as driving. The authors
+conclude:
+“The ageing results demonstrate that temperature is the dominant factor accelerating the
+capacity fade across all tested storage and cycling conditions, especially when combined with high
+SOC storage or deep depth-of-discharge cycles. Diagnostic analysis revealed that the loss of
+lithium inventory (LLI) is the dominant ageing mechanism under both storage and V2G cycling,
+with minimal loss of active material. Importantly, shallow V2G cycling (30–50% SOC) was shown to
+induce comparable degradation to high SOC (≥80% SOC) storage…”7
+These findings demonstrate that 1) V2X cycling is not free battery usage – it causes measurable
+degradation; 2) V2X activates degradation mechanisms (loss of lithium inventory) that are also associated
+with conventional battery cycling during vehicle operation, and; 3) even shallow V2X cycling contributes to
+battery wear, comparable to high state of charge (SOC) storage, which is itself also a known stressor.
+Additional studies reinforce this conclusion: Wei et al. (2022) found that vehicle-to-grid cycling reduces
+calendar ageing at high SOC but still adds cyclic ageing proportional to energy throughput.8 JRC TEMA
+modeling demonstrates that battery ageing is a function of SOC history, temperature history, and energy
+throughput, not odometer miles.9
+Together, these studies validate that battery wear correlates strongly with energy throughput, regardless
+of whether the vehicle moves. Therefore, it’s critical for CARB to account for V2X energy throughput
+through a well-defined metric to help consumers understand their battery SOH.
+There is policy and market precedent for virtual mile accounting. UN GTR No. 22 explicitly recognizes V2X
+as a meaningful source of battery degradation: “there are six major vehicle operating parameters that
+affect in-vehicle battery durability, [including] other uses not reflected in calendar life or distance traveled,
+such as Vehicle to Grid (V2G)”10. Furthermore, UN GTR 22 outlines its intent to develop “a methodology to
+define Normal Usage Indices based on data read from vehicles”11 and suggests a formula to calculate this
+degradation. Virtual miles are fully consistent with this requirement – they provide a usage index that
+captures battery cycling beyond odometer miles.
+6 “Vehicle-to-Everything” or “V2X” means technologies that enable bidirectional interactions between an EV and
+external systems, including vehicle-to-home, vehicle-to-building, and vehicle-to-grid capabilities.
+7 Darikas, G. et al. (2026). Experimental Investigation of the Impact of V2G Cycling on the Lifetime of Lithium-Ion Cells
+Based on Real-World Usage Data. Batteries. 2026. https://www.mdpi.com/2313-0105/12/1/22.
+8 Wei, Y. et al. A Comprehensive Study of Degradation Characteristics and Mechanisms of Commercial Li(NiMnCo)O₂
+EV Batteries under Vehicle-To-Grid (V2G) Services. Batteries. 2022. https://www.mdpi.com/2313-0105/8/10/188.
+9 Paffumi, E. JRC Contribution to EVE IWG: In-Vehicle Battery Durability. European Commission Joint Research Centre
+(JRC), TEMA platform presentation to UNECE GRPE/EVE Working Group. 2020.
+10 United Nations. Addendum 22: United Nations Global Technical Regulation on In-vehicle Battery Durability for
+Electrified Vehicles. March 9, 2022. Page 4.
+11 Id. Page 12.
+
+Virtual miles can effectively use CARB’s metric for evaluating battery durability (e.g. miles driven, certified
+vehicle range, and usable battery energy) as follows:
+• E means cumulative V2X energy discharged (kWh)12
+V2X
+• R means certified vehicle range (miles)
+cert
+• UBE means usable battery energy (kWh)
+For example, if a vehicle has a range of 300 miles and 75 kWh usable battery energy, the vehicle will travel
+4 miles per kWh used. If the driver uses 10 kWh for V2X, then the battery experiences the same energy
+throughput as driving 40 miles, even though the odometer does not change.
+Virtual mileage calculations are already standardized and available to both customers via dashboard
+displays and to technicians via typical scan tools. CARB using virtual mileage has the added benefit of
+aligning with global efforts to communicate this information in a consistent and transparent way to
+consumers.
+Using virtual miles is consumer friendly. Consumers do not think in terms of kilowatt hours, full-equivalent
+cycles, or lithium inventory loss. They do think about how far their vehicle can drive, how many miles
+remain in the battery, and how many miles are left in their warranty. Using virtual miles preserves this
+familiar framework by expressing all battery usage in miles, avoiding the need to introduce new technical
+units or concepts. This metric can minimize the potential for consumers to be frustrated by a perceived
+bad EV owning experience, help avoid durability or warranty disputes by “unexpected” battery
+degradation, and eliminate ambiguous interpretations or processes to use “good engineering judgment”13
+that risk market uncertainty and could cool manufacturer investment in and development bidirectional
+capabilities.
+Virtual miles make battery usage transparent, intuitive, and consistent with CARB’s existing regulatory
+structure. Therefore, we encourage to amend its draft regulatory language as follows:
+• Durability: 10 years or 150,000 miles, including virtual miles
+• Warranty: 8 years or 100,000 miles, including virtual miles
+As V2X capabilities become more common, incorporating virtual miles will help ensure that battery usage
+associated with bidirectional operation is reflected in a transparent, consistent, and consumer-friendly
+manner. We respectfully encourage CARB to consider this approach as it finalizes the Drive Forward
+durability and warranty requirements.
+12 E could be calculated using SAE J1979
+V2X
+13 California Air Resources Board. Section 1962.7. In-Use Compliance, Corrective Action and Recall Protocols for
+2026 and Subsequent Model Year Zero-Emission and Plug-in Hybrid Electric Passengers Cars and Light-Duty Trucks.
+Page 13.
+
+Sincerely,
+Cory Bullis Zach Woogen
+Director, Energy & Environment Policy Executive Director
+Alliance for Automotive Innovation Vehicle Grid Integration Council
+Kristian Corby Ingrid Malmgren
+Deputy Executive Director Senior Policy Director
+California Electric Transportation Coalition Plug In America

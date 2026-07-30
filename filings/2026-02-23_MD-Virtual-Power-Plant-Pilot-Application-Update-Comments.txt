@@ -1,0 +1,242 @@
+February 23, 2026
+Andrew S. Johnston
+Executive Secretary
+Maryland Public Service Commission
+William Donald Schaefer Tower
+6 St. Paul Street, 16th Floor
+Baltimore, Maryland 21202
+Re: Case No. 9761; Proposed Distribution System Support Services Pilots Plans—DRIVE
+ACT Implementation
+Dear Mr. Johnston,
+Vehicle-Grid Integration Council (“VGIC”)1 respectfully provides its comments in response to
+the Maryland Public Service Commission’s (“Commission”) January 21, 2026 Notice of Hearing
+(“Notice”) in Case No. 9761, regarding DRIVE Act Implementation.
+I. Introduction
+VGIC is a 501(c)(6) membership-based advocacy organization committed to advancing the role
+of vehicle-grid integration (“VGI”) through policy development, education, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring that the
+value from flexible EV charging and discharging is recognized, compensated, and aligned with a
+more reliable, affordable, and efficient electric grid.
+VGIC’s comments focus specifically on the bidirectional charging system components of the
+utilities’ revised Distribution System Support Services (“DSSS”) Pilot proposals. While the
+pilots appropriately include bidirectional charging system participation, it is not currently
+structured as the centerpiece of the programs. Given the DRIVE Act’s intent to position
+Maryland as a leader in unlocking EVs as grid resources, VGIC’s recommendations are aimed at
+ensuring that bidirectional charging moves from a modest pilot element to a scalable and
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Ford Motor Company,
+General Motors, Nissan Group of North America, Bidirectional Energy, BMW of North America LLC, bodeEV,
+ChargePoint, ChargeScape, Codibly Inc., Critical Loop, dcbel, Eaton Corporation, EnergyHub, EV.Energy, Fermata
+Energy, Gravity Inc., Mercedes-Benz Research & Development North America, Inc., Orange Charger, Inc., Rivian,
+Stellantis, SWTCH Energy Inc., Tesla, The Mobility House, Toyota Motor North America, Inc., UL Solutions,
+WeaveGrid, Clean Power Alliance, Los Angeles Department of Water and Power, Marin Clean Energy, San Diego
+Community Power, and Sacramento Municipal Utility District. The views expressed in these Comments are those of
+VGIC, and do not necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/)
+1
+
+strategically integrated component of Maryland’s long-term peak management strategy. Our
+recommendations are summarized below:
+1. Enable Grid-Parallel Export at Program Launch: The Commission should require
+grid-parallel export from program launch, as Maryland’s robust interconnection rules
+ensure safety and reliability.
+2. Ensure Funding Scales with Market Growth: Program funding should scale with
+participation so the incentive framework does not constrain growing bidirectional
+charging system adoption.
+3. Include Commercial and Fleet Participation: Utilities should include commercial
+fleets, especially electric school buses, in their DSSS programs to capture scalable and
+dispatchable bidirectional charging system capacity.
+4. Structure Reporting and Stakeholder Engagement to Support Transition to a
+Permanent Program: Reporting and ongoing stakeholder engagement should support
+timely pilot refinement and a seamless transition from pilot to permanent program.
+The following section expands on these recommendations, providing a clear justification to
+ensure that the DSSS pilot programs maximize the full ratepayer benefits that EVs can provide
+as transportation electrification accelerates in Maryland.
+II. Comments
+VGIC appreciates the opportunity to comment on the revised DSSS Pilot proposals submitted by
+Baltimore Gas & Electric Company, Pepco, Delmarva Power, and Potomac Edison (collectively,
+the “Utilities”).
+VGIC supports approval of the revised Utilities’ proposals with targeted modifications. The
+DRIVE Act is intended to position Maryland as a national leader in unlocking electric vehicles
+as grid resources at scale. The Utilities’ revised filings represent meaningful progress toward that
+goal. However, several refinements are critical to ensure that the pilots fully align with
+legislative intent and do not inadvertently delay scalable bidirectional charging system
+deployment.
+1. Grid Parallel Operations with Export Should be Supported at Program
+Launch
+Grid parallel operations with export capability should not be deferred, as safety, reliability, and
+certification frameworks have already been addressed through a robust stakeholder process and
+subsequent Commission adoption of updated interconnection rules. Maryland has already
+2
+
+resolved the central technical, safety, and certification questions associated with bidirectional
+charging system deployment. Through codified revisions to COMAR 20.50, the Commission
+established comprehensive bidirectional charging system interconnection pathways covering
+both direct current (“DC”) and alternating current (“AC”) architectures, including certification
+options under UL 1741 SB for Vehicle-to-Grid DC (“V2G-DC”) systems and the emerging UL
+1741 SC / SAE J3072 and UL 1741 SB CRD for V2G-AC systems. These rules provide clear,
+industry-aligned standards for safe, grid-parallel operation of bidirectional charging systems,
+including those exporting to the grid.
+VGIC recognizes that Utilities are at different stages in deploying utility Distributed Energy
+Resource Management Systems (“DERMS”) and Grid-Edge DERMS platforms. BGE is actively
+implementing phased utility DERMS capabilities; Pepco and Delmarva outline a roadmap that
+initially relies on a Grid-Edge DERMS vendor; and Potomac Edison proposes relying entirely on
+a third-party edge-DERMS platform during the pilot. These differing deployment timelines
+reflect legitimate IT modernization pathways.
+However, these varying DERMS maturity levels should not be a barrier to allowing grid-parallel
+operations with export from bidirectional charging systems at the outset of the pilots. Full Utility
+DERMS deployment is not a prerequisite for safe, measured, and compensated exports.
+Most notably, the Sunrun-Ford V2X Pilot has been operating for multiple seasons under current
+architecture within the BGE service territory.
+Meanwhile, in other jurisdictions, large-scale grid services have been unlocked using event-
+based dispatch with existing metering and third-party platform integrations, rather than waiting
+for fully mature utility DERMS. For example, California’s Emergency Load Reduction Program
+(“ELRP”) pays customers for both load reductions and EV exports during grid emergencies
+through day-ahead or real-time event notifications, relying on existing interval metering and
+utility coordination rather than requiring a fully deployed DERMS platform. Another California
+program, the Demand Side Grid Support Program: Option 3, directs aggregators to discharge
+bidirectional charging systems when wholesale market prices reach a certain threshold.
+Aggregators then submit device-level dispatch data to the program administrator to verify
+performance during events. This passive dispatch approach enabled an incredibly rapid program
+launch without relying on a DERMS provider. Meanwhile, California’s Self-Generation
+Incentive Program uses a greenhouse gas emissions signal to coordinate battery charging and
+discharging without a centralized DERMS platform.
+Similarly, Massachusetts’ Connected Solutions program is a bring-your-own-device virtual
+power plant that rewards customers for enrolling battery storage and V2X in aggregated grid
+services. While utilities use DERMS-like platforms to manage device enrollment and dispatch,
+3
+
+Connected Solutions operates at scale, even though utilities have yet to fully integrated these
+capabilities into their core operations systems.
+Together, these programs demonstrate that export capability can be enabled early via simpler
+operational mechanisms, and that resources can be brought into evolving DERMS and VPP
+architectures over time, as the Utilities grow their own capabilities. Other jurisdictions have
+demonstrated that bidirectional charging systems and distributed energy resources can be
+unlocked effectively using these types of simpler programmatic structures during early market
+phases.
+Maryland can adopt a similar phased approach. During the pilot period, utilities can rely on a
+mix of:
+• Day-ahead event notifications,
+• Aggregator coordination,
+• Device-level measurement and verification,
+• Standardized performance settlement processes, and
+• Passive dispatch price triggers.
+Therefore, VGIC strongly recommends the Utilities be directed to launch the DSSS pilots with
+explicit support of grid-parallel operations and exports for approved interconnection applications
+from the program’s inception. Additionally, bidirectional vehicles and chargers, operating as
+load-only resources and/or backup-only resources, should be permitted to energize and operate in
+load-only mode initially, with a seamless transition to grid-parallel with export once customers
+enroll and satisfy existing interconnection requirements (including submitting an interconnection
+application). This approach is consistent with the interconnection rules recently codified by the
+Commission in COMAR 20.50. No additional procedural barriers beyond the codified
+interconnection framework should be imposed.
+2. Funding Should Scale if Market Adoption Exceeds Forecasts
+The filings generally forecast modest participation of bidirectional charging resources during the
+pilot term. However, the market is moving quickly. Bidirectional charging is transitioning from
+limited product testing to fully commercial, mass-market offerings.
+Major automakers, including Ford, General Motors (Chevrolet, Cadillac, and GMC), Nissan,
+Kia, Volvo, and Polestar are already marketing grid-parallel and grid-supportive features. Tesla
+recently launched its Powershare Grid Support offering in Texas, marking the first large-scale
+vehicle-to-grid offering from a major automaker leveraging the lower-cost AC-based
+architecture. Tesla has also detailed its plans to launch the same offering in California with all
+three major investor-owned utilities. Additional announcements from Toyota, Honda/Acura,
+Rivian, Lucid, BMW, Volkswagen, and Stellantis signal that bidirectional functionality will be
+4
+
+available across a near-universal suite of light-duty EV platforms within the next two to three
+years.
+On the charger side, dcbel, Wallbox, Ford, GM Energy, and Tesla already offer bidirectional
+solutions, while Emporia, ChargePoint, Autel, SolarEdge, and Enphase have announced
+forthcoming products. For example, Enphase has detailed its plans for volume production of its
+IQ Bidirectional EV Charging Platform beginning in late 2026. These developments mean that
+the bidirectional charging pilot program period will coincide with substantially broader
+availability of bidirectional vehicles and charging equipment in Maryland.
+The Commission should require utilities to:
+• Clarify that funding may be reallocated across pilot pathways if participation exceeds
+forecasts;
+• Identify a streamlined mechanism for requesting incremental budget authorization for
+cost-effective pilot expansion; and
+• Avoid enrollment caps that constrain growth below market demand.
+Maryland’s incentive framework should not become a bottleneck amid accelerating product
+availability and consumer interest in bidirectional charging technology, as this would undermine
+the DRIVE Act's clear vision and purpose.
+3. Include Commercial and Fleet Bidirectional Charging Participation
+All three Utilities appropriately allow commercial customers to participate in the DSSS pilots
+through aggregated resource pathways. However, the proposals do not explicitly reference
+commercial fleet bidirectional charging participation, despite the significant potential these
+resources represent.
+Among commercial segments, electric school buses represent the most mature and deployment-
+ready bidirectional charging opportunity today. Hundreds of electric school buses are already
+deployed nationwide, with many projects actively demonstrating grid export functionality.
+School bus duty cycles, morning and afternoon routes with long mid-day and overnight dwell
+times, align exceptionally well with distribution peak support and system capacity needs.
+Additionally, school buses are centrally managed, predictably pre-scheduled, and located at
+depots where interconnection can be strategically planned.
+Importantly, the technology ecosystem supporting school bus bidirectional charging systems is
+no longer experimental. Multiple OEMs offer electric school buses with bidirectional
+functionality, and several commercially available DC high-power bidirectional chargers are
+already deployed in pilot and commercial projects. Interoperability between buses and EVSE has
+advanced significantly in recent years, with increasing use of the standardized communication
+5
+
+protocols for bidirectional power transfer outlined in ISO 15118-20. This makes school buses
+one of the lowest-risk, highest-confidence segments for meaningful bidirectional charging export
+during the pilot period.
+Given this maturity, the DSSS program proposals should clarify how electric school buses and
+other depot-based fleets (e.g., refuse) will be recruited. This may include coordination with
+school districts, alignment with make-ready investments, and streamlined processes for enabling
+grid-parallel export at fleet depots.
+4. Structure Reporting and Stakeholder Engagement to Support
+Transition to a Permanent Program
+Quarterly reporting and regular stakeholder engagement is appropriate for pilots of this scale, but
+these functions should serve a dual purpose: informing near-term program refinement and laying
+out the transition to permanent programs. Each of the Utilities contemplates evaluating the pilot
+before determining whether and how to transition to a longer-term offering. To ensure that this
+transition is seamless, and not delayed by insufficient data, reporting requirements should be
+explicitly structured to support program evaluation and stakeholder engagement from the outset.
+Reports should go beyond enrollment totals and aggregate peak reductions. VGIC recommends
+that each utility provide detailed data on export event frequency and duration, device-level
+performance relative to nominated capacity (e.g., average, standard deviation), opt-out rates,
+communications reliability, geographic distribution of participants relative to targeted feeders,
+and other metrics that may support assessment of benefits and costs. These metrics will allow the
+Commission to assess not only whether the pilots functioned operationally, but whether
+bidirectional charging systems delivered measurable distribution and system value consistent
+with the DRIVE Act’s intent. Transparent reporting will further clarify what refinements are
+needed before transitioning to a permanent structure.
+Importantly, the pilot-to-program pathway should not depend solely on a final report at the end
+of the two-year term. Instead, the Utilities should use interim reporting milestones to identify
+program design adjustments, necessary tariff modifications, and long-term funding requirements.
+By the midpoint of the pilot, utilities should be directed to provide preliminary recommendations
+for permanent program structure, including compensation mechanisms, eligibility criteria, and
+operational protocols. If there is positive consensus during these periodic reviews, then pathways
+to lock-in participation agreements beyond the pilot period should be made available to
+customers. This forward-looking approach will reduce regulatory lag and provide greater
+certainty to customers and aggregators considering participation.
+6
+
+Finally, VGIC encourages structured stakeholder check-ins at least quarterly to review
+performance data and discuss program refinements. A transparent and iterative feedback process
+will allow lessons learned during the pilot to be incorporated throughout the pilots rather than
+deferred until the conclusion. These recommendations will allow Maryland to move from pilot
+demonstration to a large-scale, cost-effective bidirectional charging program without creating a
+participation cliff or sacrificing critical market momentum.
+Conclusion
+III.
+Maryland holds a unique position nationally as the first state to codify comprehensive
+bidirectional charging system interconnection rules covering both DC and AC architectures. That
+regulatory certainty sends a powerful market signal to industry stakeholders that VGIC
+represents. By accelerating export enablement, clarifying funding scalability, including fleet
+participation, and requiring proactive pilot-to-program transition planning, the Commission can
+ensure these pilots reflect the full ambition of the DRIVE Act.
+VGIC respectfully urges the Commission to approve the revised DSSS Pilot proposals with the
+modifications described above. With these targeted refinements, the pilots can unlock
+meaningful peak reduction, accelerate bidirectional charging deployment, and position Maryland
+as the leading state in realizing the transformative potential of electric vehicles as grid assets.
+VGIC appreciates the Commission’s continued leadership and looks forward to ongoing
+engagement on DRIVE Act implementation.
+Sincerely,
+Steve Letendre, PhD
+Senior Advisor
+Vehicle-Grid Integration Council (VGIC)
+sletendre@vgicouncil.org
+(802) 779-3580
+7

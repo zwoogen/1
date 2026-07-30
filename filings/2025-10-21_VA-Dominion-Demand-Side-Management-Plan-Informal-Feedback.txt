@@ -1,0 +1,222 @@
+VGIC Informal Feedback on Dominion DSM-XIV Proposal
+Dominion’s questions are listed below in bold; VGIC’s responses are listed below each
+bolded question.
+Residential Battery Questions
+What considerations or concerns should the Company address to responsibly allow
+participants to export power from their batteries to the grid?
+Dominion should ensure it provides broad eligibility for residential battery systems,
+including both stationary energy storage systems and bidirectional EV charging systems.
+Notably, the available grid-parallel BESS and grid-parallel DC bidirectional EV charging
+systems all comply with the same IEEE 1547-2018 standard via UL 1741 SB certification.
+These standards are critical to ensure grid safety and interoperability, and automakers and
+charging manufacturers have designed their solutions to ensure compliance with these
+specifications. In multiple cases, the DC bidirectional EV charging systems available to
+customers use the very same inverter models used in stationary BESS. VGIC strongly
+encourages Dominion to deem DC bidirectional EV charging systems eligible for its
+residential battery program and subject these systems to the same underlying IEEE 1547-
+2018 and UL 1741 SB requirements expected of modern stationary BESS systems, and we
+offer ourselves as a resource to discuss additional technical details regarding this eligibility
+consideration.
+As a participant considering injecting power back into the grid, how should the
+Company weigh the value for a participant receiving net metering credits for exporting
+excess energy versus earning battery performance incentives that reflect a
+participants system’s contribution to grid reliability and responsiveness?
+Device-level measurement (e.g., inverter readings) of battery contributions can serve as
+the basis for any performance-based compensation provided to the customer as part of
+the DSM program. If a customer also has a NEM system, this device-level battery export
+data can be subtracted from any kWh exports detected at the customer meter, such that
+the remaining value serves as the basis for NEM credits. This ensures NEM credits are only
+awarded to kWh generated from NEM-eligible resources (i.e., Renewable energy resources
+as defined in Virginia Code § 56-576). Notably, stationary residential batteries and
+bidirectional charging systems alike come with embedded measurement capabilities that
+can support this use case. This approach also retains flexibility for battery export
+performance payments to customers to be made on a $/kWh, $/kW, and/or other basis.
+
+Furthermore, this would not require making any changes to a customer’s NEM
+tariff/agreement.
+Alternatively, Dominion can use existing, trusted modeling tools to assess how much solar
+a given customer is expected to produce over a given period (e.g., billing period or year),
+and that kWh value can then serve as a cap for the customer’s NEM credits. Using this
+approach, the total kWh exported at the meter can exceed the production from NEM-
+eligible resources by any amount, for example due to battery exports, V2G exports, or
+export from any other resource, but the customer’s NEM credits would not benefit from
+these exports coming from non-NEM resources. For compensating the non-NEM
+resources, device-level measurement can be used in this case, as well.
+Both of these approaches have either been adopted or are pending approval in other
+jurisdictions as a method to ensure “NEM integrity,” ensuring that rewarding battery export
+capability does not mean paying customers NEM rates for non-renewable energy.
+As the Company considers an incentive structure that scales based on the different
+benefits participating customers provide, would stakeholders prefer a simple and
+easily understandable incentive model based off performance, or a more advanced
+structure that reflects differentiated value contributions?
+Different customers likely have different preferences when it comes to incentive
+structures. If Dominion intends to focus its forthcoming DSM implementation on launching
+a large-scale, mass-market opportunity for a range of customers, VGIC recommends
+starting with simple and easily understandable incentive models, so long as they are
+sufficiently attractive to prospective customers. Dominion should provide a simple model
+of customer dispatch, based on reasonable inputs and assumptions for residential
+batteries and/or bidirectional EV charging systems, that demonstrates a payback period
+under 5-7 years, depending on the technology type.
+Alternatively, if Dominion intends to pursue its Residential Battery offering as a small-scale
+pilot and learning opportunity, VGIC recommends conducting A-B testing with
+compensation models. For example, one customer group can be offered a flat $/month
+incentive, while the other customer group is offered a time-of-use export credit. This allows
+Dominion to understand, first hand, both the customer response to different incentive
+models, and the utility’s own internal operations and planning teams interaction with
+different incentive structures.
+
+What are your expectations for how the Company should measure battery
+performance directly at the device level, and what data or standards should be
+prioritized?
+VGIC reiterates its recommendation that Dominion measure battery performance directly
+at the device level, leveraging the embedded capabilities of these customer-sited
+solutions. As it relates to electric vehicle resources, we recommend leveraging the existing
+NIST Handbook 44.0 accuracy standard currently used across the country to ensure
+accurate measurement of EV charging equipment. EV charging equipment manufacturers
+already work to meet this accuracy standard, and it is used in some cases outside of
+Virginia to measure kWh for customer billing purposes.
+What finance options or incentive structures are customers looking for to participate
+via a third party?
+Based on VGIC’s understanding as it relates to bidirectional charging systems, customers
+seek sufficient (a) upfront incentives to help offset the capital expenditures of installing a
+bidirectional EV charging system and (b) fair, full value stack (based on avoided costs)
+compensation mechanisms that help customers recover any upfront costs not offset
+through upfront incentives and a reasonable return on investment for similar investment
+assets. Balancing upfront incentives and ongoing compensation supports continued
+participation.
+For customers participating through third-party-owned battery systems, would you
+prefer to receive program payments directly, or would you rather have those payments
+assigned to your third-party owner or aggregator to manage compensation and
+services on your behalf?
+VGIC encourages Dominion to remain flexible regarding ownership and compensation
+models. The program should be flexible enough to accommodate a variety of innovative
+business models that maximize customer participation and value to the electric system.
+How should the Company structure participation options for customers who prefer to
+engage through third-party aggregators, and what roles or responsibilities should be
+defined?
+
+If Dominion chooses to offer both direct enrollment and enrollment via a third-party
+aggregator, VGIC recommends that third-party providers not be placed at a disadvantage
+relative to direct enrollment via Dominion. For example, the customer should be eligible for
+equal upfront incentives and/or performance-based compensation regardless of which
+enrollment pathway they choose. Additionally, qualified aggregators should be afforded the
+opportunity to access relevant customer data, if given, the customer provides
+authorization to do so, to support a customer’s decision making, site design, and
+technology selection processes. Again, VGIC reiterates the need to be flexible in program
+design to allow for business model innovation.
+As the Company designs this pilot, how important is it to stakeholders that customers
+be allowed to participate in multiple demand response programs simultaneously, and
+what concerns or benefits do you foresee if participation is limited to one program at a
+time?
+Participation across multiple demand response programs is appropriate if the programs
+can (a) each reward customers only for the differentiated grid services and appropriate
+values unlocked by that program and (b) avoid double-counting contributions in the
+measurement and evaluation of the program, so as to prevent overestimating contributions
+to cost-effectiveness testing and/or grid planning processes. If a given DSM (or VPP)
+program offers the full avoided cost value stack to customers – including, but not limited
+to, avoided generation capacity, avoided generation energy, avoided transmission capacity,
+avoided distribution capacity, avoided ancillary service costs, avoided electrical line
+losses, voltage support, black start, and avoided environmental compliance costs – then
+the customer should not be permitted to participate in other programs.
+Aggregator Access
+Do you have capabilities to support locational dispatch for aggregated DERs?
+VGIC represents 42 member companies, including automakers (Ford, GM, Honda, Nissan,
+Tesla, Rivian, Stellantis, Toyota, BMW, & Mercedes-Benz), third-party aggregators
+(WeaveGrid, ChargeScape, ev.energy, EnergyHub, & Kaluza), EV charging manufacturers
+(ChargePoint, Emporia, Tesla, Rivian, & dcbel), EV charging site developers (The Mobility
+House, GridBeyond, Gravity, Critical Loop, Tesla, Rivian, Ford, & GM), and other providers in
+this space. Given discussion with our diverse collection of EV-focused members, as well as
+
+other partners in the VGI space, we can state with confidence that aggregators do have the
+capabilities to support locational dispatch for aggregated DERs. In some cases, this can be
+as granular as local neighborhood transformers. These companies recognize the fact that
+in many circumstances, distribution constraints represent a key barrier to electrification
+and an opportunity to deploy solutions to address these constraints and create value
+through deferred or avoided distribution infrastructure investments.
+What would you require from DEV to support locational dispatch?
+VGIC offers no response at this time, but may choose to weigh in on this question in further
+stakeholder engagement opportunities with Dominion.
+More granular data on the distribution system will be required to determine optimal
+strategies for locational DER dispatch. Many jurisdictions require utilities to develop
+detailed distribution system plans that can consider load flexibility and distribution exports
+alongside traditional investments to achieve least cost solutions and rate payer value.
+What resources should be permitted to participate in the program and why?
+VGIC respectfully urges Dominion to deem residential bidirectional EV charging resources
+eligible for the program. These systems are increasingly available to customers, with
+capable vehicle offerings currently available from Ford, GM, Tesla, Kia, and soon to be
+released from Honda, Nissan, Mercedes-Benz, BMW, Stellantis, Hyundai, Rivian, Lucid,
+and Toyota. Additionally, there is corresponding bidirectional charging equipment from
+Wallbox, dcbel, Ford, GM, and Tesla, and soon to be released from ChargePoint, Emporia,
+Autel, Enphase, and several others. Thousands of these vehicles have been deployed
+across the U.S., with grid-parallel interconnected and net exporting sites online in Maryland
+and, in just a matter of weeks, in Massachusetts and California. While there are more
+bidirectional capable vehicles, certified chargers, published standards, available
+compensation mechanisms, and appropriate interconnection rules than there have ever
+been, the most significant reason VGIC believes these systems should be eligible to
+participate is the customer interest. In facilitating program implementation in other states,
+VGIC can attest to the engagement and customer demand for new V2G programs from a
+small but quickly growing subset of EV drivers.
+Should any technologies be excluded and why?
+VGIC offers no response at this time but may choose to weigh in on this question in further
+stakeholder engagement opportunities with Dominion.
+What payment structure would you recommend for aggregators?
+
+• Should incentives be paid directly to aggregators, or routed through a program
+vendor implementor
+• VGIC encourages flexibility as the market evolves and new business models emerge
+to meet customer interest.
+• What models (e.g., performance-based, fixed fee, tiered) would best support
+participation and impact?
+• VGIC recommends a compensation model that balances flat, upfront incentives to
+promote technology adoption and customer enrollment with ongoing, performance-
+based compensation tied to grid services value. As detailed in VGIC’s response to
+question 3 above, implementation intended to achieve large-scale enrollment as
+quickly as possible should err for simpler mechanisms and consider introducing
+more complex models as interest grows and the market evolves. However, if
+Dominion aims to implement a limited scale pilot focused on developing valuable
+learnings that can inform later program design, VGIC recommends Dominion
+experiment with different incentive designs to gauge customer response and
+relative implementation difficulty for its internal teams.
+What requirements should be in place to measure aggregator performance for
+settlement purposes?
+• What metrics or data should be used?
+• VGIC offers no response at this time, but may choose to weigh in on this question in
+further stakeholder engagement opportunities with Dominion.
+• How frequently should performance be reviewed?
+• VGIC recommends settlement be provided each billing cycle. Annual settlement
+should be avoided, as it can be challenging for customers to link their participation
+and resulting financial gain.
+What controls should be implemented to prevent dual participation?
+Aggregators should offer Dominion the relevant customer data for verification that a
+customer is not enrolled in (a) the same program with another aggregator or (b) another
+program in which cross-enrollment is prohibited. Clearly defining the grid services and the
+associated performance can serve to provide clarity and avoid double compensation.
+
+What types of data should be shared with aggregators to support program delivery and
+transparency?
+Assuming a customer has provided authorization, aggregators should be afforded access
+to certain customer data, which may include that customer’s meter data, to facilitate
+customer engagement. This access may be necessary to provide before a customer
+formally enrolls in a given program, as it may be an input into the customer’s choice of
+program and/or technology investment. Furthermore, advanced access to this data is
+necessary to forecast revenue from program participation and thus support leasing or
+other innovative financial arrangements to maximize customer engagement.
+What types of penalties or consequences should be included for non-compliance or
+underperformance?
+VGIC offers no response at this time, but may choose to weigh in on this question in further
+stakeholder engagement opportunities with Dominion.
+Are there any additional considerations the Company should take into account
+regarding aggregator access to utility programs that have not been addressed above?
+VGIC offers no response at this time, but may choose to weigh in on this question in further
+stakeholder engagement opportunities with Dominion.
+Residential Managed Charging (DR) Program
+What type of incentive structure do you believe would entice our residential
+customers to participate in a Res. Managed Charging (DR) program? Please include
+any general thoughts on incentives and eligibility for those on TOU rates versus non-
+TOU rates.
+Customers would likely be enticed to engage in a residential managed charging program
+that offers various options to enroll (including through either the vehicle or charger).
+Regarding incentive structures, VGIC recommends a balance of flat
+enrollment/participation incentives and performance-based incentives to ensure
+customers are attracted to the program and that they continue to provide Dominion with
+robust DSM tools.

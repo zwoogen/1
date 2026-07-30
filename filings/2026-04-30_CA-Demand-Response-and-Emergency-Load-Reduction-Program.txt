@@ -1,0 +1,409 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+04/30/26
+Order Instituting Rulemaking to Rulemaking 25-09-004
+04:59 PM
+Enhance Demand Response in (Filed September 18, 2025)
+R2509004
+California.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING SEEKING COMMENTS ON DEMAND
+RESPONSE STAFF PROPOSAL ON BRIDGE YEAR FUNDING AND MODIFYING
+THE SCHEDULE FOR THE BRIDGE YEAR FUNDING ISSUE
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (279) 895-7855
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: April 30, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 25-09-004
+Enhance Demand Response in (Filed September 18, 2025)
+California.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING SEEKING COMMENTS ON DEMAND
+RESPONSE STAFF PROPOSAL ON BRIDGE YEAR FUNDING AND MODIFYING
+THE SCHEDULE FOR THE BRIDGE YEAR FUNDING ISSUE
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Seeking Comments on Demand
+Response Staff Proposal on Bridge Year Funding And Modifying The Schedule For The Bridge
+Year Funding Issue (“Ruling”), issued by Administrative Law Judge (“ALJ”) Brandon T. Gerstle
+on March 10, 2026, and the Administrative Law Judge’s Ruling Modifying Schedule on Bridge
+Year Funding Issue and Posing Supplemental Questions issued by ALJ Brandon T. Gerstle on
+April 8, 2026, which extended the comment deadline to April 30, 2026.
+I. INTRODUCTION.
+VGIC is encouraged by the Commission Staff’s proposal to allow for two years of bridge
+funding for 2028 and 2029. Given that many of the matters discussed in this proceeding will
+materially impact demand response (“DR”) policy in California, it is prudent for the Commission
+to adopt bridge funding for near-term programs, instead of requiring a full DR application at this
+time.
+VGIC largely supports the Staff proposal but recommends that the Commission also
+provide bridge funding for the Emergency Load Reduction Program (“ELRP”) Group A.5.
+1
+
+As highlighted by SCE in opening comments on the OIR, “Extending ELRP (or funding a similar
+new program) through the bridge period will provide continuity […] avoiding the loss of critical
+megawatts (MW) as the state pursues its 7,000 MW load shift goal.”1 ELRP provides critical DR
+capacity that no other program offers. Critically, Group A.5 is a unique participation pathway for
+electric vehicles (“EVs”), including bidirectional charging systems, and allows California to
+leverage grid value from EVs during grid emergencies.
+II. RESPONSES TO RULING QUESTIONS.
+4.1.a. Should the Commission authorize two years of bridge funding for PG&E, SCE, and
+SDG&E with programs and funding levels similar to the IOUs’ 2027 portfolio, excluding
+pilots, and including a budget to incorporate the SCT in the DR Cost Effectiveness Reporting
+tool?
+Yes, the Commission should authorize two years of bridge funding for the investor-owned
+utilities (“IOUs”). However, VGIC believes that pilots should also be extended for two years and
+disagrees with the Staff proposal to exclude pilots from receiving funding. Specifically, ELRP
+should receive bridge funding for 2028 and 2029 to ensure emergency resources remain available
+while broader demand-response policies are developed.
+4.1.b What is an appropriate level of funding for integrating the SCT into the 2030-2034
+program cycle applications?
+VGIC has no position on this topic at this time but may provide additional information in
+reply comments.
+4.1.c Should the Commission consider other critical modifications to the IOUs’ 2027 DR
+programs and budgets if authorizing funding for the bridge years? If so, please recommend
+specific modifications to the programs and budget amounts for the two-year bridge year
+extension period.
+1 SCE Opening Comments on the Order Instituting Rulemaking at 5.
+2
+
+VGIC has no position on this topic at this time but may provide additional information in
+reply comments.
+4.1.d Is there any other substantive feedback, not addressed above, that parties have on the
+Staff Proposal’s recommendation to authorize 2028-2029 bridge year funding?
+VGIC has substantive feedback on extending ELRP for 2028-2029, which is currently not
+included in the Staff Proposal. This feedback is shared in VGIC’s response to question 4.1.h below.
+4.1.e Should the Commission authorize an extension of time for the IOUs’ 2030-2034
+applications until January 1, 2029?
+VGIC believes that the latest the Commission should extend this deadline is January 1,
+2029. In the last round of Demand Response Applications, utilities were delayed in filing, and the
+application was bifurcated into two phases. To ensure the proceeding can decide on 2030 programs
+before 2030, the Commission should provide at least a year to discuss the applications, and a
+timeframe closer to 18 months (e.g., applications due July 1, 2028) might be more appropriate.
+Otherwise, the Commission will likely need to approve more years of bridge funding or expedite
+consideration of a 2030 DR portfolio.
+4.1.f Should the Commission exempt the bridge year portfolios from the SCT requirement?
+Yes, given the timing of this proceeding, VGIC believes that an exemption from Societal
+Cost Test (“SCT”) requirements is reasonable to enable near-term bridge-funding authorization.
+Directing the IOUs to formulate SCT metrics, seeking stakeholder feedback, and conducting an
+in-depth Commission review of these metrics will take time. The ALJ Ruling proposes a schedule
+with a final decision on bridge funding before the end of 2026, which VGIC agrees is prudent.
+This accelerated timeline will make it difficult to allow for full consideration of the SCT. Instead,
+it is more appropriate for the utilities to evaluate the SCT in their next full-cycle DR applications.
+3
+
+4.1.g Is there any other procedural feedback, not addressed above, that parties have on the
+Staff Proposal’s recommendation to authorize 2028-2029 bridge year funding?
+VGIC has no position on this topic at this time but may provide additional information in
+reply comments.
+4.1.h Should the ELRP pilot be extended as-is or with modifications? Should there be a
+sunset date?
+Bridge funding should be approved for ELRP. At a minimum, ELRP Group A.5 should
+be extended for 2028-2029 to avoid a significant gap in California’s demand response capabilities.
+ELRP Group A.5 provides a critical pathway for EV fleets and drivers to contribute emergency
+capacity to California’s grid. Importantly, ELRP Group A.5 is the only utility program that enables
+both managed charging and bidirectional charging from EVs to support emergency grid needs. No
+other demand response or rate-based offering currently provides this functionality, and none are
+expected to be available after 2027. Absent bridge funding, ELRP will sunset, with no replacement
+program to enable many EVs, especially those that are part of bidirectional charging systems, to
+provide grid services.
+VGIC does not believe ELRP will be a permanent mechanism for EVs to provide demand
+response and grid services. However, it is critical that this program remain in place while additional
+programs and/or rates are developed. VGIC looks forward to the development of additional
+programs and rates to drive load flexibility, but given the time required to fully develop those
+pathways within a new demand response application and/or rate applications, it is critical that
+ELRP be extended for 2028 and 2029. Otherwise, EV customers will be lost in the bridge period.
+VGIC does recommend two minor modifications to ELRP to ensure that the program can
+function optimally in 2028 and 2029: (1) Align submetering pathway requirements for Group A.5
+with Group A.4, and (2) Reserve ELRP funding for Group A.5 specifically to ensure sufficient
+4
+
+budget to support EV aggregations. These recommendations are further explained in our response
+to question 4.1.i below.
+A. No alternative DR programs will be available to allow for bidirectional charging systems
+to support emergency reliability or other grid services.
+There is no other utility-administered DR offering in California that allows bidirectional
+charging systems to participate. The Staff Proposal extends the following groups of programs, but
+none of these allow for bidirectional charging systems to participate:
+• Supply-side programs: Because supply-side DR programs require participation in CAISO
+wholesale markets, exports are not compensated under these programs. The CAISO’s
+Proxy Demand Response (“PDR”) and Reliability Demand Response Resource (“RDRR”)
+models do not recognize exports. Although the Distributed Energy Resource Aggregations
+(“DERA”) CAISO model allows exports, it does not qualify for Resource Adequacy, has
+not been procured by California LSEs, and is not included in utility DR portfolios.
+• Load-modifying programs: PG&E and SCE currently operate load-modifying programs,
+but they focus on large customers and do not recognize exports.
+• Emerging and enabling technology programs: VGIC generally supports the utilities’
+emerging technology programs, which study new ways to leverage demand flexibility. The
+utilities have used some of this funding to study EV managed charging and load flexibility.
+However, these programs do not operate at a large scale and do not include bidirectional
+EV opportunities.
+Additionally, beyond demand response, there are very few other offerings that can encourage
+bidirectional charging systems to support the grid. Currently, SCE does not have any rate offerings
+that encourage grid support from bidirectional charging systems. SCE does not compensate exports
+5
+
+from bidirectional charging systems in its dynamic rate pilot. SCE’s proposed Vehicle-to-Grid
+Resource Proposal, which would have credited exports from bidirectional charging systems at a
+rate based on the Commission’s adopted Avoided Cost Calculator, has been rejected by the
+Commission.2 SDG&E has a limited dynamic export rate pilot for commercial customers, which
+will conclude at the end of 2027 and has seen zero customer enrollment.3 PG&E developed, and
+the Commission approved in 2022, a day-ahead hourly real-time pricing rate (“DAHRTP”) that
+would have credited exports from non-Net Energy Metering (“NEM”) commercial EV customers,
+but PG&E never launched that rate, and it is now suspended.4 PG&E does credit bidirectional
+charging system exports in its Hourly Flex Pricing (“HFP”) dynamic rate pilot, but only two of the
+31 bidirectional charging customers incentivized under PG&E’s Residential and Commercial
+Vehicle-to-Everything (“V2X”) Pilots have elected to participate in the HFP rate pilot.5 This is
+likely due to the relative complexity of the rates involved, the lack of support from Automation
+Service Providers (“ASPs”) who do not receive incentives to support customers (whereas non-
+V2X Pilot HFP ASPs do), and the high degree of uncertainty about the benefits that may accrue
+to the customer.
+B. EV load reduction and bidirectional charging can provide significant value for
+California’s reliability and ratepayers, but near-term programs are needed to ensure
+that maximum value is provided to ratepayers.
+2 Proposed Decision Regarding Southern California Edison Company’s Application to Establish Marginal Costs,
+Allocate Revenues and Design Rates in Application (“A.”) 24-03-019 at p.44-45.
+3 SDG&E-01 in A.26-02-001.
+4 See D.22-08-002 approving the final DAHRTP rate, and Executive Director Tesfai’s letter of grant in response to
+Pacific Gas and Electric Company’s Request for Extension of Time to Comply with D.22-08-002 DAHRTP-BEV and
+GRC 2 RTP Pilots, dated February 13, 2026, which has continued the suspension of the DAHRTP rate.
+5 Pacific Gas and Electric. VGI Forum: VGI Pilot Use Cases. March 25, 2026. https://www.cpuc.ca.gov/-/media/cpuc-
+website/divisions/energy-division/documents/transportation-electrification/energization/vgi/2026-vgi-forum-
+combined-deck-all-slides_20260417.pdf. Slide 76.
+6
+
+California has already developed a substantial and consistent evidentiary record
+demonstrating that EV load reduction and bidirectional charging capability provide incremental
+and high-value grid services beyond charging scheduled around time-of-use (“TOU”) rate periods.
+Additionally, the Commission must, under SB 676, maximize the use of VGI.6 The Commission
+is already planning for approximately 13,500 MW of capacity from bidirectional charging systems
+by 2045 in its Integrated Resource Plan.7 PG&E’s Electrification Impact Study Part 2 found that
+859 MW of additional demand flexibility could be unlocked through bidirectional EV exports.8 A
+recent CEC Roadmap to Unlock the Benefits of Bidirectional Charging estimates that bidirectional
+discharge can provide approximately three times the value of unidirectional managed charging.9
+A wide variety of academic studies corroborate this conclusion: leveraging bidirectional charging
+systems in California materially increases available capacity and reduces system costs. 10
+6 SB 676 (Bradford, 2019), CA Pub Util Code § 740.16
+7 California Public Utilities Commission (“CPUC”), Draft Inputs & Assumptions, 2024 – 2026 Integrated Resource
+Planning (IRP) at p.111. https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-
+division/documents/integrated-resource-plan-and-long-term-procurement-plan-irp-ltpp/2024-2026-irp-cycle-events-
+and-materials/2025_draft_inputs_and_assumptions_doc_20250220.pdf
+8 PG&E Electrification Impact Study Part 2 filed in R.21-06-017 at p.34.
+9 CEC, A Roadmap to Unlocking the Benefits of Bidirectional Charging at p.3.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=268952&DocumentContentId=106145
+10 See:
+• Samantha Houston, David Reichmuth, and Mark Specht. Harnessing the Power of Electric Vehicles: Vehicle-
+Grid Integration for a Cleaner, Cheaper, More Reliable California Electricity System. June 2025. Union of
+Concerned Scientists. https://doi.org/10.47923/2025.15888. Accessed January 13, 2026.
+• Sonia Martin, William A. Paxton, and Ram Rajagopal. Residential vehicle-to-grid profits under dynamic
+pricing: The role of real-world charging behavior. March 2026. Advances in Applied Energy.
+https://www.sciencedirect.com/science/article/abs/pii/S0360544225024156?via%3Dihub
+• William Goldsmith et al., The Utility Playbook: Turning EV Grid Risk into a $30 Billion Opportunity. 2025.
+EV.Energy and Brattle. https://www.ev.energy/en-us/resources/value-of-managed-charging
+• Sunil Chhaya, PhD, et al. Distribution System Constrained Vehicle-to-Grid Services for Improved Grid
+Stability and Reliability. CEC. March 2019.
+https://www.energy.ca.gov/sites/default/files/2021-06/CEC-500-2019-027.pdf
+• Jonathan Donadee et al. Potential Benefits of Vehicle-to-Grid Technology in California: High Value for
+Capabilities Beyond One-Way Managed Charging. Lawrence Livermore National Laboratory. IEEE
+Electrification Magazine. June 2019.
+7
+
+These systems can also be used today to help provide emergency capacity for the grid. The
+CEC’s Roadmap estimates that 18.5 GW of vehicle battery storage capacity is already available
+in California today, which is larger than the state’s stationary storage fleet.11 If the
+Commission can unlock additional bidirectional charging capabilities, EVs could become the
+state’s largest backup power reserve and change the way California plans for grid emergencies.
+One of the reasons bidirectional charging systems can provide so many grid benefits is their sheer
+size. The CEC’s recent analysis assumes the average light-duty EV has an 80 kWh battery and
+Level 2 bidirectional chargers can discharge at 11 kW.12 EVs are an underutilized energy asset for
+both the grid and customers, and as EVs become more commonplace, customers will seek ways to
+get more from the system they have purchased.
+In the absence of opportunities to participate in grid service programs, customers are
+likely to use these vehicles solely to meet on-site needs. The CEC’s Roadmap anticipates this
+outcome, noting that customers can prioritize vehicle-to-home (“V2H”) applications to offset their
+own peak TOU consumption. 13 While such use cases can provide benefits, including an estimated
+4.1 GW reduction in residential peak load by 2030, these systems would be limited in their broader
+system value if constrained only to passive TOU optimization. This trajectory risks pushing
+customers toward maximizing private benefits rather than aligning behavior with system needs,
+https://www.osti.gov/pages/biblio/1557041
+• Brian Tarroja and Eric Hittinger. The value of consumer acceptance of controlled electric vehicle charging
+in a decarbonizing grid: The case of California. UC Irvine. Energy (Volume 229).
+https://www.sciencedirect.com/science/article/pii/S0360544221009397
+• Jessica Kerby, et al. Assessing the Energy Equity Benefits of Mobile Energy Storage Solutions 6th E-Mobility
+Power System Integration Symposium October 2022.
+https://www.pnnl.gov/sites/default/files/media/file/Assessing_the_energy_equity_benefits_of_mobile_ener
+gy_storage_solutions.pdf
+11 CEC, A Roadmap to Unlocking the Benefits of Bidirectional Charging at 2.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=268952&DocumentContentId=106145
+12 Ibid.
+13 The CEC refers to these systems as “grid disconnected”.
+8
+
+including emergency reliability needs. While non-exporting applications may coincide with grid
+benefits, customers acting independently will not necessarily discharge during the highest grid
+need or during emergency reliability events.
+Technology development cycles are occurring now for the next generation of products that
+will be deployed over the next three to five years. Without clear policy direction, these systems
+may be optimized solely for customer-only use, including cycling for TOU arbitrage, rather than
+incorporating grid-supportive functions.
+Extending ELRP Group A.5 both provides near-term capacity from EVs that California
+can use today and helps ensure that the managed charging and bidirectional charging industry
+continues to design systems that meet not only customer needs but also the broader needs of the
+grid. It is only through signals sent during times of need that these resources will be engaged to
+provide maximum value to ratepayers.
+4.1.i If the ELRP pilot should be extended with modifications, should there be design changes
+made to it that align with the “Guiding Principles” staff proposal? Please explain any specific
+design changes recommended as part of the response.
+VGIC recommends extending ELRP Group A.5 with only minor modifications. The Staff
+Proposal, at its core, is a straightforward extension of the 2027 budgets for DR programs. We see
+value in applying similar treatment to ELRP Group A.5.
+While VGIC recommends minor program modifications below, it does not make sense to
+align ELRP changes specifically with the proposed Guiding Principles under consideration. Staff
+is not proposing to change any other DR programs to align with the proposed Guiding Principles.
+Aligning programs with new Guiding Principles will likely take more time than this track will
+provide. It is also premature to align any program with Guiding Principles that have not yet been
+9
+
+adopted. Notably, ELRP, especially Group A.5, already aligns with the core intent of the proposed
+guiding principles, but it is unique as an emergency program that does not provide Resource
+Adequacy. Instead of trying to force large program changes at this stage, it is a better use of
+time and resources to extend ELRP Group A.5 with more minor modifications, and for the
+utilities and all stakeholders to consider how to align ELRP with adopted principles in the
+2030-2034 DR applications.
+However, VGIC does recommend two minor modifications to ELRP for the 2028 and 2029
+seasons:
+A. The Commission should remove the current requirement that ELRP Group A.5
+participants participating via submetering pathways do so through the
+Commission’s adopted Plug-in EV Submetering Protocol (“PEV Submetering
+Protocol”). Instead, the submetering pathway for Group A.5 participants should
+align with the submetering requirements currently in place for ELRP Group A.4.
+In the current Terms and Conditions, both Group A.4, for stationary storage devices,
+and Group A.5, for EV/VGI aggregations, allow for submetering. For Group A.5, the
+terms state “Upon adoption by the CPUC, the submeter must meet applicable standards
+established by the CPUC. Aggregators that elect to use sub-meter data for settlement
+purposes shall also comply with approved submetering services as outlined in the
+Aggregator Participation Agreement.”14 In contrast, Group A.4 only requires that
+aggregations “comply with approved submetering services as outlined in the
+14 Pacific Gas & Electric Company Emergency Load Reduction Program (ELRP) Pilot Group A Terms and Conditions
+Pursuant to California Public Utilities Commission Decisions 21-03-056, 21-06-027, 21-12- 015, and 23-12-005,
+February 15, 2026, at p.16-17.
+https://elrp.olivineinc.com/_files/pge/elrp/PGE-ELRP-Group-A-Terms-and-Conditions.pdf
+10
+
+Aggregator Participation Agreement.”15 Currently, the Commission has an approved
+PEV Submetering Protocol that requires adherence to specific standards. While VGIC
+appreciates that the CPUC has adopted a submetering protocol since ELRP was first
+established, that protocol was always intended to provide the accuracy and standards
+necessary to support sub-metered participation in utility rates, not necessarily for a
+program like ELRP. The initial PEV Submetering Pilot testing launched because
+compelling EV-specific TOU rates in the early and mid-2010s required customers to
+install a separate utility meter to participate, which was both cost-prohibitive and, in
+some cases, simply took up more physical space than certain residential customers
+could accommodate. The testing eventually resulted in the establishment of the PEV
+Submetering Protocol in 2022 to support customer participation in certain utility rates.
+The implementation advice letters following the 2022 adoption of the PEV
+Submetering Protocol detailed the specific utility rates in which customers could utilize
+the PEV Submetering Protocol instead of an entirely separate meter. The utilities’
+current submetering webpages extensively and clearly detail the use of submetering for
+participating in rates, not for DR pilots/programs, further demonstrating the long-
+standing intent of all stakeholders, including the Commission, IOUs, and industry, to
+apply submetering to rate billing purposes, not DR pilots/programs.16
+Meanwhile, other concluded and active non-rate DR pilots and programs that
+support EV participation, like SCE’s Charge Smart SoCal17 and PG&E’s evPulse
+15 Ibid at p.16.
+16 See https://www.sce.com/factsheet/ev-charging-submeter-billing-option-information-sheet and
+https://www.pge.com/en/clean-energy/electric-vehicles/electric-vehicle-submetering-program.html#accordion-
+155817abb9-item-31ba5ee5b6.
+17 See more info at https://www.sce.com/save-money/savings-programs/ways-to-save-at-home/what-is-demand-
+response
+11
+
+Pilot18, correctly do not require devices to meet the PEV Submetering Protocol.
+Additionally, there are significant practical barriers to using the PEV Submetering
+Protocol today. One of these is the ineligibility of NEM/NBT customers, since VGIC
+estimates that 50-70% of California’s bidirectional charging early adopters have
+existing NEM or NBT systems. Another significant barrier is the requirement that the
+data be mediated by an approved Meter Data Management Agent (“MDMA”). It is
+currently difficult to become an MDMA and PG&E only has two certified MDMAs19
+and SCE only has four certified MDMAs, none of which serve residential segments.20
+The requirement to use an MDMA to transfer data is not applicable to Group A.4. In
+order to enable comparable treatment between these two ELRP groups and not
+disproportionally disadvantage the relatively nascent EV/VGI aggregation market, the
+Commission should remove the requirement that Group A.5 customers that elect
+submetering do so through the PEV Submetering Protocol.
+B. The Commission should also reserve funding for ELRP Group A.5 in recognition
+of the relatively nascent state of EV/VGI Aggregation. The utilities requested ELRP
+budgets based on expected enrollments for individual participating groups. Currently,
+the ELRP budget is allocated on a first-come, first-served basis, with no budget
+reserved for individual subgroups. However, to ensure sufficient budget for Group A.5
+customers, including bidirectional charging customers who cannot participate in any
+18See more info at: https://www.weavegrid.com/news/weavegrid-launches-evpulse-for-northern-and-central-
+california-based-ev-drivers
+19See PG&E’s certified MDMAs at: https://www.pge.com/en/clean-energy/electric-vehicles/electric-vehicle-
+submetering-program.html#accordion-155817abb9-item-01a9243ca7
+20 See SCE’s certified MDMAs at:
+https://app.powerbi.com/view?r=eyJrIjoiZWE0Mjg4MjctNjZiYi00MjhmLWFiYWEtMzBiODM2YTFhZTdlIiwidC
+I6IjViMmE4ZmVlLTRjOTUtNGJkYy04YWFlLTE5NmY4YWFjYjFiNiIsImMiOjZ9
+12
+
+other grid services program, implementing an initial set-aside for these customers may
+be reasonable. Notably, in previous Commission treatment establishing and
+maintaining provisions for EV/VGI Aggregations, the CPUC has stated that VGI and
+bidirectional charging “is in its early stages of development.”21 The Commission has
+further acknowledged that EV/VGI aggregations are uniquely positioned within ELRP,
+stating that “the ELRP pilot [is] an opportunity to deploy and scale this [EV/VGI]
+resource.” VGI and bidirectional charging is unquestionably still in its early stages of
+development and, as such, the Commission’s findings are still as relevant as they were
+in previous Decisions and Resolutions establishing and preserving provisions for ELRP
+A.5. With this in mind, VGIC recommends that the Commission take a similar
+approach to the CEC’s recently updated guidance for DSGS Option 3:22 a share of
+DSGS funding is specifically reserved for eligible EV customers, and remaining,
+unused funds are then provided to other customers. By reserving specific, modest
+funding for Group A.5 for the 2028-2029 seasons, the Commission will ensure that
+these VGI resources are not left untapped and instead contribute to California’s grid
+needs.
+4.1.j Are there lessons or elements from DSGS that could inform improving ELRP pilot
+design to benefit all ratepayers?
+VGIC believes that some elements of DSGS could inform modifications to ELRP,
+including:
+21 Resolution E-5267 at 15.
+22 The CEC has reserved $250,000 for EV aggregations for the 2026 season. Demand Side Grid Support (DSGS)
+Program Guidelines, Fifth Edition, https://www.energy.ca.gov/publications/2026/demand-side-grid-support-dsgs-
+program-guidelines-fifth-edition
+13
+
+• Device-level metering: As detailed above in VGIC’s response to question 4.1.i, DSGS
+Option 3 – as well as ELRP Group A.4 – leverages device-level measurement to facilitate
+participation, rather than the PEV Submetering Protocol, which has faced implementation
+challenges and limited eligibility.
+• Capacity payment structure: DSGS Option 3 compensates participants based on a
+performance-based $/kW-month capacity payment structure. This makes customer
+equipment investments, aggregator outreach to customers, and program administrator
+spending easier to predict and plan for.
+• Standardized aggregator payment terms: DSGS Option 3 provides payments to
+aggregators, and it is up to those aggregators to create customer incentives compelling
+enough to encourage participation. This reduces the need to negotiate different contracts
+individually between IOUs and aggregators, lowering the administrative burden for both.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Ruling. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: April 30, 2026
+14

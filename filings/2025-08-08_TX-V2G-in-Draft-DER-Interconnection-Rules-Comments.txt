@@ -1,0 +1,106 @@
+To: All Parties of Record
+From: Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, CA 95811
+vgicregulatory@vgicouncil.org
+Re: PUC PROJECT NO. 54233
+Technical Requirements and Interconnection Processes for Distributed Energy Resources
+(DERS): A Response to party comments regarding New 16 TAC 25.210, Amendments to
+25.211 and Repeal and Replacements of 25.212
+Date: August 8, 2025
+Dear Commissioners and parties of record,
+Vehicle-Grid Integration Council (VGIC) commends the Public Utilities Commission of Texas
+(PUCT) staff for developing proposed enhancements to the interconnection rules for distributed
+energy resources (DERs). VGIC is a 501(c)6 non-profit member-based association focused on
+growing the market for flexible electric vehicle (EV) charging and discharging. We conduct
+research, education, and advocacy to unlock the value of EVs to achieve a reliable, affordable, and
+efficient electric grid.
+A core technology of Texas’ future grid is grid-parallel bidirectional charging systems, or “vehicle-
+to-grid” (V2G) systems, which are available in two configurations: V2G Direct Current (V2G DC) and
+V2G Alternating Current (V2G AC). V2G DC systems are a combination of hardware and software in
+or around the EV supply equipment (EVSE) for the purposes of communication with and
+programmed flow of energy into and out of the vehicle battery in support of electrical loads or
+systems offboard the EV that are operating in parallel with the grid where the electricity coming out
+of the vehicle is direct current that must be converted to alternative current by an external inverter.
+V2G AC systems are a combination of hardware and software in or around the EVSE and EV for the
+purposes of communication with and programmed flow of energy into and out of the vehicle
+battery in support of electrical loads or systems offboard the EV that are operating in parallel with
+the grid where the electricity coming out of the vehicle is alternating current, having been converted
+in the vehicle through the use of inverter capabilities onboard the vehicle.
+Based on our interpretation of the staff discussion draft, the proposed language captures both grid-
+parallel V2G system types (DC and AC) as part of the “Certified Equipment” definition in section
+25.210(b)(1) of the discussion draft. This is because both V2G DC and V2G AC systems can comply
+with the underlying IEEE 1547 standards and the applicable (including emerging) UL 1741
+standards referenced in “Certified Equipment.” For example, V2G DC systems are certified to UL
+1741 and, depending on the model, SA or SB. V2G AC systems can be certified under one of two
+pathways. One is the emerging UL 1741 SC standard for charging equipment that pairs with
+vehicles designed to SAE J3072. This standard, once published, will ensure the requirements of
+IEEE 1547 are met. The other pathway is to certify a charger and vehicle together as a “DER
+
+System,” which is an existing concept detailed in IEEE 1547, as well as UL 9741. UL is currently
+developing a DER Systems Certification Requirements Decision (CRD) that manufacturers can
+pursue for this matched-pair certification approach. Since all pathways are rooted in IEEE 1547,
+the “Certified Equipment” definition in section 25.210(b)(1) of the staff proposal seems to
+sufficiently incorporate V2G equipment.
+Given the relatively limited deployment of V2G systems to date, VGIC foresees a potential gap in
+the implementation of these rules as they relate to V2G systems. To address this, we recommend
+that the PUCT direct distribution service providers (DSPs) to include relevant interconnection
+procedures for both V2G system types (AC and DC) to ensure alignment with the PUCT “Certified
+Equipment” definition. In other words, VGIC respectfully requests that the PUCT require DSPs to
+establish a clear process for V2G AC and DC interconnection, given we interpret these systems to
+fall within the proposed definition of “Certified Equipment.” In the below sections, VGIC offers
+additional detail on the state of the bidirectional charging market and the broader imperative to
+ensure DSPs appropriately incorporate V2G in DER interconnection rules.
+The market for bidirectional charging solutions is growing quickly due to increased availability of
+certified systems across several customer classes and an increase in consumer interest. Texas is
+one of the fastest-growing states for EV adoption, with a >50% YOY increase in adoption. The scale
+of opportunity for Texas to tap into latent energy storage capacity currently locked away in its
+increasing fleet of EVs cannot be overstated. Critically, these resources are, first and foremost,
+customer mobility resources. However, the amount of time vehicles typically spend parked idle,
+combined with the increase in battery capacity and durability, results in immense potential for EVs
+to support grid resilience and reliability in the face of broader energy system transitions.
+Currently, small residential bidirectional charging systems are available from Ford (i.e., Ford F-150
+Lightning Electric), General Motors (including nearly every fully battery electric Chevrolet, Cadillac,
+and GMC vehicle), Tesla (i.e., Cybertruck), Nissan (i.e., LEAF), and Kia (i.e., EV9). Chargers and
+associated equipment for bidirectional charging systems are also available from dcbel, Wallbox,
+Fermata, Sunrun, Heliox, InCharge, and Tellus Power Green. Meanwhile, nearly every modern
+electric school bus delivered across the country is capable of bidirectional charging, including
+solutions from Thomas Built, Blue Bird, IC Bus, Green Power Motors, Pheonix Motorcars, Lion
+Electric, and RIDE. Stellantis, Rivian, Volvo, Volkswagen, BMW, Hyundai, Polestar, Mecerdes-Benz,
+Lucid, Emporia, ChargePoint, SolarEdge, Enphase, and Autel have also announced bidirectional
+charging solutions that are expected to be made available soon.
+Based on VGIC’s experience in grid-parallel bidirectional charging system (i.e., V2G systems)
+market development since 2020, there are four common barriers that impede customer adoption:
+(1) Interconnection: i.e., “Will my utility know what to do with an interconnection
+application for this solution?”
+(2) Compensation: i.e., “Will I have the opportunity to lower my bill or maybe even receive
+payments from my energy supplier?”
+(3) Upfront Cost: i.e., “Will the system be affordable?”
+(4) Technical standards: i.e., “Will the system be safe and reliable?”
+
+Ensuring V2G systems are appropriately incorporated into the DSPs’ DER interconnection
+processes can help overcome each of these key barriers and, in turn, unlock a low-cost toolkit to
+support customer resilience, grid reliability, and widespread affordability. As evident in other
+states, it is critical to explicitly provide customers and installers with clear guidance and an
+appropriately updated form or interconnection application portal for their V2G system.1 Notably,
+little to no change to the interconnection rule itself – outside of this directive – may be needed. With
+this in mind, VGIC recommends the PUC explicitly direct DSPs to establish clear processes,
+guidance, and appropriate forms/application portals for V2G systems eligible as “Certified
+Equipment” compliant with “applicable sections of UL-1741 and IEEE-1547 standards.”
+In summary, VGIC strongly supports the incorporation of V2G systems into DER interconnection
+rules given the potential benefits of economic efficiency, public health improvement, grid
+reliability, and customer resilience. We believe that this initiative will play a crucial role in
+facilitating the deployment of bidirectional charging infrastructure across the state, advancing
+Texas's commitment to an affordable and profitable energy future.
+Thank you for your consideration. We look forward to a favorable decision that will benefit both
+Texas’ economy and the choice of electric customers.
+Sincerely,
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1 Utilities in other states have taken this step. Major reforms are not typically required to interconnection
+rules to incorporate grid-parallel DC or AC bidirectional charging systems. However, without Commission
+direction, utilities have not been providing customer with appropriate forms and applications for grid-parallel
+bidirectional charging systems (i.e., V2G systems).

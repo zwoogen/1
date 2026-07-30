@@ -1,0 +1,203 @@
+DOCKETED
+Docket Number: 25-IEPR-06
+Project Title: Accelerating Interconnection and Energization
+TN #: 265777
+Vehicle-Grid Integration Council (VGIC) Comment - IEPR
+Document Title: Commissioner Workshop on Accelerating Interconnection and
+Energization
+Description: N/A
+Filer: System
+Organization: Vehicle-Grid Integration Council (VGIC)
+Submitter Role: Public
+Submission Date: 8/25/2025 4:40:17 PM
+Docketed Date: 8/25/2025
+
+Comment Received From: Vehicle-Grid Integration Council (VGIC)
+Submitted On: 8/25/2025
+Docket Number: 25-IEPR-06
+VGIC Comments on IEPR Commissioner Workshop on Accelerating
+Interconnection and Energization
+Additional submitted attachment is included below.
+
+August 25, 2025
+Email to: docket@energy.ca.gov
+Docket Number: 25-IEPR-06
+Subject: 2025 Integrated Energy Policy Report
+RE: Comments of the Vehicle Grid Integration Council on the IEPR Commissioner
+Workshop on Accelerating Interconnection and Energization
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide comments
+on the Integrated Energy Policy Report (IEPR) Commissioner Workshop on Accelerating
+Interconnection and Energization hosted August 11, 2025.
+While California has made significant progress in expanding electric vehicle (EV) adoption and
+distributed energy deployment, delays and inefficiencies in these processes risk undermining
+customer adoption, slowing innovation, and increasing costs for ratepayers. The 2025 IEPR should
+highlight these challenges and identify forward-looking solutions that will allow California to
+capture the full reliability, affordability, and decarbonization benefits of EVs. In particular VGIC
+recommends that the IEPR discuss barriers to bidirectional EV interconnection and flexible service
+connections.
+California should prioritize streamlining interconnection for grid-parallel bidirectional EV
+chargers.
+Distributed resources can and will play an important role in California’s grid future; in particular,
+there will be millions of EVs on the road that could provide electric system capacity, both in load
+flexibility but also for exports for the grid. However, today’s interconnection process for
+bidirectional chargers remains complex and costly, creating a major barrier to widespread
+deployment. The 2025 IEPR should discuss current barriers to bidirectional interconnection and
+potential solutions to ensure we do not stall the state’s electrification and reliability objectives.
+Current interconnection processes often fail to recognize bidirectional charging configurations
+clearly, impose disproportionate fees on small projects, and require duplicative steps. VGIC
+therefore recommends the following:
+• Ensure customers/installers interconnecting bidirectional EV charging systems for
+grid-parallel operation are provided the appropriate guidance, portals, and forms:
+To avoid confusion and delay, it is critical that each utility’s interconnection application
+forms and online portal, if available, allow applicants to clearly identify whether they are
+1
+
+interconnecting a grid-parallel bidirectional EV charging system. In the past, grid-parallel
+bidirectional charging sites have been significantly delayed because applicants were not
+provided with appropriate forms and, in turn, projects would be initially routed through the
+wrong process and utility team. Applicants should be able to clearly specify the technology
+type, AC or DC paired, as it can expedite utility review.
+Notably, Pacific Gas and Electric (PG&E) has made and maintained this update to its
+forms, which demonstrates that such updates are feasible and effective.1 In contrast,
+Southern California Edison (SCE) and San Diego Gas and Electric (SDG&E) have not
+implemented similar updates, which VGIC members report resulting in confusion and
+delays.2
+• Reassess interconnection application fees for grid-parallel bidirectional charging
+systems: California has interconnection application fees for grid-parallel bidirectional EV
+charging systems that significantly exceed those charged by utilities in other states. The
+investor-owned utilities charge an $800 fee for all grid-parallel bidirectional EV charging
+systems less than 1 MW,3 and Sacramento Municipal Utility District (SMUD) charges
+$475 for residential systems < 10 kW and $900 for systems between 10-20 kW, the size of
+most bidirectional EV chargers on the market today.4
+These fees have an outsized impact on bidirectional EV charging systems, which have
+relatively lower upfront costs compared to stationary energy storage systems, rooftop solar
+PV, or other customer distributed energy resources (DERs). For example, the most
+significant share of the total upfront costs for a stationary battery energy storage system is
+the battery itself. In contrast, this is not one of the costs required in enabling a bidirectional
+charging system, as the vehicle battery has already been purchased for its primary
+transportation use case. As a result, the $800-$900 interconnection application fee
+comprises one of the most significant upfront costs for grid-parallel bidirectional EV
+charging systems and, in turn, one of the largest barriers to widespread vehicle-to-grid
+capacity.
+• Define a timeline or roadmap for transitioning to virtual inspection and notification-
+only approaches: Virtual inspections and notification-only approaches both offer cost and
+time improvements over traditional site inspection processes, especially for smaller
+1 PG&E Electric Form No. 79-1174-03. Attachment H. Section AB.
+https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_FORMS_79-1174-03H.pdf
+2 See SCE Electric Form 14-918. Question 3.b.
+https://www.sce.com/sites/default/files/customfiles/PDF_Files/ELECTRIC_FORM_14-918_PDF fillable.pdf and
+SDG&E Electric Form 142-05201 and SDG&E Electric Form 142-05201
+https://tariffsprd.sdge.com/view/tariff/?utilId=SDGE&bookId=ELEC&tarfKey=730
+3 https://www.cpuc.ca.gov/rule21/
+4 https://www.smud.org/-/media/Documents/Rate-Information/Rates/Rule-2-21.ashx
+2
+
+bidirectional EV charging system projects. Establishing a clear timeline and milestones for
+this transition will streamline interconnection processes and reduce burdens on applicants.
+• Consider accepting all reasonable certification pathways for emerging V2G AC
+equipment: Currently, V2G AC interconnection is only allowed under the three large
+IOUs’ V2G AC interconnection pilot and has not been incorporated into the IOUs’ Rule
+21 on a permanent basis, nor, based on VGIC’s understanding, have any publicly-owned
+utilities or small and multi-jurisdictional IOUs detailed a pathway for V2G AC
+interconnection. VGIC believes V2G AC interconnection should be unlocked by allowing
+multiple eligible interconnection pathways.
+Stakeholders should consider the merits of establishing multiple pathways within Rule 21,
+as well as the publicly-owned utilities interconnection processes, for enabling V2G AC
+interconnection. UL 1741 SC, a new standard in development for V2G AC equipment, and
+UL 1741 CRD for DER Systems, a new CRD in development for V2G AC equipment, are
+both designed to meet the critical underlying safety and grid interoperability requirements
+of the grid. The UL 1741 CRD for DER Systems is for “matched pair” certification of a
+given EVSE paired with a specific vendor EV for V2G AC operation, whereas the UL 1741
+SC certification is for general use with any EV designed to SAE J3072. There is also a
+certification pathway for “matched pair” V2G AC using UL 9741 for grid-tied AC power
+export. The UL 9741 certification pathway, however, is not referenced in Rule 21, hence
+the desire to establish the UL 1741 CRD alternative certification pathway.
+Given the relatively nascent stage of the market, VGIC recommends considering allowing
+customers to elect the interconnection pathways best suited for them and their choice of
+technology. Notably, Maryland has already established a dual pathway approach, and other
+markets, including Texas and Nevada, are faced with a timely opportunity to follow suit.
+VGIC urges the Commission to advise relevant stakeholders via the IEPR to avoid creating
+undue limitations at this stage. A robust stakeholder process should consider all reasonable
+certification pathways.
+California should set clear timelines for adopting these improvements and ensuring consistency
+across all utilities. Doing so will help unlock the hundreds of megawatts of latent capacity
+already on California’s roads and ensure that EVs are fully integrated into the state’s clean
+energy transition.
+Flexible service connection can help improve energization timelines and also help to
+maximize use of the distribution system.
+During the workshop, the CPUC discussed their efforts to implement flexible service connections,
+where customers must adhere to load limits during certain times of the day/year when the
+3
+
+distribution infrastructure is constrained. This is an extremely valuable tool to enable quicker
+energization but also to enable long-term cost savings for ratepayers. The IEPR should further
+explore flexible service connection and how to unlock this pathway throughout the state, including
+in publicly owned utility service territories.
+EV customers have shown a particular interest in flexible service connections, since many larger
+charging sites for public fast charging and fleet charging have faced years of delays to unlock 24/7
+import capability for their full charging load. This is materially impacting the ability of
+Californians to electrify their vehicles and business fleets. However, many of these sites may wish
+to avoid charging during times when the distribution system is constrained if it means that, in
+exchange for this load management, they can connect to the grid sooner. This can be done on an
+interim basis while electric infrastructure upgrades are constructed, but it is also likely that
+customers could continue to follow these schedules, avoiding the need for upgrades altogether. In
+either case, VGIC recommends that the customers electing the relevant load management
+technologies to enable flexible service connection, which may include software subscriptions and
+licenses, hardware, energy storage systems, local generation, and other costly solutions, be
+provided with a share of the avoided upgrade costs. VGIC believes a shared savings model in
+which utilities, ratepayers, and the customer electing the enabling solution for flexible service
+connection should all see clear financial benefit, representing a win-win-win solution to advance
+electrification while triggering fewer overall distribution system upgrades borne by utility
+ratepayers. We discuss the shared savings model in further detail below, as well as other specific
+recommendations related to flexible service connection.
+• All California utilities should adopt at a minimum, static, firm flexible service
+connection offerings for EV customers that cannot be fully energized in a timely
+manner. PG&E and SCE have shown that simple flexible service connection frameworks
+can be created with significant customer participation. These structures should be expanded
+to other utilities, including publicly owned utilities, to allow customers to electrify their
+vehicles and fleets more quickly. Additionally, utilities should consider how to offer more
+dynamic flexible service connection offerings, especially if they have existing capabilities
+and investments required to enable these solutions (e.g., utility DERMS platforms).
+• Critically, all flexible service connection offerings should not only be technically
+available, but easily accessible to all customers through a standardized process, form,
+tariff, and/or portal. This will allow for the rapid scale-up of flexible service connections
+in pursuit of both California’s transportation decarbonization goals and the state’s urgent
+affordability needs.
+• California should allow customers to voluntarily adopt flexible service connections
+and be compensated for the commensurate deferral and/or avoidance of costly
+distribution infrastructure upgrades. Flexible service connections present a critical
+4
+
+opportunity to reduce total distribution system costs by “locking in” customer-side
+flexibility during the upgrade or new load site design and construction phase. In cases
+where upgrades will inevitably be needed to enable widespread electrification, the value of
+deferral alone is significant given the time value of money and the long timelines for utility-
+side upgrades.
+VGIC strongly urges California to adopt fair, transparent, and scalable approaches for
+compensation that reflects this value of avoided system costs. One such approach is a
+shared savings model, where customers receive a portion of the distribution upgrade
+deferral value that they unlock. In this approach, the avoided costs can be split between the
+customer paying the equipment and/or software cost to enable the deferral/avoidance, the
+ratepayers that would otherwise have borne the cost of the upgrade, and the utility. Another
+approach that could be used is designating a fund to support customer installation of
+equipment and/or software required to enable elective flexible service connections. Under
+this approach, the total amount of funding provided to offset the equipment and/or software
+costs is below the total deferred/avoided costs, such that the program yields clear net
+benefits for ratepayers. For example, New York has established its Load Management
+Technology Incentive Program, which provides funding to augment other incentive
+programs, like the EV make-ready program, ensuring adequate funding to deploy
+equipment enabling flexible service connections.
+Overall, flexible service connections should be pursued by all California energy agencies. As
+discussed at the workshop, incentivizing the technology-enabled rightsizing of load requests to
+existing grid capacity should remain a priority moving forward.
+Conclusion.
+VGIC appreciates the opportunity to provide these comments and looks forward to collaborating
+with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+5

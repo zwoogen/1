@@ -1,0 +1,147 @@
+February 19, 2026
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Protest of the Vehicle Grid Integration Council to Advice Letters 4794-E
+and 4795-E of San Diego Gas and Electric Company
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this Protest to the above-referenced Advice Letters of San Diego Gas
+and Electric Company (“SDG&E”), Advice Letter 4794-E Request for Exemption from Public
+Utilities Code Section 851 and Low Carbon Fuel Standard Holdback Revenue Return
+Implementation Plan in Compliance with Decision 20-12-027 for Residential Charging Rebate
+Program and Pre-Owned Electric Vehicle Program and Advice Letter 4795-E Request for
+Exemption from Public Utilities Code Section 851 and Low Carbon Fuel Standard Holdback
+Revenue Return Implementation Plan in Compliance with Decision 20-12-027 for Electric Vehicle
+High Power Rate Incentive Program (both “Advice Letters”) submitted on January 30, 2026.
+I. INTRODUCTION.
+SDG&E’s Advice Letters propose to use Low Carbon Fuel Standard (“LCFS”) Holdback
+Funds for two programs: a Residential Charging Rebate Program to provide incentives for Level
+2 chargers1 and an EV High Power (“EV-HP”) Rate Incentive Program to encourage enrollment
+in the EV-HP rate. 2 While these proposals support transportation electrification generally, they do
+not include any vehicle-grid integration (“VGI”) component designed to actively manage EV load
+or reduce peak demand.
+This omission is significant. SDG&E’s own Electrification Impact Study (“EIS”) Part 2
+demonstrates that managed charging and demand flexibility materially reduce peak load and lower
+distribution infrastructure costs.3 Yet SDG&E does not currently offer active managed charging
+or meaningful bidirectional charging programs, nor does it propose to use LCFS Holdback Funds
+to develop them. As discussed below, VGI delivers measurable ratepayer benefits, and LCFS
+1 Outlined in Advice Letter 4794-E.
+2 Outlined in Advice Letter 4795-E.
+3 SDG&E, Final Electrification Impact Study Part 2, January 28, 2026, filed in Rulemaking (“R.”) 21-06-017,
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M596/K903/596903988.PDF (“SDG&E EIS Part 2”)
+
+February 19, 2026
+Page 2 of 4
+Holdback revenues are expressly authorized for such purposes under the California Air Resources
+Board’s (“CARB”) LCFS framework.4
+Accordingly, SDG&E should modify Advice Letters 4794-E and 4795-E to include a VGI-
+focused component that aligns with its own planning analysis and CARB’s regulatory
+authorization.
+II. SDG&E MUST INCLUDE VEHICLE-GRID INTEGRATION EFFORTS IN ITS
+HOLDBACK PLAN.
+A. Vehicle-Grid Integration (“VGI”) provides significant savings to ratepayers.
+SDG&E’s Advice Letters propose to use LCFS Holdback Funds for a Residential Charging
+Rebate Program and an EV-HP Incentive Program. While these programs may support
+transportation electrification generally, they do not meaningfully advance VGI or actively manage
+charging to reduce peak demand. This omission is particularly concerning given SDG&E’s own
+recently filed analysis – its Final EIS Part 2 – demonstrating that load flexibility materially reduces
+distribution infrastructure needs and ratepayer costs.
+In its Final EIS Part 2, SDG&E found that maximizing demand flexibility led to a 193 MW
+reduction in peak load and reduced distribution costs by approximately $697 million.5 SDG&E’s
+analysis further confirms that light-duty electric vehicles (“EVs”) are the single largest
+contributor to peak load growth.6 In other words, unmanaged EV charging materially drives
+peak load and infrastructure expansion. Conversely, managed EV charging and broader
+demand flexibility strategies meaningfully reduce those impacts.
+However, these ratepayer savings depend on actually achieving the load shapes and
+customer response modeled in the study. In its modeling, SDG&E specifically included active
+managed charging strategies designed “to smooth charging demand during price fluctuations to
+prevent rebound peaks.”7 There is also evidence that EV discharging using bidirectional charging
+systems can further support load flexibility and drive down ratepayer costs. For example, Pacific
+Gas and Electric (“PG&E”) found in its own EIS Part 2 that bidirectional EVs could provide over
+30% of the load flexibility modeled in its Demand Flexibility scenario.8
+Yet, despite these modeled benefits, SDG&E does not currently offer any active VGI
+programs, including active managed charging or meaningful bidirectional EV participation
+pathways. The absence of such programs stands in direct tension with the utility’s own findings
+4 See CARB’s LCFS Amendments, Attachment A-1: Final Regulation Order (Proposed Sections for Amendments) at
+p.49-50.
+5 SDG&E EIS Part 2 at 1.
+6 SDG&E EIS Part 2 at 24.
+7 SDG&E EIS Part 2 at 13..
+8 PG&E, Electrification Impacts Study Part 2 Report, January 28, 2026, filed in Rulemaking (“R.”) 21-06-017,
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M596/K907/596907812.PDF (“PG&E EIS Part 2”) at 34.
+
+February 19, 2026
+Page 3 of 4
+that managed charging and demand flexibility materially reduce peak demand and lower
+distribution costs. Without programmatic mechanisms to unlock these modeled load shapes, the
+projected ratepayer savings will not materialize.
+LCFS Holdback Funds represent a flexible funding source well-suited to developing and
+scaling VGI programs. These funds provide SDG&E with a clear opportunity to translate the
+findings of its EIS Part 2 into real-world implementation—by supporting active managed charging,
+bidirectional charging capability, and performance-based participation structures that optimize EV
+load for grid benefit. Instead, the Advice Letters allocate Holdback revenues toward programs that
+increase EV load without ensuring that load is managed in a manner consistent with SDG&E’s
+own planning analysis.
+SDG&E must therefore modify Advice Letters 4794-E and 4795-E to include a VGI-
+focused component that prioritizes managed and bidirectional charging. Failing to incorporate VGI
+into its Holdback plan disregards the utility’s own quantified analysis and leaves substantial,
+documented ratepayer savings unrealized.
+B. LCFS Holdback Funds Are Expressly Authorized to Support Vehicle-Grid
+Integration Programs
+As shown above, VGI provides measurable grid and ratepayer benefits, including peak
+reduction and infrastructure cost deferral. LCFS Holdback Funds are not limited to passive EV
+adoption incentives; they are expressly intended to support transportation electrification programs
+that deliver grid and customer benefits. CARB’s updated LCFS regulation explicitly identifies
+VGI-related investments, including managed charging and bidirectional charging deployment, as
+eligible uses of holdback credit proceeds. CARB provides the following examples of permissible
+uses: 9
+i. Investments in grid-side distribution infrastructure necessary for EV charging.
+ii. Support for vehicle-grid integration with projects such as:
+I). Encouraging the optimization of EV charging through education in the following
+areas: peak demand, rate pricing, grid emergencies, potential power shutoffs,
+infrastructure deferral, renewable integration, and/or other signals and grid needs
+to provide grid and customer benefits.
+II). Providing program incentives to encourage driver participation in
+monitored/managed charging, demand response, or vehicle-to-load / vehicle-to-grid
+applications.
+III). Supporting the deployment and installation of bidirectional charging equipment.
+IV). Other innovative approaches to promoting and managing EV charging and
+discharging that provides benefits to customers and the grid.
+9 CARB’s LCFS Amendments, Attachment A-1: Final Regulation Order (Proposed Sections for Amendments) at p.49-
+50.
+
+February 19, 2026
+Page 4 of 4
+iii. Hardware and software that decrease the cost of or avoid updates to infrastructure,
+including load management software or outlet splitting.
+These examples directly mirror the load flexibility strategies modeled in SDG&E’s EIS
+Part 2. Managed charging incentives, bidirectional charging equipment deployment, and load
+management software are not peripheral concepts; they are explicitly identified regulatory use
+cases for LCFS Holdback proceeds.
+Yet SDG&E is currently the only major investor-owned utility not proposing a VGI-
+focused Holdback initiative. Given the documented cost savings associated with load flexibility
+and the central role of EVs in driving peak growth, SDG&E’s omission is inconsistent with both
+CARB’s LCFS framework and SDG&E’s own planning analysis.
+Accordingly, SDG&E should revise Advice Letters 4794-E and 4795-E to include a
+dedicated vehicle-grid integration component that:
+1. Prioritizes active managed charging and bidirectional capability;
+2. Explicitly targets peak load reduction and distribution infrastructure deferral; and
+3. Aligns program design with the quantified load flexibility findings in SDG&E’s EIS Part
+2.
+LCFS Holdback Funds present a timely and appropriate mechanism to operationalize the cost-
+saving benefits that SDG&E has already identified. SDG&E should modify the Advice Letters to
+incorporate a VGI-focused program consistent with CARB’s authorization and SDG&E’s own
+analysis. VGIC strongly recommends that SDG&E file supplemental Advice Letters
+addressing this gap, proposing at least one VGI initiative.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this Protest to the Advice Letters. We look
+forward to collaborating with stakeholders on this important initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+Vehicle Grid Integration Council
+cc: Greg Anderson, SDG&E (GAnderson@sdge.com and SDGETariffs@sdge.com)
+Service list of R.23-12-008, R.18-12-006

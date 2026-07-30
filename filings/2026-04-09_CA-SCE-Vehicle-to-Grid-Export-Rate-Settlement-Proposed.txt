@@ -1,0 +1,196 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Southern California
+Edison Company (U 338-E) to Application 24-03-019
+Establish Marginal Costs, Allocate (Filed March 29, 2024)
+Revenues, and Design Rates.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION REGARDING SOUTHERN CALIFORNIA EDISON
+COMPANY’S APPLICATION TO ESTABLISH MARGINAL COSTS, ALLOCATE
+REVENUES AND DESIGN RATES
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: April 9, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Southern California
+Edison Company (U 338-E) to Application 24-03-019
+Establish Marginal Costs, Allocate (Filed March 29, 2024)
+Revenues, and Design Rates.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION REGARDING SOUTHERN CALIFORNIA EDISON
+COMPANY’S APPLICATION TO ESTABLISH MARGINAL COSTS, ALLOCATE
+REVENUES AND DESIGN RATES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these opening comments on the Proposed Decision Regarding Southern California Edison
+Company’s Application to Establish Marginal Costs, Allocate Revenues and Design Rates
+(“Proposed Decision” or “PD”), issued by Administrative Law Judge Marcelo Poirier on March
+20, 2026.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to submit these comments on the PD. VGIC has also
+signed on to comments by the Joint Parties of the Vehicle-to-Grid Resource Proposal (“VGRP”)
+Settlement, Southern California Edison (“SCE”), CALSTART, Inc., Small Business Utility
+Advocates, Solar Energy Industries Association (“SEIA”), and VGIC (collectively, VGRP
+Parties). The Proposed Decision errs in rejecting the VGRP Settlement agreement, and VGIC
+recommends that the Commission approve the settlement as consistent with the law, reasonable in
+light of the whole record, and in the public interest. The Comments of the VGRP Parties discuss
+the reasonableness of the settlement agreement.
+1
+
+VGIC submits these comments specifically on the risk of not adopting VGRP. With this
+decision, the Commission is sending the signal to industry and broader stakeholders that California
+does not want bidirectional charging systems to export to the grid or participate in grid services.
+This message means that the bidirectional charging industry and customer offerings will
+work towards serving only the needs of bidirectional charging customers, leaving benefits
+for broader Californians and ratepayers unrealized and potentially exacerbating cost shift
+concerns.
+II. THE COMMISSION MUST ENABLE GRID-INTERACTIVE ACTIVITIES THAT
+ENCOURAGE CUSTOMERS TO CONTRIBUTE TO THE GRID.
+VGRP represents a necessary and timely response to the rapidly advancing bidirectional
+charging ecosystem. Every day, additional vehicles are sold in California with grid-parallel
+bidirectional charging features, including 24 models on the market today from 14 automotive
+brands, with four additional models from four more automakers announced for upcoming release.
+In total, VGIC estimates that there are 215,465 light-duty vehicles and 1,890 electric school buses
+in California that offer bidirectional charging features. Assuming SCE contains 33% of the state’s
+EVs, an estimated 71,727 such vehicles may already be in SCE’s service territory.1
+These vehicles represent a substantial and growing grid resource. The California Energy
+Commission (“CEC”) notes an average light-duty EV battery exceeds 80 kWh 2 and a resulting
+approximately 18.5 GW of aggregate battery capacity statewide, surpassing California’s installed
+1 Prepared Testimony of Sylvie Ashford Addressing Southern California Edison’s Test Year 2025 General
+Rate Case Load Growth Investments. A.23-05-010. TURN-07. Page 11-13.
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2305010/7090/526146968.pdf
+2 California Energy Commission. A Roadmap to Unlocking the Benefits of Bidirectional Charging. March
+2026. Page 2. https://efiling.energy.ca.gov/GetDocument.aspx?tn=268952&DocumentContentId=106145
+2
+
+stationary storage capacity. 3 The CEC’s report estimates that bidirectional discharge can provide
+approximately three times the value of unidirectional managed charging.4 This scale underscores
+both the immediacy and magnitude of the opportunity.
+Given this untapped potential, customers will seek safe ways to use these assets for
+their benefit. It is therefore critical that the Commission establish pathways that enable these
+resources to contribute to grid needs. The Proposed Decision suggests that additional evidence
+is required regarding “customer preferences and behaviors regarding export rates.” 5 However,
+SCE has already surveyed customers and provided empirical evidence of customer acceptance and
+appetite for “V2G energy exports,” with 81% of SCE’s surveyed customers expressing at least “a
+little interested” and 16% of customers stating they are “very interested.”6 The CEC has also
+released updated data from 2025 showing that customers are willing to enroll in a bidirectional
+charging program, with 35% stating that they would be “Very Likely” to enroll in a program and
+an additional 34% stating that they would be “Likely” to enroll.
+Absent export opportunities or participation in grid service programs, customers are
+likely to use these vehicles solely to meet onsite needs. The CEC’s Roadmap anticipates this
+outcome, noting that customers can prioritize vehicle-to-home (“V2H”) applications to offset
+consumption during peak time-of-use periods, potentially through systems voluntarily islanded
+from the grid. 7 While such use cases can provide benefits, including an estimated 5 GW reduction
+3 California Energy Commission. A Roadmap to Unlocking the Benefits of Bidirectional Charging. March
+2026. Page 2. https://efiling.energy.ca.gov/GetDocument.aspx?tn=268952&DocumentContentId=106145
+4 Ibid at 3.
+5 PD at 45.
+6 SCE, Phase 2 of 2025 General Rate Case Amended Rate Design Proposals (SCE-04A) at p. 125, lines
+10-16, served to A.24-03-019 on August 26, 2024.
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7663/538693971.pdf
+7 The CEC roadmap refers to these systems as “grid disconnected.”
+3
+
+in residential peak load by 2030, these systems may operate disconnected from the grid and
+therefore limit broader system value.
+This trajectory risks pushing customers to maximize private benefits rather than aligning
+their behavior with system needs. While V2H applications may occasionally coincide with grid
+benefits, they are unlikely to consistently deliver optimized system outcomes. Customers acting
+independently will not necessarily discharge at times of highest grid value, nor will they support
+load shaping in a way that reduces overall system costs.
+VGIC is particularly concerned that this dynamic could lead to unintended cost shifts. In
+studies on the benefits of electrification, increased grid consumption during off-peak times reduces
+rates for all Californians.8 Shaping increased load, therefore, becomes important to maximize
+ratepayer savings, but simply removing significant overall load from the system does not address
+California’s affordability crisis and could lead to cost shifts among customers.
+In the absence of export compensation or clear grid-participation signals, technology
+providers may increasingly design products for self-consumption or grid-disconnected use
+cases. Early generations of bidirectional charging solutions are already marketed primarily for
+grid-isolated backup power. Technology development cycles are occurring now for products that
+will be deployed over the next three to five years. Without clear policy direction, these systems
+are likely to be optimized for customer-only use, including daily cycling for time-of-use arbitrage
+and elective islanding, even under “blue sky” or normal operating conditions.
+8 The Public Advocates Office. Abishek, Benjamin Hoffman, Leo Steinmetz, and Richard Khoe.
+Distribution Grid Electrification Model 2025. https://www.publicadvocates.cpuc.ca.gov/-/media/cal-
+advocates-website/files/presentations/251030-public-advocates-office-dgem-2025-slides.pdf
+4
+
+To avoid this outcome, the Commission should approve VGRP and establish a framework
+that encourages bidirectional charging systems to remain connected to, and actively support, the
+grid. Providing a pathway for export and grid services will help align customer incentives with
+system needs, unlock the full value of these distributed resources, and ensure that benefits are
+shared across all ratepayers.
+VGIC reiterates that, in the case of rejecting VGRP, there is an immense ratepayer
+cost of inaction, as this misstep will directly lead to greater development and deployment of
+very large home batteries (in the form of 80kWh/11kW bidirectional charging systems) that
+support grid defection and reduced utility revenue from these customers, directly
+undermining the Commission’s affordability goals.
+III. THERE ARE NO OTHER EXPORT OPPORTUNITIES FOR BIDIRECTIONAL
+CHARGING SYSTEMS IN SCE SERVICE TERRITORY AFTER 2027.
+Presently, there are very limited opportunities for bidirectional charging systems to provide
+value to the grid through exports in SCE’s service territory. The only currently available programs
+are the Emergency Load Reduction Program (“ELRP”), which is scheduled to sunset after 2027,
+and the Demand Side Grid Support Program (“DSGS”), which appears unlikely to continue
+beyond this year. As a result, absent further Commission action, bidirectional charging systems
+will effectively have no pathway to provide grid services after 2027. VGRP is designed to launch
+as ELRP phases out, providing a critical bridge that enables customers to continue providing grid
+services.
+The PD also references arguments from the Cal Advocates suggesting that dynamic rates
+could serve as an alternative to VGRP for compensating EV exports. While VGIC agrees that
+dynamic rates are an important tool for advancing VGI, these rates remain nascent and will require
+5
+
+significant time to scale to broad customer adoption. Importantly, SCE’s existing dynamic rate
+pilot does not permit exports, and SCE has not proposed export compensation in its current
+dynamic rate application. In its 2025 decision on Load Management Standard-compliant rates,
+the Commission declined to direct the large investor-owned utilities to include export
+compensation in their forthcoming dynamic rate applications. As a result, SCE identified
+VGRP in its dynamic rate application as the appropriate mechanism to compensate bidirectional
+charging system exports, both of which rely on the Avoided Cost Calculator to reflect marginal
+system value.
+Dynamic rates also introduce a level of complexity that limits near-term customer
+participation. There is no evidence in the record of this proceeding demonstrating that customers
+are interested in or prepared to enroll in dynamic export rates. While Pacific Gas and Electric
+Company (“PG&E”) has implemented dynamic export rates for bidirectional charging customers
+through its VGI pilots and Hourly Flex Pricing pilot, customer uptake has been limited, and no
+residential customers have participated in the dynamic rate or dynamic export compensation
+component of these pilots.9 This is the case even where PG&E has paired these rates with direct
+incentives for bidirectional equipment, an approach SCE has not yet implemented.
+Even if the Commission were to direct SCE to develop a dynamic export rate today,
+substantial time would be required to design, approve, and operationalize such a tariff. As a
+practical matter, this timeline would extend beyond the expiration of ELRP in 2027, leaving
+bidirectional charging customers without any viable program or compensation mechanism to
+provide grid services.
+9 California Public Utilities Commission. VGI Policy, Pilots, and Technology Enablement: VGI Forum
+2026 Event Recording. At 04:01-04:04. https://www.cpuc.ca.gov/industries-and-topics/electrical-
+energy/infrastructure/transportation-electrification/vehicle-grid-integration-activities
+6
+
+In contrast, the Commission could adopt VGRP to provide direct grid benefits today. As
+discussed by comments from the Joint Settling Parties, the settlement agreement and time-varying
+export rates based on the Avoided Cost Calculator (ACC) will provide benefits in line with
+California’s affordability goals.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Proposed Decision.
+Given the record of this proceeding, the Commission should adopt the VGRP Settlement
+Agreement.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: April 9, 2026
+7

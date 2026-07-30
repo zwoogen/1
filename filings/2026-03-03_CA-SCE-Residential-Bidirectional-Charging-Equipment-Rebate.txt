@@ -1,0 +1,161 @@
+March 3, 2026
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Joint Comments on Draft Resolution E-5452. Southern California Edison
+Orchestrated Charging and Advanced Resiliency for Distribution Vehicle
+Grid Integration Proposal Using Low Carbon Fuel Standard Holdback
+Revenue
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B and the Comment Letter accompanying Draft
+Resolution E-5452, the undersigned organizations respectfully submit these comments on the
+proposed approval with modifications of Southern California Edison’s (“SCE”) Advice Letter 5536-
+E, Southern California Edison’s Request for Approval to Update Its Low Carbon Fuel Standard
+Holdback Revenue Return Implementation Plan to Include a New Vehicle Grid Integration Program
+and to Qualify for Exemption from Public Utilities Code Section 851(“Advice Letter”).
+I. INTRODUCTION.
+The undersigned organizations support approval of the Orchestrated Charging and Advanced
+Resiliency for Distribution (“ORCHARD”) program. We thank the Commission for approving
+ORCHARD’s managed charging component and appreciate the Commission’s recognition that
+coordinated EV load management can provide important grid and ratepayer benefits.
+However, we respectfully urge the Commission to also approve SCE’s proposed incentives for
+bidirectional charging equipment.
+II. THE JOINT PARTIES URGE THE COMMISSION TO APPROVE ORCHARD’S
+INCENTIVES FOR BIDIRECTIONAL CHARGING EQUIPMENT.
+Bidirectional charging builds on and enhances the benefits of managed charging. While managed
+charging shifts or reduces EV load during constrained periods, bidirectional charging systems allow
+EVs to both reduce load and discharge power from their EV back to the home and/or grid. This dual
+functionality can deliver deeper peak reductions, improve local distribution reliability, and unlock
+incremental system value beyond load management alone, as demonstrated by several foundational
+
+March 3, 2026
+Page 2 of 5
+studies from the CPUC, PG&E, Stanford, E3, Union of Concerned Scientists, Brattle, EPRI,
+Lawrence Livermore National Laboratory, and UC Irvine, among others.1
+Bidirectional charging systems are not limited to home backup power applications. Customers can
+use their EVs for peak shaving, participation in demand response programs, and emerging export
+compensation tariffs. As California continues expanding compensation pathways for EV exports,
+enabling grid-parallel functionality today ensures customers are prepared to participate in programs
+designed to deliver measurable grid benefits.
+A key barrier to enabling these grid services is the high upfront costs facing customers, including
+the $800 Rule 21 interconnection application fee for small systems. For smaller customers, this fee
+represents a significant share of the incremental cost of activating grid-parallel bidirectional
+charging functionality. SCE’s proposed $800 incentive is a targeted and reasonable approach to
+removing this barrier, and the additional incentives for income-qualified customers support
+equitable access to advanced grid technologies.
+III. CONCLUSION.
+As EV adoption marches on, approving ORCHARD’s bidirectional incentive component would
+help unlock additional reliability value, support the state’s vehicle-grid integration objectives
+(including the imperative to “maximize feasible and cost-effective VGI” under SB 676), and yield
+benefits for ratepayers.
+For these reasons, we respectfully request that the Commission modify the Draft Resolution to
+approve SCE’s bidirectional charging incentive proposal.
+1 See, for example: California Public Utilities Commission (“CPUC”), Draft Inputs & Assumptions, 2024 – 2026
+Integrated Resource Planning (IRP) at p.111. https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-
+division/documents/integrated-resource-plan-and-long-term-procurement-plan-irp-ltpp/2024-2026-irp-cycle-events-
+and-materials/2025_draft_inputs_and_assumptions_doc_20250220.pdf; PG&E EIS Part 2 at 34; Samantha Houston,
+David Reichmuth, and Mark Specht. Harnessing the Power of Electric Vehicles: Vehicle-Grid Integration for a
+Cleaner, Cheaper, More Reliable California Electricity System. June 2025. Union of Concerned Scientists.
+https://doi.org/10.47923/2025.15888. Accessed January 13, 2026; Sonia Martin, William A. Paxton, and Ram
+Rajagopal. Residential vehicle-to-grid profits under dynamic pricing: The role of real-world charging behavior.
+March 2026. Advances in Applied Energy.
+https://www.sciencedirect.com/science/article/abs/pii/S0360544225024156?via%3Dihub ; William Goldsmith et al.,
+The Utility Playbook: Turning EV Grid Risk into a $30 Billion Opportunity. 2025. EV.Energy and Brattle.
+https://www.ev.energy/en-us/resources/value-of-managed-charging ; Sunil Chhaya, PhD, et al. Distribution System
+Constrained Vehicle-to-Grid Services for Improved Grid Stability and Reliability. CEC. March 2019.
+https://www.energy.ca.gov/sites/default/files/2021-06/CEC-500-2019-027.pdf ; Jonathan Donadee et al. Potential
+Benefits of Vehicle-to-Grid Technology in California: High Value for Capabilities Beyond One-Way Managed
+Charging. Lawrence Livermore National Laboratory. IEEE Electrification Magazine. June 2019.
+https://www.osti.gov/pages/biblio/1557041 ; Brian Tarroja and Eric Hittinger. The value of consumer acceptance of
+controlled electric vehicle charging in a decarbonizing grid: The case of California. UC Irvine. Energy (Volume
+229). https://www.sciencedirect.com/science/article/pii/S0360544221009397
+
+March 3, 2026
+Page 3 of 5
+Respectfully submitted,
+/s/ Zach Woogen /s/ Alexia Melendez Martineau
+Zach Woogen Alexia Melendez Martineau
+Executive Director Senior Policy Manager
+Vehicle-Grid Integration Council Plug In America
+/s/ David McCreadie /s/ John Holmes
+David McCreadie John Holmes
+Director, Grid Services Sr. Principal Energy Advisor
+Ford Motor Company American Honda Motor Co., Inc.
+/s/ Candace O'Melia /s/ Andy Schwartz
+Candace O'Melia Andy Schwartz
+EV Policy & Market Development Senior Managing Policy Advisor
+GM Tesla, Inc.
+/s/ Maddy Strutner /s/ Raza Uddin
+Maddy Strutner Raza Uddin
+Grid Services Manager Head of Energy Solutions Business - Americas
+Toyota Volvo Cars
+/s/ Lauren Weston /s/ Brian Turner
+Lauren Weston Brian Turner
+Executive Director Senior Director
+Acterra: Action for a Healthy Planet Advanced Energy United
+/s/ Cory Bullis /s/ Elizabeth Turnbull
+Cory Bullis Elizabeth Turnbull
+Director, Energy & Environment Policy Director of Policy and Regulatory Affairs
+Alliance for Automotive Innovation Alliance for Transportation Electrification
+/s/ Frances Bell /s/ Brendan ODonnell
+Frances Bell Brendan ODonnell
+CEO CEO
+Bidirectional Energy bodeEV, Inc.
+/s/ Alex Pfeifer-Rosenblum /s/ Maggie Field
+Alex Pfeifer-Rosenblum Maggie Field
+Regulatory Director Sr. Manager, State Policy, West
+CALSTART Ceres
+/s/ Justin Wilson /s/ Amy Findlay
+Justin Wilson Amy Findlay
+Sr. Director, Regulatory Policy and Head of Policy
+Programs ChargeScape
+ChargePoint, Inc.
+
+March 3, 2026
+Page 4 of 5
+/s/ Ben Schwartz /s/ Margarita Parra
+Ben Schwartz Margarita Parra
+Policy Director Director of Transport Decarbonization
+Clean Coalition Clean Energy Works
+/s/ Enoch Lenge /s/ Bill Reynolds
+Enoch Lenge Bill Reynolds
+Head of US, eMobility Practice Operations Lead
+Codibly, Inc. Dcbel LLC
+/s/ Santino Graziani /s/ Chris Taylor
+Santino Graziani Chris Taylor
+Engineering Manager Product Manager
+Eaton Emporia Energy
+/s/ Gabriela Olmedo /s/ Marc Monbouquette
+Gabriela Olmedo Marc Monbouquette
+Manager, Policy and Regulatory Affairs Senior Manager, Policy and Government Affairs
+EnergyHub Enphase Energy
+/s/ Kerry Skemp /s/ Anna Bella Korbatov
+Kerry Skemp Anna Bella Korbatov
+Public Affairs Lead VP, Regulatory Affairs
+ev.energy Fermata Energy
+/s/ Linda Khamoushian /s/ Bjoern Christensen
+Linda Khamoushian Bjoern Christensen
+Senior Clean Mobility Strategist NA Representative
+GRID Alternatives International Energy Agency TCP-EV, Task 53
+/s/ Collin Smith /s/ Steve Griffith
+Collin Smith Steve Griffith
+Regulatory Affairs Manager Executive Director, Regulatory & Industry Affairs
+Leap NEMA
+/s/ Kurt Johnson /s/ Jacqueline Piero
+Kurt Johnson Jacqueline Piero
+Director, Community Energy Resilience US Head of Policy
+The Climate Center The Mobility House
+/s/ Tim Bolger /s/ Oliver Waterhouse
+Tim Bolger Oliver Waterhouse
+Head of Business Development Director of Strategic Partnerships & Quasar 2
+Treehouse Program Manager
+Wallbox
+
+March 3, 2026
+Page 5 of 5
+/s/ Mathias Bell /s/ Greggory Kresge
+Mathias Bell Greggory Kresge
+VP of Market Development & Partnerships Sr. Mgr. Utility Engagement and Transportation
+WeaveGrid Electrification
+World Resources Institute

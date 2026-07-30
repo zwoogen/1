@@ -1,0 +1,103 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+11/24/25
+Application of Southern California
+04:59 PM
+Edison Company (U 338-E) to Application 24-03-019
+A2403019
+Establish Marginal Costs, Allocate (Filed March 29, 2024)
+Revenues, and Design Rates.
+REPLY BRIEF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: November 24, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Southern California
+Edison Company (U 338-E) to Application 24-03-019
+Establish Marginal Costs, Allocate (Filed March 29, 2024)
+Revenues, and Design Rates.
+REPLY BRIEF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+Pursuant to Rule 13.1 of the Rules of Practice and Procedure of the California Public
+Utilities Commission (“Commission”) and the E-Mail Ruling Setting Briefing Schedule and
+Granting Motion for Party Status issued on October 3, 2025, the Vehicle-Grid Integration Council
+(“VGIC”) hereby submits this Reply Brief on the Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Costs, Allocate Revenues, and Design Rates.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to submit this reply brief to address comments made by
+the Public Advocates Office at the California Public Utilities Commission (“Cal Advocates”) on
+the Vehicle-to-Grid Resource Proposal (“VGRP”). VGRP is addressed in the Vehicle to Grid Rate
+Proposal Settlement Agreement (“Settlement Agreement”), which was agreed to by Southern
+California Edison Company (“SCE”), CALSTART, Inc., Small Business Utility Advocates
+(“SBUA”), Solar Energy Industries Association (“SEIA”), and VGIC (jointly as the “Joint Settling
+Parties”). VGIC supports the VGRP Settlement agreement and recommends that the Commission
+approve the settlement as consistent with the law, reasonable in light of the whole record, and in
+the public interest.
+1
+
+II. VGRP SHOULD BE ADOPTED AND CAL ADVOCATES COMMENTS ON THE
+AVOIDED COST CALCULATOR SHOULD BE DISMISSED.
+In Opening Briefs, Cal Advocates submitted comments on VGRP largely re-iterating
+previous comments they submitted on the original VGRP Settlement Agreement on October 6,
+2025.1 In both the comments on the settlement agreement and in Opening Briefs, Cal Advocates
+is mainly opposed to the use of the Avoided Cost Calculator (ACC) to set the export rate.
+In reply to Cal Advocates’ October 6 comments on the settlement agreement, the Joint
+Settling Parties clearly outlined why it is reasonable for VGRP to use the ACC to set export
+compensation rates:2
+• Use of the ACC in VGRP is consistent with Commission precedent regarding export
+compensation: The Commission has adopted the ACC to set export compensation in the
+Net Billing Tariff (NBT) and has stated that “the calculator has consistently reflected the
+value of exported energy from year to year.”3
+• VGRP uses the Commission adopted framework for export compensation in the Net
+Billing Tariff (NBT): The Settlement Agreement adopts export compensation for VGRP
+that averages the ACC values in the same way as NBT. This methodology will create
+consistency for customers and further uses prior Commission determinations to develop a
+reasonable export compensation rate for EV exports.
+1 See Comments of the Public Advocates Office to Vehicle To Grid Rate Proposal Settlement Agreement,
+filed on October 6, 2025.
+2 See Joint Reply Comments of Southern California Edison Company (U 338-E), CALSTART, Inc., Small
+Business Utility Advocates, Solar Energy Industries Association and Vehicle-Grid Integration Council in
+Support of Vehicle To Grid Rate Proposal Settlement Agreement filed on October 27, 2025.
+3 D.22-12-056, Finding of Fact 100.
+2
+
+• The Settlement Agreement is consistent with Commission policy: The Commission has
+worked to support vehicle-grid integration (VGI) consistent with Senate Bill 6764 and
+California’s broad climate and affordability goals.
+Importantly, VGRP will allow California to use better use EVs as a grid resource, and, as stated
+by SCE, EVs “if tapped effectively, could help address the burgeoning challenges facing the grid
+as it integrates increasing volumes of renewable energy sources.”5 However, in order to tap into
+EVs and unlock their full capabilities, the Commission must set rates and programs that drive
+customers to provide grid services. VGIC believes that VGRP does so. Specifically, “VGRP can
+underpin a degree of certainty for bidirectional charging supply chain development, distribution
+channels, customer engagement, and overall ecosystem that has never been achieved through the
+few one-off pilot projects that have been authorized to date.”6 These substantial benefits should be
+considered by the Commission when evaluating the settlement agreement.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide this reply brief. Given the record of this
+proceeding, the Commission should adopt the VGRP Settlement Agreement.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: November 24, 2025
+4 Ex. VGIC-01 at p.5. Senate Bill 676 (Bradford, 2019) requires the Commission to “establish strategies
+and quantifiable metrics to maximize the use of feasible and cost-effective electric vehicle grid integration.”
+5 Ex. SCE-04, p. 122; Ex. SCE-04A, p. 121. Also cited in the Joint Reply Comments of the Settling Parties
+in Support of Vehicle To Grid Rate Proposal Settlement Agreement at p.2.
+6 Ex. VGIC-01 at p.14.
+3

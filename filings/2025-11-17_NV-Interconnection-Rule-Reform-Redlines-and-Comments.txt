@@ -1,0 +1,2014 @@
+RULE NO. 15 Commented [ZW1]: VGIC appreciates NV Energy
+adding V2G into Rule 15, given the growing availability
+GENERATING FACILITY INTERCONNECTIONS of solutions from Ford, GM, Nissan, Kia, Tesla, Blue
+Bird, Thomas Built, IC Bus, RIDE, Wallbox, dcbel,
+A. APPLICABILITY InCharge, Heliox, Tellus Power Green, and many
+others expected to become available to customers in
+1. This Rule describes the Interconnection, operating and Metering requirements for Generating the next 12-18 months.
+Facilities intended to be connected to the Utility’s electric Distribution System over which the
+Commission has jurisdiction.
+2. This Rule applies only to Generating Facilities with a Maximum Generating Capacity of 20 MW
+or less unless otherwise required in federal or state law. Generating Facilities with a Maximum
+Generating Capacity of greater than 20 MW are not subject to this Rule and shall be addressed
+through the Utility’s Large Generator Interconnection Agreement or other appropriate process.
+3. Generating Facilities seeking to Interconnect to the Utility’s Distribution System and sell a
+portion of or all their electrical output to the Utility or a third party are not subject to this Rule and
+shall be addressed through the Utility’s Small Generator Interconnection Agreement, Large
+Generator Interconnection Agreement, Qualified Facility, or other appropriate process, as
+applicable. Commented [ZW2]: Clarification question: does this
+statement imply that this interconnection rule (Rule 15)
+4. The requirements of this Rule apply to Generating Facilities Interconnected with the Utility’s
+only applies to generators that operate in a non-export
+Distribution System that will operate in Parallel Operation except as identified in Sections A.2 mode, and that for generators that operate in an export
+and A.3. Attachment 1 provides guidance in determining the applicability of this Rule for mode, there are separate processes/rules?
+anticipated common situations (but does not and cannot contain all possible situations).
+Relatedly, if NV Energy were to establish a pilot,
+a. EVSE paired with a Generator is subject to this Rule for the Generator only. Charge-only EVs program, or rate to compensate EV/EVSE for exports
+connected to chargers or charging stations are not subject to this Rule. to the grid, would those systems be subject to a
+different interconnection rule?
+b. V2G EVs and EVSE are subject to this Rule only when configured to discharge to the Utility’s
+Distribution System while in Parallel Operation, including conversions of charge-only
+equipment to V2G.
+5. Producers seeking to connect Generating Facilities to the Utility’s Distribution System that will
+operate in Parallel Operation or Momentary parallel Operation (where a continuous electrical
+path will be established between the Generating Unit(s) and the Utility’s Distribution System at
+any time, and where the Generating Facility is capable of producing or discharging electricity
+while connected to or following disconnection form from the Utility’s Distribution System), shall Commented [ZW3]: Typo
+file an Application under the requirements of Section E of this Rule to enable the Utility to
+determine if the connection and proposed operation will result in Parallel Operation, Momentary
+Parallel Operation, or Neither, and therefore the requirements of this Rule apply or not.
+6. The Interconnection of a Net Metering System is subject to this Rule, except as otherwise
+specified herein, and may require a different Application or Interconnection and Operating
+Agreement than those applicable to non-Net Metering System Interconnections.
+7. Generating Facilities interconnected prior to the effective date of this Rule shall be governed by
+the requirements of this Rule in effect at the time the Generating Facilities were installed and
+their existing Interconnection and Operating Agreements, unless otherwise modified by mutual
+agreement of the Producer and Utility.
+8. Capitalized terms used in this Rule, and not defined in the Utility’s other tariffs, shall have the
+meaning ascribed to such terms in Section B of this Rule. The definitions set forth in this Rule
+shall apply only to this Rule and related tariff riders for Standby Service and may not apply to
+the Utility’s other Rules.
+9. Generating Facilities that are intended solely for isolated operation (e.g., standby generators
+using Break-before-Make transfer equipment) or Momentary Parallel Operation, both in terms of
+their load and generation characteristics (e.g., Energy Storage Devices), and never operating in
+Parallel Operation with the Utility’s Distribution System, shall not be subject to this Rule. The
+connection of such Generating Facilities to the Utility’s Distribution System shall be addressed
+under the Utility’s Rule 19.
+
+10. Subject to Sections A.4 and A.5, the determination of whether the proposed connection of a
+Generating Facility to the Utility’s Distribution System is subject to the requirements of this Rule
+or Rule 19 shall be at the discretion of the Utility.
+11. Modification of the Utility’s Distribution System as a result of a Producer’s Application for
+Interconnection under this Rule, including both Interconnection Facilities and Distribution
+System improvements which may solely result from either the load or generation characteristics
+of a Generating Facility, or the Generating Facility’s auxiliary load, shall be as set forth in Rule 9
+and a separate Rule 3 application shall not be required as a result of a Producer’s Application
+for Interconnection under this Rule in this instance.
+12. Subject to the provisions of this Rule, the Utility shall allow the Interconnection of Generating
+Facilities with its electric Distribution System.
+B. DEFINITIONS AND ACRONYMS
+The definitions set forth in this Section B are applicable only to this Rule, its corresponding agreements
+and rate schedules that apply to Standby Service.
+AC: Alternating Current.
+Active Anti-Islanding Scheme: A control scheme installed with the Generating Facility that senses
+and prevents the formation of an Unintentional Island.
+Active Affordability Covenant: A covenant, condition, or restriction contained in a deed, contract, or
+other legal instrument which establishes a period of affordability and limits rent and utility charges for
+low-income households.
+Advanced Inverter (a.k.a., Smart Inverter): A Generating Facility’s inverter capable of performing
+functions that when activated can autonomously contribute to grid support during excursions from
+normal operating voltage and frequency system conditions by providing dynamic reactive/real power
+support, voltage and frequency ride-though, ramp rate controls, communication systems with ability to
+accept external commands and other functions. Such inverters can either be Grid Following or Grid
+Forming but must be grid interactive.
+ANSI: American National Standards Institute.
+Applicant: The entity applying for Interconnection under the provisions of this Rule. The Applicant may
+or may not be the Producer or Customer.
+Application: Documentation submitted to the Utility by the potential Applicant that contains sufficient
+information necessary to begin the Interconnection process. This also includes instances where a
+modification(s) to an existing Interconnection’s equipment or operation take place necessitating the
+Utility to examine the potential effect(s) of the modification(s).
+AHJ: Authority Having Jurisdiction
+Break-before-Make: A type of electrical transfer method where the connection to one power source is
+completely disconnected before a new connection to another source is established.
+Certification; Certified; Certificate: The documented results of a successful Certification Testing.
+Certification Test(ing)(s): A test(ing) adopted by the Utility that verifies conformance of certain
+equipment with Commission-approved performance standards in order to be classified as Certified
+Equipment. Certification Tests are normally performed by a Nationally Recognized Testing Laboratory
+such as the Underwriter’s Laboratory. Attachment 2 to this Rule outlines such Certification Testing.
+Certified Equipment: Equipment used in a Generating Facility that has passed the Certification Test.
+Commission: The Public Utilities Commission of Nevada
+Commissioning Test(ing)(s): A test performed during the commissioning of all or part of a Generating
+Facility system to achieve one or more of the following: verify specific aspects of its performance;
+calibrate its instrumentation; and establish instrument or Protective Function set-points.
+Customer(s): is defined in Rule 1.
+
+Customer Microgrid: A Microgrid that uses only non-Utility infrastructure on the customer side of the
+Point of Common Coupling, including distribution lines, Generating Facilities, and related equipment, to
+meet its interconnected loads.
+DC: Direct Current.
+Dedicated Transformer; Dedicated Distribution Transformer: A transformer that provides electric
+service to a single Customer. The Customer may or may not have a Generating Facility.
+Detailed Review: Part of the technical review process as determined by Section F.6 of this Rule. The
+Detailed Review includes the Utility’s performance of an Interconnection Study that establishes the
+requirements for Interconnection of a Generator or Generating Facility and may be performed as a result
+of unremedied failure of any of the technical review Screens or by request of the Applicant.
+Distributed Energy Resource(s)(DER)(s): Distributed generation systems, energy efficiency, energy
+storage (including Energy Storage Devices), Electric Vehicles and demand-response technologies, which
+may be located on the Utility side or the Customer side of the Meter of a Utility Customer. This definition
+conforms to the definition of distributed resources in NAC 704.90583 and shall be interpreted as meant
+to conform to future versions of that regulation unless otherwise stated in this Rule.
+Distribution System: The Utility’s electrical system consisting of all electrical wires, equipment, and
+other facilities owned or provided by the Utility by which the Utility provides distribution service, including
+High Voltage Distribution service as defined in Rule 9, to its Customers.
+Electric Vehicle Supply Equipment (EVSE): The physical and electrical equipment and components
+and software associated with an Electric Vehicle charger or charging station that facilitates the charging
+or discharging of Electric Vehicles.
+Emergency: An actual or imminent condition or situation, which jeopardizes the Utility’s Distribution
+System integrity.
+Energy Storage Device (ESD): A device that captures energy produced at one time, stores that
+energy for a period of time, and delivers that energy as electricity for use at a future time. For purposes
+of this Rule only and only where applicable within this Rule, an ESD can be considered a Generator.
+While an ESD may be paired with a Net Metering System, it does not qualify to be considered as a Net
+Metering System, either as a stand-alone installation or when paired with a Net Metering System. For
+purposes of this Rule only and only where applicable within this Rule, a Vehicle-to-Grid Electric Vehicle,
+including its EVSE, can be considered an ESD.
+Enter Service: The beginning of Parallel Operation of a Generator with the Utility’s energized
+Distribution System.
+EV: Electric Vehicle. An EV may be operated in a charging only (load-only) mode or in a discharging
+(Vehicle-to-Grid) mode.
+Export; Exported; Exporting: The transfer of electricity from a Generating Unit or Generating Facility
+to the Utility across the Point of Common Coupling. This may include scenarios where Limited Export or
+Inadvertent Export could occur, or in association with Limited Generation Profile operation.
+Fast Track Review: Part of the technical review process as determined by Section F.3 of this Rule.
+The Fast Track Review may result in approval of the Interconnection, the Utility performing
+Supplemental Review, or an Applicant’s options meeting if requested by the Applicant to discuss any
+failed Screens.
+FERC: Federal Energy Regulatory Commission.
+Field Testing: Testing performed in the field to determine whether equipment meets the Utility’s
+requirements for safe and reliable Interconnection.
+Generating Facility: All Generating Units that are included in a Generating Facility Interconnection and
+Operating Agreement.
+Generator or Generating Unit: A device that converts mechanical, chemical or solar energy into
+electrical energy, including all of its protective and control functions and structural appurtenances. One
+or more Generators comprise a Generating Facility.
+
+Grid Following Inverter: A type of Advanced Inverter that can synchronize its output voltage and
+frequency with the existing grid voltage and frequency.
+Grid Forming Inverter: A type of Advanced Inverter that can create and regulate grid voltage and
+frequency and can operate independently or in coordination with other sources.
+Gross Nameplate Rating: The gross generating AC capacity (kW) of a Generating Unit or the total of
+the gross generating capacities (kW) of the Generating Units comprising a Generating Facility as
+designated by the manufacturer(s) of the Generating Facility(s). For an EV, the gross nameplate rating
+shall be determined by the gross nameplate discharge power of the inverter (kW), and not the battery
+energy capacity (kWh). Commented [ZW4]: Although this is likely intuitive to
+any users of this Rule, VGIC recommends explicitly
+Host Load: Electrical power that is consumed by the Customer at the property on which the
+clarifying this to reduce confusion.
+Generating Facility is located. This includes the consumption of electrical power of the Generating
+Unit(s) comprising the Generating Facility.
+Hosting Capacity: The incremental amount of DER Maximum Generating Capacity or load that can be
+accommodated (i.e., is available) on a particular feeder section of the Utility’s electric Distribution
+System at a given time under existing and forecasted grid conditions and operations without adversely
+impacting safety, power quality, reliability, or other operational criteria. Such capacity may be in terms
+of generation hosting capacity, photovoltaic hosting capacity, or load hosting capacity.
+Hybrid Microgrid: A Microgrid that uses Utility and non-Utility infrastructure on the Microgrid’s side of
+the Microgrid Interconnection Device, including distribution lines, Generating Facilities, and related
+equipment, to meet its interconnected loads.
+IEEE: Institute of Electrical and Electronics Engineers.
+Inadvertent Export: The unplanned, uncompensated transfer of active power from a Generator or
+Generating Facility to the Utility’s Distribution System across the Point of Common Coupling, limited as
+established in this Rule.
+In-rush Current: The current drawn by the Generating Facility during startup.
+Intentional Island: The planned creation of an Island, usually following a loss of a portion of the Utility’s
+Distribution System, with the approval of the Utility.
+Interconnection and Operating Agreement (IOA): An agreement between the Utility and the Producer
+that gives each certain rights and obligations to effect, operate, modify, or end Interconnection.
+Interconnection; (Interconnected): The physical connection of a Generating Facility whereby a
+continuous electrical path is established between the Generating Unit(s) and the Utility’s Distribution
+System for more than fifteen (15) seconds at any time and during any planned operating mode of the
+Generating Unit(s) in accordance with the requirements of this Rule so that Parallel Operation with the
+Utility’s Distribution System can occur (or has occurred if Interconnection Authorization (if applicable)
+and Permission to Operate has been provided by the Utility).
+Interconnection Facilities: The electrical wires, switches and related equipment that interconnect a
+Generating Facility to the Utility’s Distribution System.
+Interconnection Study: A study to establish the requirements for Interconnection of a Generator or
+Generating Facility.
+Interconnection Study Agreement: An agreement between the Utility and the Applicant that gives
+each certain rights and obligations regarding the Utility’s performance of an Interconnection Study.
+Island; Islanded; Islanding: A condition on the Utility’s Distribution System in which one or more
+Generating Facilities deliver power to Customers using a portion of the Utility’s Distribution System that
+is electrically isolated from the remainder of the Utility’s Distribution System. A Hybrid Microgrid is a
+form of an Island.
+kVA: Kilovolt-ampere.
+kVAR: Kilovolt-ampere reactive.
+kW: Kilowatt(s).
+
+kWh: Kilowatt-hour(s).
+Limited Export(ing): The limiting of the transfer of electrical energy from a Generating Unit or
+Generating Facility to the Utility across the Point of Common Coupling by the use of any of the methods
+or operating modes noted in Section G.2. This may include scenarios where Inadvertent Export could
+occur, or in association with Limited Generation Profile operation.
+Limited Generation Profile: An energy generation schedule or control profile implemented by a
+system or equipment configuration that specifies the maximum amount of electricity a Generator may
+produce, or an ESD or Vehicle-to-Grid EV may discharge, at specific times of the day and/or different
+times of the year. A Limited Generation Profile may be executed by a Certified Power Control System
+or energy management system with autonomous operational capabilities, or other control architectures
+(e.g., relay-based schemes) deemed acceptable and approved by the Utility at its discretion to reliably
+enforce specified energy generation or discharge limits.
+Line Section: That portion of the Utility’s Distribution System connected to a Customer bounded by
+automatic sectionalizing devices or the end of the line.
+Master Microgrid Controller: An intelligent Power Control System designed to manage and automate
+the operation of a Microgrid and has the capability to monitor, control, and obtain dynamic feedback
+from all the individual components that make up a Microgrid.
+Material Modification: A change or replacement of generating equipment that is not a like-kind
+substitution in size, ratings, impedances, efficiencies, or capabilities of the equipment specified in the
+original Application or Interconnection and Operating Agreement. Table 2 in Section E.3 of this Rule
+provides guidance regarding what changes to the existing circumstances of a Generating Unit’s or
+Generating Facility’s equipment or operation constitute a Material Modification.
+Maximum Generating Capacity: The maximum electrical power output that a Generating Facility is
+capable of producing that is equal to the total Net Nameplate Rating of a Generating Facility when no
+limiting of its generating capacity is employed or is an amount less than the total Net Nameplate Rating
+when the generating capacity of a Generator or Generating Facility is limited (e.g., through the use of a
+Power Control System, power relay(s), Protective Function(s), Limited Generation Profile operation, or
+as determined by other similar device settings or adjustments), as determined by the limiting method.
+This capacity may be specified by the Applicant in the Application but shall be specified in the Net
+Metering System agreement or Interconnection and Operating Agreement and may reflect the total
+amount of generation output including ESD or Vehicle-to-Grid EV discharge, if applicable. For Non
+Exporting systems, Inadvertent Export is not included.
+Meter: is defined in Rule 1.
+Metering Equipment: All equipment, hardware, software including Meter cabinets, conduit, etc. that is
+necessary for Metering.
+Metering: The measurement of electrical power flow in kW and/or kWh, and, if necessary, kVAR, at a
+point, and its display to the Utility, as required by this Rule.
+Microgrid: A self-sufficient energy system that serves a discrete geographic footprint, is comprised of a
+group of Interconnected loads and DERs that acts as a single controllable entity with respect to the grid,
+can operate either in Parallel Operation or Islanded, and has the defining characteristics as noted in
+Section G.10 of this Rule.
+Microgrid Interconnection Device: A device that facilitates electrical separation of a Microgrid from
+the Utility’s Distribution System. This device may provide the function of a normal paralleling device to
+reconnect the Microgrid with the Utility’s Distribution System.
+Momentary Parallel Operation: The Interconnection of a Generating Facility to the Utility’s Distribution
+System for fifteen seconds (900 cycles) or less.
+MW: Megawatt(s).
+NAC: Nevada Administrative Code.
+
+Nationally Recognized Testing Laboratory (NRTL): A laboratory accredited to perform the Certification
+Testing requirements under this Rule.
+NEC: The National Electric Code.
+Net Energy Metering: Metering for the receipt and delivery of electricity between the Producer and the
+Utility pursuant to Nevada Revised Statutes 704.769 and the Utility’s Net Energy Metering Tariff
+Schedules, as may be amended from time to time.
+Net Generation Metering: The Metering of the net electrical energy output in kW and kWh from a
+given Generating Facility. This may also be the measurement of the difference between the total
+electrical energy produced by a Generating Unit and the electrical energy consumed by the auxiliary
+equipment necessary to operate the Generating Unit. For a Generating Unit with no Host Load,
+Metering that is located at the Point of Common Coupling. For a Generating Unit with Host Load,
+Metering that is located at the Generating Unit bus after the point of auxiliary load(s) and prior to
+serving Host Load.
+Net Metering Systems: Those systems operating in Parallel Operation with the Utility as set forth in
+NRS 704.766 to 704.775 and the Utility’s Net Energy Metering Tariff Schedules, as may be amended
+from time to time. A Net Metering System is defined in NRS 704.771. The addition of an ESD must not
+result in a violation of any limitations placed on Net Metering Systems in NRS 704.771.
+Net Nameplate Rating: The gross AC generating capacity of a Generating Unit or the total of the gross
+AC generating capacity of the Generating Units comprising a Generating Facility as designated by the
+manufacturer(s) of the Generating Unit(s) minus the consumption of electrical power of the Generating
+Unit(s). The Net Nameplate Rating shall be specified in the Net Metering System agreement or
+Interconnection and Operating Agreement.
+Network Service: More than one electrical feeder providing distribution service at a Point of Common
+Coupling.
+NFPA: National Fire Protection Association.
+Non-Export(ing): Designed to prevent or limit the transfer of electrical energy from a Generating Unit or
+Generating Facility across the Point of Common Coupling to the Utility by any of the options in Section
+G.2. of this Rule. Non-Exporting includes scenarios where Inadvertent Export could occur.
+Non-Islanding: Designed to detect and disconnect from a stable Unintentional Island with matched
+load and generation. Reliance solely on under/over voltage and frequency trip is not considered
+sufficient to qualify as Non-Islanding.
+NRS: Nevada Revised Statutes.
+Optional Pre-application Report: A Utility-provided report that certain potential Applicants have the
+option to request to acquire information about the Utility’s Distribution System conditions at their
+proposed Point of Interconnection prior to submitting a full Application for Interconnection.
+Optional Pre-application Report Request Form: The optional form that must be completed by a
+potential Applicant to request that the Utility provide a Pre-application Report containing information
+about the Utility’s Distribution System conditions at their proposed Point of Interconnection. Parallel
+Operation: The simultaneous operation of a Generating Unit or Generating Facility, including power
+delivered to or received by the Utility’s Distribution System, power delivered from the Utility’s
+Distribution System (e.g., in the case of the charging of an ESD from the Utility’s Distribution System),
+or an idle state, while Interconnected.
+Periodic Test(ing): A test performed on part or all of a Generating Facility at pre-determined time or
+operational intervals to achieve one or more of the following: 1) Verify specific aspects of its
+performance, 2) Calibrate instrumentation, 3) Verify and re-establish instrument or Protective Function
+set-points.
+Permission to Operate (PTO): The Utility’s express written permission authorizing the Generating Unit
+or Generating Facility to commence Parallel Operation. This express written permission is separate
+from and shall occur following Interconnection Authorization if such Interconnection Authorization is
+granted by the Utility.
+
+Point of Common Coupling Metering: Metering located at the Point of Common Coupling. This is the
+same Metering as Net Generation Metering for Generating Facilities with no Host Load.
+Point of Common Coupling (PCC): The transfer point for electricity between the electrical conductors
+of the Utility and the electrical conductors of the Producer.
+Point of Interconnection (POI): The electrical transfer point between a Generating Facility and the
+Utility’s existing or planned Distribution System. This may or may not be coincident with the Point of
+Common Coupling.
+Power Control System (PCS): A system that limits or controls the generation output of Generators or
+a Generating Facility, including ESDs or V2G EVs, or the load requirement of such technologies. Such
+a system may be Advanced Inverter-based or based upon other Certified technologies as approved by
+the Utility on a case-by-case basis at its discretion and may establish or manage a Limited Generation
+Profile or Limited Export profile. A Certified PCS shall conform to UL 3141 only if and when such
+standard is fully approved, and then, only after its implementation date.
+Producer: The entity that executes an Interconnection and Operating Agreement with the Utility. The
+Producer may or may not own and operate the Generating Facility but is responsible for the rights and
+obligations related to the Interconnection and Operating Agreement.
+Production Test(ing): A test performed on each device coming off the production line to verify certain
+aspects of its performance.
+Protective Function(s): The equipment, hardware and/or software in a Generating Facility (whether
+discrete or integrated with other functions) or on the Utility Distribution System whose purpose is to
+protect against Unsafe Operating Conditions.
+Prudent Electrical Practices: Those practices, methods, and equipment, as changed from time to
+time, that are commonly used in prudent electrical engineering and operations to design and operate
+electric equipment lawfully and with safety, dependability, efficiency, and economy.
+Qualified Low-Income Residential Building: As defined in Nevada Assembly Bill 458 (2025),
+referenced here only to establish eligibility for Interconnection.
+Qualifying Facility: is defined in Rule 1.
+Qualified Multifamily Affordable Housing Property (QMAHP): As defined in Nevada Assembly Bill
+458 (2025), referenced here only to establish eligibility for Interconnection.
+Reference Point of Applicability (RPA): A location proximate to the Generating Facility where the
+Interconnection and interoperability performance requirements as specified by IEEE 1547-2018 apply.
+This location shall be specified by the Applicant in the Application and determined by mutual agreement
+between the Applicant and the Utility.
+Relevant Minimum Load: The lowest Line Section or substation load either measured or reasonably
+estimated by the Utility coincident with the Generating Facility’s production. For inverter-based solar
+photovoltaic Generators with no paired ESD, the daytime minimum load shall be used (10 AM to 4 PM
+for fixed panel systems and 8 AM to 6 PM for systems utilizing tracking).
+Rule: is defined in Rule 1.
+Scheduled Operation Date: The date specified in the Generating Facility’s Interconnection and
+Operating Agreement when the Generating Facility is, by the Producer's estimate, expected to begin
+initial operation.
+Screen(s): The aspects of the technical review process that gauge a Generator’s or Generating
+Facility’s impact on the electrical Distribution System of the Utility and adherence to certain technical
+requirements and determine if a Generator or Generating Facility Application passes or fails Simplified
+Review, Fast Track Review, Supplemental Review, or if Detailed Review is required.
+Secondary Network: A network supplied by several primary feeders suitably interlaced through the
+area in order to achieve acceptable loading of the transformers under emergency conditions and to
+provide a system of extremely high service reliability. Secondary networks usually operate at 600 V or
+lower.
+
+Service(s): is defined in Rule 1.
+Simplified Review: Part of the technical review process as determined by Section F.2 of this Rule. The
+Simplified Review may result in approval of the Interconnection or an Applicant’s options meeting to
+discuss any failed Screens.
+Single Line Diagram; Single Line Drawing: A schematic drawing, showing the major electric
+switchgear, Protective Function devices, wires, Generators, transformers and other devices, providing
+sufficient detail to communicate to a qualified engineer the essential design and safety of the system
+being considered.
+Short Circuit Contribution Ratio (SCCR): The ratio of the Generating Facility’s short circuit
+contribution to the Utility’s short circuit contribution for a three-phase fault at the high voltage side of the
+distribution transformer connecting the Generating Facility to the Utility’s Distribution System.
+Short Circuit Interrupting Capability: The maximum fault current that can be safely interrupted by a
+protective device.
+Solar-Powered Affordable Housing System: As defined in AB 458 (2025). For purposes of this Rule,
+such systems are treated as Net Metering Systems.
+Special Facilities: Special Facilities are: (a) facilities requested by the Producer which are in addition
+to or in substitution for standard facilities which the Utility would normally provide for delivery of service
+at one point, through one Meter, at one voltage class under its Tariff Schedules, or (b) a pro rata
+portion of the facilities requested by an Applicant, allocated for the sole use of such Applicant, which
+would not normally be allocated for such sole use. Unless otherwise provided by the Utility’s filed Tariff
+Schedules, Special Facilities will be installed, owned and maintained or allocated by the Utility as an
+accommodation to the Producer only if acceptable for operation by the Utility and the reliability of
+service to the Utility’s other customers is not impaired.
+Stability: The return to normalcy of the Utility’s Distribution System following a disturbance.
+Stabilization is usually measured as a time period during which voltage and frequency are within
+acceptable ranges.
+Standby Service: is defined in Rule 1.
+Starting Voltage Drop: The percentage voltage drop at a specified point resulting from In-rush
+Current. It can also be expressed in volts on a particular base voltage, (e.g., 6 volts on a 120-volt base,
+yielding a 5 percent drop).
+Supplemental Review: Part of the technical review process as determined by Section F.4 of this Rule.
+The Supplemental Review may result in approval of the Interconnection or a meeting between the
+Utility and the Applicant to discuss the Applicant’s options.
+Synchronization (Synchronizing): The requirement that at the time of Interconnection of a Generator,
+in accordance with the synchronization performance requirements of IEEE 1547-2018, Clause 4.1.3
+and Table 5.
+System Integrity: The condition under which a Distribution System is deemed safe and can reliably
+perform its intended functions in accordance with the safety and reliability rules of the Utility.
+Tariff Schedule(s): is defined in Rule 1.
+TCP/IP: Transmission Control Protocol/Internet Protocol, which is a suite of communication protocols
+used to interconnect network devices on the internet.
+Telemetering: The electrical or electronic transmittal of Metering data on a real-time basis to the Utility.
+Temporary Interconnection Authorization (TIA): If required by the Utility for certain Interconnections,
+the express written permission by the Utility authorizing the Interconnection of a Generating Facility for
+the limited purposes of inspection, testing, coordination, and commissioning. TIA is not PTO, which
+authorizes Parallel Operation, and may be issued prior to the Utility’s issuance of PTO.
+Transfer Trip (Capability): A Protective Function that trips a Generating Facility remotely by means of
+an automated communications link controlled by Utility.
+
+Type Test(ing): A test performed on a sample of a particular model of a device to verify specific
+aspects of its design, construction and performance.
+UL: Underwriters Laboratory, Inc.
+Unauthorized Interconnection: The physical connection of a Generating Facility to the Utility’s
+Distribution System, or the commencement of Parallel Operation, without first obtaining written
+Temporary Interconnection Authorization or PTO from the Utility in accordance with this Rule. An
+Unauthorized Interconnection also includes any circumstance in which a Generating Facility is
+energized and capable of Exporting power to the Utility’s Distribution System prior to the Utility’s
+express written authorization.
+Unintentional Island: The unplanned creation of an Island, usually following a loss of a portion of the
+Utility’s Distribution System, without the approval of the Utility.
+Unsafe Operating Conditions: Conditions that, if left uncorrected, could result in harm to personnel,
+damage to equipment, loss of System Integrity or operation outside pre-established parameters
+required by the Interconnection and Operating Agreement.
+Visible-Break Isolation Device: An electrical switching device that can separate the Generating
+Facility from Utility’s Distribution System and is designed to allow visible verification that separation has
+been accomplished. This requirement can be met by opening the enclosure to observe the contact
+separation.
+Vehicle-to-Grid (V2G): The bidirectional transfer of electricity between an EV and the Utility’s
+Distribution System when enabled through Certified bidirectional EVSE and operating in Parallel
+Operation. V2G operation may include charging from the Utility’s Distribution System, discharging to
+serve all or a portion of onsite Host Load, and/or Export to the Utility’s Distribution System. For
+purposes of this Rule, a V2G EV is considered an ESD.
+C. APPLICABLE CODES AND STANDARDS
+As applicable, Interconnections shall conform to the most recent approved versions of the codes and
+standards listed below (which may be a more recent year than indicated below) on the date the
+Application is accepted as complete and correct by the Utility, or successor standards:
+ANSI C84.1-2020: Electric Power Systems and Equipment - Voltage Ratings (60 Hertz).
+IEEE C2-2023: 2023 National Electric Safety Code® (NESC®).
+IEEE C62.92.6™-2017: IEEE Guide for Application of Neutral Grounding in Electrical Utility Systems,
+Part VI - Systems Supplied by Current Regulated Sources.
+IEEE Std 1453™-2022: IEEE Standard for Measurement and Limits of Voltage Fluctuations and
+Associated Light Flicker on AC Power Systems.
+IEEE Std 1547™-2018: IEEE Standard for Interconnection and Interoperability of Distributed Energy
+Resources with Associated Electric Power Systems Interfaces, as amended by IEEE 1547a™-2020,
+including use of IEEE 1547.1™-2020 testing protocols to establish conformity.
+IEEE Std 1547.1™-2020: IEEE Standard Conformance Test Procedures for Equipment Interconnecting
+Distributed Energy Resources with Electric Power Systems and Associated Interfaces.
+IEEE Std 1547.2™-2008: IEEE Application Guide for IEEE Std 1547™, IEEE Standard for
+Interconnecting Distributed Resources with Electric Power Systems.
+IEEE Std 1547.3™-2023: IEEE Guide for Cybersecurity of Distributed Energy Resources
+Interconnected with Electric Power Systems.
+IEEE Std. 1547.4™-2011: IEEE Guide for Design, Operation, and Integration of Distributed Resource
+Island Systems with Electric Power Systems.
+IEEE Std 1547.6™-2011: IEEE recommended practice for interconnecting distributed resources with
+electric power systems distribution secondary networks.
+
+IEEE Std 1547.7™-2013: IEEE Guide for Conducting Distribution Impact Studies for Distributed
+Resource Interconnection.
+IEEE Std 1815TM-2012: IEEE Standard for Electric Power Systems Communications—Distributed
+Network Protocol (DNP3).
+IEEE Std 2030.5TM-2023: IEEE Standard for Smart Energy Profile 2.0 Application Protocol (SEP 2.0).
+IEEE Std 2030.2TM-2015: IEEE Guide for the Interoperability of Energy Storage Systems Integrated
+with the Electric Power Infrastructure.
+NFPA 70®: National Electric Code® 2017 Edition (as modified by any local code amendments).
+SAE J2847/3: Communication for Plug-in Vehicles as a Distributed Energy Source Commented [ZW5]: VGIC recommends this be
+removed, as communication protocols between EV and
+SAE J3072: Interconnection Requirements for Onboard, Grid Support Inverter Systems.
+EVSE are typically out of scope for utility
+UL 1741/UL 1741 SA/UL 1741 SB: STANDARD FOR SAFETY Inverters, Converters, Controllers and interconnection rules. Both AC pathways (UL 1741 SC
+and UL 1741 CRD) ensure compliance with IEEE
+Interconnection System Equipment for Use with Distributed Energy Resources.
+1547-2018, and IEEE 1547-2018 requires speaking
+UL 1741 SC: BEVSE/ISE for EV AC V2G applications either IEEE 2030.5, DNP3, or SunSpec Modbus. With
+this in mind, it is not necessary to define additional
+UL 1741 CRD: Support UL 9741 Path for Matched Pairing of BEVSE and EV communications requirements. Doing so may impose
+unnecessary burden on equipment providers.
+UL 3141: Outline of Investigation for Power Control Systems (only following this standard’s full approval
+Commented [ZW6]: Anticipated February 2026
+and implementation date).
+publication. Per UL: “Clearly defines requirements and
+UL 9741: STANDARD FOR SAFETY Electric Vehicle Power Export Equipment (EVPE) compliance criteria; interacts/communicates with EV
+via SAE J3072; monitor EV V2G AC export grid
+For Consideration: interactions in accordance with local interconnection
+requirements; cease EV grid export for safety and grid
+UL 9540: ESD system safety and fire code compliance performance (prevent hazardous overvoltage
+conditions for local equipment, noncompliance with
+IEEE 2030.7 / 2030.8: ESD functional specs for advanced control and DERMS integration. local grid requirements); refer to and make use of
+existing standards (UL 1741 and UL 1741 SB, UL
+2231-1 and UL 2231-2, and UL 2594).” VGIC has sent
+D. RIGHTS AND OBLIGATIONS Yvette Sanders a recent UL presentation detailing this
+pathway.
+1. A Producer shall execute an Interconnection and Operating Agreement with the Utility governing
+Formatted: Font: Not Bold
+the Interconnection and operation of Generating Facilities.
+Formatted: Font: Not Bold
+a. Pro forma agreements establishing the terms and conditions for Interconnections and
+operation with the Utility’s facilities for each applicable class shall be provided to the Commented [ZW7]: Per UL: “Published UL 1741
+Standard requires compliance with IEEE 1547-2018
+Producer by the Utility. Such agreements may be modified by mutual agreement as
+and IEEE 1547.1-2020 to evaluate a single-piece and
+necessary to address specific Interconnection requirements existent at the time of the multipiece DER units and DER systems. Smome of the
+execution of the agreement. corresponding IEEE 1547 and IEEE 1547.1
+terminology and requirements for multipiece DER
+b. Producers having agreements executed prior to the effective date of this Rule that variations were not included in the previously published
+govern Interconnection and Parallel Operation with the Utility’s facilities shall be UL 1741 text, so the CRD is intended to clarify those
+governed by the provisions of those existing agreements. requirements: (a) grid support DER unit, (b) grid
+support DER system, (c) grid support composite DER,
+c. The agreement shall include any necessary requirements for communications and and (d) partially compliance grid support DER.
+communications facilities between the Utility and the Producer.
+Using both the upcoming UL 1741 CRD and UL
+2. A Producer requiring other Services not addressed in this Rule may acquire such Services in 9741, the BEVSE and EV pair is evaluated and
+accordance with the Utility’s Tariff Schedules governing the provision of such Services. Specific certified as a fully compliant DER system to comply
+with existing IEEE 1547-2018 and IEEE 1547.1-2020
+examples of other such Services include but are not limited to: Supplemental Service for
+requirements and definitions.”
+Customer load in excess of what is normally produced by the generating equipment, Backup
+Service for unscheduled outages of Generating Facilities, and Maintenance Backup Service for VGIC has sent Yvette Sanders a recent UL
+scheduled maintenance outages of Generating Facilities. Such Services are outside of the presentation detailing this pathway.
+scope of this Rule. Formatted: Font: Not Bold
+3. Interconnection described hereunder shall not provide a Producer with any rights to use the
+Utility’s system for the transmission, distribution, or wheeling of electric power, nor does
+Interconnection described hereunder limit those rights. Such rights to the use of the Utility’s
+system must be addressed in separate agreements.
+
+4. Interconnection described hereunder does not require the Utility to purchase the output of a
+Generating Facility. Such purchase arrangements must be addressed in separate agreements.
+5. A Producer shall ascertain and comply with all applicable Commission-approved tariffs of the
+Utility, applicable FERC-approved rules, tariffs, and regulations, and any local, state or federal
+law, statute or regulation that applies to the design, siting, construction, installation, operation,
+or any other aspect of the Generating Facilities and Interconnection Facilities.
+6. The Utility shall have the right to review the design of a Producer's Generating Facility and
+Interconnection Facilities and to inspect a Producer's Generating and/or Interconnection
+Facilities prior to the provision of Interconnection Authorization (if applicable), PTO and the
+commencement of Parallel Operation with the Utility’s Distribution System. The Utility may
+require a Producer to make modifications as necessary to comply with the requirements of this
+Rule. The Utility’s review and provision of Interconnection Authorization (if applicable) and/or
+PTO authorizing Parallel Operation shall not be construed as confirming or endorsing the
+Producer's design or warranting the Generating and/or Interconnection Facilities' safety,
+durability or reliability. The Utility shall not, by reason of such review or lack of review, be
+responsible for the strength, adequacy, or capacity of such equipment.
+7. Producers shall not begin Parallel Operation with the Utility’s Distribution System, with the
+exception of the provisions allowable under Section E.2 and any operation solely required to
+facilitate proper testing and inspection of the Generating Facility in accordance with Section J,
+until their Interconnection Facilities have been inspected by the Utility and PTO is provided by
+the Utility to the Producer. Such approval may be withheld for noncompliance with the
+requirements of this Rule or any of the Utility’s applicable tariffs.
+8. The Utility may immediately disconnect any Generating Facility that is found to have engaged in
+an Unauthorized Interconnection. The Producer may also be subject to additional charges,
+corrective requirements, or other remedies as may be contained in the Net Metering System
+agreement, Interconnection and Operating Agreement, or as authorized by the Commission.
+9. A Producer’s Generating Facility and Interconnection Facilities shall be reasonably accessible to
+Utility personnel as necessary for the Utility to perform its duties and exercise its rights under its
+tariffs filed with and approved by the Commission, and any agreement between the Utility and
+the Producer.
+10. Any information pertaining to Generating and/or Interconnection Facilities provided to the Utility
+by a Producer shall be treated by the Utility in a confidential manner.
+11. A Producer shall operate and maintain its Generating Facility and Interconnection Facilities in
+accordance with Prudent Electrical Practices and shall maintain compliance with Commission
+adopted standards for the Producer's particular Generating Facility and Interconnection
+Facilities. Said standards shall be those in effect at the time a Producer executes the
+Interconnection and Operating Agreement with the Utility.
+12. The Utility may limit the operation and/or disconnect or require the disconnection of a
+Producer’s Generating Facility from Utility’s Distribution System at any time, with or without
+notice, in the event of an Emergency or to correct Unsafe Operating Conditions. The Utility may
+also limit the operation and/or disconnect or require the disconnection of a Producer’s
+Generating Facility from the Utility’s Distribution System upon the provision of reasonable
+notice:
+a. to allow for routine maintenance, repairs or modifications to the Utility’s Distribution
+System;
+b. for cybersecurity-related concerns;
+c. upon the Utility’s determination that a Producer’s Generating Facility is not in compliance
+with this Rule; or
+d. upon termination of the Interconnection and Operating Agreement.
+
+The Producer and the Utility shall make good faith efforts to restore the Interconnection of the
+Generating Facility in a timely manner following a temporary limiting of operation or
+disconnection.
+13. During Parallel Operation, the Producer shall comply with all operational direction of the Utility at
+the time given with such direction subject to any conditions that the Producer and the Utility may
+mutually agree to incorporate in the Interconnection and Operating Agreement. Any dispute
+regarding such direction shall be handled after the fact in accordance with the dispute resolution
+procedures in Section K, below.
+14. The operation of the Generating Facility shall not reduce the quality of service described in Rule
+2 to other Customers and shall conform with the Utility’s design standards. If the Generating
+Facility causes service interference, the Utility shall give notice and provide reasonable time for
+the Producer to take corrective action.
+15. When an Interconnection Study is required pursuant to Section F.6, the Producer shall be
+responsible for paying to the Utility all reasonable costs incurred by the Utility in performing such
+a study unless such Parallel Operation has been requested by the Utility.
+E. APPLICATION FOR INTERCONNECTION
+1. Optional Pre-application Report
+a. A potential Applicant may request an optional Pre-application Report for a specific site to
+obtain information about the Utility’s Distribution System conditions at the proposed POI
+prior to submitting an Application for Interconnection by completing and submitting to the
+Utility a Pre-application Report Request Form and a non-refundable fee of $300.
+b. The Utility shall make the Pre-application Report Request Form publicly-accessible
+either as an online form, electronic document transferable through e-mail, or other
+format convenient to potential Applicants.
+c. Upon receipt of a completed Pre-application Report Request Form and the non-
+refundable fee of $300, absent any extraordinary circumstances, the Utility shall provide
+the requested data to the potential Applicant within ten (10) business days, making
+reasonable and good faith efforts to provide all available data requested. However, the
+Utility shall be obligated to provide existing data relevant to the request only and shall
+not be obligated to provide data it does not possess at the time of the request nor to
+conduct a study or other analysis to generate such data. The Utility shall indicate on the
+form which data it cannot provide at the time of the request.
+d. None of the data provided by the Utility in an optional Pre-application Report shall in any
+way imply or guarantee that a potential Applicant’s Interconnection can be completed
+without impacts to the Distribution System or the need for Distribution System
+Improvements.
+2. Application Process
+a. Prior to receiving an Application, if requested by a potential Applicant and upon such
+request, the Utility shall provide information and documents (such as the pro forma
+Interconnection and Operating Agreement and the Application, technical requirements,
+specifications, listing of Certified Equipment, application fee information, applicable rate
+schedules and Metering requirements). Unless otherwise agreed upon and absent any
+extraordinary circumstances, the Utility shall normally send all such information to an
+Applicant within five (5) business days following the initial request from the potential
+Applicant.
+(1) For Net Metering Systems, the Utility shall send a description of the procedures
+by which a Customer may Interconnect with the Utility’s Distribution System
+under its Net Energy Metering Tariff Schedules and a copy of the standard Net
+Metering System Interconnection and Operating Agreement and Application
+form.
+
+b. All Applicants shall be required to complete and submit an Application for
+Interconnection to the Utility and supply any relevant additional information requested by
+the Utility. The submission must include the completed Application and any applicable
+fee for processing the Application and performing any applicable technical review to be
+completed by the Utility pursuant to Section F.
+(1) An Application for Interconnection of a Solar-Powered Affordable Housing
+System must include supporting documentation demonstrating that the system is
+located on a Qualified Multifamily Affordable Housing Property, including a
+declaration of Active Affordability Covenants or a verification letter from a funding
+authority.
+c. The Application processing fee shall vary based on the proposed Generating Facility that
+will be Interconnected as indicated in Table 1 below:
+TABLE 1
+Type of Interconnection Technical Processing Fee Interconnection Study Fee
+Net Metering Systems $189* None
+QMAHP $XX $XX
+All Others Actual Costs Incurred Actual Costs Incurred
+* One fee for Simplified, Fast Track, and Supplemental Reviews. Commented [ZW8]: VGIC recommends V2G systems
+be eligible for the $189 technical processing fee
+e. d. The Applicant may propose, and the Utility may negotiate, specific costs for applied to Net Metering Systems. Note the residential
+processing non-standard installations such as multi-units, multi-sites, or otherwise as V2G systems in particular are similar in nameplate
+export capability and, in some cases, use the very
+conditions warrant. The costs in Table 1 may not apply under such circumstances. The
+same inverter models used in NEM systems.
+Utility shall establish an individual representative as the single point of contact for the
+Applicant but may allocate responsibilities among its staff to best coordinate the We understand this would be addressed in NVE’s
+Interconnection of an Applicant’s Generating Facility. GRC, not in this Rule 15 revision. Because it is unlikely
+VGIC will have the resources to engage in NVE’s next
+f. The Utility shall record the date and time it first receives an Application. GRC, we respectfully request NVE consider proposing
+this modification in its next GRC.
+g. Within ten (10) business days of first receiving an Application, the Utility shall
+acknowledge its receipt, complete its first review of the Application, and inform the
+Applicant if the Application has been completed adequately and has been accepted by
+the Utility.
+(1) For Net Metering Systems, the Utility shall send a standard Net Metering System
+Interconnection and Operating Agreement to the Applicant for signature (if the
+Applicant has not already been sent such agreement) if the data provided in the
+Application is complete and complies with the technical requirements of NRS
+704.774.
+h. Applications Containing Deficiencies, Errors, or Omissions
+(1) If the Utility identifies that the initial Application is not complete and contains
+deficiencies, errors, or omissions (collectively, “defects”), the Utility shall identify
+all such defects and shall return the Application to the Applicant within the ten
+(10) business days as indicated in Section E.2.g, specifying all such defects in
+sufficient detail to enable the Applicant to correct the Application for
+resubmission.
+(a) For Net Metering Systems, such identification of defects shall additionally
+include adherence to the technical requirements of NRS 704.774.
+(2) Any Application containing defects that are not fully corrected by the Applicant
+after two subsequent Utility reviews of the Application in addition to the Utility’s
+first review may be rejected at the Utility’s discretion, provided the Utility and the
+Applicant have worked in good faith, and in a timely manner, to assist the
+Applicant in submitting a correct and complete Application.
+
+(3) An Application that, in the Utility’s reasonable judgment, is materially incomplete,
+lacking substantial required information, or submitted solely to obtain position
+without a good-faith effort to provide a correct and complete submission, shall be
+rejected. In such cases, the Applicant must submit a new Application with all
+applicable fees. The new Application will be treated as an initial submission.
+(4) Any defect(s) present in an Application that is(are) identified by the Utility in one
+of its subsequent reviews of the Application following its initial review that the
+Utility failed to identify in any of its previous reviews of the Application shall reset
+the iterative review process begun in Section E.2.h.(1).
+(5) Any additional defects in a subsequent submission of an Application identified by
+the Utility that were not present in the initial submitted Application and which
+occurred in one of the subsequent submissions of the Application shall not reset
+the iterative review process begun in Section E.2.h.(1).
+(6) If the Utility rejects an Application in accordance with and following completion of
+the iterative review process described above, the Applicant shall submit a new
+Application and remit a new Application fee if the Applicant wishes to continue
+the application process. The Utility shall review the new Application for
+completeness and correctness as if it is an initial submission of the Application in
+accordance with Section E.2.g.
+(7) An Applicant may dispute the Utility’s adherence to the above iterative review
+process and correctness in identifying defects in its initial or subsequently
+submitted Applications in accordance with Section K.
+i. The Utility shall record the date and time it accepts the Application as complete and
+correct and inform the Applicant of such date in a timely manner.
+3. Modifications to Applications or Existing Generating Facilities Commented [ZW9]: Per 10/30 stakeholder discussion,
+VGIC recommends NV Energy clarify that adding a
+a. The Applicant or the Producer shall notify the Utility of a modification to an Application or
+non-exporting bidirectional EV charging systems to an
+the equipment or operation of an existing Generating Facility in a timely manner or as existing NEM system does not constitute a material
+required by the Interconnection and Operating Agreement. modification requiring a new application. While we
+understand not every use case can be accounted for,
+b. When notifying the Utility of a modification to an Application or the equipment or we do anticipate this being a common use case, given
+operation of an existing Generating Facility, the Applicant or the Producer shall include the propensity of rooftop solar customers to be aware
+the relevant Generating Facility information (e.g., system rating, Advanced Inverter/PCS of and interested in bidirectional charging systems.
+specifications, POI, as applicable) either originally approved or within the Application,
+together with the proposed changes and the elements to be modified clearly identified.
+c. Modifications to an accepted Application before execution of the Interconnection and
+Operating Agreement or issuance of PTO, and modifications to the equipment or
+operation of an existing Generating Facility, shall be reviewed under Table 2 to
+determine whether they constitute a Material Modification and the corresponding actions
+required of the Applicant or Producer. Any modification that does not reasonably fall
+within the descriptions in Table 2 shall be addressed on a case-by-case basis. The
+Applicant or the Producer and the Utility shall make good faith efforts to determine if a
+modification constitutes a Material Modification and agree upon the resulting course of
+action in a timely manner, at the Utility’s discretion.
+d. If it is determined by the Utility, either at its discretion or through the application of Table
+2, that a new Application is required as a result of a Material Modification, the applicable
+provisions of Section E.2 and the technical review process in Section F shall apply.
+
+TABLE 2
+Proceed
+New Updated
+Modification to Applications or Existing Notification without
+Section Application IOA
+Generating Facilities Required? Utility
+required? required?
+approval?
+Like-for-like replacement of existing equipment that No No Yes No
+does not constitute Material Modification, with no
+increase in system output (vs. original IOA) and no
+change to generator operating modes.
+Modifications where system capacity or output Yes Yes No Yes
+increases at the PCC and no inverter power or
+PCS controls are used to limit the active power to
+the original IOA size, including:
+Replacement of existing equipment Yes Yes No Yes
+Inverter firmware upgrade materially affecting Yes Yes No Yes
+grid interaction
+Change(s) to inverter characteristics that affect Yes Yes No Yes
+grid interaction
+Modifications the operation of the Generator(s) Yes Yes No Yes
+Change to a different POI or PCC than stated in Yes Yes No Yes
+the current IOA
+Sole change is ownership or Producer Yes No No Yes
+e. An Applicant or a Producer may dispute the Utility’s determination of whether a
+modification constitutes a Material Modification or the actions required as a result of a
+modification in accordance with Section K, subject to and in accordance with the
+Interconnection and Operating Agreement.
+F. TECHNICAL REVIEW PROCESS
+1. Technical Review Level Determination and Process
+a. Upon the Utility’s acceptance of a satisfactorily-completed Application, including
+proposed Net Metering Systems, any additional information necessary to evaluate the
+Interconnection of a Generating Facility, and receipt by the Utility of any applicable
+processing fee, the Utility shall begin performing technical review. The business day
+response times indicated below that the Utility shall meet for review of the RPA,
+Simplified Review, Fast Track Review, and Supplemental Review begin upon the Utility’s
+receipt of all the applicable information and fees in this Section.
+b. The Utility shall determine which level of technical review is required as follows:
+(1) If the proposed Generating Facility is a Certified inverter-based resource and has
+a Net Nameplate Rating of 50 kW or less and a Maximum Generating Capacity
+of 25 30 kW or less, then the Application qualifies to begin the technical review Commented [ZW10]: Based on conversations with
+process with Simplified Review. Otherwise, the technical review process for the VGIC members, we respectfully request that this cut-off
+Application shall begin with either Fast Track Review or Supplemental Review. be increased to 30 kW to better align with anticipated
+bidirectional charging system offerings.
+(2) If the Application does not qualify for Simplified Review, based upon the
+proposed POI for the Generating Facility and its Maximum Generating Capacity,
+the Utility shall apply Table 3 below to determine whether the Application may
+begin the technical review process with Fast Track Review or Supplemental
+Review.
+
+TABLE 3
+(3) If the Maximum Generating Capacity of the proposed Generating Facility meets
+the criteria in Table 3 based upon the line voltage at the proposed POI, then the
+Application qualifies to begin the technical review process with Fast Track
+Review. Otherwise, the technical review process for the Application shall begin
+with Supplemental Review.
+c. At any time during the Application or technical review process, an Applicant may request
+the Utility to proceed to Detailed Review in lieu of performing Simplified, Fast Track, or
+Supplemental Review.
+d. The Utility shall inform the Applicant in a timely manner after its determination of the
+level at which the technical review process will begin.
+e. Confirmation of the RPA
+(1) The Applicant shall provide a proposed RPA on the Application. Unless
+otherwise approved, the default RPA shall be the PCC.
+(2) The Utility shall complete its review of the proposed RPA within five (5) business
+days, shall determine if it is appropriate, and shall inform the Applicant of such
+determination in a timely manner.
+(3) If the Utility determines the proposed RPA to be inappropriate, the Utility and the
+Applicant shall make good faith efforts to expeditiously meet and agree upon the
+RPA so as to not appreciably delay the technical review process.
+f. The Utility shall conduct its technical review based on the RPA, where applicable. The
+RPA shall be contained in the Net Metering System agreement or the Interconnection
+and Operating Agreement.
+g. The Utility shall perform its technical review process in accordance with the flowchart in
+Attachment 1.
+h. The Utility shall perform its technical review and determine the Interconnection
+requirements for each phase of a multi-phased Generator or Generating Facility
+Application at a single PCC (or RPA, if not the PCC) with consideration of previous
+phases but not future planned phases. Based on the requirements of future phases,
+amendments to existing agreements, including Interconnection and Operating
+Agreements, may be required, or existing agreements may be terminated by the Utility
+or the Producer and new agreements may be required.
+2. Simplified Review
+a. The Utility shall complete its Simplified Review, absent any extraordinary circumstances,
+within ten (10) business days if the Application qualifies for Simplified Review and shall
+notify the Applicant if the Generating Facility meets all the applicable Simplified Process
+screens in a timely manner.
+b. The Utility’s Simplified Review shall be performed in accordance with the flowchart in
+Attachment 1 and shall consist of the following Screens:
+
+(1) Screen A: Networked Secondary System
+(a) The Utility shall determine whether the proposed Generating Facility
+would Interconnect to a networked secondary system.
+(b) If the proposed Generating Facility would not Interconnect to a networked
+secondary system, then the Application passes this Screen. Otherwise, if
+it would, the Application fails this Screen.
+(2) Screen B: Certified Equipment
+(a) On the basis of the information provided in the Application or any
+additional information provided to the Utility by the Applicant or the
+Producer either at the Utility’s request or subsequent to the original
+Application, the Utility shall determine to the best of its ability if all of the
+equipment proposed for the Generating Facility is Certified Equipment per
+the requirements set forth in this Rule or if it will temporarily approve
+certain equipment that is not certified.
+(b) If all the equipment proposed for the Generating Facility is Certified
+Equipment or if the Utility has granted, at its discretion on a case-by-case
+basis, interim approval of certain equipment that is not certified, then the
+Application passes this Screen. Otherwise, if all the equipment is not
+Certified Equipment and does not have interim approval by the Utility,
+then the Application fails this Screen.
+(3) Screen C: Transformer and Conductor Rating
+(a) This Screen is not applicable to Interconnections on the primary side of a
+service transformer. Such Interconnections automatically pass this
+Screen.
+(b) If the proposed Generating Facility is to Interconnect on the secondary
+side of a service transformer, the Utility shall determine if the addition of
+the Generating Facility would cause the normal continuous rating of either
+the service transformer or secondary conductor to which the Generating
+Facility would be Interconnected to be exceeded.
+(c) For a Generating Facility proposed to Interconnect to a service
+transformer, if the addition of the proposed Generating Facility, when
+considering the total aggregate Maximum Generating Capacity of all
+existing Generating Facilities Interconnected to the service transformer or
+secondary conductor and that of the proposed Generating Facility, would
+not exceed the normal continuous ratings of both the service transformer
+and secondary conductor, then the Application passes this Screen.
+Otherwise, if it would exceed either the normal continuous ratings of the
+service transformer or secondary conductor, or both, then the Application
+fails this Screen.
+(4) Screen D: Service Imbalance
+(a) If the proposed Generating Facility is single-phase and is to Interconnect
+on a center tap neutral of a 240 volt service, the Utility shall determine
+whether the addition of the Generating Facility would cause excessive
+imbalance between the two sides of the 240 volt service.
+(b) If the addition of the proposed Generating Facility would create an
+imbalance of twenty (20) percent or less of the normal continuous
+nameplate rating of the service transformer, then the Application passes
+this Screen. Otherwise, if it would create an imbalance of more than
+twenty (20) percent of the normal continuous nameplate rating of the
+service transformer, then the Application fails this Screen.
+
+(5) Screen E: Hosting Capacity or Line Section Load
+(a) If Hosting Capacity values are available at the Generating Facility’s POI,
+the Utility shall compare those values to the Generating Facility’s
+Maximum Generating Capacity.
+i. If the Maximum Generating Capacity of the Generating Facility
+and/or the load imposed on the Utility’s Distribution System by the
+Generating Facility (e.g., for a ESD) is less than or equal to ninety
+(90) percent of the appropriate Hosting Capacity value, then the
+Application passes this Screen. Otherwise, if it is greater than
+ninety (90) percent of the appropriate Hosting Capacity value,
+then the Application fails this part of this Screen.
+ii. If the Application fails this part of this Screen, then the Utility shall
+apply the next part of this Screen (Section F.2.b.(5)(b) – Relevant
+Minimum Load). If the Application passes that part of this Screen,
+then the Application passes this Screen despite failing the Hosting
+Capacity part of this Screen.
+(b) If Hosting Capacity values are not available and cannot be reasonably
+estimated or calculated at the Generating Facility’s POI or if Section
+F.2.b.(5)(a)(i) has been failed, and where twelve (12) months of Line
+Section minimum load data (including onsite load but not station service
+load served by the proposed Generating Facility) are available or can be
+estimated or calculated from existing data or from a power flow model,
+the Utility shall 1. determine the Relevant Minimum Load and 2) compare
+that value to the total aggregate Generating Facility Maximum Generating
+Capacity on the Line Section (existing plus the proposed Generating
+Facility) that the Generating Facility will Interconnect to and to all Line
+Sections bounded by automatic sectionalizing devices upstream of the
+proposed Generating Facility. If adequate load data is not available and
+the Utility is unable to reasonably estimate or calculate the Line Section
+Relevant Minimum load, the Utility shall include the reason(s) that it is
+unable to do so in its technical review results.
+i. If the Utility’s comparison yields a one hundred (100) percent or
+less result(s), then the Application passes this Screen. Otherwise,
+if it yields a greater than a one hundred (100) percent result(s),
+then the Application fails this Screen.
+(c) If both Hosting Capacity and Relevant Minimum Load values are not
+available and cannot be reasonably estimated or calculated at the
+Generating Facility’s POI, the Utility shall compare the total aggregate
+Generating Facility Maximum Generating Capacity on the Line Section
+(existing plus the proposed Generating Facility) to fifteen (15) percent of
+the peak (maximum) load of the Line Section that the Generating Facility
+will Interconnect to. If adequate load data is not available and the Utility is
+unable to reasonably estimate or calculate the Line Section peak load,
+the Utility shall include the reason(s) that it is unable to do so in its
+technical review results.
+i. If the Utility’s comparison yields a fifteen (15) percent or less
+result, then the Application passes this Screen. Otherwise, if it
+yields a greater than fifteen (15) percent result, then the
+Application fails this Screen. However, if the Generating Facility
+has been designated as Non-Exporting, then it automatically
+passes this part of this Screen.
+c. If any of the Simplified Review Screens are failed, the Utility at its discretion may
+approve the Interconnection provided such approval shall not impact the safety and
+
+reliability of its Distribution System. Otherwise, if the Utility does not approve the
+Interconnection, the Application shall proceed to the Applicant’s options process
+pursuant to Section F.5.
+d. If all Simplified Review Screens are passed, then the proposed Generating Facility may
+be Interconnected without further technical review. The Utility shall provide the Applicant
+with a written description of the requirements for Interconnection and the Interconnection
+and Operating Agreement pursuant to Section E.2. in a timely manner if it has not
+already provided such agreement to the Applicant.
+3. Fast Track Review
+a. The Utility shall begin Fast Track Review upon its determination that this review level is
+required to determine the Interconnection requirements for the Application based upon
+its technical review level determination, unless the Applicant requests that the Utility
+perform either Supplemental or Detailed Review in lieu of performing Fast Track Review.
+If the Utility determines that additional information is required to perform Fast Track
+Review, the Applicant and the Utility shall make good faith efforts to request and provide
+such information in a timely manner.
+b. The Utility shall complete its Fast Track Review, absent any extraordinary
+circumstances, within fifteen (15) business days if the Application qualifies for Fast Track
+Review and shall notify the Applicant if the Generating Facility meets all the applicable
+Fast Track Review Screens in a timely manner.
+c. The Utility’s Fast Track Review shall be performed in accordance with the flowchart in
+Attachment 1 and shall include the Simplified Review Screens A through E in addition to
+the following Screens F through J below:
+(1) Screen F: Short Circuit Current Contribution
+(a) Inverter-based Generating Facilities with a Net Nameplate Rating of less
+than 25 30 kW automatically pass this Screen. Commented [ZW11]: See VGIC comment in Section
+F.1.b.(1)
+(b) The Utility shall determine if the addition of the Generating Facility would
+cause allowable Short Circuit Contribution Ratio limits to be exceeded by
+ensuring that both of the following criteria are met (when applicable):
+i. When measured at primary side (high side) of a Dedicated
+Distribution Transformer serving a Generating Facility, the sum of
+the Short Circuit Contribution Ratios of all Generating Facilities
+connected to the particular Distribution System feeder that serves
+the Generating Facility must be less than or equal to 0.1; and
+ii. When measured at the secondary side (low side) of a shared
+distribution service transformer, the short circuit contribution of the
+proposed Generating Facility must be less than or equal to 2.5
+percent of the interrupting rating of the Producer’s service
+equipment.
+(c) If the addition of the proposed Generating Facility, when considering the
+total aggregate Net Nameplate Ratings of all existing Generating
+Facilities Interconnected to the particular Distribution System feeder and
+the proposed Generating Facility meets both of the above criteria, then
+the Application passes this Screen. Otherwise, if it does not meet one or
+both of the above criteria, then the Application fails this Screen.
+(2) Screen G: Short Circuit Interrupting Capability
+(a) The Utility shall determine if the addition of the Generating Facility would
+cause the allowable Short Circuit Interrupting Capability of the Utility’s
+protective devices or equipment on the Distribution System feeder or the
+Producer’s protective devices or equipment to be exceeded.
+
+(b) If the addition of the proposed Generating Facility, when considered in
+aggregate with the Net Nameplate Ratings of all existing Generating
+Facilities on the Distribution System feeder, would not cause the Utility’s
+protective devices or equipment on the Distribution System feeder or the
+Producer’s protective devices or equipment to exceed 87.5 percent of
+their Short Circuit Interrupting Capability, then the Application passes this
+Screen. Otherwise, if it would cause the Utility’s protective devices or
+equipment on the Distribution System feeder or the Producer’s protective
+devices or equipment to exceed 87.5 percent of their Short Circuit
+Interrupting Capability, then the Application fails this Screen.
+(3) Screen H: Line Configuration
+(a) Single-phase inverter-based Generating Facilities automatically pass this
+Screen.
+(b) The Utility shall determine if the Interconnection of the proposed
+Generating Facility passes this Screen in accordance with the following:
+i. If the primary Distribution System line configuration is three-
+phase, three-wire, then this Screen is passed for any type of
+Interconnection to the primary Distribution System line; or
+ii. If the primary Distribution System line configuration is three-
+phase, four wire, then this Screen is passed if the Interconnection
+to the primary Distribution System line is single-phase, line-to-
+neutral; or
+iii. If the primary Distribution System line configuration is three-
+phase, three-wire (for any line that has such a section or mixed
+three-wire and four-wire), then this Screen is passed for all other
+types of Interconnections to the primary Distribution System line.
+iv. Otherwise, this Screen is failed.
+(4) Screen I: Inadvertent Export
+(a) This Screen only applies when the Net Nameplate Capacity of the
+Generating Facility minus its Maximum Generating Capacity is greater
+than 250 kW for a Generating Facility that can introduce Inadvertent
+Export. Otherwise, if that difference is 250 kW or less, this Screen is
+automatically passed.
+(b) The Utility shall determine if the change in voltage at the point on the
+Utility’s primary Distribution System nearest the POI due to Inadvertent
+Export of the Generating Facility does not exceed three (3) percent. The
+voltage change shall be estimated by applying the formula:
+(Rsource x ∆P)−(Xsource x ∆Q)
+, where:
+V2
+i. R equals the grid resistance;
+source
+ii. ∆Pequals (Net Nameplate Rating - the Maximum Generating
+Capacity) x power factor;
+iii. X equals the grid reactance;
+source
+iv. ∆Qequals (Net Nameplate Rating - the Maximum Generating
+Capacity) x 2√(1−power factor2; and
+v. V equals the primary Distribution System voltage.
+
+(c) If the result of the above formula is three (3) percent or less, then the
+Application passes this Screen. Otherwise, if it is greater than three (3)
+percent, then the Application fails this Screen.
+(5) Screen J: Starting Voltage Dip
+(a) This Screen only applies to Generating Facilities that start by motoring
+the Generator(s). Inverter-based Generators automatically pass this
+Screen.
+(b) The Utility shall determine if the starting of the Generator(s) associated
+with a proposed Generating Facility would exceed the maximum
+allowable voltage dip on its Distribution System by using either of the
+following two options at its discretion:
+i. Determining that the Generating Facility’s starting In-rush Current
+is equal to or less than the continuous ampere rating of the
+Producer’s service equipment; or
+ii. Determining the impedances of the distribution service
+transformer (if present) and the secondary conductors to the
+Producer’s service equipment and performing a voltage dip
+calculation. Alternatively, the Utility may use tables or nomographs
+to determine the voltage dip. Voltage dips caused by starting a
+Generator as a motor must be less than two and one-half (2.5)
+percent for primary Distribution System Interconnections and five
+(5) percent for secondary Distribution System Interconnections.
+(c) If, by employing either of the above two options, the Utility determines
+that the starting voltage dip of the Generator(s) associated with a
+proposed Generating Facility would not exceed the maximum allowable
+voltage dip on its Distribution System, then the Application passes this
+Screen. Otherwise, if it would, then the Application fails this Screen.
+(d) Passing this Screen still requires the Producer to ensure that its
+Generating Facility complies with the flicker requirements of Section
+G.3.f.
+d. If any of the Fast Track Review Screens are failed, the Utility at its discretion may
+approve the Interconnection provided such approval shall not impact the safety and
+reliability of its Distribution System. Otherwise, the Utility shall begin Supplemental
+Review unless the Applicant requests an Applicant’s options meeting pursuant to
+Section F.5 in lieu of the Utility performing Supplemental Review.
+e. If all Screens A through J are passed, the proposed Generating Facility may be
+Interconnected without further technical review. The Utility shall provide the Applicant
+with a written description of the requirements for Interconnection and the Interconnection
+and Operating Agreement pursuant to Section E.2 in a timely manner if it has not
+already provided such agreement to the Applicant.
+4. Supplemental Review
+a. The Utility shall begin Supplemental Review upon its determination that this review level
+is required to determine the Interconnection requirements for the Application based upon
+its technical review level determination or if the Application has failed Fast Track review,
+unless the Applicant requests that the Utility perform Detailed Review in lieu of
+performing Supplemental Review. If the Utility determines that additional information is
+required to perform Supplemental Review, the Applicant and the Utility shall make good
+faith efforts to request and provide such information in a timely manner.
+b. The Utility shall complete its Supplemental Review, absent any extraordinary
+circumstances, within twenty (20) business days if the Application qualifies for
+
+Supplemental Review and shall notify the Applicant if the Generating Facility meets all
+the applicable Supplemental Review Screens in a timely manner.
+c. The Utility’s Supplemental Review shall be performed in accordance with the flowchart in
+Attachment 1 and shall consist of Screens A through J (if not already performed as part
+of Fast Track Review) in addition to the following Screens K through M below:
+(1) Screen K: Supplemental Grounding
+(a) If Screen H was failed, then the Utility shall apply this Screen. If Screen H
+was passed, then this Screen is automatically passed.
+(b) If the Generator is rotating machine-based, then effective grounding must
+be maintained for this Screen to be passed. Otherwise, this Screen is
+failed.
+(c) If the Generator is inverter-based, then the Utility shall apply one of the
+following to evaluate if it is effectively grounded:
+i. If the line-to-neutral connected load on the Distribution System
+feeder or Line Section is greater than thirty-three (33) percent of
+the peak load on the Distribution System feeder or Line Section,
+then this Screen is passed; or
+ii. If a supplemental grounding software tool is used and it
+determines that supplemental grounding is not required to
+maintain effective grounding, then this Screen is passed; or
+iii. If a supplemental grounding software tool is used and it
+determines that supplemental grounding is required, and the
+Applicant agrees to modify its system to include supplemental
+grounding, then this Screen is passed; or
+iv. If a detailed Hosting Capacity analysis is used that incorporates
+evaluation of temporary overvoltage risk for inverters and if the
+Net Nameplate Rating of the Generator is below the available
+Hosting Capacity at the POI, then this Screen is passed.
+v. Otherwise, if none of the above four criteria are met, then the
+Application fails this Screen.
+(2) Screen L: Voltage and Power Quality
+(a) The Utility shall determine if the addition of the Generating Facility would
+cause voltage fluctuation or harmonic levels on the Line Section to be
+exceeded.
+(b) Considering the total aggregate Generating Facility Maximum Generating
+Capacity on the Line Section (existing plus the proposed Generating
+Facility):
+i. The voltage fluctuation shall be within acceptable limits as defined
+by IEEE 1547-2018; and
+ii. The harmonic levels shall meet IEEE 1547-2018 limits at the RPA.
+(c) If both of the above two criteria are met, then the Application passes this
+Screen. Otherwise, if either or both of the above two criteria are not met,
+then the Application fails this Screen.
+(3) Screen M: Safety and Reliability
+(a) The Utility shall consider that following factors to determine if the
+Generating Facility may potentially impact safety and reliability on the
+Utility’s Distribution System:
+
+i. If the Line Section has significant minimum loading levels
+dominated by a small number of customers (i.e., several large
+commercial customers);
+ii. If the loading along the Line Section is uniform or evenly
+distributed;
+iii. If the proposed Generating Facility is located in close proximity to
+the substation (i.e., less than two and one-half (2.5) electrical
+circuit miles), and if the Line Section from the substation to the
+PCC is a main backbone section of the Distribution System feeder
+rated for normal and emergency ampacity;
+iv. If the proposed Generating Facility incorporates a time delay
+function to prevent reconnection of the Generator(s) to the
+electrical Distribution System until system voltage and frequency
+are within normal limits for a prescribed time;
+v. If operational flexibility is reduced by the proposed Generating
+Facility, such that transfer of the Line Section(s) to which the
+Generating Facility is Interconnected to a neighboring distribution
+feeder/substation may trigger overloads or voltage issues; and
+vi. If the proposed Generating Facility employs equipment or systems
+Certified by a recognized standards organization or NRTL to
+address technical issues such as, but not limited to, islanding,
+reverse power flow, or voltage quality.
+(b) If all of the above six conditions are met, then the Application passes this
+Screen. Otherwise, if any of the above six conditions are not met, then
+the Application fails this Screen.
+d. If any of Screens A through M are failed, the Utility at its discretion may approve the
+Interconnection provided such approval shall not impact the safety and reliability of its
+Distribution System. Otherwise, the Application shall proceed to the Applicant’s options
+process pursuant to Section F.5.
+e. If all Screens A through M are passed, the proposed Generating Facility may be
+Interconnected without further technical review. The Utility shall provide the Applicant
+with a written description of the requirements for Interconnection and the Interconnection
+and Operating Agreement pursuant to Section E.2. in a timely manner if it has not
+already provided such agreement to the Applicant.
+5. Applicant’s Options
+a. When the Utility determines that the Application does not pass Simplified Review, Fast
+Track Review, or Supplemental Review, it shall notify the Applicant of such
+determination and inform the Applicant which Screen(s) were failed and why in a timely
+manner. In this instance, the Utility and the Applicant shall make good faith efforts to
+expeditiously schedule and hold a meeting to discuss the Applicant’s options.
+Additionally, the Applicant may request that the Utility schedule an Applicant options
+meeting at any time during the technical review process.
+b. Among any other option mutually agreed upon between the Utility and the Applicant, the
+Applicant shall have the following options:
+(1) Withdraw the Application;
+(2) Amend the Application and request the Utility to re-perform the specific failed
+technical review Screen(s); or
+(3) Request the Utility to begin the Detailed Review process.
+
+c. If the Applicant chooses to amend the Application to address the specific failed technical
+review Screen(s):
+(1) the Applicant shall submit to the Utility an amended Application demonstrating
+the redesign within ten (10) business days after the Applicant options meeting. If
+the amended Application is not received by the Utility within ten (10) business
+days, the Utility shall consider the Application withdrawn;
+(2) an amended Application shall only include changes to address the specific failed
+technical review Screen(s) and only those other changes agreed to by the Utility
+at its discretion. Any other changes to the Application shall be addressed in
+accordance with Section E.3; and
+(3) the Utility shall review the amended Application, apply the failed technical review
+Screen(s), determine if the amended Application addresses the technical review
+Screen(s) failure(s), and shall notify the Applicant of the results of this review
+within ten (10) business days of receiving the amended Application.
+d. The amended Application option to mitigate the failure of a technical review Screen(s)
+shall only be available once during the technical review process. Subsequent amending
+of the Application shall result in the Utility considering it as a new Application and
+reinitiating the technical review process from its beginning in accordance with Section
+E.3. At its discretion, the Utility may also require reinitiation of the technical review
+process of an Application if an Applicant amends information in an Application that has
+already completed the technical review process, including but not limited to, on the basis
+of changes in the size(s), the proposed POI, PCC or RPA, anticipated commercial
+operation date(s), or planned operation or operating mode(s) of the Generating Facility.
+e. If the Applicant chooses to request the Utility begin Detailed Review, the Applicant shall
+submit to the Utility such request within ten (10) business days after it is notified by the
+Utility that the Application has been determined to not pass Simplified Review, Fast
+Track Review, or Supplemental Review, or the Applicant’s options meeting if one was
+conducted. If such notification is not received by the Utility within ten (10) business days,
+the Utility shall consider the Application withdrawn.
+6. Detailed Review
+a. When the Utility’s technical review process reveals that the proposed Generating Facility
+Application does not pass all applicable technical Screens and the Applicant is either
+unable to amend the Application adequately or if the Applicant requests the Utility to
+begin Detailed Review at any time during the technical review process, the Utility shall
+conduct an Interconnection Study to determine if any significant Utility Interconnection
+Facilities or Distribution System improvements must be installed or be made to the
+Utility’s Distribution System to accommodate the Interconnection of an Applicant’s
+Generating Facility.
+b. The Utility and the Applicant shall enter into an Interconnection Study Agreement that
+provides for the Utility to perform an Interconnection Study, facility design and
+engineering, and to provide detailed cost estimates for actual cost billing to the Applicant
+at the Applicant’s expense. The Interconnection Study Agreement shall set forth the
+Utility’s schedule for completing such work and the estimated or fixed price costs of such
+studies and engineering.
+c. Upon completion of an Interconnection Study, the Utility shall provide the Applicant with
+the specific requirements, details of violations of any design, planning, or operating
+criteria or standards including estimated magnitude, duration, and/or frequency, as
+applicable, estimated costs, and schedule for Interconnecting the Generating Facility to
+accommodate execution of agreements pursuant to Section E.2. in a timely manner.
+d. Upon receipt of any required Interconnection Facilities or Distribution System
+improvements from the Utility as a result of the Interconnection Study, within ten (10)
+business days the Producer shall:
+
+(1) determine if the Generating Facility’s operating characteristics can be modified
+such that any required Interconnection Facilities or Distribution System
+improvements could be reduced or not required (e.g., through the use of a PCS
+or Limited Generation Profile operation); and
+(2) inform the Utility of such capability and request the Utility to determine the need
+for and scope of any Interconnection Facilities or Distribution System
+improvements based upon the operating characteristics that the Producer
+indicates can be modified; or
+(3) inform the Utility that no such modifications to the Generating Facility’s operating
+characteristics can be made that would reduce or preclude the need for the
+required Interconnection Facilities or Distribution System improvements.
+e. Upon receipt of a request from the Applicant, the Utility shall then determine and inform
+the Producer of what modifications, if any, may be made to the required Distribution
+System improvements based upon the Producer’s modified operating characteristics, or
+shall inform the Producer of the time frame to make such a determination, within ten (10)
+business days of receipt of such modified operating characteristics. Modifications to an
+initial Application that do not require submission of a new Application shall not incur an
+additional study fee.
+G. DESIGN, TECHNICAL AND OPERATING REQUIREMENTS
+1. General Interconnection Requirements
+a. Where there is a conflict between the technical requirements of IEEE 1547-2018 and
+this Rule, the technical requirements of IEEE 1547-2018 apply.
+b. Enter Service requirements shall conform to IEEE 1547-2018 Table 4 with the intentional
+adjustable minimum delay, the Enter Service period (ramp duration), and the
+randomized time delay maximum interval each set to 300 seconds as a default. For
+Generators with a Net Nameplate Rating of less than 500 kVA, individual Generators
+may use the randomized time delay as an alternative to the Enter Service period (ramp
+duration).
+c. The protective functions and requirements of this Rule are designed to protect the
+Utility’s electrical Distribution System and not the Generating Facility. A Producer shall
+be solely responsible for providing adequate protection for its Generating Facility and
+Interconnection Facilities. The Producer’s protective devices shall not impact the
+operation of other protective devices used on the Utility’s Distribution System in a
+manner that would affect the Utility’s capability to provide reliable service to its
+Customers.
+d. Prior to Parallel Operation or Momentary Parallel Operation of the Generating Facility,
+the Utility shall approve the Producer's Protective Function and control diagrams.
+Generating Facilities equipped with a Protective Function and control scheme previously
+approved by the Utility for system-wide application or only Certified Equipment may
+satisfy this requirement by reference to previously approved drawings and diagrams.
+e. In the event that this Section of the Rule does not address the Interconnection
+requirements for a particular Generating Facility, the Utility shall specify the technical
+requirements to Interconnect the Generating Facility.
+2. Non-Exporting and Limited Export Generating Facilities
+a. Inadvertent Export from a Generating Facility shall comply with the limits identified in this
+Section for a Generating Facility to be designated as Non-Exporting or Limited Export.
+b. The Generating Facility is connected on the load-side of the Customer’s main breaker.
+
+c. A Generating Facility shall incorporate one of the following options to be designated as
+Non-Exporting:
+(1) Option 1 (“Reverse Power Protection”): To ensure power is never Exported, a
+reverse power Protective Function shall be implemented at the PCC. The default
+setting for this Protective Function, when used, shall be 0.1 percent (Export) of
+the service transformer’s rating, with a maximum two (2.0) second time delay.
+(2) Option 2 (“Minimum Power Protection”): To ensure at least a minimum amount of
+power is imported at all times (and, therefore, that power is not Exported), an
+under-power Protective Function shall be implemented at the PCC. The default
+setting for this Protective Function, when used, shall be five (5) percent (import)
+of the Generating Facility’s total Gross Nameplate Rating, with a maximum two
+(2.0) second time delay.
+(3) Option 3 (“Certified Non-Islanding Protection”): To ensure that Inadvertent Export
+is limited to acceptable levels, this option, when used, requires that all the
+following conditions be met:
+(a) The total Gross Nameplate Rating of the Generating Facility shall be no
+more than 25 percent of the nominal ampere rating of the Producer’s
+service equipment;
+(b) The total Gross Nameplate Rating of the Generating Facility shall be no
+more than 50 percent of the Producer’s service transformer capacity
+rating (this capacity requirement does not apply to Customers taking
+primary service without an intervening transformer); and
+(c) The Generating Facility shall be certified as Non-Islanding.
+(4) Option 4 (“Relative Unit Size”): This option, when used, requires the Net
+Nameplate Rating of the Generating Facility to be so small in comparison to its
+host facility’s minimum Host Load, that the use of additional Protective Functions
+is not required to ensure that power will not be Exported to the Utility’s
+Distribution System. The Generating Facility’s Net Nameplate Rating shall be no
+greater than 50 percent of the Producer’s verifiable minimum Host Load over the
+past 12 months.
+d. A Generating Facility shall incorporate one of the following options to be designated as
+Limited Export:
+(1) Option 5 (“Directional Power Protection”): This option, when used, requires the
+use of a power Protective Function at the PCC. The default setting for this
+Protective Function shall be the Maximum Generating Capacity value with a
+maximum two (2.0) second time delay.
+(2) Option 6 (“Configured Power Rating”): A reduced output rating utilizing the power
+rating configuration setting of a Generator (if available) may be used to ensure
+that the Generator or Generating Facility does not generate electric power
+beyond a certain value that may be lower than the Gross Nameplate Rating or
+Net Nameplate Rating. The configuration setting corresponds to the active or
+apparent power ratings in Table 28 of IEEE Std 1547-2018, as described in
+subclause 10.4. A local DER communication interface is not required to utilize
+the configuration setting if it can be set by other Certified means. The reduced
+power rating may be indicated by means of a Gross Nameplate Rating or Net
+Nameplate Rating replacement, or a supplemental adhesive de-rating tag to
+indicate the reduced power rating. This option, when used, shall be Certified to
+IEEE 1547.1-2020. Use of a configured power rating not applied to individual
+Generator(s) shall require evaluation by mutual agreement between the Utility
+and the Producer.
+
+e. A Generating Facility may be designated as either Non-Exporting or Limited Export if it is
+designed with a Certified PCS, and if inverter-based, Certified Advanced Inverter(s), to
+enforce levels of Limited Export and Inadvertent Export by mutual agreement between
+the Utility and the Producer (this is Option 7). This option, when used, shall have a
+maximum open loop response time of no more than 30 seconds to ensure that
+Inadvertent Export is limited to acceptable levels.
+f. A Generating Facility may be designated as either Non-Exporting or Limited Export if it is
+designed with other control systems and/or Protective Functions to limit Export and
+Inadvertent Export by mutual agreement between the Utility and the Producer (this is
+Option 8). The limits may be based on technical limitations of the Interconnection
+Customer's equipment or the Utility’s Distribution System equipment. To ensure that
+Limited Export and Inadvertent Export levels remain within mutually agreed-upon limits,
+the Interconnection Customer may use an uncertified PCS, an internal transfer relay,
+energy management system, or other Customer facility hardware or software if approved
+by the Utility on a case-by-case basis at its discretion.
+3. Protective Functions and Safety Equipment Requirements
+a. The Protective Functions for Generating Facilities operating in Parallel Operation with
+the Utility’s Distribution System shall consist of an effective means of quickly detecting
+and protecting against the formation of an Unintentional Island on the Utility’s
+Distribution System. Such Protective Functions shall trip and disconnect the Generating
+Facilities from the Utility’s Distribution System and shall be able to sense and prevent
+reconnection when the Utility’s Distribution System is de-energized. Protective Functions
+shall be subject to Utility approval and may include, but are not limited to:
+(1) Definite-time and/or inverse-time under-/over-voltage element(s);
+(2) Definite-time under-/over-frequency element(s);
+(3) Rate-of-change of frequency element(s);
+(4) Directional power and/or over-/under-power element(s);
+(5) Transfer Trip Capability (meaning to receive a direct transfer trip from the Utility’s
+electrical system protective devices); and
+(6) Disconnecting Means Status (meaning to communicate the Generating Facility’s
+Disconnecting Means status to the Utility’s electrical system protective devices
+using “b-form” contacts).
+b. Circuit breakers or other interrupting devices located at the PCC must be Certified or
+"Listed" (as defined in Article 100, the Definitions Section of the National Electrical Code)
+as suitable for their intended application. This includes being capable of interrupting the
+maximum available fault current expected at their location. The Producer’s Generating
+Facility and Interconnection Facilities shall be designed so that the failure of any one
+device shall not potentially compromise the safety and reliability of Utility’s Distribution
+System.
+c. The Producer shall furnish and install a manual Visible-Break Isolation Device that has a
+visible disconnect to isolate the Generating Facility from the Utility’s Distribution System.
+The device must be accessible to Utility personnel at all times and be capable of being
+locked in the open position. Generating Facilities with Non-Islanding inverters totaling
+one (1) kVA or less are exempt from this requirement.
+4. Additional Requirements to Preclude Interference with Utility Operations
+a. The Producer shall not operate Generating or Interconnection Facilities that
+superimpose a voltage or current upon the Utility’s Distribution System that interferes
+with Utility operations, service to Utility Customers, or communication facilities. If such
+interference occurs, the Producer must diligently pursue and take corrective action at its
+own expense after being given notice and reasonable time to do so by the Utility. If the
+
+Producer does not take corrective action in a timely manner or continues to operate the
+facilities causing interference without restriction or limit, the Utility may, without liability,
+disconnect the Producer's facilities from the Utility’s Distribution System, in accordance
+with Section D.11 of this Rule. All operation shall conform to the power-quality
+performance requirements of IEEE 1547-2018 Clause 7 and the Utility’s adopted default
+advanced inverter settings.
+b. Voltage interference causing a modulation of the light level of lamps sufficient to be
+irritating to humans, or which causes equipment mis-operation to occur shall be
+corrected by the Producer. Unacceptable interference shall be as defined in accordance
+with IEEE 1453-2022, as referenced by IEEE 1547-2018 Clause 7.2.3 and Annex B, or
+as otherwise specified by the Utility. Inverters certified to IEEE 1547-2018 and operated
+using the Utility’s default advanced inverter settings shall be deemed compliant unless
+demonstrated otherwise.
+c. When the Producer is serving balanced linear loads, harmonic distortion shall be within
+the maximum harmonic current distortion percentages given in IEEE 1547-2018 Clause
+7.3 and Table 11, evaluated at the Reference Point of Applicability (RPA). Exception:
+The harmonic distortion of a Generating Facility located at a Customer's site shall be
+evaluated using the same criteria as the loads at that site.
+d. Generating Facilities should not inject DC current greater than 0.5 percent of rated
+output current into the Utility’s Distribution System, consistent with IEEE 1547-2018
+Clause 7.4.
+e. Generating Facilities shall not contribute to an Unintentional Island. This can be
+accomplished by one of the following options:
+(1) Incorporating certified Non-Islanding control functions into the Protective
+Functions; or
+(2) Verifying that local loads sufficiently exceed the load carrying capability, including
+that the reactive power requirements of the local loads sufficiently exceed the
+reactive power capability of the Generating Facility; or
+(3) Incorporating Transfer Trip or an equivalent function in the Protective Functions.
+5. Certain Technology Specific Requirements
+a. For three-phase Generators, the Generating Facility circuit breakers shall be three-
+phase devices with electronic or electromechanical control. The Producer shall be
+responsible for properly synchronizing its Generating Facility with the Utility’s Distribution
+System by means of either a manual or automatic synchronizing device, in accordance
+with the synchronization performance requirements of IEEE 1547-2018, Clause 4.1.3
+and Table 5. Automatic synchronizing is required for all synchronous Generators that
+have a SCCR exceeding 0.05. A Generator whose SCCR exceeds 0.05 shall be
+equipped with Protective Functions suitable for detecting loss of synchronism and rapidly
+disconnecting the Generator from the Utility’s Distribution System. As agreed upon by
+the Producer and the Utility, synchronous Generators may automatically regulate power
+factor or voltage while in Parallel Operation with the Utility’s Distribution System. Power
+system stabilization is specifically not required for Generating Facilities under 10 MW
+Net Nameplate Rating. A Generating Facility with an SCCR exceeding 0.1 or that does
+not meet any one of the options for detecting Unintentional Islands in G.3.e. shall be
+equipped with Protective Functions designed to detect Distribution System faults, both
+line- to-line and line-to-ground, and promptly remove the Generating Facility from the
+Utility’s Distribution System in the event of a fault. For a Generating Facility that cannot
+detect these faults within 0.5 seconds, Transfer Trip or an equivalent function may be
+required. Reclose-blocking of the Utility's affected recloser(s) may also be required by
+the Utility where engineering review indicates a risk of reclosing onto an energized island
+or where protective coordination cannot otherwise be assured.
+
+b. Induction Generators do not require a synchronizing function. Starting or rapid load
+fluctuations on induction generators can adversely impact the Utility’s Distribution
+System's voltage. Corrective step-switched capacitors or other techniques may be
+necessary and may cause undesirable ferro-resonance. When these counter measures
+(e.g., additional capacitors) are installed on the Producer's side of the PCC, the Utility
+shall review these measures. Additional equipment may be required as determined as a
+result of Supplemental Review or an Interconnection Study.
+c. For inverter-based Generators, only Advanced Inverters shall be used for Parallel
+Operation with the Utility’s Distribution System. Non-utility-interactive or “stand-alone”
+inverters shall not be used for Parallel Operation with the Utility’s Distribution System.
+d. Generating Facilities with Advanced Inverters do not require separate synchronizing
+equipment.
+6. Rotating Machine Generator Capabilities and Default Settings
+a. Rotating machine-based Generators shall meet IEEE 1547-2018 Category A for normal
+operating performance and Category I for abnormal operating performance. Rotating
+machine-based Generators that cannot meet these requirements shall be reviewed on a
+case-by-case basis by the Utility and authorized for Interconnection or not at its
+discretion.
+b. The default settings identified within this section shall be used by all rotating machine-
+based Generators regardless of size.
+c. Default Settings
+(1) The Utility may specify alternate settings than those referenced in this section on
+a case-by-case basis and shall inform the Applicant and Producer, allowing
+reasonable time for mutual agreement of the parties prior to execution of the
+Interconnection and Operating Agreement.
+(2) Volt-VAR Settings
+(a) This setting shall be enabled. All other reactive power control modes shall
+be disabled.
+(b) Rotating machine-based Generators shall utilize a fixed reference voltage
+for this setting.
+(c) Default settings shall conform to IEEE 1547-2018 Table 8.
+(3) Voltage Trip and Ride-Through
+(a) Voltage trip settings shall conform to IEEE 1547-2018 Table 11.
+(b) Voltage ride-through performance shall conform to IEEE 1547-2018 Table
+14.
+(4) Frequency Trip and Ride-Through
+(a) Frequency trip settings shall conform to IEEE 1547-2018 Table 18.
+(b) Frequency ride-through performance shall conform to IEEE 1547-2018
+Table 19.
+(c) Frequency droop performance shall conform to IEEE 1547-2018 Table
+24.
+7. Specific Energy Storage Device Requirements
+a. Energy Storage Device Operating Restrictions
+(1) When an ESD is paired with a Net Metering System, the ESD, at the election of
+the Customer and/or Producer, may be programmed with either one or both of
+the following two operating restrictions, or no operating restriction, as follows:
+
+(a) Restricted from Exporting electricity to the Distribution System (beyond
+Inadvertent Export); and/or Commented [ZW12]: We respectfully urge NVE to
+adopt both pathways as options for customers/vendors
+(b) Restricted to being charged solely from the Producer’s Net Metering to choose from. The market is relatively nascent, and
+System and not from the Utility’s Distribution System; or limiting V2G DC interconnection to one pathway,
+despite both offering the core safety and grid
+(c) No operating restrictions, only where expressly authorized under a interoperability requirements, would unnecessarily
+Commission-approved tariff, Utility program, or Interconnection and restrict the availability of these resources for
+customers.
+Operating Agreement that governs the operating capabilities of the
+Energy Storage Device. Today’s available product landscape already includes
+systems with integrated inverters in the charging
+(2) If the Customer and/or Producer elects to operate an ESD with an operating
+station and standalone inverters outside of the charging
+restriction(s), such election shall be stated in the Application and Interconnection station. For example, the current Ford and GM systems
+and Operating Agreement, including a description of the operating restriction(s). use UL 1741 SB certified inverters that are not housed
+within the charging wallbox.
+(3) An attestation of the operating restriction(s), or lack of an operating restriction(s),
+Commented [ZW13R12]: Alternatively, this section
+shall be provided by both the Customer and the ESD Producer, if different
+could read: “V2G DC EVSE shall adhere to either:
+entities. (1) UL 9741
+(2) UL 1741 SB”
+(4) After the submission of the Application, the presence or absence of an operating
+restriction(s) may be modified, but not until after an updated attestation is This version would be very clear. It would also be
+provided to the Utility by both the Customer and the ESD Producer, if different consistent with interconnection rule norms to list out
+entities, and the Utility consents in writing to the modification. The Utility’s written standards, but not editorialize on why those standards
+approval shall not be unreasonably withheld or delayed. are important (i.e., “to ensure V2G systems can safely
+export power from EVs to the Utility’s Distribution
+b. A stand-alone ESD Interconnected to the Utility’s Distribution System that is not paired system”). This keeps it simpler and doesn’t implicate
+with a Generator, shall be charged solely from the Utility’s Distribution System, and shall whether a certain use case is required (in this case,
+whether export to the local area EPS/distribution
+discharge only for the sole purpose of providing back-up service to all or part of a
+system is needed).
+Customer’s load during an interruption of electric service from the Utility shall first
+disconnect from the Utility’s Distribution System before beginning to discharge within Commented [ZW14]: All modern EVs have built-in
+inverters. VGIC recommends more appropriate and
+backup operation and shall cease to discharge prior to returning to normal operation
+specific language.
+Interconnected with the Utility’s Distribution System.
+Commented [ZW15]: There are two distinct
+c. An ESD paired with a Generator Interconnected to the Utility’s Distribution System that, certification pathways for V2G AC systems. Critically,
+in addition to its normal operation, shall discharge to provide back-up service to all or both ensure compliance with the underlying IEEE
+part of a Customer’s load during an interruption of electric service from the Utility shall 1547-2018 safety and grid interoperability
+requirements.
+first disconnect from the Utility’s Distribution System before beginning to discharge within 1)UL 1741 SC + SAE J3072. Some vendors may
+backup operation and shall cease to discharge prior to returning to normal operation prefer this pathway, as it supports use cases
+Interconnected with the Utility’s Distribution System, after which it may discharge requiring more EV<->EVSE interoperability.
+according to its normal operation. 2)UL 9741 + UL 1741 CRD. Some vendors may
+prefer this pathway, as it supports one-to-one
+8. Specific Electric Vehicle, Charger and Charging Station Requirements matched pair certification. i.e., a specific charger
+with a specific vehicle, which may often be the case
+a. The Interconnection of a V2G EV and its EVSE to the Utility’s Distribution System, or for a single-family home.
+conversion of an EV charger, charging station, or EVSE to V2G, shall be subject to this
+Rule only when the V2G EV and its EVSE shall operate in a mode where discharging
+We respectfully urge NVE to adopt both pathways as
+will occur when Interconnected and operating in Parallel Operation with the Utility’s
+options for customers/vendors to choose from. The
+Distribution System. market is relatively nascent, and limiting V2G AC
+interconnection to one pathway, despite both offering
+b. V2G EV chargers or charging station inverters (i.e., DC bidirectional charging systems)
+the core safety and grid interoperability requirements,
+shall adhere to UL 9741 or UL 1741 SB to ensure that V2G systems can safely export would unnecessarily restrict the availability of these
+power from EVs to the Utility’s Distribution System. resources for customers. ...
+c. V2G EVs configured as an AC bidirectional charging system, wherein inverter Commented [ZW16R15]: Alternatively, this section
+could read:
+capabilities are onboard the vehicle, with a built-in inverter shall also either adhere to
+“V2G AC EV systems shall either adhere to:
+standard SAE J3072 or be part of a UL 1741 CRD/UL 9741 matched pair DER system. (1) UL 1741 SC for the EVSE and SAE J3072 for
+EVSE used in these configurations should either adhere to UL 1741 SC (for SAE J3072 the EV; or
+pathway) or be part of a UL 1741 CRD/UL 9741 matched pair DER system. (2) UL 1741 CRD for DER systems as a UL 9741
+matched-pair system.”
+d. A V2G EV, EV charger, charging station, or EVSE connected to the Utility’s Distribution
+System that shall discharge only for the sole purpose of providing back-up service to all This is likely a much more accessible way to list it for
+or part of a Customer’s load during an interruption of electric service from the Utility shall users of the Rule, and is consistent with the way these
+two pathways have been formatted in the Maryland
+first disconnect from the Utility’s Distribution System before beginning to discharge within
+rule.
+
+backup operation and shall cease to discharge before reconnecting to the Utility’s
+Distribution System. prior to returning to normal operation Interconnected with the
+Utility’s Distribution System. Commented [ZW17]: Recommended for clarity.
+9. Advanced Inverter Requirements
+a. Inverter-based Generators shall comply with IEEE 1547-2018 and UL 1741 SB
+requirements.
+b. All Advanced Inverters shall meet IEEE 1547-2018 Category B for normal operating
+performance and Category III for abnormal operating performance. Inverter-based
+Generators that cannot meet these requirements shall be reviewed on a case-by-case
+basis by the Utility and authorized for Interconnection or not at the Utility’s discretion.
+c. The default settings identified within this section shall be used by all inverter-based
+systems regardless of size.
+d. The Utility may specify alternative site-specific settings on a case-by-case basis to
+preclude or reduce the Distribution System improvements that may be required as a
+direct result of the Interconnection or for other technical reasons unique to the location
+on the Utility’s electric grid, and shall inform the Applicant and Producer, allowing
+reasonable time for mutual agreement of the parties prior to execution of the
+Interconnection and Operating Agreement.
+e. Default Settings
+(1) Volt-VAR Settings
+(a) This setting shall be enabled. All other reactive power control modes shall
+be disabled.
+(b) Inverter-based Generators shall utilize a fixed reference voltage for this
+setting.
+(c) Default settings shall conform to IEEE 1547-2018 Table 8.
+(2) Volt-Watt Settings
+(a) This setting shall be enabled.
+(b) Default settings shall conform to IEEE 1547-2018 Table 10.
+(3) Voltage Trip and Ride-Through
+(a) Voltage trip settings shall conform to IEEE 1547-2018 Table 13.
+(b) Voltage ride-through performance shall conform to IEEE 1547-2018 Table
+16.
+(4) Frequency Trip and Ride-Through
+(a) Frequency trip settings shall conform to IEEE 1547-2018 Table 18.
+(b) Frequency ride-through performance shall conform to IEEE 1547-2018
+Table 19.
+(c) Frequency droop performance shall conform to IEEE 1547-2018 Table
+24.
+10. Microgrid Requirements
+a. Requirements for a Microgrid shall be evaluated by the Utility on a case-by-case basis.
+Below are the defining characteristics for a Microgrid on the Utility’s Distribution System:
+(1) Is capable of Parallel Operation with the Utility’s Distribution System or Islanded
+operation, and not solely as an emergency back-up resource;
+(2) Is comprised of one or more Generator and/or ESD;
+(3) Has clearly defined electrical boundaries;
+
+(4) Utilizes a Microgrid Interconnection Device at the PCC; and
+(5) Utilizes a control system (Master Microgrid Controller) to manage and dispatch
+resources as a single controllable entity.
+b. For a Microgrid comprised solely of inverter-based Generator technologies, at least one
+of the inverter-based technologies within the Microgrid shall be capable of Grid Forming
+operation when Islanded.
+c. Each Microgrid shall be designed to Interconnect with the Utility Distribution System, to
+operate without adversely affecting the operations of the electric grid and without
+presenting safety hazards to Utility personnel or Customers, and in the case of a Hybrid
+Microgrid, to operate without adversely affecting the operations of the Microgrid’s
+participants.
+d. The Microgrid facilities and the Interconnection systems shall be in compliance with all
+applicable safety, power quality, and performance codes and standards of NFPA 70,
+IEEE, and the Utility’s interconnection standards and procedures provided in this Rule.
+e. A Producer’s Generating Facility may be part of a Customer Microgrid or be a participant
+in a Hybrid Microgrid and shall notify the Utility of its intention in the Interconnection
+Application.
+11. Cybersecurity Requirements
+a. The Producer shall maintain good security practices regarding Generating Facility
+hardware and software in accordance with the Interconnection and Operating
+Agreement between the Producer and the Utility.
+b. Generating Facility hardware shall not be readily physically accessible to unauthorized
+persons (e.g., shall be locked or require some manner of authorized access) and strong
+passwords shall be assigned and maintained by the Producer for any device area
+network. Networked device default passwords and firmware reset shall be secured,
+abstracted, or made inaccessible.
+c. As applicable, equipment shall always be registered with the manufacturer.
+d. The Producer shall have and maintain security controls to protect the Utility’s networks,
+systems, software, confidential information, and data, and to the maximum extent
+possible, shall adhere to the guidance provided in the latest published version of IEEE
+1547.3-2022.
+e. Generating Facilities with communication, telemetry, and/or remote-control capability
+shall incorporate cybersecurity protections to prevent unauthorized access or disruption
+of the Utility’s Distribution System. Such protections shall include cybersecurity policies,
+processes, and controls required for connectivity to the Utility systems, access to Utility
+data, or significant work affecting Utility systems.
+f. The Utility may establish and update its cybersecurity standards and procedures, which
+shall be incorporated into the Interconnection and Operating Agreement, and which may
+be updated from time to time and mutually agreed upon by the Producer and the Utility.
+12. Communication Requirements
+a. The communication requirements in this section shall be between:
+(1) the Utility and the individual Generating Facility’s Advanced Inverter control,
+PCS, energy management system, or Master Microgrid Controller; or
+(2) the Utility and the Generating Facility via a third-party aggregator; or
+(3) other communication options mutually agreed to by the Producer and the Utility.
+b. Inverter-based Generators, including V2G EVs, shall adhere to all the following
+communication protocol requirements:
+
+(1) shall be capable of remote communications and adhere to IEEE 1547-2018,
+Clause 10;
+(2) software/firmware shall be capable of being updated locally or via remote
+communications;
+(3) transport level protocol shall be TCP/IP; and
+(4) shall be capable of supporting at least one of the following application-level
+protocols:
+(a) IEEE 2030.5 (i.e., Smart Energy Profile 2.0 (SEP 2); or
+(b) IEEE 1815 (i.e., Distributed Network Protocol 3 (DNP3)); or
+(c) SunSpec Modbus; or
+(d) other application-level protocols by mutual agreement of the Producer
+and the Utility.
+c. V2G EVs with a built-in inverter shall also adhere to standard SAE J2847/3 or be part of
+a UL 1741 SB Certified DER system.
+d. V2G EV charger, charging station, and EVSE shall be capable of supporting at least one
+of the following protocols:
+(1) IEEE 2030.5; and
+(2) OpenADR (Open Automated Demand Response). Commented [ZW18]: VGIC recommends striking
+these sections. Communication protocols between EV
+e.c. Local communication ports on Advanced Inverters shall be made available at the
+and EVSE or between EVSE and aggregators are out
+request of the Utility or its designated third-party representative for the purposes of of scope for utility interconnection rules. All V2G EV or
+monitoring and control to support grid services, reliability tariffs or programs, or other EVSE (i.e., AC or DC pathways) ensure compliance
+tariffs or programs when such communication between Utility systems and the Advanced with IEEE 1547-2018, and IEEE 1547-2018 requires
+Inverters is required in accordance with any associated agreements between the Utility, speaking either IEEE 2030.5, DNP3, or SunSpec
+Modbus. With this in mind, it is not necessary to define
+its third-party representative, the Producer, and/or the Customer, or in accordance with
+additional communications requirements. These
+any related Commission approved tariffs. additional requirements will likely create confusion in
+the marketplace and make it more difficult for
+f.d. Data Access. All operational data required by the Utility for safe, reliable, and tariff- customers to adopt these technologies.
+compliant operation of the Distribution System shall be made available by the Producer
+or its vendors to the Utility, without additional fee, through the communication interface VGIC recommends that NVE consider establishing
+established under this Section. Required data shall include, but not be limited to, real communication requirements for EVSE in venues
+where it proposes funding for EVSE rebates and/or
+and reactive power, voltage, frequency, state of charge, availability, and status of ride-
+utility-administered managed charging or bidirectional
+through or trip functions, as applicable. charging programs.
+H. METERING, MONITORING AND TELEMETRY
+1. All Generating Facilities shall be metered in accordance with this Section H and shall meet all
+applicable standards of the Utility contained in the Utility’s applicable Tariff Schedules and
+published Utility manuals dealing with Metering specifications.
+2. The requirements in this Section H do not apply to Generating Facilities that are subject to
+separate metering requirements under the Utility’s currently effective Tariff Schedules, as
+approved by the Commission, including but not limited to those established pursuant to NRS
+704.766 to 704.775. Such Tariff Schedules, as may be amended from time to time, shall govern
+the Metering for these Generating Facilities.
+3. The ownership, installation, operation, reading, and testing of Metering for Generating Facilities
+shall be by the Utility.
+4. Telemetry and Metering at the PCC may be required in cases where less intrusive or more cost-
+effective options for providing the necessary Generating Facility output data are unavailable. In
+exercising its discretion to require Net Generation Metering, the Utility shall consider all relevant
+factors, including but not limited to:
+
+a. Data requirements in proportion to the need for information necessary to support relative
+Utility functions;
+b. Producer election to install equipment that adequately addresses the Utility’s operational
+requirements;
+c. Accuracy and type of required Metering equipment to be equivalent and consistent (i.e.,
+revenue grade) with purposes of collecting data;
+d. The Generating Facility’s size relative to the cost of the Metering/monitoring equipment;
+e. Other means of obtaining the data (e.g. Generating Facility logs, proxy data etc.); and
+f. Requirements under any Interconnection and Operating Agreement with the Producer.
+5. PCC Metering
+a. For purposes of assessing Utility charges for service, the PCC Metering shall be a bi-
+directional Meter so that power deliveries to and from the Producer’s site can be
+separately recorded.
+b. In order to accurately measure power flow in both directions, multiple Metering points
+may be required.
+c. PCC Metering shall be equipped or designed to prevent reverse registration.
+6. Telemetering
+a. If the Net Nameplate Rating of the Generating Facility is 1 MW or greater, Telemetering
+equipment at the Net Generation Metering location may be required at the Producer's
+expense to allow the Utility and the Customer’s scheduling coordinator to monitor such
+large Generators for their impact upon the Distribution System.
+b. The costs for Telemetering, including equipment, installation, and any costs for leased
+telephone lines are separate and in addition to other Metering costs addressed in
+Section H.8 below.
+c. If the Generating Facility is Interconnected to a Distribution System operating at a
+voltage below 10 kV, then Telemetering equipment may be required on Generating
+Facilities with a Net Nameplate rating of 250 kW or greater.
+d. The Utility shall only require Telemetering to the extent that less intrusive or more cost-
+effective options for providing the necessary data in real time are unavailable.
+e. Charges will be included in an applicable Interconnection and Operating Agreement.
+7. If Utility-owned Metering is located on the Producer’s Premises, the Producer shall provide, at
+no expense to the Utility, a suitable location for all such Metering.
+8. Metering Equipment, including an appropriate revenue-quality Meter, as defined in Rule 1, shall
+be installed if required in the Producer’s applicable standby rate schedule.
+a. All service switches, Meter sockets, Meter enclosures, cutouts and similar devices,
+irrespective of voltage, required in connection with Net Generation Metering shall be
+furnished, installed, maintained and owned by the Producer at no cost to the Utility.
+b. The Utility shall furnish, install and own the appropriate Meter or Meters used for Net
+Generation Metering. Such installation location shall be furnished by the Producer and
+approved by the Utility, and shall, at reasonable times, be accessible for reading, testing
+and maintaining the Meter.
+9. Energy Storage Device Metering Equipment, including an appropriate Utility-owned, bi-
+directional, Interval Meter, as defined in Rule 1, shall be installed per applicable published Utility
+manuals and standards dealing with Metering specifications.
+
+a. All service switches, Meter sockets, Meter enclosures, cutouts and similar devices,
+irrespective of voltage, required in connection with Energy Storage Device Metering shall
+be furnished, installed, maintained and owned by the Producer at no cost to the Utility.
+b. The Utility shall furnish, install and own the appropriate Meter or Meters used for Energy
+Storage Device Metering, at its cost. Such installation location shall be furnished by the
+Producer and approved by the Utility, and shall, at reasonable times, be accessible for
+reading, testing and maintaining the Meter.
+I. FACILITY OWNERSHIP AND COST RESPONSIBILITY
+1. Facility Ownership
+a. Parallel Operation of Generating Facilities may require the installation of Interconnection
+Facilities or Distribution System improvements. The type, extent and costs of
+Interconnection Facilities and Distribution System improvements shall be consistent with
+this Rule and determined by the Utility through the technical review process and/or an
+Interconnection Study as described in Section F.
+b. Interconnection Facilities installed on the Producer’s side of the PCC may be owned,
+operated and maintained by either the Producer or the Utility.
+c. Interconnection Facilities installed on Utility’s side of the PCC and Distribution System
+improvements shall be owned, operated and maintained only by the Utility.
+2. Facility Cost Responsibility
+a. A Producer shall be responsible for the reasonably incurred costs of the Optional Pre-
+Application Report (if requested) pursuant to Section E.1, the Application fee pursuant to
+Section E.2.c (Table 1) related to any required technical reviews pursuant to Section F,
+and any Interconnection Studies conducted pursuant to Section F.6 of this Rule solely to
+explore the feasibility and determine the requirements of Interconnecting a Generating
+Facility with the Utility's Distribution System.
+b. The Producer shall be responsible for all costs associated with the Interconnection
+Facilities owned by the Producer.
+c. The Producer shall be responsible for any costs reasonably incurred by the Utility in
+providing, installing, operating, or maintaining the Interconnection Facilities and
+Distribution System improvements required solely for the Interconnection of the
+Producer’s Generating Facility with the Utility’s Distribution System.
+d. The cost responsibility for any Interconnection Facilities and Distribution System
+improvements required solely due to the load requirements of an ESD (e.g., the ESD is
+charged by the Utility’s Distribution System), EV charger, or EV charging station shall be
+as set forth in Rule 9.
+e. Should the Utility combine the installation of Interconnection Facilities or Distribution
+System improvements required for the Interconnection of a Generating Facility with
+improvements to the Utility’s Distribution System to serve other Customers or Producers,
+the Utility shall not include the costs of such separate or incremental facilities in the
+amounts billed to the Producer.
+f. The costs for required Interconnection Facilities and Distribution System improvements
+shall be paid by the Producer pursuant to the provisions contained in the Interconnection
+and Operating Agreement. Where the type and extent of the Interconnection Facilities or
+Distribution System improvements warrant additional detail, the Producer and the Utility
+shall execute separate agreement(s) to more fully describe and allocate the parties’
+responsibilities for installing, owning, operating and maintaining the Interconnection
+Facilities or Distribution System improvements.
+
+g. Interconnection Facilities connected to the Utility’s side of the PCC and Distribution
+System improvements shall be provided, installed, owned and maintained by the Utility
+at the Producer’s expense.
+h. When a Producer wishes to reserve Utility-owned Interconnection Facilities or
+Distribution System improvements installed and financed as Special Facilities for the
+Producer but idled by a change in the operation of the Producer's Generating Facility or
+otherwise, the Producer may elect to abandon or reserve such facilities consistent with
+the terms of its Interconnection and Operating Agreement with the Utility. If the Producer
+elects to reserve idle Interconnection Facilities or Distribution System improvements, the
+Utility shall be entitled to continue to charge the Producer for the costs related to the
+ongoing operation and maintenance of the Special Facilities.
+J. FACILITY INSTALLATION, INSPECTION, AND COMMISSIONING
+1. Facility Installation
+a. After executing the applicable agreements, the Utility and/or the Producer shall
+commence construction and installation of the Distribution System improvements or
+Interconnection Facilities that have been identified in the agreements using good faith
+efforts to meet schedules and fixed costs or estimated costs as appropriate.
+b. Prior to construction, the Applicant may request, or the Utility may require, a pre-
+construction coordination meeting to review scope, switching or outage coordination, site
+access and safety controls. The Producer shall obtain all required permits and any AHJ
+clearances applicable to Producer-owned facilities. Work on Utility-owned facilities shall
+be performed only by the Utility. The parties shall use good faith efforts to coordinate
+schedules and minimize Customer impacts.
+c. The Utility and the Producer shall confirm, in writing, the RPA established pursuant to
+Section F.1.e. for testing and commissioning per IEEE 1547-2018 requirements upon
+determination of Application completeness. Commissioning verification shall be
+performed at the agreed-upon RPA.
+d. If required to complete the installation of a Generating Facility or associated
+Interconnection Facilities, the Utility may be required to perform a TDR to facilitate safe
+work on the Customer’s service entrance equipment or to allow inspection, testing, or
+commissioning of the Generating Facility.
+(1) If a TDR is required solely for modification of service entrance equipment
+(including installation or replacement of service panels), such work shall be
+performed and charged consistent with Rule 16.
+(2) TDRs performed solely for modifications to Customer service entrance
+equipment pursuant to Rule 16 and not this Rule, shall be coordinated by the
+Utility as part of the facility installation process under Section J.1.a of this Rule.
+Such work shall not be deemed to initiate, extend, or toll of any timeline required
+by statute or regulation for the Utility’s review of an Interconnection Application or
+issuance of Permission to Operate.
+e. The Utility may issue a Temporary Interconnection Agreement solely to permit the
+physical connection of a Generating Facility to the Utility’s Distribution System for limited
+purposes such as inspection, testing, coordination, and commissioning-only operation. A
+Temporary Interconnection Agreement shall not be construed as PTO and is valid only
+for a short, defined period necessary to complete commissioning.
+(1) For Generating Facilities less than or equal to 25 30 kW Net Nameplate Rating, Commented [ZW19]: See VGIC comment in Section
+Temporary Interconnection Authorization shall be issued automatically by the F.1.b.(1)
+
+Utility and shall allow commissioning-only, Non-Export operation for the minimum
+duration necessary to complete commissioning.
+(2) For Generating Facilities greater than 25 30 kW Net Nameplate Rating, the Utility Commented [ZW20]: See VGIC comment in Section
+shall specifically issue a Temporary Interconnection Authorization. The Producer F.1.b.(1)
+shall notify the Utility prior to commissioning, and commissioning-only operation
+shall be authorized by the Utility within a reasonable timeframe and performed
+under coordinated conditions.
+(3) A Temporary Interconnection Authorization automatically expires upon the earlier
+of (i) issuance of PTO or (ii) Utility revocation.
+(4) Operation under a Temporary Interconnection Authorization remains subject to
+all safety and protection requirements of this Rule and all applicable permits
+required by the Authority Having Jurisdiction.
+2. Facility Inspection
+a. Upon completion of installation and prior to Interconnection, the Producer shall notify the
+Utility and provide documentation including but not limited to:
+(1) site plans and as-built one-line and/or three-line diagrams, clearly identifying the
+RPA;
+(2) commissioning reports and documentation that may include verification of
+protection settings and inverter testing consistent with IEEE 1547-2018 and UL
+1741 requirements (for Generating Facilities less than or equal to 1 MW Net
+Nameplate Rating, such reports shall consist of paperwork only);
+(3) for Generating Facilities greater than 1 MW Net Nameplate Rating, functional
+Commissioning Testing and temporary energization in accordance with this Rule;
+(4) verification of the Visible Break Isolation Device including documentation
+(including photos) confirming that the lockable, visible-open disconnect switch is
+installed in accordance with this Rule, Utility standards, and NEC;
+(5) Certification of equipment including evidence that major components (inverters,
+relays, etc.) are Certified under UL 1741 SB/IEEE 1547-2018; and
+(6) evidence of any relevant AHJ final inspection for Producer-owned facilities.
+b. Following receipt and review of the required documentation, the Utility shall perform a
+physical inspection of the facility that may include, but may not be limited to, verification
+of labeling, the Visible Break Isolation Device, protection wiring, Meter installation, and
+any other items necessary to confirm safe Interconnection consistent with applicable
+Utility standards.
+c. All inspections, testing, and verifications required under this Rule shall be performed at
+the RPA, as previously confirmed by the Utility and the Producer, to demonstrate
+compliance with any applicable technical and operational requirements, unless
+otherwise noted in this Rule.
+3. Facility Testing
+a. The Producer shall be responsible for testing new Generating Facilities and associated
+Interconnection Facilities according to Attachment 2 and IEEE 1547.1-2020 to verify
+compliance with the safety and reliability provisions of this Rule prior to Parallel
+Operation with the Utility’s Distribution System.
+b. The Producer’s Generating Facility shall be authorized for Parallel Operation or
+Momentary Parallel Operation with the Utility’s Distribution System only upon the
+issuance of PTO by the Utility.
+
+c. For non-Certified Equipment, the Producer shall develop a written testing plan to be
+submitted to the Utility for its review and acceptance prior to Interconnection. The testing
+plan shall, where applicable, incorporate the manufacturer’s installation test procedures
+and conform to IEEE 1547.1-2020.
+d. The Utility may require a Utility-witnessed Commissioning Test. If required by the Utility,
+the Producer shall coordinate scheduling of such test with no less than five (5) business
+days’ advanced notice and provide the Utility an opportunity to witness the test. Facility
+testing shall be conducted at a time mutually agreeable to the Producer and the Utility,
+with the party conducting the test providing the other party the opportunity to witness the
+tests.
+4. Facility Certification and PTO
+a. The Producer shall be responsible for ensuring Certification of new Generating Facilities
+and associated Interconnection Facilities pursuant to Attachment 2, Section 2.
+b. For Net Metering Systems:
+(1) within ten (10) business days of receipt of both written notice from the Applicant
+that the installation of the Net Metering System is complete and a copy of any
+required final inspection clearance from the AHJ, the Utility shall either:
+(a) issue PTO; or
+(b) provide to the Applicant a specific written description of the deficiencies
+that must be corrected prior to PTO.
+(2) at the time the Utility issues PTO, the Utility shall provide to the Producer a copy
+of the fully executed Net Metering System agreement if it has not already done
+so.
+c. For non-Net Metering Systems, within ten (10) business days of receipt of notice from
+the Producer that installation of the Generating Facility is complete, and absent
+extraordinary circumstances, the Utility shall either:
+(1) issue PTO; or
+(2) provide the Producer with a written list of deficiencies to be corrected. Upon
+notice to the Utility by the Producer that all necessary correction have been
+made, the parties shall use good faith efforts to schedule any required re-
+inspection in a timely manner.
+d. The Producer’s Generating Facility shall be authorized for Parallel Operation or
+Momentary Parallel Operation with the Utility’s Distribution System only upon the
+issuance of PTO by the Utility. Issuance of PTO shall be contingent upon satisfactory
+completion of the requirements under this Section J, provision of all required
+documentation, and compliance with all applicable agreements.
+K. DISPUTE RESOLUTION
+1. The Commission shall have initial jurisdiction to interpret, add, delete or modify any provision of
+this Rule or of any agreements entered into between the Utility and the Producer to implement
+this tariff (“the implementing agreements") and to resolve disputes regarding the Utility’s
+performance of its obligations under its Tariff Schedules, the implementing agreements, and
+requirements related to the Interconnection of the Producer’s Generating or Interconnection
+Facilities pursuant to this Rule.
+2. Any dispute arising between the Utility and the Producer (individually “Party” and collectively
+“the Parties”) regarding the Utility’s performance of its obligations under its Tariff Schedules, the
+implementing agreements, and requirements related to the Interconnection of the Producer’s
+facilities pursuant to this Rule shall be resolved according to the following procedures:
+
+a. The dispute shall be reduced to writing by the aggrieved Party in a letter (“the dispute
+letter”) to the other Party containing the relevant known facts pertaining to the dispute,
+the specific dispute and the relief sought, and express notice by the aggrieved Party that
+it is invoking the procedures under Section K.2.
+b. Within 45 calendar days after the Utility receives the dispute letter, the Parties’
+authorized representatives shall meet and confer to try to resolve the dispute.
+c. If the Parties do not resolve their dispute within 45 calendar days after the date of the
+dispute letter, the dispute shall, upon demand of either Party, be submitted to resolution
+before the Commission in accordance with the procedures outlined in NAC 703.616 to
+703.651.
+3. Pending resolution of any dispute under this Section, the Parties shall proceed diligently with the
+performance of their respective obligations under this Rule and the implementing agreements,
+unless the implementing agreements have been terminated. Disputes as to the application and
+implementation of this Section shall be subject to resolution pursuant to the procedures set forth
+in this Section.
+
+Attachment 1:
+Applicability
+
+Attachment 2: Summary Flowchart of Technical Review Process
+
+Attachment 3:
+Testing and Certification Criteria
+1. INTRODUCTION
+a. This Attachment describes the test procedures and requirements for equipment used for the
+Interconnection of Generating Facilities to Utility’s Distribution System. Equipment shall be
+subject to Type Testing, Production Testing, Commissioning Testing, and Periodic Testing
+consistent with IEEE 1547-2018, IEEE 1547.1-2020 and UL 1741-SB. These requirements
+ensure that the Generating Facilities will not adversely affect the Utility’s Distribution System
+and that such facilities will cease to energize and provide power under abnormal conditions.
+2. CERTIFICATION CRITERIA
+a. Equipment tested and approved (e.g. “Listed”) by an accredited, nationally recognized
+testing laboratory (NRTL) as having met both the Type Testing and Production Testing
+requirements of IEEE 1547-2018 and UL 1741-SB shall be considered Certified Equipment
+b. Proof of Certification shall consist of an NRTL-issued certificate including:
+1. Effective date of Certification and serial/model numbers;
+2. The software version (if applicable);
+3. Test procedures procedure and revision;
+4. Laboratory accreditation; and
+5. Technical ratings, trip settings, and designations for Non-Exporting and Non-Islanding
+capability.
+c. The Applicant shall ensure that Certification documentation is available from the manufacturer,
+NRTL, or an authorized third party.
+d. Use of non-Certified equipment requires a site-specific testing plan and Utility approval
+consistent with IEEE 1547.1-2020.
+3. TYPE TESTING
+Type Testing shall be conducted in accordance with IEEE 1547.1-2020 and UL 1741-SB to verify
+compliance with Interconnection performance requirements including voltage and frequency ride-
+through, protective trip functions, reactive power, interoperability, and communications.
+4. PRODUCTION TESTING
+Production Testing shall be performed in accordance with IEEE 1547.1-2020 and UL 1741-SB as
+part of routine factory testing to verify each unit’s performance.
+5. COMMISSION TESTING
+
+a. Commissioning Testing shall be performed onsite in accordance with IEEE 1547.1-2020 to
+verify protective settings and functional performance upon initial Parallel Operation, after
+modifications affecting Interconnection functions, or when otherwise required.
+b. Testing shall be performed by a qualified engineer, factory-certified technician, or licensed
+electrician.
+c. The Utility may witness Commissioning Testing or require Certification by the installer of test
+completion results.
+d. For Certified Equipment, testing may be limited to verification of protective settings, anti-
+Islanding, and Non-Export Functions.
+e. For non-Certified Equipment, full Commissioning Testing per IEEE 1547.1-2020 is required or
+as mutually agreed to by the Producer and the Utility.
+f. At the completion of testing, the Producer shall confirm all devices are set to Utility-approved
+settings and provide documentation of such.
+6. PERIODIC TESTING
+Periodic Testing shall be conducted in accordance with IEEE 1547.1-2020 and manufacturer’s
+requirements at intervals not to exceed four (4) years. The Producer shall maintain test records for
+Utility inspection. Batteries used for Protective Functions shall be inspected monthly and replaced
+or subject to a discharge test at least once every four (4) years.
+7. SUPPLEMENTAL TESTING PROCEDURES
+Supplemental Testing shall be conducted as required by IEEE 1547.1-2020 and UL 1741-SB,
+including but not limited to verification of Non-Exporting capability, in-rush current, surge withstand,
+and Synchronization performance.
+8. Closing Provisions
+Testing and Certification requirements under this Attachment shall be applied uniformly and
+consistent with IEEE 1547-2018, IEEE 1547.1-2020, and UL 1741-SB.

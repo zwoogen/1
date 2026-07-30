@@ -1,0 +1,86 @@
+4
+~
+L
+B
+U
+P
+~* TEX>~
+Filing Receipt
+Filed Date - 2026-02-27 02:32:59 PM
+Control Number - 59176
+Item Number - 17
+
+DOCKET NO. 59176
+PETITION OF FORD MOTOR § PUBLIC UTILITY COMMISSION
+COMPANY FOR DECLARATORY §
+ORDER § OF TEXAS
+§
+VEHICLE-GRID INTEGRATION COUNCIL'S COMMENTS IN SUPPORT OF THE
+PETITION FOR DECLARATORY ORDER
+On December 29, 2025, Ford Motor Company ("Ford") filed a petition seeking a
+declaratory order related to the interpretation of the Commission' s rule at 16 Texas Administrative
+Code ("TAC") § 25.211. On February 27,2026, the Vehicle-Grid Integration Council ("VGIC")
+filed and served Vehicle -G rid Integration Council 's Motion to Intervene in accordance with 16
+TAC §§ 22.103 and 22.104. VGIC respectfully submits these comments in support of the Petition
+for Declaratory Order ("Petition") filed by Ford on December 29,2025.
+I. INTRODUCTION
+1. VGIC is a national 501(c)6 member-based advocacy group committed to advancing the
+role of vehicle-grid integration ("VGI") through policy development, education, and research.
+VGIC aims to ensure that the value of flexible EV charging and discharging is recognized and
+compensated for, thereby achieving a more reliable, affordable, and efficient electric grid.
+2. VGIC supports Ford' s request for a Declaratory Order clarifying the applicability of TAC
+25.211 to systems using Home Backup Power ("HBP") features.
+II. COMMENTS
+3. VGIC has engaged closely with automakers, utilities, third-party testing laboratories, EV
+charging equipment manufacturers, vehicle-grid integration ("VGI") aggregators and service
+providers, policy-makers, non-profit organizations, and academics since 2020 on the topic of
+bidirectional charging systems , including through the development of its V2X Bidirectional
+Page 1 of 3
+
+Charging Systems : Best Practices for Service Connection or Interconnection. 1 Additionally , as
+noted in the Petition, the Electric Power Research Institute ("EPRI") conducted laboratory
+assessments confirming that the HBP features provide backup power only after the system is
+properly disconnected from the grid. Based on EPRI' s investigation and VGIC' s prior
+experience on this topic, the Commission granting Ford's request through a Declaratory Order
+would constitute a reasonable formalization and confirmation of a practice already implemented
+and, in some cases, clarified, in markets across the U. S.
+4. VGIC agrees with the Petition's interpretation that the HBP feature utilizing a "break-
+before-make" isolation logic does not constitute "parallel operation" and therefore should not be
+subj ect to interconnection requirements. As determined by EPRI, these systems are incapable of
+inadvertently back-feeding the grid during operation and therefore cannot impact power quality
+or safety.
+5. VGIC is concerned by the Petition's report that at least one distribution utility in Texas
+requires customers with HBP systems to navigate complex, time-consuming interconnection
+processes designed for grid-parallel distributed generation. Subjecting HBP systems to these
+procedures creates a significant and unjustified barrier to market development, imposing an
+administrative burden on customers without providing any grid safety benefit.
+6. Lastly, VGIC notes that granting this Petition would align Texas with other regulatory
+jurisdictions. For example, the Michigan Public Service Commission recently issued a
+declaratory ruling finding that Ford' s HBP feature does not require interconnection authorization
+because it prevents parallel operation. Building this type of consistency across jurisdictions is
+1 V2X Bidirectional Charging Systems: Best Practices for Service Connection or Interconnection. August 2022.
+https://www.vgicouncil.org/s/VGIC-Special-Initiative-2022.pdf
+Page 2 of 3
+
+critical to reducing friction in the relatively nascent VGI solutions market, ensuring EVs remain
+a valuable, safe, and relatively inexpensive backup power option for Texans.
+III. CONCLUSION
+VGIC respectfully requests that the Commission grant Ford's Petition, affirming that its
+isolated backup systems do not trigger interconnection requirements.
+Respectfully submitted,
+VEHICLE-GRID INTEGRATION COUNCIL
+/s/ Zach Woopen
+Zach Woogen
+Executive Director
+zwoogen@vgicouncil.org
+1401 21St St., Suite 5409
+Sacramento, California 95811
+(279) 895-7855
+CERTIFICATE OF SERVICE
+I hereby certify that a true and correct copy of these comments was served via electronic
+mail on all parties of record in this proceeding on this 27~h day of February, 2026, in accordance
+with the Commission's Second Order Suspending Rules in Project No. 50664.
+is/ Zach Woogen
+Zach Woogen
+Executive Director
+Page 3 of 3

@@ -1,0 +1,209 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+11/17/25
+Order Instituting Rulemaking
+04:59 PM
+Regarding Transportation Rulemaking 23-12-008
+R2312008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING REVISED DATA GATHERING AND
+REPORTING REQUIREMENTS FOR TRANSPORTATION ELECTRIFICATION
+PROGRAMS AND PROVIDING CLARIFICATION ON PROGRAMS ADOPTED IN
+DECISION 22-11-040
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: November 17, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking
+Regarding Transportation Rulemaking 23-12-008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING REVISED DATA GATHERING AND
+REPORTING REQUIREMENTS FOR TRANSPORTATION ELECTRIFICATION
+PROGRAMS AND PROVIDING CLARIFICATION ON PROGRAMS ADOPTED IN
+DECISION 22-11-040
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Proposed Decision Adopting Revised Data Gathering and Reporting
+Requirements for Transportation Electrification Programs and Providing Clarification on
+Programs Adopted in Decision 22-11-040 issued by President Alice Reynolds on October 27,
+2025.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to comment on the future of ratepayer transportation
+electrification (TE) funding and reporting. These issues are critical, as transportation electrification
+and vehicle-grid integration (VGI) deliver significant ratepayer benefits. The Public Advocates
+Office’s 2025 Distribution Grid Electrification Model (DGEM 2025) finds that widespread
+managed charging of EVs could save up to $18 billion in distribution grid upgrade costs by 2040,
+while also exerting downward pressure on rates of up to 4.5 cents per kWh across the state’s
+1
+
+investor-owned utilities (IOUs).1 Similarly, Pacific Gas and Electric’s (PG&E) Electrification
+Impact Study (EIS) Part 2 concludes that electrification growth may reduce distribution rates by
+as much as 25 percent by 2040, driven by increased electricity sales that spread fixed grid costs
+across a larger customer base and but also by the deployment of demand-flexibility strategies such
+as dynamic pricing, active managed charging, and bidirectional EV capabilities.2
+These findings reinforce the importance of proactive TE and VGI investments authorized
+by the Commission. Therefore, in response to the PD, VGIC offers the following comments:
+• The Commission should make a determination to move forward with Funding Cycle 1
+• VGIC supports the removal of vehicle purchasing requirements from Funding Cycle 0
+(FC0) Make-Ready programs and other barriers should be removed
+• FC0 Funds should remain in place until exhausted
+• Specific questions on VGI data should be preserved in reporting
+II. THE COMMISSION SHOULD MAKE A DETERMINATION TO MOVE
+FORWARD WITH FUNDING CYCLE 1.
+VGIC is disappointed that the PD continues the pause of FC1 indefinitely without
+discussing the merits of the behind-the-meter (BTM) rebate program or the clear need for sustained
+funding to support transportation electrification. As drafted, the PD sends a signal that the
+Commission does not plan to support transportation electrification funding for the foreseeable
+future, especially given that it sets no timeline for revisiting FC1. The Commission should reverse
+this signal by authorizing FC1 to move forward or, at a minimum, establishing a clear schedule in
+this decision for when FC1 will be reconsidered.
+1 Cal Advocates, Distribution Grid Electrification Model 2025 Study and Report, October 2025 at p.85.
+https://www.publicadvocates.cpuc.ca.gov/press-room/reports-and-analyses/distribution-grid-
+electrification-model-2025
+2 Pacific Gas and Electric Company’s (U 39 E) Draft Electrification Impact Study Part 2, October 31,
+2025, filed in Rulemaking 21-06-017 at p.13.
+2
+
+VGIC continues to view FC1 as an essential program for customers seeking funding to
+support electrification. VGIC previously stated in July 2024 that “Without the TE Rebate Program,
+the Commission risks slowing down EV adoption and, in turn, directly jeopardizes California’s
+TE and broader decarbonization goals.”3 This concern is even more urgent today. Since 2024, the
+federal EV tax credit has sunset, and the California Air Resources Board (CARB) has lost key
+waivers for the Advanced Clean Cars, Advanced Clean Trucks, and Advanced Clean Fleets
+regulations. With higher upfront costs and fewer regulatory drivers accelerating vehicle transitions,
+California will need to provide clear, durable incentives to maintain momentum on transportation
+electrification.
+Authorizing FC1 or identifying a firm timeline for its reconsideration is therefore critical
+to sustaining California’s TE progress and ensuring that customers have access to near-term
+funding tools necessary to electrify. VGIC urges the Commission to make such a determination in
+this decision.
+III. VGIC SUPPORTS THE REMOVAL OF VEHICLE PURCHASING
+REQUIREMENTS FROM FUNDING CYCLE 0 MAKE-READY PROGRAMS
+AND OTHER BARRIERS SHOULD BE REMOVED.
+Given the ongoing pause of FC1, it is increasingly important that the Commission ensure
+existing programs operate efficiently and without unnecessary constraints. VGIC therefore
+supports removing vehicle purchasing requirements from the FC0 programs. As discussed by the
+Commission, new business models, such as charging-as-a-service model, are making it more
+common for multiple fleets to use the same sites and for charging site developers to not be the fleet
+3 VGIC Comments on Track 1 Ruling at 3.
+3
+
+vehicle purchasers.4 Removing this barrier will help ease the development of charging sites and
+can allow more funds to be utilized to develop chargers that would otherwise not be deployed.
+In addition to removing vehicle-purchase requirements, VGIC urges the Commission to
+address other FC0 program design barriers that have constrained participation. One significant
+barrier has been limiting customers to participating in FC0 or Make-Ready programs only once.
+This penalizes early adopters who install a small amount of EVSE initially as a pilot before scaling
+to full fleet electrification. For example, many school districts installed a small number of electric
+school buses and chargers under FC0 to test operations. Once ready to proceed with full-fleet
+electrification, they were ineligible for further FC0 support and were instead required to use the
+IOUs’ EV Infrastructure Rules 29/45. There has been significant participation in these rules, with
+San Diego Gas and Electric (SDG&E) having to pause acceptance of Rule 45 applications when
+they reached a previously allocated cost cap.5 By not allowing customers to participate in these
+programs more than once, the Commission has excluded many of the customers who are most
+likely and best prepared at this point to engage with the existing make ready programs. Allowing
+prior participants to re-apply could meaningfully increase program engagement.
+IV. FUNDING CYCLE 0 FUNDS SHOULD REMAIN IN PLACE UNTIL
+EXHAUSTED.
+Because the PD proposes to continue the pause of FC1 with no timeline for reconsideration,
+it is essential that FC0 funding remain available until fully exhausted. The PD declines to extend
+the FC0 funding for EV infrastructure past 2026, stating that these funds are not sufficiently used
+and that other sources of funding outside of ratepayer funds can be used to support infrastructure
+4 PD at 15.
+5 SDG&E Advice Letter 4705-E.
+4
+
+investments past 2026. As discussed above, FC0 participation has been limited not because
+demand is lacking, but because several program design barriers have inhibited customer access.
+Removing the vehicle-purchase requirement, eliminating the one-time participation barrier, and
+addressing other barriers would substantially increase interest in FC0 programs.
+The PD also cites the California Energy Commission’s (CEC) Energy Infrastructure
+Incentives for Zero-Emission Commercial Vehicles (EnergIIZE Commercial Vehicles) and
+California Electric Vehicle Infrastructure Project (CALeVIP), and the federal government’s
+National Electric Vehicle Infrastructure (NEVI) Program as alternative funding sources. However,
+these funds have experienced significant fluctuations, and it is unclear whether all of these
+programs will have sufficient funding to meet demand after 2026. NEVI funding has currently
+been restored to states, but the federal administration has previously frozen the release of these
+funds, and it is unclear whether future changes to federal funding are on the horizon. California
+has shown a stronger commitment to the deployment of EV chargers compared to the federal
+government, but state funding has also fluctuated over the years due to changes in the state budget.
+California has faced general budgetary challenges in recent years. The CEC’s Transportation
+Program has $100 million in consistent funding, but supplemental funding from the Cap-and-
+Invest funded Greenhouse Gas Reduction Fund (GGRF) has seen large fluctuations. There is also
+desire for this funding to be used for other clean transportation efforts, such as providing vehicle
+incentives for low-income drivers, and other climate initiatives. Particularly when considering
+increasing holes from federal funding, it is hard to rely on the state budget to fill all gaps in future
+fiscal years.
+By maintaining FC0 funding past 2026 and until fully exhausted and by addressing key
+program barriers, the Commission can ensure continuity in transportation electrification support
+5
+
+during the pause of FC1, allow continued scaling of EV deployments, and maximize the value of
+funds already authorized. This approach provides the most stable and reasonable path forward
+while longer-term funding questions remain unresolved.
+V. SPECIFIC QUESTIONS ON VGI DATA SHOULD BE PRESERVED IN
+REPORTING.
+VGIC believes the VGI section of the comprehensive annual report should continue to have
+specific questions for the utilities to respond to. The value of the VGI reporting is to get a
+comprehensive view and specific data on the utilities’ VGI efforts. In particular, VGIC has seen
+immense value in learning about the enrollment in the specific rates, pilots, and programs being
+administered by each of the IOUs. These are the most valuable components of utility VGI
+reporting, as they can critically inform policy decisions. In some cases, VGIC urges the utilities to
+issue more detailed responses. For example, questions 25 and 26 ask the utilities to report on the
+capacity of EVs enrolled in demand response programs and their load shift / energy potential. In
+the most recent 2025 VGI Mid-term Reports, SDG&E answers these questions by noting that “VGI
+enrollment in ELRP A.5 has remained low within SDG&E’s service territory.”6 SCE discusses
+enrollment capacity (MW) for ELRP Group A.1, which includes EVs, but does not share any
+enrollment capacity figures for ELRP Group A.5, despite sharing that “ELRP Sub-Group A.5. has
+72 active participants as of June 30, 2025.”7 PG&E provides the most comprehensive data, sharing
+that they expect “2 MW of incremental load reduction per hour during events”8 in 2025.
+The load profile data reported by the utilities is also extremely useful, and the Commission
+should take learnings from these load profiles into future rate design and program development.
+6 SDG&E Vehicle-Grid Integration Activities Midterm Report For 2025 at p.A-13.
+7 SCE Mid-Term Report on Vehicle-Grid Integration Strategies, Programs and Pilots Metrics at p.A-27.
+8 PG&E Mid-Term Vehicle-Grid Integration Strategies Report for September 2025 at p.20.
+6
+
+There is already significant evidence that EV load profiles can increase or avoid distribution grid
+upgrades and other grid costs, with Cal Advocates recently estimating that EV load management
+can save up to $18 billion in grid upgrade costs through 2040.9 This aspect of reporting is helpful,
+as it reveals the real-world evidence of successfully shifting charging load away from peak periods.
+Given the inconsistencies in current IOU reporting and the value of accurate data, it is
+worthwhile to revisit the reporting templates and ensure that the data shared by the utilities is useful
+by consolidating to specific questions seeking specific data points, rather than questions that allow
+utilities to issue high-level, narrative responses. VGIC looks forward to working with the utilities,
+Energy Division, and other stakeholders at the 2026 VGI Forum to enhance reporting practices.
+The Commission must require reporting that sufficiently informs future learnings. Prudent policy
+and investment decisions should be supported by this reporting, rather than anecdotal evidence
+alone.
+VI. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: November 17, 2025
+9 Cal Advocates, Distribution Grid Electrification Model 2025 Study and Report, October 2025 at p.85.
+https://www.publicadvocates.cpuc.ca.gov/press-room/reports-and-analyses/distribution-grid-
+electrification-model-2025
+7

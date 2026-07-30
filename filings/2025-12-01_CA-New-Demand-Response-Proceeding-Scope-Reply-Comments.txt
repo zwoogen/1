@@ -1,0 +1,135 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+12/01/25
+Order Instituting Rulemaking to Rulemaking 25-09-004
+04:59 PM
+Enhance Demand Response in (Filed September 18, 2025)
+R2509004
+California.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ORDER INSTITUTING RULEMAKING TO ENHANCE DEMAND RESPONSE IN
+CALIFORNIA
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: December 1, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 25-09-004
+Enhance Demand Response in (Filed September 18, 2025)
+California.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ORDER INSTITUTING RULEMAKING TO ENHANCE DEMAND RESPONSE IN
+CALIFORNIA
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Order Instituting Rulemaking to Enhance Demand Response in
+California (“OIR”), issued on September 29, 2025.
+I. INTRODUCTION.
+VGIC reiterates its support for the Commission’s goal of modernizing demand response
+(“DR”) policy to reflect evolving customer technologies and grid needs. In opening comments,
+several stakeholders detailed the opportunities for electric vehicles (“EV”) and associated vehicle-
+grid integration (“VGI”) solutions to be considered within the scope of this OIR. VGIC offers the
+following comments in response to party opening comments, summarized below:
+• Bridge funding for demand response programs should be pursued prior to the next
+demand response applications.
+o Specifically, ELRP should be extended for EVs given the lack of other
+opportunities for EV aggregations in California.
+• Developing universal pilot sunset criteria is not well-suited for this proceeding
+given wide variations in existing pilot goals, designs, and customer types.
+1
+
+II. BRIDGE FUNDING FOR DEMAND RESPONSE PROGRAMS SHOULD BE
+PURSUED PRIOR TO THE NEXT DEMAND RESPONSE APPLICATIONS.
+In Opening Comments on the OIR, the investor-owned utilities (“IOUs”) raised concerns
+that the next round of DR applications is due November 1, 2026 and this proceeding is just kicking
+off now. VGIC anticipates that many of the matters discussed in this proceeding, such as guiding
+principles, dual participation policies, valuation methodologies and data systems, would materially
+impact the proposals put forward by the IOUs in their next application. However, the OIR does
+not propose having an initial decision on even guiding principles until Q3 2026, or as late as
+September 2026, which Pacific Gas and Electric (“PG&E”) states is too late to be fully
+incorporated by the IOUs in their November applications.1
+Instead, all three IOUs request some form of bridge funding for 1-2 years to allow for the
+delay in the filing of a full 5-year DR application, which VGIC believes is reasonable and also
+prudent given the importance of the DR issues that will be discussed in this proceeding. The IOUs
+have slightly different recommendations and proposed possibilities for approving this bridge
+funding, but all recommend 1 or 2 years of bridge funding and to extend the filing of the next DR
+application by at least 6 months.2 VGIC believes that considering 2 years of bridge funding for
+simple program extensions is reasonable based on the proposed schedule set by the Commission.
+It is also critical that the approval of bridge funding be done expeditiously. Southern California
+Edison (“SCE”) therefore recommends that bridge funding be considered and approved in this
+proceeding instead of a separate regulatory venue. San Diego Gas and Electric (“SDG&E”)
+similarly notes that the regulatory process for bridge funding should be much shorter and truncated
+compared to a full-scale application, and that “filing a full application for a single year is not a
+1 PG&E Opening Comments at A-18.
+2 PG&E Opening Comments at A-18; SCE Opening Comments at 3-5; SDG&E Opening Comments at 15.
+2
+
+practical solution.”3 As SDG&E notes, there was a full application process for 2023 bridge year
+funding and this required significant time and resources from the Commission, IOUs, and other
+stakeholders (including VGIC). VGIC agrees that this level of effort is not necessary for bridge
+year funding for 2028-2029, especially when the same stakeholders that would intervene in a 1-
+year application are actively participating in this proceeding.
+Importantly, bridge funding should be approved for the existing Emergency Load
+Reduction Program (“ELRP”), as highlighted by SCE. ELRP has provided an important
+opportunity for customers to contribute critical emergency resources to California’s DR toolkit,
+including from their EVs. ELRP allows customers to provide emergency capacity both by reducing
+their charging load and by providing bidirectional discharge from the EV to onsite load or the grid.
+There is no other utility-administered DR offering in California that allows for bidirectional EVs
+to participate in this manner, despite over 2.4 million EVs on the road in California and a growing
+number of bidirectional EVs, including currently from Ford, Chevrolet, Tesla, Kia, Nissan, GMC,
+Cadillac, Volvo, Polestar, and Hyundai, as well as nearly all electric school buses sold in the state.
+As highlighted by SCE, “Extending ELRP (or funding a similar new program) through the bridge
+period will provide continuity […] avoiding the loss of critical megawatts (MW) as the state
+pursues its 7,000 MW load shift goal.”4 The Commission should ensure that any bridge funding
+approved for the IOUs includes a specific extension for ELRP.
+3 SDG&E Opening Comments at 15.
+4 SCE Opening Comments at 5.
+3
+
+III. DEVELOPING UNIVERSAL PILOT SUNSET CRITERIA IS NOT WELL SUITED
+FOR THIS PROCEEDING GIVEN WIDE VARIATIONS IN EXISTING PILOT
+GOALS, DESIGNS, AND CUSTOMER TYPES.
+In Opening Comments, the Public Advocates Office at the California Public Utilities
+Commission (“Cal Advocates”) states that this proceeding should discuss the development of
+specific sunset criteria for DR pilots, arguing that the Commission does not have a sufficient
+mechanism to end underperforming pilots.5 VGIC disagrees that this should be pursued at this
+time. Pilots are highly diverse and can handle a wide variety of different types of elements, from
+technical pilots that test new technologies, program pilots that test novel program designs and
+customer engagement strategies, to rate design pilots that look at the impact of new pricing, and
+more. Given the wide breadth of pilots, it would be difficult to establish standard criteria for their
+sunset. Additionally, the Commission already has opportunities to review pilot performance. Pilots
+are approved with a specific budget, and the IOUs are only allowed to spend up to that amount,
+guarding against excessive ratepayer costs. Pilots are also reviewed regularly, and for DR pilots
+specifically, they are reviewed during the DR application, which occurs every 5 years. It often
+takes significant time for pilots to be stood up too, so by the time these pilots are reviewed, they
+are unlikely to have 5 years of operational data, instead only having a few years to consider.
+Regardless, each pilot is unique, and it is unlikely that universal sunset criteria will be able to be
+reasonably created. Therefore, the Commission should focus its limited resources on other key
+issues detailed in the OIR and stakeholders’ comments, including those detailed in VGIC’s
+opening comments.
+5 Cal Advocates Opening Comments at 4.
+4
+
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the OIR. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: December 1, 2025
+5

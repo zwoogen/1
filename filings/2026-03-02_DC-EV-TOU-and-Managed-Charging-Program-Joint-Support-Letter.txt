@@ -1,0 +1,104 @@
+March 2, 2026
+Joint Letter on Managed Charging in Formal Case No. 1167
+The undersigned parties appreciate the opportunity to submit these comments
+regarding managed charging in DC. We collectively support the introduction of
+advanced load management programs in the District, specifically Electric Vehicle (EV)
+managed charging, as a practical near-term tool to advance the District’s climate goals
+while maintaining reliability and affordability.
+To ensure the District meets its climate goals while maintaining a reliable and
+affordable grid, we urge the Commission to approve Pepco’s proposed Schedule
+R-EV-TOU and encourage the rapid development of a Smart Charge Management
+(SCM) program.
+Support for Schedule R-EV-TOU: A Critical First Step
+On January 30, 2026, Pepco filed a proposal for an EV-only Time-of-Use (TOU) rate.
+We believe this proposal is an essential "Phase 1" for managed charging in DC for
+several reasons.
+● Customer Savings: The proposal offers a 3-cent-per-kWh credit, saving a
+typical EV driver who uses approximately 250 kWh per month about $90
+annually.
+● System Benefits: This rate design provides price signals to encourage off-peak
+charging, creating a more efficient electric system.
+● Proven Success: Similar rates in Maryland have resulted in 97% of charging
+occurring during off-peak periods.1
+● Low Cost of Adoption: By utilizing vehicle telematics and networked
+chargers, this program avoids the need for customers to install expensive
+second meters.
+The Case for Smart Charge Management
+While TOU rates help shift load from peak periods, they do not protect the local
+distribution system. We encourage Pepco to follow this filing with a Smart Charge
+Management (SCM) program, a model already successfully being operated by Pepco,
+Baltimore Gas and Electric, and Delmarva Power in Maryland.
+Residential EV charging can significantly strain local infrastructure, particularly
+secondary transformers. Transformers rated at or below 50 kVA can be overloaded by
+1 BGE Semi-Annual Progress Report for the period of July 1, 2025 through December 31, 2025 filed in Case No.
+9478 on February 2, 2026
+1
+
+only a few EVs charging simultaneously. SCM actively manages charging at the
+secondary transformer and feeder level to prevent these overloads and extend the life
+of distribution assets.
+The economic value of optimizing charging for the distribution grid is
+well-documented. We draw the Commission’s attention to two key studies:
+Argonne National Lab (ANL): In an analysis of managed charging in Maryland,
+ANL and the Smart Energy Power Alliance (SEPA) estimated roughly $300 per
+EV-year in downstream distribution benefits alone by deferring necessary transformer
+and feeder upgrades.2
+The Brattle Group: A recent report found that annual utility system benefits from
+distribution-optimized managed charging could reach $400 per EV compared to
+unmanaged charging. Brattle also estimated $200 in annual distribution savings,
+specifically when comparing distribution-optimized active managed charging to
+TOU-based charging alone (such as R-EV-TOU).3
+Conclusion
+The economic and environmental benefits of these programs for DC households are
+clear. We respectfully request that the Commission approve Schedule R-EV-TOU and
+encourage Pepco to file for an SCM program in DC. We look forward to continued
+engagement and thank the Commission for consideration of these comments.
+Thank you,
+Cory Bullis
+/s/_Cory_Bullis
+Director, Energy & Environment Policy
+Alliance for Automotive Innovation
+cbullis@autosinnovate.org
+Amber Dorner
+/s/_Amber_Dorner
+Energy Policy Lead
+General Motors
+amber.dorner@gm.com
+2 Smart Energy Power Alliance, Exelon’s Managed Charging Program,
+https://sepapower.org/resource/exelons-managed-charging-program/
+3 Brattle Group, Demonstrating the Full Value of Managed Electric Vehicle Charging,
+https://www.brattle.com/wp-content/uploads/2026/01/Demonstrating-the-Full-Value-of-Managed-Elec
+tric-Vehicle-Charging.pdf
+2
+
+Zach Woogan
+/s/_Zach_Woogan
+Executive Director
+Vehicle-Grid Integration Council
+zwoogen@vgicouncil.org
+Bradley Harris
+/s/_Bradley_Harris
+Director, Policy and Regulatory Affairs
+WeaveGrid
+brad.harris@weavegrid.com
+The Alliance for Automotive Innovation represents the full auto industry value chain,
+including the manufacturers producing most vehicles sold in the U.S., equipment suppliers,
+battery producers, semiconductor makers, technology companies, and autonomous vehicle
+developers. Our mission is to work with policymakers to realize a cleaner, safer, and
+smarter transportation future and to ensure a healthy and competitive auto industry that
+supports U.S. economic and national security.
+General Motors LLC, headquartered in Detroit, MI, is a global automotive manufacturer
+leading the development of groundbreaking technologies that further its vision of zero
+crashes, zero emissions, and zero congestion. Our automotive operations meet the demands
+of our customers with vehicles developed, manufactured, and/or marketed under the Buick,
+Cadillac, Chevrolet, and GMC brands.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+vehicle-grid integration (“VGI”) through policy development, education, outreach, and
+research. VGIC supports the transition to a decarbonized transportation and electric sector
+by ensuring that the value of flexible EV charging and discharging is recognized and
+compensated, thereby achieving a more reliable, affordable, and efficient electric grid.
+WeaveGrid is a software company that helps utilities increase the adoption of electric
+vehicles and other distributed resources (e.g., residential batteries) through greater
+understanding of customer charging behaviors, managed charging programs, and
+distribution-level optimization.
+3

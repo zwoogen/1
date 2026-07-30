@@ -1,0 +1,452 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+05/21/26
+Order Instituting Rulemaking to Rulemaking 25-09-004
+04:59 PM
+Enhance Demand Response in (Filed September 18, 2025)
+R2509004
+California.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING SEEKING COMMENTS ON DEMAND
+RESPONSE STAFF PROPOSAL ON BRIDGE YEAR FUNDING AND MODIFYING
+THE SCHEDULE FOR THE BRIDGE YEAR FUNDING ISSUE
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (279) 895-7855
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: May 21, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 25-09-004
+Enhance Demand Response in (Filed September 18, 2025)
+California.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING SEEKING COMMENTS ON DEMAND
+RESPONSE STAFF PROPOSAL ON BRIDGE YEAR FUNDING AND MODIFYING
+THE SCHEDULE FOR THE BRIDGE YEAR FUNDING ISSUE
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Administrative Law Judge’s Ruling Seeking Comments on Demand
+Response Staff Proposal on Bridge Year Funding And Modifying The Schedule For The Bridge
+Year Funding Issue (“Ruling”), issued by Administrative Law Judge (“ALJ”) Brandon T. Gerstle
+on March 10, 2026, and the Administrative Law Judge’s Ruling Modifying Schedule on Bridge
+Year Funding Issue and Posing Supplemental Questions issued by ALJ Brandon T. Gerstle on
+April 8, 2026, which extended the comment deadline.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to respond to party proposals for Demand Response
+(“DR”) Bridge Funding for 2028-2029. These comments focus on the critical reliability value
+provided by the Emergency Load Reduction Program (“ELRP”), especially as California faces the
+likely sunset of other contingency reliability programs and the continued absence of durable
+market pathways for distributed energy resources (“DERs”), including bidirectional electric
+vehicle charging systems. ELRP remains one of the only programs capable of deploying and
+1
+
+scaling bidirectional charging systems at a meaningful scale while also supporting grid reliability
+during emergency conditions.
+ELRP does remain a pilot and should remain such during the 2028-2029 bridge years. In
+subsequent phases of this proceeding and during the next full DR application cycle, the
+Commission and stakeholders should consider how to transition ELRP from a pilot into a program
+or market-integrated pathway. Generally, VGIC believes that the Commission should come up
+with a comprehensive plan for making everyday use of California’s millions of DERs to support
+the grid on an ongoing basis in this proceeding.
+However, as California transitions toward longer-term market integration for DERs, bridge
+funding and program continuity are necessary to avoid disrupting emerging vehicle-grid
+integration (“VGI”) investments and reliability capabilities. In response to party opening
+comments, VGIC provides the following replies:
+• ELRP provides critical reliability value.
+• DR bridge years 2028-2029 should be considered as part of the 2023-2027 DR Application
+cycle.
+• ELRP Group A.5 compensation levels and minimum dispatch hours should remain as-is.
+VGIC has also attached its completed inputs for the spreadsheet shared by PG&E for the Joint
+Case Management Statement to these comments.
+II. ELRP PROVIDES CRITICAL RELIABILITY VALUE.
+ELRP should be extended as a critical grid reliability program, unique in its ability to add
+capacity during grid emergencies and help prevent them. California is at risk of losing several
+major contingency reliability resources over the next several years, including the potential sunset
+of the Demand Side Grid Support (“DSGS”) program and the sunset of once-through-cooling
+2
+
+plants in California’s Strategic Reliability Reserve.1 Without ELRP, there will be few remaining
+pathways for clean DERs, particularly bidirectional charging systems, to continue providing
+reliability value in this manner.
+The investor-owned utilities (“IOUs”) have already recognized the value of ELRP. Pacific
+Gas and Electric (“PG&E”) notes that “ELRP serves an important role as an emergency reliability
+tool during periods of extreme system grid stress.” 2 Southern California Edison (“SCE”) similarly
+outlines that ELRP “has consistently produced statistically significant load impacts since the pilot's
+launch in 2021.” 3 San Diego Gas and Electric (“SDG&E”) agrees and “recognizes that ELRP
+Groups A.4 and A.5 provide unique, verified, and dispatchable emergency load relief.” 4 This value
+has been particularly significant for SDG&E customers because SDG&E currently does not have
+any other residential demand response (“DR”) programs available to EV customers, including
+customers with managed charging and/or bidirectional charging systems.
+The Public Advocates Office at the California Public Utilities Commission (“Cal
+Advocates”) recommends that ELRP not be extended in its current form and instead argue that the
+program should either have its funding reduced or even sunset entirely.5 TURN states that funding
+should be reduced because the utilities have not spent their full ELRP budgets from 2023 to now.6
+However, this perspective ignores that ELRP is a pay-for-performance pilot and costs are only
+incurred when participants provide actual load reduction. The relative lack of spending during
+1 See Department of Water Resources, Electricity Supply Reliability Reserve Fund Progress Report, August
+1, 2025: https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Electricity-Supply-and-
+Strategic-Reserve-Office/DWR-August-2025-JLBC-Report-1212.pdf
+2 PG&E Opening Comments at 3.
+3 SCE Opening Comments at 15.
+4 SDG&E Opening Comments at 16.
+5 Cal Advocates Opening Comments at 6.
+6 TURN Opening Comments at 2-3.
+3
+
+2023 through 2025 largely reflects the absence of major Energy Emergency Alerts (“EEAs”) and
+severe grid stress events during this period, not a failure of the program itself. While Cal Advocates
+acknowledges that bulk grid emergencies have been less common in recent years, 7 relatively mild
+weather and grid conditions in recent summers are not indicative of future system conditions.
+In fact, the energy agencies have already shared expectations of higher-than-normal heat
+conditions, elevated wildfire risk, and low snowpack in 2026. 8 California currently does not
+anticipate reliability shortfalls this summer, in part because California still has approximately
+4,500 MW of contingency reliability resources available outside of the Resource Adequacy
+program. 9 Importantly, more than 3,000 MW of these resources are tied to three once-through-
+cooling (“OTC”) natural gas plants contracted with the California Department of Water Resources
+(“DWR”) in the Electricity Supply Strategic Reliability Reserve, whose contracts are expected to
+sunset at the end of this year alongside the expiration of current permits for these OTC facilities.10
+Meanwhile, DSGS, another key contingency reliability resource, may sunset in IOU territory.11 As
+a result, ELRP may become one of the few remaining out-of-market contingency reliability
+resources available during 2028 and 2029, and is likely to be the only major contingency
+program centered on clean, non-fossil DER resources.
+Importantly, the need for ELRP is not solely driven by reliability risk, but also by the
+continued absence of viable market pathways for DER exports, especially bidirectional charging
+systems. While market integration remains a valuable long-term goal to take advantage of grid
+7 Cal Advocates Opening Comments at 9.
+8 California Energy Commission, Summer Energy Reliability Workshop, May 4, 2026 at slides 4, 44, 104.
+Slides available at: https://www.energy.ca.gov/event/2026-05/summer-energy-reliability-workshop
+9 Ibid at slide 71.
+10 Ibid.
+11 See Trailer Bill Language: https://trailerbill.dof.ca.gov/public/trailerBill/pdf/1398
+4
+
+services from DERs, including EVs and bidirectional charging systems, there are still significant
+barriers to wholesale market participation, namely the lack of recognition and compensation for
+exports in CAISO’s Proxy Demand Response (“PDR”) model and, to a lesser extent, the feasibility
+of DER participation as a Non-Generating Resource (“NGR”). VGIC discussed these challenges
+in opening comments, but the lack of export compensation opportunities was also highlighted by
+the California Solar and Storage Association (“CALSSA”), Tesla, PG&E, and SDG&E.12 As
+summarized by SDG&E, “Existing DR programs do not compensate these resources for exporting
+energy in line with existing CAISO and resource adequacy rules […] Due to this lack of
+compensation, existing programs do not represent a viable replacement for ELRP for these
+technologies.” 13
+California is therefore at risk of dismantling one of its only scalable DER export pathways
+before replacement mechanisms are available. Enabling exports to participate in the CAISO
+wholesale market is currently being addressed by CAISO and should be discussed in this
+proceeding, but fully unlocking market participation will take time. Meanwhile, the Commission
+itself has repeatedly foregone opportunities to consider and adopt critical enhancements to
+resource adequacy valuation methodologies for behind-the-meter DERs, which could further
+incentivize DER participation in CAISO. As highlighted by PG&E, extending ELRP “provides
+continuity of emergency load-flexibility capabilities until successor programs or market-integrated
+mechanisms are available to meet this system need.” 14 Maintaining ELRP is therefore critical not
+12 CALSSA Opening Comments at 2; Tesla Opening Comments at 6; PG&E Opening Comments at 5-6;
+SDG&E Opening Comments at 15.
+13 SDG&E Opening Comments at 15.
+14 PG&E Opening Comments at 4.
+5
+
+only for near-term reliability, but also for preserving continuity for customers and aggregators
+investing in DERs, including bidirectional charging systems, that are only now beginning to scale.
+ELRP resources also have the potential to provide value beyond system-wide reliability
+emergencies. PG&E has noted that “ELRP batteries can meet emerging and multi-use grid needs,
+such as localized distribution needs,” 15 and proposes to “allow dispatch of the ELRP subgroups
+for system stress and localized needs outside of a CAISO emergency status, either as a fleet or as
+a subset of participants.” 16 VGIC supports allowing the utilities to dispatch ELRP resources
+outside of EEAs, both by maintaining utility discretion over dispatch to meet minimum dispatch
+hours and by expanding overall ELRP dispatch triggers to serve grid needs before official
+emergencies are declared. VGIC agrees with CALSSA that the Commission could consider high
+wholesale market prices, high temperatures, or high demand forecasts as additional dispatch
+triggers to ensure these resources contribute more consistently to grid reliability and system
+operations. 17 Notably, any dispatch of customer resources in response to utility signals, whether
+during CAISO emergencies or for localized needs, must be recognized and compensated.
+The reliability and operational value of ELRP is also likely to grow significantly in the
+coming years, especially for Group A.5 resources. In the near-term, all three IOUs have already
+noted increased customer interest in ELRP participation.18 For bidirectional charging systems in
+particular, deployments are only beginning to scale through programs such as PG&E’s V2X Pilots,
+which require ELRP participation for Phase 2 participants, and the California Energy
+Commission’s (“CEC”) Responsive, Easy Charging Products with Dynamic Signals
+15 PG&E Opening Comments at 5.
+16 PG&E Opening Comments at 5.
+17 CALSSA Opening Comments at 3.
+18 PG&E Opening Comments at 4; SCE Opening Comments at 14-15; SDG&E Opening Comments at 15.
+6
+
+(“REDWDS”) funding. California should therefore avoid scaling back the very programs needed
+to develop operational experience with bidirectional charging systems before durable long-term
+market structures are available.
+III. DR BRIDGE YEARS 2028-2029 SHOULD BE CONSIDERED AS PART OF THE
+2023-2027 DR APPLICATION CYCLE.
+In Opening Comments, SCE recommends that “2028-2029 DR bridge funding should be
+clarified as a continuation of the 2023-2027 program and funding cycle so that unspent 2023-2027
+cycle funding can be used to support DR programs and ELRP during the 2028-2029 bridge
+period.”19 VGIC strongly agrees that this is the most prudent path forward. Because the Staff
+Proposal and bridge funding structure largely extend existing programs with relatively minor
+modifications, it is reasonable to consider the bridge period as part of the existing DR funding
+cycle.
+Allowing rollover of unspent funds from the 2023-2027 cycle will also help preserve
+program continuity during a period of significant uncertainty and transition. As discussed by SCE,
+allowing for funding rollovers from the 2023-2027 cycle will ensure “continued financial health
+of program operations” due to inflation. 20 Rollover funding is also important because ELRP
+participation is likely to increase substantially during the bridge years, particularly if DSGS
+sunsets.
+It remains uncertain how many resources, including battery fleets and aggregated
+bidirectional charging systems, may transition from DSGS into ELRP and how this increased
+participation will impact available program funding. Allowing rollover funding will increase the
+19 SCE Opening Comments at 2.
+20 SCE Opening Comments at 5.
+7
+
+likelihood that sufficient funds remain available to support ELRP participation in 2028 and 2029,
+especially as deployments of bidirectional charging systems become more widespread. This also
+prevents IOUs from needing to request budget increases to ensure sufficient ELRP funding, which
+would likely occur before the 2023-2027 leftover funds are returned to ratepayers via the Energy
+Resource Recovery Account (ERRA) applications.21 Lastly, maintaining funding continuity during
+this transition period will also help avoid disrupting customer and aggregator investments in
+emerging VGI technologies before more permanent market structures are established.
+IV. ELRP GROUP A.5 COMPENSATION LEVELS AND MINIMUM DISPATCH
+HOURS SHOULD REMAIN AS-IS.
+In Opening Comments, some parties recommend modifying the structure of ELRP by
+either decreasing the minimum dispatch hours for Groups A.4 and A.5 or reducing ELRP
+compensation levels from $2/kWh to $1/kWh.22 Neither of these proposed changes should be
+applied to Group A.5, VGI aggregations, at this time. The current compensation structure and
+minimum dispatch hours remain necessary to support customer participation, preserve reliability
+value, and continue scaling bidirectional charging resources. As detailed below, these proposed
+modifications directly work against the program’s overall goals related to grid reliability, the
+market transition goals specific to customer group A.5, and the broader objectives of Senate Bill
+(“SB”) 676 and Decision (“D.”) 20-12-029.
+A. Compensation and Dispatch Certainty Are Necessary to Maintain Participation.
+21 SCE Opening Comments at 5.
+22 See PG&E Opening Comments at 4-5; Cal Advocates Opening Comments at 8 (VGIC notes that Cal
+Advocates recommends eliminating all minimum dispatch hours); SDG&E Opening Comments at 12
+(VGIC notes that SDG&E recommends reducing compensation to $1.50/kWh instead of $1/kWh).
+8
+
+As discussed by the Small Business Utility Advocates (“SBUA”), sufficient compensation
+levels and predictable dispatch opportunities are necessary to ensure that customers continue
+participating in ELRP.23 When Group A.5 was first established in D.21-12-015, the Commission
+outlined why it was important to include these resources in ELRP:
+“We acknowledge that the impact of including VGI aggregation under Group A.5 is
+uncertain, but we see the pilot as an opportunity to deploy and scale this resource,
+which will be critical in the coming years to ensure EVs can enhance reliability… We
+adopt minimum VGI dispatch hours of 30 hours per season as an incentive for customers
+to participate in the program since they would otherwise have no assurance of
+receiving compensation.” (emphasis added) 24
+This reasoning remains directly relevant today, particularly for bidirectional charging customers.
+ELRP remains the only major program currently available to deploy and scale bidirectional
+charging systems across California. As discussed by VGIC in opening comments, there are no
+other DR programs that meaningfully allow for bidirectional charging system participation and
+many existing export rate structures, including legacy Net Energy Metering (“NEM”), Net Billing
+Tariff (“NBT”), and some dynamic rate pilots, do not consistently credit bidirectional charging
+systems for exporting to the grid. Because of this, the determination made in D.23-12-005 to
+maintain the $2/kWh payment and 30-hour minimum dispatch hours because “the aggregators rely
+on minimum dispatch hours for revenue to exist,” 25 remains true today.
+Without these program structures, customers will be less likely to participate in ELRP and
+enrollment in the program could even decrease over time. If ELRP is extended with compensation
+that does not enable customer participation, then these resources will be left stranded and unable
+to provide reliability value. Additionally, the utilities are likely to continue spending their full
+23 SBUA Opening Comments at 9.
+24 D.21-12-015 at 39-40.
+25 D.23-12-005 at 42.
+9
+
+administrative budgets even with low enrollment, wasting ratepayer funds. On the other hand,
+higher ELRP enrollment and dispatch are likely to make the program more cost-effective and will
+provide valuable capacity to the state.
+B. Maintaining Dispatch Hours Will Improve Reliability and Policy Learning.
+Instead of reducing minimum dispatch hours, the Commission should expand ELRP
+dispatch opportunities beyond solely balancing authority EEAs as suggested by parties.26
+Expanding event triggers would allow ELRP resources to help prevent system emergencies before
+they occur while also unlocking additional reliability and operational value from these resources.
+As detailed in Section II above, VGIC agrees with PG&E that utilities should retain discretion to
+dispatch the ELRP fleet to address other grid needs, including local distribution constraints and
+localized system stress events. Expanding dispatch opportunities while maintaining or even
+increasing the 30-hour minimum dispatch requirement would also significantly improve the
+amount of operational data available to IOUs, the Commission, and other stakeholders from
+bidirectional charging systems, which, to date, has represented a gap in understanding of resource
+availability and customer behavior.
+With at least 30 hours of annual dispatch data from bidirectional charging systems,
+California will be able to develop a much more meaningful understanding of how these systems
+respond to DR signals and perform under varying grid conditions. This operational experience is
+critical because ELRP is fundamentally a pilot program intended to test new approaches for
+deploying bidirectional charging systems and other emerging DER technologies, and is currently
+26 PG&E Opening Comments at 5; CALSSA Opening Comments at 3; Leap Opening Comments at 7;
+Voltus Opening Comments at 5.
+10
+
+the only pilot available across all three IOU territories that assesses grid services provided
+by bidirectional charging systems. The results of ELRP will help inform future permanent
+programs and/or market integration pathways for these resources.
+Without minimum dispatch hours, ELRP may fail to generate sufficient operational
+experience and data to meaningfully inform future policy and market design for bidirectional
+charging systems. The Commission cannot risk leaving the 18.5 GW of bidirectional charging
+system capacity that the California Energy Commission, with support from the National
+Laboratory of the Rockies, finds could be tapped into, as vehicle sit idle 95% of the time,
+completely untapped for reliability and critical learning purposes.27 Maintaining the current
+dispatch structure will therefore maximize both the near-term reliability value and long-term
+policy value provided by these resources.
+V. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the Ruling. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: May 21, 2026
+27 CEC, A Roadmap to Unlocking the Benefits of Bidirectional Charging at p.3.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=268952&DocumentContentId=106145
+11
+
+Appendix A: PG&E Joint Case Management Table
+Stipulated
+Testimony
+Issues / Facts for Bridge Non- Stipulated
+Needed?
+Funding
+Bridge Period, Next DR Application, and
+Procedural
+The current DR application cycle funds IOU DR
+Yes No
+programs through the end of 2027.
+A two-year bridge period for 2028-2029 provides
+continuity of the DR portfolio until the next DR Yes No
+application.
+Minimizing the changes to the bridge period allows for
+Yes No
+expedient CPUC approval.
+Advice letters are an appropriate mechanism to
+continue to propose program modifications until the Yes No
+next DR Application is filed.
+Deferring the next DR Application cycle to 2030-2034
+allows time for enough EDROIR policy issues to be Yes No
+resolved for the next application cycle.
+The 2030-2034 DR Application should be filed on June
+30, 2028.
+The 2030-2034 DR Application should be filed between
+December 15, 2028 and January 1, 2029.
+The 2030-2034 DR Application should be filed on
+March 1, 2029, or tied to the issuance of final policy
+decisions.
+OP 64 of D.23-12-005 requiring the next DR
+Application to be filed on November 1, 2026, should be Yes No
+vacated.
+Cost Effectiveness and Societal Cost Test (SCT)
+The SCT is not available today in the DR Cost
+Yes No
+Effectiveness Tool to run on any bridge year proposals.
+Updating the DR Cost Effectiveness Tool will take
+more time than the current Bridge Period schedule Yes No
+allows.
+It is prudent to also update the DR Cost Effectiveness
+Tool for 2026 ACC values, recalculate the A-factor,
+and update the energy value, as described in the IOUs'
+opening comments.
+A budget of $135,000 across the three IOUs to update
+the DR Cost Effectiveness Tool is appropriate.
+DR Cost Effectiveness should be run for the bridge
+No No
+years with the SCT, including ELRP.
+DR Cost Effectiveness should be run for the bridge
+No No
+years without the SCT, including ELRP.
+Staff Proposal's Recommendation to Eliminate
+Category 5 Pilots, Closing the Emergency Load
+Reduction Program (ELRP) Pilot
+12
+
+Stipulated
+Testimony
+Issues / Facts for Bridge Non- Stipulated
+Needed?
+Funding
+Eliminating Category 5 Pilots and closing ELRP is
+No No
+prudent.
+Retaining Category 5 Pilots and extending ELRP
+Yes No
+through the Bridge Period is prudent.
+Modifying ELRP to close subgroups A2, A3, B1, and
+B2, and keeping subgroups A1, A4, and A5 is Yes No
+appropriate.
+Reducing ELRP incentive levels reduces program
+No No
+costs.
+Increasing ELRP incentive levels are necessary. No No
+Reducing minimum dispatch requirement reduces
+No No
+program costs.
+Increasing minimum dispatch requirement is
+No No
+necessary.
+Increasing dispatch triggers increases program
+Yes No
+benefits.
+Increasing event hours is necessary. Yes No
+Testing market integration is reasonable to consider at
+Yes No
+this time.
+Prohibited resources policy should be modified for
+ELRP at this time.
+ELRP enrollment processes should be modified at this
+Yes No
+time.
+ELRP should transition to statewide administration
+No No
+during the Bridge Period.
+ELRP dual participation should be modified at this
+No No
+time.
+ELRP should be sunset on December 31, 2029. No No
+Non-Category 5 Budgets
+Authorize annual budgets at the same level as 2027.
+Authorize increases to annual budgets.
+Authorize decreases to annual budgets. No No
+CBP incentives and triggers should be updated.
+DRET funding should be increased.
+BIP incentives should be increased.
+Cost Recovery Mechanisms
+Authorize IOUs to carry over unspent prior-period
+Yes No
+funds into bridge years.
+Authorize IOUs to return unspent funds and authorize
+No No
+new funds for the bridge years.
+Other
+The Staff Proposal on Guiding Principles should be
+No No
+applied to the Bridge Period.
+Evidentiary hearings should be waived. Yes No
+13
+
+Stipulated
+Testimony
+Issues / Facts for Bridge Non- Stipulated
+Needed?
+Funding
+Evidentiary hearings are needed. No No
+Briefs should be waived. No No
+Briefs are needed. Yes No
+VGIC Additional Issues - ELRP Modifications
+Removing the requirement that ELRP Group A.5
+resources participating via submetering pathways use
+only the Plug-in EV Submetering Protocol will remove Yes No
+barriers to participation and align submetering
+treatment between Groups A.4 and A.5.
+Reserving modest funding specifically for ELRP Group
+A.5 will ensure that VGI resources are not left
+Yes No
+untapped and instead contribute to California's grid
+needs.
+14

@@ -1,0 +1,58 @@
+Bidirectional EV Interconnection Process (VGIC suggested edits, May 2026) Commented [ZW1]: VGIC recommends this language
+instead of "V2X, V2G, V2H," which do not have standard
+definitions.
+Commented [ZW2]: VGIC recommends drawing a
+It is the position of the EDCs that electric vehicle charging systems operating in with distinction here between DC and AC bidirectional
+bidirectional capabilitiesmode, commonly referred to as V2X, V2G, V2H, and any other charging systems.
+terminology referring to export of power from a vehicle to a while grid- connected load and DC bidirectional charging systems adhere to IEEE 1547-
+operated in parallel with a power source provided by the utility, will be treated as any other 2018 via UL 1741 SB certification.
+inverter-based battery interconnections as defined in those guidelines within this AC bidirectional charging systems meet IEEE 1547-2018
+through one of two pathways:
+document, except for the following provisions.:
+1. UL 1741 SB CRD for DER Systems. The vehicle and
+- Bidirectional charging systems with an inverter external to the vehicle, referred charger are certified as a single system.
+to as DC Bidirectional Charging Systems, and subject to the guidelines for
+2. UL 1741 SC. The vehicle is designed to SAE J3072, and
+inverter-based battery interconnection within this document with the exception the UL 1741 SC-certified charger acts as a gatekeeper
+that the equipment shall be certified to UL1741 Supplement SBC at such time executing all relevant oversight functions to ensure IEEE
+1547-2018 is met.
+this standard in released, and UL9741 Standard for Safety of Electric Vehicle
+Commented [ZW3]: i.e., "electric vehicle charging
+Power Export Equipment (EVPE) . systems operating in bidirectional mode while grid-
+connected and operated in parallel with a power source
+- Bidirectional charging systems with on-board inverter functions in the electric
+provided by the utility"
+vehicle, referred to as AC Bidirectional Charging Systems, and subject to the
+Commented [ZW4]: UL 1741 SB is applicable to DC
+guidelines for inverter-based battery interconnection within this document, Bidirectional Charging Systems.
+must either: Commented [ZW5]: Other jurisdictions that have
+clarified or modified interconnection rules to consider
+o (a) bBe certified as a DER System through the relevant UL 1741 SB bidirectional charging systems have required UL 1741,
+Certification Requirement Decision (CRD), or; but not UL 9741. See, for example, California's Rule 21.
+Maryland's COMAR 20.50.02. NV Energy's proposed
+o (b) Use an EV charging station throughcertified to UL 1741 SC. Theseis interconnection rules update. NY SIR.
+requirements isare in addition to compliance with Supplements SA and
+This is because UL 9741 is for one piece of equipment
+SB otherwise required in these Guidelines for ESS. that performs both functions of a UL 1741 Grid Support
+Inverter and an EV charger. However, some systems may
+have separate pieces of equipment. E.g., an EVSE
+wallbox that is a separate piece of equipment from an
+inverter wallbox.
+Commented [ZW6]: i.e., "electric vehicle charging
+Special Note: systems operating in bidirectional mode while grid-
+connected and operated in parallel with a power source
+provided by the utility"
+If the bidirectional charger is integral to the vehicle itself, the vehicle will not be permitted
+Commented [ZW7]: Using the UL 1741 SB CRD for DER
+to export to the grid, or offset a load connected in parallel with a grid source of power at
+Systems, UL addresses and certifies the grid
+any location other than the point of interconnection with Municipal approval, a meter interconnection and support functionality directly at the
+EV. This pathway is best suited for specific installation
+change when required, and the Permission to Operate documentation. Any material sites with specific EV and EVSE combinations.
+modifications to, or replacement of, bi-directional charging equipment will be subject to Commented [ZW8]: VGIC recommends removing this,
+the requirements as otherwise referenced within these Guidelines. as it is already covered in the above. i.e., DC systems
+meet UL 1741 SB. AC systems either meet UL 1741 SB via
+CRD or meet UL 1741 SC, which builds on UL 1741 SB by
+situating the EVSE as a gatekeeper which only authorizes
+bidirectional charging from SAE J3072 compatible
+vehicles.

@@ -1,0 +1,74 @@
+July 29, 2026
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138 – Proceeding on Motion of the Commission Regarding Electric Vehicle
+Supply Equipment and Infrastructure
+Notice of Errata
+The Vehicle-Grid Integration Council (“VGIC”) submits this Notice of Errata to correct and
+replace a paragraph appearing on pages 5–6 of its July 17, 2026 comments concerning the
+tradeoffs of OEM-authorized and customer-authorized telematics pathways.
+Upon further review, VGIC determined that several statements were inaccurate, namely that we
+had mischaracterized the findings of the cited Technical Standards Working Group Report
+Addressing Electric Vehicle Supply Equipment and Telematics Accuracy and conflated these
+findings with the related Methodology for Testing the Accuracy of Data Collected from Managed
+Charging Enabling Technologies report created by EPRI and filed by the Joint Utilities in
+September 2024. The TSWG Report did not compare OEM-authorized and customer-credential-
+based pathways. The original language does not accurately reflect the evidence available to
+VGIC.
+VGIC therefore deletes the paragraph beginning “These tradeoffs include the benefits and costs
+of OEM-authorized telematics,” appearing on pages 5–6 of its July 17, 2026 comments, and
+replaces it in its entirety with the following:
+“These tradeoffs include the benefits and costs of OEM-authorized telematics vs
+customer-authorized telematics. These approaches may be suitable for different use cases,
+depending on the access to and fidelity of the collected data. As such, the JU and
+Commission should continue detailing the appropriate use cases and tradeoffs for OEM-
+authorized telematics vs customer-authorized telematics. Although there is some
+variation among them, OEM-authorized telematics are generally based on defined data
+schemas, data collection methods, and error-handling expectations. Customer-authorized
+telematics rely on customer credentials and endpoints designed to leverage existing
+consumer apps. Both pathways share commonalities, as detailed in the Technical
+Standards Working Group Report Addressing Electric Vehicle Supply Equipment and
+Telematics Accuracy (TSWG Report), filed September 2, 2025. First, both pathways
+leverage the same underlying telematics data sources, though they may be structured
+1
+
+differently. Second, the vehicle telematics data sources, in general, were not historically
+purpose-built to support managed charging programs or utility use cases. Third, it is
+clearly possible to address certain errors or gaps in the underlying telematics data by
+processing it to make it suitable for use in a managed charging program or utility use
+cases.”
+“These tradeoffs include the benefits and costs of OEM-authorized telematics vs
+customer-credential-based telematics. These approaches may be suitable for different use
+cases, depending on the access to and fidelity of the collected data, as well as the
+functionality, security, and operational requirements of the program. As such, the JU and
+Commission should continue detailing the appropriate use cases and tradeoffs for OEM-
+authorized telematics vs customer-credential-based telematics. Although there is some
+variation among them, OEM-authorized telematics are generally based on defined data
+schemas, access permissions, data collection methods, error-handling expectations, and
+change-management processes. Customer-credential-based telematics rely on customer
+credentials and endpoints designed to leverage existing consumer apps. The Methodology
+for Testing the Accuracy of Data Collected from Managed Charging Enabling
+Technologies (EPRI Report), filed September 12, 2024, evaluated both “OEM-provided”
+and “third-party hosted” telematics data, but did not compare OEM-authorized and
+customer-credential-based access models. The EPRI Report found that telematics
+performance may vary based on factors including measurement methods, session
+duration, auxiliary loads, and provider-applied adjustments.1 Additionally, it is clear to
+VGIC based on the data in the EPRI Report that it is possible to address certain errors or
+gaps in the underlying telematics data by processing it to make it suitable for use in a
+managed charging program or utility use cases.2”
+Except as corrected above, VGIC’s July 17, 2026 comments remain unchanged.
+Respectfully submitted,
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+vgiregulatory@vgicouncil.org
+1 Methodology for Testing the Accuracy of Data Collected from Managed Charging Enabling Technologies. EPRI.
+2024. Page 9. https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70B1E691-0000-C92C-
+882F-08E29400DA77}&DocTitle=JU%20TATF%20Report%2009-12-2024
+2 For example, the “telematics provider” for at least one of the three vehicles tested in the TSWG EPRI Report
+reported a of “compensation” to account for “upstream losses and utilization specific for this EV.” See EPRI Report
+at 12-14.
+2

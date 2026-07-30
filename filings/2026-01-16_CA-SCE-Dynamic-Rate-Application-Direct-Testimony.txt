@@ -1,0 +1,855 @@
+Docket No.: A.24-06-014, A.24-12-008
+Exhibit No.: VGIC-01
+Date: January 16, 2026
+Witness: Zach Woogen
+DIRECT TESTIMONY OF ZACH WOOGEN
+ON BEHALF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+
+Table of Contents
+I. INTRODUCTION ................................................................................................................................... 1
+II. BACKGROUND ON CURRENT AND FUTURE POTENTIAL FOR FLEXIBLE EV CUSTOMERS
+TO SUPPORT RATEPAYER AFFORDABILITY GOALS AS WELL AS GRID RELIABILITY
+DURING NET PEAK LOAD HOURS. ...................................................................................................... 3
+III. DYNAMIC EXPORT CREDITS...................................................................................................... 14
+IV. CONCLUSION ................................................................................................................................. 30
+Attachment A – CV of Zach Woogen
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Zach Woogen. I am the Executive Director for the Vehicle-Grid Integration
+4 Council (“VGIC”). My business address is 1401 21st St, Suite 5409, Sacramento,
+5 California 95811.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of VGIC.
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to a
+12 decarbonized transportation and electric sector by ensuring the value from flexible EV
+13 charging and discharging is recognized and compensated in support of a more reliable,
+14 affordable, and efficient electric grid.
+15 Q. Who are VGIC’s current members?
+16 A. VGIC’s members include Ford Motor Company, General Motors, American Honda
+17 Motor Company, Nissan Group of North America, Bidirectional Energy, BMW,
+18 BodeEV, ChargePoint, ChargeScape, Codibly, Critical Loop, dcbel, Eaton, Emporia,
+19 EnergyHub, ev.energy, Fermata Energy, Gravity, Kaluza, LG Innotek, Mercedes-Benz,
+20 Orange Charger, Rivian, Sunrun, SWTCH, Tesla, The Mobility House, Toyota Motors
+21 North America, UL Solutions, WeaveGrid, Clean Power Alliance, Los Angeles
+1
+
+1 Department of Water & Power, MCE, San Diego Community Power, and Sacramento
+2 Municipal Utility District.1
+3 Q. Please summarize your professional background and qualifications.
+4 A. I am the Executive Director of VGIC, where my primary responsibilities include
+5 managing policy advocacy and regulatory engagement, directing research and education
+6 initiatives, and overseeing the day-to-day functions of the organization. VGIC’s team is
+7 globally recognized for its expertise on VGI topics, including issues related to managed
+8 EV charging platforms, bidirectional EV charging solutions, and EV charging
+9 technologies deployed alongside other distributed energy resources. Before joining VGIC
+10 in 2024, I was a Senior Manager within Strategen’s consulting practice, where my
+11 responsibilities included managing the VGIC, which, at the time, was one of the firm’s
+12 clients. I also led Strategen’s other projects within its VGI practice and managed or
+13 supported projects for numerous client engagements related to utility integrated resource
+14 planning, renewable energy project development, energy storage technology assessment,
+15 utility rate design and program design, and utility business model innovation. I have a
+16 Bachelor of Science degree in Environmental Economics and Policy from the University
+17 of California, Berkeley.
+18 Q. What is the purpose of your testimony?
+19 A. The purpose of my testimony is to respond to Southern California Edison’s (“SCE”)
+20 proposal for a dynamic rate compliant with the California Energy Commission’s (“CEC”)
+21 Load Management Standards (“LMS”). Specifically, I detail the immense potential of EV
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+2
+
+1 customers to support the grid through VGI solutions and illustrate options for SCE to
+2 enhance its current proposal to more fully unlock the grid value of EVs.
+3
+4 II. BACKGROUND ON CURRENT AND FUTURE POTENTIAL FOR FLEXIBLE
+5 EV CUSTOMERS TO SUPPORT RATEPAYER AFFORDABILITY GOALS AS
+6 WELL AS GRID RELIABILITY DURING NET PEAK LOAD HOURS.
+7 Q. How can EVs contribute to supporting California’s electricity grid and meet the
+8 state’s near and long-term goals?
+9 A. EVs are currently underutilized as a battery energy storage resource and represent
+10 untapped potential to support the integration of renewable energy and mitigate upward
+11 rate pressure for all customers. As such, VGI efforts broadly represent a significant
+12 opportunity to both advance the VGI industry and deliver much-needed grid benefits.
+13 There is no doubt that EVs on the road today, plus those that will be in SCE service
+14 territory by the CEC LMS-specified 2027 implementation date, have the technical
+15 capability to meaningfully support the needs of SCE and its ratepayers through thoughtful
+16 integration with the grid. EVs are already providing meaningful support to the grid by
+17 shifting charging to off-peak times or times of high solar supply through dynamic grid
+18 signals that are in place today.2
+19 Q. How can EVs support affordability for all ratepayers – not just EV drivers – and
+20 support system reliability?
+2 See ev.energy, Dynamic Pricing Outperforms Time-of-Use in California EV Charging Pilot with 98% Energy
+Delivered Off-Peak, June 02, 2025. https://www.ev.energy/en-us/blog/dynamic-pricing-outperforms-time-of-use-in-
+california-ev-charging-pilot-with-98-energy-delivered-off-peak. Customers also respond to dynamic signals via
+managed charging programs, see Smart Electric Power Alliance, The State of Managed Charging in 2024,
+September 2024 at p.31. https://sepapower.org/wp-content/uploads/2024/08/SEPA-State-of-Managed-Charging-
+2024-Report_print.pdf
+3
+
+1 A. EVs, if provided with appropriate price or dispatch signals, can reduce costs to all
+2 ratepayers, including EV owners and non-EV customers. By supporting the more
+3 efficient use of existing grid infrastructure and accelerating transportation electrification
+4 (and the resulting kWh sales), average rates for all customers can be lower than they
+5 would be without effective VGI strategies. Furthermore, EVs can meaningfully reduce
+6 net peak load through both managed charging and bidirectional charging. This is a critical
+7 benefit of VGI, considering California faces increasingly common extreme weather
+8 events and the resulting emergency reliability conditions.
+9 Regarding affordability, in SCE’s Draft Electrification Impact Study (“EIS”) Part 2, it is
+10 estimated that $1.38 billion in ratepayer savings can be unlocked through demand
+11 flexibility.3 A significant portion of this flexibility is expected to come from EVs. Other
+12 studies in California corroborate the benefits of EVs. Pacific Gas and Electric (“PG&E”)
+13 provides more specific impacts from VGI in its EIS Part 2, showing that EVs provide
+14 two-thirds of all load flexibility in its Enhanced Demand Flexibility scenario, including
+15 30% from bidirectional EV discharge.4 Additionally, outside the EIS Part 2 studies,
+16 Public Advocates Office at the California Public Utilities Commission (“Cal Advocates”)
+17 released its Distribution Grid Electrification Model 2025 report, which further
+18 emphasizes the benefits of leveraging EVs as a load flexibility tool. Cal Advocates finds
+3 SCE Draft EIS Part 2 at p.5, filed October 31, 2025 in Rulemaking (“R.”) 21-06-017.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M585/K820/585820156.PDF
+4 PG&E Draft EIS Part 2 at p.32, filed October 31, 2025 in Rulemaking (“R.”) 21-06-017.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M585/K834/585834115.PDF
+4
+
+1 that shifting EV charging to manage load on distribution circuits can provide between $5
+2 billion and $18 billion in cost savings by 2040 across investor-owned utility territories.5
+3 Regarding reliability, EVs have immense potential to support the grid during peak
+4 periods. The Commission’s Integrated Resource Planning (“IRP”) Draft Inputs and
+5 Assumptions (“I&A”) considers the reliability contributions of EVs. The Commission
+6 assumes that a modest 9 – 20% of residential EV customers and 9.4% of commercial EV
+7 customers are using unidirectional managed charging strategies, including but not limited
+8 to, dynamic rates.6 Even at these levels of enrollment, over 10,000 MW of unidirectional
+9 managed charging capacity can be unlocked by 2030 and 45,500 MW of capacity can be
+10 unlocked by 2045.7 While bidirectional charging capabilities are modeled to have a
+11 slower uptake, due in part to the limited opportunities for these systems to receive export
+12 credits under current Commission-authorized rates and programs, the Commission
+13 estimates that over 13,500 MW of additional capacity, beyond what would be offered by
+14 managed charging, could be provided by bidirectional charging systems in 2045.8
+15 These studies demonstrate significant value from VGI strategies and investments in
+16 California. Offering optional dynamic rates is a critical lever for unlocking widespread
+17 grid support from EVs, and SCE should have a sufficiently compelling yet
+5 Cal Advocates, Distribution Grid Electrification Model 2025 at p.83.
+https://www.publicadvocates.cpuc.ca.gov/press-room/reports-and-analyses/distribution-grid-electrification-model-
+2025
+6 California Public Utilities Commission (“CPUC”), Draft Inputs & Assumptions, 2024 – 2026 Integrated Resource
+Planning (IRP) at p.108-109. https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-
+division/documents/integrated-resource-plan-and-long-term-procurement-plan-irp-ltpp/2024-2026-irp-cycle-events-
+and-materials/2025_draft_inputs_and_assumptions_doc_20250220.pdf
+7 Ibid at p.111.
+8 Ibid.
+5
+
+1 comprehensible rate design that encourages customer participation and attracts sufficient
+2 investment from vendors and service providers devoted to ensuring customer success.
+3 Q. Can EVs provide a meaningful contribution to the grid not only by shifting charging
+4 load, but also by using bidirectional charging systems to draw power from the
+5 vehicle battery?
+6 A. Yes. VGIC is confident that widespread EV exports can become a reality alongside
+7 optimized load-only charging. Sophisticated customers and qualified automation service
+8 providers (“ASPs”) could contribute EV exports to the grid in a manner responsive to
+9 near-real-time grid conditions, delivered through dynamic grid signals.9 We are
+10 encouraged by SCE’s 2023 customer surveys, detailed in its 2023 General Rate Case
+11 Phase 2, which provide empirical evidence of customer acceptance and appetite for “V2G
+12 energy exports,” with 81% of SCE’s surveyed customers expressing at least “a little
+13 interested.”10
+14 We are also encouraged by the June 2025 study Harnessing the Power of Electric
+15 Vehicles: Vehicle-Grid Integration for a Cleaner, Cheaper, More Reliable California
+16 Electricity System, demonstrating that unidirectional managed charging can save $4.2
+17 billion of system costs by 2045, with bidirectional charging capability unlocking an
+9 For example, PG&E offers a Vehicle-to-Everything Pilot that specifically targets bidirectional EV customers and
+encourages them to enroll in PG&E’s Hourly Flex Pricing dynamic rate pilot. See more information at:
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-
+v2x-pilot-programs.html#hourly-flex-pricing
+The New Hampshire Electric Cooperative has also piloted a transactive energy rate with hourly day-ahead prices
+that were communicated to customers. See more information at: https://s3.us-east-1.amazonaws.com/fonteva-
+customer-
+media/00Do0000000Yi66EAC/qmhhIjxG_SEPA_Case_Study_Plymouth_SU_NHEC_State_of_Bidirectional_Char
+ging_pdf
+10 SCE, Phase 2 of 2025 General Rate Case Amended Rate Design Proposals (SCE-04A) at p. 125, lines 10-16,
+served to A.24-03-019 on August 26, 2024.
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7663/538693971.pdf
+6
+
+1 additional $3.5 billion even at a modest 12.5% participation rate in bidirectional charging
+2 activities (and a 50% participation rate in unidirectional charging activities). Increasing
+3 bidirectional charging activities to 25% enrollment yields a 60% increase in benefits
+4 compared to exclusively unidirectional charging future.11
+5 Notably, unlike power plants with a singular function, the primary role of EVs is to
+6 support customers’ transportation needs, not to improve grid affordability, reliability, or
+7 decarbonization metrics. As such, to be successful, any efforts to unlock bidirectional
+8 charging systems for grid support should be designed with the customer's perspective
+9 first and foremost. VGIC believes this can and should be achieved. Practically, this
+10 requires rates or programs that (1) fairly and transparently credit customers for net
+11 exports to the grid, (2) provide a reasonable payback period on the upfront investments
+12 needed to purchase, install, and interconnect bidirectional charging systems to the grid,
+13 and (3) signal a degree of certainty about the existence of the rate or program so
+14 customers can make investments without fear of a value proposition suddenly
+15 disappearing.
+16 Since this is a novel type of grid resource, any incremental grid participation from
+17 bidirectional charging systems (even if small relative to load-only EV customers) will
+18 yield meaningful lessons learned to inform future scaling efforts envisioned by
+19 stakeholders, for example in the IRP I&A. Additionally, efforts to advance the beneficial
+20 use of bidirectional charging systems are fundamentally consistent with and supportive of
+11 Samantha Houston, David Reichmuth, and Mark Specht. Harnessing the Power of Electric Vehicles: Vehicle-Grid
+Integration for a Cleaner, Cheaper, More Reliable California Electricity System. June 2025. Union of Concerned
+Scientists. https://doi.org/10.47923/2025.15888. Accessed January 13, 2026.
+7
+
+1 Senate Bill 676 (Bradford, 2020), which aims to maximize feasible and cost-effective
+2 VGI by 2030.12
+3 Q. Is there a significant amount of EV and EV supply equipment (“EVSE”) available
+4 today that can already support bidirectional charging?
+5 A. Yes, although it is less widespread than unidirectional managed charging capabilities, a
+6 meaningful portion of EVs deployed today are accompanied by active marketing of
+7 bidirectional charging features. The most significant sources of EV export potential today
+8 are light-duty passenger EVs and electric school buses. As of the end of 2025, the
+9 bidirectional EV and EVSE solutions detailed in Table 1 below are available for
+10 customers and site developers.13
+11 Table 1. EV and EVSE on California’s roads that can be enabled to operate in bidirectional
+12 mode, and forthcoming bidirectional charging EV and EVSE:
+Product Notes Estimated Amount
+Already Deployed in
+California
+Nissan LEAF - MY 2013 or later. 54,304 total registered
+- Bidirectional charging enabled from 2013 through Q3
+with dcbel Ara.14 2025.15
+12 SB 676 Transportation electrification: electric vehicles: grid integration. Bradford (S). October 2, 2019.
+https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200SB676
+13 Product capabilities, certifications, and model-year availability are subject to change; table reflects publicly
+available information as of January 13, 2026.
+14 dcbel, California Energy Commission. California Connected Home Rebate. Accessed January 13, 2026.
+https://redwds.dcbel.energy/
+15 California Energy Commission (2026). New_ZEV_Sales_updated_10-13-2025_ada.xlsx. ZEV and Infrastructure
+Stats Data. Data last updated October 13, 2025. Retrieved January 16, 2026 from
+https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+8
+
+Ford F-150 Lightning Electric - Bidirectional charging enabled Estimated 35,877 total
+with Ford Charge Station Pro.16 delivered through Q4
+2025.17
+Chevrolet Bolt EV - MY 2027. Estimated 0 delivered
+- Bidirectional charging enabled through 2025.19
+with GM Energy PowerShift.18
+Chevrolet Silverado EV - MY 2024, 2025, and 2026. Estimated 6,865 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.20
+Chevrolet Equinox EV - MY 2024, 2025, and 2026. Estimated 31,098 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.21
+16 Bill Crider. Your Next Side Hustle Might Come from Your Parked Electric Vehicle. Ford From the Road. October
+28, 2025. https://www.fromtheroad.ford.com/us/en/articles/2025/introducing-ford-home-power-management
+17 Ford. Q4 2025 Sales Release. https://s205.q4cdn.com/882619693/files/doc_news/2026/Jan/06/Ford-U-S-Q4-
+2025-Sales-Release.pdf. Q4 2024 Sales Release
+https://s205.q4cdn.com/882619693/files/doc_news/2025/Jan/03/Ford-U-S-Q4-2024-Sales-Release.pdf. Q4 2023
+Sales Release. https://s205.q4cdn.com/882619693/files/doc_news/2024/Jan/04/q4-2023-sales-final.pdf. YTD 2022,
+2023, 2024, and 2025 Ford F-150 Lightning deliveries total 100,149. Assumes California comprises 35.82% of all
+vehicle deliveries, based on Veloz’s California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA
+EV sales and 6,889,728 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+18 GM Energy. V2H-Capable GM EVs. Accessed January 13, 2026. https://gmenergy.gm.com/
+19 Jameson Dow. The new $29k 2027 Chevy Bolt is now in dealerships, get it before it’s gone again. January 9,
+2026. https://electrek.co/2026/01/09/the-refreshed-2027-chevy-bolt-is-hitting-dealerships-get-it-before-its-gone-
+again/
+20 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-
+4a6e-82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-
+aaf9-4141-b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s
+California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV
+Sales. https://www.veloz.org/ev-market-report/
+21 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-
+4a6e-82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-
+aaf9-4141-b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s
+California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV
+Sales. https://www.veloz.org/ev-market-report/
+9
+
+Chevrolet Blazer EV - MY 2024, 2025, and 2026. Estimated 16,561 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.22
+GMC Hummer EV SUT - MY 2026. Estimated 5,655 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.23
+GMC Sierra EV - MY 2024, 2025, and 2026. Estimated 3,505 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.24
+Cadillac CELESTIQ - MY 2026. Estimated very few.
+- Bidirectional charging enabled CELESTIQ first delivered
+with GM Energy PowerShift. in mid-2025.25
+Cadillac VISTIQ - MY 2026. Estimated 2,822 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.26
+22 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-
+4a6e-82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-
+aaf9-4141-b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s
+California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV
+Sales. https://www.veloz.org/ev-market-report/
+23 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-
+4a6e-82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-
+aaf9-4141-b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s
+California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV
+Sales. https://www.veloz.org/ev-market-report/
+24 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-
+4a6e-82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-
+aaf9-4141-b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s
+California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV
+Sales. https://www.veloz.org/ev-market-report/
+25 GM News. First Cadillac CELESTIQ delivered, marking a new era for the Standard of the World. June 24, 2025.
+https://news.gm.com/home.detail.html/Pages/topic/us/en/2025/jun/0624-First-Cadillac-CELESTIQ-delivered.html
+26 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-
+4a6e-82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-
+aaf9-4141-b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s
+California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV
+Sales. https://www.veloz.org/ev-market-report/
+10
+
+Cadillac ESCALADE IQ - MY 2025 and 2026. Estimated 3,146 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.27
+Cadillac OPTIQ - MY 2025 and 2026. Estimated 4,365 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.28
+Cadillac LYRIQ - MY 2024, 2025, and 2026. Estimated 20,964 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.29
+Tesla Cybertruck - Bidirectional charging enabled 14,360 total registered
+with Tesla Universal Wall through Q3 2025.31
+Connector.30
+Kia EV9 - Bidirectional charging enabled Estimated 13,277 total
+with Wallbox Quasar 2.32 delivered through Q4
+2025.33
+27 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-
+4a6e-82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-
+aaf9-4141-b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s
+California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV
+Sales. https://www.veloz.org/ev-market-report/
+28 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-
+4a6e-82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-
+aaf9-4141-b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s
+California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV
+Sales. https://www.veloz.org/ev-market-report/
+29 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-
+4a6e-82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-
+aaf9-4141-b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s
+California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV
+Sales. https://www.veloz.org/ev-market-report/
+30 Tesla. Powershare. Accessed January 13, 2026. https://www.tesla.com/powershare
+31 California Energy Commission (2026). New_ZEV_Sales_updated_10-13-2025_ada.xlsx. ZEV and Infrastructure
+Stats Data. Data last updated October 13, 2025. Retrieved January 16, 2026 from
+https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+32 Kia EV9 x Wallbox Quasar 2. Accessed January 13, 2026. https://wallbox.com/en_us/kia-ev9-quasar-2
+33 Best-Selling Cars. 2025 (Full Year) USA: Kia America US Car Sales by Model. https://www.best-selling-
+cars.com/usa/2025-full-year-usa-kia-america-us-car-sales-by-model/. Assumes California comprises 35.82% of all
+vehicle deliveries, based on Veloz’s California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA
+EV sales and 6,889,728 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+11
+
+Volvo EX90 - Bidirectional charging enabled Estimated 1,708 total
+with dcbel Ara.34 delivered through Q4
+2025.35
+Polestar 3 - Bidirectional charging enabled 958 total registered
+with dcbel Ara.36 through Q3 2025.37
+BlueBird - 155 kWh or 196 kWh school 915 through Q4 2024.39
+buses38
+BYD / RIDE - 156 kWh, 230 kWh, or 288 127 through Q4 2024.41
+kWh school buses40
+IC Bus - 210 kWh or 315 kWh school 731 through Q4 2024.43
+buses42
+34 dcbel, California Energy Commission. California Connected Home Rebate. Accessed January 13, 2026.
+https://redwds.dcbel.energy/
+35 Volvo Cars. Sales Volumes: United States – Retail Sales by Car Model – December 2025. Accessed January 16,
+2026. https://www.volvocars.com/us/media/corporate/sales-volumes/. Assumes California comprises 35.82% of all
+vehicle deliveries, based on Veloz’s California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA
+EV sales and 6,889,728 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+36 dcbel, California Energy Commission. California Connected Home Rebate. Accessed January 13, 2026.
+https://redwds.dcbel.energy/
+37 California Energy Commission (2026). New_ZEV_Sales_updated_10-13-2025_ada.xlsx. ZEV and Infrastructure
+Stats Data. Data last updated October 13, 2025. Retrieved January 16, 2026 from
+https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+38 BusinessWire. Blue Bird Receives Record Order of 180 Electric School Buses. January 16, 2024.
+https://www.businesswire.com/news/home/20240116715215/en/Blue-Bird-Receives-Record-Order-of-180-Electric-
+School-Buses
+39 California Energy Commission (2026). Medium_Heavy_Duty_Vehicle_Population_Last_updated_04-30-
+2025_ada.xlsx. ZEV and Infrastructure Stats Data. Data last updated April 30, 2025. Retrieved January 16, 2026
+from https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+40 PG&E. Vehicle-to-Everything (V2X) pilot program: Eligible Product List for the V2X Commercial Pilot.
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-
+v2x-pilot-programs.html. Retrieved January 13, 2026.
+41 California Energy Commission (2026). Medium_Heavy_Duty_Vehicle_Population_Last_updated_04-30-
+2025_ada.xlsx. ZEV and Infrastructure Stats Data. Data last updated April 30, 2025. Retrieved January 16, 2026
+from https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+42 IC Bus. Electric CE Series School Bus. https://www.icbus.com/-
+/media/Project/Navistar/ICBus/ICBus/electric_ce_series_brochure_spread_format.pdf. Retrieved January 7, 2025.
+43 California Energy Commission (2026). Medium_Heavy_Duty_Vehicle_Population_Last_updated_04-30-
+2025_ada.xlsx. ZEV and Infrastructure Stats Data. Data last updated April 30, 2025. Retrieved January 16, 2026
+from https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+12
+
+Green Power Motors - 118 kWh or 193 kWh school 117 through Q4 2024.45
+buses44
+Tellus Power Green - 20, 30, 40, or 60 kW EVSE46 Unknown
+InCharge - 22, 44, or 66 kW EVSE47 Unknown
+Heliox - 60 kW EVSE48 Unknown
+1 In total, this list indicates that there are an estimated 215,465 light-duty vehicles and
+2 1,890 electric school buses in California that offer bidirectional charging features.
+3 Assuming SCE contains 33% of the state’s EVs, an estimated 71,727 such vehicles may
+4 already be in SCE’s service territory.49
+5 Notably, nearly every bidirectional charging system currently listed in the light-duty
+6 segment is certified to UL 1741 SB.50 In the medium- and heavy-duty segment, all listed
+7 bidirectional charging systems are certified to UL 1741 SB. This certification ensures
+8 compliance with IEEE 1547-2018 and facilitates interconnection under Rule 21. Nearly
+9 all of the bidirectional charging systems listed above have been enabled for bidirectional
+10 operation in parallel with the grid under certain California programs, including the
+11 Emergency Load Reduction Program, Demand Side Grid Support Program, CEC’s
+44 California HVIP. School Bus: Vehicle Type – ZESBI $ Eligible. https://californiahvip.org/vehicle-category/school-
+bus/?type=655. Retrieved January 7, 2025.
+45 California Energy Commission (2026). Medium_Heavy_Duty_Vehicle_Population_Last_updated_04-30-
+2025_ada.xlsx. ZEV and Infrastructure Stats Data. Data last updated April 30, 2025. Retrieved January 16, 2026
+from https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+46 PG&E. Vehicle-to-Everything (V2X) pilot program: Eligible Product List for the V2X Commercial Pilot.
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-
+v2x-pilot-programs.html. Retrieved January 7, 2025.
+47 InCharge. Chargers & Hardware. https://inchargeus.com/chargers/. Retrieved January 7, 2025.
+48 Heliox. Heliox 60 kW. https://www.heliox-energy.com/us-products/60-kw-dc-charger. Retrieved January 7, 2025.
+49 Prepared Testimony of Sylvie Ashford Addressing Southern California Edison’s Test Year 2025 General Rate
+Case Load Growth Investments. A.23-05-010. TURN-07. Page 11-13.
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2305010/7090/526146968.pdf
+50 The Tesla Powershare system, currently available for Cybertruck drivers, is not certified to UL 1741 SB.
+13
+
+1 REDWDS initiative, and PG&E’s Hourly Flex Pricing (via PG&E’s Vehicle-to-
+2 Everything Pilot).
+3 In addition to the above-listed currently available solutions, the following EVs have
+4 received announced, but not yet available, bidirectional charging features: Hyundai Ioniq
+5 9,51 Kia EV6,52 Acura RSX,53 and Rivian R2.54 EVSE manufacturers that have
+6 announced but not yet released bidirectional charging solutions include: Emporia,55
+7 ChargePoint,56 and Enphase.57
+8
+9 III. DYNAMIC EXPORT CREDITS.
+10 Q. How might export rates impact EV customers and broader EV adoption?
+11 A. Efforts to credit EV customers for grid exports can deepen the value proposition of EVs.
+12 These export credits can help to offset other costs of EV adoption, lowering the total cost
+13 of ownership, making the transition to electrified transportation more compelling and, in
+14 turn, accelerating the Commission’s broader electrification goals. For fleets considering
+15 electrification, total cost of ownership is a significant driver of EV adoption. Strategies
+16 that reduce the total cost of ownership, including bill savings from export credits, are
+51 Hyundai. Hyundai Motor Group Expands EV Energy Services with Vehicle to Grid and Vehicle to Home.
+November 28, 2025. https://www.hyundainews.com/releases/4634
+52 Ibid.
+53 Honda. Honda Highlights Home and Vehicle Energy Management Technologies at RE+ 25. September 3, 2025.
+https://hondanews.com/en-US/releases/honda-highlights-home-and-vehicle-energy-management-technologies-at-re-
+25
+54 EV.com. $45,000 Rivian R2 Will Power Homes With New Bidirectional Charging Technology. November 6,
+2025. https://ev.com/news/45000-rivian-r2-will-power-homes-with-new-bidirectional-charging-technology
+55 Emporia. Coming Soon: V2X Bi-Directional Charger. Accessed January 13, 2026.
+https://www.emporiaenergy.com/how-the-emporia-v2x-charger-works/
+56 ChargePoint. ChargePoint and Eaton launch breakthrough ultrafast DC V2G chargers and power infrastructure
+to accelerate the future of EV charging. August 28, 2025. https://www.chargepoint.com/about/news/chargepoint-
+and-eaton-launch-breakthrough-ultrafast-dc-v2g-chargers-and-power
+57 Enphase. IQ Bidirectional EV Charger. Accessed January 13, 2026. https://enphase.com/ev-chargers/bidirectional
+14
+
+1 therefore critical to advancing electrification and, in turn, helping spread grid costs across
+2 a greater number of kWh sales, thereby placing downward pressure on rates.
+3 Q. How might export rates impact equity goals, broad customer access, and customer
+4 protection?
+5 A. If designed thoughtfully, export compensation can advance equity and customer
+6 protection by expanding access to bill savings opportunities and supporting wider EV
+7 adoption beyond early adopters, who may have differing sensitivities to EV operational
+8 costs. VGIC emphasizes that any approach to unlock EV exports should be customer-
+9 centric, protecting customers' underlying transportation and mobility needs and providing
+10 sufficient certainty to enable customers to make informed investments.
+11 Any export rate available to EV customers should also include clear and simple customer
+12 disclosures, bill communications, and opt-out provisions to promote customer protection
+13 and ensure the long-term success of the rate.
+14 Lastly, as detailed below, the specific components included in an export credit are central
+15 to ensuring fairness across customers.
+16 Q. Should export price signals reflect only marginal costs?
+17 A. Yes. Export price signals should reflect only marginal costs to ensure that export credits
+18 reward only the incremental system value provided in the export period, and do not offset
+19 non-marginal (i.e., fixed) costs that must be recovered through other rate elements.
+20 Limiting export credits to marginal costs, therefore, helps avoid unintended cost shifts
+21 and preserve fairness, as customers continue paying their appropriate share of non-
+22 marginal costs. This is consistent with the Commission’s broader guidance that rates to
+15
+
+1 advance demand flexibility be rooted in marginal costs while separately addressing non-
+2 marginal cost recovery to prevent hidden subsidies.58 Additionally, all non-bypassable
+3 charges must apply to customers as otherwise applicable.
+4 Q. Should any export rate offered to customers offer a reasonable degree of certainty,
+5 such that customers can justify the necessary upfront investments over a reasonable
+6 payback period?
+7 A. Yes. Export rates should be designed with a reasonable degree of certainty to enable
+8 customers to make informed investment decisions. Customers considering bidirectional
+9 charging systems often face higher upfront costs for equipment, installation, and
+10 interconnection than with unidirectional charging systems. Without confidence in the
+11 longevity and predictability of export credits, these customers cannot accurately calculate
+12 payback periods, which creates a barrier to adoption. Certainty in export price signals
+13 provides the assurance needed for customers and fleets to invest in technologies that
+14 deliver grid benefits, such as bidirectional charging solutions that reduce peak demand
+15 and enhance reliability. This stability also signals to vendors and service providers that
+16 the market is viable, encouraging innovation and competition that further benefits all
+17 customers.
+18 Q. Does SCE propose a dynamic export rate or other form of export compensation in
+19 this application?
+20 A. SCE does not propose to create a new dynamic export rate in this application. Instead,
+21 SCE proposes to maintain export compensation under different tariffs that are otherwise
+58 D.23-04-040. Decision Adopting Electric Rate Design Principles and Demand Flexibility Design Principles.
+Issued May 3, 2023 in R.22-07-005. Ordering Paragraphs 1 and 2.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M507/K837/507837776.PDF
+16
+
+1 available to customers. SCE proposes to keep Net Energy Metering (“NEM”) and Net
+2 Billing Tariff (“NBT”) compensation for customers on those tariffs.59 For bidirectional
+3 EV customers, SCE proposes to allow enrollment in the Vehicle-to-Grid Resource
+4 Proposal (“VGRP”), which is currently pending in SCE’s 2025 Phase 2 General Rate
+5 Case, Application (“A.”) 24-03-019.60
+6 Q. What is the structure of the Vehicle-to-Grid Resource Proposal (“VGRP”)?
+7 A. VGRP, as detailed in the pending settlement agreement filed in A.24-03-019, would
+8 provide a time-varying export compensation to customers using values generated by the
+9 Commission’s Avoided Cost Calculator. SCE’s original testimony in this proceeding
+10 (SCE-01) discussed the creation of two VGRP rates: (1) the original VGRP as SCE
+11 proposed in A.24-03-019, which was a time-of-use peak/off-peak structure and called
+12 “VGRP Time-of-Use (“TOU”)”, and (2) an hourly export rate called “VGRP Hourly”
+13 which would include hourly values for dynamic rate participants specifically.61 Since the
+14 filing of SCE-01 in December 2024, parties in A.24-03-019 have come to a Settlement
+15 Agreement for the structure of VGRP, which expands the hourly structure to all
+16 customers.62 Therefore, the distinction between VGRP-Hourly and VGRP-TOU is no
+17 longer needed.
+18 Q. Does VGIC support VGRP?
+59 SCE-01 at p.21, lines 11-16.
+60 SCE-01 at p.21, lines 17-25.
+61 SCE-01 at p.22, lines 1-11.
+62 Motion of Southern California Edison Company (U 338-E) and Settling Parties for Adoption of the Vehicle to
+Grid Rate Proposal Settlement Agreement, filed in A.24-03-019 on September 5, 2025.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M579/K066/579066253.PDF
+17
+
+1 A. Yes, VGIC is supportive of VGRP and is one of the parties that has signed onto the
+2 VGRP Settlement Agreement.63 VGIC believes that, if adopted, VGRP has the potential
+3 to support relatively widespread enrollment of customers with bidirectional charging
+4 systems. VGRP is designed to be broadly available to both residential and non-residential
+5 customers, as well as customers with other DERs that are currently participating in Net
+6 Energy Metering (“NEM”) or the Net Billing Tariff (“NBT”).64 Given the diverse nature
+7 of EV drivers, VGIC believes that VGRP as an optional and more predictable export rate
+8 rider will serve an important segment of customers.
+9 Q. Should EV customers be offered only one export credit option?
+10 A. No. EV customers should be offered a menu of export price signals, including through
+11 both rates and non-rate program offerings, as no single design is likely to be sufficiently
+12 compelling for a broad enough range of EV customers and use cases that could feasibly
+13 support the grid. EV customers exhibit incredibly diverse preferences for interacting with
+14 the grid. First, EV charging site types span workplace charging, multifamily housing,
+15 public DC fast charging, private fleet, share fleet, single-family home, rideshare, and
+16 dozens of other market segments and operational contexts. Second, the resulting duty
+17 cycles, equipment availability, charging constraints, and price sensitivity vary even
+18 further among each charging site type. For example, Figure 1 below demonstrates some
+19 of the variation found in SCE’s Charge Ready Transport program:
+20
+63 Ibid.
+64 Ibid.
+18
+
+1 Figure 1: SCE Charge Ready Transport – EVSE Power Output Levels by Market
+2 Segment65
+3
+4 Meanwhile, the 2019-2020 Commission-led VGI Working Group detailed a rich tapestry
+5 of plausible VGI “use cases,” capturing not just the variation in site type and resulting
+6 duty cycles, but also in alignment, unification, and technical capability. The Working
+7 Group, of which both SCE and VGIC were active participants, alongside about 100 other
+8 representatives from utilities, state and federal agencies, ISO/RTO, automakers, charging
+9 manufacturers, charge point operators, transit agencies, research institutions, industry
+10 associations, environmental nonprofits, consumer groups, ratepayer advocates, and
+11 standards development organizations, defined, sorted, assessed value, and ranked 2,500
+12 distinct VGI use cases.66 Figure 2 below illustrates the various “dimensions” of the use
+13 case assessment.
+65 SCE Transportation Electrification Program Advisory Council. Q4 2025 Meeting. December 12, 2025. Slide 12.
+66 Gridworks. Final Report of the California Joint Agencies Vehicle Grid Integration (VGI) Working Group. June
+30, 2020. https://gridworks.org/wp-content/uploads/2020/09/GW_VehicleGrid-Integration-Working-Group.pdf
+19
+
+1 Figure 2: Joint CPUC-CEC VGI Working Group Dimensions of Use Case Assessment
+2 Framework67
+3
+4 One of several key takeaways from the effort was a recommendation emphasizing that
+5 different use cases may require different policies or, in other words, that there may not be
+6 a single “silver bullet” rate design for all VGI use cases.
+7 The use case diversity evident in SCE’s Charge Ready program and the 2019-2020 VGI
+8 WG is likely to be even further exacerbated as bidirectional charging solution adoption
+9 matures beyond early adopters, who tend to exhibit similar characteristics (i.e., namely,
+10 openness to new, complex offerings), to mass-market customers, who may be more
+11 operationally constrained and exhibit limited interest in experimental rate designs, instead
+12 preferring simpler, more predictable export credit offerings. In this way, offering a menu
+13 of export rate options accommodates diverse customer needs and supports broader
+67 Ibid.
+20
+
+1 participation over time, offering a more equitable approach than limiting customers to a
+2 single available export credit option.
+3 With this in mind, it is premature to assume a single export credit construct will unlock
+4 participation across a meaningful set of customers, and certainly unlikely that VGI will
+5 be “maximized” by 2030, per Senate Bill 676. VGIC strongly recommends that the
+6 Commission advance a portfolio approach that includes, at a minimum, the pending
+7 VGRP settlement and a new dynamic export rate. This portfolio approach maximizes VGI
+8 while also yielding critical learnings to inform the future development of a VGI portfolio
+9 (i.e., of rates and non-rate programs).
+10 Q. With this in mind, should SCE offer a dynamic export rate?
+11 A. Yes, SCE should put forward a dynamic export rate that complements the pending VGRP
+12 and serves as an important mechanism for unlocking grid value. SCE should put forward
+13 a dynamic export rate in line with D.25-08-049 based on the unscaled marginal costs
+14 SCE has already identified in this application: Marginal Energy Costs, Marginal Cost of
+15 Energy Losses in the Transmission and Distribution System, Marginal Generation
+16 Capacity Cost, Marginal Distribution Capacity Costs, and Marginal Transmission
+17 Capacity Costs.
+18 Q. Why should SCE put forward a dynamic export rate?
+19 A. SCE can unlock far greater value from EV customers and fleets by providing customers
+20 with the needed price signal to not only shift load but also export energy during peak
+21 times. By crediting customers for exporting energy during periods of high system
+21
+
+1 demand, these rates can enhance grid reliability, reduce the need for costly peak-period
+2 procurement, and increase other grid services provided by EVs.
+3 While dynamic rates can align EV charging load with real-time grid conditions, the
+4 maximum EV charging load reduction is fundamentally limited by a customer’s initial
+5 plan to charge during a given period. However, dynamic export rates can elicit exports
+6 from EVs that may not have otherwise planned to charge at all during that period. In
+7 other words, the maximum EV charging export capability is not limited by a customer’s
+8 initial plan to charge during a given period, enabling deeper peak system load reductions.
+9 To provide a more specific example, consider an EV charging at 4 kW during a local or
+10 system peak period. High dynamic price signals during that window could induce the EV
+11 to reduce charging to 0 kW. This achieves a corresponding reduction of 4 kW at the local
+12 and system level. If exports were encouraged through compelling dynamic export price
+13 signals during that same period, the EV could stop charging and export power back to the
+14 grid at, for example, 10 kW. Through the addition of an export price signal, this EV
+15 provides a total peak load reduction of 14 kW (i.e., 4 kW load reduction + 10 kW grid
+16 export). This demonstrates the critical importance of export price signals for EVs in
+17 particular.
+18 Notably, whether or not VGRP is adopted, the Commission should require SCE to
+19 implement a dynamic export rate derived from marginal cost components. In the event
+20 VGRP is not adopted, bidirectional charging customers in SCE service territory will have
+21 no other opportunities to receive recognition and bill credits for exports.68
+68 Note that the Emergency Load Reduction Program (“ELRP”) is authorized through 2027 and Demand Side Grid
+Support (“DSGS”) funding will likely expire in 2026.
+22
+
+1 Q. Are other California utilities providing dynamic export compensation for
+2 customers?
+3 A. Notably, California has already shown the potential for dynamic rates to unlock
+4 significant export capacity from EVs. One of the largest grid-parallel bidirectional
+5 charging sites in North America is located at the Oakland Unified School District and
+6 participating in PG&E’s Vehicle-to-Everything Pilot and Hourly Flex Pricing pilot with
+7 dynamic export credits, providing 2.1 GWh of energy back to the grid each year.69
+8 Meanwhile, the CEC’s REDWDS initiative includes support for several bidirectional
+9 charging system vendors and aggregators specifically capable of responding to dynamic
+10 export price signals.70 Similar projects could be deployed across fleets and EVs
+11 statewide, multiplying the reliability and cost-saving benefits for the grid.
+12 Q. Is PG&E proposing a dynamic export rate in its dynamic rate application for LMS
+13 compliance?
+14 A. Yes, PG&E is proposing a dynamic export rate in its dynamic rate application for LMS
+15 compliance, which is very similar to the structure of the dynamic export rate currently
+16 offered in its Hourly Flex Pricing pilot. In its dynamic rate application, PG&E outlines
+17 that the export rate will be equal to the sum of the following components: Marginal
+18 Energy Component plus line losses, Marginal Generation Capacity Component, Marginal
+19 Distribution Capacity Costs, and Marginal Transmission Capacity Costs when
+20 available.71 This is in alignment with D.25-08-049 and will help to unlock the benefits of
+69 See “Zum Launches Nation’s First School District with 100% Electric, Bidirectional V2G School Bus Fleet in
+Oakland” https://www.ridezum.com/press-release/zum-launches-nations-first-school-district-with-100-electric-
+bidirectional-v2g-school-bus-fleet-in-oakland/
+70 See, for example, https://redwds.dcbel.energy/ and https://www.bidirectional.energy/learn/california.
+71 PG&E, Pacific Gas and Electric Company 2023 General Rate Case Phase II Supplemental Testimony Exhibit
+(PG&E-5) Real-Time Pricing Proposal, served to A.24-09-014 on October 29,2025, at p.2-41, lines 1-7.
+23
+
+1 providing export compensation described above. Additionally, PG&E proposes to offer
+2 the subscription element to customers on an optional basis, allowing greater flexibility for
+3 customers with an appetite for greater volatility exposure.
+4 Q. Do other jurisdictions offer export rates for EV customers?
+5 A. Yes. The Value of Distributed Energy Resources (“VDER”) tariff design used in New
+6 York offers export credits to standalone and solar-paired bidirectional charging systems,
+7 across both residential and non-residential customer segments.72 Specifically, the New
+8 York Public Service Commission (“NY PSC”) established an avoided cost-based VDER
+9 in a March 2017 order (“VDER Transition Order”).73 In the March 2017 VDER
+10 Transition Order, the Commission states, “VDER tariffs will be expanded beyond NEM-
+11 eligible [Distributed Generation (DG)] technologies to all DER in a technologically-
+12 neutral, value-focused manner as soon as practicable.”74 In addition, the VDER
+13 Transition Order directed that stand-alone energy storage projects, including bidirectional
+14 charging systems, be eligible under the VDER tariff "as expeditiously as possible."75
+15 Critically, the NY DPS staff whitepaper proposed that standalone energy storage,
+16 including storage paired with consumption load, be eligible for VDER tariff for any
+17 hourly injections to the grid.76The NY PSC Order then states, in no uncertain terms, that
+18 “The Staff Proposal provides a rational and appropriate framework for the eligibility of
+72 VGIC Comments on Track B Working Group Report at 9; Opening Comments of the Vehicle-Grid Integration
+Council on the Proposed Decision Adopting Guidelines for Pacific Gas and Electric Company, Southern California
+Edison Company, and San Diego Gas & Electric Company on Demand Flexibility Rate Design Proposals at 6-9
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M576/K160/576160750.PDF
+73 Case 15-E-0751, et al., Order on Net Energy Metering Transition, Phase One of Value of Distributed Energy
+Resources, and Related Matters (issued March 9, 2017) (Phase One VDER Order)
+74 Ibid.
+75 Ibid.
+76 Case 15-E-0751, Staff Proposal on Value Stack Eligibility Expansion (filed May 22, 2018).
+24
+
+1 standalone storage and it is therefore adopted.”77 Lastly, the Order explicitly deems
+2 vehicle-to-grid (“V2G”) systems as eligible. In 2023, the NY DPS expanded on the
+3 eligibility finding for V2G systems by further explicitly directing each utility to ensure
+4 V2G systems are eligible.78
+5 Additionally, on January 8, 2026, Illinois enacted the Clean and Reliable Grid
+6 Affordability Act, allowing bidirectional charging systems to be credited under the state’s
+7 current net billing tariff structure, effective June 1, 2026.79
+8 Q. Can you provide illustrative options for a dynamic export rate design that SCE can
+9 implement?
+10 A. Yes. One option could be to replicate PG&E’s Hourly Flex Pricing implementation and
+11 related LMS-compliant design as proposed in its GRC Phase 2. As described above,
+12 PG&E has proposed to include a dynamic export rate with four marginal cost
+13 components. These export credits would be aligned with, but asymmetric to, import
+14 prices, as PG&E would recover additional non-marginal costs through a Revenue Neutral
+15 Adder (“RNA”).80 The RNA approach was adopted in D.22-10-024 for use in PG&E’s
+16 Day-Ahead Hourly Real-Time Pricing export compensation rate.81 The RNA works by
+77 NY PSC Case 15-E-0751 – In the Matter of the Value of Distributed Energy Resources and NY PSC Case 15-E-
+0082 – Proceeding on Motion of the Commission as to the Policies, Requirements and Conditions for Implementing
+a Community Net Metering Program. Order on Value Stack Eligibility Expansion and Other Matters. September 12,
+2018. Page 16.
+78 NY PSC, CASE 18-E-0138 - Proceeding on Motion of the Commission Regarding Electric Vehicle Supply
+Equipment and Infrastructure. Order Approving Midpoint Review Whitepaper’s Recommendations with
+Modifications. November 16, 2023.
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7b6057D98B-0000-C912-9B64-
+A2D769C4790D%7d
+79 Gov. Pritzker Signs Historic Clean and Reliable Grid Affordability Act, January 8, 2026. https://gov-pritzker-
+newsroom.prezly.com/gov-pritzker-signs-historic-clean-and-reliable-grid-affordability-act
+80 PG&E, Pacific Gas and Electric Company 2023 General Rate Case Phase II Supplemental Testimony Exhibit
+(PG&E-5) Real-Time Pricing Proposal, served to A.24-09-014 on October 29,2025 at p.1-4, lines 15-17.
+81 D.22-10-024. Decision Adopting Settlement on Export Compensation for Certain Pacific Gas and Electric
+Company Customers. Issued October 26, 2022, in A.20-10-011.
+25
+
+1 adding a flat or TOU-differentiated $/kWh charge to the import rate that would not be
+2 credited for exports. Because PG&E would recover non-marginal costs through the RNA,
+3 PG&E is proposing to offer a dynamic rate subscription as an option for customers to use
+4 but it will not be required. 82 Subscriptions would also not be applicable to exports. 83
+5 SCE has previously stated that they have not implemented dynamic export rates in their
+6 dynamic rate pilot because they have used a scalar on the dynamic rate components to
+7 recover non-marginal costs.84 VGIC believes that SCE could extract the un-scaled
+8 marginal cost components to provide an appropriate export rate. Another option, if SCE
+9 cannot remove the scaled factors, is to recover non-marginal costs via a revenue neutral
+10 adder (“RNA”), expressed as a separate time-of-use component, to ensure cost recovery.
+11 SCE has also cited the need for an Otherwise Applicable Tariff (“OAT”) to provide
+12 export compensation in their dynamic rate pilot. 85 This is not necessary in the full-scale
+13 dynamic rate, since there is no explicit research goal. Subscription components are also
+14 not needed for exports, since there is no need for customer bill protection for export
+15 credits. To the extent SCE may need the subscription to recover non-marginal costs, an
+16 alternative RNA should be considered. PG&E has shown that the RNA approach allows
+17 for the subscription component to be optional, which can generally simplify the rate
+18 implementation and adoption. This would also help to create consistency between PG&E
+19 and SCE, making it easier for customers, ASPs, equipment providers, and all
+20 stakeholders to understand these rates.
+82 PG&E, Pacific Gas and Electric Company 2023 General Rate Case Phase II Supplemental Testimony Exhibit
+(PG&E-5) Real-Time Pricing Proposal, served to A.24-09-014 on October 29,2025, at p.1-4, lines 18-22.
+83 Ibid at p.2-41, lines 1-7.
+84 SCE, Southern California Edison Company’s Reply to the Vehicle Grid Integration Council’s Protest of Advice
+5596-E, August 28, 2025.
+85 Ibid.
+26
+
+1 Q. Are you concerned about customers’ ability to respond to dynamic export rates?
+2 A. Yes and no. Although dynamic price signals appear more complex than the rate options
+3 currently available to customers, VGIC anticipates that many participating customers
+4 may be interested in partnering with a third-party service provider to optimize device
+5 response to dynamic price signals. For example, both PG&E and SCE dynamic rate pilots
+6 have established the role of automation service provider (“ASP”) to support customers in
+7 responding to the dynamic price signals. SCE states that they expect ASPs to form
+8 contractual relationships with customers to provide load management services and
+9 anticipates having to provide support resources and information for ASPs.86 Yet, SCE
+10 does not describe in its marketing or outreach plans how it would engage ASPs to
+11 encourage them to bring dynamic rates to their own customers. VGIC recommends that
+12 SCE consider additional support for ASPs, given the critical role they play in facilitating
+13 customer engagement.
+14 Additionally, the attractiveness of a market to ASPs is fundamentally driven by the total
+15 value provided by SCE, which would be shared between the customer and ASP. Without
+16 a sufficiently compelling dynamic rate design, and especially without a dynamic export
+17 rate, ASPs may not enter the market to support customers. VGIC therefore reiterates its
+18 recommendation that SCE implement a dynamic export rate, as without it, the total value
+19 may be too limited to attract ASPs to the market. We also recommend the role of these
+20 third-party service providers more generally be considered in establishing and
+21 implementing the dynamic export rate, including how to attract investment and ensure a
+22 positive customer experience.
+86 SCE-02 at p.21, lines 22-24.
+27
+
+1 Q. Should a dynamic export rate be limited to EV customers with bidirectional
+2 charging systems as the only distributed energy resource (“DER”) on the premises?
+3 A. No. SCE should extend the dynamic export rate offering to EV customers with
+4 bidirectional charging systems that are co-located and/or integrated with other DERs. For
+5 example, bidirectional EV charging customers with rooftop solar systems, stationary
+6 energy storage systems, both, or other DER(s) should be eligible to participate in the
+7 dynamic export rate. Grid-responsive orchestration among multiple DERs likely provides
+8 a compelling pathway to realizing the full grid benefits of these technologies.
+9 Q. Does the implementation timeline of a dynamic export rate demand additional
+10 considerations from the Commission?
+11 A. Currently, this proceeding is on an expedited schedule for resolution, with a final
+12 decision before the end of 2026, so that SCE can meet the requirement to offer Load
+13 Management Standard-compliant rates by 2027. This timeline is extremely ambitious,
+14 given the relative complexity of the rate proposals in SCE’s application.
+15 Even if dynamic rates are designed and approved before 2027, it will likely take time for
+16 SCE to offer them to customers. In testimony, SCE describes many tools and systems that
+17 will need to be implemented, including billing system upgrades, tools to communicate the
+18 dynamic rate, rate comparison tools and materials, alongside other marketing efforts and
+19 coordination with Community Choice Aggregators (“CCAs”).87 VGIC encourages SCE
+20 to act expeditiously, but the Commission should also consider the likelihood and
+21 implications of delays in the full rollout of the rates to be approved in this proceeding.
+22 Q. How long is SCE planning to run its current dynamic rate pilot?
+87 SCE-02 at p.4-28.
+28
+
+1 A. Currently, SCE and PG&E are authorized to operate their dynamic rate pilots through
+2 May 2027.88 D.24-01-032 authorized this timeline but did not include a mechanism to
+3 consider the extension of the dynamic rate pilots beyond May 2027.
+4 Q. Is there a risk that the dynamic rate pilot might end before SCE can fully
+5 implement the rates authorized in this proceeding?
+6 A. VGIC sees significant risk that SCE will not be able to fully implement an LMS-
+7 compliant rate by May 2027. Therefore, this proceeding should authorize SCE to
+8 continue its dynamic rate pilot beyond May 2027, until the dynamic rate is fully
+9 implemented.
+10 It is critical that customers engaged in the pilot continue to access dynamic rates until
+11 they can be transitioned onto a long-term rate. Having a gap in offerings risks poor
+12 customer experience and a loss of customers that never re-enter the rate after being
+13 dropped.
+14 Moreover, SCE’s dynamic rate pilot does not offer to recognize and credit exports for
+15 bidirectional charging systems.89 This means there are two implementation deficiencies
+16 that the Commission and SCE should work to cure: (1) the lack of export credit available
+17 to bidirectional charging systems in SCE’s current dynamic rate pilot, limiting investment
+18 from ASPs and participation from customers, and (2) the timing gap between the current
+19 dynamic rate pilot, even if corrected to credit EV exports, and any forthcoming dynamic
+20 rates.
+88 D.24-01-032 at p.52.
+89 SCE has previously explained that they do not offer export credits to customers that are not on NEM or NBT. See
+Cal Advocates, Prepared Testimony of Additional Rate Design Proposals in Southern California Edison’s 2025
+General Rate Case Phase 2, served to A.24-03-019 on November 22, 2024 at p.B-14.
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7847/546561478.pdf
+29
+
+1 Q. If SCE fails to offer a dynamic export rate, should dual participation with any
+2 existing demand response programs be permitted for EV customers participating in
+3 the dynamic import rate?
+4 A. Yes. If SCE does not offer a dynamic export rate in this application, then EV customers
+5 should be permitted to charge EVs under the dynamic import rate and participate in
+6 demand response programs, including those that reward EV battery discharge.
+7 SCE does propose allowing limited dual-participation between dynamic rates and
+8 demand response programs. Specifically, customers would be allowed to be enrolled in
+9 day-of-supply-side demand response program.90 However, no supply side programs
+10 integrated into the wholesale market currently allow for customer exports to be
+11 compensated.
+12 As discussed above, exports from bidirectional EVs can provide significant incremental
+13 capacity and the Commission currently estimates that bidirectional EVs could provide
+14 13,500 MW of additional capacity by 2045. If the dynamic rates are unable to capture
+15 this value, then the Commission should ensure that there are other programs for
+16 customers to provide this incremental capacity. For example, if the Emergency Load
+17 Reduction Program (“ELRP”) is still available to EV customers past 2027, or another
+18 pilot or program offering rewards EV battery discharge, the provisions of the dynamic
+19 import rate should not prohibit customers from participating in such a pilot or program.
+20
+21 IV. CONCLUSION
+90 SCE-01 at p.12, line 21.
+30
+
+1 Q. Does this conclude your testimony?
+2 A. Yes
+31

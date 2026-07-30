@@ -1,0 +1,156 @@
+Comments: Domain Capabilities Profiles New York State
+Grid of the Future Touchpoint 3
+May 26, 2026
+Vehicle-Grid Integration Council (“VGIC”)1 is a 501(c)(6) membership-based advocacy
+organization committed to advancing the role of vehicle-grid integration (“VGI”) through policy
+development, education, and research. VGIC supports the transition to decarbonized
+transportation and electric sectors by ensuring that the value from flexible electric vehicle
+(“EV”) charging and discharging is recognized, compensated, and aligned with a more reliable,
+affordable, and efficient electric grid.
+1. Introduction
+VGIC appreciates the opportunity to provide comments on the New York State Grid of the
+Future (“GOTF”) Domain Capability Profiles. VGIC commends the Department of Public
+Service (“DPS”), NYSERDA, and the broader GOTF team for undertaking an ambitious and
+thoughtful effort to develop a comprehensive framework to advance the evolution of New
+York’s electric power ecosystem.
+The pre-read document for GOTF Touchpoint 3 (review of the Domain Capability Profiles)
+appropriately recognizes that enabling grid flexibility will be central to maintaining affordability
+and reliability while integrating increasing levels of electrification and renewable energy
+resources. Achieving this vision will require coordination across sectors and among electric
+sector stakeholders to a degree that has not yet been achieved in New York’s electric power
+ecosystem.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Ford Motor Company,
+General Motors, Nissan Group of North America, Bidirectional Energy, BMW of North America LLC, bodeEV,
+ChargePoint, ChargeScape, Codibly Inc., Critical Loop, dcbel, Eaton Corporation, EnergyHub, EV.Energy, Fermata
+Energy, Gravity Inc., Mercedes-Benz Research & Development North America, Inc., Orange Charger, Inc., Renew
+Home, Rivian, Stellantis, SWTCH Energy Inc., Tesla, The Mobility House, Toyota Motor North America, Inc., UL
+Solutions, WeaveGrid, Clean Power Alliance, Connecticut Green Bank, Los Angeles Department of Water and
+Power, Marin Clean Energy, San Diego Community Power, and Sacramento Municipal Utility District. The views
+expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC
+member companies or supporters. (https://www.vgicouncil.org/)
+
+VGIC believes the linkage between the Grid Flexibility Study and the Domain Capability
+Profiles could be strengthened considerably. The pre-read document states that the
+Comprehensive Grid of the Future Plan builds directly upon the findings of the New York State
+Grid Flexibility Study and that the Study establishes “a common analytical framework to
+quantify how different types of flexible demand and supply resources could contribute to system
+needs over time.” The profiles do not yet fully incorporate the Grid Flexibility Study’s
+conclusion that EVs represent the single largest source of future grid flexibility potential in New
+York.
+Transportation electrification represents both the largest source of future electric load growth and
+the largest opportunities to provide flexible demand and, with bidirectional charging systems,
+dispatchable storage. Electric vehicles are unique among distributed energy resources (“DER”)
+because they can simultaneously function as controllable load, dispatchable storage, backup
+power resources, and aggregated grid assets. As a result, EV flexibility should not be treated
+solely as a transportation electrification issue but rather reflected as a foundational planning and
+operational assumption throughout the domain capability profiles. This is particularly important
+given the emphasis on increasingly granular forecasting, flexibility-aware planning, DER
+orchestration, and co-optimized grid and DER investments across the domains.
+2. Explicit Integration of Managed Charging and Bidirectional EVs
+as Dispatchable Grid Resources Across All Domains
+VGIC supports the recognition within the domain capability profiles that the future electric
+system will require increasingly sophisticated approaches to forecasting, planning,
+interconnection, operations, and coordination across multiple domains. However, the capability
+profiles would benefit from more explicit treatment of electric vehicles and bidirectional
+charging systems as flexible grid resources capable of providing valuable grid services, rather
+than primarily characterizing transportation electrification as a source of future load growth. As
+EV adoption accelerates, managed charging and bidirectional charging technologies will
+increasingly play an important role in supporting grid flexibility, integrating renewable energy,
+reducing peak demand, and enhancing overall system reliability and resilience.
+For example, within the Electricity Domain Capability Profile sub-capability Forecast Long-
+Term Distribution Load Growth (E1.2) appropriately references electrification forecasts, demand
+response participation estimates, time-based rates, and customer behavioral trends as key
+forecasting inputs. VGIC recommends that this section explicitly reference managed EV
+
+charging behavior, bidirectional charging capability, and transportation electrification flexibility
+as distinct forecasting variables. The future operational characteristics of EV charging are
+fundamentally different from traditional static loads because charging behavior can increasingly
+respond to price signals, utility dispatch commands, operational constraints, renewable
+generation availability, and customer preferences.
+Similarly, sub-capability Forecast Long-Term DER Generation Growth (E1.3) focuses primarily
+on traditional DER generation resources. VGIC recommends that this capability more explicitly
+recognize that bidirectional charging systems will increasingly function as dispatchable
+distributed storage resources capable of both importing and exporting energy under varying
+operational conditions. This distinction becomes increasingly important at higher maturity levels,
+where the framework begins discussing DER flexibility states, dispatch envelopes, curtailment
+potential, and flexibility-aware planning scenarios.
+The Regulatory Domain Capability Profile similarly provides a strong foundation but could more
+clearly incorporate the role of EVs as flexible grid resources within future regulatory structures.
+VGIC supports the emphasis within the capability profile on integrating objectives across
+proceedings, coordinating regulatory actions, and developing adaptive frameworks for emerging
+technologies. Regulatory frameworks will increasingly need to recognize managed and
+bidirectional charging as important grid flexibility tools to meet the GOTF goals.
+Sub-capability Develop Mechanisms to Regulate Emerging Technologies (R2.3) provides a
+relevant framework for bidirectional charging and VGI technologies. VGIC supports the
+recognition that regulatory frameworks for emerging technologies must “adapt quickly as new
+technologies evolve” and should “de-risk technologies” through coordinated efforts and
+stakeholder engagement. However, the capability profile could more explicitly reference VGI
+solutions as a priority emerging capability area requiring integrated regulatory treatment.
+In addition to the above suggestions, VGIC encourages the GOTF drafting team to more
+explicitly incorporate VGI opportunities across the capability domain profiles. While the profiles
+appropriately emphasize flexibility, DER orchestration, distributed resource aggregation, and
+flexible load management, references to managed charging and bidirectional charging systems
+remain relatively limited and inconsistent throughout the domain capability profiles. Given that
+EVs are expected to emerge as the largest sources of flexible demand and distributed storage on
+the electric system, the capability profiles would benefit from clearer and more consistent
+recognition of managed charging, bidirectional charging, EV aggregators, mobile storage
+
+resources, and EV-enabled grid services as integral elements of a highly flexible, bidirectional
+electric power ecosystem.
+3. Emphasize the Role of EVs to Address Affordability Through
+Flexible Grid Utilization
+VGIC supports the domain capability profile’s repeated recognition that affordability must
+remain a core objective of the GOTF effort. The pre-read document appropriately identifies
+affordability as one of the primary drivers for enabling flexibility at scale. However, VGIC
+believes the framework could place even greater emphasis on VGI as a foundational affordability
+strategy.
+Across the domain capability profiles, the narratives recognize the importance of flexible
+resources, non-wires alternatives, probabilistic forecasting, and co-optimized planning. These
+concepts are important because they represent a shift away from traditional “worst-case”
+infrastructure planning assumptions toward more dynamic and operationally optimized
+approaches.
+Transportation electrification is particularly important in this context because unmanaged EV
+charging has the potential to increase localized peak demand, accelerate infrastructure upgrades,
+and increase overall system costs, while managed charging and bidirectional charging systems
+can significantly reduce or even eliminate many of those same costs through flexible load
+management and grid services. As a result, the distinction between unmanaged charging and the
+flexible capabilities enabled by EVs and bidirectional charging systems becomes increasingly
+central to future affordability, system planning, and grid modernization outcomes.
+VGIC recommends that the domain capability profiles more explicitly recognize the opportunity
+to increase utilization of existing infrastructure using VGI solutions before deploying traditional
+upgrades. Several sections already point in this direction. For example, E1 recognizes the
+importance of incorporating probabilistic planning, DER flexibility states, and scenario-based
+forecasting approaches. Similarly, E2 discusses flexible interconnections, scheduled DER
+operation, and dynamic operating approaches. These concepts collectively support a more
+dynamic grid architecture capable of accommodating greater levels of variable sources of
+generation and electrification without relying exclusively on traditional infrastructure expansion.
+VGIC recommends that the domain flexibility profiles explicitly identify managed charging and
+bidirectional charging systems as important tools for avoiding or deferring distribution system
+investments. This is especially relevant given the increasing emphasis throughout the profiles on
+
+feeder-level forecasting, hosting capacity analysis, and localized operational constraints. EV
+flexibility can help utilities manage feeder peaks, reduce transformer loading, improve renewable
+integration, and increase hosting capacity utilization in ways that directly support affordability
+objectives.
+VGIC also recommends greater emphasis on flexible service connections and dynamic operating
+limits as alternatives to traditional upgrade approaches. The domain capability profiles already
+acknowledge that flexibility-aware planning and operations will become increasingly important
+as electrification and DER penetration increase. Building upon this concept, the capability
+profiles should more directly recognize that operational flexibility can serve as a planning asset
+capable of unlocking existing grid capacity.
+Finally, VGIC recommends a stronger linkage throughout the domain capability profiles between
+flexibility, affordability, and long-term decarbonization goals. The overarching framework of
+this effort correctly recognizes that the GOFT must simultaneously support reliability,
+affordability, electrification, and clean energy integration. However, the profiles could more
+explicitly emphasize that VGI strategies may be one of the most important mechanisms for
+achieving all of these objectives simultaneously.
+4. Conclusion
+VGIC appreciates the significant effort that the DPS, NYSERDA, and the broader stakeholder
+community have invested in developing the GOTF Domain Capability Profiles and establishing a
+comprehensive framework for the evolution of New York’s electric power ecosystem. VGIC
+believes that transportation electrification and vehicle-grid integration can play a central role in
+advancing the domain capability profiles’ ultimate outcomes related to flexibility, affordability,
+reliability, and decarbonization. We look forward to continuing to work collaboratively with
+DPS, NYSERDA, utilities, industry stakeholders, and other participants in the GOTF proceeding
+to help realize the vast and growing capability of EV as flexible grid resources supporting a
+cleaner, more resilient, and more affordable electric system for New York.

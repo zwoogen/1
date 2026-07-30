@@ -1,0 +1,123 @@
+September 22, 2025
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission to Regarding Electric
+Vehicle Supply Equipment and Infrastructure.
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on Petition Requesting Eligibility Changes to the Medium- and Heavy-Duty Pilot
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from
+flexible EV charging and discharging is recognized and compensated to achieve a more reliable,
+affordable, and efficient electric grid. VGIC appreciates the opportunity to comment on the
+Petition Requesting Eligibility Changes to the Medium- and Heavy-Duty Pilot, filed May 23,
+2025.
+VGIC supports the Joint Utilities’ petition to expand eligibility for MHDV incentives.
+Given the considerable size of the remaining budget allocated to support MHDV
+customers and anticipated increase in MHDV deployments in coming years to meet customer
+1
+
+demand, VGIC strongly supports the Joint Utilities’ petition to expand eligibility for
+MHDV incentives to shared hub models, projects outside of disadvantaged communities,
+and projects without a TVIP, NYSBIP, NYCCTP, EPA CSB, or EPA CHDV voucher.
+VGIC recommends that sites with bidirectional charging equipment have a higher share of
+eligible customer side costs.
+Bidirectional charging use cases can leverage the latent battery capacity in EVs to
+provide backup power to customers, manage customer bills, and support the grid through
+vehicle-to-grid (“V2G”) exports. Revenues from V2G exports can be even more important for
+certain MHDV EVs compared to light-duty EVs, helping to offset the significant costs of
+vehicles and associated charging infrastructure and making electrification projects more
+financially viable. Ultimately, the extent to which V2G exports will support MHDV project
+economics will be determined by vehicle routes, duty cycles, and customer preferences.
+Bidirectional vehicles and EVSE are commercially available for the MHDV sector, with current
+charging station offerings from Nuvve/Fermata, Heliox, InCharge, and Tellus Power Green and
+vehicles from GM, Blue Bird, RIDE, Thomas Built Buses / Daimler, Green Power Motors, and
+other MHDV providers. Several V2G projects currently participate in and receive compensation
+from California’s Emergency Load Reduction Program and Massachusetts’ ConnectedSolutions
+Daily Dispatch program. Moreover, the Joint Utilities maintain VDER tariffs for which V2G
+customers are eligible.
+Given the immense potential of V2G systems to support customer needs, bolster grid
+reliability, and lower system costs, VGIC recommends offering an incrementally higher
+share of eligible costs to these customers compared to sites with only unidirectional
+charging equipment. This will help to partially offset the incremental upfront costs of
+purchasing and installing bidirectional EVSE and the associated equipment, which are a
+significant barrier given the relatively nascent state of the market, which has not yet benefited
+from economies of scale in production and distribution. Based on VGIC’s discussion with
+industry participants, there is an approximately 30% cost premium for a bidirectional EVSE for
+2
+
+MHDV sites compared to a unidirectional EVSE. VGIC believes offering to cover an
+incrementally higher share of eligible costs is critical to spurring the nascent bidirectional
+charging market in New York. VGIC offers itself as a resource and hopes to collaborate closely
+with stakeholders to determine the appropriate incentive level for bidirectional charging
+equipment. However, covering 80% of customer-side costs for bidirectional sites, as opposed
+to the 50% for unidirectional sites, may help to offset the current ~30% premium that
+these sites face. Ultimately, the goal of such market transition support for bidirectional
+charging customers is to reduce ratepayer costs by mitigating distribution system
+upgrades. This would help to offset VGIC’s proposed incrementally higher incentive for
+bidirectional sites. VGIC recognizes the critical need to balance forward-looking initiatives and
+investments in a diverse long-term energy toolkit with maintaining affordability for all utility
+ratepayers. With this in mind, we believe that if the Commission does adopt an incrementally
+higher incentive for bidirectional charging sites, it could also consider additional ratepayer
+protection measures. For example, the Commission could request an attestation that the site will,
+in fact, be used in bidirectional mode.
+In addition, while V2X solutions have demonstrated clear benefits to both customers and
+the grid across the country, the technology is new and unfamiliar to many customers. To
+overcome this gap, VGIC recommends that the MHDV pilot marketing, education, and outreach
+and technical assistance teams work to educate customers on the benefits of bidirectional
+charging use cases, capable chargers, vehicles, and associated equipment, appropriate
+interconnection pathways, applicable rates and programs, and any technical considerations,
+including opportunities to co-locate and integrate other types of distributed energy resources.
+Given the potential complexity of interconnecting relatively large bidirectional MHDV sites, the
+utilities’ technical assistance teams should – in a technology-neutral manner – actively support
+individual customers and fleets through the design and interconnection process and ensure a
+streamlined customer experience.
+3
+
+VGIC recommends that applicants be provided with education about flexible service
+connection options.
+Flexible service connection refers to the use of behind-the-meter software (e.g., power
+sharing algorithms, power control systems, etc.) or hardware (e.g., integrated or co-located
+battery storage, linear generators, etc.) approaches to limit EV charging demand at the service
+connection to a predetermined level below the aggregated charging capacity of the EVSE. For
+example, a charging site with five 150 kW DCFCs can use these technologies to limit its peak
+demand to 600 kW, compared to a nameplate aggregate peak demand of 750 kW. This can help
+avoid or defer the need to upgrade certain customer-side and utility-side make-ready
+infrastructure to accommodate the new charging load. The reduced need for infrastructure
+upgrades can generate savings for the customer installing EV charging and, critically, all
+ratepayers. The potential savings from these flexible service connections can be considerable
+given the significant infrastructure needs of MHDVs. These solutions are also particularly
+valuable given New York’s commitment to proactive planning frameworks – flexible
+service connection provides a complimentary tool to accelerate EV energization while also
+providing the potential to mitigate upward pressure on rates. Additionally, flexible service
+connection can be used to overcome physical space constraints in locations where it is difficult to
+upgrade electrical equipment. This can also rapidly accelerate installation and energization
+timelines.
+The enabling technologies for flexible service connection are mature and already being
+deployed today, and therefore should be considered in all near-term activities related to MHDV
+electrification. Specifically, VGIC urges the Commission to direct utilities to ensure
+education about these flexible service connection options be provided to prospective and
+accepted MHDV make-ready pilot participants, including education about both software
+and hardware-based solutions. This education should be prioritized and more actively provided
+to site designs that would trigger particularly long lead times for utility-side upgrades. This
+education should also align or potentially refer customers to the Load Management Technology
+Incentive Program (LMTIP), which can supplement MHDV pilot funding as it relates
+specifically to the enabling software- and hardware-based solutions.
+4
+
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Commission, the joint utilities, and other stakeholders to ensure the success of
+New York’s transportation electrification efforts.
+Respectfully submitted,
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+vgicregulatory@vgicouncil.org
+www.vgicouncil.org
+5

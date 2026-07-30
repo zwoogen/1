@@ -1,0 +1,1290 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+FILED
+STATE OF CALIFORNIA
+09/15/25
+04:59 PM
+Application of Southern California Edison A2403019
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+JOINT MOTION OF SOUTHERN CALIFORNIA EDISON COMPANY (U 338-E)
+AND SETTLING PARTIES FOR ADOPTION OF ELECTRIC VEHICLE
+RATE DESIGN SETTLEMENT AGREEMENT
+WILLIAM K. BRIGGS
+RYAN JERMAN
+ELLEN C. KENNEY
+Attorneys for
+SOUTHERN CALIFORNIA EDISON COMPANY
+2244 Walnut Grove Avenue
+Post Office Box 800
+Rosemead, California 91770
+Telephone: (626) 302-4632
+E-mail: Ryan.Jerman@sce.com
+Dated: September15, 2025
+
+JOINT MOTION OF SOUTHERN CALIFORNIA EDISON COMPANY (U 338-E)
+AND SETTLING PARTIES FOR ADOPTION OF ELECTRIC VEHICLE
+RATE DESIGN SETTLEMENT AGREEMENT
+Table of Contents
+Section Page
+I. INTRODUCTION ........................................................................................................................... 1
+II. PROCEDURAL AND REGULATORY BACKGROUND ............................................................ 2
+III. SUMMARY OF POSITIONS AND SETTLEMENT ..................................................................... 3
+A. EV Rate Design ................................................................................................................... 3
+1. Guiding Principles ................................................................................................... 3
+2. Rate Design .............................................................................................................. 3
+a) TOU-EV-7 ................................................................................................... 4
+b) TOU-EV-8 & TOU-EV-9 ............................................................................ 4
+B. Load Factor Based Rate Option Proposal ............................................................................ 5
+C. Schedule Option H ............................................................................................................... 5
+D. Zero-Emissions Vehicle Reporting ...................................................................................... 7
+IV. REQUEST FOR ADOPTION OF THE SETTLEMENT AGREEMENT ...................................... 7
+A. The Settlement Agreement is Reasonable In Light Of the Record ..................................... 8
+B. The Settlement Agreement is Consistent with Law ............................................................ 9
+C. The Settlement Agreement Is In the Public Interest ............................................................ 9
+V. CONCLUSION.............................................................................................................................. 10
+ATTACHMENT A ELECTRIC VEHICLE RATE DESIGN SETTLEMENT
+AGREEMENT
+-i-
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+STATE OF CALIFORNIA
+Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+JOINT MOTION OF SOUTHERN CALIFORNIA EDISON COMPANY (U 338-E)
+AND SETTLING PARTIES FOR ADOPTION OF ELECTRIC VEHICLE
+RATE DESIGN SETTLEMENT AGREEMENT
+I.
+INTRODUCTION
+Pursuant to Rule 12.1 et seq. of the California Public Utilities Commission’s
+(Commission’s) Rules of Practice and Procedure, Southern California Edison Company (SCE),
+on behalf of itself, CALSTART, Inc. (CALSTART), the Public Advocates Office at the
+California Public Utilities Commission (Cal Advocates),1 EVgo Services, LLC, Small Business
+Utility Advocates (SBUA), Electrify America, LLC, Solar Energy Industries Association
+(SEIA), Terawatt Infrastructure, Inc. (Terawatt), Vehicle-Grid Integration Council (VGIC), and
+Walmart Inc (jointly the Settling Parties),2 file this joint motion requesting that the Commission
+find reasonable and adopt the “Electric Vehicle Rate Design Settlement Agreement” (Settlement
+Agreement), which is appended to this motion as Attachment A.
+Section II, below, provides the procedural and regulatory background related to this
+proceeding. Section III describes in general the positions advocated by the parties in this
+proceeding and the terms of the Settlement Agreement. Section IV demonstrates that the
+1 Cal Advocates joins in this Motion and in the Settlement Agreement subject to its previously stated
+objection to SCE’s Load Factor Based Rate Option Proposal set forth in the Settlement Agreement’s
+Section C.4(a).
+2 In accordance with Rule 1.8(d), each Settling Party has authorized SCE’s counsel to sign and file this
+motion on its behalf.
+1
+
+Settlement Agreement is reasonable in light of the whole record, consistent with law, and in the
+public interest, and that it should be adopted without modification.
+II.
+PROCEDURAL AND REGULATORY BACKGROUND
+This proceeding, Application (A.) 24-03-019, was initiated by the filing of SCE’s
+application on March 29, 2024, along with service of its prepared direct testimony regarding
+marginal costs, revenue allocation and other aspects of rate design. On August 26, 2024, SCE
+filed an Amended Application and served amended testimony regarding certain revenue
+allocation proposals. On November 1, 2024, the Assigned Commissioner and Assigned
+Administrative Law Judge issued a Scoping Memo and Ruling following a June 3, 2024
+prehearing conference identifying demand charges for TOU-EV-8 and TOU-EV-9 as a
+nonresidential rate design issue to be resolved in the proceeding. Cal Advocates served its initial
+testimony on November 22, 2024 and served amended testimony on December 27, 2024.
+On January 8, 2025, the following Settling Parties served testimony relating, among other
+matters, to SCE’s TOU-EV Rates proposal: Cal Advocates, CALSTART, Electrify America,
+LLC, EVgo Services, LLC, and Walmart Inc.
+SCE provided notice to all parties of its intent to conduct a settlement conference related
+to all issues raised in the proceeding, and an initial settlement conference was held on January 3,
+2025. Continuing discussions related to the potential settlement of issues in this proceeding
+occurred among the interested parties after the settlement conference. On September 4, 2025,
+SCE provided notice to all parties pursuant to CPUC Rule of Practice and Procedure 12.1(b) of a
+settlement conference to review this Agreement. The settlement conference was held on
+September 11, 2025.
+2
+
+III.
+SUMMARY OF POSITIONS AND SETTLEMENT
+As noted, the Settlement Agreement resolves all issues related to Electric Vehicle (EV)
+rate design issues in this proceeding. A matrix of the Settling Parties’ positions is depicted in
+Appendix A to the Settlement Agreement.
+A. EV Rate Design
+1. Guiding Principles
+SCE and Settling Parties discussed rate design guiding principles as part of
+settlement discussions in the development of post 2030 EV rates. Ultimately, Settling Parties
+aligned on the rate design principles adopted in D.23-04-0403, as identified below, and agreed
+that post 2030 EV rates should be addressed in a separate proceeding, such as a Rate Design
+Window (RDW) or new Order Instituting Rulemaking (OIR), that may include the other IOUs.
+Such treatment would allow for more thorough vetting before post-2030 rates are implemented
+and could bring consistency across the state through adoption of common policies and rate
+structures for electric transportation.
+2. Rate Design
+The following summarizes the Settling Parties’ litigation positions on the key
+issues resolved by this Settlement Agreement as well as the settlement that was reached with
+respect to each EV rate. SCE did not propose any structural changes to TOU-EV-7, and it
+proposed to maintain the TOU-EV-8 and TOU-EV-9 energy only rate structures. Cal Advocates,
+CALSTART, Electrify America, EVgo, and Walmart supported delaying the introduction of
+demand charges to January 1, 2030, although some parties noted concerns about cost shifts and
+the need to address EV rate designs post 2030.
+3 Updated Electric Rate Design Principles, pp. 2-3.
+3
+
+When this Agreement is first implemented in 2026, the below estimated Customer
+Charges shall be adjusted, as necessary, consistent with the customer charge treatment of the
+then-current revenues allocated to each rate group in accordance with the Marginal Cost and
+Revenue Allocation (MCRA) Settlement Agreement and specific customer charge treatment
+described in this Settlement Agreement or the class specific settlement agreements.4
+Thereafter, these Customer Charges shall be adjusted consistent with the Base Rates for their
+respective rate classes.
+a) TOU-EV-7
+Settling Parties agree that the customer charge for TOU-EV-7 shall be set
+at $10.79 per month ($0.355 per day). The reduced customer charge is intended to recover the
+cost of the additional meter and associated on-going customer service costs, while recognizing
+that for a portion of TOU-EV-7 customers, the service point and other associated facility costs
+are recovered through the customer charge of the primary (main site) infrastructure.
+b) TOU-EV-8 & TOU-EV-9
+Settling Parties agreed to accept SCE’s proposal to maintain the current
+energy only rate structure. The customer charge for TOU-EV-8 shall be set at $232.74 per
+month and for TOU-EV-9, the customer charge shall be set at $1,113.65 per month for
+Secondary service, $313.25 for Primary service, and $8,512.50 for Subtransmission service.
+Settling Parties also agreed that the Settlement Agreement does not restrict
+the Commission from modifying TOU-EV-8 and TOU-EV-9 in any proceeding relating to
+transportation electrification. Adjustments to account for customers participating in the TOU-
+EV-8 and TOU-EV-9 rates will be made such that the revenue deficiency is contained within the
+individual rate class (e.g., TOU-GS-2, TOU-GS-3, TOU-8) in which the deficiency exists.
+The energy-only rate structure continues to be available to Direct Current Fast Charger (DCFC)
+customers to continue to provide stability to the developing DCFC industry.
+4 See Paragraph 4.B.6 of the MCRA Settlement Agreement.
+4
+
+B. Load Factor Based Rate Option Proposal
+In testimony, CALSTART indicated concern for low load factor customers once demand
+charges began phasing in post 2030. As a result of settlement discussions, SCE proposed a load
+factor based rate option applicable to TOU-EV rates. The rate option will have the effect of
+converting a three-part rate, consisting of customer charge ($/mo.), energy charges ($/kWh) and
+demand charges $/kW), into a two-part rate consisting of customer and energy charges. The rate
+elements are described in Section 5.C.4. of the Settlement Agreement.
+Specifically, Settling Parties agree to a new rate option available to customers eligible for
+rate schedules TOU-EV-8 and TOU-EV-9 during the charging entities initial ramp up years,
+when charging facility load factors are expected to be below 15%. Each participating facility
+will be eligible to participate on the rate option for an initial ramp-up period of only three years,
+which begins at the commencement of energization. The participating facilities’ load factors will
+be monitored on a monthly basis to establish continued eligibility. If a facility’s load factor
+exceeds the upper threshold for three consecutive months, then the facility will be moved to the
+then default EV rate option and the customer cannot return to the rate option even if the
+customer’s load factor declines below the threshold. The customer can also select a rate option
+other than the default EV rate option. If the load factor rate rider option is selected by the
+customer, the rate option will apply when the customer is energized and will remain in effect
+over the three-year term unless the load factor threshold is exceeded.
+While a party to this Settlement Agreement, Cal Advocates maintains its objection to the
+proposed load-factor based (sliding scale) demand charge option. Cal Advocates recommends
+studying this issue further in a future rate case with cost-of-service and contribution-to-margin
+analysis, which can be pursued in the same comprehensive EV rate design proceeding proposed
+by the Settling Parties in Paragraph A.1.
+C. Schedule Option H
+In SCE’s 2021 GRC Phase 2 proceeding, SEIA proposed a new rate option “S” that
+“would start with the design of [the current] Option E rates, except that the noncoincident
+5
+
+demand charge for distribution costs would be converted into a daily coincident peak demand
+charge, applicable during SCE’s on- and mid-peak periods and designed to recover the same
+revenues as the existing monthly noncoincident distribution demand charge.” SEIA’s argument
+for establishment of an Option S rate included consistency across utilities, as the Commission
+had adopted an Option S for PG&E in D.18-08-013, and the noted intent that SEIA’s proposal
+for an Option S design enabled a more efficient dispatch of behind-the-meter (BTM) storage
+resources. SCE argued that the Commission had previously found Option-E to be just and
+reasonable for DERs, and that rate options from one utility could not just be cut and pasted to
+another utility. The Commission rejected Option S but directed SCE “to include a fully analyzed
+proposal for an Option S-like tariff in its next Phase 2 of the GRC,” regardless of whether SCE
+proposed an Option S-like tariff.5
+In this Application, SCE presented an Option S-like rate as directed. SCE started with
+the underlying Option-E rate structure by setting the Facilities Related Demand (FRD) level
+based on the Option E FRD less the Equal Percent Marginal Costs (EPMC) portion of allocated
+revenues. The time-of-use daily demand charge is set to recover the EPMC portion of Option E
+FRD allocated revenues, and the summer-on and winter-mid distribution revenues recovered in
+energy rates. Residually, the remaining distribution revenues would be recovered through TOU
+energy charges by retaining the current TOU ratios of the Option E distribution energy rates.
+No changes were made to the generation portion of the Option E rate structure. SCE did not
+support SEIA’s structural design for an Option-S like rate, where SEIA proposed that 80% of the
+costs in SCE’s distribution FRD be recovered through the time-dependent daily demand charge.
+Settling parties agree to introduce a TOU-Option H schedule for the TOU-GS-2, TOU-
+GS-3, TOU-8-SEC rate classes. The Option H schedule is designed for, but not limited to, low-
+to-medium load factor applications in the electric transportation sector and for customers with
+BTM stationary storage. For distribution charges, the rate structure introduces a Daily Peak
+5 D.22-10-022, p. 18.
+6
+
+Time-Related Demand (TRD) charge to capture a portion of the Peak-capacity and Grid-related
+costs, and an FRD exclusion window where the FRD changes do not apply from 8 a.m. to 1 p.m.
+The FRD charge is set at 45% of the Option E FRD charge for TOU-8-SEC, 46% for TOU-GS-
+3, and 40% for TOU-GS-2. The remainder of the Option E FRD revenues is then designed for
+recovery in the Daily Peak-TRD charge. The residual portion of design demand revenues are
+recovered via volumetric TOU Energy charges that are set based on the TOU ratios of the
+respective class Option E rates and calculated to maintain revenue neutrality in each season.
+For generation, the design is identical to the Option E rate design where the recovery of
+energy and capacity revenues is via a TRD Charge set at twenty-five percent (25%) of the
+Standby Backup Demand Charge with the balance of revenues recovered via TOU Energy
+Charges.
+D. Zero-Emissions Vehicle Reporting
+SCE proposed to discontinue reporting on participation levels for zero-emission vehicle
+loads on Option E rate schedules and EV specific rates. Cal Advocates rejected SCE’s proposal
+to remove this reporting requirement, claiming it would be premature to stop reporting that
+could provide valuable insights on customer preferences and perceptions of rate options.
+Ultimately, Settling Parties agreed to modify the reporting requirements to provide details on
+customer migrations from EV rates to Option E rates.
+IV.
+REQUEST FOR ADOPTION OF THE SETTLEMENT AGREEMENT
+The Settlement Agreement is submitted pursuant to Rule 12.1 et seq. of the
+Commission’s Rules of Practice and Procedure. The Settlement Agreement is consistent with
+Commission decisions on settlements, which express the strong public policy favoring settlement
+of disputes if they are fair and reasonable in light of the whole record.6 This policy supports
+many worthwhile goals, including reducing the expense of litigation, conserving scarce
+6 See, e.g., D.88-12-083 (30 CPUC 2d 189, 221-223) and D.91-05-029 (40 CPUC 2d, 301, 326).
+7
+
+Commission resources, and allowing parties to reduce the risk that litigation will produce
+unacceptable results.7 As long as a settlement taken as a whole is reasonable in light of the
+record, consistent with the law, and in the public interest, it should be adopted without change.
+The Settlement Agreement complies with Commission guidelines and relevant precedent
+for settlements. The general criteria for Commission approval of settlements are stated in
+Rule 12.1(d) as follows:
+The Commission will not approve stipulations or settlements,
+whether contested or uncontested, unless the stipulation or
+settlement is reasonable in light of the whole record, consistent
+with law, and in the public interest.8
+The Settlement Agreement meets the criteria for a settlement pursuant to Rule 12.1(d), as
+discussed below.
+A. The Settlement Agreement is Reasonable In Light Of the Record
+The prepared testimony of SCE and Settling Parties, and the Settlement Agreement itself,
+and this motion contain the information necessary for the Commission to find the Settlement
+Agreement reasonable in light of the record.
+The Settlement Agreement represents a reasonable compromise of the Settling Parties’
+positions. The prepared testimony of the Settling Parties, together with this motion and the
+attached Settlement Agreement (which includes the comparison exhibits), contain sufficient
+information for the Commission to judge the reasonableness of the settlement. Without
+divulging the content of confidential settlement negotiations, concessions by Settling Parties on
+some issues were offset by concessions by other Settling Parties on other issues, as is the case
+with almost every settlement. The Settlement Agreement accordingly represents a series of
+tradeoffs and must be viewed as a “package.” No single provision should be viewed in isolation,
+although every individual provision is reasonable, lawful, and in the public interest. In summary,
+7 D.92-12-019, 46 CPUC 2d 538, 553.
+8 See also, Re San Diego Gas & Electric Company, (D.90-08-068), 37 CPUC 2d 360.
+8
+
+the Settlement Agreement is a reasonable compromise of the Settling Parties’ respective
+positions, as summarized in Section III and discussed in the following sections.
+B. The Settlement Agreement is Consistent with Law
+The Settling Parties believe that the terms of the Settlement Agreement comply with all
+applicable statutes and prior Commission decisions, and reasonable interpretations thereof.
+In agreeing to the terms of the Settlement Agreement, the Settling Parties have explicitly
+considered the relevant statutes and Commission decisions and believe that the Commission can
+approve the Settlement Agreement without violating applicable statutes or prior Commission
+decisions.
+C. The Settlement Agreement Is In the Public Interest
+This Settlement Agreement is “supported by parties that fairly represent the affected
+interests” at stake in this proceeding.9 As the Commission has found, “[w]hile it is true that we
+employ a ‘heightened’ focus on the individual elements of a settlement when all interest groups
+are not accommodated, the focus itself is on whether the settling parties brought to the table
+representatives of all groups affected by the settlement. This is not necessarily the same as
+accommodating the litigation positions of all parties.”10 The Settlement Agreement is a
+reasonable compromise of the Settling Parties’ respective positions, as summarized in Section
+III. The Settlement Agreement is in the public interest and in the interest of SCE’s customers.
+The Agreement fairly resolves issues and provides more certainty to customers regarding their
+present and future costs, which is in the public interest.
+The Settlement Agreement, if adopted by the Commission, avoids the cost of further
+litigation, and frees up Commission resources for other proceedings. Given that the
+Commission’s workload is extensive, the impact on Commission resources is doubly important.
+The Settlement Agreement frees up the time and resources of other parties as well, so that they
+may focus on other proceedings and on the other tracks of this large proceeding. The prepared
+9 See D.07-11-018, Order Denying Rehearing of Decision 07-03-044.
+10 Id. (citing Re Southern California Edison Company, 1996, 64 Cal.P.U.C.2d 241, 267).
+9
+
+direct testimony contains sufficient information for the Commission to judge the reasonableness
+of the Settlement Agreement and for it to discharge any future regulatory obligation with respect
+to this matter.
+Each portion of the Settlement Agreement is dependent upon the other portions of the
+Settlement Agreement. Changes to one portion of the Settlement Agreement would alter the
+balance of interests and the mutually agreed upon compromises and outcomes that are contained
+in the Settlement Agreement. As such, the Settling Parties request that the Settlement
+Agreement be adopted as a whole by the Commission, as it is reasonable in light of the whole
+record, consistent with law, and in the public interest.
+V.
+CONCLUSION
+WHEREFORE, the Settling Parties respectfully request that the Assigned Commissioner,
+Assigned ALJ, and the Commission:
+1. Approve the attached Settlement Agreement as reasonable in light of the record,
+consistent with law, and in the public interest; and
+2. Authorize SCE to implement changes in rates and tariffs via a Tier 1 Advice
+Letter in accordance with the terms of the Settlement Agreement.
+Respectfully submitted on behalf of the Settling Parties,
+WILLIAM K. BRIGGS
+RYAN JERMAN
+ELLEN C. KENNEY
+/s/ Ryan Jerman
+By: Ryan Jerman
+Attorneys for
+SOUTHERN CALIFORNIA EDISON COMPANY
+2244 Walnut Grove Avenue
+Post Office Box 800
+Rosemead, California 91770
+Telephone: (626) 302-4632
+Dated: September 15, 2025 E-mail: Ryan.Jerman@sce.com
+10
+
+Attachment A
+Electric Vehicle Rate Design Settlement Agreement
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+STATE OF CALIFORNIA
+Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+ELECTRIC VEHICLE RATE DESIGN
+SETTLEMENT AGREEMENT
+Dated: September 12, 2025
+
+Electric Vehicle Rate Design Settlement Agreement
+Table of Contents
+Section Page
+1. PARTIES ................................................................................................................................. 1
+2. DEFINITIONS ......................................................................................................................... 3
+3. RECITALS .............................................................................................................................. 4
+4. BACKGROUND ..................................................................................................................... 5
+5. AGREEMENT ......................................................................................................................... 6
+A. Illustrative Rates .......................................................................................................... 6
+B. Common Rate Design Elements .................................................................................. 6
+1) TOU Periods and Seasonal Definitions ........................................................... 7
+2) Customer Charges ............................................................................................ 7
+3) Energy Charges ................................................................................................ 8
+a) Non-Generation-Related Energy Charges ........................................... 8
+b) Generation-Related Energy Charges.................................................... 8
+C. EV Rates ..................................................................................................................... 8
+1) Schedule TOU-EV-7 ........................................................................................ 8
+2) Schedules TOU-EV-8 & TOU-EV-9 ............................................................... 9
+3) Schedule Option H ......................................................................................... 11
+4) Load Factor Based Rate Option Proposal ...................................................... 12
+a) Framework ......................................................................................... 12
+b) Rate Elements .................................................................................... 13
+5) Zero-Emissions Vehicle Reporting ................................................................ 14
+D. Implementing Future Revenue Changes in Rates ...................................................... 14
+6. IMPLEMENTATION OF SETTLEMENT AGREEMENT ................................................. 15
+7. INCORPORATION OF COMPLETE AGREEMENT ......................................................... 15
+8. RECORD EVIDENCE .......................................................................................................... 15
+-i-
+
+Electric Vehicle Rate Design Settlement Agreement
+Table of Contents (Continued)
+Section Page
+9. SIGNATURE DATE ............................................................................................................. 15
+10. REGULATORY APPROVAL .............................................................................................. 16
+11. COMPROMISE OF DISPUTED CLAIMS........................................................................... 16
+12. NON-PRECEDENTIAL ........................................................................................................ 17
+13. PREVIOUS COMMUNICATIONS ...................................................................................... 17
+14. NON-WAIVER...................................................................................................................... 17
+15. EFFECT OF SUBJECT HEADINGS .................................................................................... 17
+16. GOVERNING LAW .............................................................................................................. 17
+17. NUMBER OF ORIGINALS .................................................................................................. 18
+APPENDIX A COMPARISON OF PARTY POSITIONS ON EV RATE GROUP RATE
+DESIGN ISSUES AND SETTLEMENT
+APPENDIX B ILLUSTRATIVE EV RATE GROUP RATES
+-ii-
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+STATE OF CALIFORNIA
+Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+ELECTRIC VEHICLE RATE DESIGN
+SETTLEMENT AGREEMENT
+This Electric Vehicle Rate Design Settlement Agreement (EV) Agreement or Settlement
+Agreement) is entered into by and among the undersigned Parties hereto, with reference to the
+following:
+1. PARTIES
+The Parties to this Agreement are Southern California Edison Company (SCE), the Public
+Advocates Office at the California Public Utilities Commission (Cal Advocates),1 CALSTART, Inc.,
+Electrify America, LLC, EVgo Services, LLC, Small Business Utility Advocates (SBUA), Solar Energy
+Industries Association (SEIA), Vehicle-Grid Integration Council (VGIC), Terawatt Infrastructure, Inc.
+(Terawatt), and Walmart Inc., referred to hereinafter collectively as Settling Parties or individually as a
+Party.
+A. SCE is an investor-owned public utility (IOU) and is subject to the jurisdiction of the
+California Public Utilities Commission (Commission or CPUC) with respect to providing
+electric service to its CPUC-jurisdictional retail customers.
+B. Cal Advocates represents the interests of public utility customers. Its goal is to obtain the
+lowest possible rate for service consistent with safe, reliable service, and the State’s
+environmental goals. Pursuant to California Public Utilities Code Section 309.5(a), Cal
+1 Cal Advocates is a party to all provisions of this Settlement Agreement except Section 5.C(4), “Load Factor
+Based Rate Option Proposal.”
+1
+
+Advocates is directed to primarily consider the interests of residential and small
+commercial customers in revenue allocation and rate design matters.
+C. CALSTART, Inc. headquartered in California, is a globally renowned 501(c)3 non-profit
+organization dedicated to the advancement of zero emission vehicle and infrastructure
+technology. With a global consortium of over 200 technology, government, industry, and
+community partners, CALSTART has worked for 30+ years to accelerate the
+commercialization and deployment of advanced technologies and solutions.
+D. Electrify America, LLC is an electric vehicle charging network with more than 4,400 fast
+chargers at more than 1,000 locations across the United States.
+E. EVgo Services, LLC is one of the nation’s leading public fast charging providers. With
+more than 1,100 fast charging stations across over 40 states, EVgo strategically deploys
+localized and accessible charging infrastructure by partnering with leading businesses
+across the U.S., including retailers, grocery stores, restaurants, shopping centers, gas
+stations, rideshare operators, and autonomous vehicle companies.
+F. SBUA is a nonprofit organization that represents, protects, and promotes the interests of the
+small business utility customers.
+G. SEIA is the national trade association of the solar and storage industry. Through outreach
+and education, SEIA and its over 1200 member companies work to make solar energy a
+mainstream and significant energy source by expanding markets, removing market barriers,
+strengthening the industry, and educating the public on the benefits of solar energy and
+storage.
+H. Vehicle Grid Integration Council is a 501(c)6 membership-based advocacy group
+committed to advancing the role of electric vehicles and vehicle-grid integration through
+policy development, education, outreach, and research.
+I. Terawatt provides reliable charging solutions for the future of fleet transportation. The
+company designs, operates, and owns electric vehicle charging hubs for fleet operations
+combining property assets with energy and charging expertise. Terawatt was founded, in
+2
+
+the absence of anything like it, to be the nation’s reliable, long-term partner in the
+inevitable transition to all-electric transportation.
+J. Walmart Inc. is a multinational retail corporation that operates 303 retail units, 17
+distribution centers, and four fulfillment centers and employs over 104,000 associates in
+California.
+2. DEFINITIONS
+When used in initial capitalization in this Settlement Agreement, whether in singular or plural,
+the following terms shall have the meanings set forth below or, if not set forth below, then as they are
+defined elsewhere in this Settlement Agreement:
+A. “Commission” or “CPUC” means the California Public Utilities Commission.
+B. “Default Rate” means the rate schedule on which the customer is automatically placed
+when starting service unless the customer requests otherwise.
+C. “DER” means “Distributed Energy Resource.”
+D. “EV” means “electric vehicle.”
+E. “MCRA Settlement Agreement” means the Marginal Cost and Revenue Allocation
+Settlement Agreement filed in this proceeding on June 30, 2025.
+F. “OAT” means the customer’s otherwise applicable tariff.
+G. “Paired storage” means BTM electric storage technology including, but not limited to,
+electric battery systems, that are combined behind the same meter or billed on the same
+service account as other DERs, usually solar.
+H. “RDW” means Rate Design Window proceeding.
+I. “RECC” or “Real Economic Carrying Charge,” means a constant payment in real dollars
+that includes the recovery of the capital investment, earnings, taxes, and other capital
+carrying costs. The RECC when escalated at the rate of inflation over the life of the asset
+recovers the net present value of revenue requirement of a utility investment. It also
+represents the value of deferring a utility investment by a year.
+3
+
+J. “Standalone storage” means BTM electric storage technology including, but not limited to,
+electric battery systems that are not combined behind the same meter or billed on the same
+service account as other DERs.
+K. “ZEV” means Zero-Emissions Vehicle.
+3. RECITALS
+A. In Phase 2 of SCE’s 2025 General Rate Case (GRC), the Commission allocates SCE’s
+authorized revenue requirement among rate groups and authorizes rate design changes for
+rate schedules in each rate group.
+B. On March 29, 2024, SCE served its initial prepared testimony regarding marginal costs,
+revenue allocation and rate design in Application (A.)24-03-019. On August 26, 2024,
+SCE filed an Amended Application and served amended testimony regarding certain
+revenue allocation proposals.
+C. On November 1, 2024, the Assigned Commissioner and Assigned Administrative Law
+Judge issued a Scoping Memo and Ruling following a June 3, 2024 prehearing conference.
+D. The Public Advocates Office served its initial testimony on November 22, 2024.
+Intervenors, including the Settling Parties to this Agreement, served their initial prepared
+testimony on January 8, 2025.
+E. The following intervenors submitted prepared testimony regarding EV Rate Design Issues:
+Cal Advocates, CALSTART, Inc, Electrify America, LLC, EVgo Services, and Walmart
+Inc.
+F. SCE provided notice to all parties of its intent to conduct a settlement conference related to
+all issues raised in the proceeding, and an initial settlement conference was held on January
+16, 2025.
+G. Continuing settlement discussions occurred among the parties after January 16, 2025.
+H. Appendix A to this Agreement provides a comparison of the Settling Parties’ positions,
+where applicable, related to EV Rate Group rate design issues that have been resolved by
+this Agreement. In the event of a conflict between the terms of this Agreement and
+4
+
+Appendix A, the terms of this Agreement shall control. Appendix B provides illustrative
+EV Rate Group rates resulting from this Settlement Agreement. Consistent with Paragraph
+11 of this Settlement Agreement, these class average summaries are for illustrative
+purposes only. The rate summaries will be adjusted to reflect SCE’s actual revenue
+requirements in accordance with the provisions of the MCRA Settlement Agreement when
+rates are first implemented pursuant to the provisions of this Agreement.
+I. The Settling Parties have evaluated the impacts of the various proposals in this proceeding
+and desire to resolve all issues related to rate design regarding EV Rate Group customers as
+set forth in this Agreement beginning with the implementation of a CPUC decision
+approving this Agreement, and, in consideration of the mutual obligations, covenants and
+conditions contained herein, have reached agreement as indicated in Paragraphs 4 and
+thereafter of this Agreement.
+4. BACKGROUND
+In SCE’s 2021 GRC Phase 2 proceeding, the Settling Parties agreed to a settled position
+with regard to EV rates that was consistent with Decision (D.)18-05-040, in which the Commission
+adopted a “Joint Stipulation”2 outlining an agreed upon methodology for SCE’s rate design for then-
+new EV rates, including the TOU-EV-8 and TOU-EV-9 rates addressed in this Settlement Agreement.
+Specifically, D.18-05-040 provided (with emphasis added):
+[Ordering Paragraph] 43. Southern California Edison Company (SCE) may
+offer its Commercial Electric Vehicle Rate proposal as modified by the Joint
+Stipulation set forth in Exhibit Joint-12. SCE may offer the transmission
+related proposals in Exhibit Joint-12 on a temporary three-year basis, provided
+SCE files a Single Issue 205 filing with the Federal Energy Regulatory
+Commission (FERC) for approval of the 70/30 proxy temporary rates and takes
+the appropriate steps to complete a transmission marginal cost study in its
+General Rate Case phase 2. In the event FERC does not approve the 70/30
+proxy split, SCE may implement its proposed commercial rate EV rates using
+the transmission cost allocation currently approved by FERC.
+2 The signatories to the Joint Stipulation were Cal Advocates, Natural Resources Defense Council. Siemens,
+Sierra Club, Environmental Defense Fund and the Coalition of California Utility Employees.
+5
+
+Settling Parties agreed to extend the energy-only structure of TOU-EV-8 and TOU-EV-9 beyond
+the five-year timeline initially established in D.18-05-040, a modification that was consistent with the
+Joint Stipulation’s offramp for proposals made in a GRC Phase 2. The Settling Parties further agreed
+at that time, that if the energy-only rate structures remained in effect at the time SCE files its next GRC
+Phase 2, then SCE would either propose to begin the gradual introduction of demand charges or
+propose rate structure updates for TOU-EV-8 and TOU-EV-9 that address how demand charges should
+be implemented.3
+5. AGREEMENT
+Nothing in this Agreement shall be deemed to constitute an admission by any Settling Party that
+its position on any issue lacks merit, or a claim by a Settling Party that its position has greater or lesser
+merit than the position taken by any other Settling Party. This Agreement is subject to the express
+limitation on precedent as provided in Commission Rule 12.5 and as described in Paragraph 11. Unless
+specifically stated otherwise herein, this Agreement and its terms are intended to remain in effect until a
+decision is implemented in Phase 2 of SCE’s next GRC.
+A. Illustrative Rates
+The Settling Parties agree that the results of the rate design process illustrated by the rate
+schedules in Appendix B to this Agreement are reasonable. These rates are based on the EV share of the
+consolidated revenue requirement of $17,466 million described in more detail in Paragraph 4.B of the
+MCRA Settlement Agreement. These illustrative rates shall be adjusted consistent with the terms of this
+Agreement and the CPUC’s decision in this proceeding related to the MCRA Settlement Agreement to
+reflect SCE’s actual total system revenue requirement when this Agreement is implemented.
+B. Common Rate Design Elements
+Consistent with SCE’s Application, rate structures for the EV Rate Groups will generally
+consist of Customer Charges, TOU Energy Charges, and FRD Charges for the TOU-EV-7 rate schedule.
+3 Settling Parties also agreed that this Settlement Agreement does not restrict the Commission from modifying
+TOU-EV-8 and TOU-EV-9 in any proceeding relating to transportation electrification.
+6
+
+TOU-EV-8 and TOU-EV-9 rate schedules will continue to retain an all-energy TOU rate structure with
+applicable customer charges.
+1) TOU Periods and Seasonal Definitions
+SCE’s existing TOU periods and summer/winter season definitions for EV
+customers shall not be modified from their current definitions. (i.e., summer: June through September;
+winter: October through May).
+2) Customer Charges
+Customer Charges shall be derived based on SCE’s as-proposed RECC customer
+marginal cost method, but adjusted to recover a portion (i.e., the first 50 kVA) of the FLT costs in the
+FRD Charge. Customer Charges shall be set at the full EPMC level for all customers in the EV Rate
+Groups. Illustrative monthly Customer Charges are listed in Table 1, below:
+Table 1: Illustrative Monthly Customer Charges
+When this Agreement is first implemented in 2026, these estimated Customer
+Charges shall be adjusted, as necessary, consistent with the customer charge treatment of the then-
+current revenues allocated to each rate group in accordance with the MCRA Settlement Agreement and
+specific customer charge treatment described in this agreement or the class specific Settlement
+Agreements.4 Thereafter, these Customer Charges shall be adjusted on a Functional SAPC basis.
+4 See Paragraph 4.B.6 of the MCRA Settlement Agreement.
+7
+
+3) Energy Charges
+Proposed Energy Charges based on SCE’s October 2024 consolidated revenue
+requirement are set forth in Appendix B.5 When this Agreement is first implemented in 2026, these
+estimated Energy Charges shall be adjusted, as necessary, consistent with the then-current revenues
+allocated to each rate group in accordance with the MCRA Settlement Agreement.6 Thereafter, these
+estimated Energy Charges shall be adjusted consistent with Paragraph 4.B.7 of the MCRA Settlement
+Agreement when SCE’s authorized revenue requirements change.
+a) Non-Generation-Related Energy Charges
+Energy Charges that are designed to recover revenues associated with the
+following categories -- transmission (TOTCA), distribution,7 public purpose programs, new system
+generation service, nuclear decommissioning, Wildfire Fund Non-bypassable Charge, Fixed Recovery
+Charge, and the CPUC reimbursement fee -- shall be established on the basis of the specific functional
+authorized revenue requirements and the terms specified in the MCRA Settlement Agreement.
+b) Generation-Related Energy Charges
+Except where otherwise specified in this Agreement, generation-related
+Energy Charges shall be established based on the TOU marginal energy costs used in the MCRA
+Settlement Agreement.
+C. EV Rates 8
+1) Schedule TOU-EV-7
+TOU-EV-7 is a separately metered rate applicable solely to the charging of EVs
+for customers with demands of 20 kW or less. With regard to distribution charges, SCE will keep in
+5 The estimated consolidated revenue requirement, as defined in Paragraph 4.B.1 of the MCRA Settlement
+Agreement, is $17,466 million.
+6 See Paragraph 4.B.6 of the MCRA Settlement Agreement.
+7 The recovery of distribution revenues via Energy Charges varies based on the specific rate option, and is
+further discussed in the “Base and Optional Rates and Rate Design” section below.
+8 Cal Advocates joins the Settlement Agreement subject to its previously stated objection to the Load Factor
+Based Rate Option Proposal set forth herein.
+8
+
+place a feature that limits distribution charges for eligible TOU-EV-7 customers.9 Because the EV rates
+feature a combination of distribution energy and demand charges, the demand comparison calculation
+and any resulting distribution “credit” will apply to both energy and demand charges.
+Separately, the customer charge for TOU-EV-7 shall be set at $10.79 per month
+($0.355 per day). The reduced customer charge is intended to recover the cost of the additional meter
+and associated on-going customer service costs, while recognizing that for a portion of TOU-EV-7
+customers, the service point and other associated facility costs are recovered through the customer
+charge of the primary (main site) infrastructure. The revenue deficiency generated by this customer
+charge benefit will be collected through flat energy charges in order to maintain a revenue neutral rate
+design.
+For distribution, all Peak-capacity, Grid-capacity, and the balance of the customer
+charge revenues are recovered via volumetric TOU Energy charges across both the summer and winter
+periods for the default Option E rates. The seasonal delta across the average summer and winter rates
+are held at the seasonal delta of the default TOU-GS-1 Option E rate. Additionally, the summer and
+winter TOU ratios are consistent with the TOU-GS-1 default Option E rate. For TOU-EV-7 Option D,
+an FRD charge is introduced to recover a portion of the Grid-related cost thereby reducing the
+volumetric TOU Energy charges by an equal cents-per-kWh offset.
+For generation, all capacity and energy related costs are recovered via volumetric
+TOU Energy charges across both the summer and winter periods. The seasonal delta across the average
+summer and winter rates are consistent with the default TOU-GS-1 Option E rate. Additionally, the
+summer and winter TOU ratios are consistent with the default TOU-GS-1 Option E rate.
+2) Schedules TOU-EV-8 & TOU-EV-9
+Schedules TOU-EV-8 and TOU-EV-9 are separately metered rates applicable
+solely to the charging of EVs for customers. With regard to distribution charges, SCE will continue to
+offer a feature that limits distribution charges for TOU-EV-8 and TOU-EV-9 customers. The current
+9 TOU-EV-7 customers who are collocated on the same premises as the General Service account.
+9
+
+versions of TOU-EV-8 and TOU-EV-9 reflect an energy-only rate structure. D.18-05-040 contemplated
+ending this energy-only rate structure, and beginning a gradual introduction of demand charges, five
+years after these two rates were originally authorized. For the energy-only structure Settling Parties
+agreed to extend the current versions of TOU-EV-8 and TOU-EV-9, beyond the five-year timeline
+established by D.18-05-040, and the incremental extension settled in the 2021 GRC Phase 2 proceeding.
+Settling Parties also agreed that this Settlement Agreement did not restrict the Commission from
+modifying TOU-EV-8 and TOU-EV-9 in any proceeding relating to transportation electrification.
+Adjustments to account for customers participating in the TOU-EV-8 and TOU-EV-9 rates will be made
+such that the revenue deficiency is contained within the individual rate class (e.g., TOU-GS-2, TOU-GS-
+3, TOU-8) in which the deficiency exists. The energy-only rate structure is also available to Direct
+Current Fast Charger (DCFC) to continue to provide stability to the developing DCFC industry. Settling
+Parties agreed to the following rate design criteria for TOU-EV-8 and TOU-EV-9 rates.
+• TOU-EV-8:
+For distribution, all Peak-capacity and Grid-capacity costs are recovered via
+o
+volumetric TOU Energy charges across both the summer and winter periods.
+The proportion of seasonal revenue recovery is held constant relative to the
+current (October 2024) TOU-EV-8 rate structure. For summer, the Off- and
+Mid- peak rates, and for winter, the Super-Off and Off- peak rates are set based
+on marginal cost, and Summer On-peak and Winter Mid-Peak rates are
+calculated to maintain revenue neutrality by season.
+For generation, all capacity and energy related costs are recovered via marginal
+o
+cost based volumetric TOU Energy charges across both the summer and winter
+periods.
+• TOU-EV-9:
+For TOU-EV-9-SEC, the customer charge is set at 110 percent of unscaled
+o
+marginal cost. The remainder of the customer charge revenue along with Peak
+capacity and Grid-related costs are recovered via volumetric TOU Energy
+10
+
+charges across both the summer and winter periods. For TOU-EV-9-SEC and
+TOU-EV-9-PRI, the seasonal revenue proportion is based on the marginal cost
+proportion of summer and winter revenues. Summer off-peak rates are set based
+on marginal cost and On- and Mid-peak rates are held equal and calculated to
+maintain revenue neutrality for the summer. Winter Mid, Winter-Off, and
+Super-off peak rates were set based on prescribed TOU ratios of 2.3/2.3/1.0
+respectively and calculated to maintain revenue neutrality for the winter.
+For TOU-EV-9 SUB distribution, Peak-capacity and Grid-related costs are
+o
+recovered via volumetric TOU Energy charges across both the summer and
+winter periods. The seasonal revenue proportion is based on the marginal cost
+proportion of summer and winter revenues. Summer off-peak rates are set based
+on marginal cost and On- and Mid-peak rates are held equal and calculated to
+maintain revenue neutrality. Winter Mid, Winter-Off, and Super-off peak rates
+were set based on prescribed TOU ratios of 3.75/3.75/1.0 respectively and
+calculated to maintain revenue neutrality for the winter.
+For TOU-EV-9-SEC, PRI and SUB generation, all capacity and energy related
+o
+costs are recovered via marginal cost based volumetric TOU Energy charges
+across both the summer and winter periods.
+3) Schedule Option H
+Using SCE’s analysis on Option S as the foundation for this new rate option,
+Settling Parties agree to introduce a TOU-Option H schedule for the TOU-GS-2, TOU-GS-3, TOU-8-
+SEC rate classes. For customers with BTM storage that are enrolled on Option H of the noted rate
+classes above, systems qualifying under this schedule must have a minimum discharge capacity equal to
+or greater than 10 percent of the Customer’s annual peak demand, as recorded over the previous 12
+months with the associated minimum kWh determined by a minimum discharge duration of four hours
+per day. The Option H schedule for all three rate classes is designed with the same rate design
+parameters. For distribution, the rate structure introduces a Daily Peak-TRD charge to capture a portion
+11
+
+of the Peak-capacity and Grid-related costs, and an FRD exclusion window where the FRD charges do
+not apply from 8 a.m. to 1 p.m. The FRD charge is set at 45% of the Option E FRD charge for TOU-8-
+SEC, 46% for TOU-GS-3, and 40% for TOU-GS-2. The remainder of the Option E FRD revenues is
+then designed for recovery in the Daily Peak-TRD charge. The residual portion of design demand
+revenues are recovered via volumetric TOU Energy charges that are set based on the TOU ratios of the
+respective class Option E rates and calculated to maintain revenue neutrality in each season.
+For generation, the design is identical to the Option E rate design where the
+recovery of energy and capacity revenues is via a TRD Charge set at twenty-five percent (25%) of the
+Standby Backup Demand Charge with the balance of revenues recovered via TOU Energy Charges.
+4) Load Factor Based Rate Option Proposal
+a) Framework
+Settling Parties, except Cal Advocates, agree to introduce a load factor-
+based rate option applicable to eligible customers on TOU-EV rates. The rate option will have the effect
+of converting a three-part rate, consisting of customer charge ($/mo.), energy charges ($/kWh) and
+demand charges $/kW), into a two-part rate consisting of customer and energy charges. The intent of
+the option is to provide a stable affordable rate structure to medium- heavy-duty charge facilities during
+the charging entities’ initial ramp up years when charging facility load factors are expected to be below
+15%. Each participating facility will be eligible to participate on the rate rider for an initial ramp-up
+period of three years, which begins at the commencement of energization. The participating facility’s
+load factors will be monitored on a monthly basis to establish continued eligibility - If a facility’s load
+factor exceeds the upper threshold for three consecutive months, then the facility will be moved to the
+then default EV rate option and the customer cannot return to the rate option even if the customer’s load
+factor declines below the threshold. The customer can also select a rate option other than the default EV
+rate option. If Load Factor rate rider option is selected by the customer, the rider will apply when the
+customer is energized and will remain in effect over the three-year term unless the load factor threshold
+is exceeded as discussed above.
+12
+
+b) Rate Elements
+1) The LFR will be available to customers who would otherwise be
+served on the then default TOU-EV-8 and TOU-EV-9 rate schedules
+and are expected to have load factors equal to or below 15%.
+2) The rate option will be applied to the applicable tariff through two
+rate components, these include:
+a) A demand charge credit on a $/kW basis to offset the
+Facilities Related Demand (FRD) and or Time Related
+Demand (TRD) charge(s) and;
+b) An energy charge on a flat $/kWh basis to recover the revenue
+deficiency produced by the demand charge credit, which is
+intended to maintain the EV rate revenue neutrality.
+3) Participating customers will have access to the LFR over the initial
+three years of operations at the participating facility starting from the
+participating service account’s energization date.
+a) At the end of the three-year period the participating service
+account will be moved to the then default EV tariff rate.
+b) Customers will also have the option of selecting an eligible
+tariff other than the default EV tariff rate.
+4) SCE will monitor the charging facility load factors over each billing
+period to determine eligibility for the LFR.
+a) If the facility load factor exceeds the threshold for three
+consecutive billing periods, then the LFR will no longer apply
+and the facility will be moved to the then default EV tariff
+rate.
+i) Customers will also have the option of selecting an
+applicable tariff other than the default EV tariff.
+13
+
+ii) Customers may not return to the rate option thereafter,
+even if load factor declines below the threshold.
+b) Effective date is date customer is energized and will remain in
+effect if the facility (service account) load factor is equal to or
+below the threshold for up to twelve consecutive billing
+periods within the LFR eligibility period (i.e., first three years
+of operations starting from the energization date).
+i) The facility must be on a default EV rate option in order
+to receive the LFR adjustment.
+5) Zero-Emissions Vehicle Reporting
+SCE proposed to discontinue reporting on participation levels for zero-emission
+vehicle loads on Option E rate schedules and EV specific rates. Cal Advocates opposed SCE’s proposal
+to remove this reporting requirement, claiming it would be premature to stop reporting that would
+provide valuable insights on customer preferences and perceptions of rate options. SCE has not reached
+the trigger to submit an Advice Letter and believes that this prescribed reporting should be discontinued.
+The tracking process is complicated, time-intensive, and insights gained from the current end use load
+extraction methods are time intensive and can require expensive field verification methods to ensure
+accuracy of the estimated EV load on Option E. Settling Parties agree to modify the reporting
+requirements to provide enrollment number details specific to customer migrations from EV rates to
+Option E rates.
+D. Implementing Future Revenue Changes in Rates
+As described in the MCRA Settlement Agreement,10 when SCE’s authorized revenues
+change in the future, SCE will first adjust rate levels for the default rate schedules (without CPP
+elements), e.g., Schedules TOU-GS-2-D, TOU-GS-3-D, and Schedule TOU-8-Sec-D, using a Functional
+SAPC adjustment. SCE will then rebalance optional rate levels to ensure revenue neutrality between the
+10 See Paragraph 4.B.7 of the MCRA Settlement Agreement.
+14
+
+default rate schedule and the optional rate schedules within each rate class. For example, generation
+revenue changes resulting from SCE’s ERRA proceedings shall be allocated on a Functional SAPC
+basis, i.e., the revised SCE generation revenue requirement will be allocated by applying a generation-
+level SAPC scalar to the relevant generation-related charges, based on the difference between present
+rate revenues and proposed rate revenues for the default rate schedules. The optional rate schedules will
+then be adjusted to ensure revenue neutrality on a functional basis within each rate class, except for
+TOU-GS-3 as specified in Paragraph 4.C.2 above.
+6. IMPLEMENTATION OF SETTLEMENT AGREEMENT
+It is the intent of the Settling Parties that SCE should be authorized to implement the rates
+resulting from this Settlement Agreement as soon as practicable following the issuance of a final
+Commission decision approving this Settlement Agreement, but no earlier than June 1, 2026.
+7. INCORPORATION OF COMPLETE AGREEMENT
+This Agreement is to be treated as a complete package and not as a collection of separate
+agreements on discrete issues. To accommodate the interests related to diverse issues, the Settling
+Parties acknowledge that changes, concessions, or compromises by a Settling Party or Settling Parties in
+one section of this Agreement resulted in changes, concessions, or compromises by the Settling Parties
+in other sections. Consequently, the Settling Parties agree to oppose any modification of this Agreement
+not agreed to by all Settling Parties. If the Commission does not approve this Agreement without
+modification, the terms and conditions reflected in this Agreement shall no longer apply to the Settling
+Parties.
+8. RECORD EVIDENCE
+The Settling Parties request that all of their related prepared testimony be admitted as part of the
+evidentiary record for this proceeding.
+9. SIGNATURE DATE
+This Settlement Agreement shall become binding as of the last signature date of the Settling
+Parties.
+15
+
+10. REGULATORY APPROVAL
+The Settling Parties, by signing this Agreement, acknowledge that they support Commission
+approval of this Agreement and subsequent implementation of all the provisions of the Agreement for
+the duration of rates implemented pursuant to a Commission order adopting this Agreement in this
+proceeding, i.e., Phase 2 of SCE’s Test Year 2025 GRC. The Settling Parties shall use their best efforts
+to obtain Commission approval of the Agreement. The Settling Parties shall jointly request that the
+Commission approve the Agreement without change, and find the Agreement to be reasonable,
+consistent with law and in the public interest.
+Should any Proposed Decision or Alternate Proposed Decision seek a modification to this
+Settlement Agreement, and should any Settling Party be unwilling to accept such modification, that
+Settling Party shall so notify the other Settling Parties within five business days of issuance of such
+Proposed Decision or Alternate Proposed Decision. The Settling Parties shall thereafter promptly
+discuss the proposed modification and negotiate in good faith to achieve a resolution acceptable to the
+Settling Parties, and shall promptly seek Commission approval of the resolution so achieved. However,
+in the event the Commission modifies the Load Factor Based Rate Option Proposal, Cal Advocates shall
+have no obligation to negotiate a resolution acceptable to Settling Parties. Failure to resolve such
+proposed modification to the satisfaction of the Settling Parties, or to obtain Commission approval of
+such resolution promptly thereafter, shall entitle any Settling Party to terminate its participation from
+this Agreement through prompt notice to the other Settling Parties.
+11. COMPROMISE OF DISPUTED CLAIMS
+This Settlement Agreement represents a compromise of disputed claims between the Settling
+Parties. The Settling Parties have reached this Settlement Agreement after taking into account the
+possibility that each Party may or may not prevail on any given issue. The Settling Parties assert that
+this Settlement Agreement is reasonable, consistent with law and in the public interest.
+16
+
+12. NON-PRECEDENTIAL
+Consistent with Rule 12.5 of the Commission’s Rules of Practice and Procedure, this Settlement
+Agreement is not precedential in any other pending or future proceeding before this Commission, except
+as expressly provided in this Settlement Agreement.
+The Settling Parties expressly recognize that each Party may advocate a position that is
+inconsistent with this Agreement in Phase 2 of SCE’s 2025 GRC, or earlier if invited to do so by the
+Commission in, for example, a relevant Rulemaking proceeding.
+13. PREVIOUS COMMUNICATIONS
+The Settlement Agreement contains the entire agreement and understanding between the Settling
+Parties as to the subject matter of this Settlement Agreement. In the event there is any conflict between
+the terms and scope of this Settlement Agreement and the terms and scope of the accompanying joint
+motion in support of the Settlement Agreement, the Settlement Agreement shall govern.
+14. NON-WAIVER
+None of the provisions of this Settlement Agreement shall be considered waived by any Party
+unless such waiver is given in writing. The failure of a Party to insist in any one or more instances upon
+strict performance of any of the provisions of this Settlement Agreement or take advantage of any of
+their rights hereunder shall not be construed as a waiver of any such provisions or the relinquishment of
+any such rights for the future, but the same shall continue and remain in full force and effect.
+15. EFFECT OF SUBJECT HEADINGS
+Subject headings in this Settlement Agreement are inserted for convenience only, and shall not
+be construed as interpretations of the text.
+16. GOVERNING LAW
+This Settlement Agreement shall be interpreted, governed and construed under the laws of the
+State of California, including Commission decisions, orders and rulings, as if executed and to be
+performed wholly within the State of California.
+17
+
+17. NUMBER OF ORIGINALS
+This Settlement Agreement is executed in counterparts, each of which shall be deemed an
+original. The undersigned represent that they are authorized to sign on behalf of the Party represented.
+Dated: September 12, 2025 SOUTHERN CALIFORNIA EDISON COMPANY
+/s/ Daniel Hopper
+By: Daniel Hopper
+Title: Managing Director, Regulatory Policy
+Dated: September __, 2025 Public Advocates Office (Public Advocates Office joins all
+provisions of this Settlement Agreement except Section 5.C(4))
+By: Michael Campbell
+Title: Deputy Director
+Dated: September 12, 2025 CALSTART, Inc.
+/s/ Marc Gottschalk
+By: Marc Gottschalk
+Title: Chief Legal Counsel
+Dated: September 12, 2025 SOLAR ENERGY INDUSTRIES ASSOCIATION
+/s/ Jeanne Armstrong
+By: Jeanne Armstrong
+Title: Senior Regulatory Counsel
+Dated: September 12, 2025 Electrify America, LLC
+/s/ Steve Bright
+By: Steve Bright
+Title: Senior Counsel
+18
+
+17. NUMBER OF ORIGINALS
+This Settlement Agreement is executed in counterparts, each of which shall be deemed an
+original. The undersigned represent that they are authorized to sign on behalf of the Party represented.
+Dated: September __, 2025 SOUTHERN CALIFORNIA EDISON COMPANY
+By: Daniel Hopper
+Title: Managing Director, Regulatory Policy
+Dated: September __, 2025 Public Advocates Office (Public Advocates Office joins all
+provisions of this Settlement Agreement except Section 5.C(4))
+By: Michael Campbell
+Title: Deputy Director
+Dated: September __, 2025 CALSTART, Inc.
+By: Marc Gottschalk
+Title: Chief Legal Counsel
+Dated: September , 2025 SOLAR ENERGY INDUSTRIES ASSOCIATION
+By: Jeanne Armstrong
+Title: Senior Regulatory Counsel
+Dated: September __, 2025 Electrify America, LLC
+By: Steve Bright
+Title: Senior Counsel
+18
+
+Dated: September 12, 2025 SMALL BUSINESS UTILITY ADVOCATES
+By: Britt Marra
+Title: Executive Director
+Dated: September 12, 2025 VEHICLE GRID INTEGRATION COUNCIL.
+By: Zach Woogen
+Title: Executive Director
+Dated: September 12, 2025 WALMART INC.
+By: Julie Clark
+Title: Attorney
+Dated: September 12, 2025 Terawatt Infrastructure Inc.
+By: Jason Berry
+Title: Vice President, Energy
+Dated: September 12, 2025 EVgo SERVICES LLC
+By: Sara Rafalson
+Title: Executive Vice President, External Affairs
+19
+
+Dated: September 12, 2025 SMALL BUSINESS UTILITY ADVOCATES
+By: Britt Marra
+Title: Executive Director
+Dated: September 12, 2025 VEHICLE GRID INTEGRATION COUNCIL.
+By: Zach Woogen
+Title: Executive Director
+Dated: September 12, 2025 WALMART INC.
+By: Julie Clark
+Title: Attorney
+Dated: September 12, 2025 Terawatt Infrastructure Inc.
+By: Jason Berry
+Title: Vice President, Energy
+Dated: September 12, 2025 EVgo SERVICES LLC
+By: Sara Rafalson
+Title: Executive Vice President, External Affairs
+19
+
+Dated: September 12, 2025 SMALL BUSINESS UTILITY ADVOCATES
+By: Britt Marra
+Title: Executive Director
+Dated: September 12, 2025 VEHICLE GRID INTEGRATION COUNCIL.
+By: Zach Woogen
+Title: Executive Director
+Dated: September 12, 2025 WALMART INC.
+/s/ Julie Clark
+By: Julie Clark
+Title: Attorney
+Dated: September 12, 2025 Terawatt Infrastructure Inc.
+/s/ Jason Berry
+By: Jason Berry
+Title: Vice President, Energy
+Dated: September 12, 2025 EVgo SERVICES LLC
+/s/ Sara Rafalson
+By: Sara Rafalson
+Title: Executive Vice President, External Affairs
+19
+
+Appendix A
+Comparison of Party Positions On EV Rate Group Rate Design Issues
+and Settlement
+
+Comparison of Positions
+EV Rate Design Issues
+CALSTART EVgo Walmart SEIA SBUA 2025 GRC Settled
+Issue SCE Cal Advocates Electrify America
+Position
+TOU-EV-7 • Proposed that Schedule • N/A • N/A • N/A • N/A • N/A • TOU-EV-7 - • N/A • For distribution, all
+TOU-EV-7-Option-E Aligns w/SCE to Peak-capacity, Grid-
+remain an energy-only increase capacity, and the balance
+option for separately customer of the customer charge
+metered commercial charge. Also, revenues are recovered
+EV charging, with EV rates should via volumetric TOU.
+Option-D available as be standalone & For TOU-EV-7 Option
+an opt-in rate for EV revenue neutral. D, a FRD charge is
+customers with higher introduced to recover a
+utilization and energy portion of the Grid-
+throughput (w/demand related cost thereby
+charges) reducing the volumetric
+TOU Energy charges by
+an equal cents-per-kWh
+offset
+• For generation, all
+capacity and energy
+related costs are
+recovered via volumetric
+TOU Energy charges
+across both the summer
+and winter periods.
+TOU-EV-8 • Proposed to maintain • Supports SCE's proposal • Supports SCE's proposal • Supports delay in • Supports SCE's • N/A • • Generally supports • For distribution, all
+current TOU-EV-9 rate to delay demand charges to extend the energy only introducing demand proposal to delay SCEs proposal. Has Peak-capacity and Grid-
+design and revise the for TOU-EV-8 & 9,as structure for TOU-EV-9 charges. Note that long- introduction of concerns that capacity costs are
+energy charges to reflect they believe that until 2030. However term, stable CEV rates are demand charges. increased rates & recovered via volumetric
+updated marginal costs continued financial recommends a phase in needed as market matures. Believes this will delay to introduce TOU Energy charges
+and revenue allocations support is reasonable to from 2030-2035 based on Instead of initiating demand also help DCFC demand charges will across both the summer
+the extent it does not a sliding scale based on charges in 2030, CPUC infrastructure harm sites that and winter periods. The
+create unreasonable cost load factor. should review CEV rate investment. typically have higher proportion of seasonal
+shifts to other Recommends adopting 5 design either via the TE utilization & higher revenue recovery is held
+customers. graduations for load OIR or an SCE focused load factors. constant relative to the
+factors below 25%. stakeholder process. If (Increases total current (October 2024)
+• Notes that it may be CPUC does not do this, utility bill costs) TOU-EV-8 rate
+worth considering time- SCE should revisit the Recommends structure.
+varying recovery of trans future design of CEV rates reassessment of rate • For generation, all
+costs for charging site prior to 2030 in a SCE- increases to EV-8 & capacity and energy
+w/low utilization rates. focused stakeholder process 9 rates. related costs are
+designed to result in a recovered via marginal
+proposal in the next GRC cost based volumetric
+Ph2 or an RDW. TOU Energy charges
+Appendix A-1
+
+CALSTART EVgo Walmart SEIA SBUA 2025 GRC Settled
+Issue SCE Cal Advocates Electrify America
+Position
+across both the summer
+and winter periods.
+TOU-EV-9 • Proposed to maintain • Supports SCE's • Supports SCE's • Supports delay in • Supports SCE's • N/A • • Generally supports • For TOU-EV-9-SEC,
+current TOU-EV-9 rate proposal to delay proposal to extend the introducing demand proposal to delay SCEs proposal. Has PRI, and SUB
+design and revise the demand charges for energy only structure charges. Note that long- introduction of concerns that distribution, Peak-
+energy charges to TOU-EV-8 & 9,as for TOU-EV-9 until term, stable CEV rates demand charges. increased rates & capacity and Grid-
+reflect updated they believe that 2030. However are needed as market Believes this will delay to introduce related costs are
+marginal costs and continued financial recommends a phase in matures. Instead of also help DCFC demand charges will recovered via volumetric
+revenue allocations support is reasonable from 2030-2035 based initiating demand infrastructure harm sites that TOU Energy charges
+to the extent it does on a sliding scale charges in 2030, CPUC investment. typically have higher across both the summer
+not create based on load factor. should review CEV rate utilization & higher and winter periods. The
+unreasonable cost Recommends adopting design either via the TE load factors. seasonal revenue
+shifts to other 5 graduations for load OIR or an SCE focused (Increases total proportion is based on
+customers. factors below 25%. stakeholder process. If utility bill costs) the marginal cost
+• Notes that it may be CPUC does not do this, Recommends proportion of summer
+worth considering SCE should revisit the reassessment of rate and winter revenues
+time-varying recovery future design of CEV increases to EV-8 & • For TOU-EV-9-SEC,
+of trans costs for rates prior to 2030 in a 9 rates. PRI and SUB
+charging site w/low SCE-focused generation, all capacity
+utilization rates. stakeholder process and energy related costs
+designed to result in a are recovered via
+proposal in the next marginal cost based
+GRC Ph2 or an RDW. volumetric TOU Energy
+charges across both the
+summer and winter
+periods.
+Option H • SCE submitted a • N/A • N/A • N/A • N/A • Supports adoption of • • N/A • Parties agreed to
+fully analyzed this rate option, implementing an Option
+proposal for an however, has S rate for TOU-GS-2,
+Option S-like tariff. concerns about TOU-GS-3, and TOU-8-
+SCE's analysis as it SEC and made available
+relates to FRD to EV customers and
+charges. Believes customers with BTM
+design should be storage with specific
+based off Option E eligibility requirements.
+rate, then at least • Rate Design: For
+80% of NCDCs for distribution, the rate
+dist. cost should be structure introduces a
+converted to a fairly Daily Peak-TRD charge
+coincident pk to capture a portion of
+demand charge. the Peak-capacity and
+Grid-related costs, and
+Appendix A-2
+
+CALSTART EVgo Walmart SEIA SBUA 2025 GRC Settled
+Issue SCE Cal Advocates Electrify America
+Position
+an FRD exclusion
+window where the FRD
+changes do not apply
+from 8 a.m. to 1 p.m.
+The remainder of the
+Option E FRD revenues
+is then designed for
+recovery in the Daily
+Peak-TRD charge. The
+residual portion of
+design demand revenues
+are recovered via
+volumetric TOU Energy
+charges that are set
+based on the TOU ratios
+of the respective class
+Option E rates and
+calculated to maintain
+revenue neutrality in
+each season
+• For generation, the
+design is identical
+Option E rate design
+where the recovery of
+energy and capacity
+revenues is via a TRD
+Charge set at twenty-five
+percent (25%) of the
+Standby Backup
+Demand Charge with the
+balance of revenues
+recovered via TOU
+Energy Charges
+Zero • SCE proposed to • Rejects SCE's proposal • N/A • N/A • N/A • N/A • • N/A • Settling Parties agree to
+Emissions discontinue this to remove this modify the reporting
+Reporting reporting obligation reporting requirement requirements to provide
+since it is premature to enrollment number
+stop it since reporting details specific to
+would provide valuable customer migrations
+insights on customer from EV rates to Option
+preferences & E rates.
+perceptions of rate
+options.
+Appendix A-3
+
+Appendix B
+Illustrative EV Rate Group Rates
+
+Table 1: Illustrative Rates TOU-EV-7 Option-E
+Table 2: Illustrative Rates TOU-EV-7 Option-D
+TOU-GS-1 EV-7 Option D
+Current (October 2024) Proposed
+Trans Distrb Gen Other Total Trans Distrb Gen Other Total
+Summer
+Customer Charge $9.25 $9.25 $10.79 $10.79
+On-kWh 0.01404 0.21820 0.33229 0.03615 $0.60068 0.01404 0.23997 0.35771 0.03615 $0.64787
+Mid-kWh 0.01404 0.21820 0.11795 0.03615 $0.38634 0.01404 0.21736 0.11866 0.03615 $0.38620
+Off-kWh 0.01404 0.09078 0.09692 0.03615 $0.23789 0.01404 0.11096 0.09214 0.03615 $0.25329
+Max-kW 0.94 $0.94 0.96 $0.96
+Winter
+Customer Charge $9.25 $9.25 $10.79 $10.79
+On-kWh
+Mid-kWh 0.01404 0.21820 0.17901 0.03615 $0.44740 0.01404 0.08028 0.17477 0.03615 $0.30525
+Off-kWh 0.01404 0.09078 0.11403 0.03615 $0.25500 0.01404 0.07455 0.10692 0.03615 $0.23167
+SOff-kWh 0.01404 0.03117 0.05220 0.03615 $0.13356 0.01404 0.08384 0.04726 0.03615 $0.18129
+Max-kW 0.94 $0.94 0.96 $0.96
+Three Phase Adder $1.40 $1.40 $3.59 $3.59
+EV Submeter Credit ($3.56) ($3.56) ($1.71) ($1.71)
+
+Table3: Illustrative Rates TOU-EV-8
+TOU-GS-2 EV-8
+Current (October 2024) Proposed
+Trans Distrb Gen Other Total Trans Distrb Gen Other Total
+Summer
+Customer Charge $239.34 $239.34 $232.74 $232.74
+On-kWh 0.01281 0.24131 0.36749 0.03653 $0.65814 0.01281 0.33557 0.34893 0.03653 $0.73383
+Mid-kWh 0.01281 0.24131 0.10436 0.03653 $0.39501 0.01281 0.20780 0.11528 0.03653 $0.37242
+Off-kWh 0.01281 0.09640 0.08073 0.03653 $0.22647 0.01281 0.06403 0.09002 0.03653 $0.20339
+Winter
+Customer Charge $239.34 $239.34 $232.74 $232.74
+On-kWh
+Mid-kWh 0.01281 0.24131 0.15037 0.03653 $0.44102 0.01281 0.22881 0.16511 0.03653 $0.44326
+Off-kWh 0.01281 0.09640 0.09488 0.03653 $0.24062 0.01281 0.07761 0.10451 0.03653 $0.23146
+SOff-kWh 0.01281 0.02962 0.04081 0.03653 $0.11977 0.01281 0.03325 0.04620 0.03653 $0.12879
+Single Phase Credit (8.29) ($8.29) (72.21) ($72.21)
+EV Submeter Credit (37.80) ($37.80) (14.58) ($14.58)
+Table 4: Illustrative Rates TOU-EV-9-SEC
+TOU-8-SEC EV-9
+Current (October 2024) Proposed
+Trans Distrb Gen Other Total Trans Distrb Gen Other Total
+Summer
+Customer Charge $460.86 $460.86 $1,113.65 $1,113.65
+On-kWh 0.01127 0.20478 0.28165 0.03370 $0.53140 0.01127 0.34937 0.30845 0.03372 $0.70281
+Mid-kWh 0.01127 0.20478 0.09544 0.03370 $0.34519 0.01127 0.34937 0.08390 0.03372 $0.47826
+Off-kWh 0.01127 0.06938 0.07411 0.03370 $0.18846 0.01127 0.05522 0.07150 0.03372 $0.17171
+Winter
+Customer Charge $460.86 $460.86 $1,113.65 $1,113.65
+On-kWh
+Mid-kWh 0.01127 0.20478 0.13895 0.03370 $0.38870 0.01127 0.07998 0.16466 0.03372 $0.28963
+Off-kWh 0.01127 0.06938 0.08509 0.03370 $0.19944 0.01127 0.07998 0.08104 0.03372 $0.20602
+SOff-kWh 0.01127 0.02663 0.03941 0.03370 $0.11101 0.01127 0.03477 0.04448 0.03372 $0.12425
+
+Table 5: Illustrative Rates TOU-EV-9-PRI
+TOU-8-PRI EV-9
+Current (October 2024) Proposed
+Trans Distrb Gen Other Total Trans Distrb Gen Other Total
+Summer
+Customer Charge $475.29 $475.29 $313.25 $313.25
+On-kWh 0.01013 0.17811 0.25832 0.03230 $0.47886 0.01013 0.29397 0.30879 0.03242 $0.64531
+Mid-kWh 0.01013 0.17811 0.09157 0.03230 $0.31211 0.01013 0.29397 0.08089 0.03242 $0.41741
+Off-kWh 0.01013 0.05663 0.07008 0.03230 $0.16914 0.01013 0.05054 0.06742 0.03242 $0.16050
+Winter
+Customer Charge $475.29 $475.29 $313.25 $313.25
+On-kWh
+Mid-kWh 0.01013 0.17811 0.13844 0.03230 $0.35898 0.01013 0.07019 0.15989 0.03242 $0.27263
+Off-kWh 0.01013 0.05663 0.08020 0.03230 $0.17926 0.01013 0.07019 0.07678 0.03242 $0.18952
+SOff-kWh 0.01013 0.02368 0.03788 0.03230 $0.10399 0.01013 0.03052 0.04214 0.03242 $0.11521
+Table 6: Illustrative Rates TOU-EV-9-SUB
+TOU-8-SUB EV-9
+Current (October 2024) Proposed
+Trans Distrb Gen Other Total Trans Distrb Gen Other Total
+Summer
+Customer Charge $4,951.05 $4,951.05 $8,512.50 $8,512.50
+On-kWh 0.00895 0.05828 0.25163 0.02696 $0.34582 0.00895 0.09760 0.25359 0.02955 $0.38968
+Mid-kWh 0.00895 0.05828 0.08606 0.02696 $0.18025 0.00895 0.09760 0.06975 0.02955 $0.20585
+Off-kWh 0.00895 0.01211 0.06525 0.02696 $0.11327 0.00895 0.00510 0.05798 0.02955 $0.10158
+Winter
+Customer Charge $4,951.05 $4,951.05 $8,512.50 $8,512.50
+On-kWh
+Mid-kWh 0.00895 0.05828 0.12264 0.02696 $0.21683 0.00895 0.01365 0.14025 0.02955 $0.19240
+Off-kWh 0.00895 0.01211 0.07429 0.02696 $0.12231 0.00895 0.01365 0.06678 0.02955 $0.11893
+SOff-kWh 0.00895 0.00288 0.03554 0.02696 $0.07433 0.00895 0.00364 0.03664 0.02955 $0.07879
+
+Table 7: Illustrative Rates TOU-GS-2 Option S
+TOU-GS-2 Option S
+Proposed
+Trans Distrb Gen Other Total
+Summer
+Customer Charge $232.74 $232.74
+On-kWh (0.00003) 0.33373 0.30587 0.03624 $0.67581
+Mid-kWh (0.00003) 0.31008 0.11189 0.03624 $0.45818
+Off-kWh (0.00003) 0.09703 0.08685 0.03624 $0.22009
+SOff-kWh
+Daily On-kW 0.36 $0.36
+On-kW 3.45 $3.45
+Mid-kW
+Off-kW
+SOff-kW
+Max-kW 3.80 3.71 $7.51
+Winter
+Customer Charge $232.74 $232.74
+On-kWh
+Mid-kWh (0.00003) 0.02500 0.14870 0.03624 $0.20991
+Off-kWh (0.00003) 0.01479 0.10434 0.03624 $0.15534
+SOff-kWh (0.00003) 0.03045 0.04613 0.03624 $0.11279
+On-kW
+Daily Mid-kW 0.41 $0.41
+Mid-kW 1.19 $1.19
+Off-kW
+SOff-kW
+Max-kW 3.80 3.71 $7.51
+
+Table8: Illustrative Rates TOU-GS-3 Option S
+TOU-GS-3 Option S
+Proposed
+Trans Distrb Gen Other Total
+Summer
+Customer Charge $1,140.50 $1,140.50
+On-kWh (0.00004) 0.31591 0.28430 0.03457 $0.63475
+Mid-kWh (0.00004) 0.30295 0.08313 0.03457 $0.42061
+Off-kWh (0.00004) 0.08534 0.06733 0.03457 $0.18720
+SOff-kWh
+Daily On-kW 0.34 $0.34
+On-kW 4.46 $4.46
+Mid-kW
+Off-kW
+SOff-kW
+Max-kW 4.23 4.28 $8.51
+Winter
+Customer Charge $1,140.50 $1,140.50
+On-kWh
+Mid-kWh (0.00004) 0.02316 0.13835 0.03457 $0.19604
+Off-kWh (0.00004) 0.01346 0.08076 0.03457 $0.12875
+SOff-kWh (0.00004) 0.02823 0.04438 0.03457 $0.10714
+On-kW
+Daily Mid-kW 0.37 $0.37
+Mid-kW 1.68 $1.68
+Off-kW
+SOff-kW
+Max-kW 4.23 4.28 $8.51
+
+Table 9: Illustrative Rates TOU-8-SEC Option S
+TOU-8-SEC Option S
+Proposed
+Trans Distrb Gen Other Total
+Summer
+Customer Charge $1,113.65 $1,113.65
+On-kWh (0.00004) 0.30677 0.26417 0.03372 $0.60462
+Mid-kWh (0.00004) 0.28858 0.08384 0.03372 $0.40611
+Off-kWh (0.00004) 0.07765 0.06760 0.03372 $0.17893
+SOff-kWh
+Daily On-kW 0.31 $0.31
+On-kW 4.48 $4.48
+Mid-kW
+Off-kW
+SOff-kW
+Max-kW 4.40 4.13 $8.53
+Winter
+Customer Charge $1,113.65 $1,113.65
+On-kWh
+Mid-kWh (0.00004) 0.03061 0.14242 0.03372 $0.20672
+Off-kWh (0.00004) 0.01759 0.08110 0.03372 $0.13237
+SOff-kWh (0.00004) 0.03767 0.04451 0.03372 $0.11586
+On-kW
+Daily Mid-kW 0.33 $0.33
+Mid-kW 2.00 $2.00
+Off-kW
+SOff-kW
+Max-kW 4.40 4.13 $8.53

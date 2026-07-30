@@ -1,0 +1,98 @@
+July 7, 2025
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission Regarding Electric Vehicle
+Supply Equipment and Infrastructure
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on Joint Utilities’ Petition to Extend the Managed Charging Programs
+I. Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based trade
+association committed to advancing vehicle-grid integration (VGI) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from flexible EV charging and discharging is
+recognized and compensated in support of a more reliable, affordable, and efficient electric grid.
+VGIC appreciates the opportunity to provide comments to the Public Service Commission (PSC)
+in response to the Joint Utilities’ Petition to Extend the Managed Charging Programs, filed on
+April 9, 2025. In the below comments, VGIC expresses its support for the petition, and provides
+additional overarching feedback on no-regrets steps to better leverage EVs for the benefit of
+ratepayers and New York’s broader state policy goals. Our comments are organized as follows:
+● General support for the Joint Utilities’ petition
+● The need to include consideration of technological advancements in managed
+charging, including active managed charging and bidirectional charging systems,
+within the process to reauthorize the Programs beyond 2026
+II. VGIC Supports the Joint Utilities’ Request to Continue the Existing Program
+Implementation.
+Overall, VGIC is encouraged by the high participation numbers in the utilities’ managed
+charging programs. Experimenting with different program structures has helped generate lessons
+1
+
+learned and best practices to help inform New York’s transportation electrification strategy going
+forward. We believe the Joint Utilities’ request to reauthorize the existing managed charging
+programs and the specific requested budget transfer for O&R’s program are reasonable, no-
+regrets actions the Commission should take to avoid disruption to program enrollment. Program
+continuity is critical to ensuring the success of these programs.
+III. VGIC Supports the Joint Utilities’ Request to Initiate a Managed Charging
+Program Reauthorization Process After New MCIPs Are Filed by January 30, 2026,
+But Recommends Scoping Consideration of Key Technological Advancements.
+In its petition, the Joint Utilities recommend that the Commission initiate a process to
+reauthorize the Programs in 2026. VGIC strongly supports this recommendation, but offers a
+critical enhancement to ensure the programs are well aligned with the state of the industry,
+available technology, customer interests, and New York’s state goals: VGIC urges the
+Commission to scope active managed charging and bidirectional charging systems into the
+consideration of the Programs in 2026.
+The utilities’ Programs are largely focused on passive managed charging, rather than
+active managed charging. While participation is encouraging, the Joint Utilities’ own data show
+that off-peak charging performance varies widely from 62 percent at Con Edison to 93 percent at
+Central Hudson.1 In peer programs that use active managed-charging, off-peak shares are often
+at 90 percent or higher.2 These results suggest New York is leaving significant load-shifting
+value on the table and would benefit from a measured expansion of active managed-charging
+functionality as part of the forthcoming re-authorization. As a result, VGIC respectfully urges
+the Commission to ensure active managed charging is a focal point for the consideration of
+the Programs in 2026 and, if possible, provide related guidance to the Joint Utilities prior to
+the January 30, 2026 MCIP filings.
+The July 14, 2022 Commission Order Approving Managed Charging Programs with
+Modifications was primarily focused on unidirectional smart charging technologies. The focus on
+unidirectional charging was reasonable at the time, given the lack of bidirectional charging
+solutions available to residential customers. However, over the past three years, the industry has
+made substantial steps forward in commercializing, marketing, and installing bidirectional
+charging equipment. Currently, bidirectional charging equipment is advertised to customers of
+the Ford F-150 Lightning Electric, nearly every GM electric vehicle, the Tesla Cybertruck, the
+Kia EV9, and the Nissan LEAF. Additional product announcements have been made by
+1 Case 18-E-0138. Petition of the Joint Utilities to Extend Residential Managed Charging Programs. Page 8.
+2 https://www.ev.energy/blog/dynamic-pricing-outperforms-time-of-use-in-california-ev-charging-pilot-with-98-
+energy-delivered-off-peak
+2
+
+Volkswagen, Volvo, Hyundai, Polestar, BMW, Mercedes-Benz, Stellantis, and Rivian. On the
+charging manufacturer side, products from Ford/Sunrun, GM, Wallbox, dcbel, Emporia,
+ChargePoint, Enphase, SolarEdge, and Autel have either been released or announced.
+Meanwhile, the grid benefits that EVs can provide via unidirectional managed charging
+programs could be substantially augmented through strategic implementation of bidirectional
+charging systems. Bidirectional charging can serve as a valuable grid resource that provides
+generation capacity in critical downstate areas (such as NYISO zones J and K) where new
+transmission and generation is difficult to site. As EV adoption continues to increase in the Joint
+Utilities’ service territory, bidirectional charging could become a critical tool to aid with summer
+reliability needs as New York seeks to phase out fossil generation in these constrained areas.
+Additionally, bidirectional capability unlocks new value propositions to customers, such as
+backup power in the event of an outage, that managed charging alone cannot provide.
+The Programs currently implemented do not adequately address these possibilities. With
+this in mind, VGIC strongly recommends that the Commission explicitly scope
+consideration of bidirectional charging systems into a forthcoming reauthorization process
+and, if possible, provide related guidance to the Joint Utilities prior to the January 30, 2026
+MCIP filings. Notably, VGIC has been an active participant in the recent development of
+bidirectional charging programs in Massachusetts, California, and Maryland, and would be eager
+to share lessons learned from these experiences to ensure New York maintains its position as an
+innovative, future-oriented state.
+IV. Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Joint Utilities, the Commission, Department of Public Service staff, and other
+stakeholders to ensure the success of New York’s transportation electrification and grid
+decarbonization efforts.
+Respectfully submitted,
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council (VGIC)
+3

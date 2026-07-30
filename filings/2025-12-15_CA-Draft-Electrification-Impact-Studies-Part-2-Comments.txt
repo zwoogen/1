@@ -1,0 +1,174 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE DRAFT
+ELECTRIFICATION IMPACT STUDY PART 2 REPORTS
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: December 15, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE DRAFT
+ELECTRIFICATION IMPACT STUDY PART 2 REPORTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Draft Part 2 Electrification Impact Study Reports pursuant to Decision 24-
+10-030, Decision Adopting Improvements to Distribution Planning and Project Execution
+Process, Distribution Resource Planning Data Portals, and Integration Capacity Analysis Maps
+issued October 23, 2024, and Administrative Law Judge Jack Chang’s email sent Monday,
+December 8, 2025 clarifying the deadline for comments.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to comment on the Draft Part 2 Electrification Impact
+Studies (“EIS Part 2”). The Draft EIS part 2 provides important evidence demonstrating how
+electrification can benefit ratepayers. For example, Pacific Gas and Electric (“PG&E”) notes in its
+EIS Part 2 that “Electrification growth may provide downward pressure on distribution rates by as
+much as 25% by 2040.”1 The Public Advocates Office at the California Public Utilities
+Commission (“Cal Advocates”) also recently released their Distribution Grid Electrification
+Model 2025 Findings, which also show that electrification can decrease rates 0.2 to 4.5 cents per
+1 PG&E Draft EIS Part 2 at p.13.
+2
+
+kWh by 2040.2 With California’s continued ratepayer pressures and climate goals, the state should
+continue to invest in electrification, especially electrification of the transportation sector which is
+California’s largest source of greenhouse gas emissions.
+The Draft EIS Part 2 also highlights the important role of electric vehicle (“EV”) demand
+flexibility and vehicle-grid integration (“VGI”) to deliver substantial cost savings to ratepayers
+while supporting California’s electrification and reliability goals. In particular, the utilities’
+analyses show that EV-enabled load flexibility is a major driver of avoided distribution system
+upgrades and system-wide cost reductions. VGIC therefore provides the following comments on
+the draft studies:
+• California is providing concrete evidence of the value of vehicle-grid integration
+investments.
+• SCE and SDG&E should include added VGI and bidirectional EVs in their enhanced
+demand flexibility scenarios to align with PG&E’s approach.
+II. CALIFORNIA IS PROVIDING CONCRETE EVIDENCE OF THE VALUE OF
+VEHICLE-GRID INTEGRATION INVESTMENTS.
+In the draft studies, all three IOUs showed significant cost savings from leveraging VGI
+demand flexibility strategies. The utilities outline the following cost savings from demand
+flexibility:
+• Pacific Gas and Electric (PG&E): $1.8B3
+• Southern California Edison (SCE): $1.38B4
+2 Cal Advocates, Distribution Grid Electrification Model 2025 at p.15. Available at:
+https://www.publicadvocates.cpuc.ca.gov/press-room/reports-and-analyses/distribution-grid-electrification-model-
+2025
+3 PG&E Draft EIS Part 2 at p.15.
+4 SCE Draft EIS Part 2 at p.5.
+3
+
+• San Diego Gas and Electric (SDG&E): $689 million5
+While the IOUs demand flexibility scenarios included load flexibility from different technologies,
+including heat pumps and home batteries, EVs were a particularly large source of load flexibility.
+PG&E specifically shows that EVs provide two thirds of all load flexibility in their Enhanced
+Demand Flexibility scenario. 6
+Additionally, outside of the EIS Part 2 studies, Cal Advocates released their Distribution
+Grid Electrification Model 2025 report that further emphasizes the benefits of leveraging EVs as
+a load flexibility tool. Cal Advocates finds that shifting EV charging to manage load on
+distribution circuits can provide between $5 billion and $18 billion dollars in cost savings by
+2040.7
+All of these studies show that there is significant value from VGI strategies and investments
+in California. The Commission should leverage this work to begin developing additional programs,
+rates, market improvements, and other policies to remove barriers to large-scale implementation
+and, in turn, unlock the immense flexibility sitting latent in California’s EVs. VGIC commends
+the Commission and the IOUs for beginning to explore EV load flexibility through dynamic rate
+pilots, managed charging pilots, and emergency demand response programs. However, the
+Commission must look toward expanding these programs beyond pilot scale and to create
+additional ways for customers to provide this value so that distribution grid upgrades can be
+avoided and costs can be managed. Critically, customers currently lack certainty for VGI
+5 SDG&E Draft EIS Part 2 at p.1.
+6 PG&E Draft EIS Part 2 at p.32.
+7 Cal Advocates, Distribution Grid Electrification Model 2025 at p.83. Available at:
+https://www.publicadvocates.cpuc.ca.gov/press-room/reports-and-analyses/distribution-grid-electrification-model-
+2025
+4
+
+opportunities, as all existing VGI pilots are on track to end in 2026 or, in the case of the Emergency
+Load Reduction Program, Subgroup A.5 (“EV/VGI Aggregations”), 2027.
+III. SCE AND SDG&E SHOULD INCLUDE ADDITIONAL VGI AND
+BIDIRECTIONAL EVS IN THEIR ENHANCED DEMAND FLEXIBILITY
+SCENARIOS TO ALIGN WITH PG&E’S APPROACH.
+In its EIS Part 2 draft study, PG&E conducted analysis looking at an orchestrated enhanced
+demand flexibility scenario and incorporated key VGI tools that the other IOUs should also look
+at in their EIS Part 2 studies. In PG&E’s study, the utility modeled the following elements of VGI,
+yielding significant amounts of peak load reduction by 2040:
+• Active EV Charging Management & Dynamic Prices (1,007 MW by 2040):
+o PG&E’s Enhanced Demand Flexibility scenario incorporates higher participation
+in dynamic rates to shift peak load to off-peak times.
+o PG&E also modeled what is called “active charging demand management”, where
+EV charging is managed to smooth charging across off-peak times and reduce
+“timer peaks” that would otherwise occur under pure time-of-use price signals,
+where charging surges as soon as the off-peak period starts. These types of active
+managed charging programs are already being piloted by PG&E in its EV Charge
+Manager pilot. Active charging management helps reduce load on distribution
+equipment in particular, which PG&E notes is key to unlocking ratepayer savings.8
+• Bidirectional EVs or V2G (859 MW by 2040): PG&E also modeled energy from
+bidirectional EVs that export back to the grid. This helps to provide local energy and takes
+advantage of the large batteries that customers have already purchased for transportation
+8 PG&E Draft EIS Part 2 at p.16.
+5
+
+use cases. In the EIS Part 2, PG&E still makes conservative assumptions about the
+penetration of bidirectional vehicles and chargers, with heavy-duty vehicles (e.g., school
+buses) assumed to have the highest bidirectional charging system penetration at 25% of
+chargers.9 Light-duty residential chargers are assumed to have a 6% bidirectional charging
+system penetration.10 Currently, nearly all major automakers have announced bidirectional
+light-duty EV models and there is increasing availability of bidirectional charging systems.
+VGIC anticipates that a 6% bidirectional penetration for residential EV customers by 2040
+is very conservative, and we look forward to further refinements to these assumptions as
+additional data on bidirectional charging system adoption becomes available.
+The use of EVs for load flexibility in these two ways contributes two thirds of the added load
+flexibility modeled during the coincident peak in the enhanced demand flex scenario.11
+Although not as extensively investigated as PG&E, SCE and SDG&E did model some
+elements of active managed charging. SCE states that their demand flexibility scenario includes a
+“Flexible charging rate” that would “control when EVs start charging to flatten the charging pattern
+at night.”12 40% of customers are modeled to be on this rate, but the specific impacts of the flexible
+charging rate on the total load flexibility potential are unclear. SDG&E details that active managed
+charging smooths the load shape and minimizes distribution costs.13 However, like SCE, SDG&E
+also does not share the specific impact of active managed charging on reducing load or costs.
+VGIC recommends that SCE and SDG&E share the specific impacts of active managed
+9 PG&E Draft EIS Part 2 at p.74.
+10 PG&E Draft EIS Part 2 at p.74.
+11 PG&E Draft EIS Part 2 at p.32.
+12 SCE Draft EIS Part 2 at p.33.
+13 SDG&E Draft EIS Part 2 at p.13-14.
+6
+
+charging and other EV load shaping strategies on the overall load flexibility modeled in these
+EIS Part 2 studies.
+Neither SCE nor SDG&E model bidirectional charging systems that serve either onsite
+load or export to the grid. As shown by PG&E, bidirectional charging systems can provide
+significant amounts of load reduction and unlock cost savings for ratepayers. There are also
+expected to be significant amounts of bidirectional charging systems in both SCE and SDG&E
+service territory, with over 7.1 million electric vehicles in the state by 2030.14 Therefore, VGIC
+strongly believes that both SCE and SDG&E should include bidirectional EVs as a tool in
+their EIS Part 2 studies. Given PG&E’s finding that enhanced active managed charging and
+bidirectional charging systems can provide up to two thirds of incremental load flexibility, SCE’s
+and SDG&E’s EIS Part 2 studies would be substantively incomplete without including similar
+scenarios and degree of detail about VGI benefits.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the draft studies. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: December 15, 2025
+14 California Energy Commission, Assembly Bill 2127 Electric Vehicle Charging Infrastructure Assessment.
+7

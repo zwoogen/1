@@ -1,0 +1,479 @@
+Cole Jermyn
+Senior Attorney, Clean Affordable Power
+Environmental Defense Fund
+1875 Connecticut Ave NW
+Washington, DC 20036
+cjermyn@edf.org
+(202) 572-3523
+Date: December 5, 2025
+VIA Email
+Hon. Michelle L. Phillips
+New York Public Service Commission
+Three Empire State Plaza
+Albany, New York 12223-1350
+Re: Case 18-E-0138 – Proceeding on Motion of the Commission Regarding Electric
+Vehicle Supply Equipment and Infrastructure
+Dear Secretary Phillips:
+Environmental Defense Fund hereby submits for filing in the captioned docket comments on
+behalf of itself, Interstate Renewable Energy Council, New York Battery and Energy Storage
+Technology Consortium, and Vehicle-Grid Integration Council in response to the November 6,
+2025 Notice Soliciting Comments regarding issues related to the interconnection of electric load.
+Respectfully submitted,
+257 Park Avenue South EDF.org A vital Earth. For everyone.
+New York, NY 10010 T 212 505 2100
+
+STATE OF NEW YORK
+PUBLIC SERVICE COMMISSION
+______________________________________________
+Proceeding on Motion of the Commission
+Regarding Electric Vehicle Supply Case 18-E-0138
+Equipment and Infrastructure
+______________________________________________
+COMMENTS OF ENVIRONMENTAL DEFENSE FUND, INTERSTATE RENEWABLE
+ENERGY COUNCIL, NEW YORK BATTERY AND ENERGY STORAGE TECHNOLOGY
+CONSORTIUM, AND VEHICLE-GRID INTEGRATION COUNCIL ON NOTICE
+SOLICITING COMMENTS REGARDING ISSUES RELATED TO THE
+INTERCONNECTION OF ELECTRIC LOAD
+I. Introduction
+On March 14, 2024, Con Edison filed its “Straw Proposal for Streamlined Queue
+Management in Electric Vehicle Make-Ready Program and Other Programs” (“Initial Proposal”).1
+Department of Public Service Staff (“DPS Staff” or “Staff”) used this Initial Proposal to begin the
+work of the Electric Vehicle Infrastructure Interconnection Working Group (“EVIIWG”), which
+aims to “streamline identified difficulties and barriers that affect the interconnection of EVs, building
+electrification, and any other associated processes that includes the interconnection application
+queue, review, and approval process.”2 After a stakeholder process including ten EVIIWG meetings
+over the course of 2024 and 2025 and an opportunity for informal written comments, Staff filed the
+final version of the “Department of Public Service Staff Modified Proposal for Streamlined Vehicle
+to Grid Queue Management in Electric Vehicle Make-Ready Program and Other Programs” (“Final
+Proposal”) on April 11, 2025.3 Environmental Defense Fund (“EDF”), Interstate Renewable Energy
+Council (“IREC”), New York Battery and Energy Storage Technology Consortium (“NY-BEST”),
+1 Case No. 18-E-0138, Proceeding on Motion of the Commission Regarding Electric Vehicle Supply Equipment and
+Infrastructure, Straw Proposal for Streamlined Queue Management in Electric Vehicle Make-ready Program and
+Other Programs (Mar 15, 2024) [hereinafter “Initial Proposal”].
+2 DPS, Electric Vehicles Infrastructure and Interconnection Working Group (EVIIWG) Mission, Governance &
+Operations (March 2024), https://dps.ny.gov/system/files/documents/2024/02/eviiwg-governance-march2024-v2.pdf.
+3 Matter No. 24-00339, In the Matter of EV Infrastructure Interconnection Working Group, Modified Proposal for
+Streamlined Vehicle to Grid Queue Management in Electric Vehicle Make-Ready Program and Other Programs (Apr.
+11, 2025) [hereinafter “Final Proposal”].
+2
+
+Vehicle-Grid Integration Council (“VGIC”) and others filed formal comments on this proposal in
+July 2025.
+On September 19, 2025, the Public Service Commission (“Commission” or “PSC”) adopted
+the Order Adopting Proposal for Queue Management with Modifications.4 As part of this Order, the
+Commission directed Staff to “advance a solution that could thoroughly and systematically address
+the interconnection of electric load, including the issues and solutions identified by the EVIIWG.”
+On November 6, 2025, Staff issues a Notice Soliciting Comments on this topic.5 These comments
+are responsive to that notice.
+II. Recommendations
+A. Flexible Interconnection
+The Commission should adopt, and require the utilities to implement, a comprehensive
+flexible interconnection framework. Leaving this topic to the utilities’ discretion will result in
+patchwork programs with inconsistent effectiveness. By setting a programmatic baseline for the
+options the utilities must offer, the Commission can ensure that all customers have the opportunity
+to participate and that grid benefits are maximized.
+Flexible interconnections can help facilitate a decarbonized energy future, particularly as
+load from electric vehicle (“EV”) charging and other electric end-uses (e.g., data centers, building
+electrification, etc.) is increasing quickly.6 By allowing customers to interconnect EV charging under
+defined constraints, flexible interconnections can accelerate energization timelines, manage capacity
+shortfalls, and defer or avoid costly upgrade distribution system upgrades. Additionally, flexible
+interconnections can promote more equitable access to the grid and can contribute to downward
+pressure on rates.
+Flexible interconnections accelerate the energization process by allowing customers to
+connect new resources under specific constraints more quickly. In both the medium and long-term,
+flexible interconnections can continue to streamline the energization process by deferring—or
+completely avoiding—costly and time-consuming grid upgrades, some of which can take years to
+complete.7 Moreover, utilities traditionally rely on conservative assumptions to determine
+4 Case No. 18-E-0138, Proceeding on Motion of the Commission Regarding Electric Vehicle Supply Equipment and
+Infrastructure, Order Adopting Proposal for Queue Management with Modifications (Sep. 19, 2025)
+5 Case No. 18-E-0138, Proceeding on Motion of the Commission Regarding Electric Vehicle Supply Equipment and
+Infrastructure, Notice Soliciting Comments on Load Interconnection (Nov. 6, 2025).
+6 See generally Casey Horan et al., Let’s Get Flexible: Considerations for Unlocking Grid Capacity Using Flexible
+Interconnection (Feb. 2025), https://library.edf.org/AssetLink/q812pd5afr3hboi61cm503fprla5ge0p.pdf
+7 See Case No. 24-E-0364, In the Matter of Proactive Planning for Upgraded Electric Grid Infrastructure, Petition of
+3
+
+customers’ energy requirements. By leveraging flexible connections and refining the process with
+which utilities estimate customers’ actual needs, i.e., peak demand, load profile, etc., customers can
+continue to make use of existing hosting capacity.
+With respect to distribution capacity shortfalls, flexible interconnections can unlock existing
+capacity and maximize potential for new and upgrading load, optimizing use of already available
+resources. Similarly, at least some flexible interconnections can enhance grid resilience and
+reliability by allowing utilities to dynamically respond to emergency grid events, such as peak
+demand surges or unexpected outages, by limiting or curtailing resources as necessary. Furthermore,
+by enabling smarter utilization of grid assets, flexible interconnections can facilitate the integration
+of DERs, including both flexible loads like EVs, and flexible generation like distributed solar, further
+strengthening grid stability and efficiency. In short, flexible interconnections can address grid
+capacity shortfalls while supporting the transition to a more adaptive, resilient, and decarbonized
+energy system. Lastly, flexible connection options may encourage adoption of customer-sited
+generation and/or energy storage to meet site needs where a full grid connection is unavailable,
+thereby supporting New York’s Energy Storage Target and broader CLCPA goals.
+In this context, we recommend framing flexible interconnection options under two use
+cases—bridging solutions and indefinite solutions—and three program designs: flat, scheduled, and
+dynamic. Each of these is defined and described in more detail below.
+i. Flexible Interconnections Can Serve as Both Bridging Solutions and Indefinite
+Solutions
+Flexible interconnections offer utilities an effective pathway both as bridging solutions that
+can defer costly infrastructure upgrades and as long-term, indefinite arrangements that can fully
+avoid certain investments. In the latter case, customers may elect to permanently limit their load as
+a way to ensure faster energization and/or make more efficient use of existing grid capacity, reducing
+the need for new infrastructure while enabling timely access to service. Taken together, both
+strategies can help ensure more cost-efficient buildout of infrastructure and can put downward
+pressure on rates.
+When deployed as bridging solutions, flexible interconnections can help prevent
+overbuilding and support more appropriately sized, cost-effective infrastructure investments. Often
+New York State Electric & Gas Corporation and Rochester Gas and Electric Corporation for Approval of Urgent
+Upgrade Projects and Associated Cost Recovery at 20 (Nov. 26, 2024); See also Consolidated Edison Company of
+New York, Inc. Urgent Projects Proposal at 21.
+4
+
+referred to as “phased” or “ramped” connections, these arrangements apply temporary limits that
+remain in place only until the utility completes the upgrades necessary to serve a customer’s full
+requested capacity, at which point the customer’s load limit is stepped up. This approach allows
+customers to energize sooner while ensuring that any eventual upgrades are appropriately justified
+and aligned with actual system needs.
+In contrast, indefinite flexible interconnection agreements are well suited for customers who
+are willing to remain on constrained capacity limits permanently, or at least until they seek an
+alternative arrangement from the utility. These long-term options can provide meaningful certainty
+for both utilities and customers, optimize the use of existing assets, and help support a more efficient
+and adaptable grid as electrification—including EV charging—continues to grow. That said,
+indefinite arrangements will require consideration of potential mechanisms to compensate customers
+for voluntarily limiting their load, as discussed more below.
+ii. Flat, Scheduled, and Dynamic Flexible Interconnections
+Utilities should offer customers a menu of flexible interconnection arrangements, including
+at minimum flat, scheduled, and dynamic limit options. This will maximize program effectiveness,
+as customers with greater operational flexibility can take advantage of options that provide access
+to more grid capacity, while those with less flexibility can benefit from simpler, easier-to-implement
+arrangements.
+First, flat (or static) flexible interconnections incorporate a fixed, firm, load limit that does
+not vary over time or in response to real-time grid conditions. This limit is set when the agreement
+is executed and remains constant from year to year. Flat load limits are particularly well-suited as
+interim, bridge-to-wires solutions in cases where a utility is planning or is currently constructing
+upstream upgrades; once those upgrades are completed, the customer’s limit can be raised to reflect
+the newly available capacity until full nameplate service is reached. These arrangements—often
+referred to as “ramped” or “phased” connections—are already employed across the US through what
+is known as construction service, but they have not yet been formally recognized as a tool for
+accelerating energization timelines. Because flat load limits require no real-time communication or
+advanced controls, they represent the simplest and most immediately deployable form of flexible
+interconnection. Thus, flat limits offer a low-cost, low-complexity option for both utilities and
+customers and can begin alleviating interconnection delays for EV charging and other electric end
+uses in the immediate term.
+5
+
+Second, scheduled load limits provide firm capacity that varies over the course of a day based
+on terms defined in a flexible interconnection agreement. These limits may take the form of hourly
+values, broader time-block allocations, or other structured schedules that allow for predictable intra-
+day variations. Scheduled limits can also incorporate monthly or seasonal adjustments to better
+reflect shifting system conditions and customer needs. The most notable example of scheduled limits
+is illustrated by Southern California Edison’s LCMS pilot, which operates based on preset limits
+without any real-time communication with the customer, meaning the customer’s device is pre-
+programmed to automatically regulate its power usage.8 Scheduled limits therefore offer customers
+greater access to grid capacity during off-peak periods while providing clear, dependable parameters,
+for managing load throughout the year.
+Third, dynamic limits provide non-firm capacity that varies throughout the day and can be
+tied to real-time or forecasted grid conditions. These limits enable the customer’s load to adjust
+based on the actual state of the grid. For example, during system events or peak demand periods, a
+customer’s maximum allowable load can be constrained within a defined range, providing flexibility
+while maintaining grid stability. Pacific Gas & Electric instituted the most well-known dynamic
+flexible interconnection pilot (FlexConnect), which has seen success among large charging station
+developers such as Tesla and PepsiCo as well as stationary battery storage developers.9
+Dynamic limits represent a more sophisticated approach to flexible interconnection with
+benefits and tradeoffs. For example, dynamic limits best suit utilities with greater visibility into their
+distribution systems, such as those that have deployed some form of a distributed energy resource
+management system (“DERMS”), and those that have established granular hosting capacity analyses
+and forecasting methods for expected electric loads like EVs, buildings and data centers. Such
+system investments can be costly, but improved grid visibility also unlocks more grid capacity and
+increases overall system efficiency and optimization. The active communication that dynamic
+flexible interconnections require also enables utilities to exercise real-time, active control during
+emergency events, enhancing system resilience. In contrast, a less sophisticated system tends to
+require more conservative load assumptions to avoid the risk of running up on grid constraints.
+8 SCE, Establishment of Southern California Edison Company’s Customer-Side, Third Party Owned, Automated Load
+Control Management Systems Pilot (Advice Letter 5138-E and 5138-E-A) (January 16, 2023).
+9 See generally PG&E, PG&E FlexConnect Pilot, https://www.pge.com/assets/pge/docs/clean-energy/electric-
+vehicles/flexible-service-connection-pilot-overview.pdf. See also Jeff St. John, A new way to fix grid bottlenecks for
+EV charging: flexible connection (Canary Media, Dec. 10, 2024),
+https://www.canarymedia.com/articles/transmission/a-new-way-to-fix-grid-bottlenecks-for-ev-charging-flexible-
+connection.
+6
+
+Importantly, utilities can implement some types of dynamic flexible interconnections without
+sophisticated DERMS (e.g., through simple calculated and communicated export limits, or by
+leveraging Advanced Metering Infrastructure), though a DERMS may be necessary where the utility
+requires certain types of operational grid visibility.
+Where utilities fall on the spectrum of what they can offer between a simpler, flat limit and
+a more sophisticated dynamic limit will depend on the utility’s circumstances, including their
+distribution system needs and their visibility into the system. Dynamic limits may require additional
+investment in granular data and more sophisticated technology to manage load and ensure reliable
+communication and grid safety, which will increase costs. However, a more dynamic limit can yield
+significant benefits by unlocking grid capacity and increasing system efficiency and optimization.
+Providing this menu of flexible options will require a baseline level of technical and
+operational capability from utilities. In particular, some versions of dynamic, communications-based
+flexible agreements—where import limits adjust in response to real-time or abnormal grid
+conditions—may require deployment of a DERMS or equivalent platform capable of securely
+communicating with participating customers’ equipment, though these systems may not be cost-
+effective in the near-term. Alternatively, flat and scheduled options, and some more dynamic
+options, can be offered before these tools are in place, providing customers with near-term pathways
+for participation while utilities continue to build the operations needed for dynamic approaches.
+These capabilities are essential for any flexible that relies on active, automated adjustments. In sum,
+utilities can offer a spectrum of flexible interconnection options—from simple to more
+sophisticated—that can be deployed both in the near term with minimal operational changes and,
+over time, as part of broader grid-modernization and orchestration efforts.
+iii. Flexible Interconnections Require Clear Procedural Criteria
+The optimal flexible interconnection structure will ultimately depend on what a customer is
+willing to accept, i.e., how much load reduction they can accommodate, for how long, and whether
+the benefits outweigh any operational or cost-related tradeoffs. As a result, utilities and customers
+must work collaboratively to identify arrangements that balance system needs with customer
+priorities. At minimum, utilities should offer a clear menu of options to serve a range of customer
+use cases and levels of flexibility. In addition, every flexible interconnection agreement should
+contain clearly defined parameters, including guaranteed minimum load limits that customers can
+rely on under all circumstances, regardless of system constraints or grid conditions. Utilities should
+also consider key questions related to the customer journey and any marketing, education, and
+7
+
+outreach activities needed to facilitate access to flexible interconnection options. For example, does
+the utility filter all customer energization requests such that sites with expected energization
+timelines over a certain number of months are informed about flexible connection? Does the utility
+market flexible interconnection to common developers, key accounts, and/or other customer groups
+and await a customer’s election of flexible connection?
+Moreover, widescale adoption of flexible interconnections—especially long-term or
+indefinite arrangements where the utility does not build upgrades to eliminate capacity constraints—
+will also require thoughtful price signals and incentives to encourage meaningful customer
+participation. Since flexible interconnections can provide substantial system benefits, including
+avoided or deferred upgrades, improved asset utilization, and reduced congestion, any associated
+compensation structures should also reflect these. Thus, utilities should clearly define customer
+eligibility, the conditions under which compensation incentives apply, and how those payments are
+to be calculated. Doing so will not only encourage broader participation but also ensure that flexible
+interconnections deliver their intended value to both customers and the grid.
+B. Interconnection Timeline Tracking
+To understand the pace at which load projects are progressing through the energization
+process, the Commission should require utilities to track and report on timelines. This information
+would provide critical insights into whether utilities are processing applications in a timely manner
+to meet customer needs and state policy goals. Without this visibility, regulators and stakeholders
+cannot identify baseline or expected timelines by project type and size across utility territories or
+determine where streamlining may be necessary. And importantly, the state’s decarbonization
+goals should help to inform whether current timelines are sufficient or whether other strategies are
+warranted to speed up the process.
+There are many factors regulators must consider when determining how timelines will be
+tracked and reported, including what types of projects to track, how to track timelines, and
+reporting format and frequency.10 These considerations will depend upon how the data will be used
+by regulators to monitor for potential policy reforms that may be needed. Below, we provide
+recommendations intended as a starting point that can be further refined through stakeholder
+discussions.
+10 See Environmental Defense Fund, Considerations for Energization Timeline Tracking (Oct. 2025),
+https://library.edf.org/AssetLink/glr8184366kkn2w36h547i4mhh551c81.pdf.
+8
+
+i. Track and separate out EV charger applications.
+For utilities, connecting load is not a new phenomenon. However, the types of load projects
+connecting to the grid have expanded in recent years and now include increasing numbers of EV
+chargers. The viability of these projects can be significantly impacted by the time it takes to
+energize them. This can be due to the need to meet incentive deadlines or to match the timing of
+vehicle delivery schedules or the shortened construction timeframes for customer-side
+infrastructure as compared to residential or commercial building construction. Additionally, in
+order to meet New York’s ambitious emission reduction goals, policymakers will need to
+understand whether the transition to EVs is happening at a quick enough pace. For these reasons, it
+is imperative to understand how long EV projects are taking to connect to the grid through regular
+tracking and reporting.
+We recommend tracking all EV charger applications and categorizing the data by end use if
+all load projects are included. We also recommend breaking out small and large EV projects (e.g.,
+projects less than 300 kilowatts and projects 300 kilowatts and above) to be able to compare
+timelines across applications of similar sizes and complexities. Con Edison already tracks and
+reports on timelines for EV charger projects 300 kilowatts and above through its Transportation
+Electrification Interconnection Timeline Earnings Adjustment Mechanism, so this type of
+categorization could complement and build on the reporting framework they already have in place.
+ii. Start by tracking end-to-end timelines for ease of implementation.
+Because a standardized set of steps has not been established across all regulated utilities,
+regulators should begin by requiring end-to-end timeline tracking and reporting. End-to-end
+timelines should include initial application submission through project energization. These
+simplified timelines are easier to implement and provide regulators with enough information to
+understand how quickly EV projects are moving through the full process. To ensure consistent
+reporting across utilities, we recommend that regulators establish clear reporting requirements,
+including a standardized reporting format and the data points utilities must provide.
+One important consideration is how to account for partial energization of a project if the
+applicant chooses to utilize a phased connection agreement. In this case, utilities should report on
+both the date that the first phase of the project is energized and the date when the full project is
+online. It might be best to separate out phased connection timelines from other project timelines to
+avoid skewing the results for larger projects. If more data points are ultimately needed to assess the
+efficiency of the process or help identify the source of delays, regulators can then consider whether
+9
+
+tracking timelines by process step and/or responsible party (i.e., the utility or applicant) would be
+appropriate.
+iii. Conduct a pace of energization study to determine whether policy reforms are
+necessary.
+Additionally, we recommend conducting an analysis to determine the pace of energization
+needed to meet the state’s climate goals. With this information, regulators could then assess
+whether current timelines are sufficient or whether further improvements are necessary. A pace of
+energization study could be conducted by a state agency, such as the New York State Energy
+Research and Development Authority, or an outside consultant. We recommend working with
+stakeholders to assess currently available data that could be used and appropriate modeling and
+outputs that would provide the most value to regulators.
+C. Harmonizing Load and Distributed Generation Interconnection
+Energy storage systems (ESS) paired with EV chargers can provide significant benefits
+including immediate capacity to sites and is a load management technology that improves
+managed charging, particularly for medium- and heavy-duty fleets. As discussed in the Grid of the
+Future Flexibility Study, bidirectional EV chargers have incredible potential to unlock grid
+flexibility “by shifting charging load to an off-peak time period, where the demand on the grid is
+lower and the underlying costs to serve customers and/or grid greenhouse gas emissions are
+lower.”11 Managing charging loads will become increasingly important with a growing EV fleet,
+and bidirectional capability is an additional capability that can reduce strain on the grid. Presently,
+deployment of bidirectional chargers is disincentivized by a burdensome interconnection process
+and the lack of harmonization with the interconnection processes for unidirectional chargers paired
+with ESS.
+i. Address Misalignment of Timelines Between the EV Load Study and the SIR Process for
+ESS.
+Con Edison customers have identified a misalignment between the timing of the EV load
+study by the e-mobility team and the standardized interconnectionr requirements (“SIR”) process by
+the coordinated electric system interconnection review (“CESIR”) team. This misalignment is
+detrimental to the customer setting up EV load paired with energy storage because an EV load study
+may have a service determination and signed program agreement while a CESIR study is still in
+11 GOTF Vol 3 p14.
+10
+
+progress. Because the CESIR study is ongoing, there may be changes in service determination,
+which would affect the signed load agreement. This lack of transparency in service determination is
+costly and time-consuming for developers. We recommend greater alignment between load and
+generation/storage interconnection processes, which could be done through linking applications ID
+numbers, offering a single utility point of contact, or offering a joint application, among other
+solutions implemented by utilities in other states.
+ii. Develop Transparency and Fairness for Bidirectional Charger Interconnection.
+Beyond lack of transparency in service determination, bidirectional chargers are also
+disadvantaged compared to unidirectional chargers in gaining available capacity at a substation, due
+to lack of transparency in the interconnection queue. When a bidirectional charger paired with ESS
+is undergoing interconnection review, a unidirectional charger can claim the available substation
+capacity before the bidirectional project’s CESIR study is complete. This gives unidirectional
+chargers an unfair advantage by effectively consuming capacity that the utility had indicated would
+be available to the bidirectional project. A publicly accessible EV interconnection queue (including
+load) would help developers plan electric vehicle supply equipment (“EVSE”) projects in
+accordance with available capacity.
+iii. Expand Communication Between Distributed Generation and EV Load Utility Teams
+Customers of Con Edison have reported limited communication between the distributed
+generation and EV load utility teams when interconnecting a bidirectional charger paired with ESS.
+Increased transparency between the utility teams and the customer regarding project determination
+and timelines is critical to advance the adoption of vehicle-to-grid (“V2G”) technology that will
+benefit the EV fleet of the future.
+iv. The ITWG should address both the distributed generation and load side of EV
+interconnections
+The EVIIWG has solely focused on load interconnection, while developing the EV Queue
+Management Proposal, while the ITWG is focused on resources that provide energy. With increasing
+capacity constraints at EV sites, developers will deploy distributed generation to provide load
+management. Due to the lack of transparency in the interconnection process for distributed
+generation paired with load, it is currently unattractive for developers to deploy load management
+technology in a time when capacity constraints need to be managed. EV load directly interacts with
+the interconnection process for bi-directional chargers at the same site; thus, the two processes
+should be harmonized together in discussion at the ITWG.
+11
+
+D. Clarifying Vehicle-to-Home Interconnection Policy
+As deployment of bidirectional charging systems becomes more common, it is increasingly
+important for New York to distinguish between bidirectional charging systems operating in
+bidirectional mode only when islanded and those enabled for parallel operation with the utility
+grid. This distinction, not hardware capability alone, determines whether a bidirectional charging
+system creates any risk of exporting during normal grid operations, and therefore, whether it should
+trigger interconnection review.
+The Department’s Notice Soliciting Comments in Case 18-E-0138 asks stakeholders to
+identify barriers and solutions related to the interconnection of new electric loads, including those
+associated with transportation electrification. As EV adoption accelerates, many customers will
+install charging infrastructure that may also support optional bidirectional charging functionality.
+Without clear regulatory guidance distinguishing bidirectional charging systems operating in
+bidirectional mode only when islanded and those enabled for parallel operation, utilities may
+treat a large and growing population of EV customers as requiring DER interconnection review,
+even where those customers are simply installing charging load and not seeking grid-parallel
+bidirectional charging operation. The resulting ambiguity directly affects the efficiency, speed, and
+predictability of New York’s load interconnection process, and therefore fits squarely within the
+questions DPS has asked stakeholders to address.
+i. Systems Enabling Bidirectional Charging Only When Islanded Are Functionally
+Equivalent to a Backup Generator
+A bidirectional charging system operating in bidirectional mode only when islanded
+functions by disconnecting the home from the utility grid before any power flows from the vehicle
+to household loads. Technical evaluations confirm that islanding is achieved using a microgrid
+interconnection device (“MID”) operating under strict “break-before-make” logic. The MID
+physically opens the connection to the distribution grid, verifies isolation, and only then permits the
+bidirectional charging system to energize the home. Laboratory testing conducted by EPRI has
+validated and documented this sequence: upon grid loss, the MID disconnects, the inverter
+transitions to grid-forming mode, and only after isolation is confirmed does power flow from the
+vehicle through the EVSE to serve the home loads.12 When grid power returns, the inverter ceases
+output before reconnection occurs.
+12 Electric Power Research Institute (February 2024) Vehicle-to-Home (V2H) System Backup Power Performance
+Evaluation: Lab Assessment of Ford F-150 Lightning and Ford Intelligent Backup Power System, available at
+https://www.epri.com/research/products/000000003002029045.
+12
+
+Other jurisdiction that have examined this architecture in detail have come to similar
+conclusions. For example, the Michigan Public Service Commission Rules that Ford’s bidirectional
+charging system operating in bidirectional mode only when islanded from the grid “will not operate
+in parallel with the utility’s distribution system” and therefore does not require interconnection
+authorization.13 The underlying technical testimony emphasized that multiple layers of software
+gating, hardware isolation, and commissioning verification ensure that these systems cannot export
+when the grid is energized.14
+ii. Systems Enabled to Operate in Bidirectional Mode in Parallel to the Grid Remain
+Distinct and Certainly Require Interconnection
+Systems enabled in bidirectional mode when operating in parallel with the grid, whether for
+grid-parallel export (i.e., for credit under a tariff or program) or grid-parallel non-export (i.e., to meet
+site load, mitigating the consumption of energy from the grid), are fundamentally different than
+systems operating in bidirectional mode only when islanded. They require:
+• activated software across the vehicle, EVSE, and inverter;
+• phase-synchronized control logic;
+• protection settings compliant with IEEE 1547;
+• certification to UL standards to ensure compliance with IEEE 1547 requirements; and
+• utility authorization prior to enabling grid-parallel bidirectional charging capability.
+These systems should continue to follow New York’s DER interconnection process to ensure the
+safety and reliability of the grid.
+iii. Why This Distinction Matters for Improving the Load Interconnection Process
+Without clear rules, utilities may default to treating any “bidirectional-capable” EV as a
+potential DER, creating unnecessary DER interconnection applications for what are, in practice,
+loads with optional islanded backup use. This would slow down DER interconnection queues,
+tremendously increase review burden on utilities (e.g., every EV or EVSE routed to a
+generation/storage interconnection process15), and create confusion for customers who are not
+13 Michigan Public Service Commission Case No. U-21619 (March 2025) Declaratory Ruling, available at https://mi-
+psc.my.site.com/sfc/servlet.shepherd/version/download/068cs00000f4FyXAAU.
+14 Michigan Public Service Commission Case U-21619 (September 2024) In the Matter of the request for a declaratory
+ruling by Ford Motor Company regarding home backup power and Michigan’s interconnection rules, available at
+https://mi-psc.my.site.com/sfc/servlet.shepherd/version/download/068cs000009GJJIAA4.
+15 Nissan, Ford, GM, Tesla, Kia, Volvo, and Polestar currently offer compatibility with bidirectional charging
+systems. Honda, Hyundai, Rivian, and Lucid have announced offering this capability in the near-term. BMW,
+Mercedes-Benz, and Stellantis have also made public statements regarding bidirectional charging features.
+13
+
+seeking any functionality beyond charging their vehicles. To support DPS’s goal of making load
+interconnection more efficient, New York should explicitly define:
+• Use Case 1: Bidirectional Charging Enabled Only When Islanded – operates strictly when
+isolated from the grid; no parallel operation possible based on software gating, hardware
+isolation, and/or commissioning verification; no generation/storage interconnection review
+needed.
+• Use Case 2: Bidirectional Charging Enabled When Operating in Parallel- with the Grid –
+enabled for bidirectional charging parallel to the grid, either exporting (i.e., for credit under
+a tariff or program) or non-exporting (i.e., to meet site load, avoiding consumption from the
+grid); full interconnection review required.
+Providing this clarity will reduce administrative burden, ensure alignment across utilities, and
+protect the DER interconnection queue from unnecessary volume as EV adoption accelerates. As
+customer adoption of bidirectional charging systems become more common, it is increasingly
+important for New York to distinguish between these two types of systems.
+III. Conclusion
+EDF, IREC, NY-BEST, and VGIC thank the Commission for the opportunity to submit these
+comments and urge it to take action in support of load interconnection consistent with the
+recommendations outlined above.
+Bidirectional charging products marketed for the light-duty vehicle market are available from Ford/Sunrun, GM
+Energy, dcbel, Tesla, and Wallbox, while ChargePoint, Autel, Emporia, Enphase, and SolarEdge have announced
+forthcoming bidirectional charging systems. Nearly every school bus manufacturer offers bidirectional charging
+compatibility with one or several chargers from Tellus Power Green, InCharge, and Heliox.
+14
+
+__________________
+Cole Jermyn
+Senior Attorney, Clean Affordable Power
+Environmental Defense Fund
+__________________
+Mari Hernandez
+Director, Regulatory Program
+Interstate Renewable Energy Council
+________________________________
+Steve Letendre, PhD
+Senior Advisor
+Vehicle Grid Integration Council
+____________________________
+Dr. William Acker
+Executive Director
+New York Battery and Energy Storage
+Technology Consortium
+15

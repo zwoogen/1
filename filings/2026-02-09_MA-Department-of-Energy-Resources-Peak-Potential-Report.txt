@@ -1,0 +1,91 @@
+Steve Letendre, PhD
+Senior Advisor
+Vehicle Grid Integration Council
+1401 21st Street, #5409
+Sacramento, CA 95811
+sletendre@vgicouncil.org
+February 9, 2026
+VIA EMAIL SUBMISSION
+Charles Dawson, charles.dawson@mass.gov
+RE: Vehicle Grid Integration Council Comments on The Massachusetts Department of
+Energy Resources Report and Policy Recommendations Peak Potential: Reducing
+energy costs and empowering consumers with load management and virtual power
+plants
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based advocacy
+organization committed to advancing the role of vehicle-grid integration (VGI) through policy
+development, education, outreach, and research. VGIC supports the transition to decarbonized
+transportation and electric sectors by ensuring that the value of flexible EV charging and
+discharging is recognized and compensated to support a more reliable, affordable, and efficient
+electric grid.
+VGIC commends the Massachusetts Department of Energy Resources (DOER) for publishing
+Peak Potential: Reducing Energy Costs and Empowering Consumers with Load Management
+and Virtual Power Plants. The report provides a clear, analytically rigorous framework for
+understanding how load management can reduce peak demand, control long-term system costs,
+and improve energy affordability as Massachusetts electrifies transportation and buildings and
+more broadly seeks to achieve its climate goals.
+1
+
+VGIC strongly supports the report’s conclusion that electric vehicles, and vehicle-grid
+integration (VGI) solutions in particular (encompassing both managed and bidirectional
+charging), represent the single most significant source of future grid flexibility in the
+Commonwealth. The report explicitly finds that EV managed charging and bidirectional
+charging are not speculative resources, but rather no-regrets strategies with material near- and
+long-term value:
+“EV load management, through both managed charging programs and vehicle-to-
+everything (V2X), is a no-regrets, high-potential strategy that could provide 300 MW
+of capacity in the near term and 6.5 GW in the long term.” (Peak Potential Report, p.
+3; emphasis added)
+The report further identifies EVs as “the single biggest source of load flexibility” across all
+modeled years, noting that managed charging provides immediate, low-cost benefits, while V2X
+more than doubles peak reduction capability per vehicle as bidirectional charging system
+deployments accelerate (Peak Potential Report, pp. 16–17).
+These findings are consistent with conclusions reached in other major grid flexibility studies. For
+example, New York State’s Grid Flexibility Potential Study identifies electric vehicles as one of
+the largest and most scalable sources of grid flexibility, with managed charging delivering near-
+term system value and bidirectional EVs providing dispatchable capacity in the medium term.
+The study finds that New York's total grid flexibility potential exceeds 8 GW by 2040,
+equivalent to roughly 25% of net system peak demand, and that EVs (both managed and
+bidirectional charging) account for the largest share of this total.1
+At the national level, the U.S. Department of Energy’s Pathways to Commercial Liftoff: Virtual
+Power Plants report similarly identifies electric vehicles as a dominant and fast-growing source
+of grid flexibility within future VPP portfolios. The DOE finds that EV charging infrastructure
+and EV batteries together already represent tens of gigawatts of nameplate flexible demand and
+storage potential, and that EV-related capacity is growing faster than any other distributed energy
+resource. The report further concludes that managed EV charging alone can shift 70% or more of
+peak-period charging demand for participating customers, reinforcing EVs as a scalable, low-
+cost flexibility resource today. While the report notes that vehicle-to-grid deployment remains
+limited in the residential sector, significant advancements in the residential bidirectional charging
+sector have occurred since the publication of this report, including the launch of large-scale
+initiatives in California, Connecticut, and Massachusetts and new offerings from Kia, Ford, GM,
+Tesla, Volvo, Polestar, and Nissan. Commercial fleets, meanwhile, remain an exciting V2X use
+1 See Brattle Group, January 2025, New York’s Grid Flexibility Potential VOLUME I: SUMMARY REPORT
+available at https://www.brattle.com/wp-content/uploads/2025/02/New-Yorks-Grid-Flexibility-Potential-Volume-I-
+Summary-Report.pdf.
+2
+
+case. The report identifies bidirectional EV integration as a priority area for continued analysis
+and market development as VPPs scale nationally.2
+Taken together, the findings in Peak Potential align closely with VGIC’s understanding and our
+ongoing regulatory and policy work across jurisdictions. VGIC seeks to ensure EVs are treated
+as grid-interactive infrastructure, not merely incremental load, and we are available to work with
+regulators, utilities, and policymakers to unlock the full potential of EVs as flexible grid
+resources. VGIC further supports the establishment of explicit regulatory pathways for
+bidirectional charging, including clear interconnection, export, and compensation rules, to allow
+V2X resources to move beyond pilot programs and participate meaningfully in grid planning and
+operations.
+VGIC recommends that the DOER, Department of Public Utilities, and stakeholders across the
+Commonwealth translate the Peak Potential findings into durable policies and programs that
+deliver customer value, grid reliability, and long-term cost savings for all ratepayers. VGIC is
+available to consider specific recommendations and looks forward to collaborating with the
+DOER, the Department of Public Utilities, and other key stakeholders across the Commonwealth
+on this important initiative.
+Respectfully submitted,
+/s/ Steve Letendre
+Steve Letendre, PhD
+Senior Advisor
+Vehicle-Grid Integration Council
+www.vgicouncil.org
+2 See U.S. Department of Energy, January 2025, Pathways to Commercial Liftoff: Virtual Power Plants 2025
+Update available at https://www.smartenergydecisions.com/wp-
+content/uploads/2025/04/liftoff_doe_virtualpowerplants2025update.pdf
+3

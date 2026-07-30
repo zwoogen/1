@@ -1,0 +1,169 @@
+August 21, 2025
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Protest of the Vehicle Grid Integration Council to Advice Letter 5596-E of
+Southern California Edison Company: Notice of Attainment of Megawatt
+Targets for the Southern California Edison Expanded Dynamic Rate Pilot
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this Protest to the above-referenced Supplement to Advice Letter 5596-
+E of Southern California Edison (“SCE”), Notice of Attainment of Megawatt Targets for the
+Southern California Edison Expanded Dynamic Rate Pilot (“Advice Letter”) submitted on August
+1, 2025.
+I. INTRODUCTION
+In Decision (“D.”) 24-01-032, the Commission directs SCE to extend its Dynamic Rates
+Pilot (“DRP”) through December 2027. The Commission authorizes an upfront budget of
+$2,000,000 for program administration costs and a variable program administration budget of an
+additional $5,100,000, allocated in 33% increments when enrollment reaches 12.5 MW, 25 MW,
+and 37.5 MW. The Advice Letter provides notice that “SCE can state with a high degree of
+confidence that by August 3, 2025, a minimum of 125.5 MW will be participating in SCE’s
+Expanded pilot.”1 VGIC commends SCE for quickly scaling enrollment up from the July 1, 2025,
+start date to a level that surpasses the targets required to unlock additional program administration
+budget. VGIC generally supports providing additional program administration funds to SCE to
+allow it to appropriately implement the expanded DRP. However, SCE’s implementation of DRP
+fundamentally does not comply with the vision of D.24-01-032 and, as such, VGIC believes the
+additional program administration should not be unlocked unless SCE submits a supplemental
+advice letter expanding eligibility to certain customers and, in turn, properly implements DRP.
+Specifically, SCE’s exclusion of non-NEM exporting customers, namely bidirectional charging
+1 Advice Letter at 2.
+
+August 21, 2025
+Page 2 of 5
+customers, represents a significant departure from the Commission guidance provided in D.24-01-
+032.
+D.24-01-032 dedicates discussion section 7 to “Whether to Add New Customer Eligibility
+Rules to the Pilots.” It highlights that the staff proposal recommended allowing BTM storage
+systems and EVSE to participate in the expanded pilots subject to the requirements in Attachment
+B. The referenced Attachment B is focused primarily on the treatment of bidirectional charging
+equipment, detailing how such equipment should be treated in the DRP. Specifically, Attachment
+B states:
+• “Any DC V2G EVSE that has UL 1741 certification…may interconnect initially
+for the purpose of participating in the expanded pilots. (emphasis added)”
+• “Only during participation in the expanded pilots, the customer (or the
+customer’s authorized third party) is permitted to virtually aggregate separately
+metered EVSE that have a Rule 21 interconnection agreement with other load and
+generation… to allow export from the EVSE to reduce the host site’s load and
+export from such aggregation… (emphasis added).”
+In D.24-01-032, the Commission then states, “It is reasonable to allow customers with BTM
+storage systems, including sub-metered systems, to participate in the expanded pilots...” and “It is
+reasonable to allow customers with EVSE, including sub-metered systems, to participate in the
+pilot, subject to the rules in Attachment B.”2 The Commission’s unquestionable intent in
+coming to this determination and including Attachment B is that bidirectional charging
+customers be eligible to participate in DRP. Neither SCE nor the Commission has since
+provided evidence that the Commission erred in making this determination.
+VGIC understands that SCE had a difficult time starting DRP, launching it over a year after
+it was initially meant to launch. We are aware that the pilot is complex, incorporating innovative
+elements like a subscription component and highly granular distribution price signals. While we
+are disappointed that SCE could not develop its offering as fast as PG&E, our primary concern is
+that these delays unfairly discriminate against bidirectional charging customers who wish to
+participate. These customers are eager to adopt new technologies that are costly for them and seek
+opportunities to support the grid through the DRP. Similarly, the aggregators or “ASPs” that
+coordinate customer response have been making significant investments for several years to take
+advantage of DRP and other CalFUSE rate initiatives based on the clear signals through the
+CalFUSE whitepaper, subsequent working group, D.24-01-032 (including, namely, Attachment B
+which specifically details the treatment of bidirectional charging equipment), and PG&E
+implementation of the CalFUSE for exports that they can enroll customers in the pilot. In reviewing
+2 D.24-01-032 at 58.
+
+August 21, 2025
+Page 3 of 5
+SCE’s 2024 RFP soliciting ASPs, aggregators of bidirectional charging customers were provided
+no notice by SCE that they would not be eligible to participate in the DRP, as they continued to
+operate in response to all subsequent guidance and regulatory signals (i.e., the CalFUSE
+whitepaper, working group, D.24-01-032, PG&E’s implementation of CalFUSE for exports, and
+even the CEC’s REDWDS grants, which provide funding for bidirectional charging initiatives
+with the express goal of leveraging dynamic pricing). In other words, somewhere along the
+implementation process, it appears that SCE unilaterally decided that it would not offer the DRP
+to bidirectional charging customers, despite guidance from the Commission expressly detailing
+the treatment of bidirectional charging equipment, and without notifying the Commission or the
+industry about these eligibility determinations. It was only in response to a data request found in
+an appendix to testimony from another party in an unrelated issue in SCE’s General Rate Case
+proceeding that SCE revealed this eligibility determination.3 Under no interpretation does this
+history represent a record of good-faith execution on the Commission’s guidance in D.24-01-032.
+With this in mind, VGIC protests the Advice Letter on the grounds that SCE has not
+complied with D.24-01-032, as it does not offer the DRP to bidirectional charging customers. To
+cure this deficiency, VGIC recommends that SCE submit a supplemental advice letter
+detailing its plan to offer DRP participation to non-NEM exporting customers, effective
+immediately, including bidirectional charging customers. Upon submission of this
+supplemental advice letter, SCE should be granted the full program administration budget so that
+it has sufficient resources to accept these new customers into the pilot. VGIC expands on these
+grounds for protest in the comments below.
+II. GROUNDS FOR PROTEST
+A. SCE’s Request Violates Commission Decision 24-01-032.
+As detailed above, D.24-01-032 intentionally discusses the treatment of bidirectional charging
+customers in the expanded pilots. It highlights that the eligibility of BTM storage systems and
+EVSE to participate in the expanded pilots subject to the requirements in Attachment B of the
+Decision. Attachment B states:
+3 In response to a recent data request from Cal Advocates, SCE states “while not explicitly discussed in
+our implementation plan, Net Energy Meter (NEM) and Solar Billing Plan (SBP) customers are eligible to
+participate in the expanded pilot.” (see
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7847/546561478.pdf page B-12). When Cal
+Advocates asked “Please explain what requirements must be met for customers enrolled in the Expanded
+Pilot to export load,” SCE responded by stating “Customers enrolled in NEM 1.0, NEM 2.0, or SBP and
+enrolled in an eligible pilot rate, and are not enrolled in any disqualifying demand response programs,
+would be eligible to participate in the pilot and receive credits for exporting load.” (see
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7847/546561478.pdf at page B-14).
+
+August 21, 2025
+Page 4 of 5
+• “Any DC V2G EVSE that has UL 1741 certification…may interconnect initially
+for the purpose of participating in the expanded pilots. (emphasis added)”
+• “Only during participation in the expanded pilots, the customer (or the customer’s
+authorized third party) is permitted to virtually aggregate separately metered EVSE that have a
+Rule 21 interconnection agreement with other load and generation… to allow export from the
+EVSE to reduce the host site’s load and export from such aggregation… (emphasis added).”
+The Commission states, in no uncertain terms, that “It is reasonable to allow customers with BTM
+storage systems, including sub-metered systems, to participate in the expanded pilots...” and “It is
+reasonable to allow customers with EVSE, including sub-metered systems, to participate in
+the pilot, subject to the rules in Attachment B. (emphases added)”
+If SCE had properly implemented DRP to date, SCE’s request would be consistent with the
+process for notifying the Commission and, subsequently, being authorized over $5 million in
+additional program administration funds. However, since the SCE is not compliant with D.24-01-
+032 to begin with, its request for these funds, by way of notifying the Commission of enrollment
+numbers, violates D.24-01-032.
+B. Advice Letter 5596-E Contains Material Errors, as the Reported Enrollment is in a
+Pilot that Is Not in Compliance with D.24-01-032.
+VGIC reiterates its appreciation for SCE in expanding its efforts so quickly to include a large
+amount of potential load shift. However, the Advice Letter contains material errors, as it
+presupposes that the DRP in itself complies with D.24-01-032. VGIC reiterates that the pilot does
+not comply with the Commission’s direction in D.24-01-032 and, as such, the Advice Letter is
+materially inaccurate in its claims of enrollment numbers. While SCE may have enrolled many
+customers in a pilot, it is not the pilot ordered in D.24-01-032, as it excludes customers for which
+treatment is explicitly detailed in the Decision.
+C. SCE’s Request to Exclude Certain Customers from Participating in the Dynamic
+Rate Pilot is Discriminatory and Unjust for these Participants.
+SCE’s request for over $5 million in additional program administration funds without including
+customers that are meant to be included in the pilot represents discriminatory and unjust treatment
+for certain participants. Specifically, bidirectional charging customers, and the aggregators that
+invest and the capabilities required to leverage the technology in support of California’s reliability
+and affordability goals, are being shut out of the pilot.
+
+August 21, 2025
+Page 5 of 5
+III. WHAT IS “AT STAKE” FOR THE FUTURE OF V2X.
+VGIC’s critical and overarching concern is that the market for V2X products and services is still
+emerging, and there are very few stable revenue streams available that can help this suite of
+technologies develop even further. As noted above, the dynamic rate pilot is one of the only forms
+of utility compensation for V2X solutions in California. Thus, VGIC stresses the importance of
+withholding SCE’s additional $5 million in program administration funding until they explicitly
+deem bidirectional charging customers eligible for DRP. This will allow new market entrants to
+test the viability of different operating paradigms and use cases and scale their operations. Notably,
+the recent report from CPUC, CARB, CEC, and other state agencies in response to the Governor’s
+June 12, 2025 executive order details the use of dynamic pricing to support bidirectional charging.
+Without enabling participation from these customers in the DRP, the Commission would forego
+any lessons learned that would have arose from V2X participation in the dynamic rate pilots, which
+is particularly important given the long-term intent to offer mass-market optional dynamic rates to
+these same customers.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit this Protest to the supplemental Advice Letter.
+We look forward to collaborating with stakeholders on this important initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+Vehicle Grid Integration Council
+cc: Connor Flanigan, SCE (AdviceTariffManager@sce.com)
+Adam Smight c/o Karyn Gansecki, SCE (Karyn.Gansecki@sce.com)
+Service list of R.22-07-005

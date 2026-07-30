@@ -1,0 +1,922 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Update Rulemaking 25-08-004
+Distribution Level Interconnection (Filed August 14, 2025)
+Rules and Regulations.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING TO UPDATE DISTRIBUTION LEVEL
+INTERCONNECTION RULES AND REGULATIONS
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: October 20, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Update Rulemaking 25-08-004
+Distribution Level Interconnection (Filed August 14, 2025)
+Rules and Regulations.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING TO UPDATE DISTRIBUTION LEVEL
+INTERCONNECTION RULES AND REGULATIONS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Order Instituting Rulemaking to Update Distribution Level Interconnection
+Rules and Regulations (“OIR”), issued on August 20, 2025.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to provide comments on the OIR to Update Rule 21.
+VGIC strongly supports the Commission’s intent to modernize Rule 21 and ensure that
+interconnection processes remain efficient, transparent, affordable, and equitable as California
+transitions toward the use of more distributed energy resources (“DER”). In particular, VGIC urges
+the Commission to prioritize reforms that enable bidirectional electric vehicle (“EV”) charging
+customers to interconnect safely, affordably, and in a manner that supports grid reliability.
+Accordingly, VGIC offers recommendations on the proposed scope, process, and schedule for this
+proceeding.
+II. BACKGROUND & INTEREST IN PROCEEDING.
+VGIC is a 501(c)6 member-based advocacy group committed to advancing the role of EVs
+and vehicle-grid integration (“VGI”) through policy development, education, outreach, and
+1
+
+research. VGIC supports the transition to a decarbonized transportation and electric sector by
+ensuring the value from flexible EV charging and discharging is recognized and compensated to
+achieve a more reliable, affordable, and efficient electric grid. VGIC’s members include
+automotive original equipment manufacturers (“OEMs”), EV service providers (“EVSPs”), DER
+aggregators, EV charging site developers, publicly owned electric utilities, and Community Choice
+Aggregators.
+In D.20-09-035, the Commission clarified that direct current (“DC”) bidirectional EV
+charging systems are a form of energy storage for the purposes of interconnecting under Rule 21.
+The Commission has also directed the investor-owned utilities (“IOUs”) to establish pathways to
+interconnect alternating current (“AC”) bidirectional charging systems outside of the Rule 21
+process. Lastly, the Commission has detailed next steps for incorporating AC bidirectional
+charging systems into Rule 21, pending certain milestones completed by standards development
+organizations. VGIC, therefore, holds a direct interest in modifications to Rule 21 interconnection
+processes. VGIC has been an active party in the predecessor rulemaking on Rule 21, R.17-07-007,
+and related rulemakings on transportation electrification and distributed energy resources, such as
+R.18-12-006, R.21-06-017, and R.23-12-008.
+III. COMMENTS ON THE PROPOSED SCOPE.
+VGIC appreciates the Commission’s effort to consider the multitude of items that can be
+improved in Rule 21. Below, VGIC offers the following recommendations for additional items
+that should be included or excluded from the scope of this proceeding.
+2
+
+A. ITEMS TO ADD TO SCOPE.
+a. Reassess Application Fees for Small Non-NEM and Non-NBT Systems.
+VGIC recommends that the Commission revisit Rule 21 interconnection application fees
+for small systems that are not enrolling in Net Energy Metering (NEM) or the Net Billing Tariff
+(NBT). The previous Rule 21 proceeding (R.17-07-007) explicitly included this question in
+scope but did not resolve it. VGIC recommends that the questions below from R.17-07-007 be
+added to the scope of this new OIR under Topic 5: Tariff Implementation Costs or as a stand-
+alone issue within the first phase of this proceeding:
+• “Should the Commission revise the application fee for non-net energy metering systems?
+How should the Commission determine what the revised fee should be?”
+VGIC is concerned that the interconnection fee of $800 for all non-NEM and non-NBT
+exporting systems are disproportionately high and not reflective of actual utility costs. Notably,
+these fees significantly exceed those charged by utilities in other states, in most cases by 800%.1
+Additionally, these fees have an outsized impact on bidirectional charging systems, which have
+relatively lower upfront costs compared to stationary energy storage systems, rooftop solar PV,
+or other DERs interconnecting under Rule 21. Since customers are purchasing EVs for
+transportation uses, the incremental costs to unlock bidirectional capabilities is typically only the
+cost of the bidirectional charger and interconnection. As a result, the $800 interconnection
+application fee comprises one of the most significant upfront costs for bidirectional charging
+systems and, in turn, a significant barrier to widespread bidirectional charging system
+deployment. These deployments can support grid reliability, ratepayer affordability (including
+1 See Attachment A for a list of national utility interconnection fees compiled by VGIC and members.
+3
+
+for non-EV customers), and efficiency through customer participation in a rate or program, such
+as the Emergency Load Reduction Program, the California Energy Commission’s (“CEC”)
+Demand Side Grid Support (“DSGS”) program, Pacific Gas and Electric’s (“PG&E”) Vehicle-
+to-Everything (“V2X”) Residential or Commercial Pilots, PG&E’s Hourly Flex Pricing pilot,
+Southern California Edison’s (“SCE”) expanded dynamic rate pilot, San Diego Gas & Electric’s
+(“SDG&E”) Export Compensation Pilot, and/or SCE’s proposed Vehicle-to-Grid Resource
+Proposal. These deployments can also help customers, including school bus fleets, municipal
+fleets, and small business fleets, manage bills through non-exporting, grid-parallel bidirectional
+charging system configurations designed to mitigate demand charges or energy consumption.
+b. Interconnection Application Form and Portal Updates for Bidirectional EV
+Charging Systems.
+VGIC strongly recommends that the scope of this proceeding consider interconnection
+application form and portal updates, specifically for bidirectional charging system Rule 21
+applications, to ensure that customers can interconnect efficiently without confusion. VGIC
+recommends that the following items be added to Topic 2: Interconnection Processes:
+• What updates are needed to ensure each IOU’s interconnection application and portal
+include clear interconnection guidance and process for bidirectional EV charging
+systems?
+To avoid confusion and delay, it is critical that each IOU’s interconnection application
+forms and online portal, if available, allow applicants to clearly identify whether an energy storage
+system is a bidirectional EV charging system. This update, detailed although ultimately not
+directed in Decision (D.) 20-09-035 Issue 23f, is now more relevant as bidirectional EV charging
+system interconnection requests have increased in the five years since the Working Group Three
+4
+
+report was submitted. Furthermore, applicants should be able to specify the technology type (e.g.,
+AC or DC), as this can expedite utility review.
+The IOUs have made some progress on this issue, but navigating all the IOU
+interconnection portals continues to be confusing for bidirectional EV charging system applicants.
+SCE and SDG&E do not have clear bidirectional charging system interconnection application
+forms. PG&E does have dedicated forms, but customers aiming to be compensated for exports
+under PG&E’s V2X Residential or Commercial Pilots must, confusingly, indicate that they are a
+non-export application. The lack of appropriate forms has also led to confusion for utility
+employees, with VGIC members reporting instances of bidirectional EV charging system
+interconnection applications being routed out of the Rule 21 process to an energization make-ready
+program or tariff (i.e., Rule 29/45). Consistent, standardized processes are essential to enable
+bidirectional EV charging system project development and avoid unnecessary delays.
+Lastly, per D.20-09-035, the IOUs must circulate quarterly interconnection timeline reports
+showing the date by which certain interconnection milestones are reached for Rule 21 DERs. The
+current quarterly reports are sortable by technology type. However, the three major IOUs use
+different terminology for bidirectional charging systems and, in some cases, do not report the
+bidirectional charging system requests, despite each IOU having known bidirectional charging
+sites. VGIC recommends the Commission include standardized quarterly interconnection timeline
+reporting for bidirectional charging systems in the scope of this proceeding under Topic 2:
+Interconnection Processes.
+c. Defining a timeline or roadmap for transitioning to virtual inspection and
+notification-only approaches for non-NEM and non-NBT resources.
+VGIC recommends that a new scoping topic be added on interconnection process
+streamlining, which would include timelines for the development of virtual inspection and
+5
+
+notification-only approaches in Rule 21. Virtual inspections and notification-only approaches both
+offer cost and time improvements over traditional site inspection processes, especially for smaller
+bidirectional charging system projects. Establishing a clear timeline and milestones for this
+transition will streamline interconnection processes and reduce burdens on applicants. For
+example, the Commission could consider adopting a threshold number of bidirectional charging
+site interconnections that would trigger the establishment of a virtual inspection process. VGIC
+therefore recommends adding a new topic to the OIR on streamlining with the following questions:
+• What milestones and timelines should the Commission adopt for implementing virtual
+inspection and notification-only approaches for non-NEM and non-NBT projects?
+What procedural processes should be established to ensure that these issues can be
+taken up in a timely manner in the future?
+• What technical or safety conditions should be considered when determine eligibility
+for virtual inspection or notification-only interconnection?
+• How can the Commission ensure that these processes evolve with market maturity?
+Currently, all three utilities leverage virtual inspections to a certain extent to streamline
+interconnection, particularly for NEM and NBT systems. However, field inspections are still
+required typically for projects using relays, AC disconnects, NGOMs, and variances from Rule 21.
+Meanwhile, the currently-approved notification-only pilot was available through September 2025
+and was only open to non-export standalone storage or solar-plus-storage projects less than 30
+kVA capacity.2
+VGIC acknowledges that the bidirectional charging market may not currently be mature
+enough to justify these approaches. However, we recommend that the scope of this proceeding
+2 Resolution E-5311.
+6
+
+establish certain milestones or explicit timelines for when both issues should be taken up in the
+initial Scoping Memo. VGIC advises against subjecting these issues to the organic cycles of
+scoping new Rule 21 issues – as evident in Phase II of R.17-07-007, unexpected events can lead
+to delays of 4-5 years, even for already scoped, time-sensitive matters. Instead, VGIC recommends
+that this proceeding add a topic to consider what milestones (e.g., a certain number of deployments)
+or timelines (e.g., a certain date for implementation) are appropriate to implement virtual
+inspection and, subsequently, notification-only approaches. For example, the V2G AC pilot was
+approved in D.20-09-035 and Resolution E-5315. In the Resolution, the Commission
+acknowledged that it was premature to set permanent Rule 21 V2G AC standards but outlined a
+concrete process for updating Rule 21 once V2G AC technical standards are in place, which will
+involve the reconvening of a working group and the submission of a Tier 3 Advice Letter to update
+Rule 21.3 VGIC envisions a similar process roadmap being outlined for virtual inspection and
+notification-only streamlining, wherein a specific milestone, like number of sites deployed, is
+adopted that would trigger subsequent Commission action.
+d. Updating Rule 21 technical provisions for all storage devices and bidirectional EV
+charging systems.
+VGIC recommends that Topic 3: Interconnection Pathways and Standards add a question
+to discuss any needed updates to Rule 21 to accommodate the wide variety of DERs now available
+to customers, including bidirectional EV charging systems. With the large-scale and relatively
+rapid adoption of solar in the state over the previous two decades, Rule 21 has adopted many
+changes that are designed to serve that technology specifically. Therefore, some items in Rule 21
+3 Resolution E-5315.
+7
+
+might not be fully applicable to less adopted technologies like bidirectional EV charging systems.
+A more comprehensive review of requirements should be considered in scope for this proceeding.
+Currently, the OIR contains a question on technical updates to Rule 21 for non-export
+systems. This question also insinuates that these systems are creating “challenges”, which might
+not be the case. Instead, VGIC recommends that this question be modified to address true technical
+differences for both export and non-export resources:
+• Do new technologies for non-exporting storage systems, including non-exporting vehicle-
+to-grid (V2G) bidirectional EV charging systems, for electric vehicle charging stations and
+home and building backup power, pose new challenges for interconnection introduce new
+technical considerations or unique characteristics that merit consideration of changes to
+Rule 21 for these technologies?
+Revisiting these technical requirements to align with modern capabilities will allow DERs,
+including bidirectional EV charging systems, to interconnect safely and efficiently.
+B. ITEMS TO REMOVE FROM SCOPE.
+a. Interconnecting customers should not be responsible for upgrade costs caused by
+a sustained or permanent reduction in customer service loads.
+VGIC strongly recommends removing questions related to the Responsibility for Upgrade
+Costs Due to Load Reduction from this proceeding entirely. It is unclear why the Commission is
+pursuing this issue in Rule 21 at this time, given that load reduction does not trigger significant
+distribution upgrades and paying for load reduction is fundamentally antithetical to California’s
+view of load reduction.
+The OIR references Resolution E-5296 and the discussion on sustained load reduction. But
+that Resolution noted that sustained load reduction is not a significant cost concern. The
+Commissions states:
+8
+
+We further take note of the statement by IREC, that in response to a data request by IREC
+to the Large IOUs, the Large IOUs indicated that they were not aware of even a single
+incident in the last five years in which a distribution system violation occurred due to
+sustained reduction in load. Given this response, we find that sustained reductions in
+load, while certainly possible, remain somewhat speculative. We can’t say such load
+reductions won’t happen, but are swayed by IREC’s argument that the likelihood
+appears low, particularly given California’s electrification mandates.4
+VGIC is unaware of any significant changes in circumstances that have occured since the
+Commission adopted Resolution E-5296 in March 2024. In fact, the Commission notes that the
+utilities should revisit the potential issue of sustained load reduction associated with systems
+utilizing Limited Generation Profiles (“LGP”) three years after LGP options become available to
+customers, which would be in mid-2028. 5 Without any data, it is premature and inappropriate to
+adopt processes for determining the need for upgrades triggered by a sustained or permanent
+reduction in customer loads, and even more premature to discuss the appropriate cost recovery
+mechanisms. Given the expected load growth in the state, VGIC anticipates that upgrades due to
+load reduction will be particularly significant. Limited stakeholder resources are therefore better
+spent on the many other pressing topics in this proceeding.
+More importantly, charging customers for reducing their electricity demand, whether
+through energy efficiency measures, self-generation, or other means, would also be a significant
+departure from the long-standing regulatory principles that promote customer choice and efficient
+energy use. California’s energy policy framework has consistently encouraged energy efficiency
+and load reduction as a public good, not a cost burden, because it advances decarbonization,
+reduces system strain (including peak demand) and lowers overall capacity procurement costs.
+Penalizing customers for not continuing to procure power from utilities at historic levels would
+4 Resolution E-5296 at 34.
+5 Resolution E-5296 at Finding 37.
+9
+
+effectively treat them as obligated “sinks” for utility sales rather than as customers paying for
+services received. Moreover, customer load reductions occur for many reasons outside of the
+installation of Rule 21 generators, including energy efficiency upgrades or pure operational
+changes or business closures, and no customers are currently charged for grid upgrades that might
+result from those decisions. If the Commission is concerned about the costs of load reduction, it
+should be discussed in a venue where all types of load reduction can be considered and where cost
+recovery can be discussed more broadly. This general discussion should not be in the scope of a
+proceeding focused on Rule 21.
+IV. PROCEDURAL SCHEDULE, CATEGORIZATION, AND NEED FOR
+HEARINGS.
+VGIC appreciates that the OIR recognizes the need for a comprehensive update to Rule 21.
+However, given the breadth of topics under consideration and the Commission’s experience with
+delayed resolution of critical interconnection issues, VGIC respectfully urges the Commission to
+establish a procedural schedule structured around timely progress through parallel tracks and
+targeted interim decisions.
+The prior Rule 21 proceeding (R.17-07-007) addressed numerous technical and policy
+issues in large, multi-topic decisions spanning hundreds of pages of discussion, resulting in long
+delays and interdependencies between wholly unrelated subjects. For example, delays in finalizing
+Limited Generation Profiles led to suspension of the entire proceeding in 2022, which has delayed
+progress on urgent interconnection matters until the opening of this OIR in 2025. To avoid a repeat
+of these challenges, the Commission should establish multiple concurrent tracks that allow
+independent advancement of issues based on their complexity and urgency and, in turn, timely
+conclusion via more manageable, targeted Commission decisions.
+10
+
+VGIC also strongly recommends that there be an early Track 1 dedicated to Interconnection
+Application Fee Reform and Interconnection Process Improvements, as these constitute urgent
+issues for bidirectional charging systems, which have not experienced the degree of stakeholder
+focus historically afforded to rooftop solar and stationary energy storage. This track should focus
+on near-term issues that can lead to tangible interconnection improvements and be resolved within
+the next 9-12 months. These would include application fee reform for non-NEM systems and the
+questions in Topic 2 on interconnection processes, particularly for interconnection application
+form and portal updates.
+VGIC supports the categorization of this proceeding and agrees with the preliminary
+determination that hearings will not be necessary.
+V. NOTICES.
+Service of all notices and communications in this proceeding should be directed to the
+following VGIC representative:
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+VI. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the OIR. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+11
+
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: October 20, 2025
+12
+
+Attachment A: List of Interconnection Fees by State / Utility
+This list has been compiled by VGIC and VGIC member organizations. This list does not
+include all states and utilities, but it does include many jurisdictions across the United States.
+Fee for Fee for
+State (Utility) 9.6kW 19.2kW Notes Links
+Device Device
+https://www.alabama
+power.com/content/d
+Alabama
+am/alabama-
+(Alabama None None
+power/pdfs-
+Power)
+docs/Rates/Rate_PA
+E.pdf
+Depends on utility, but
+https://www.akleg.g
+generally cost of external
+Alaska ov/basis/aac.asp#3.5
+disconnect switch and
+0.930
+possible upgrades/study
+https://www.aps.com
+/-
+/media/APS/APSCO
+M-
+Arizona None/SRP None/SRP PDFs/Residential/Se
+(APS/SRP) Unknown Unknown rvice-
+Plans/Understanding
+-
+Solar/InterconnectRe
+q.ashx
+https://cdn.entergy-
+Anything under 300kW
+Arkansas arkansas.com/userfil
+$196.75 $196.75 and any study costs
+(Entergy) es/content/price/tarif
+needed
+fs/eal_nln-m.pdf
+https://www.sdge.co
+m/more-
+information/custome
+r-generation/electric-
+rule-21
+California https://www.pge.co
+IOUs m/en/about/doing-
+$800 $800
+(PG&E/SCE/S business-with-
+DG&E) pge/interconnections
+.html?ctx=business
+https://www.sce.com
+/business/generating-
+your-own-
+power/Grid-
+
+Interconnections/Inte
+rconnecting-
+Generation-under-
+Rule-21
+https://www.smud.or
+g/-
+/media/Documents/R
+ate-
+Information/Busines
+s-Rates/9-02-Fees-
+California Deposits-
+LADWP has only a $130
+POUs Schedule.ashx
+$475/$130 $900/$130 fee under 1MW for
+(SMUD/LAD https://www.ladwp.c
+battery storage
+WP) om/sites/default/files
+/documents/LADWP
+_Interconnection_Ex
+penditure_Recovery
+_Charges_Web_Ver
+sion_Final_5_1_21_.
+pdf
+https://www.xcelene
+rgy.com/staticfiles/x
+e-
+Colorado responsive/Working
+$100 $100
+(Xcel) %20With%20Us/CO
+-Working-With-Us-
+Interconnection-
+Study-Fee-Form.pdf
+https://www.eversou
+rce.com/content/resi
+dential/about/doing-
+Connecticut business-with-
+$200 $200 $200 under 25kW
+(Eversource) us/interconnections/c
+onnecticut/connectic
+ut-application-to-
+connect
+https://www.delmarv
+a.com/smart-
+energy/my-green-
+Level 1 20kW and
+power-
+Delaware under: No fee; Level 3
+connection/develope
+(Delmarva No export 50 kW and
+rs-
+Power) under: $100 + $2 per AC
+contractors/applying
+kW
+-for-
+interconnection/appl
+y-by-paper
+
+https://programs.dsir
+eusa.org/system/prog
+ram/detail/780/interc
+onnection-guidelines
+https://www.fpl.com
+10 kW AC and greater
+/clean-energy/net-
+Florida None $400 require $1 million
+metering/guidelines.
+liability insurance
+html
+https://www.georgia
+power.com/residenti
+al/save-money-and-
+energy/products-
+Georgia
+programs/residential
+(Georgia $100 $100 Billed to customer
+-solar-
+Power)
+solutions/residential-
+rooftop-
+installations/faqs.ht
+ml#fees
+https://www.hawaiia
+nelectric.com/produc
+Hawaii ts-and-
+None None
+(HECO) services/smart-
+renewable-energy-
+programs
+https://docs.idahopo
+wer.com/pdfs/Busine
+ssToBusiness/small
+Gen_Interconnection
+$100 for under 10kW,
+Procedures.pdf
+but must pass the
+https://www.idahopo
+Idaho (Idaho "certified inverter"
+$100 $300 wer.com/about-
+Power) screens. $300 for
+us/doing-business-
+standard, but fast-track is
+with-us/generator-
+$500.
+interconnection/smal
+l-generation-
+interconnection-
+process/
+https://www.ilga.gov
+Level 1 is under 25kW, /Commission/jcar/ad
+Illinois $50 $50 but must be "lab- mincode/JCARTitle
+certified" Part.asp?Title=083&
+Part=0466
+Level 1 is under 10kW, https://www.in.gov/i
+Indiana None $60 Level 2 is $50+ $1/Kw urc/files/2017-07-
+nameplate 20-IURC-Tech-
+
+Conf-Handout-re-
+IC-8-1-40.pdf
+https://iub.iowa.gov/
+regulated-
+industries/electric/sit
+Level 1 up to 20kW.
+e-distributed-
+Iowa $125 $125 Additional $125 if utility
+generation
+performs a witness test
+https://iub.iowa.gov/
+media/141/download
+?inline=
+https://www.evergy.
+com/-
+/media/media/evergy
+-web/footer/partner-
+with-us/new-
+construction-
+transmission-
+facility-
+connection.pdf
+https://www.gardner
+Depends on utility. Level
+kansas.gov/governm
+1 is up to 25kW at
+ent/departments-and-
+Evergy - Costs
+divisions/utilities-
+"Companies shall notify
+department/renewabl
+Kansas Customer of costs to
+e-parallel-
+(Evergy) evaluate the proposed
+generation-
+Facility
+interconnection-
+Interconnection".
+standards
+Between $200-$1000 at
+https://www.augusta
+smaller munis/co-ops
+ks.org/document_ce
+nter/Newly%20Ado
+pted%20Ordinances/
+2023/ORD%20No%
+202218%20-
+%20Electric%20Rat
+es.pdf
+https://www.nemaha
+-marshall.coop/rate-
+information
+https://psc.ky.gov/ag
+encies/psc/industry/e
+Level 1 up to 30kW have lectric/final%20net%
+Kentucky None None no fees unless a study is 20metering-
+required interconnection%20
+guidelines%201-8-
+09.pdf
+
+https://www.entergy-
+Louisiana
+$100 $100 louisiana.com/net-
+(Entergy)
+metering/process/
+https://www.cmpco.
+com/suppliersandpar
+tners/servicesandres
+ources/interconnecti
+onhttps://www.cmpc
+o.com/documents/40
+117/115964135/Sch
++B+-
+Maine (Central
+$100 $100 Level 1 is up to 25kW +Transmission+Distr
+Maine Power)
+ibution+Interconnect
+ion+Requirements+f
+or+Generation+%28
+MAY+2023%29+-
++FINAL.pdf/2cc45d
+8e-233b-ecb2-06de-
+819f3ea76d37?t=168
+4182934938
+None for None for
+https://www.law.cor
+export, export, Level 1 is under 20kW,
+nell.edu/regulations/
+Maryland $100 + $100 + but non-export is
+maryland/COMAR-
+$2/kW for $2/kW for automatically level 3
+20-50-09-05
+non-export non-export
+Simplified systems must
+pass the screening as a
+listed small inverter
+$28 for $28 for https://www9.nation
+Massachusetts under 15kW single-
+simplified, simplified, algridus.com/non_ht
+(National phase or 25kW three-
+or $300 for or $300 for ml/interconnect_stds
+Grid) phase. "Standard"
+standard standard _ma.pdf
+interconnection could
+require a witness test or
+additional costs
+https://mi-
+psc.my.site.com/sfc/
+servlet.shepherd/vers
+$50 for
+$50 for ion/download/0688y
+export or
+Michigan export or 000009ZNhFAAW
+$100 +
+(DTE, $100 + Level 1 is under 20kW https://www.consum
+$1/kWac
+Consumers) $1/kWac for ersenergy.com/reside
+for non-
+non-export ntial/renewable-
+export
+energy/generation-
+interconnection-
+information
+
+https://mn.gov/puc/a
+Simplified is under ctivities/economic-
+Minnesota $100 $100 20kW and must be analysis/distributed-
+certified energy/interconnecti
+ons/
+https://casetext.com/
+regulation/mississipp
+i-administrative-
+code/title-39-
+utilities/part-4-
+mississippi-
+Level 1 is under 20kW, distributed-
+Mississippi None None inverter-based and generator-
+certified interconnection-and-
+distributed-
+generation/subpart-i-
+mississippi-
+distributed-
+generator-
+interconnection-rule
+https://renewmo.org/
+missouri-clean-
+energy-laws/net-
+metering-easy-
+Missouri "Easy
+connection-
+Connection Act"
+act/#:~:text=Statute:
+requires all utilities in
+%20Section%20386.
+Missouri to offer true net
+890.,RSMo.&text=T
+metering and free grid
+he%20%E2%80%9
+interconnection to any
+Missouri None None CEasy%20Connecti
+Missouri customer who
+on%20Act%E2%80
+has solar, wind, or a
+%9D%20requires,on
+small hydroelectric
+%20their%20home
+system of less than 100
+%20or%20business.
+kW on their home or
+https://psc.mo.gov/C
+business.
+MSInternetData/Elec
+tric/Net%20Meterin
+g/Interconnection%2
+0Application.pdf
+https://www.northwe
+sternenergy.com/doc
+Montana s/default-
+(Northwestern $200 $200 Level 1 is up to 50kW source/default-
+Energy) document-
+library/clean-
+energy/environmenta
+
+l-projects/private-
+generation/level-1-
+small-generator-
+interconnection-
+request.pdf
+"The customer-generator
+must pay for costs
+https://nebraskalegisl
+incurred by the local
+ature.gov/FloorDocs/
+Nebraska distribution utility for
+101/PDF/Slip/LB43
+equipment or services
+6.pdf
+required for
+interconnection"
+https://www.nvenerg
+y.com/publish/conte
+South/NP South/NPC
+nt/dam/nvenergy/bro
+Nevada (NV C is $130 is $200 Cutoff for South/NPC
+chures_arch/cleanen
+Energy) North/SPP North/SPPC region is 10kW
+ergy/handbooks/Sola
+C is $84 is $84
+rGenerations-
+Handbook.pdf
+https://www.eversou
+rce.com/content/docs
+/default-
+Supplemental required source/builders-
+New
+None for for systems greater than contractors/dg-
+Hampshire $125/hour
+simplified 10kW or does not pass interconnection-
+(Eversource)
+the simplified screening standards668aa80f1b
+5267e39dbdff3500e
+2e88e.pdf?sfvrsn=71
+65afc5_5
+https://www.law.cor
+$50 + nell.edu/regulations/
+New Jersey None Level 1 is up to 10kW
+$1/kW new-jersey/N-J-A-C-
+14-8-5-7
+http://nmprc.state.n
+m.us/wp-
+New Mexico $50 $100 Level 1 is up to 10kW content/uploads/202
+1/06/NMInterconnec
+tionManual2008.pdf
+https://cdne-
+dcxprod-
+sitecore.azureedge.n
+et/-
+New York None None No fees up to 50kW
+/media/files/coned/d
+ocuments/save-
+energy-
+money/using-
+
+private-
+generation/applying-
+for-
+interconnection/nys-
+sir.pdf?rev=d605ae9
+2c2134d838f2df799
+b75e7a6e&hash=032
+FC6169434417EA9
+D5A74B65420B55
+https://starw1.ncuc.g
+ov/ncuc/ViewFile.as
+North Carolina $100 $100 $100 up to 20kW px?NET2022&Id=4a
+dfecbf-5d0d-40b9-
+87b8-30837dff3e58
+https://www.law.cor
+nell.edu/regulations/
+North Dakota Not sure on specific fees
+north-dakota/N-D-
+A-C-69-09-07-11
+https://puco.ohio.gov
+/wps/wcm/connect/g
+ov/03516b56-fe5d-
+47cf-ab33-
+63b2fbcf9382/DER_
+Interconnection_App
+lication_Requiremen
+Under 25kW with
+ts_2022.pdf?MOD=
+compliance to IEEE
+Ohio $50 $50 AJPERES&CONVE
+1547 and UL 1741. Fee
+RT_TO=url&CACH
+may be waived
+EID=ROOTWORK
+SPACE.Z18_K9I401
+S01H7F40QBNJU3
+SO1F56-03516b56-
+fe5d-47cf-ab33-
+63b2fbcf9382-
+ovt4BTr
+Not listed at major
+Oklahoma utilities and no state-
+level guidelines
+Level 1 is up to 25kW,
+but if it is denied
+resubmission may have a https://oregon.public
+Oregon None None fee. Level 1 must be UL .law/rules/oar_860-
+1741 certified inverter 039-0045
+along with other
+qualifications. Tier 2 can
+
+charge up to $50 +
+$1/kW of capacity
+https://www.pacodea
+ndbulletin.gov/Displ
+$250 + Level 1 is up to 10kW
+ay/pacode?file=/secu
+Pennsylvania $100 $1/kW and be a certified
+re/pacode/data/052/c
+capacity inverter system
+hapter69/s69.2104.ht
+ml&d=
+Up to 25kW
+"SB 637 enacted in July
+2017 prohibits
+distribution companies
+https://gridforce.my.
+from charging
+site.com/servlet/servl
+interconnection charges
+et.FileDownload?file
+for system modifications
+=0150W00000DPLF
+that is not directly
+Rhode Island None None 6
+related to the
+http://webserver.rilin
+interconnection, except
+.state.ri.us/BillText/
+accelerated
+BillText17/SenateTe
+modifications for which
+xt17/S0637A.pdf
+the developer is repaid
+when the modification
+would have otherwise
+been made."
+https://dms.psc.sc.go
+v/Attachments/Order
+South Carolina $100 $100 Up to 20kW /11891e05-689d-
+4fe7-8816-
+c959480feb4e
+$50 +
+https://sdlegislature.
+$1/kW of Tier 1 is up to 10kW,
+South Dakota $50 gov/Rules/Administr
+rated inverter-based.
+ative/20:10:36
+generation
+Tennessee First tier is up to 10kW - https://www.oasis.oa
+(Tennessee I believe above that ti.com/TVA/TVAdo
+$100 $500
+Valley would be considered cs/TVA_SGIP_2018
+Authority) "fast track" .pdf
+
+https://cdn.entergy-
+Entergy: non-export pre- texas.com/userfiles/g
+certified have no fee, but lobal/documents/utili
+$225 if not ty/IA_Package.pdf
+export is $225 for not https://www.oncor.c
+Texas on-network up to 10kW om/content/dam/onc
+(Entergy, and $300 or $500 orwww/documents/s
+Oncor, otherwise. If on-network mart-energy/energy-
+depends on it is $500 system-
+utility) Oncor is similar being developers/Oncor%2
+free up to 10kW and pre- 0Interconnection%2
+certified, but prices at 0Application%20for
+$270 for non-export and %20Certified%20Sy
+$337 for export stems.pdf.coredownl
+oad.pdf
+https://adminrules.ut
+ah.gov/public/rule/R
+746-
+312/Current%20Rul
+es?
+https://casetext.com/
+regulation/utah-
+administrative-
+code/public-service-
+commission/title-
+r746-
+Inverter-based up to administration/rule-
+Utah None None
+25kW r746-312-electrical-
+interconnection/secti
+on-r746-312-13-
+interconnection-fees-
+and-
+charges#:~:text=(3)
+%20For%20a%20Le
+vel%203%20interco
+nnection%20review:,
+of%20up%20to%20
+$100.00%20plus%2
+0$2.00%20per
+https://publicservice.
+vermont.gov/regulat
+Vermont $300 $300 ed-
+utilities/electric/inter
+connection
+Virginia https://cdn-
+$200 $200
+(Dominion) dominionenergy-
+
+prd-
+001.azureedge.net/-
+/media/pdfs/north-
+carolina---
+electric/large-
+business/parallel-
+generation-and-
+interconnection/attac
+hment-6-
+interconnection-
+request-application-
+form.pdf?rev=f0dbb
+2dd15d340f89b270e
+a5619376cf
+https://www.pacificp
+ower.net/content/da
+Washington m/pcorp/documents/
+(Pacific Power en/pacificpower/rate
+$100 $100
+and Puget s-
+Sound) regulation/washingto
+n/rates/136_Intercon
+nection_Tariff.pdf
+https://www.aep.co
+m/assets/docs/requir
+West Virginia
+Fees not listed for 2024 edpostings/DERInter
+(AEP/Appalac
+application process connectionRequirem
+hian Power)
+ents_UpdatedRev3_f
+inal_02-01-2024.pdf
+Distributed Generation
+Program Application Fee https://www.we-
+Wisconsin - $50 energies.com/service
+(WE Energies) Non-Export Track Fee s/pdf/interconnection
+for Certified DERs - -procedures.pdf
+$100 + $1/kW AC
+https://www.rockym
+Wyoming
+ountainpower.net/sa
+(Rocky
+None None vings-energy-
+Mountain
+choices/customer-
+Power)
+generation.html

@@ -1,0 +1,879 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+FILED
+STATE OF CALIFORNIA
+09/05/25
+04:59 PM
+Application of Southern California Edison
+A2403019
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+MOTION OF SOUTHERN CALIFORNIA EDISON COMPANY (U 338-E) AND
+SETTLING PARTIES FOR ADOPTION OF THE VEHICLE TO GRID RATE
+PROPOSAL SETTLEMENT AGREEMENT
+WILLIAM K. BRIGGS
+RYAN JERMAN
+ELLEN C. KENNEY
+Attorneys for
+SOUTHERN CALIFORNIA EDISON COMPANY
+2244 Walnut Grove Avenue
+Post Office Box 800
+Rosemead, California 91770
+Telephone: (626) 302-4632
+E-mail: Ryan.Jerman@sce.com
+Dated: September 5, 2025
+
+MOTION OF SOUTHERN CALIFORNIA EDISON COMPANY (U 338-E) AND
+SETTLING PARTIES FOR ADOPTION OF THE VEHICLE TO GRID
+RATE PROPOSAL SETTLEMENT AGREEMENT
+Table of Contents
+Section Page
+I. INTRODUCTION ........................................................................................................................... 1
+II. PROCEDURAL AND REGULATORY BACKGROUND ............................................................ 2
+III. SUMMARY OF POSITIONS AND SETTLEMENT ..................................................................... 3
+IV. REQUEST FOR ADOPTION OF THE SETTLEMENT AGREEMENT ...................................... 6
+A. The Settlement Agreement is Reasonable In Light Of the Record ..................................... 7
+B. The Settlement Agreement is Consistent with Law ............................................................ 8
+C. The Settlement Agreement Is In the Public Interest ............................................................ 8
+V. CONCLUSION ................................................................................................................................ 9
+ATTACHMENT A VEHICLE TO GRID RATE PROPOSAL SETTLEMENT
+AGREEMENT
+-i-
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+STATE OF CALIFORNIA
+Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+MOTION OF SOUTHERN CALIFORNIA EDISON COMPANY (U 338-E) AND
+SETTLING PARTIES FOR ADOPTION OF THE VEHICLE TO GRID RATE
+PROPOSAL SETTLEMENT AGREEMENT
+I.
+INTRODUCTION
+Pursuant to Rule 12.1 et seq. of the California Public Utilities Commission’s
+(Commission’s) Rules of Practice and Procedure, Southern California Edison Company (SCE),
+on behalf of itself, CALSTART, Inc., Small Business Utility Advocates (SBUA), Solar Energy
+Industries Association (SEIA), and Vehicle-Grid Integration Council (VGIC) (jointly the Settling
+Parties),1 files this motion requesting that the Commission find reasonable and adopt the
+“Vehicle to Grid Rate Proposal Settlement Agreement” (Settlement Agreement), which is
+appended to this motion as Attachment A.
+The Settling Parties have executed a Settlement Agreement resolving all issues that have
+been raised with respect to SCE’s Vehicle-to-Grid Resource Proposal (VGRP) in this
+proceeding. In accordance with the terms of the Settlement Agreement, and as soon as
+practicable following a Commission decision adopting the Agreement – but no earlier than the
+second quarter of 2026 – SCE will implement the VGRP Program consistent with the provisions
+of the Settlement Agreement.
+1 In accordance with Rule 1.8(d), each Settling Party has authorized SCE’s counsel to sign and file this
+motion on its behalf.
+1
+
+Section II, below, provides the procedural and regulatory background related to this
+proceeding. Section III describes, in general, the positions advocated by the parties in this
+proceeding and the terms of the Settlement Agreement. Section IV demonstrates that the
+Settlement Agreement is reasonable in light of the whole record, consistent with law, and in the
+public interest, and that it should be adopted without modification. Section V proposes a
+procedural timeline for disposing of this motion and implementing rates.
+II.
+PROCEDURAL AND REGULATORY BACKGROUND
+This proceeding, Application (A.) 24-03-019, was initiated by the filing of SCE’s
+application on March 29, 2024, and the concurrent service of its prepared direct testimony
+regarding marginal costs, revenue allocation and other aspects of rate design. On August 26,
+2024, SCE filed an Amended Application and served amended testimony regarding certain
+revenue allocation proposals. On June 3, 2024, a prehearing conference was held, and on
+November 1, 2024, the Assigned Commissioner and Assigned Administrative Law Judge issued
+a Scoping Memo and Ruling identifying the Vehicle-to-Grid Export Resource Proposal (VGRP)
+as a scoped issue. Cal Advocates served its initial testimony on November 22, 2024 and served
+amended testimony on December 27, 2024. On January 8, 2025, Cal Advocates, SEIA, and
+VGIC served testimony addressing, among other matters, SCE’s VGRP proposals.
+SCE provided notice to all parties of its intent to conduct a settlement conference related
+to all issues raised in the proceeding, and an initial settlement conference was held on January 3,
+2025. Continuing discussions related to the potential settlement of issues in this proceeding
+occurred among the interested parties after the settlement conference. Pursuant to Commission
+Rule of Practice and Procedure 12.1(b), an all-party settlement conference on the Settlement
+Agreement was held on September 4, 2025.
+2
+
+III.
+SUMMARY OF POSITIONS AND SETTLEMENT
+In its Opening Testimony, SCE introduced its Vehicle-to-Grid Resource Proposal
+(VGRP), a new retail program designed to unlock the untapped potential of electric vehicles
+(EVs) as bidirectional energy resources. Unlike conventional grid assets, VGRP enables Electric
+Vehicle Resources (EVRs) to export energy back to the grid, transforming mobile transportation
+assets into flexible, distributed energy resources. VGRP will be offered for two types of EVR
+arrangements:
+1. Standalone Systems: Bidirectional EVR systems operating independently of
+other distributed energy resources.
+2. Paired Systems: Configurations that integrate an EVR with existing Net Energy
+Metering (NEM), Net Energy Metering Successor Tariff (NEM-ST), or Net
+Billing Tariff (NBT)-eligible renewable systems.
+This flexible architecture allows VGRP to serve both residential and non-residential
+customers, offering tailored rate options including Time-of-Use (TOU) and dynamic pricing
+structures. The proposed VGRP rate for electric vehicle customers with bidirectional EV
+charging systems can be added as a rider option to an electrification rate, TOU rate, or a
+dynamic pricing rate. At a glance, the key features and requirements include:
+Table 1: Key Features and Requirements of VGRP Rider Option
+Features / VGRP VGRP
+Requirements Rate Option 1 Rate Option 2
+Standalone EVR Paired EVR w/ NBT Paired EVR w/ NEM/NEM-ST
+Applicability • Applies when the EVR is a • Applies when the EVR is part of paired systems under existing NEM,
+standalone system with export NEM-ST, or NBT configurations with export capacity rated at 1 kW or
+capacity rated at 1 kW or greater.
+greater. • EVRs with export capacities of 10 kW or less will be treated like
+stationary storage resources with similar capacities, without the need for
+additional metering requirements.
+• EVRs with export capacities over 10 kW will be treated like stationary
+storage resources with similar capacities.
+Eligibility • All customers, both bundled and unbundled, are eligible.
+• Non-residential customers must take service under an applicable electrification rate, TOU rate, or dynamic pricing
+rate.
+• Residential customers enrolled in NEM-ST or VGRP Rate Option 2 must take service on TOU-D, TOU-D-PRIME,
+an alternative electrification rate plan, or a dynamic pricing rate.
+3
+
+Features / VGRP VGRP
+Requirements Rate Option 1 Rate Option 2
+Standalone EVR Paired EVR w/ NBT Paired EVR w/ NEM/NEM-ST
+Participation Cap • Initial program participation cap is set at 100,000 residential customers, with no cap for non-residential customers.
+• SCE will file a Tier 2 Advice Letter to increase the cap when participation reaches 80% of the cap level.
+Market Transition • Not eligible • Existing NBT customers may retain Lock-in Period or ACC Plus Adder,
+Measures if previously eligible.
+• Will not be extended beyond the existing eligibility windows
+EEC Application • EEC applied to energy charges only; cannot offset non-energy charges. • EEC applied to EVR as
+• Unbundled customers get delivery EECs only. described in NEM-MT.
+• Unbundled customers get
+delivery EECs only.
+Metering & Control • No additional metering EVR Capacity > 10 kW • Requires an EVR Net
+Requirements requirements • Requires installation of one of the Generation Output Meter
+following: (NGOM) or an approved EV
+1. Non-export relay to limit submeter compliant with a
+discharge from the Commission-adopted EV
+stationary storage system. submetering protocol to
+2. Power Control System measure the bidirectional
+(PCS) to either: a) Limit flow of energy.
+discharge from the
+stationary storage system,
+or b) Prevent the use of
+imported energy from the
+grid to charge the stationary
+storage system.
+• Integrated (i.e., Direct Current
+(DC) coupled) NBT
+arrangements do not require
+additional equipment to limit
+stationary storage unit discharge.
+Annual True Up • Annual true-up process of Schedule NBT applies at end of customer’s • Annual true-up mechanism
+Relevant Period. applies to the NEM/NEM-ST
+portion.
+• NEM/NEM-ST Portion:
+Compensated at retail export
+rates per Schedules NEM and
+NEM-ST.
+• EVR Portion: Compensated
+using ACC Energy Export
+Credits (average hourly
+weekday/weekend values)
+under Schedule NBT
+Relevant Period • 12-month Relevant Period applies to customers receiving service under the VGRP
+• For existing NEM, NEM-ST, and NBT customers, the VGRP Relevant Period will be aligned with the customer’s
+existing Relevant Period.
+Export Credit • Not applicable • For customers who operate
+Stacking Under Net multiple types of generating
+Energy Metering – facilities – some eligible for
+Multiple Tariffs NEM and others not – behind
+(NEM-MT) a single meter, credits are
+Arrangement applied in the following
+order:
+1. EVR EEC (Energy
+Export Credits) under
+VGRP.
+2. BG-NEM and/or FC-
+NEM generation rate
+component credits.
+3. Remaining BG-
+NEM/FC-NEM credits
+to other generation
+charges.
+4. NEM-ST energy credits
+to remaining energy
+charges
+4
+
+Features / VGRP VGRP
+Requirements Rate Option 1 Rate Option 2
+Standalone EVR Paired EVR w/ NBT Paired EVR w/ NEM/NEM-ST
+5. NEM energy credits to
+remaining energy
+charges
+Storage Sizing Limit • 150% storage capacity sizing limit for NBT paired storage systems does not apply to EVR in a paired storage
+configuration.
+• Initially set at $108 per application, which includes an incremental $6 per application to cover review costs of new
+EVR Interconnection equipment.
+Fee • The $6 component will be removed from the interconnection fee when SCE files its Tier 2 Advice Letter
+establishing the participant cap.
+A. VGRP Rate Design
+The following outlines the Settling Parties’ litigation positions on the key issues resolved
+by this Settlement Agreement.
+SEIA and VGIC generally supported SCE’s proposal for a VGRP Program. However,
+both parties raised concerns regarding the proposed compensation structure for exports under the
+VGRP. Both parties argued that the compensation rate should align with the Avoided Cost
+Calculator (ACC) values used in the NBT. As detailed in the Settlement Agreement, the Settling
+Parties ultimately agreed on export compensation that reflects the average hourly weekday and
+weekend ACC Energy Export Credits, consistent with Schedule NBT for bidirectional EV
+Resources (EVRs) under VGRP Rate Option 1 and Rate Option 2 when paired in a NEM or NBT
+arrangement. EEC pricing for unbundled customers will only reflect the delivery EEC
+components similar to billing of unbundled NBT customers.
+SEIA and VGIC also highlighted issues with the Net Generation Output Meter (NGOM)
+requirement and the annual credit forfeiture. The Settling Parties agreed that for Rate Option 2
+EVRs, in an NBT arrangement, with capacities greater than 10 kW, NBT metering requirements
+will be defined in D.14-05-033. For Rate Option 2 EVRs, in a NEM and NEM-ST arrangement,
+an EVR Net Generation Output Meter or approved EV submeter is required where submetering
+protocols established by the Commission will apply to VGRP.
+SEIA and VGIC emphasized that compensation should be available to unbundled
+customers as well. Additionally, VGIC supports the establishment of a stable and predictable
+export price by time of day, applicable to both residential and non-residential customers. They
+5
+
+advocate for the cost-based, long-term nature of the proposal and the eligibility of customers
+with and without NEM/NBT technologies.
+The Settling Parties agreed VGRP will be made available to all (i.e., bundled and
+unbundled) residential and non-residential customers as a rider to: Electrification rates, TOU
+rates, or Dynamic pricing rates. The initial program participation cap is set at 100,000 residential
+customers, with no cap for non-residential customers. SCE will file a Tier 2 Advice Letter to
+increase the cap when participation reaches 80 percent of the cap level.
+Cal Advocates opposed SCE’s VGRP proposal partly because SCE did not provide a
+preliminary budget estimate, and argued that introducing a new rider option, rather than
+extending the current Expanded Pilot to EV customers, would incur significant costs. However,
+SCE later confirmed that, based on the scope of the VGRP program, SCE does not anticipate any
+incremental costs for billing system enhancements or for Marketing, Education, and Outreach
+(ME&O), administrative or operational activities related to the VGRP rate proposal.
+Additionally, Cal Advocates asserted that SCE’s proposal to base compensation for
+exports on ACC values is less effective since ACC values are forecasts and do not reflect real-
+time grid needs. Cal Advocates contends that offering marginal cost-based export credit within
+the Expanded Pilot would provide customers with a more accurate price signal.2 This Settlement
+Agreement adopts ACC pricing for export compensation because the Commission recognizes it
+as a reasonable proxy for marginal cost. Moreover, ACC pricing aligns with the approach used
+for NBT exports and offers a simplified structure that reduces implementation costs compared to
+SCE’s original proposal.
+IV.
+REQUEST FOR ADOPTION OF THE SETTLEMENT AGREEMENT
+The Settlement Agreement is submitted pursuant to Rule 12.1 et seq. of the
+Commission’s Rules of Practice and Procedure. The Settlement Agreement is consistent with
+2 See Cal Advocates’ Opening Prepared Testimony on Rate Designs in SCE’s 2025 GRC Phase 2,
+Chapter 9 at pp. 9-10, 12.
+6
+
+Commission decisions on settlements, which express the strong public policy favoring settlement
+of disputes if they are fair and reasonable in light of the whole record.3 This policy supports
+many worthwhile goals, including reducing the expense of litigation, conserving scarce
+Commission resources, and allowing parties to reduce the risk that litigation will produce
+unacceptable results.4 As long as a settlement taken as a whole is reasonable in light of the
+record, consistent with the law, and in the public interest, it should be adopted without change.
+The Settlement Agreement complies with Commission guidelines and relevant precedent
+for settlements. The general criteria for Commission approval of settlements are stated in
+Rule 12.1(d) as follows:
+The Commission will not approve stipulations or settlements,
+whether contested or uncontested, unless the stipulation or
+settlement is reasonable in light of the whole record, consistent
+with law, and in the public interest.5
+The Settlement Agreement meets the criteria for a settlement pursuant to Rule 12.1(d), as
+discussed below.
+A. The Settlement Agreement is Reasonable In Light Of the Record
+The Settlement Agreement represents a reasonable compromise of the Settling Parties’
+positions. The prepared testimony of the Settling Parties, together with this motion and the
+attached Settlement Agreement (which includes the comparison exhibits), contains sufficient
+information for the Commission to judge the reasonableness of the settlement. Without
+divulging the content of confidential settlement negotiations, concessions by Settling Parties on
+some issues were offset by concessions by other Settling Parties on other issues, as is the case
+with almost every settlement. The Settlement Agreement accordingly represents a series of
+tradeoffs and must be viewed as a “package.” No single provision should be viewed in isolation,
+although every individual provision is reasonable, lawful, and in the public interest. In summary,
+3 See, e.g., D.88-12-083 (30 CPUC 2d 189, 221-223) and D.91-05-029 (40 CPUC 2d, 301, 326).
+4 D.92-12-019, 46 CPUC 2d 538, 553.
+5 See also, Re San Diego Gas & Electric Company, (D.90-08-068), 37 CPUC 2d 360.
+7
+
+the Settlement Agreement is a reasonable compromise of the Settling Parties’ respective
+positions, as summarized in Section III and discussed in the following sections.
+B. The Settlement Agreement is Consistent with Law
+The Settling Parties believe that the terms of the Settlement Agreement comply with all
+applicable statutes and prior Commission decisions, and reasonable interpretations thereof. In
+agreeing to the terms of the Settlement Agreement, the Settling Parties have explicitly considered
+the relevant statutes and Commission decisions and believe that the Commission can approve the
+Settlement Agreement without violating applicable statutes or prior Commission decisions.
+C. The Settlement Agreement Is In the Public Interest
+This Settlement Agreement is “supported by parties that fairly represent the affected
+interests” at stake in this proceeding.6 As the Commission has found, “[w]hile it is true that we
+employ a ‘heightened’ focus on the individual elements of a settlement when all interest groups
+are not accommodated, the focus itself is on whether the settling parties brought to the table
+representatives of all groups affected by the settlement. This is not necessarily the same as
+accommodating the litigation positions of all parties.”7 The Settlement Agreement is a
+reasonable compromise of the Settling Parties’ respective positions, as summarized in Section
+III. The Settlement Agreement is in the public interest and in the interest of SCE’s customers.
+The Agreement fairly resolves issues and provides more certainty to customers regarding their
+present and future costs, which is in the public interest.
+The Settlement Agreement, if adopted by the Commission, avoids the cost of further
+litigation, and frees up Commission resources for other proceedings. Given that the
+Commission’s workload is extensive, the impact on Commission resources is doubly important.
+The Settlement Agreement frees up the time and resources of other parties as well, so that they
+may focus on other proceedings and on the other tracks of this large proceeding. The prepared
+direct testimony contains sufficient information for the Commission to judge the reasonableness
+6 See D.07-11-018, Order Denying Rehearing of Decision 07-03-044.
+7 Id. (citing Re Southern California Edison Company, 1996, 64 Cal.P.U.C.2d 241, 267).
+8
+
+of the Settlement Agreement and for it to discharge any future regulatory obligation with respect
+to this matter.
+Each portion of the Settlement Agreement is dependent upon the other portions of the
+Settlement Agreement. Changes to one portion of the Settlement Agreement would alter the
+balance of interests and the mutually agreed upon compromises and outcomes that are contained
+in the Settlement Agreement. As such, the Settling Parties request that the Settlement
+Agreement be adopted as a whole by the Commission, as it is reasonable in light of the whole
+record, consistent with law, and in the public interest.
+V.
+CONCLUSION
+WHEREFORE, the Settling Parties respectfully request that the Assigned Commissioner,
+Assigned ALJ, and the Commission:
+1. Approve the attached Settlement Agreement as reasonable in light of the record,
+consistent with law, and in the public interest; and
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+9
+
+2. Authorize SCE to implement changes in rates and tariffs via a Tier 1 Advice
+Letter in accordance with the terms of the Settlement Agreement.
+Respectfully submitted on behalf of the Settling Parties,
+WILLIAM K. BRIGGS
+RYAN JERMAN
+ELLEN C. KENNEY
+/s/ Ryan Jerman
+By: Ryan Jerman
+Attorneys for
+SOUTHERN CALIFORNIA EDISON COMPANY
+2244 Walnut Grove Avenue
+Post Office Box 800
+Rosemead, California 91770
+Telephone: (626) 302-4632
+E-mail: Ryan.Jerman@sce.com
+Dated: September 5, 2025
+10
+
+Attachment A
+Vehicle to Grid Rate Proposal Settlement Agreement
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+STATE OF CALIFORNIA
+Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+VEHICLE TO GRID RATE PROPOSAL
+SETTLEMENT AGREEMENT
+Dated: September 5, 2025
+
+Vehicle to Grid Rate Proposal Settlement Agreement
+Table of Contents
+Section Page
+1. PARTIES ................................................................................................................................. 1
+2. DEFINITIONS ......................................................................................................................... 2
+3. RECITALS .............................................................................................................................. 3
+4. OVERVIEW ............................................................................................................................ 4
+5. AGREEMENT ......................................................................................................................... 5
+A. Applicability ................................................................................................................ 5
+B. Eligibility ..................................................................................................................... 6
+C. Participation Cap .......................................................................................................... 6
+D. Rate Options................................................................................................................. 6
+E. Export Compensation ................................................................................................... 7
+F. Relevant Period ............................................................................................................ 9
+G. Metering Requirements ................................................................................................ 9
+H. Interconnection Rules ................................................................................................ 10
+I. Equipment .................................................................................................................. 10
+J. Submetering ............................................................................................................... 11
+K. Billing System Implementation ................................................................................. 11
+6. IMPLEMENTATION OF SETTLEMENT AGREEMENT ................................................. 11
+7. INCORPORATION OF COMPLETE AGREEMENT ......................................................... 11
+8. RECORD EVIDENCE .......................................................................................................... 12
+9. SIGNATURE DATE ............................................................................................................. 12
+10. REGULATORY APPROVAL .............................................................................................. 12
+11. COMPROMISE OF DISPUTED CLAIMS .......................................................................... 12
+12. NON-PRECEDENTIAL ........................................................................................................ 13
+13. PREVIOUS COMMUNICATIONS ...................................................................................... 13
+-i-
+
+Vehicle to Grid Rate Proposal Settlement Agreement
+Table of Contents (Continued)
+Section Page
+14. NON-WAIVER...................................................................................................................... 13
+15. EFFECT OF SUBJECT HEADINGS .................................................................................... 13
+16. GOVERNING LAW .............................................................................................................. 14
+17. NUMBER OF ORIGINALS .................................................................................................. 14
+APPENDIX A COMPARISON OF PARTY POSITIONS AND SETTLEMENT .......................... 16
+-ii-
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+STATE OF CALIFORNIA
+Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+VEHICLE TO GRID RATE PROPOSAL
+SETTLEMENT AGREEMENT
+This Vehicle-to-Grid Resource Proposal Settlement Agreement (VGRP Agreement or Settlement
+Agreement) is entered into by and among the undersigned Parties hereto, with reference to the
+following:
+1. PARTIES
+The Parties to this Agreement are Southern California Edison Company (SCE), CALSTART,
+Inc., Small Business Utility Advocates (SBUA), Solar Energy Industries Association (SEIA), and
+Vehicle-Grid Integration Council (VGIC), referred to hereinafter collectively as Settling Parties or
+individually as a Party.
+A. SCE is an investor-owned public utility (IOU) and is subject to the jurisdiction of the
+California Public Utilities Commission (Commission or CPUC) with respect to providing
+electric service to its CPUC-jurisdictional retail customers.
+B. CALSTART, Inc. headquartered in California, is a globally renowned 501(c)3 non-profit
+organization dedicated to the advancement of zero emission vehicle and infrastructure
+technology. With a global consortium of over 200 technology, government, industry, and
+community partners, CALSTART has worked for 30+ years to accelerate the
+commercialization and deployment of advanced technologies and solutions.
+C. SBUA is a nonprofit organization that represents, protects, and promotes the interests of the
+small business utility customers.
+1
+
+D. SEIA is the national trade association of the solar and storage industry. Through outreach
+and education, SEIA and its over 1,200 member companies work to make solar energy a
+mainstream and significant energy source by expanding markets, removing market barriers,
+strengthening the industry, and educating the public on the benefits of solar energy and
+storage.
+E. Vehicle Grid Integration Council is a 501(c)6 membership-based advocacy group
+committed to advancing the role of electric vehicles and vehicle-grid integration through
+policy development, education, outreach, and research.
+2. DEFINITIONS
+When used in initial capitalization in this Settlement Agreement, whether in singular or plural,
+the following terms shall have the meanings set forth below or, if not set forth below, then as they are
+defined elsewhere in this Settlement Agreement:
+A. “AL” means an Advice Letter Filing, sometimes referred to as an Advice Letter filing, at
+the CPUC.
+B. “Commission” or “CPUC” means the California Public Utilities Commission.
+C. “DER” means Distributed Energy Resource.
+D. “EEC” means Energy Export Credits. EECs are hourly-based monetary credits applied to
+the amount of electricity a customer exports to the grid. These credits are calculated using
+the Avoided Cost Calculator (ACC), which determines the value of electricity based on
+time-of-day, weekday/weekend, and seasonal factors. EECs can only be applied to energy
+charges and cannot offset non-energy charges such as fixed fees or non-bypassable charges.
+E. “EV” means electric vehicle.
+F. “EVR” means bidirectional EV Resource. It is an integrated system of hardware and
+software located in or around the electric vehicle supply equipment (EVSE) and the electric
+vehicle (EV), designed to enable communication and control of energy flow into and out of
+the vehicle’s battery. This system supports the operation of external electrical loads or
+systems, including interaction with the electric grid.
+2
+
+G. “GRC Phase 2” means the regulatory proceeding in which the Commission adopts
+marginal costs, revenue allocation, and rate designs that will ultimately be applied to SCE’s
+authorized revenue requirements. The proceeding relates to, but is separate from, Phase 1
+of the general rate case (GRC) proceeding, which is SCE’s quadrennial request to increase
+its Commission-authorized revenues.
+H. “Paired storage” means BTM electric storage technology including, but not limited to,
+electric battery systems, that are combined behind the same meter or billed on the same
+service account as other DERs, usually solar.
+I. “Standalone storage” means BTM electric storage technology including, but not limited to,
+electric battery systems that are not combined behind the same meter or billed on the same
+service account as other DERs.
+J. “ZEV” means Zero-Emissions Vehicle.
+3. RECITALS
+A. On March 29, 2024, SCE served its initial prepared testimony regarding marginal costs,
+revenue allocation and rate design in Phase 2 of its 2025 General Rate Case (GRC),
+Application (A.)24-03-019. On August 26, 2024, SCE filed an Amended Application and
+served amended testimony regarding certain revenue allocation proposals.
+C. Protests and responses to SCE’s Application were filed on May 8, 2024.
+D. On November 1, 2024, the Assigned Commissioner and Assigned Administrative Law
+Judge issued a Scoping Memo and Ruling following a June 3, 2024 prehearing conference.
+E. The Public Advocates Office served its initial testimony on November 22, 2024.
+Intervenors, including the Settling Parties to this Agreement, served their initial prepared
+testimony on January 8, 2025.
+F. Cal Advocates, SEIA, and VGIC submitted prepared testimony regarding SCE’s VGRP
+proposal
+3
+
+G. SCE provided notice to all parties of its intent to conduct a settlement conference related to
+all issues raised in the proceeding, and an initial settlement conference was held on January
+3, 2025. Continuing settlement discussions occurred among the parties after that date.
+I. Appendix A to this Agreement provides a comparison of the Settling Parties’ positions,
+where applicable, related to VGRP rate design issues that have been resolved by this
+Agreement. In the event of a conflict between the terms of this Agreement and Appendix
+A, the terms of this Agreement shall control.
+J. The Settling Parties have evaluated the impacts of the various proposals in this proceeding
+and desire to resolve all issues related to rate design regarding VGRP Rate Group
+customers as set forth in this Agreement beginning with the implementation of a CPUC
+decision approving this Agreement, and, in consideration of the mutual obligations,
+covenants and conditions contained herein, have reached agreement as indicated in
+Paragraphs 4 and thereafter of this Agreement.
+4. OVERVIEW
+This Settlement Agreement sets forth the terms and conditions that the Parties jointly agreed to
+for a VGRP Program and associated service requirements by which SCE, subject to approval from the
+California Public Utilities Commission (CPUC or Commission), would provide electricity service on the
+VGRP rate option to participating electric vehicle customers with bidirectional EV charging systems.
+VGRP will be offered to residential and non-residential customers as a rider to an electrification rate, a
+default or optional Time-of-Use (TOU) rate, or a dynamic pricing rate. The Parties acknowledge that the
+Commission could order changes to the Joint Settlement Agreement. The Settling Parties will confer
+regarding whether they agree to any adjustments to the VGRP Program that may be directed through the
+Commission’s Final Decision.
+Service under the VGRP Program will be available in two configurations: (1) as a standalone
+bidirectional EV charging arrangement, and (2) as a configuration that pairs bidirectional EV charging
+resources with an existing Net Energy Metering or Net Energy Metering Successor Tariff (NEM/NEM-
+4
+
+ST) or Net Billing Tariff (NBT) eligible renewable system. The EV Export compensation for both
+configurations will be the average hourly weekday and weekend Avoided Cost Calculator (ACC) values
+applied to NBT exports, also referred to as Energy Export Credit (EEC). Billing will be on a net-billed
+basis, with EECs receiving the same true up treatment as NBT. Non-NBT participants in the VGRP
+Program will not be eligible for market transition measures currently applicable to NBT participants.
+Existing NBT participants whose service qualifies for market transition measures will continue to
+receive those benefits upon enrolling in the VGRP Program. For NEM and NEM-ST customers, the
+NEM/NEM-ST portion of the export load will receive retail export compensation consistent with
+Schedule NEM and NEM-ST and the EV exports will receive EEC export credits consistent with the
+NBT participants.
+5. AGREEMENT
+In consideration of the mutual obligations, covenants and conditions contained herein, the
+Settling Parties agree to the terms of this Settlement Agreement. Nothing in this Agreement shall be
+deemed to constitute an admission by any Settling Party that its position on any issue lacks merit, or a
+claim by a Settling Party that its position has greater or lesser merit than the position taken by any other
+Settling Party. This Agreement is subject to the express limitation on precedent as provided in
+Commission Rule 12.5 and as described in Paragraph 12. Unless specifically stated otherwise herein,
+this Agreement and its terms are intended to remain in effect until a decision is implemented in Phase 2
+of SCE’s next GRC.
+A. Applicability
+A bidirectional EV Resource (EVR) is defined as a combination of hardware and software in or
+around the electric vehicle supply equipment (EVSE) and electric vehicle (EV) for the purposes of
+communication with and programming flow of energy into and out of the vehicle battery in support of
+electrical loads or systems offboard the EV, including the electric grid. The EVR represents a unique
+distributed energy resource where the resource attributes are not currently fully captured within SCE
+tariffs.
+5
+
+B. Eligibility
+Non-residential customers participating in the VGRP Program must take service under an
+applicable electrification rate, a default or optional TOU rate, or a dynamic pricing rate. Residential
+customers enrolled in a NEM-ST or NBT Rate Option 2 arrangement must take service on TOU-D,
+TOU-D-PRIME, an alternative electrification rate plan, or a dynamic pricing rate.
+C. Participation Cap
+The initial program participation cap shall be 100,000 residential customers. No cap shall apply
+to non-residential customers. SCE shall file a Tier 2 Advice Letter (AL) to increase the cap when the
+participation reaches 80 percent of the cap level. In the AL, SCE may propose new program caps prior
+to the cap's expiration at the end of the 2025 GRC Phase 2 attrition years. When the cap of 100,000
+residential customers is reached, SCE may not continue to accept customers into the program until the
+AL is resolved with a determination that authorizes reopening of the program. The Settling Parties are
+free to take any position on the AL they wish.
+D. Rate Options
+The VGRP rate option provides an export compensation rate specifically applicable to customers
+with bidirectional EVR. Standalone and paired EVRs will be eligible for Energy Export Credits and
+subject to a true-up mechanism, both consistent with Schedule NBT. When paired with a renewable
+resource in a VGRP arrangement, an EVR will be treated similar to stationary storage devices except
+where specified in future versions of Schedules VGRP, NEM, NEM-ST, and NBT.
+The VGRP Program will offer two rate options:
+• Rate Option 1: Applies when the EVR – export capacity rated at 1 kW or greater
+– is the sole resource connected to a residence or a business establishment.
+• Rate Option 2: Applies when the EVR – export capacity rated at 1 kW or greater
+– is connected to a new or existing standalone solar or paired storage system.
+o Bidirectional EV charging systems with capacities less than or equal to 10
+kW will be treated essentially the same as a stationary storage resource
+6
+
+with capacities less than or equal to 10 kW, without the need for additional
+metering requirements.
+o Bidirectional EV charging systems with capacities greater than 10 kW will
+be treated essentially the same as a stationary storage resource with
+capacities greater than 10 kW.
+o Limited exceptions to Schedules NEM, NEM-ST, NBT and the NEM
+Integrity Rules will be made to account for restrictions on overall capacity
+and other attributes, given that the EVR is specifically sized to meet its
+primary function as a transportation resource.
+E. Export Compensation
+For Rate Option 1 and Rate Option 2 EVR paired in a NBT arrangement:
+1. Export compensation shall reflect the average hourly weekday and weekend ACC
+Energy Export Credits consistent with Schedule NBT.
+a. Existing NBT participants who are eligible for the “Lock-in Period”
+pricing or the ACC Plus Adder may retain these market transition
+measures when enrolling in the VGRP Program – but only under Rate
+Option 2. The terms of the market transition measures will remain
+unchanged upon enrollment in the VGRP Program. The market transition
+measures will not be extended beyond the existing eligibility windows.
+Customers participating in VGRP Rate Option 1 will not be eligible for
+the market transition measures.
+b. EECs are applied to energy charges and cannot be used to offset non-
+energy charges.
+c. Rate Option 2 EVRs with capacities greater than 10 kW:
+Arrangements that include a NBT paired storage system with an EVR will
+be required to install either a non-export relay or a Power Control System
+7
+
+(PCS). This PCS equipment should: a) limit discharge from the stationary
+storage system only when energy exports are detected at the primary
+meter, or b) prevent the use of imported energy from the grid to charge the
+stationary storage system. The solar and EVR discharges will continue to
+register as exports, provided the discharge exceeds the onsite load
+requirements. Integrated (i.e., Direct Current (DC) coupled) NBT
+arrangements will not require additional equipment to limit stationary
+storage system discharge.
+d. The Annual True Up process of Schedule NBT will apply at the end of the
+customer’s Relevant Period.
+e. The 150 percent storage capacity sizing limit applicable to NBT paired
+storage systems will not apply to the bidirectional EV charging system in a
+paired storage configuration.
+f. Rate Option 2 customers are eligible for Net Surplus Compensation but
+only for net surplus NBT exports, not for EVR exports.
+2. EEC pricing for unbundled customers will only reflect the delivery EEC
+components similar to billing of unbundled NBT customers.
+For Rate Option 2 EVR paired in a NEM or NEM-ST arrangement:
+3. Export compensation for the NEM eligible portion of Channel 2 load shall reflect
+the retail export compensation as described in Schedules NEM and NEM-ST.
+a. The annual true up mechanism as described in Schedule NEM and NEM-
+ST will continue to apply for the NEM/NEM-ST portion of Channel 2
+load.
+b. Export compensation for the EVR resource portion of Channel 2 load shall
+reflect the average hourly weekday and weekend ACC Energy Export
+8
+
+Credits consistent with Schedule NBT, with the same terms described
+above in Section E.1 apply to the EVR Channel 2 exports.
+4. In accordance with the requirements of NEM-MT, energy credits will be applied
+in the following order:
+a. First, apply EVR EEC as specified in Schedule VGRP.
+b. Second, apply BG-NEM and/or FC-NEM generation rate component
+credits (if any) to the generation rate component charges on any
+aggregated account served by the Generating Facility.
+c. Third, apply any remaining BG-NEM and/or FC-NEM credits from step 2
+to the remaining generation rate component charges on the account served
+by the Generating Facility.
+d. Fourth, apply NEM-ST energy credits (covering both generation and
+delivery service rate components) to any remaining energy charges on the
+accounts served by the Generating Facility.
+e. Fifth, apply NEM energy credits (covering both generation and delivery
+service rate components) to any remaining energy charges on the accounts
+served by the Generating Facility.
+F. Relevant Period
+A 12-month Relevant Period will apply to customers receiving service under the VGRP.
+For existing NEM, NEM-ST, and NBT customers, the VGRP Relevant Period will be aligned
+with the customer’s existing Relevant Period.
+G. Metering Requirements
+For Rate Option 2 EVRs with capacities greater than 10 kW, NBT metering requirements are
+consistent with the requirements defined in D.14-05-033 as follows:
+• Install either a non-export relay or a PCS to: a) limit discharge from the
+stationary storage system only when energy exports are detected at the
+9
+
+primary meter, or b) prevent the use of imported energy from the grid to
+charge the stationary storage system.
+For Rate Option 2, under NEM and NEM-ST, the following metering requirements apply:
+• An EVR Net Generation Output Meter, or approved EV submeter compliant
+with a Commission-adopted EV submetering protocol, to measure the EVR
+bidirectional flow of energy.
+H. Interconnection Rules
+Rule 21, which governs how DERs interconnect with SCE’s electric grid, may require updates to
+accommodate the implementation of the VGRP Program. These details may be finalized through the
+Advice Letter process.
+EVRs do not qualify for California Energy Commission (CEC) eligible renewables status as
+these systems function as energy storage and dispatch systems, not as generating resources. CEC-
+eligible renewables are defined under the Renewables Portfolio Standard (RPS) as technologies that
+generate electricity from renewable sources such as solar, wind, geothermal, and small hydro. EVR
+systems are not eligible for Rule 21 exemptions that apply to NEM resources.
+The EVR interconnection fee will initially be established at $108 per application. The fee
+includes an incremental $6 per application to cover review costs of new equipment. The $6 component
+will be removed from the interconnection fee when SCE files its Tier 2 Advice Letter establishing the
+participant cap.
+Costs associated with EVR interconnections will be tracked and reported in SCE’s Net Energy
+Metering and Net Billing Tariff Annual Reporting Advice Letter. The EVR interconnection fee may be
+subsequently reviewed and modified through the Advice Letter process consistent with NEM and NBT
+interconnection fee updates.
+I. Equipment
+Equipment must meet applicable standards. Inverter functions may be housed within the car,
+within the charger, split across the car and charger, or in a separate device. All equipment would be
+10
+
+needed to minimally meet UL 1741 SB or the equivalent standard for an AC bidirectional EV charging
+system (e.g., UL 1741 SC), if applicable.
+J. Submetering
+Submetering protocols established by the Commission will be applicable to VGRP. To the
+extent submetering protocols established by the Commission addresses and resolves issues regarding
+NEM/NEM-ST Multi-Tariff arrangements, those changes will also apply to VGRP.
+K. Billing System Implementation
+SCE will file a Tier 2 VGRP Implementation Advice Letter at least 60 days prior to making the
+program available. The implementation advice letter will include proposed changes to the relevant
+Tariffs and Rules. Should any technical or programmatic issues arise during this process, SCE will meet
+and confer with the Settling Parties to resolve the issues.
+6. IMPLEMENTATION OF SETTLEMENT AGREEMENT
+It is the intent of the Settling Parties that SCE should be authorized to implement the rates
+resulting from this Settlement Agreement as soon as practicable following the issuance of a final
+Commission decision approving this Settlement Agreement, but no earlier than the second quarter of
+2026.
+7. INCORPORATION OF COMPLETE AGREEMENT
+This Agreement is to be treated as a complete package and not as a collection of separate
+agreements on discrete issues. To accommodate the interests related to diverse issues, the Settling
+Parties acknowledge that changes, concessions, or compromises by a Settling Party or Settling Parties in
+one section of this Agreement resulted in changes, concessions, or compromises by the Settling Parties
+in other sections. Consequently, the Settling Parties agree to oppose any modification of this Agreement
+not agreed to by all Settling Parties. If the Commission does not approve this Agreement without
+modification, the terms and conditions reflected in this Agreement shall no longer apply to the Settling
+Parties.
+11
+
+8. RECORD EVIDENCE
+The Settling Parties request that all of their related prepared testimony be admitted as part of the
+evidentiary record for this proceeding.
+9. SIGNATURE DATE
+This Settlement Agreement shall become binding as of the last signature date of the Settling
+Parties.
+10. REGULATORY APPROVAL
+The Settling Parties, by signing this Agreement, acknowledge that they support Commission
+approval of this Agreement and subsequent implementation of all the provisions of the Agreement for
+the duration of rates implemented pursuant to a Commission order adopting this Agreement in this
+proceeding, i.e., Phase 2 of SCE’s Test Year 2025 GRC. The Settling Parties shall use their best efforts
+to obtain Commission approval of the Agreement. The Settling Parties shall jointly request that the
+Commission approve the Agreement without change, and find the Agreement to be reasonable,
+consistent with law and in the public interest.
+Should any Proposed Decision or Alternate Proposed Decision seek a modification to this
+Settlement Agreement and should any Settling Party be unwilling to accept such modification, that
+Settling Party shall so notify the other Settling Parties within five business days of issuance of such
+Proposed Decision or Alternate Proposed Decision. The Settling Parties shall thereafter promptly
+discuss the proposed modification and negotiate in good faith to achieve a resolution acceptable to the
+Settling Parties and shall promptly seek Commission approval of the resolution so achieved. Failure to
+resolve such proposed modification to the satisfaction of the Settling Parties, or to obtain Commission
+approval of such resolution promptly thereafter, shall entitle any Settling Party to terminate its
+participation from this Agreement through prompt notice to the other Settling Parties.
+11. COMPROMISE OF DISPUTED CLAIMS
+This Settlement Agreement represents a compromise of disputed claims between the Settling
+Parties. The Settling Parties have reached this Settlement Agreement after taking into account the
+12
+
+possibility that each Party may or may not prevail on any given issue. The Settling Parties assert that
+this Settlement Agreement is reasonable, consistent with law and in the public interest.
+12. NON-PRECEDENTIAL
+Consistent with Rule 12.5 of the Commission’s Rules of Practice and Procedure, this Settlement
+Agreement is not precedential in any other pending or future proceeding before this Commission, except
+as expressly provided in this Settlement Agreement.
+The Settling Parties expressly recognize that each Party may advocate a position that is
+inconsistent with this Agreement in Phase 2 of SCE’s 2025 GRC, or earlier if invited to do so by the
+Commission in, for example, a relevant Rulemaking proceeding.
+13. PREVIOUS COMMUNICATIONS
+The Settlement Agreement contains the entire agreement and understanding between the Settling
+Parties as to the subject matter of this Settlement Agreement. In the event there is any conflict between
+the terms and scope of this Settlement Agreement and the terms and scope of the accompanying joint
+motion in support of the Settlement Agreement, the Settlement Agreement shall govern.
+14. NON-WAIVER
+None of the provisions of this Settlement Agreement shall be considered waived by any Party
+unless such waiver is given in writing. The failure of a Party to insist in any one or more instances upon
+strict performance of any of the provisions of this Settlement Agreement or take advantage of any of
+their rights hereunder shall not be construed as a waiver of any such provisions or the relinquishment of
+any such rights for the future, but the same shall continue and remain in full force and effect.
+15. EFFECT OF SUBJECT HEADINGS
+Subject headings in this Settlement Agreement are inserted for convenience only, and shall not
+be construed as interpretations of the text.
+13
+
+16. GOVERNING LAW
+This Settlement Agreement shall be interpreted, governed and construed under the laws of the
+State of California, including Commission decisions, orders and rulings, as if executed and to be
+performed wholly within the State of California.
+17. NUMBER OF ORIGINALS
+This Settlement Agreement is executed in counterparts, each of which shall be deemed an
+original. The undersigned represent that they are authorized to sign on behalf of the Party represented.
+Dated: September 5, 2025 SOUTHERN CALIFORNIA EDISON COMPANY
+/s/ Daniel Hopper
+By: Daniel Hopper
+Title: Managing Director, Regulatory Policy
+Dated: September 5, 2025 CALSTART INC
+/s/ Marc Gottschalk
+By: Marc Gottschalk
+Title: Chief Legal Counsel
+Dated: September __, 2025 SMALL BUSINESS UTILITY ADVOCATES
+By: Britt K. Marra
+Title: Executive Director
+Dated: September 5, 2025 SOLAR ENERGY INDUSTRIES ASSOCIATION
+/s/ Jeanne B. Armstrong
+By: Jeanne B. Armstrong
+Title: Senior Regulatory Counsel
+14
+
+Dated: September 2, 2025 SMALL BUSINESS UTILITY ADVOCATES
+By: Britt K. Marra
+Title: Executive Director
+15
+
+Dated: September 5, 2025 VEHICLE GRID INTEGRATION COUNCIL
+By: Zach Woogen
+Title: Executive Director
+16
+
+Appendix A
+Comparison of Party Positions and Settlement
+
+Comparison of Positions
+VGRP Rate Design Issues
+Issue SCE Cal Advocates SEIA VGIC 2025 GRC Settled Position
+VGRP Proposal • Propose to offer a TOU based export • Rejects SCE's VGRP proposal. CPUC • Proposal makes no sense in that that • Supports the establishment of a • VGRP provides an export compensation
+compensation retail rate based on SCE’s should require SCE to expand the list of proposed compensation for exports is much stable/predictable export price by time of rate option for customers with bidirectional
+current TOU periods and utilizing generation eligible rates in the Expanded Pilot to less than what customers would receive day, the availability to residential and non- EV charging systems.
+established ACC components. include those that SCE proposed for from simultaneous exports from their home residential customers, the cost based. Long • Available to all residential and non-
+participation in its VGRP. Approving a solar and stationary storage systems. The term nature, and the eligibility of customers residential customers as a rider to:
+new export credit rate rider would be compensation rate should be based on the with and without NEM/NBT technologies. • Electrification rates
+premature given that SCE has not provided same ACC values as NBT. Also concerned • Disagrees with SCE's proposed • TOU rates
+a budget estimate. with V2G-NGOM requirement and annual compensation structure and argues SCE • Dynamic pricing rates
+credit forfeiture. It should be available to doesn’t provide good reason for • Two rate options will be offered:
+unbundled customers as well. including/excluding ACC components - • Standalone bidirectional EV
+recommends using all components. Price
+charging
+signal should mirror NBT. • Paired with a NEM, NEM-ST, or
+• Disagrees with the need to install a V2G-
+NBT-eligible renewable system
+NGOM since it adds costs and delays. • EEC is based on ACC values, applied
+Propose caveats to NEM customers
+similarly to NBT exports.
+participating in the program. • EEC pricing for unbundled customers will
+• Disagrees with Cal Advocates’
+only reflect the delivery EEC components
+recommendation to reject SCE’s proposal
+similar to billing of unbundled NBT
+and rejects their reasoning.
+customers.
+• Billing is net-billed, with EECs treated like
+those under NBT.
+• Existing NBT customers retain market
+transition benefits when enrolling in VGRP.
+New VGRP participants are not eligible for
+market transition measures.
+• For NEM/NEM-ST customers:
+• Renewable exports receive retail
+compensation (per Schedule
+NEM/NEM-ST)
+• EVR exports receive ACC Energy
+Export Credits using (per NBT
+rules)
+• Metering & Control Requirements
+• Standalone EVR: No additional
+metering requirements
+• Paired EVR with NBT
+arrangement (with Capacity > 10
+kW): Requires installation of a non-
+export relay or Power Control
+System. Integrated (i.e., Direct
+Current (DC) coupled) NBT
+arrangements do not require
+Appendix A-1
+
+Issue SCE Cal Advocates SEIA VGIC 2025 GRC Settled Position
+additional equipment to limit
+stationary storage unit discharge.
+• Paired EVR with NEM/NEM-ST
+arrangement: Requires installation
+of an EVR Net Generation Output
+Meter (NGOM) or an approved EV
+submeter compliant with a
+Commission-adopted EV
+submetering protocol to measure the
+bidirectional flow of energy.
+Appendix A-2

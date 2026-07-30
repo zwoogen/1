@@ -1,0 +1,216 @@
+Steve Letendre, PhD
+Senior Advisor
+Vehicle Grid Integration Council
+1401 21st Street, #5409
+Sacramento, CA 95811
+December 22, 2025
+VIA DMM
+Hon. Michelle L. Phillips
+Secretary to the Commission
+New York State Public Service Commission
+Empire State Plaza
+Agency Building 3
+Albany, NY 12223-1350
+Re: Case 18-E-0138 – Proceeding on Motion of the Commission Regarding Electric
+Vehicle Supply Equipment and Infrastructure
+Dear Secretary Phillips:
+The Vehicle Grid Integration Council hereby submits reply comments for filing on the Technical
+Standards Working Group Report, which addresses electric vehicle supply equipment and
+telematics metering accuracy for managed EV charging programs. In addition, VGIC’s reply
+comments address stakeholder responses to the broader set of questions posed by DPS Staff.
+Respectfully submitted,
+
+STATE OF NEW YORK
+PUBLIC SERVICE COMMISSION
+_________________________________________
+Proceeding on Motion of the Commission
+Regarding Electric Vehicle Supply Case 18-E-0138
+Equipment and Infrastructure
+_________________________________________
+REPLY COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL (VGIC)
+ON THE TECHNICAL STANDARDS WORKING GROUP REPORT ADDRESSING
+EVSE AND TELEMATICS ACCURACY AND DPS STAFF QUESTIONS
+I.
+INTRODUCTION
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to submit these reply
+comments in the above-captioned proceeding. VGIC thanks the Commission and Department of
+Public Service (DPS) Staff for their continued leadership in advancing managed charging
+programs and for facilitating a constructive discussion on EVSE and telematics data accuracy.
+Across the stakeholder initial comments, there is broad alignment that New York’s managed
+charging programs are delivering meaningful grid and customer benefits today, and that
+preserving flexible participation pathways is essential to maintain momentum as standards
+mature. These reply comments reinforce that alignment and highlight key issues, summarized in
+the list below:
+• VGIC Agrees with Parties on the Need for Flexible Program Design and “Fit for
+Purpose” Approaches.
+• VGIC Disagrees with EDF’s Recommendation that Accuracy Standards be Adopted for
+the Current Portfolio of Managed Charging Programs.
+• VGIC Recommends the Commission Detail the Specific Desired Reference Point for
+EVSE and Telematics Measurement.
+• VGIC Agrees with Parties that the Commission Should Direct Additional Real-World
+Testing and Benchmarking for Research Purposes.
+1
+
+II.
+REPLY COMMENTS
+1. VGIC Agrees with Parties on the Need for Flexible Program Design and
+“Fit for Purpose” Approaches.
+VGIC strongly endorses the Joint Utilities’ (JU) recommendation: “Maintain flexibility in
+program design, allowing for continued participation through both EVSE and telematics while
+standards mature.”1
+Across stakeholder comments, there is significant alignment that New York should retain Option
+#5 (Status Quo) for participation in the managed charging program. Maintaining the current
+pathways for both EVSE- and telematics-based participation in the utilities’ managed charging
+programs is essential for scaling these programs. Furthermore, maintaining the status quo
+supports equitable access to managed charging incentives while building the habits and
+engagement needed for long-term expansion and success of the managed charging programs.
+Additionally, multiple stakeholder comments noted that EVSE and telematics accuracy
+requirements should align with the intended purpose of a managed charging initiative. Most
+notably, ATE states, “The Commission would therefore be acting quite reasonably by finding
+that the standard for telematics and EVSE is distinct from the standard for billing, and a flexible
+“fit for purpose” approach for telematics and EVSE is appropriate while standards evolve.”2
+VGIC endorses the principle of “fit for purpose” as applied to EVSE and telematics accuracy
+requirements. The utilities’ managed charging programs today do not require revenue-grade
+metering. They rely on verifiable changes in charging behavior that are consistent with program
+intent, not precise kWh measurements tied to billing. Revenue-grade metering accuracy would
+be necessary if/when New York adopts EV-specific residential time-of-use (TOU) rates or other
+EV-specific residential retail rate tariffs.
+2. VGIC Disagrees with EDF’s Recommendation that Accuracy Standards
+be Adopted for the Current Portfolio of Managed Charging Programs.
+As we noted in our initial comments, national standards must be the foundation for New York’s
+EVSE and telematics accuracy standards. However, VGIC respectfully disagrees with EDF’s
+assertion that “The Commission can and should play a policymaking role in the development of
+an EV telematics accuracy standard by setting a minimum accuracy requirement for EVSE and
+EVs receiving utility incentives and setting an actionable timeline for all new program entrants to
+comply with this standard.”3
+1 Join Utilities’ Comments on the Technical Standards Working Group Report Addressing Electric Vehicle Supply
+Equipment and Telematics Accuracy, Case 18-E-0138, December 8, 2025, page 3.
+2 Comments of the Alliance for Transportation Electrification, Case-18-E-0138, December 8, 2025, page 4.
+3 Environmental Defense Fund Opening Comments on Technical Standards Working Group Report Addressing
+Electric Vehicle Supply Equipment and Telematics Accuracy, Case 18-E-0138, December 8, 2025, page 7.
+2
+
+While VGIC agrees that the Commission should ultimately adopt a standard for revenue-grade
+submetering, this step should occur only after New York has authorized residential EV-specific
+rate designs. If these types of rates are adopted, the Commission should then adopt the nationally
+recognized EVSE accuracy standard in NIST Handbook 44 (i.e., 1% deviation in the lab; 2% in
+the field). For telematics, New York should adopt whatever national standard is developed at that
+time, for example, by SAE. VGIC also provides a critical recommendation in the section below
+regarding specific guidance New York can provide to facilitate the development of a national
+telematics accuracy standard.
+VGIC’s recommendation to refrain from enforcing new accuracy standards for EVSE and
+telematics until New York has EV-specific rates that require billing-grade measurement is
+consistent with broader stakeholder comments from the JU, ChargeScape, ev.energy, and
+WeaveGrid.
+In short, VGIC supports a clear path toward stronger EVSE and telematics submetering accuracy
+standards when they are needed and, in the case of telematics, when a national standard exists,
+not before.
+3. VGIC Recommends the Commission Detail the Specific Desired
+Reference Point for EVSE and Telematics Measurement.
+As detailed above and in initial comments, a nationally recognized EVSE measurement approach
+exists and has even been adopted for customer billing purposes (i.e., where EV-specific rates
+would otherwise require a costly second utility meter): the accuracy standard found in NIST
+Handbook 44. However, as New York considers its role in supporting national alignment for
+telematics, VGIC strongly encourages the Commission to issue specific guidance regarding
+the desired reference point for any future rate participation. This is a critical input for any
+future standards development work, for example, from SAE.
+VGIC believes accuracy should be evaluated relative to the intended measurement objective of a
+given rate or, for that matter, program, rather than assuming that utility meter equivalence is the
+ultimate goal of submetering. The value of submetering is precisely to isolate a specific portion
+of energy use, and that portion may not be measured equivalently at the utility meter. Defining
+the appropriate point of measurement will be a critical issue for forthcoming SAE and other
+national standards activities, where reference meters located at or near the vehicle charge inlet
+may provide a more meaningful basis for comparing EVSE and telematics accuracy than even
+the utility meter itself.
+Analysis from EPRI and Argonne National Laboratory support this approach to developing
+intentional submetering policy. EPRI’s September 2024 technical report details the impact of
+auxiliary loads, such as headlights, infotainment systems, cabin climate control, and vehicle
+3
+
+electronics systems.4 The report also cites an April 26th, 2023 presentation from Argonne
+National Laboratory detailing the differences in measurement across NIST Handbook 44 Section
+3.40 (charger output), branch submeters (charger input), and vehicle telematics (extrapolated
+from battery sensor).5 One of the most critical – and perhaps rather obvious – takeaways from
+both the EPRI report and the Argonne National Laboratory presentation is that losses occur at
+different points in the system. For this reason, where a measurement is taken matters
+significantly, as it can inform which corrections are needed to compensate for losses. For
+example, the EPRI graphic below details the impact that current transducer placement has on
+accuracy due to auxiliary loads:
+A key gating question for telematics accuracy standards development and auto OEM product
+development overall – and, for that matter, the use of the NIST Handbook 44 Section 3.40
+accuracy standard – may be: “what are we looking to measure and award a discounted rate to?”
+If utilities/Commissions seek to apply EV-specific rates to kWh used specifically for mobility,
+then an “accurate” measurement for billing purposes may be one closest to the battery. In
+contrast, if utilities/Commissions seek to apply EV-specific rates to kWh that promote EV
+adoption, then an “accurate” measurement may account for other energy uses and, therefore,
+take place further upstream in the system, perhaps near the charger inlet. Meanwhile, if
+utilities/Commissions seek to apply EV-specific rates to kWh that promote EVSE deployment,
+4 Tom Cooke, Methodology for Testing the Accuracy of Data Collected from Managed Charging Enabling
+Technologies, September 2024, available at:
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={70B1E691-0000-C92C-882F-
+08E29400DA77}. Pages 7-8.
+5 Theodore Bohn, Cross Correlation of EV Charging Measurements, April 2023, available at:
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7bA045BF87-0000-CA14-B513-
+198477C68BF3%7d
+4
+
+then an “accurate” measurement may be at the charger, as detailed in the Argonne National
+Laboratory Presentation.
+In this way, national standards development work relies on policy direction to determine the
+fundamental use cases that underpin the standard. Specifically, the Commission could make
+the most significant contribution to national telematics standards development by adopting
+a specific justification and corresponding scope/reference point for telematics
+measurement.
+With this in mind, VGIC respectfully urges the Commission to adopt a policy that, if residential
+EV-specific rates are adopted, the rate(s) have a single pre-defined intent and, in turn, a specific
+implied or explicitly defined reference point for measurement. Some example intents are
+“support electrified mobility,” “promote EV adoption,” or “promote EVSE adoption.” Each of
+these intents requires a different reference point for measurement and a different scope of loss to
+be corrected for.
+Lastly, VGIC reiterates that data access and integration models will become increasingly
+important as managed charging scales and more advanced use cases, including distribution
+system optimization and bidirectional charging, emerge. Several stakeholders recommend
+greater reliance on OEM-authorized telematics pathways to support improved reliability,
+consistency, and system integration. VGIC believes that this evolution may be appropriate over
+time, and should be an included topic in any future road-mapping or planning activities that New
+York institutes.
+4. VGIC Agrees with Parties that the Commission Should Direct
+Additional Real-World Testing and Benchmarking for Research
+Purposes.
+VGIC supports continued real-world testing of EVSE and telematics accuracy, as recommended
+by EDF, and benchmarking approaches, as recommended by ATE, to improve confidence in
+charging data over time. Furthermore, benchmarking can help meet transparency objectives
+while allowing companies to protect intellectual property and trade secrets.
+As noted in VGIC’s initial comments, the EPRI study was limited in scope and was never
+intended, either in the Commission’s orders or in the Technical Standards Working Group
+process, in which VGIC was an active participant, to produce reliable metering accuracy
+measurements across a range of technologies and charging scenarios. It was intended solely to
+develop the testing protocol itself. With this in mind, expanded testing in real-world
+environments across a broader range of devices, charging behaviors, and operating conditions
+will likely be valuable for better understanding performance variability and informing standards
+development efforts. However, these efforts should be developed and implemented as research
+activities, not to justify near-term program restrictions or premature state-specific accuracy
+mandates.
+5
+
+In the context of additional real-world testing, benchmarking can support transparency goals
+without requiring companies to disclose proprietary, commercially sensitive data or
+methodologies. As ATE noted, “The data from these sessions [benchmarking testing] is then
+compared to the data coming from the car. If the car's data is within an acceptable margin of
+error, we can assume the data is accurate across all similarly situated participants.”6 Utilities can
+gain confidence in data quality without evaluating proprietary algorithms or data processing
+techniques. This approach supports accountability and continuous improvement without creating
+barriers to participation or discouraging innovation in a rapidly evolving market.
+III.
+Conclusion
+VGIC appreciates the Commission’s careful consideration of these issues and looks forward to
+continued collaboration with DPS Staff, the JU, and other stakeholders on these important issues.
+Respectfully submitted:
+/s/ Zach Woogen /s/ Steve Letendre
+Zach Woogen Steve Letendre, PhD
+Executive Director Senior Advisor
+VGIC VGIC
+(732) 491-9090 (802) 779-3580
+zwoogen@vgicouncil,org sletendre@vgicouncil.org
+6 Comments of the Alliance for Transportation Electrification, Case-18-E-0138, December 8, 2025, page 5.
+6

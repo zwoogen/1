@@ -1,0 +1,425 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+FILED
+STATE OF CALIFORNIA
+10/27/25
+04:59 PM
+Application of Southern California Edison A2403019
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+JOINT REPLY COMMENTS OF SOUTHERN CALIFORNIA EDISON COMPANY
+(U 338-E), CALSTART, INC., SMALL BUSINESS UTILITY ADVOCATES, SOLAR
+ENERGY INDUSTRIES ASSOCIATION AND VEHICLE-GRID INTEGRATION
+COUNCIL IN SUPPORT OF VEHICLE TO GRID RATE PROPOSAL SETTLEMENT
+AGREEMENT
+WILLIAM BRIGGS
+RYAN JERMAN
+Attorneys for
+SOUTHERN CALIFORNIA EDISON COMPANY
+2244 Walnut Grove Avenue
+Post Office Box 800
+Rosemead, California 91770
+Telephone: (626) 302-4632
+E-mail: Ryan.Jerman@sce.com
+Dated: October 27, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF THE
+STATE OF CALIFORNIA
+Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Application 24-03-019
+Costs, Allocate Revenues, and Design Rates.
+JOINT REPLY COMMENTS OF SOUTHERN CALIFORNIA EDISON COMPANY
+(U 338-E), CALSTART, INC., SMALL BUSINESS UTILITY ADVOCATES, SOLAR
+ENERGY INDUSTRIES ASSOCIATION AND VEHICLE-GRID INTEGRATION
+COUNCIL IN SUPPORT OF VEHICLE TO GRID RATE PROPOSAL SETTLEMENT
+AGREEMENT
+Pursuant to Rule 12.2 of the California Public Utilities Commission’s (Commission)
+Rules of Practice and Procedure (Rules), and Assigned Administrative Law Judge Marcelo
+Poirier’s October 14, 2025 email ruling extending the deadline to submit these Joint Reply
+Comments to October 27, 2025, Southern California Edison Company (SCE), CALSTART, Inc.
+(CalStart), Small Business Utility Advocates (SBUA), Solar Energy Industries Association
+(SEIA), and Vehicle-Grid Integration Council (VGIC), (referred to herein as the Settling
+Parties)1 submit these Joint Reply Comments in support of the Vehicle to Grid Rate Proposal
+Settlement Agreement (Settlement Agreement), filed September 5, 2025.2 Settling Parties
+respond to the Comments of the Public Advocates Office (Cal Advocates) in opposition to the
+Settlement Agreement, filed October 6, 2025.
+1 The Settling Parties are all the signatories to the Settlement Agreement. Pursuant to Rule 1.8(d) of
+the Commission’s Rules of Practice and Procedure, the Settling Parties authorize SCE to submit these
+Joint Reply Comments on their behalf.
+2 The Settlement Agreement is Attachment A to the Motion for Adoption of the VGRP Settlement
+Agreement, which was also filed on September 5, 2025.
+1
+
+I.
+INTRODUCTION
+On September 5, 2025, after extensive negotiations, Settling Parties filed a joint motion
+in support of a Settlement Agreement that resolves SCE’s Vehicle to Grid Resource Proposal
+(VGRP).3 VGRP is a new program for SCE, which will provide significant benefits to the grid
+and help meet California’s greenhouse gas (GHG) emissions reduction goals.4 There are
+expected to be 7.1 million electric vehicles in the state by 2031.5 On average, these vehicles will
+be used for transportation only a fraction of each day, creating a potential grid resource that,
+“if tapped effectively, could help address the burgeoning challenges facing the grid as it
+integrates increasing volumes of renewable energy sources.”6 Now is the ideal time to
+implement VGRP and begin tapping this resource for three reasons: (1) technology has advanced
+to the point that bi-directional capabilities (through which an electric vehicle can take power
+from the grid and put power onto the grid) are increasingly becoming available, and are expected
+to be included in the majority of new electric vehicles sold by 2026; (2) customers are
+increasingly aware of vehicle-to-grid resources; and (3) SCE’s customers have expressed interest
+in participating in a vehicle-to-grid resource program.7
+The Settlement Agreement includes detailed requirements for VGRP, including eligibility
+criteria, a participation cap, and two rate options based on whether the customer’s bi-directional
+electric vehicle is the sole exporting resource at the service address (Rate Option 1) or the
+vehicle is paired with another exporting resource under an existing Net Energy Metering (NEM),
+Net Energy Metering Successor Tariff (NEM-ST), or Net Billing Tariff (NBT) configuration
+(Rate Option 2).8 The Settlement Agreement also includes detailed export compensation
+3 SCE’s as-filed VGRP is described at Exhibit SCE-04, pages 121-138 and Exhibit SCE-04A,
+pages 120-137.
+4 Ex. SCE-04, p. 121; Ex. SCE-04A, p. 120.
+5 Id.
+6 Ex. SCE-04, p. 122; Ex. SCE-04A, p. 121.
+7 Ex. SCE-04, pp. 125-126; Ex. SCE-04A, pp. 124-125.
+8 Settlement Agreement, pp. 6-7.
+2
+
+requirements, which differ based on the rate option the customer is eligible for and, if Rate
+Option 2 applies, whether the customer has an NBT paired resource or a NEM or NEM-ST
+paired resource.9 The VGRP compensation for all customers is based on “the average hourly
+weekday and weekend Avoided Cost Calculator (ACC) values applied to NBT exports, also
+referred to as Energy Export Credit (EEC).”10
+Cal Advocates opposes only one aspect of the Settlement Agreement: the ACC-based
+compensation provision. Its opposition lacks merit, ignores CPUC precedent, and fails to
+recognize the substantial benefits that will be achieved from adopting the Settlement Agreement
+as a whole, without modification. Below, Settling Parties summarize the conclusive evidence
+demonstrating that Cal Advocates’ opposition should be rejected and that the Settlement
+Agreement is consistent with the law, reasonable in light of the whole record, in the public
+interest, and should be approved.
+II.
+LEGAL STANDARD
+Rule 12.1(d) provides the standard of review applicable to the Settlement Agreement:
+“The Commission will not approve settlements, whether contested or uncontested, unless the
+settlement is reasonable in light of the whole record, consistent with law, and in the public
+interest.” The Commission has a policy of favoring settlements.11 When a party opposes a
+portion of a settlement, as Cal Advocates does here, the “Commission considers whether [the]
+settlement is just and reasonable based on the agreement as a whole, not on individual
+provisions.”12 The Commission does not “attempt to second-guess and re-evaluate each aspect
+9 Settlement Agreement, pp. 7-9.
+10 Id., p. 5.
+11 D.25-01-042, pp. 8-9.
+12 Id. at 9.
+3
+
+of the settlement, so long as the settlement[] as a whole [is] reasonable and in the public
+interest.”13
+III.
+DISCUSSION
+Cal Advocates fails to apply the Commission’s standard for review of settlements
+because it attacks a single provision of the Settlement Agreement rather than the agreement as a
+whole. In addition, contrary to Cal Advocates’ claims, the Settlement Agreement’s ACC-based
+export compensation provision is consistent with Commission precedent and is superior to Cal
+Advocates’ preferred compensation mechanism, dynamic rates. For all these reasons, the
+Commission should reject Cal Advocates’ opposition and approve the Settlement Agreement.
+A. Cal Advocates Fails To Apply The Commission’s Standard For Review of
+Settlements
+As Settling Parties explained in the Joint Motion for adoption, the Settlement Agreement
+is consistent with the law and substantial record evidence demonstrates it is reasonable in light of
+the record and in the public interest.14 SCE, SEIA, and VGIC all explained the benefits of
+adopting a vehicle-to-grid program in testimony.15 SCE testified that utilizing electric vehicles
+as a resource will “support grid stability and reliability, promote energy efficiency, and enhance
+customer value”16 and SEIA testified to the benefits to the grid and to electric vehicle owners of
+adopting VGRP,17 as did VGIC.18
+13 D.25-01-042, p. 36, quoting D.04-12-017, pp. 9-10. See also D.07-11-018, p. 6 (“We consider
+individual settlement provisions in our assessment of settlements but, in light of strong public policy
+favoring settlements, we do not base our conclusion on whether any single provision is the optimal
+result. Rather, we determine whether the settlement as a whole produces a just and reasonable
+outcome.”).
+14 Motion of SCE and Settling Parties for Adoption of the VGRP Settlement Agreement, pp. 7-9.
+15 See Ex. SCE-04, pp. 121-138; Ex. SCE-04A, pp. 120-137; Ex. SEIA-01, pp. 54-62; Ex. VGIC-01,
+pp. 11-17.
+16 Ex. SCE-04, p. 127; Ex. SCE-04A, p. 126.
+17 Ex. SEIA-01, pp. 54-55.
+18 Ex. VGIC-01, pp. 2-10.
+4
+
+Cal Advocates did not oppose this testimony. Its opposition to the Settlement Agreement
+rests instead on its disagreement with the export compensation mechanism. It believes dynamic
+export credits are a better alternative for export pricing than the ACC19 and that “a rate design
+tying export credits to the ACC and static forecasts risks under- or over-compensating EV
+owners.”20 According to Cal Advocates, “the record does not reflect that the ACC is a better
+alternative to dynamic export credits.”21
+These positions are factually incorrect, as Settling Parties explain in the sections below.
+In addition, Cal Advocates has not shown, as a matter of law, that the Settlement Agreement
+should be rejected because Cal Advocates has not shown that the Settlement Agreement as a
+whole is unjust or unreasonable. The Commission does not “attempt to second-guess and re-
+evaluate each aspect of the settlement, so long as the settlement[] as a whole [is] reasonable and
+in the public interest.”22 The fact Cal Advocates may believe dynamic pricing is optimal to
+ACC-based compensation is insufficient grounds for rejecting or modifying the Settlement
+Agreement.
+B. Contrary To Cal Advocates’ Claims, The Export Compensation Provision is
+Consistent With Commission Precedent and Policy
+1. Use Of The ACC In VGRP Is Consistent With Commission Precedent
+Regarding Export Compensation
+The Commission adopted ACC-based pricing for exports in D.22-12-056, which
+addressed NBT, the successor tariff to NEM. Cal Advocates attempts to characterize that
+decision as “a one-off application to address the high subsidies from Net Energy Metering,”23
+19 E.g., Cal Advocates Comments, p. 1.
+20 Cal Advocates Comments, p. 4.
+21 Cal Advocates Comments, p. 1.
+22 D.25-01-042, p. 36, quoting D.04-12-017, pp. 9-10. See also D.07-11-018, p. 6 (“We consider
+individual settlement provisions in our assessment of settlements but, in light of strong public policy
+favoring settlements, we do not base our conclusion on whether any single provision is the optimal
+result. Rather, we determine whether the settlement as a whole produces a just and reasonable
+outcome.”).
+23 Cal Advocates Comments, p. 2.
+5
+
+but the decision itself provides no support for this characterization. To the contrary, the
+Commission’s Findings of Fact regarding the ACC are just as applicable to VGRP as to NBT:
+• “This decision previously found that basing retail export compensation rates
+on Avoided Cost Calculator values brings the cost of the successor tariff
+closer to its value. Hence, using averaged monthly values for retail export
+compensation rates also ensures the tariff is based on the generator’s true costs
+and benefits to the grid, thus leading to equity among all ratepayers while
+maximizing the value of the generation to all customers and to the grid.”24
+• FOF 98: “Using the Avoided Cost Calculator approach will ensure the costs
+and benefits are approximately equal.”
+• FOF 99: “Using the Avoided Cost Calculator approach leads to positive
+outcomes for customers and nonparticipating ratepayers.”
+• FOF 100: “With the exception of the 2020 version of the Avoided Cost
+Calculator, the calculator has consistently reflected the value of exported
+energy from year to year.”
+• FOF 101: “Using Avoided Cost Calculator values to set retail export
+compensation rates will ensure the retail export compensation rate is based on
+the benefits provided to the electric grid and will reduce the cost shift.”25
+Further, in D.22-12-056 the Commission considered the same claim Cal Advocates
+makes here, that the ACC is not intended to be used for ratemaking.26 The Commission rejected
+the claim.27 Moreover, in D.22-12-056, the Commission established two standards applicable to
+rate designs intended for Distributed Energy Resource (DER) applications: (1) the net billing rate
+structure that provides asymmetric pricing for exports and (2) export compensation based on a
+24 D.22-12-056, p. 142.
+25 D.22-12-056, FOFs 98-101, p. 216.
+26 Cal Advocates Comments, pp. 2-5.
+27 D.22-12-056, p. 102 (addressing arguments that “the Avoided Cost Calculator was not designed to
+inform rate design…this approach exceeds the tool’s capabilities”) (internal quotation omitted).
+6
+
+forecast of avoided costs in the form of the ACC. Together, these policy changes marked a
+departure from the NEM framework and set the standard for DER rate designs going forward.
+VGRP is consistent with both of these standards because VGRP is a net billing rate structure
+with export compensation based on the ACC.
+Under a net billing structure all delivered energy is charged at the retail rate and exports
+are compensated at a rate that approximates the utility’s avoided costs. The net billing structure
+established the precedent for asymmetric pricing of imports and exports, where imported energy
+is charged at a value that includes marginal and non-marginal costs while export energy is
+compensated at the marginal costs or a value that approximates marginal costs. Asymmetric rate
+designs are more equitable and accurate from a pricing perspective because, as Cal Advocates
+itself explained in the NEM successor proceeding, “net billing will disassociate export
+compensation from the retail rate, thus providing a more objective and transparent approach.”28
+Asymmetric pricing, with export compensation that approximates avoided costs, has now been
+extended to all net billing and virtual net billing rates provided by the three large investor owned
+utilities (IOUs), as well as dynamic rates through D.25-08-049. In that decision, the Commission
+recognized that asymmetric pricing is now a well-established precedent and that it achieves a
+basic principle of net billing rates: “The asymmetric approach avoids cost shifting and ensures
+revenue neutrality, cost-reflectivity and strong load-shift economic incentives in a manner that
+aligns with past Commission precedent.”29
+D.25-08-049 also accepted use of the ACC as a forecast of avoided costs. ACC values
+were determined to be an appropriate option for Marginal Generation Capacity Costs (MGCCs),
+and the decision cites alignment with the NBT as a key consideration: “[T]he IRP proceeding
+establishes and updates key input values for the ACC, including the capital cost of generation
+resources that is used to derive MGCCs. This is particularly important because the bi-annual
+28 Id., p. 100.
+29 D.25-08-049, p. 96.
+7
+
+updates to the ACC determine the calculations for NBT retail export compensation.”30
+The Settling Parties similarly took this alignment into consideration when developing VGRP,
+and therefore structured the rate with asymmetric pricing and set the net billing export
+compensation at the same avoided cost value as provide to NBT applications.
+For these reasons, Cal Advocates’ assertion that D.22-12-056 was not precedential for
+rate designs intended for DER applications like VGRP is unsupported by the decision and should
+be rejected.
+2. VGRP Uses The Commission Adopted Framework For Export
+Compensation In The Net Billed Tariff
+The Settling Parties developed the agreed-upon VGRP to align with the Commission’s
+current policies regarding net billed rate designs. In doing so, the existing NBT export
+compensation framework was used. Cal Advocates’ claim that the Settlement Agreement seeks
+to redefine the role of the ACC31 is simply not true, given VGRP is using the same Energy
+Export Credit (EEC) previously defined for the NBT.
+EECs are hourly-based monetary credits applied to the amount of electricity a customer
+exports to the grid. These credits are calculated using the ACC, which determines the value of
+electricity based on time-of-day, weekday/weekend, and seasonal factors. The Settlement
+Agreement describes VGRP export compensation in this way: “The EV Export compensation for
+both configurations will be the average hourly weekday and weekend Avoided Cost Calculator
+(ACC) values applied to NBT exports, also referred to as Energy Export Credit (EEC).”32
+This passage makes clear that VGRP is not redefining the role of the ACC but rather continues
+the practice of applying EEC to net billed tariffs established in D.22-12-056. The hourly
+30 Id., p. 47.
+31 Cal Advocates Comments, p. 3.
+32 Settlement Agreement, p. 5.
+8
+
+granularity of EEC values was specifically intended to encourage the use of storage DERs in
+conjunction with solar; EVs, of course, are a storage-based DER.33
+Using EECs to value exports is especially important for VGRP because it provides a
+transparent and easy-to-understand compensation mechanism. “To catalyze the adoption of
+[vehicle-to-grid] technology and move beyond the realm of pilot projects, it is necessary to
+establish a clear and equitable compensation framework – a rate option that delineates a
+transparent and user-friendly pricing schedule, will empower customers to make informed
+decisions regarding the acquisition of bidirectional charging equipment and integrating their
+vehicles with the grid in providing energy export retail services.”34 In contrast to EEC-based
+pricing, pricing in dynamic rate pilots, as recommended by Cal Advocates, is less transparent
+and “offers no pathway for stakeholders to assess the accuracy of the price signals.”35
+Cal Advocates does not reference EEC in its Comments, and repeatedly refers to export
+compensation being based on the ACC. Cal Advocates may have misunderstood that the
+Settlement Agreement incorporates only EECs. To resolve any confusion, the Settling Parties
+affirm here that export pricing will be based only on EECs, consistent with D.22-12-056.
+3. The Settlement Agreement Is Consistent With Commission Policy
+Cal Advocates claims settlements should not be used to formulate Commission policy.36
+It also claims that “[a]dopting export credits based on a tool that was not designed for ratemaking
+purposes risks misaligning compensation with actual system needs, thereby discouraging
+efficient customer behavior and undermining vehicle-to-grid adoption.”37 The implication that
+the Settlement Agreement somehow violates Commission policy, or establishes new policy, is
+unsupported and should be rejected.
+33 See D.22-12-056, at p. 142: “This approach [hourly EEC values] also yields more accurate signals for
+customer generators to reduce imports from the grid and for battery storage to dispatch during the
+hours that are most valuable to the grid.”
+34 Ex. SCE-04, p. 122; Ex. SCE-04A, p. 121.
+35 Ex. VGIC-01, pp. 28-29.
+36 Cal Advocates Comments, p. 2.
+37 Id., p. 4.
+9
+
+VGRP is consistent with Commission decisions and policy supporting grid reliability and
+GHG reductions. The CPUC, along with the California Energy Commission (CEC), has played
+“a pivotal role in developing pilots, programs, and services that enable flexible resources like
+[electric vehicles] to integrate with the grid while supporting the broader policy objectives of the
+State, including achieving the State’s clean energy goals and addressing affordability
+concerns.”38 SCE summarizes these Commission-approved programs in its direct testimony
+volume SCE-04, at pages 123-125.39 The Settlement Agreement is consistent with this policy, as
+reflected in CPUC decisions, and advances it by adopting a more permanent vehicle-to-grid
+option for SCE’s customers.
+Cal Advocates does not cite record support for its contention that the export credit
+mechanism may undermine vehicle-to-grid adoption. In contrast, signing parties testified that
+ACC-based compensation would, in fact, support vehicle-to-grid adoption.40 Further, Cal
+Advocates’ contention is belied by D.22-12-056, in which the Commission found that export
+pricing based on the ACC balances a host of interests, including transparency and ensuring costs
+and benefits are approximately equal.41
+Finally, Cal Advocates’ claim that policy should not be set in a settlement agreement is
+inapposite because the Settlement Agreement by its very terms does not ask the Commission to
+adopt new policy: it provides (consistent with Commission Rule of Practice and Procedure 12.5)
+that the Settlement Agreement is non-precedential and that Settling Parties are free to take
+different positions on any of the issues resolved in the Settlement Agreement in future
+proceedings.42
+38 Ex. SCE-04, p. 123; Ex. SCE-04A, p. 122.
+39 Also, Ex. SCE-04A, pp. 122-124.
+40 See Ex. VGIC-01, pp. 28-29, Ex. SEIA-01, pp. 56-60.
+41 See D.22-12-056, pp. 100-106, FOFs 96-106, pp. 216-17.
+42 Settlement Agreement, p. 13 (Section 12). This section of the Settlement Agreement contains a typo.
+It should provide that Settling Parties may advocate a position that is inconsistent with this
+Agreement in Phase 2 of SCE’s 2029 GRC, rather than the 2025 GRC.
+10
+
+C. Cal Advocates’ Preferred Export Compensation Option—Dynamic Pricing—Is
+Inappropriate For VGRP
+1. The Dynamic Rate Pilot Uses Hourly Retail Level Prices For Dynamic Loads
+And Export Compensation Based On The ACC
+Cal Advocates recommends the use of SCE’s Dynamic Pricing Rate Pilot for export
+compensation, claiming “dynamic rate pilots, such as SCE’s Expanded Pilot authorized in
+Decision (D.) 24-01-032, provide a more accurate price signal to customers than the ACC”43 and
+“[a] more prudent outcome would be to expand existing dynamic rate pilots and continue to test
+export credits based on a dynamic price signal.”44 Cal Advocates implies SCE’s dynamic prices
+are set at marginal costs, which is not the case. In fact, SCE has designed its hourly dynamic
+rates for the pilot at a retail level. SCE’s dynamic rate is described in the two applications45 filed
+by SCE in 2024, to which Cal Advocates is a party and is aware of SCE’s rate design approach
+to dynamic rates. Putting aside the fact VGRP represents a net billing rate and not a dynamic
+price rate, Cal Advocates’ proposal to compensate exports at a retail rate level rather than an
+avoided cost rate is counter to the Commission’s direction regarding export compensation in
+D.25-08-049, where the Commission stated that export compensation rates should be
+asymmetric46 and thus not reflect any scaling associated with retail rates. Using the dynamic rate
+pilot is not consistent with the Commission’s direction and therefore not appropriate for the
+VGRP export rate.
+Cal Advocates is mistaken as to how customers with energy exports are compensated
+under the pilot. Participating customers are served on their existing rate schedules for the
+subscription portion of load. The dynamic portion of the load is served on hourly dynamic rates
+that are not applied to exports. Under this framework, and consistent with D.22-12-056, NEM
+and NBT customers are compensated for exports at the same export rate as if they were not
+43 Cal Advocates Comments, pp. 2-3.
+44 Id., p. 3.
+45 A.24-06-014 and A.24-12-008.
+46 D.25-08-049, p. 95.
+11
+
+participating in the pilot. Therefore, for exports, NEM and NEM-ST customers receive their
+respective retail level compensation and NBT customers receive compensation based on the
+ACC. This is consistent with the Settlement Agreement, and counter to Cal Advocates’ apparent
+understanding that exports are compensated at a marginal dynamic rate level. As VGRP is a
+form of net billing in a paired storage arrangement, VGRP customers will also be provided with
+export compensation based on the ACC. The pilot maintains compensation for NEM and NBT
+customers under the current frameworks as the exploration of different compensation levels for
+NEM and NBT is not a goal of the pilot. Additionally, there are statutes and regulations that
+restrict deviations from the current methods of export compensation for NEM/NEM-ST and
+NBT customers.47 These restrictions contributed to SCE’s decision to use ACC-based export
+compensation for net billed vehicle-to-grid arrangements.
+Excluding non-marginal costs from the export compensation rate is consistent with the
+Commission’s policy regarding export compensation, for good reason: “As noted by Cal
+Advocates and the Joint IOUs, export prices that incorporate non-marginal costs would lead to
+cost shifts to non-participating customers.”48 Using the EEC for VGRP export compensation is
+consistent with the Commission’s policy while recognizing that vehicle-to-grid exports avoid
+similar costs as energy exported from other DERs. Using technology agnostic pricing has the
+added benefit of being a cost-effective approach as existing systems and processes can be used.
+Therefore, should the Commission adopt Cal Advocates’ proposal, the outcome would be the
+same as the Agreement reached by the Settling Parties.
+2. Dynamic Pricing Rate Design Principles Are Not Applicable To VGRP
+The Commission should reject Cal Advocates’ suggestion that VGRP must comply with
+Demand Flex Design Principle 6.49 Demand Flex Design principles are not relevant to VGRP
+for the simple reason that the VGRP rate is not a dynamic pricing rate. VGRP represents a net
+47 See D.22-12-056, pp. 13-14 (identifying statutory and regulatory guidelines).
+48 D.25-08-049, p. 95.
+49 Cal Advocates Comments, pp. 3-4.
+12
+
+billing structure similar to the NBT structure adopted by the Commission in D.22-12-056, where
+export compensation is based on the ACC.50 NBT structures apply the retail rate to all delivered
+energy and compensate exports at a value less than the retail rate that approximates the utility’s
+avoided cost. The Settlement Agreement continues this practice by applying the same ACC
+based pricing to VGRP export energy while pricing delivered energy at the Otherwise
+Applicable Tariff (OAT). This differs dramatically from dynamic pricing rates where a portion
+of the load is served on a subscription basis at standard retail rate and another portion of the
+delivered load is served on functional, hourly dynamic rates.
+The appropriate Rate Design Principles (RDP) applicable to VGRP are those adopted in
+D.23-04-040, and51 the Settling Parties considered all of the D.23-04-040 RDPs in reaching the
+Agreement. RDPs 4-6 and 8 are most relevant to VGRP:
+• RDP 4 – Rates should encourage economically efficient (i) use of energy, (ii)
+reduction of GHG emissions, and (iii) electrification;
+• RDP 5 –Rates should encourage customer behaviors that improve electric system
+reliability in an economically efficient manner;
+• RDP 6 – Rates should encourage customer behaviors that optimize the use of existing
+grid infrastructure to reduce long-term electric system costs; and
+• RDP 8 – Rates should avoid cross-subsidies that do not transparently and
+appropriately support explicit state policy goals.52
+IV.
+CONCLUSION
+For the reasons stated above, the Settling Parties respectfully request that the
+Commission find the Settlement Agreement is reasonable in light of the record, consistent with
+50 SCE Tier 1 AL 5170-E and 5170-E-A codified the term “Energy Export Credit” or EEC in SCE’s
+tariffs.
+51 See D.23-04-040, COL 3, p. 35 (“The Electric Rate Design Principles should be followed in the event
+of any perceived conflict between the Electric Rate Design Principles and the Demand Flexibility
+Design Principles.”).
+52 D.23-04-040 p. 2.
+13
+
+law, and in the public interest. The Commission should approve the Settlement agreement and
+reject Cal Advocates’ Comments in opposition.
+Respectfully submitted on behalf of the Settling Parties,
+WILLIAM BRIGGS
+RYAN JERMAN
+/s/ Ryan Jerman
+By: Ryan Jerman
+Attorneys for
+SOUTHERN CALIFORNIA EDISON COMPANY
+2244 Walnut Grove Avenue
+Post Office Box 800
+Rosemead, California 91770
+Telephone: (626) 302-4632
+E-mail: Ryan.Jerman@sce.com
+Dated: October 27, 2025
+14

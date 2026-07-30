@@ -1,0 +1,315 @@
+Steve Letendre, PhD
+Senior Advisor
+Vehicle Grid Integration Council
+1401 21st Street, #5409
+Sacramento, CA 95811
+sletendre@vgicouncil.org
+February 18, 2026
+VIA EMAIL SUBMISSION
+The Commonwealth of Massachusetts Department of Public Utilities
+dpu.efiling@mass.gov
+Scott Seigal, Scott Seigal Scott.Seigal@mass.gov
+John Habib, Esq., jhabib@keeganwerlin.com
+Michael Hershberg, Esq., mhershberg@keeganwerlin.com
+Bonnie Raffetto, Esq., Bonnie.Raffetto@nationalgrid.com
+COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL ON DOCKET NO.
+D.P.U. 25-189 & DOCKET NO. D.P.U. 25-188 PERTAINING TO THE DISTRIBUTION
+UTILITY PETITIONS FOR PHASE IV (NATIONAL GRID) & III (EVERSOURCE) EV
+PROGRAM PLAN PROPOSALS
+I.
+INTRODUCTION
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based advocacy
+organization committed to advancing the role of vehicle-grid integration (VGI) through policy
+development, education, and research. VGIC supports the transition to decarbonized
+transportation and electric sectors by ensuring that the value of flexible EV charging and
+discharging is recognized, compensated, and aligned with a more reliable, affordable, and
+efficient electric grid.
+Transportation electrification is a core element of Massachusetts’ climate strategy, but its long-
+term success depends on keeping costs affordable for both EV drivers and all ratepayers. Electric
+vehicles reduce fuel and maintenance costs for customers while cutting emissions from the
+state’s largest source of pollution. Furthermore, EV charging load increases grid asset utilization,
+1
+
+putting downward pressure on rates. Continued investment in charging infrastructure,
+particularly in underserved communities and for medium- and heavy-duty fleets, supports this
+transition while ensuring that the benefits of electrification are broadly shared.
+Managed charging and bidirectional charging initiatives are critical to protecting affordability.
+By shifting EV charging to off-peak hours and aligning charging and discharging behaviors
+based on grid conditions, investments in managed charging programs and bidirectional charging
+technologies reduce the need for costly system upgrades, lowering costs for all customers, not
+just EV drivers. Importantly, VGI technology is evolving rapidly. From 2023-2026, utilities and
+customers have gained access to a wider range of interoperable chargers, vehicle capabilities,
+and software platforms, enabling more precise and cost-effective optimization of managed and
+bidirectional charging. This trend is anticipated to continue and even accelerate over the 2027–
+2030 program period.
+VGIC appreciates the opportunity to submit comments on National Grid’s Phase IV EV Plan
+program and Eversource’s Phase III EV Plan program proposals for 2027–2030. Furthermore,
+VGIC looks forward to continued collaboration to ensure that EV and the related infrastructure
+investments advance affordability, equity, and system efficiency in the Commonwealth of
+Massachusetts.
+II.
+SUMMARY
+These comments present targeted recommendations to strengthen National Grid’s Phase IV and
+Eversource’s Phase III EV Plan program proposals for the 2027–2030 period. As EV adoption
+accelerates, the EV Plan programs should reflect the demonstrated system value of managed and
+bidirectional charging by aligning incentives, enrollment targets, and program design with
+current grid needs and avoided cost conditions. The recommendations below are intended to
+improve cost-effectiveness, ensure consistency across utilities, and fully leverage EVs, including
+those already in Massachusetts’ driveways and parking garages, as flexible grid resources.
+Key Recommendations
+• Direct both utilities to materially increase managed charging enrollment targets to better
+reflect projected EV adoption and the peak reduction potential identified in DOER-
+funded studies.
+• Specific to National Grid’s proposal:
+o Approve National Grid’s proposal to make residential bidirectional chargers
+eligible for enhanced incentives to support early V2X market development and
+capture incremental peak reduction value.
+o Approve National Grid’s proposed $10,000 incentive for fleet bidirectional
+charging applications and remove the proposed $1 million funding cap,
+particularly for proven school bus V2G use cases.
+2
+
+o Approve National Grid’s managed charging programs with modifications that
+allow customers to access both system-level and distribution-level value streams
+where incremental benefits can be demonstrated.
+o Require National Grid to align managed charging incentive levels with the most
+recent avoided cost projections.
+• Specific to Eversource’s proposal:
+o Require Eversource to offer residential and fleet bidirectional charging incentives
+comparable to National Grid to ensure consistent market signals across the
+Commonwealth and unlock additional net benefit for ratepayers. Eversource
+should also encourage these customers to participate in Connected Solutions or, if
+that is deemed unsuitable, another performance-based program offering.
+o Require Eversource to design managed charging programs that address both ISO-
+NE system peak conditions and localized distribution constraints, with appropriate
+value stacking.
+o Require Eversource to align managed charging incentive levels with the most
+current avoided cost assumptions.
+III.
+COMMENTS
+The following comments address specific elements of the National Grid and Eversource
+proposals that would benefit from targeted modifications to enhance cost-effectiveness and long-
+term system value.
+1) The Department Should Require National Grid and Eversource to
+Expand Their Ambition for Managed Charging Program Enrollments
+Massachusetts has a goal to have roughly 900,000 electric vehicles on the road by 2030,1 yet the
+managed charging program enrollment targets proposed by National Grid and Eversource fall
+well short of what is needed to capture the full system value of EVs as grid resources. National
+Grid’s proposal to enroll approximately 64,000 EVs and Eversource’s proposal to enroll 11,500
+EVs together represent about 8 percent of the projected EV fleet in 2030. This level of ambition
+may be sufficient for early pilots, but it is not commensurate with the scale of the opportunity,
+the timeline of the proposed EV Plan programs, or the grid challenges the Commonwealth is
+seeking to address.
+This under-ambition stands in contrast to the findings of the DOER-funded Technical Potential
+of Load Management study conducted by Energy and Environmental Economics (E3) for the
+Massachusetts Department of Energy Resources. As noted above, that analysis identifies EV
+load flexibility as the largest and most cost-effective demand-side resource available to
+Massachusetts over the next several decades.
+1 Massachusetts Executive Office Energy and Environmental Affairs, June, 2022, Massachusetts Clean Energy and
+Climate Plan for 2025 and 2030, page 31.
+3
+
+Given these findings, the DPU should require both utilities to revisit and materially increase their
+managed charging enrollment targets. Doing so would better align program design with the
+Commonwealth’s peak reduction and system planning objectives, send a clearer signal to the
+market about the long-term role of EVs as grid resources, and ensure that ratepayers capture the
+full value of investments already being made to electrify transportation.
+2) Recommendations Specific to National Grid
+a. The Department of Public Utilities (DPU) Should Approve National
+Grid’s Proposal to Make Bidirectional Chargers for Residential
+Customers Eligible for the Enhanced Incentive
+National Grid’s proposal to extend enhanced incentives to residential bidirectional EV chargers
+is well aligned with Massachusetts’ affordability, reliability, and grid modernization goals. These
+incentives help overcome early adopter barriers for customers and support market development
+and transition for bidirectional charging solutions. By qualifying bidirectional chargers for
+enhanced incentives, the DPU would send a clear signal to the market that V2X is not simply a
+customer amenity, but a grid resource that can materially reduce peak demand, defer
+infrastructure investments, and lower costs for all ratepayers.
+While managed charging is a proven, low-cost strategy that shifts EV load away from peak hours
+and delivers immediate capacity benefits, multiple studies show that bidirectional charging
+behavior significantly amplifies these benefits. The Massachusetts DOER Peak Potential report
+finds that EV load management, including bidirectional charging, represents one of the highest-
+value, no-regrets flexibility resources available, contributing up to 6.5 GW of peak load
+reduction by 2050. Achieving this level of impact will require V2X equipment deployment,
+tapping into the nearly 150% greater peak reduction per vehicle from bidirectional charging
+compared to managed charging alone.2 By reducing coincident peak demand more deeply,
+bidirectional charging directly lowers capacity, transmission, and distribution system costs that
+would otherwise be borne by all customers.
+These findings are reinforced by detailed modeling from the Union of Concerned Scientists
+(UCS), which finds that bidirectional charging delivers materially greater peak and capacity
+value than managed charging alone. In its California analysis, UCS shows that shifting EV
+participation from one-way managed charging to bidirectional charging nearly doubles total
+system savings at moderate participation levels, and that scenarios with significant V2X
+deployment deliver more than 60 percent greater grid value than V1G-only scenarios.3 These
+incremental benefits are driven primarily by deeper peak load reductions enabled by dispatchable
+2 Massachusetts Department of Energy Resources, December 2025, Peak Potential: Reducing energy costs and
+empowering consumers with load management and virtual power plants, page 40.
+3 Union of Concerned Scientists, June 2025, Harnessing the Power of Electric Vehicles Vehicle-Grid Integration for
+a Cleaner, Cheaper, More Reliable California Electricity System, page 15.
+4
+
+EV exports during the most constrained hours, allowing EVs to function as short-duration
+storage resources rather than passive load-shifting assets. Together, these results demonstrate
+that supporting early consumer adoption of V2X through enhanced incentives can unlock
+substantially greater, cost-effective grid value than managed charging alone.
+Additionally, the DPU can be confident that bidirectional charging is transitioning rapidly from
+pilot programs to scalable commercial deployment. Recent announcements from both
+automakers and charger manufacturers indicate that bidirectional capability is moving into
+standard production offerings, rather than bespoke demonstrations and science projects. For
+example, Ford, GM (Chevrolet, Cadillac, and GMC vehicles), Nissan, and Kia all currently
+market grid-parallel and grid-supportive bidirectional charging features. Tesla recent launched its
+Powershare Grid Support program in Texas, representing the first vehicle-to-grid offering from a
+major automaker at scale to leverage lower-cost AC-based product architecture.4 Additional
+announcements from Toyota, Honda, Rivian, Lucid, BMW, VW, and Stellantis creates a near-
+universal suite of bidirectional charging offerings from light-duty automakers in the coming 2-3
+years. On the charger side, dcbel, Wallbox, Ford, GM Energy, and Tesla offer bidirectional
+charging solutions while Emporia, ChargePoint, Autel, and SolarEdge have shared plans to
+launch bidirectional charging solutions, with Enphase Energy having recently detailed plans to
+begin volume production of its IQ Bidirectional EV Charging Platform in Q4 2026.5 Together,
+these developments signal that the 2027–2030 program period will coincide with significantly
+broader availability of bidirectional charging vehicles and chargers. Approving National Grid’s
+proposal now ensures that Massachusetts’ incentive framework keeps pace with this market
+evolution, avoids locking in one-way solutions, and positions the Commonwealth to capture the
+full peak-reduction and cost-containment benefits of EVs as grid assets.
+b. The Department Should Approve National Grid’s Proposal to Provide
+$10,000 Incentive for Fleet Bidirectional Charging Applications and Not
+Limit the Funding to $1M
+As discussed above, bidirectional charging delivers materially greater system value than
+managed charging alone by enabling vehicles to export power during peak conditions, reducing
+capacity needs and deferring costly grid investments. These benefits are especially pronounced
+in fleet applications, where vehicles have predictable duty cycles, long dwell times, and
+centralized charging infrastructure. Providing a $10,000 incentive for fleet bidirectional charging
+applications reflects the higher upfront costs and integration complexity associated with
+bidirectional charging, while unlocking resources that deliver outsized, cost-effective peak
+reduction and reliability benefits for all ratepayers.
+4 See TESLARATI, Tesla launches Cybertruck vehicle-to-grid program in Texas, available at
+https://www.teslarati.com/tesla-launches-cybertruck-v2g-powershare-texas/.
+5 See Solar Power World, Enphase to bring bidirectional EV charger to market next year available at
+https://www.solarpowerworldonline.com/2025/09/enphase-to-bring-bidirectional-ev-charger-to-market-next-year/.
+5
+
+Within the medium- and heavy-duty (MHD) segment, school buses represent the most mature
+and proven V2G use case. School bus V2G deployments have been operating for several years
+across multiple states, supported by commercially available vehicles, bidirectional chargers, and
+aggregation platforms. Importantly, the market has made meaningful progress toward an
+interoperable ecosystem based on ISO 15118-20, demonstrating that OEM-provided
+bidirectional school buses can operate in bidirectional mode across multiple charger
+manufacturers.
+V2G school bus projects show strong alignment between grid needs and vehicle availability,
+making school buses among the lowest-risk, highest-value V2G investments available today.
+Other MHD use cases are also being evaluated for bidirectional charging, including the refuse
+sector, seasonal tour buses, street sweeping vehicles, and other specialty vehicles with duty
+cycles that align with grid needs. The Department should not limit funding for fleet
+bidirectional charging to an arbitrary $1 million cap. Instead, it should allow these
+investments to scale where they provide clear system value, ensuring that proven school bus and
+other MHD V2G applications are fully leveraged to reduce long-term system costs and support
+grid reliability.
+c. The Department Should Approve the Managed Charging Programs
+Proposed by National Grid with Modifications
+The managed charging programs proposed by National Grid represent a reasonable and cost-
+effective approach to integrating growing EV load in a manner that supports system reliability
+and affordability. As discussed above, managed charging is justified as a least-cost grid resource
+based on its ability to reduce coincident peak demand and avoid or defer capacity and
+distribution system investments. To sustain and scale these programs, the Department should
+affirm continued customer participation pathways that rely on both EVSE-based controls and
+vehicle telematics to measure performance, and support a mix of passive and active managed
+charging approaches. The Department should approve these programs subject to targeted
+modifications that better align incentives with demonstrated system value and evolving avoided-
+cost conditions.
+Modification #1: Allow customers to access both system-level and distribution-level value
+streams where incentives reflect incremental benefits.
+• The Department should recognize the innovative managed charging use cases in National
+Grid’s proposal that target both system peak and distribution peak conditions, while
+clarifying that certain customers may receive compensation for both services when
+managed charging delivers incremental and clearly distinguishable benefits. Managed
+charging can provide separate value streams, for example, reducing regional system peak
+demand while also alleviating localized distribution constraints, particularly for
+secondary transformers as the near-term bottleneck, when events are differentiated by
+6
+
+timing, location, or operational purpose.6 Where National Grid can demonstrate that
+program design, measurement, and settlement appropriately distinguish between these
+services and avoid double-counting of the same load reduction, customers should be
+permitted to access both value streams. This approach aligns compensation with actual
+grid value, preserves cost-effectiveness, and strengthens incentives for participation
+without overpaying for the same load shift.
+Modification #2: Update managed charging incentive levels to reflect the most recent avoided-
+cost projections.
+• National Grid’s proposed incentive levels rely on avoided-cost assumptions that may not
+fully reflect current or forward-looking system conditions. Given rising capacity costs,
+increasing distribution constraints, and the growing importance of flexible load as a
+planning resource, the Department should require that managed charging incentives be
+updated to reflect the most recent avoided-cost projections. Aligning incentive levels with
+updated avoided costs will ensure that compensation remains commensurate with system
+value, strengthen the economic signal for participation, and better position managed
+charging programs to scale in line with the Commonwealth’s electrification and peak-
+reduction objectives.
+3) Recommendations Specific to Eversource
+a. Eversource Should Offer Similar Incentives to National Grid for
+Bidirectional Charging Residential and Fleet Applications
+Eversource should offer incentives for residential and fleet bidirectional charging applications
+that are comparable to those proposed by National Grid. As discussed above, bidirectional
+charging delivers greater system value than managed charging alone by reducing peak demand,
+deferring infrastructure investments, and lowering long-term costs for all ratepayers. Aligning
+incentive levels and program design across utilities will help ensure consistent market signals,
+reduce customer and vendor confusion, and support efficient statewide deployment of V2X
+technologies. Program consistency across the Commonwealth is especially important for fleet
+operators, vehicle and charger manufacturers, and solution providers that operate across service
+territories, and will accelerate adoption of proven, cost-effective bidirectional charging resources
+where they provide clear grid value.
+Moreover, while Eversource asserts in its filing that the existing Connected Solutions demand
+response program is not well suited to accommodate residential bidirectional charging and
+6 For analysis of the value of managed charging to address distribution system constraints see Smart Electric Power
+Alliance, July 2025, Demonstrating of Utility Smart Charge Management for Multiple Benefit Streams and The
+Brattle Group, January 2026, Demonstrating the Full Value of Managed Electric Vehicle Charging Based on a Real-
+World Trial of EnergyHub’s EV Solution. These studies find annual savings potential of up to $400 per vehicle for
+managed charging solutions that target distribution system value.
+7
+
+exports, this position stands in contrast to National Grid’s proposal, which requires residential
+customers receiving enhanced incentives for bidirectional chargers to enroll in Connected
+Solutions. Given that Eversource does not view Connected Solutions as appropriate for
+residential exports, the Department should direct Eversource to either actively open the program
+to bidirectional charging customers or launch another stopgap solution, such as a dedicated
+program that captures the demonstrated system value of residential EVs with V2X capabilities.
+b. The Department Should Approve the Managed Charging Programs
+Proposed by Eversource with Modifications
+The managed charging programs proposed by Eversource represent an important step toward
+integrating growing EV load in a manner that supports system reliability and customer
+affordability. The Department should approve these programs, subject to targeted modifications
+that better align program design with demonstrated grid value and evolving system needs.
+Modification #1: Address both ISO-NE system peak and distribution system peak conditions.
+• The Department should require Eversource to follow National Grid’s approach by
+designing managed charging programs that address both regional system peak conditions
+and localized distribution system constraints where they exist, with a particular focus on
+avoiding upgrades to secondary transformers that can quickly become overloaded from
+EV neighborhood clusters. Managed charging can deliver distinct and stackable value
+streams depending on the timing, location, and purpose of load reductions, and program
+design should reflect these differences. Where incremental benefits can be demonstrated
+and double-compensation avoided, customers should be able to access both system-level
+and distribution-level value streams. Explicitly incorporating both use cases will better
+align managed charging with actual grid needs and unlock greater overall system value.
+Modification #2: Update managed charging incentive levels to reflect current avoided cost
+projections.
+• Similar to Modification #2 for National Grid discussed above, Eversource should be
+required to update its proposed managed charging incentives using the most recent
+avoided cost projections. As capacity, transmission, and distribution system costs
+continue to evolve, incentive levels should remain commensurate with the system value
+delivered. Aligning incentive levels with updated avoided costs will strengthen program
+cost-effectiveness, improve participation signals, and ensure that managed charging
+scales appropriately as a core grid resource.
+IV.
+CONCLUSION
+VGIC appreciates the opportunity to submit these comments and welcomes continued
+collaboration with the utilities, the Department of Public Utilities, and other stakeholders to
+8
+
+realize the environmental and economic benefits for all Massachusetts ratepayers from
+efficiently leveraging electric vehicles in ways that enhance grid performance.
+Respectfully submitted,
+/s/ Steve Letendre
+Steve Letendre, PhD
+Senior Advisor
+Vehicle-Grid Integration Council
+www.vgicouncil.org
+9

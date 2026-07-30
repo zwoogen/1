@@ -1,0 +1,135 @@
+Vehicle Grid Integration Council (VGIC) Informal
+Comments: Massachusetts Utilities’ Draft Proposal for the
+Next Phase of Electric Vehicle Programs
+(Submitted to National Grid & Eversource – October 17, 2025)
+Introduction
+The Vehicle Grid Integration Council (VGIC) appreciates the opportunity to provide informal
+feedback on the investor-owned utilities’ draft Electric Vehicle (EV) Program proposals for 2027–
+2030. VGIC represents automakers, charging providers, and technology firms working to
+advance managed charging and bidirectional charging in support of an efficient, reliable, and
+decarbonized electric grid.
+VGIC commends the utilities for their continued leadership in supporting transportation
+electrification and for their stated commitment to aligning EV programs with Massachusetts’
+clean energy and Zero-Emission Vehicle (ZEV) goals.
+The next phase offers a timely opportunity to improve program coordination, enhance customer
+experience, and ensure that managed charging and bidirectional charging are positioned as core
+tools for achieving cost-effective grid integration.
+Comments
+Program Alignment and Participation:
+• VGIC was pleased to see National Grid propose an “Enhanced” rebate for V2G systems.
+VGIC recommends that all utilities should include a make-ready funding enhanced
+incentive for bidirectional charging installations for both the appropriate commercial
+use cases and residential program, ensuring that bidirectional charging sites are
+supported equitably and consistently across Massachusetts service territories.
+• Commercial non-exporting bidirectional charging systems should be made eligible for
+this enhanced make-ready funding incentive, given their significant potential to enhance
+energy resilience through grid-isolated backup power capabilities and customer savings
+via grid-parallel, non-exporting time-of-use (TOU) optimization and demand charge
+management.
+• Utilities should pursue greater alignment in both managed charging and make-ready
+program design to simplify customer participation, enable consistent vendor
+engagement, and promote statewide scalability. Coordinated program structures will
+1
+
+reduce market confusion and facilitate participation by fleets and aggregators operating
+across territories.
+• Managed charging programs will see greater success with greater participation.
+Programs should be designed to maximize customer participation across a variety of
+locations, including multi-unit dwellings, fleet depots, workplaces, beyond only single-
+family homes and a variety of enrollment pathways, including both EV and charging
+station. Programs should also consider options for integration with other DERs, including
+solar and batteries, to optimize grid benefits. Relatedly, VGIC discusses the policy seam
+between bidirectional charging and rooftop solar policy in more detail below.
+Active and Passive Managed Charging:
+• The proposal references both active and passive managed charging but provides little
+detail on the relative role, scale, or verification approach for each. Utilities should clarify
+how active and passive program types will complement each other and evolve over
+time.
+• Programs should clearly define, verify, and reward active managed charging that
+responds to system conditions in real- or day-ahead timeframes, while ensuring that
+passive participation (e.g., off-peak rebates) continues to serve as an accessible on-ramp
+for customers.
+• Active managed charging should be explicitly aligned with the ongoing grid services
+value work occurring in the state as discussed in the utilities Electric Sector Moderation
+Plans (ESMPs) referred to as “Bridge to Wires.” This alignment will ensure that active
+managed charging program signals and incentive structures reflect locational and
+temporal grid needs. Moreover, utilities should define, verify, and reward active
+managed charging programs that can optimize for the distribution system. Sustained
+customer engagement beyond the first year is critical to realizing long-term system
+benefits.
+• VGIC supports utilities leveraging software-based platforms and third-party aggregators
+in delivering active managed charging services. These entities are crucial for achieving
+the scale and responsiveness required for effective grid management. Managed charging
+program design should therefore include clear pathways for the participation of
+aggregators, ensuring that they can enroll customers, manage charging events, and be
+compensated for the grid services they unlock.
+Bidirectional Charging Technologies as a Core Program Element:
+• Bidirectional charging should be treated as a core component of the next-phase EV
+programs around which the utilities plan holistically. This is critical as a new wave of
+2
+
+commercially available bidirectional EVs and chargers enters the market in the coming
+year, creating a timely opportunity for Massachusetts utilities to position their programs
+to support early adoption at a meaningful scale. Furthermore, utilities will have the
+benefit of early learnings from the MassCEC V2X Pilot Program to incorporate into the
+formation of their bidirectional charging programs.
+• As utilities develop benefit-cost methodologies and future managed charging programs,
+it will be important to plan for durable, standardized compensation pathways for export-
+based resources, including bidirectional EV charging. Current participation in demand
+response programs such as Connected Solutions provides an important near-term value
+stream for V2G deployments, but utilities should develop a roadmap for long-term,
+standardized V2G export compensation, at both residential and commercial sites,
+aligned with the objectives of the Electric Sector Modernization Plans (ESMP) and
+broader grid modernization efforts. This will ensure that bidirectional charging remains a
+viable and scalable grid resource as programs and technology evolve, while also
+providing greater certainty for customers and site developers. Currently, it is challenging
+for customers and site developers to underwrite relatively large upfront investments in
+bidirectional charging sites as Connected Solutions must be renewed by the regulator
+every five years, which means revenue cannot be forecasted with a high degree of
+certainty beyond five years. The utilities should consider evolving the framework toward
+one that offers more certainty for customers and, in turn, spurs greater investment in
+bidirectional charging equipment.
+• Utilities should establish and clearly communicate streamlined interconnection,
+metering (i.e., for customer with rooftop solar), and predictable compensation
+pathways for bidirectional charging system participation between 2027–2030 and design
+program rules that enable customers to transition seamlessly between managed
+charging and bidirectional charging.
+• Coordinated participation frameworks should ensure that customers, aggregators, and
+technology providers can enroll in both managed charging and grid-service offerings
+without duplicative hardware requirements, conflicting eligibility rules, or overlapping
+incentives. Coordination should extend across program administration, data exchange,
+and performance verification to simplify customer experience, reduce administrative
+costs, and ensure that the grid value from managed charging and bidirectional charging
+resources is accurately measured and compensated.
+• Utilities should proactively address policy and program seams, including how EV
+exports interact with solar net energy metering policies, to ensure consistent treatment
+of bidirectional resources and prevent barriers that could limit participation or value
+realization if not addressed in the program design phase. Notably, other jurisdictions
+have made progress on these types of interrelated issues. VGIC offers itself as a resource
+3
+
+to the utilities to develop pragmatic solutions that are best suited for Massachusetts’
+utilities.
+Transparency and Policy Evolution:
+• Program data such as enrollment, performance, and grid value metrics should be
+publicly reported on an annual basis to support stakeholder evaluation, inform rate
+design, and guide future planning. Transparent data access, supported by standard
+practices and privacy protections, will allow market participants to innovate and expand
+participation across utility territories.
+• Utilities should integrate strategies that support future scale-up of the VGI ecosystem,
+such that the maximum possible number of customers can enroll in the programs they
+wish to enroll in.
+Conclusion
+VGIC appreciates the utilities’ openness to stakeholder input as they shape the next phase of
+Massachusetts’ EV programs. The state has an opportunity to build on its strong foundation by
+advancing a cohesive framework that fully integrates managed and bidirectional charging as grid
+resources and keeps program participation open to a variety of technologies and locations.
+Clear program alignment, transparent data practices, and readiness for a rapidly expanding
+market of bidirectional charging systems will ensure these programs deliver lasting benefits to
+customers and the electric system. VGIC looks forward to continued collaboration with the
+utilities to refine program design and implementation details ahead of the December filing.
+Steve Letendre, PhD
+/s/ Steve Letendre
+Senior Advisor
+Vehicle Grid Integration Council
+4

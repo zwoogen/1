@@ -1,0 +1,220 @@
+June 26, 2026
+California Energy Commission
+1516 Ninth Street
+Sacramento, CA 95814
+Docket Number: 22-EVI-06
+RE: Comments of the Vehicle-Grid Integration Council and Alliance for Automotive
+Innovation on “A roadmap to unlocking the benefits of bidirectional charging”
+The Vehicle-Grid Integration Council (VGIC) and Alliance for Automotive Innovation (Auto
+Innovators) appreciate the California Energy Commission’s (CEC) whitepaper ‘A roadmap to
+unlocking the benefits of bidirectional charging’ (Roadmap). The CEC has deep expertise in
+advancing bidirectional charging through efforts such as the Vehicle Grid Integration Lab, the
+Responsive, Easy Charging Products with Dynamic Signals (REDWDS) grant solicitation, and,
+most recently, the Charging Interoperability and Collaboration Yard. These projects expand the
+CEC’s technical expertise to inform bidirectional charging policy development, and VGIC and
+Auto Innovators support the CEC’s continued project work, research, and analysis to mature and
+scale this technology.
+VGIC is a national 501(c)6 member-based association focused on unlocking flexible electric
+vehicle (EV) charging and discharging to support a more reliable, affordable, and efficient
+energy future. VGIC accelerates the market for vehicle-grid integration (VGI) solutions through
+research, education, and policy engagement. Established in 2020, VGIC represents
+40 members, including automotive original equipment manufacturers (OEMs), leading electric
+vehicle service providers (EVSPs) and aggregators, electric vehicle supply equipment (EVSE)
+manufacturers and site developers, and non-investor-owned utilities. VGIC prioritizes
+collaborative engagement with all VGI champions and remains business model- and technology-
+agnostic.
+Auto Innovators represents the full auto industry value chain, including the manufacturers
+producing most vehicles sold in the U.S., equipment suppliers, battery producers, semiconductor
+makers, technology companies, and autonomous vehicle developers. Our mission is to work with
+policymakers to realize a cleaner, safer, and smarter transportation future and to ensure a healthy
+and competitive auto industry that supports U.S. economic and national security. Representing
+over 5 percent of the country’s GDP, responsible for supporting nearly 11 million jobs, and
+driving $1.5 trillion in annual economic activity, the automotive industry is the nation’s largest
+manufacturing sector.1
+1 Alliance for Automotive Innovation. (n.d.). Resources and insights. https://www.autosinnovate.org/resources/insights
+1
+
+We share the CEC’s goal to use bidirectional charging to improve grid reliability, reduce peak
+demand, and provide additional value to EV customers. We offer the following comments to
+help realize the Roadmap’s identified benefits.
+I. Offer rebates for bidirectional charging equipment.
+We support the Roadmap’s conclusion that EVs can provide, “by a wide margin,” the largest
+contribution to demand flexibility among distributed resources, and that bidirectional charging
+could provide approximately three times the value of unidirectional managed charging alone.2
+These conclusions are consistent with other analyses: Pacific Gas & Electric (PG&E) found that
+bidirectional charging systems could create 859 MW of demand flexibility through 2040 beyond
+managed charging alone.3 Similarly, the California Public Utilities Commission’s (CPUC) latest
+Integrated Resource Planning assumptions estimate bidirectional charging can provide more than
+13,500 MW of capacity by 2045.4
+Grant solicitations, such as REDWDS, have been valuable in enabling bidirectional charging
+projects. However, applying for and managing grants can be costly, complicated, and time-
+consuming. Successful grant administration typically requires dedicated teams and resources.
+Alternatively, rebate programs, such as CALeVIP and EnergIIZE, are simpler and easier to
+access. A dedicated rebate program, or a carve-out within an existing program to provide higher
+incentives for bidirectional charging systems, could help deploy bidirectional charging systems
+faster, accelerating implementation of pilot projects that ultimately mature the technology’s
+development.
+II. Work with the California Public Utilities Commission to reduce Rule 21
+interconnection application fees.
+The three large investor-owned utilities in the state impose an $800 fee to apply to interconnect
+bidirectional EV charging systems, which is significantly higher than interconnection fees for
+solar net energy metering (NEM) systems,5 and is the highest interconnection application fee we
+have observed for such sites across the entire U.S. This fee creates an unnecessary, outsized
+barrier to bidirectional charging adoption. Revisions to the $800 fee for non-NEM/non-NBT
+2 Roadmap at 3.
+3 PG&E, Electrification Impacts Study Part 2 Report, January 28, 2026, filed in Rulemaking (“R.”) 21-06-017,
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M596/K907/596907812.PDF
+4 CPUC, Draft Inputs & Assumptions, 2024 – 2026 Integrated Resource Planning (IRP) at p.111.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energydivision/documents/integrated-resource-plan-and-
+long-term-procurement-plan-irp-ltpp/2024-2026-irp-cycle-eventsand-
+materials/2025_draft_inputs_and_assumptions_doc_20250220.pdf
+5 The current NEM interconnection fees are $145 (PG&E), $132 (SDG&E), $94 (SCE).
+2
+
+systems (such as bidirectional charging systems) are currently being discussed in the CPUC’s
+latest Rule 21 interconnection proceeding.6 This is a prime opportunity to address this cost
+barrier to bidirectional charging. From VGIC’s and Auto Innovator’s understanding, this $800
+application fee was adopted in 20007 with the assumption that mostly large stand-alone battery
+storage systems would apply under the non-NEM/non-NBT pathway. The fee was set at this high
+amount arbitrarily. Given the industry has evolved, and small-scale bidirectional charging
+systems are put into this category and require an $800 fee to apply for interconnection, we
+encourage the CEC to work with the CPUC to right-size this cost in the Rule 21 update so that it
+does not create an unnecessary financial barrier to deploy bidirectional charging systems.
+III. Work with the California Public Utilities Commission to develop rates and/or
+programs that compensate bidirectional charging customers for exports.
+We agree with the Roadmap that drivers are not well compensated for exporting power to the
+grid from bidirectional charging systems. Without export compensation or participation
+pathways for grid services, customers may increasingly use these systems for onsite consumption
+and backup power. While these use cases are still valuable, they are less likely to support the grid
+during peak periods, exacerbating electricity affordability concerns.
+We encourage the CEC to work with the CPUC to expand export rates, programs, and/or market
+integration opportunities for bidirectional charging systems, which will encourage technology
+providers to continue developing grid-supportive products, and ensure that California captures
+substantial reliability and ratepayer benefits identified throughout the Roadmap.
+We also encourage the CEC to advance export credit opportunities beyond those considered by
+the CPUC. For example, the CEC’s Demand Side Grid Support program is an important
+opportunity to create export credits for these systems; it’s Load Management Standard also
+drives modernized utility rate design across the state, and updating the standard may be an
+appropriate place to discuss export credit opportunities.
+IV. Adopt low-cost alternatives to deploy solar-paired bidirectional charging
+systems.
+Based on input from our members, we estimate that 50 to 70 percent of California’s early
+adopters of residential bidirectional charging systems also have rooftop solar. Currently,
+6 Alice Reynolds. California Public Utilities Commission. Assigned Commissioner’s Scoping Memo and Ruling.
+Rulemaking 25-08-002. Issued March 3, 2026.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M601/K158/601158095.PDF
+7 Loretta M. Lynch et al. California Public Utilities Commission. Decision Adopting Interconnection Standards.
+Rulemaking 99-10-025. Issued December 21, 2000.
+https://docs.cpuc.ca.gov/PublishedDocs/WORD_PDF/FINAL_DECISION/4117.PDF
+3
+
+investor-owned utility customers using both legacy NEM tariffs and the latest net billing tariff
+(NBT) who install bidirectional charging systems, including non-export, grid-parallel systems,
+must install a net generation output meter (NGOM) on the NEM/NBT-eligible system.8 The
+NGOM data measures the customer’s NEM/NBT credits, ensuring “NEM integrity.”
+Installing residential NGOMs increases costs (by hundreds to, in some cases, thousands of
+dollars) and delays for customers, which erases the value of residential bidirectional charging
+systems.
+The CPUC has adopted policies to allow other technologies to use low-cost alternatives to
+NGOMs, but currently excludes bidirectional charging systems, creating an artificial cost
+barrier that picks technology winners and losers. We encourage the CEC to work with the
+CPUC to create parity between technologies; we offer some options below for
+consideration.
+Option 1: Today, small NEM or NBT residential solar customers who add stationary energy
+storage can maintain NEM integrity using a zero-cost estimation methodology, which credits the
+NEM/NBT system based on estimated production. A customer’s measured exports could exceed
+solar production, but their NEM/NBT credit would never exceed the estimated NEM/NBT
+production. However, because California’s large investor-owned utilities do not, based on our
+understanding, consider bidirectional charging systems as NEM/NBT-eligible energy storage
+systems, they cannot use the estimation methodology, trapping them into using NGOMs via
+NEM/NBT-Multiple Tariff. The CEC should work with the CPUC to explore the necessary
+policy changes to expand the use of the zero-cost estimation methodology for NEM/NBT-paired
+bidirectional charging systems. One change could be to revise the language of NEM/NBT-
+Multiple Tariff so that NEM/NBT-paired bidirectional charging customers could use the
+estimation methodology. Another change could be to deem bidirectional charging systems as
+NEM/NBT-eligible energy storage systems, thereby allowing NEM/NBT-paired bidirectional
+charging systems to use the estimation methodology as existing small NEM/NBT-paired
+stationary storage systems do today. There may be other policy solutions to unlock the
+estimation methodology treatment for NEM/NBT-paired bidirectional charging systems, and
+Auto Innovators and VGIC are available to work with CEC, CPUC, and other stakeholders to
+consider them.
+Option 2: Another alternative is to use embedded submetering in the customer’s equipment.
+Under subtractive billing, which the large investor-owned utilities have been directed to establish
+under an August 2022 CPUC Decision, NEM/NBT-eligible energy (kWh) could be separated
+8 The NGOM is required under NEM-Multiple Tariff (NEM-MT) and NBT-Multiple Tariff (NBT-MT), which was
+created in anticipation that customers may install exporting non-NEM/NBT systems beside NEM/NBT-eligible
+systems.
+4
+
+from bidirectional charging system energy (kWh) to determine appropriate compensation for
+each system.9 However, the August 2022 CPUC Decision denied an extension of eligibility for
+Plug-In Electric Vehicle Submetering to customers with NEM systems, noting that it “presents a
+complex situation.”
+Lastly, California’s transition from legacy NEM to newer marginal-cost-based export credits,
+such as NBT (based on the CPUC’s Avoided Cost Calculator) and, eventually, dynamic export
+rates, fundamentally eliminates the need to ensure NEM integrity. NEM integrity is important
+when customers receive export credits that exceed the marginal benefits they provide to the grid.
+Measures to ensure NEM integrity, such as the estimation methodology or the installation of a
+costly NGOM, ensure that only energy from the NEM-eligible system (i.e., renewable
+generation) receives NEM credit. However, when customers receive export credits equal to the
+marginal benefit to the grid, for example, NBT credits based on the CPUC’s adopted Avoided
+Cost Calculator (ACC), the source of energy is no longer relevant. An April 2026 CPUC
+Decision rejects one such proposal, which would have applied CPUC ACC -based values, using
+the same averaging methodology for NBT customers, to bidirectional charging customers.10 We
+recommend that the CEC work with the CPUC to consider expanding technology-specific
+marginal cost-based export compensation to a technology-agnostic model.
+V. Work with the California Air Resources Board (CARB) to ensure its impending
+EV battery durability and warranty requirements properly account for
+bidirectional charging use.
+When CARB first adopted Advanced Clean Cars II, it required automotive manufacturers to:
+• Warrant that EV battery state of health would not deteriorate to less than 70 percent
+(which increased to 75 percent over time) for eight years or 100,000 miles, whichever
+occurred first.11
+• Design EV batteries so that they retain at least 70 percent of the certification range value
+(which increased to 80 percent over time) for a useful life of 10 years or 150,000 miles,
+whichever occurred first.12
+As CARB begins its new Drive Forward rulemaking, it may again consider EV battery durability
+and warranty requirements. However, the original requirements did not fully account for
+bidirectional charging’s effect on battery state of health. If future requirements similarly do not
+9 See CPUC Decision 20-08-024. Decision Adopting Plug-In Electric Vehicle Submetering Protocol and Electric
+Vehicle Supply Equipment Communication Protocols.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M496/K419/496419890.PDF
+10 See CPUC Decision 26-04-033. Decision Regarding Southern California Edison Company’s Application to
+Establish Marginal Costs, Allocate Revenues and Design Rates.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M606/K032/606032513.PDF
+11 California Air Resources Board. Section 1962.8, Title 13, California Code of Regulations.
+12 California Air Resources Board. Section 1962.4, Title 13, California Code of Regulations.
+5
+
+account for bidirectional charging, they could create significant financial risk for automotive
+manufacturers. Replacing an EV battery can cost $5,000 to $25,00013,14, so replacing even a
+small number of battery electric vehicles through recalls or warranty claims could, in a worst-
+case scenario, total hundreds of millions of dollars. This uncertainty may discourage
+manufacturers from broadly offering bidirectional charging features across EV models or
+significantly increase EV prices to account for these risks, which could inhibit EV adoption and
+undermine the state’s broader clean energy, grid reliability, and resiliency goals.
+We believe including virtual miles in any durability and warranty mileage requirements best
+accounts for bidirectional charging impacts. When discharging energy from a battery for
+bidirectional charging purposes, the energy (kWh) can be accurately converted into an equivalent
+mile traveled. Including this calculation more accurately reflects a battery’s state of health and
+could be easily accessible to the driver through the vehicle display. We look forward to
+discussing this methodology further and encourage the CEC to work with CARB to ensure their
+requirements do not unintentionally inhibit the development of bidirectional charging features.
+Conclusion
+VGIC and Auto Innovators appreciate the opportunity to provide these comments and commend
+the CEC for continuing to advance bidirectional charging in California. The Roadmap
+appropriately recognizes the substantial reliability, affordability, and resilience benefits that
+bidirectional charging systems can provide. Continued coordination across state agencies to
+reduce interconnection barriers, expand compensation opportunities, and support scalable
+deployment will be critical to ensuring California captures the full value of this growing flexible
+energy resource.
+Respectfully submitted,
+Zach Woogen Cory Bullis
+Executive Director Director, Energy & Environment Policy
+Vehicle-Grid Integration Council Alliance for Automotive Innovation
+vgicregulatory@vgicouncil.org cbullis@autosinnovate.org
+13 Recharged. How Much Does It Cost to Replace an Electric Car Battery in 2025?
+https://recharged.com/articles/how-much-to-replace-electric-car-battery.
+14 Witt, J & Najman, L. Electric Car Battery Replacement Costs. Recurrent. December 3, 2024.
+https://www.recurrentauto.com/research/costs-ev-battery-replacement.
+6

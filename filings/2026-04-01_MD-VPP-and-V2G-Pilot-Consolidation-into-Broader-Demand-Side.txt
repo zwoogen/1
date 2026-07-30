@@ -1,0 +1,130 @@
+April 1, 2026
+Andrew S. Johnston
+Executive Secretary
+Maryland Public Service Commission
+William Donald Schaefer Tower
+6 St. Paul Street, 16th Floor
+Baltimore, Maryland 21202
+Re: Case No. 9761 and PC 77; Demand-Side Management Programs, Rate Design
+Measures, and Distributed Energy Resource Integration in Coordination with the DRIVE
+Act
+Dear Mr. Johnston,
+Vehicle-Grid Integration Council (“VGIC”)1 respectfully provides its comments in response to
+the distribution utilities’ filings as requested in Maryland Public Service Commission’s
+(“Commission”) March 2, 2026 Notice of Hearing and Initiating Public Conference 77
+(“Notice”).
+I. Introduction
+VGIC is a 501(c)(6) membership-based advocacy organization committed to advancing the role
+of vehicle-grid integration (“VGI”) through policy development, education, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring that the
+value from flexible electric vehicle (“EV”) charging and discharging is recognized,
+compensated, and aligned with a more reliable, affordable, and efficient electric grid.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Ford Motor Company,
+General Motors, Nissan Group of North America, Bidirectional Energy, BMW of North America LLC, bodeEV,
+ChargePoint, ChargeScape, Codibly Inc., Critical Loop, dcbel, Eaton Corporation, EnergyHub, EV.Energy, Fermata
+Energy, Gravity Inc., Mercedes-Benz Research & Development North America, Inc., Orange Charger, Inc., Rivian,
+Stellantis, SWTCH Energy Inc., Tesla, The Mobility House, Toyota Motor North America, Inc., UL Solutions,
+WeaveGrid, Clean Power Alliance, Los Angeles Department of Water and Power, Marin Clean Energy, San Diego
+Community Power, and Sacramento Municipal Utility District. The views expressed in these Comments are those of
+VGIC, and do not necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/)
+1
+
+VGIC appreciates the opportunity to provide comments in response to the elecctric distribution
+companies’ (EDCs’) filings in compliance with the Commission’s Notice of Public Hearing and
+Initiating Public Conference (“PC”) 77 dated March 2, 2026.
+II. If Pursued, Align EmPOWER and DRIVE Act Programs
+Through Functional Integration Without Delaying
+Implementation
+The EDCs propose closer alignment between EmPOWER and DRIVE Act programs, including
+coordination of enrollment, administration, and incentives. VGIC does not oppose this direction
+but is concerned that these efforts could further delay DRIVE Act implementation. The VGI
+industry is eager and stands ready to advance programs that unlock EVs as flexible grid
+resources.
+If the Commission chooses to more closely align EmPOWER and DRIVE Act programs, VGIC
+recommends functional integration, not structural integration. Functional integration means
+aligning the parts of programs that improve outcomes, such as a common customer enrollment
+experience, coordinated data and measurement, and interoperable communications and control
+systems. Structural integration, by contrast, would merge programs into a single framework with
+unified objectives, metrics, and incentive structures. EmPOWER is designed around energy
+savings and curtailment-based demand response programs, while the DRIVE Act is focused on
+dispatchable resources, with an emphasis on EVs as grid resources that can deliver time-sensitive
+value such as peak reduction, capacity, and distribution system support. These differences lead to
+distinct performance metrics, timelines, and program designs.
+Attempting structural integration risks weakening both programs by forcing EVs and other
+detachable resources into frameworks that are not designed to capture their flexible, time-
+dependent value. This could constrain compensation, limit program flexibility, and reduce
+overall grid benefits. A functionally integrated approach achieves coordination where it matters,
+while preserving the distinct structures needed for each program to succeed.
+III. Implement the DRIVE Act Consistent with Legislative Intent
+by Treating EVs as Dispatchable Grid Resources to Reduce
+System Costs
+The DRIVE Act provides clear direction regarding the role of EVs in Maryland’s energy system.
+The legislation establishes a framework in which distributed energy resources, including EVs,
+are expected to support grid operations.
+2
+
+As defined in the Act, “electric distribution system support services” means “the dispatch and
+control of a distributed energy resource to provide services that contribute to the efficient and
+reliable operation of the electric distribution system,” including “local or system peak demand
+reduction, demand response, [and] the avoidance or deferral of a transmission or distribution
+upgrade or capacity expansion.”2 This definition indicates that the Legislature is focused on
+resources that can be dispatched to meet system needs. The Act further reinforces this framework
+by recognizing bidirectional EVs as resources capable of both receiving and discharging
+electricity.
+This language establishes that EVs should be treated as grid resources. If EVs are treated solely
+as a controllable load, programs will focus on incremental peak reduction through managed
+charging. If EVs are treated as grid resources, program design expands to include dispatchable
+capacity, targeted peak reduction, and integration into virtual power plant structures. The
+Commission should ensure that DRIVE Act programs are designed and evaluated in a
+manner that reflects this intent.
+Rising capacity costs in PJM create a need to bring additional flexible capacity onto the system
+in a cost-effective manner. Research from New York3 and Massachusetts4 among others finds
+that electric vehicles represent the largest source of flexible demand on the system, driven by
+their scale, high availability, and multi-kilowatt capability. Compared to traditional curtailment-
+based demand response resources, these characteristics allow EVs to deliver capacity more
+efficiently and with lower administrative cost per kW.
+In the near term, the most practical pathway to capture this value is the expansion of managed
+charging. Managed charging is commercially available, has demonstrated customer acceptance,
+and can be scaled across a large number of participants, providing a direct path to increased
+participation and measurable peak reduction in the 2026 through 2028 timeframe.
+At the same time, program design should explicitly enable bidirectional EVs at program
+inception as VGIC recommended in our February 23rd comments in response to the EDC’s
+revised DRIVE Act pilot proposals.5 This capability exists today and allows EVs to operate as
+2 Maryland General Assembly, October 2024, Electricity – Tariffs, Distributed Energy Resources, and Electric
+Distribution System Support Services (Distributed Renewable Integration and Vehicle Electrification (DRIVE) Act
+available at https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1256?ys=2024RS.
+3 The Brattle Group, January 202, New York’s Grid Flexibility Potential, Volume 1: Summary Report available at
+https://www.brattle.com/wp-content/uploads/2025/02/New-Yorks-Grid-Flexibility-Potential-Volume-I-Summary-
+Report.pdf.
+4 Massachusetts Department of Energy Resources, December 2025, Peak Potential: Load Management for an
+Affordable Net-Zero Grid available at https://www.mass.gov/doc/doer-peak-potential-report-and-policy-
+recommendations/download.
+5 Vehicle Grid Integration Council, February 23, 2026, Vehicle Grid Integration Council - Comments. Case No.
+9761 (ML 327372) available https://webpscxb.pscmaryland.com/DMS/case/9761,
+3
+
+dispatchable grid resources, providing peak capacity and supporting both bulk system and
+distribution system needs.
+Maryland should prioritize EVs as a core part of its demand side strategy by scaling managed
+charging programs and launching DRIVE Act pilots with bidirectional charging. This approach
+provides the fastest and most cost-effective pathway to add flexible capacity and reduce upward
+pressure on rates.
+VI. Conclusion
+VGIC appreciates the opportunity to provide comments in response to the EDCs’ filings
+submitted pursuant to the Commission’s Notice of Public Hearing and Initiating Public
+Conference 77. As the Commission considers the proposed alignment of EmPOWER and
+DRIVE Act programs, it should focus on advancing coordination that improves participation and
+performance without delaying implementation, while ensuring that DRIVE Act programs are
+designed consistent with legislative intent. EVs, through both managed and bidirectional
+charging, represent a practical and scalable pathway to deliver flexible capacity and support
+system needs, delivering cost savings for all Maryland ratepayers. VGIC looks forward to
+continued collaboration with the Commission and stakeholders to support effective
+implementation of the DRIVE Act and the integration of EVs as grid resources.
+Sincerely,
+Steve Letendre, PhD
+Senior Advisor
+Vehicle-Grid Integration Council (VGIC)
+sletendre@vgicouncil.org
+(802) 779-3580
+4

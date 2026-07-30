@@ -1,0 +1,214 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Update Rulemaking 25-08-004
+Distribution Level Interconnection (Filed August 14, 2025)
+Rules and Regulations.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ORDER INSTITUTING RULEMAKING TO UPDATE DISTRIBUTION LEVEL
+INTERCONNECTION RULES AND REGULATIONS
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: November 10, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Update Rulemaking 25-08-004
+Distribution Level Interconnection (Filed August 14, 2025)
+Rules and Regulations.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ORDER INSTITUTING RULEMAKING TO UPDATE DISTRIBUTION LEVEL
+INTERCONNECTION RULES AND REGULATIONS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Order Instituting Rulemaking to Update Distribution Level
+Interconnection Rules and Regulations (“OIR”), issued on August 20, 2025.
+I. INTRODUCTION.
+VGIC appreciates the numerous parties that submitted Opening Comments on the OIR. In
+response to parties, VGIC offers the following comments:
+• Interconnection application fees should be scoped into this proceeding;
+• Bidirectional electric vehicle (“EV”) charging systems that are enabled for bidirectional
+mode only when electrically isolated from the grid are not required to interconnect under
+Rule 21;
+• Interconnection for small non-export battery systems, including bidirectional EV charging
+systems, should be streamlined; and
+• VGIC agrees that consideration of alternative communication protocols is appropriate.
+1
+
+II. INTERCONNECTION APPLICATION FEES SHOULD BE SCOPED INTO THIS
+PROCEEDING.
+In Opening Comments, VGIC, Southern California Edison (“SCE”), California Solar &
+Storage Association (“CALSSA”), Ford, Tesla, and the Solar Energy Industries Association
+(“SEIA”) all recommend discussing and likely modifying the $800 non-Net Energy Metering
+(“NEM”) interconnection fee in California. San Diego Gas & Electric (“SDG&E”) states that
+adding the interconnection fee to this proceeding for Commission is unnecessary because the
+utilities already have authorization to update these costs via Advice Letter.1
+VGIC’s understanding is that only the application fees for NEM / Net Billing Tariff
+(“NBT”) systems are permitted to be updated via Advice Letter. VGIC is aware of one
+Commission decision that discusses interconnection fee updates via Advice Letter, D.16-01-044,
+which established the NEM Successor Tariff or “NEM 2.” D.16-01-044 states:
+“Interconnection fees for the NEM successor tariff can only be changed by submitting a
+new fee calculation, based on the three cost areas set out above, in a Tier 2 advice letter
+served on the service list of this proceeding or any subsequent proceeding in which this
+NEM successor tariff (and/or any future successor tariff) is within the scope.” 2
+VGIC interprets that this decision language on a Tier 2 Advice Letter process for updating
+interconnection fees applies only to NEM / NBT systems. However, if this understanding is
+incorrect, VGIC requests that the Commission clarify the ability of the utilities to change the
+application fee via Advice Letter. VGIC is open to the utilities being able to update interconnection
+application fees based on actual costs incurred via a pathway outside of this proceeding, but our
+current understanding is that the Commission has not allowed this. We discuss our understanding
+below.
+1 SDG&E Opening Comments at p.11.
+2 D.16-01-044 at p.88.
+2
+
+VGIC raised the issue of the $800 interconnection fee in a formal presentation to the
+Interconnection Discussion Forum (“IDF”) in June 2025. At the meeting, Energy Division staff
+presented on the history of Commission decisions on the fee. The original $800 fee was set by
+D.00-12-307. Since then, modifications have been made to supplemental fees and other
+interconnection fees; however, the base $800 fee has remained the same.3 D.20-09-035 last took
+up the topic of interconnection fees. In that decision, no modifications were made to the fee, but
+the utilities were ordered to do additional reporting on the costs of processing non-NEM systems
+smaller than 1 MW.4 VGIC does not recall either Energy Division staff or any of the utilities citing
+any method for them to change this $800 fee via Advice Letter during the June 2025 IDF meeting,
+and VGIC is not aware of any language that authorizes this in the above-referenced decisions.
+Meanwhile, SCE agrees that interconnection application fees should be in scope and
+specifically asks that “a discussion on how to update these fees based on actual utility costs be
+included as part of the OIR.”5 As discussed above, VGIC believes that utilities could update their
+interconnection fees outside of a Rulemaking based on actual costs incurred. VGIC recommends
+that the Commission aim to define a pathway for the utilities to more regularly update the non-
+NEM interconnection fees, especially for smaller systems < 1 MW. As bidirectional EV charging
+systems become more common and utilities become more familiar and comfortable with this
+equipment, VGIC anticipates that the costs to process non-NEM systems will decrease. This
+proceeding should discuss the appropriate costs to track and include in an interconnection fee
+update process, similar to the process defined for NEM systems in D.16-01-044.
+3 D.05-08-013.
+4 D.20-09-035 at p.49.
+5 SCE Opening Comments at p.34.
+3
+
+In the interim, VGIC agrees with CALSSA that additional reporting on utility costs would
+be helpful. While SCE and SDG&E have provided cost reporting for non-NEM systems <1 MW,
+we recommend the Commission direct Pacific Gas and Electric (“PG&E”) to report on these costs.
+CALSSA also recommends that the utilities should track costs for systems <100 kW.6
+VGIC agrees with the intent of CALSSA’s request for tracking costs for smaller
+systems, and we suggest that the utilities track costs for systems less than 30 kW. For context,
+today’s residential non-NEM bidirectional EV charging systems are offered at ~10 kW of
+discharge capability. We believe that reporting should capture these smaller systems so that the
+data can be used to set appropriate fees for those systems. Applying a similar cost reporting
+framework to ~900 kW non-NEM solar systems, or even 90 kW systems, and ~10 kW bidirectional
+EV charging systems limits the usefulness of this reporting for informing non-NEM
+interconnection application fees.
+III. BIDIRECTIONAL EV CHARGING SYSTEMS THAT ARE ENABLED FOR
+BIDIRECTIONAL MODE ONLY WHEN ELECTRICALLY ISOLATED FROM
+THE GRID ARE NOT REQUIRED TO INTERCONNECT UNDER RULE 21.
+Traditionally, the use of “break-before-make” backup generators in California has not been
+governed by Rule 21. This break-before-make process requires that the “power must be shut off
+(break) before the system can function again.”7 This can also involve the use of a transfer switch
+to ensure that power does not flow back to the grid. Some bidirectional EV charging systems have
+been used in bidirectional mode only to provide power to customers when the power goes out.
+These configurations should continue to use the existing rules for the deployment of backup
+generators, not Rule 21.
+6 CALSSA Opening Comments at p.14.
+7 PG&E Backup Power Installation Guide: https://www.pge.com/assets/pge/docs/clean-energy/battery-
+storage/Backup-Power-Installation-Guide.pdf
+4
+
+Ford, The Mobility House, and Tesla highlight a lack of clarity in the treatment of EVs
+used as purely backup generators in California. Even though existing backup generator rules state
+that only a notification process is required, not a full interconnection, Ford states that “some
+California utilities have required EV backup customers, whose systems never operate in parallel
+with the grid, to initiate a Rule 21 application and pay the application fee solely to provide this
+notice.”8 The Mobility House cites language that could be one reason for confusion amongst the
+utilities. D.20-09-035 refers solely to “bidirectional operation” without specifically defining this
+term, which “leaves room for interpretation that both grid-integrated/grid-following inverters and
+grid-forming inverters for use at islanded sites could require interconnection simply because they
+both involve discharge.”9 Tesla highlights that this type of broad language is also used in this
+scoping memo, where question 3a as drafted refers to “non-exporting vehicle-to-grid (V2G)
+systems for electric vehicle charging stations and home and building backup power,”10 but this
+could “imply that perhaps systems designed for backup only should be subject to interconnection
+review.”11
+VGIC strongly agrees that bidirectional EV charging systems enabled in bidirectional
+mode exclusively in a break-before-make configuration should not require interconnection
+under Rule 21, as these systems are not enabled to discharge while operating in parallel to
+the grid. Discussion of requirements for these systems should be out of scope for this proceeding.
+However, given the confusion surrounding the applicability of Rule 21, the Commission should
+ensure that if and when technical requirements for bidirectional EV charging systems are updated,
+8 Ford Opening Comments at 3.
+9 The Mobility House Opening Comments at 4.
+10 OIR at 7.
+11 Tesla Opening Comments at 8.
+5
+
+the relevant language is sufficiently specific, referring only to bidirectional EV charging systems
+that are enabled to discharge parallel to the grid, rather than those enabled to discharge only when
+electrically isolated from the grid.
+Lastly, VGIC strongly recommends, generally, that the Commission and other stakeholders
+describe specific configurations for bidirectional charging rather than relying on largely undefined
+terms like “vehicle-to-grid”, “vehicle-to-home”, and “vehicle-to-building.” The configurations
+“grid-isolated”, “grid-parallel, non-export”, “grid-parallel, export,” and “grid following-forming
+mode switching” are examples of much more precise and well-defined terms for use in modifying
+Rule 21.
+IV. INTERCONNECTION FOR SMALL NON-EXPORT BATTERY SYSTEMS,
+INCLUDING BIDIRECTIONAL EV CHARGING SYSTEMS, SHOULD BE
+STREAMLINED.
+For systems that do operate in parallel to the grid, but do not export past the customer's
+meter, additional streamlining of the interconnection process should be explicitly scoped into this
+proceeding. PG&E recommends that streamlining be pursued specifically for non-export battery
+systems under 30 kW. PG&E notes that “Screening criteria could replace engineering reviews, and
+clear peak output standards could enable fast-tracking. Direct filing and alternative legal processes
+should be considered to further reduce barriers for these projects.”12 VGIC agrees that this issue
+should be taken up in this proceeding, and the Commission should specify that streamlining for
+batteries includes bidirectional EV charging systems, which the Commission has previously found
+to be a type of energy storage for the purposes of interconnection.
+12 PG&E at 4.
+6
+
+V. VGIC AGREES THAT CONSIDERATION OF ALTERNATIVE
+COMMUNICATION PROTOCOLS IS APPROPRIATE.
+In Opening Comments, SCE recommends that testing and certification requirements be
+clarified for non-IEEE 1547 protocols allowed under mutual agreement. Currently, Rule 21
+requires certification to one of the communications protocols outlined in IEEE 1547-2018 Section
+10.7: IEEE 2030.5, IEEE1815 (i.e., DNP3), or SunSpec Modbus. However, other communications
+protocols are also emerging for bidirectional EVs, including OCPP 2.1, as pointed out by SCE.
+SCE asks whether, if one of these other protocols are used by mutual agreement with the utility,
+“Could the DERs not be required to support one of the 3 1547-2018 protocols?”13
+VGIC recommends that the Commission consider this issue, but with an intent toward
+clarifying that if a different communication protocol is agreed to by the utility, the DER does not
+have to be certified to one of the IEEE 1547-2018 communication protocols in addition to that
+communication protocol (e.g., OCPP 2.1). If the utility has deemed a separate communication
+protocol to meet their standards for communication performance, additional certifications are
+duplicative and serve only to increase costs for customers. At the same time, VGIC still believes
+that it is appropriate to keep the three protocols as automatically acceptable, as this will make it
+easier for technology providers to design systems to meet utility needs without extensive
+engagement with individual utilities, which can facilitate interconnection generally. If another
+protocol becomes popular, the Commission should consider whether that protocol should be added
+to the list of “deemed approved” protocols, but only when sufficient interest has been shown.
+Ultimately, the Commission should avoid spurring uncertainty in a market of solution providers
+that is currently orienting around today’s requirements. To do so, the Commission should strive to
+13 SCE Opening Comments at 30.
+7
+
+avoid “moving the goal posts” when it comes to required communication protocols by ensuring
+new communication protocol pathways are optional, but not required, and not taking away existing
+communication protocol pathways.
+VI. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the OIR. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: November 10, 2025
+8

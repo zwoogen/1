@@ -1,0 +1,320 @@
+August 28, 2025
+Andrew S. Johnston
+Executive Secretary
+Maryland Public Service Commission
+William Donald Schaefer Tower
+6 St. Paul Street, 16th Floor
+Baltimore, Maryland 21202
+Re: Case No. 9761; Comments of VGIC on Utility VPP Programs
+Dear Mr. Johnston,
+The Vehicle-Grid Integration Council (“VGIC”)1 respectfully provides its comments in response
+to the Baltimore Gas and Electric (“BGE”), Potomac Edison Company (“Potomac Edison”), and
+Potomac Electric Power Company’s (“PHI”) and Delmarva Power & Light Company
+(“Delmarva Power”; collectively with PHI the “PHI Utilities”) applications for Distribution
+System Support Services (“DSSS”) Pilots to the Maryland Public Service Commission
+(“Commission”) in Case No. 9761.
+I. Introduction
+VGIC is a 501(c)(6) membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+VGIC appreciates the BGE, Potomac Edison’s, and the PHI Utilities proposals to advance virtual
+power plants (“VPP”) and grid-parallel bidirectional charging (often referred to as vehicle-to-
+grid or “V2G”) through the DSSS pilot applications. These utilities have been leaders in making
+the transition to electric vehicles affordable, reliable, and clean.
+When the DRIVE Act was enacted in spring 2024, VGIC was hopeful that it would lead to
+meaningful opportunities for grid-parallel bidirectional charging systems or “V2G” systems, as
+well as storage-paired unidirectional charging systems, to support the grid and, in return, be
+recognized and compensated for grid value. On June 11, 2025, the Commission unanimously
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Ford Motor Company,
+General Motors, Nissan Group of North America, Bidirectional Energy, BMW, BodeEV, BorgWarner, ChargePoint,
+ChargeScape, Codibly, Critical Loop, dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy, Fermata
+Energy, Gravity, GridBeyond, GridWiz, Innovation Core SEI, Kaluza, Landis + Gyr, LG Innotek, Mercedes-Benz,
+Orange Charger, Rivian, Stellantis N.V., Sunrun, Tesla, The Mobility House, Toyota Motor North America, Inc.,
+UL Solutions, WeaveGrid, Clean Power Alliance, Holy Cross Energy, Los Angeles Department of Water & Power,
+MCE Energy, San Diego Community Power, and Sacramento Municipal Utility District. The views expressed in
+these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC member
+companies or supporters. (https://www.vgicouncil.org/)
+1
+
+adopted expedited V2G interconnection processes for all utilities in the state, addressing a
+significant barrier to the widespread use of V2G solutions to support the grid. VGIC appreciates
+the focus of the Commission and Commission staff in efficiently and fairly implementing these
+new interconnection rules. VGIC commends the utilities for continuing progress with the DSSS
+pilot applications, filed July 1, 2025. These pilots, if implemented effectively, are critical to
+realizing Maryland’s commitment to clean and the electrification of transportation. The pilots
+could aid in achieving Maryland’s vision that 100% of passenger car and light truck sales be EVs
+by 2035. The DSSS pilots also hold the potential to further the policy goals of the Maryland
+Climate Solutions Now Act of 2022, which targets a 60% reduction in greenhouse gas emissions
+by 2031, along with a goal to reach net-zero by 2045.
+VGIC provides the following recommended enhancements to each utilities’ filings to ensure the
+pilots can enable V2G resources and VPPs to improve grid flexibility, lower ratepayer costs, and
+support broader climate goals. These recommended enhancements are summarized below:
+• VGIC recommends the utilities detail an “on-ramp” that leverages the pilot learnings to
+unlock larger program customer count, MW targets, and budgets without disrupting
+customer participation.
+• VGIC advises against prohibiting injection into the distribution grid (i.e., net export), as
+Maryland’s V2G interconnection rules specifically ensure grid safety.
+• Given solar customer propensity for adopting bidirectional charging solutions, VGIC
+urges the utilities to clearly define how Net Energy Metering (“NEM”) systems will be
+treated in the DSSS pilots.
+• VGIC recommends utilities include a locational peak relief component to the pilots from
+the outset.
+II. VGIC recommends the utilities detail an “on-ramp” that leverages the pilot learnings to
+unlock larger program customer count, MW targets, and budgets.
+VGIC is confident that the authors and supporters of the DRIVE Act had envisioned larger
+participation of bidirectional charging customers in grid support efforts than what is detailed in
+the DSSS pilot applications. For example, BGE’s application targets only a few dozen
+bidirectional charging customers over the course of the pilot. This scale is also significantly
+dwarfed by similar VPP initiatives, for example those offered by utilities in Massachusetts,
+California, Vermont, and Utah. VGIC believes the utility DSSS pilots should be offered to more
+customers and authorized with a larger budget to provide critical market development support for
+bidirectional charging solutions. Critically, these V2G technologies do not have access to any
+other performance-based compensation mechanisms in Maryland. Moreover, these solutions are
+extremely limited in the opportunities to participate in grid support programs around the country,
+which means that the Commission could take decisive action to emerge as the definitive national
+and even global leader in V2G market development. While the technical capabilities of these
+solutions have been demonstrated repeatedly, including in Maryland, the commercial ecosystem
+2
+
+is relatively nascent. This means that customers can expect equipment and installation cost
+declines over the coming years.
+With these impending cost advantages and the opportunity to establish pioneering V2G pilots,
+Maryland can ensure that sufficient V2G capacity is available in the long term to serve the state’s
+evolving energy needs. The availability of low-cost, grid-edge energy storage solutions
+underpinned by the sheer scale of EV adoption can meaningfully mitigate the need for increased
+investments in generation, transmission, and distribution infrastructure to support the state’s
+growing demand without compromising affordability for all utility ratepayers. In this way, V2G
+will grow to become an increasingly critical tool in the energy planning toolkit for an affordable,
+clean future. VGIC respectfully urges the Commission to leverage the DSSS pilots as an
+opportunity to attract customers and solution providers to the state, and ensure utilities gain
+familiarity with a solution set that will be key to unlocking Maryland’s state transportation
+electrification and broader decarbonization goals.
+While VGIC reiterates the value of providing large-scale V2G offerings to customers, we are
+sensitive to the increased pressure on Maryland utility ratepayers and understand the need to
+right-size the DSSS pilots to protect against outsized customer bill impacts for non-participants.
+With this in mind, VGIC urges the Commission to direct the utilities to, at a minimum,
+detail an on-ramp plan to scale the pilots, if successful, to mass-market offerings.
+Specifically, utilities should provide clear customer enrollment triggers for when consideration
+of extended pilots and/or mass-market program offerings would be requested. Without a clear
+plan that bridges pilot implementation to larger-scale program development, the DSSS pilots
+could become yet another example of “death by pilots,” wherein technologies that have been
+demonstrated to work, i.e., V2G charging systems, get stuck in utility pilots that more closely
+resemble science fair projects than earnest efforts to learn about customer enrollment strategies,
+resource performance, and the ratepayer impact of programs. Moreover, requesting pilot
+extension or a transition into full-scale programs only after an initial pilot concludes is an
+effective strategy to disrupt customer participation and lose customer engagement. Without
+continuity for these early adopters and engaged customers, the ultimate goals of the DRIVE Act,
+Maryland’s 2035 transportation electrification ambitions, and the Climate Solutions Now Act of
+2022 would be undermined.
+III. VGIC advises against prohibiting injection into the distribution grid (i.e., net export),
+as Maryland’s V2G interconnection rules specifically ensure grid safety.
+The list of readily available light-duty bidirectional charging systems continues to grow, with
+offerings from Ford (F-150 Lightning Electric with Ford Charging Station Pro), GM (nearly
+every Chevrolet, Cadillac, and GMC electric vehicle with GM Energy PowerShift Charger),
+Nissan (LEAF and dcbel Ara), Tesla (Cybertruck and Universal Wall Connector), and Kia (EV9
+and Wallbox Quasar 2). These solutions are primarily marketed and deployed for islanded back-
+up power use cases, as opposed to grid-parallel use cases. However, in 2024, BGE became the
+first utility in the nation to implement grid-parallel residential bidirectional charging
+configurations.2 Additional product announcements have revealed commitments to bidirectional
+2 https://investors.sunrun.com/news-events/press-releases/detail/318/sunrun-launches-nations-first-vehicle-to-home-
+grid
+3
+
+charging solutions from Volvo, Volkswagen, Hyundai, Polestar, BMW, Mercedes-Benz,
+Stellantis, Rivian, Lucid, Emporia, ChargePoint, Enphase, SolarEdge, and Autel, among others.
+Based on conversations with its 40+ members, including leaders in the residential bidirectional
+charging space, VGIC can attest to significant manufacturer interest in deploying more
+bidirectional charging systems in safe, utility-interconnected grid-parallel configurations. As
+such, we believe there will be ample equipment available to provide safe injection onto the grid
+that expands the benefits of bidirectional charging equipment beyond just meeting site load.
+With this in mind, and given the Commission’s recent unanimous approval of V2G
+interconnection rules, we were surprised to see the utility DSSS pilot applications focus on the
+use of bidirectional charging equipment to meet site load rather than export to the grid.
+Additionally, the size of vehicle batteries and chargers dwarf typical home load, which means
+limiting performance to the size of residential site load is a significant restriction on the technical
+grid support potential of V2G. For context, VGIC asserts there are four key barriers to
+widespread bidirectional charging market development:
+(1) Interconnection: i.e., “Will my utility know what to do with an interconnection
+application for this solution?”
+(2) Compensation: i.e., “Will I have the opportunity to lower my bill or maybe even
+receive payments from my utility?”
+(3) Upfront Cost: i.e., “Will the system be affordable?”
+(4) Technical standards: i.e., “Will the system be safe and reliable?”
+COMAR Rulemaking Session 203, held on June 11, 2025, addressed the interconnection barrier
+by ensuring V2G systems are appropriately incorporated into the utilities’ interconnection
+processes. To the degree there are any concerns from the utilities regarding grid impacts
+associated with exports, the interconnection review process is specifically intended to be able to
+evaluate and mitigate such impacts. In other words, not only are UL-certified V2G systems
+eligible for interconnection under the new rules, but the rules themselves ensure that the impacts
+of exporting can and will be evaluated and, if those impacts are found to be adverse, mitigations
+can be required.
+The second barrier, compensation mechanisms, would be addressed through the performance-
+based compensation detailed in the DSSS pilot applications. The third barrier, upfront cost, is
+partially addressed by both initiatives. The clarity around V2G interconnection pathways,
+particularly for V2G AC systems (where the bidirectional power conversion functionality is
+onboard the vehicle), provides a path toward lower-cost, mass-market bidirectional charging
+systems beyond today’s “first generation” offerings from the prominent manufacturers.
+Meanwhile, the DSSS pilot designs can help offset upfront cost reductions. For example,
+Potomac Edison offers a $150/year “Connectivity Incentive” that is not based on performance
+during test or real events, but rather on the connection of the device into the program. The final
+barrier, technical standards, was partially addressed in the interconnection rules, which provides
+clear guidance on the required safety and grid interoperability requirements of bidirectional
+4
+
+charging equipment. Additional technical standards development is being completed by industry-
+led working groups and, although supportive of customer adoption, is not in scope for utilities or
+the Commission (e.g., physical connectors and/or communications between vehicles and
+chargers).
+With these barriers largely addressed by the recent interconnection update and the proposed
+DSSS pilots, VGIC notes that restricting the performance of V2G solutions to meeting site load,
+rather than providing net export, is not based in any apparent market development barriers.
+Although the utilities do not provide a detailed explanation as to why this limitation will be
+placed, the DSSS pilot applications do reference the need for a high degree of visibility at the
+grid edge to manage exports. While investments to expand the utilities’ visibility and
+management capabilities can be valuable, VGIC disagrees that extensive investments, beyond
+what is needed to enable the relevant program administrator(s)/aggregator(s) envisioned to
+implement the pilot, are required to allow net export onto the grid as part of the DSSS pilots. We
+reiterate that Maryland’s robust interconnection rules already provides – in fact, requires – an
+opportunity for every site to be evaluated and for any material impacts to be mitigated during the
+interconnection process.
+The proposed DSSS pilot structures are relatively simple, and VGIC fails to understand why
+such event-based program designs, intended to relieve stress on the grid during peak times,
+should express a preference for customers that reduce site load over those that reduce site load
+and export to the grid. However, VGIC remains sensitive to the affordability concerns that new
+programs can raise for Maryland ratepayers. With this in mind, we note that the customer
+enrollment and budget caps that the Commission will adopt for the DSSS pilots already provide
+protection against undue upward rate pressure. Further restricting the pilot to only pursue non-
+net-exporting customers as a means to limit program spending would be duplicative of any
+program budget or customer caps.
+Lastly, authorizing DSSS pilots to advance VPP and V2G without directing utilities to allow
+enrollment of net exporting customers sends an extremely mixed regulatory signal to customers
+and the industry. The DRIVE Act envisions meaningful support of the grid through innovative
+VPP and V2G offerings. Excluding participation of net exporting customers would undermine
+the intent of the DRIVE Act and, in turn, present a barrier to the achievement of Maryland’s
+broader decarbonization and affordability goals.
+IV. Given solar customer propensity for adopting bidirectional charging solutions, VGIC
+urges the utilities to clearly define how Net Energy Metering (“NEM”) systems will be
+treated in the DSSS pilots.
+There is a strong correlation between rooftop solar ownership and EV ownership, with some
+studies showing that 25% of EV owners also own rooftop solar, whereas only 8% of non-EV
+owners have rooftop solar.3 VGIC expects the overlap between solar customers and those
+adopting bidirectional charging solutions to be even higher. BGE details its intent to focus on
+3 https://www.nrel.gov/news/detail/press/2024/news-release-green-wheels-bright-skies-nrel-analysis-unveils-the-
+connection-between-electric-vehicles-and-photovoltaics
+5
+
+customers with solar, stating “specifically, BGE will focus on two DER classes – stationary
+energy storage devices and bidirectional-enabled EVs – with an emphasis on customers that have
+paired those DERs with rooftop, BTM solar…”4 However, BGE’s filing, as well as the
+applications of the other utilities, contain a material omission by not detailing the treatment for
+these customers. Most likely, new or existing solar customers will take advantage of Maryland’s
+net energy metering (“NEM”) policies to unlock compensation to pay down the upfront cost of
+the resource. VGIC offers below two options for ensuring these NEM customers can participate
+in the DSSS pilots without compromising their NEM payments:
+A. Leverage embedded data collection solutions in the V2G system. Device-level
+measurement of V2G equipment can provide the utility with the required data to reward
+performance under the DSSS pilot scheme. This same data can also be subtracted from
+any utility meter data before NEM credits are rewarded to the customer to ensure that
+NEM credits are not being rewarded to the V2G system. Given the relatively limited
+scale of the initial DSSS pilots, VGIC believes this process can be done manually at first,
+and the utilities can transition to an automated process as enrollment increases, which is a
+process that’s been directed in California.
+B. [Not recommended] Remove customers from NEM seasonally or for the duration of
+the pilot. VGIC advises against pausing NEM for participating customers, as this will
+negatively impact customer experience and may severely limit the overall number of
+customers interested in enrolling in the DSSS pilots.
+VGIC urges the utilities to clearly define how new and existing rooftop solar systems taking
+service under NEM will be treated for the purposes of these VPP pilots. Proceeding without a
+clear plan for treating these customers would severely limit pilot participation and useful
+learnings. Additionally, VGIC notes that other approved and implemented VPP pilots and
+programs around the country, including California’s Demand Side Grid Support (DSGS)
+Program, and the Aggregator VPP program settlement recently filed in Colorado, do not exclude
+NEM customers from participation.
+V. VGIC recommends utilities include a locational peak relief component to the pilots from
+the outset.
+As adoption of EVs and other grid-edge solutions accelerates – and utilities continue to be faced
+with new and increasingly complex grid management challenges from other trends – the utilities
+should be encouraged to pursue locational peak relief component from the outset of the DSSS
+pilots, rather than deferring to later pilot or program design. That said, this should be done in
+whatever manner is deemed most feasible for the utilities. Implementation complexity and cost
+for unlocking location-specific distribution system value can vary, as evident in the following
+examples:
+A. Programmatic. In this approach, programmatic options focused on distribution
+optimization offer an opportunity to provide locational peak relief and, in exchange,
+customers receive participation incentives. For example, BGE and the PHI utilities
+are advancing the use of managed charging platforms to reduce the strain on
+4 BGE DSSS Pilot Application. Page 11.
+6
+
+distribution assets. The DSSS pilots could be configured so that events are called
+when distribution assets are expected to have limited capacity. In this way, events are
+targeted strictly to distribution assets that are capacity-constrained.
+Under the PHI Utilities’ DSSS pilot incentive design, customers would only be
+compensated when they participate in a distribution-based event, meaning that
+incentives would only be provided to participants who directly benefit distribution
+assets.5 For BGE’s incentive design, participants should be compensated based on
+their expected contribution to the distribution system.6
+A program could designate that a bulk system event and distribution event cannot be
+called on the same day. Participants should receive an additional incentive for
+participating in distribution-based events
+B. NY’s VDER Tariff – Locational System Relief Value (LSRV). Rather than a
+programmatic approach (i.e., with a program administrator/aggregator), this approach
+leverages an open tariff that customers can enroll in. The VDER Tariff simply does or
+doesn’t apply a locational value based on whether the customer is located in a
+constrained area as indicated on the utilities’ hosting capacity maps. In other words, a
+customer is assigned to one of two representative circuits: “constrained” or
+“unconstrained.” A location-specific adder is then provided to customers in the
+constrained areas.
+Although Maryland utilities do maintain hosting capacity maps, VGIC notes an
+example of simple distribution value treatment that does not rely on updated hosting
+capacity maps: Massachusetts’ Clean Peak Energy Standard’s Distribution Circuit
+Multiplier.7 In this approach, the Massachusetts Department of Energy Resources
+leverages the utility’s annual distribution planning data to rank circuits using a three
+year average of the peak-to-normal percent rating for each circuit. Customers on the
+10% of circuits with the highest peak-to-normal rating are then eligible for the
+distribution element.
+Yet another approach could be to award distribution value only to those customers on
+circuits with peaks that are coincident with system peaks. This is the methodology
+included in the recent settlement filed by Xcel Energy and several other stakeholders
+in a settlement being considered by the Colorado Public Utilities Commission. Parties
+agreed that the utility’s avoided distribution capacity value was $71.93/kW-yr. They
+agree that the distribution component should be made available to customers on
+circuits with a historical hourly peak between 4-10pm in June-September.
+C. PG&E’s V2X Pilot assigns each customer to a “representative circuit” most similar
+to that customer’s circuit load shape. This reduces complexity by obviating the need
+5 BGE DSSS Pilot Application. Page 19.
+6 PHI Utilities DSSS Pilot Application. Page 8.
+7 https://www.mass.gov/doc/cps-distribution-circuit-multiplier-guideline/download
+7
+
+to analyze – in the case of PG&E – thousands of distribution circuits. Instead,
+customers are assigned to one of just a few dozen representative circuits. A location-
+specific signal is then generated for these representative circuits.
+D. PG&E’s Flex Connect. This pilot uses a utility DERMS platform to implement
+dynamic import limits based on near-real-time, locationally-specific circuit
+conditions. Note that the Flex Connect program is not linked to a compensation
+mechanism, but rather is focused on the flexible service connection use case for new
+large load connections.
+VGIC recommends the Commission direct utilities to implement a location-specific distribution
+element that best suits the current capabilities of each utility. Otherwise, the pilot learnings will
+be limited to overall system load shift which, while valuable, misses the opportunity to better
+understand the implications of a more granular focus on utility operations, customer engagement,
+and, ultimately, utility ratepayers.
+VI. Conclusion
+The utility DSSS pilot applications all represent significant advancements in leveraging the
+electrification of transportation in a way that creates benefits for all Maryland ratepayers and
+residents. VGIC recommends the Commission approve these pilots with the modifications we
+propose above, to ensure Maryland continues to lead on grid reliability, energy affordability, and
+V2G market development.
+VGIC appreciates the opportunity to provide comments and looks forward to further
+collaboration with stakeholders on these important initiatives.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+8

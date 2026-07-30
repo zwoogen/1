@@ -1,0 +1,194 @@
+June 29, 2026
+Stephan Wollenburg
+Facilitator, CT Bidirectional EV Working Group
+Customized Energy Solutions
+RE: VGIC Comments in Response to Working Group Facilitator’s Request: Proposed
+Rollout Plan, Proposed Incentives, and Island Requirement
+VGIC commends the Bidirectional EV Working Group for a robust and comprehensive process
+to develop a report in response to the Connecticut Public Utilities Regulatory Authority’s
+(PURA’s) December 17th, 2025, final decision in Docket No. 25-08-05. In the decision, PURA
+created the Bidirectional EV Working Group to develop recommendations for incorporating
+bidirectional EVs into Connecticut's Energy Storage Solutions (ESS) Program.
+The working group facilitator requested member feedback on the proposed rollout plan,
+proposed incentives, and island requirement. VGIC welcomes the opportunity to provide these
+comments.
+I. Proposed Rollout Plan
+Over the past several months, stakeholders engaged in facilitated dialogue to address the five
+directives established by PURA: cross-program coordination; technical requirements; program
+terms & conditions; incentive structures; and light-duty vs. med/heavy-duty. At the June 12,
+2026, meeting of the Working Group, the Program Administrators (PAs) shared initial
+recommendations. VGIC welcomes the opportunity to offer our support for the recommendations
+with modifications as discussed below.
+1. Launch the Residential Program for Bidirectional EVs in 2027
+VGIC recommends that PURA direct the PAs to launch residential bidirectional EV participation
+in the ESS Program in 2027, rather than delaying residential participation pending additional
+pilot results. VGIC recognizes the value of the IES (Innovative Energy Solutions) pilots, the
+MassCEC V2X Pilot, and other early deployments in informing future program design. These
+efforts provide important information on installation costs, customer participation, technology
+1
+
+performance, enrollment processes, and implementation challenges. A durable program will
+allow the early momentum from these pilots to support market development.
+Automakers are expanding the availability of vehicles that support grid-aware charging and
+bidirectional capabilities. Major manufacturers, including Ford, General Motors (Chevrolet,
+Cadillac, and GMC), Nissan, Kia, Volvo, and Polestar, are already marketing vehicles with
+features that enable managed charging or bidirectional energy flows. Tesla recently launched its
+PowerShare Grid Support offering in Texas, marking the first large-scale V2G program from a
+major automaker using a lower-cost AC-based architecture. Tesla has also announced plans to
+launch the same offering in California in coordination with the state’s three major investor-
+owned utilities. In addition, manufacturers including Toyota, Honda and Acura, Rivian, Lucid,
+BMW, Volkswagen, and Stellantis have announced plans to introduce bidirectional capabilities
+across upcoming vehicle platforms. These announcements suggest that bidirectional functionality
+will become widely available across most major light-duty EV platforms within the next two to
+three years.
+Charging equipment manufacturers are also bringing new bidirectional products to market.
+Companies including dcbel, Wallbox, Ford, GM Energy, and Tesla already offer bidirectional
+charging systems. Additional manufacturers, including Emporia, ChargePoint, Autel, SolarEdge,
+and Enphase, have announced upcoming products designed to support bidirectional operation.
+For example, Enphase has announced plans to begin volume production of its IQ Bidirectional
+EV Charging Platform in late 2026. Taken together, the industry is primed to deliver
+bidirectional charging solutions to residential customers at scale. By launching residential
+bidirectional EV participation through the ESS Program, Connecticut will send an important
+message to automobile OEMs and charger manufacturers that regulators understand the role
+bidirectional charging can play in supporting a lower-cost and more efficient grid.
+VGIC recognizes that the Working Group identified several residential implementation issues,
+including coordination with managed charging, DERMS integration, enrollment processes,
+customer control, vehicle readiness, and the potential for multiple vendors to be involved at a
+single site. To address these issues, the PAs could initially limit participation through enrollment
+caps, allowing Connecticut to begin building operational experience while managing
+administrative complexity and customer experience risks.
+Launching a residential program in 2027 would position Connecticut as a national leader in
+bidirectional charging policy. It would create a pathway for customers, manufacturers, installers,
+aggregators, and utilities to begin scaling residential bidirectional charging in a controlled and
+transparent manner. It would also ensure that Connecticut captures early learning from actual
+program participation, rather than relying only on pilots or experience from other jurisdictions.
+2
+
+VGIC therefore recommends that PURA direct the PAs to include residential bidirectional EVs
+in the ESS Program beginning in 2027, with a phased implementation structure that can be
+updated as the market matures.
+Approve Proposals 1, 2, & 3 as Presented
+2.
+VGIC supports approval of Proposals 1, 2, and 3 as presented. These proposals provide a
+workable foundation for incorporating bidirectional EVs-EVSE into the ESS Program while
+maintaining appropriate safety, technical, and administrative requirements.
+VGIC supports Proposal 1, which would enroll the EVSE rather than the EV or the combined
+EV-EVSE system in the ESS Program. This approach is administratively practical and consistent
+with how distributed energy resource programs typically qualify and manage grid-connected
+equipment. The EVSE is the appropriate point of program enrollment because it is the equipment
+located at the customer site and connected to the electrical system for interconnection review and
+approval.
+VGIC also supports Proposal 2, which would establish a Qualified Product List for EVSE rather
+than for vehicles. This is the right point of program qualification because the EVSE is the device
+that will interconnect with the customer site and meet the necessary safety requirements for
+interconnection. However, VGIC encourages the PAs to provide clarity on how they define both
+“vehicle-to-grid capable” and “DERMS integration.” The QPL must have explicit and clear
+requirements to avoid confusion and promote transparency.
+VGIC supports Proposal 3, which would require bidirectional EVSE to follow appropriate UL
+1741 certification pathways. DC-connected bidirectional charging systems should be eligible
+through UL 1741 SB, while AC-connected systems should be eligible through the forthcoming
+UL 1741 SC pathway or other applicable UL 1741 SB CRD (certification requirement decision)
+for paired EV/EVSE bidirectional charging system certification pathways. This distinction is
+important because DC and AC bidirectional charging systems are designed, certified, and
+deployed differently. Aligning ESS eligibility with the applicable interconnection certification
+pathways will provide clarity for customers, manufacturers, installers, utilities, and program
+administrators.
+3. Modify Proposal 5 by Eliminating UL 9741 Requirement
+VGIC further supports Proposal 5 with the modification to eliminate the UL 9741 requirement.
+VGIC supports the requirements for bidirectional EVSE to meet applicable safety standards,
+either UL 2202 or UL 2594, as applicable. However, it was recently brought to our attention that
+UL 9741 generally applies to DC-based bidirectional charging systems. Requiring devices to
+3
+
+meet UL 9741 could exclude AC bidirectional charging systems that follow the UL 1741 SC +
+SAE J3072 approach simply because UL 9741 doesn’t cover that system architecture.
+4. Modify Proposal 3 by Delaying ISO 15118-20 Requirement
+As discussed in VGIC’s earlier comments on communications standards, VGIC supports the
+long-term transition toward open, interoperable protocols, including ISO 15118-20 for
+bidirectional power transfer. However, VGIC recommends that PURA modify Proposal 4 by
+delaying any mandatory ISO 15118-20 requirement until third-party certification, testing
+infrastructure, and commercially available compliant products are sufficiently mature. Many
+bidirectional charging systems available today rely on proprietary or alternative communication
+approaches while still supporting safe operation, dispatch, telemetry, customer control, and
+performance verification. Making ISO 15118-20 a near-term eligibility requirement could
+therefore exclude certain commercially available products.
+PURA should establish a defined grace period for bidirectional EVSE that meets the ESS
+Program’s functional requirements but does not yet demonstrate ISO 15118-20 compliance. This
+phased approach would preserve early market momentum while providing a clear signal that the
+program will move toward standardized communication protocols over time. It would also
+maintain the program’s safety and performance foundations by continuing to require applicable
+interconnection, certification, and program-dispatch requirements while avoiding a protocol-
+specific gatekeeping requirement before the market is ready.
+5. Prepare Early for Solar Customer Participation
+PURA should also direct the PAs to prepare early for participation by customers with existing
+solar systems. Residential bidirectional EV adoption is likely to overlap significantly with the
+same customer segment that has already installed rooftop solar, home batteries, smart panels, or
+other distributed energy resources. Early pilots have shown that integrating bidirectional EVs at
+these sites can be more complex than enrolling a stand-alone charger. Utilities, vendors, and
+installers may need to address interactions among solar inverters, EV chargers, backup power
+systems, meters, customer load panels, export limits, netting rules, and program dispatch
+requirements. Without early planning, these issues could slow enrollment, create inconsistent
+customer experiences, or lead to unnecessary interconnection and billing complications.
+VGIC recommends that the PAs use the 2027 launch period to develop clear processes for solar-
+paired bidirectional EV systems. This should include standardized intake questions, installer
+guidance, metering and telemetry requirements, coordination with existing net metering or
+distributed generation tariffs, and clear rules for how bidirectional EV exports will be measured
+and compensated when located behind the same meter as solar. Preparing for solar customer
+4
+
+participation now will allow Connecticut to manage complexity in a controlled manner while
+avoiding the need to redesign the program after customers and vendors are already in the market.
+II. Proposed Incentives
+VGIC supports the PA’s proposed incentive structure, particularly the decision to rely primarily
+on performance-based incentives for bidirectional EV participation in ESS program. This
+approach aligns compensation with the actual grid value delivered during dispatch events, and it
+is consistent with PURA’s direction to move away from higher upfront incentives toward
+Construct 5, which places greater weight on measured performance. Because bidirectional EVs
+are transportation assets first and grid resources second, a performance-based structure
+appropriately rewards customers and aggregators when vehicles are available, enrolled, and
+discharging during system need.
+VGIC also agrees that the incentive design should reflect cost-effectiveness considerations and
+the current maturity of the bidirectional charging market. The bidirectional EV working group
+discussions highlighted the fact that bidirectional EV costs and performance remain uncertain,
+particularly around bidirectional EVSE costs, interconnection, installation complexity, and
+expected event participation. In this context, performance-based incentives provide a practical
+near-term structure that supports commercial deployment while allowing the PA and PURA to
+gather data from early ESS program participation and related pilots. VGIC supports continuing
+to evaluate whether targeted upfront incentives may be appropriate in future program years,
+particularly for residential or priority customer segments, but agrees that the initial structure
+should emphasize performance, administrative simplicity, customer experience, and
+demonstrated cost-effective grid value.
+III. Island Requirement
+VGIC recommends that bidirectional EVs and EVSE be allowed, but not required, to provide
+home backup power or islanding capability as a condition of ESS Program participation. VGIC
+recognizes that resiliency is an important objective of the ESS Program and that islanding
+capability can provide meaningful customer value during outages. However, bidirectional EVs
+can provide grid value to the ESS Program through controlled export during active events even if
+the system does not also provide whole-home or partial-home backup power. Requiring
+islanding capability for all bidirectional EV systems would risk adding cost, installation
+complexity, and customer friction in ways that could slow early market participation without
+improving the system’s ability to deliver performance during ESS dispatch events.
+5
+
+VGIC therefore recommends a flexible approach. Customers who want backup power should be
+permitted to install bidirectional EV systems with islanding capability. However, this capability
+should remain optional. For many customers, the incremental cost and complexity associated
+with backup power may exceed what is needed to safely export to the grid under ESS Program
+dispatch. Making backup power optional would preserve the resiliency pathway for customers
+who value it, while allowing other customers and aggregators to participate with simpler export-
+capable systems that meet applicable safety, interconnection, telemetry, and performance
+requirements. This approach better aligns program eligibility with the core ESS value stream:
+verified discharge during system need.
+IV. Conclusion
+VGIC appreciates the opportunity to participate in the Bidirectional EV Working Group and to
+provide these comments. VGIC supports the overall direction of the recommendations and
+commends the PAs for developing a thoughtful framework that recognizes the technical,
+administrative, and customer-experience issues associated with bringing bidirectional EV into
+the ESS Program.
+Sincerely,
+Steve Letendre, PhD
+Senior Advisor
+Vehicle-Grid Integration Council (VGIC)
+sletendre@vgicouncil.org
+(802) 779-3580
+6

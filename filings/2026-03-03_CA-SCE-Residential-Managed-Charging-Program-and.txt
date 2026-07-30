@@ -1,0 +1,674 @@
+March 3, 2026
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Comments of the Vehicle-Grid Integration Council on Draft Resolution E-
+5452. Southern California Edison Orchestrated Charging
+and Advanced Resiliency for Distribution Vehicle Grid Integration
+Proposal Using Low Carbon Fuel Standard Holdback Revenue
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B the Comment Letter accompanying Draft
+Resolution E-5452, the Vehicle-Grid Integration Council (“VGIC”) respectfully comments on the
+proposed approval with modifications of Southern California Edison’s (“SCE”) Advice Letter 5536-
+E, Southern California Edison’s Request for Approval to Update Its Low Carbon Fuel Standard
+Holdback Revenue Return Implementation Plan to Include a New Vehicle Grid Integration Program
+and to Qualify for Exemption from Public Utilities Code Section 851(“Advice Letter”).
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of vehicle-
+grid integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to a decarbonized transportation and electric sector by ensuring that the value
+of flexible EV charging and discharging is recognized and compensated, thereby achieving a more
+reliable, affordable, and efficient electric grid.
+VGIC strongly supports the Draft Resolution’s approval of the Orchestrated Charging and
+Advanced Resiliency for Distribution (“ORCHARD”) program’s managed charging component.
+The Commission correctly finds that orchestrated load management aligns with Decision 20-12-027
+and with the California Air Resources Board’s updated Low Carbon Fuel Standard (“LCFS”)
+regulations, which identify managed charging and other VGI initiatives as appropriate uses of
+holdback funds. Approving the managed charging portion of ORCHARD represents an important
+step toward achieving the goals articulated in SB 676 to maximize feasible and cost-effective VGI
+by 2030.
+The managed charging component of ORCHARD addresses a real and growing grid need. As EV
+adoption accelerates, secondary distribution peaks driven by synchronized time-of-use (“TOU”)
+charging behavior are becoming more pronounced. Static price signals alone are insufficient to
+mitigate localized transformer and circuit constraints. By layering dynamic, circuit-level
+coordination, ORCHARD can more precisely shape load, defer distribution upgrades, and improve
+overall system efficiency. This type of localized, utility-orchestrated load management is exactly
+
+March 3, 2026
+Page 2
+the kind of scalable demand flexibility resource contemplated in the Commission’s transportation
+electrification and integrated resource planning proceedings.
+While VGIC wholeheartedly supports approval of the managed charging portion of ORCHARD,
+the Draft Resolution errs in rejecting SCE’s proposal to provide targeted incentives for grid-
+parallel bidirectional charging systems. As discussed below, bidirectional functionality unlocks
+additional use cases beyond backup power and is fully consistent with the Commission’s VGI
+objectives and LCFS policy framework.
+II. THE DRAFT RESOLUTION ERRS BY REJECTING THE BIDIRECTIONAL
+CHARGING SYSTEM INCENTIVE PROPOSAL.
+As discussed above, VGIC strongly supports approval of ORCHARD’s managed charging
+component because it enables more precise, circuit-level load coordination and advances the
+Commission’s transportation electrification and reliability objectives. However, the Draft
+Resolution treats managed charging and bidirectional functionality as distinct, unrelated program
+elements rather than complementary components of a comprehensive VGI strategy. If managed
+charging allows the utility to shape when EVs consume electricity, bidirectional charging allows
+EVs to become active grid resources capable of both reducing load and supplying energy during
+constrained periods. In this way, promoting bidirectional charging system adoption unlocks deeper
+response per EV as, for example, a customer can move from simply avoiding 10 kW of load to
+avoiding 10 kW of load and adding 10 kW to the grid, effectively doubling their contribution.
+The Draft Resolution rejects SCE’s proposal to provide incentives for the deployment of grid-
+parallel, or Rule 21-interconnected bidirectional charging systems. SCE’s proposal included an $800
+rebate for bidirectional charging equipment, a number based on the cost of the Rule 21
+interconnection application fee. Additional incentives were also proposed for income-qualified
+customers, up to $7,800. The Draft Resolution states that SCE’s proposal for bidirectional charging
+equipment incentives is “not sufficiently justified,” largely because a Rule 21 interconnection is not
+required to use bidirectional charging systems as solely backup power resources.1
+This reasoning overlooks two critical points. First, ORCHARD is explicitly designed to deliver grid
+and ratepayer value, not merely resiliency benefits for individual customers. There are several
+existing and pending export programs and rates that customers with this equipment could participate
+in to support the grid. Second, grid-parallel bidirectional functionality unlocks incremental
+reliability and system benefits that go far beyond what managed charging alone can achieve. SCE’s
+proposal is appropriately structured to overcome one of the largest barriers to unlocking those
+broader grid services: the upfront costs of purchasing, installing, and interconnecting these systems.
+A. Bidirectional charging can provide significant value for California’s reliability and
+ratepayers.
+1 Draft Resolution at 15.
+
+March 3, 2026
+Page 3
+There is significant value to unlocking grid support value from EVs beyond managed charging and
+load reduction. While managed charging can align EV charging load with real-time grid conditions,
+the maximum EV charging load reduction is fundamentally limited by a customer’s initial plan to
+charge during a given period. However, export opportunities can elicit exports from EVs that may
+not have otherwise planned to charge at all during that period. In other words, the maximum EV
+charging export capability is not limited by a customer’s initial plan to charge during a given
+period, enabling deeper peak system load reductions – in concept, greater than twice as much net
+peak load reduction.
+To provide a more specific example, consider an EV charging at 4 kW during a local or system peak
+period. Managing charging during that window could induce the EV to reduce charging to 0 kW.
+This achieves a corresponding reduction of 4 kW at the local and system level. If exports were
+encouraged during that same period, the EV could stop charging and export power back to the grid
+at, for example 10 kW. Through the addition of exports, this EV provides a total peak load reduction
+of 14 kW (i.e., 4 kW load reduction + 10 kW grid export).
+California has already built an immense catalogue of studies and modeling results showing the value
+of these incremental megawatts:
+• CPUC, Integrated Resource Planning Assumptions: The Commission’s Integrated
+Resource Planning (IRP) modeling estimates that over 13,500 MW of additional capacity
+could be provided by bidirectional charging systems in 2045.2 This is incremental capacity
+beyond what would be offered by managed charging.
+• PG&E, Electrification Impact Study Part 2: PG&E’s Electrification Impact Study Part 2
+found that 859 MW of additional demand flexibility could be unlocked through bidirectional
+EV exports.3 Importantly, this is also fully incremental to the flexibility associated with
+active managed charging.
+• Union of Concerned Scientists, “Harnessing the Power of Electric Vehicles”: A June
+2025 California-specific study by the Union of Concerned Scientists shows that, while
+unidirectional managed charging can save $4.2 billion of system costs by 2045, bidirectional
+charging unlocks an additional $3.5 billion even at a modest 12.5% participation rate in
+bidirectional charging activities (and a 50% participation rate in unidirectional charging
+activities). Increasing bidirectional charging activities to 25% enrollment yields a 60%
+2 California Public Utilities Commission (“CPUC”), Draft Inputs & Assumptions, 2024 – 2026 Integrated Resource
+Planning (IRP) at p.111. https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-
+division/documents/integrated-resource-plan-and-long-term-procurement-plan-irp-ltpp/2024-2026-irp-cycle-events-
+and-materials/2025_draft_inputs_and_assumptions_doc_20250220.pdf
+3 PG&E EIS Part 2 at 34.
+
+March 3, 2026
+Page 4
+increase in benefits compared to exclusively unidirectional charging future.4
+• Stanford University, “Residential vehicle-to-grid profits under dynamic pricing: The
+role of real-world charging behavior”: This study uses real-world EV charging behavior
+data from Volkswagen Group and PG&E’s real-world dynamic export rate pilot price signals
+to assess the opportunity for bidirectional charging customers to support the grid. This study
+is rich with relevant findings, including those quoted below. Notably, the study finds that
+supporting at-home bidirectional charging is more beneficial than “V2G everywhere.”
+Additionally, because the study is based on PG&E’s hourly flex pricing, which closely
+reflects real-time grid conditions and is based only on marginal costs, all modeled customer
+revenue results from customer response that, by definition, yields net positive benefits
+for the grid. In other words, the study finds that EV owners can earn an annual profit of
+$1,181 per EV by exporting only when it is most beneficial to the grid.
+o “…if managed charging is allowed with dynamic pricing, shown in Fig. A.3, savings
+increase but are limited by lack of energy export.”
+o “V2G provides savings compared to baseline charging for all circuits over the entire
+year.”
+o “As this scenario also assumes V2G-capable chargers are installed at every public
+charging station, thus incurring additional installation costs, V2H Home is overall
+more economically viable.”5
+• EV.Energy and Brattle, “The Utility Playbook: Turning EV Grid Risk into a $30
+Billion Opportunity”: This study leverages real-world data from California, New York,
+Colorado, and PJM to inform a U.S.-wide estimate of the avoided costs associated with VGI
+by 2035. The study finds ~$5 billion of avoided costs from passive managed charging, ~$13
+billion from active managed charging, and ~$12 billion from bidirectional charging. This
+equates to $330-$1,320 per bidirectional EV per year, with California likely seeing the upper
+end of that spectrum due to its higher costs relative to the national average.6
+• Electric Power Research Institute (EPRI), “Distribution System Constrained Vehicle-
+to-Grid Services for Improved Grid Stability and Reliability”: This California-specific
+value analysis conducted by the EPRI project team, supported by E3 and several automakers,
+shows a cumulative maximum benefit to the grid of bidirectional charging (net of cost
+4 Samantha Houston, David Reichmuth, and Mark Specht. Harnessing the Power of Electric Vehicles: Vehicle-Grid
+Integration for a Cleaner, Cheaper, More Reliable California Electricity System. June 2025. Union of Concerned
+Scientists. https://doi.org/10.47923/2025.15888. Accessed January 13, 2026.
+5 Sonia Martin, William A. Paxton, and Ram Rajagopal. Residential vehicle-to-grid profits under dynamic pricing: The
+role of real-world charging behavior. March 2026. Advances in Applied Energy.
+https://www.sciencedirect.com/science/article/abs/pii/S0360544225024156?via%3Dihub
+6 William Goldsmith et al., The Utility Playbook: Turning EV Grid Risk into a $30 Billion Opportunity. 2025. EV.Energy
+and Brattle. https://www.ev.energy/en-us/resources/value-of-managed-charging
+
+March 3, 2026
+Page 5
+increment) ranging between $450/year per vehicle to $1,850/year per vehicle. Since
+ratepayers are being required to provide some support for the public PEV charging
+infrastructure, some of these benefits can defray or defer some of the infrastructure upgrade
+costs, thereby limiting upward electricity rate pressure.7
+• Lawrence Livermore National Laboratory, “The Potential Electric Grid Benefits of
+Vehicle-to-Grid Technology in California”: This study demonstrates that incremental
+benefits for California’s grid, meaning the utility’s costs and benefits of serving and
+managing EV charging, equal $337-$1,472 annually per EV for “V2G vs. V1G.”8
+• UC Irvine, “The value of consumer acceptance of controlled electric vehicle charging
+in a decarbonizing grid: The case of California”: This California-specific study finds,
+“that increased participation in smart charging and vehicle-to-grid increases zero-carbon
+generation uptake by up to 5.2% and 11.1%, respectively. The value of smart charging only
+reaches $87 per vehicle-year while that for vehicle-to-grid can reach $2,850 per vehicle-
+year.”9
+• Pacific Northwest National Laboratory, “Assessing the Energy Equity Benefits of
+Mobile Energy Storage Solutions”: This study looks at the value of bidirectional charging
+systems, including personal light-duty vehicles, school buses, and freight trucks, finding that
+EVs can provide at least 3 hours of critical load service not only for onsite loads, but for
+loads on the entire feeder.10
+B. There are a variety of non-backup power bidirectional charging use cases that SCE
+customers can participate in today.
+The Draft Resolution rejects the bidirectional equipment incentive largely because it envisions the
+only use case for bidirectional charging systems being backup power. The Draft Resolution states
+that most bidirectional charging systems sold at the time of SCE’s Advice Letter submittal used their
+bidirectional discharge solely for backup power.11 The Draft Resolution then outlines that Rule 21
+interconnection is not required for bidirectional charging systems being used solely for backup
+power in isolated operation mode, often referred to as a “break-before-make” transfer scheme. It is
+7 Sunil Chhaya, PhD, et al. Distribution System Constrained Vehicle-to-Grid Services for Improved Grid Stability and
+Reliability. CEC. March 2019. https://www.energy.ca.gov/sites/default/files/2021-06/CEC-500-2019-027.pdf
+8 Jonathan Donadee et al. Potential Benefits of Vehicle-to-Grid Technology in California: High Value for Capabilities
+Beyond One-Way Managed Charging. Lawrence Livermore National Laboratory. IEEE Electrification Magazine. June
+2019. https://www.osti.gov/pages/biblio/1557041
+9 Brian Tarroja and Eric Hittinger. The value of consumer acceptance of controlled electric vehicle charging in a
+decarbonizing grid: The case of California. UC Irvine. Energy (Volume 229).
+https://www.sciencedirect.com/science/article/pii/S0360544221009397
+10 Jessica Kerby, et al. Assessing the Energy Equity Benefits of Mobile Energy Storage Solutions 6th E-Mobility Power
+System Integration Symposium October 2022.
+https://www.pnnl.gov/sites/default/files/media/file/Assessing_the_energy_equity_benefits_of_mobile_energy_storage
+_solutions.pdf
+11 Draft Resolution at 15.
+
+March 3, 2026
+Page 6
+true that these systems (i.e., those used solely for backup power in isolated operation mode) are not
+subject Rule 21 interconnection requirements.
+However, backup power use cases provide limited grid benefits. There are other use cases for
+customers to use bidirectional charging equipment that provide the grid and ratepayer value
+described above, including:
+• Bill Savings and Peak Shaving: As discussed by SCE, “Even without export tariffs, V2X
+technology can provide grid benefits and cost-savings to individual customers by
+performing whole home peak shaving during existing TOU peak periods.”12SCE estimates
+that customers could save $500 a year from peak shaving alone.13 For example:
+o In October 2025, Ford stated: “Now, with Ford Home Power Management, in select
+markets where electricity rates change throughout the day, customers that purchase
+the Ford Charge Station Pro, Home Integration System, Home Backup Power
+software, and receive the Home Power Management software enhancement can
+charge their F-150 Lightning with lower cost electricity — often overnight
+during off-peak hours — and then use that stored energy to power their home
+at a later time when grid electricity rates are higher during peak hours.”14
+o In November 2025, Volvo launched its bidirectional charging partnership with
+dcbel. The offering website states: “Powerful. Even when parked. Unlock smart
+home energy with the 2025 Volvo EX90 and dcbel. Up to $1,300 estimated yearly
+energy savings by powering your home with your EVs in California.”15
+• Export Rate Potential: At the time of the original Advice Letter filing, SCE had proposed
+a new export compensation rate, the Vehicle Grid Resource Proposal (“VGRP”). However,
+stakeholders were still providing input on the proposal. In September, parties came to a
+VGRP settlement agreement, which outlines a comprehensive export compensation rate to
+allow customers to provide exports to the grid based on a static pricing schedule. VGRP
+may initially enroll up to 100,000 residential customers and will allow unlimited enrollment
+from non-residential customers. Additionally, SCE is currently designing its dynamic rates
+for Load Management Standard (“LMS”) compliance, which can include export
+compensation, which is referenced in the original Advice Letter.16 While the Draft
+Resolution states that the Dynamic Rate pilot will not have sufficient funds for bidirectional
+ORCHARD participants,17 the LMS Dynamic Rate will be an optional rate open to all
+customers that can enroll ORCHARD participants. While both rates are still pending
+12 SCE Advice Letter at 29
+13 SCE Advice Letter at 23
+14 Bill Crider. Your Next Side Hustle Might Come from Your Parked Electric Vehicle. Ford From the Road. October 28,
+2025. https://www.fromtheroad.ford.com/us/en/articles/2025/introducing-ford-home-power-management
+15 https://volvo.dcbel.energy/. Accessed February 25, 2026.
+16 SCE Advice Letter at 12.
+17 Draft Resolution at 16.
+
+March 3, 2026
+Page 7
+Commission approval, VGIC expects a decision on VGRP in Spring 2026, which will
+provide sufficient time for ORCHARD customers to participate in the rate.
+• Demand Response Participation: Bidirectional charging customers in California are
+currently participating in California’s Emergency Load Reduction Program (“ELRP”) and
+the Demand Side Grid Support (“DSGS”) program. While both offerings are currently
+limited in timeframe, there is a potential for ELRP to be extended through 2028 and DSGS
+to be provided additional funding from the Legislature.18
+While bidirectional compensation options remain limited, active work is being done to expand the
+compensation options for customers. Instead of removing the bidirectional incentives from
+ORCHARD, the Commission should work to expand program offerings for these customers in this
+procedural venue or others, such as the current Dynamic Rate Application (for SCE, A.24-06-014,
+et al.) or the Demand Response proceeding (R.25-09-004). Alternatively, the Commission could
+authorize ORCHARD funding to be used to provide forms of export compensation for customers,
+which VGIC suggested in response to the Advice Letter.19 Yet another option would be to require
+customers participate in some form of export rate or program, whether that be VGRP, LMS-
+compliant dynamic export rate, ELRP, DSGS, or some other option, in order to be eligible to receive
+the funding. The Commission could also approve the funding under the condition that there must be
+a live export opportunity in order for SCE to offer the incentive to customers. Regardless of future
+action, the Commission should authorize SCE’s bidirectional incentives to ensure that ORCHARD
+participants are positioned to participate in these evolving market opportunities and avoid missing
+the opportunity to stimulate adoption of grid-supportive bidirectional charging solutions, shown to
+yield grid benefits through the extensive research referenced in Section II.A. above.
+C. Bidirectional charging systems are currently being offered to customers for operations in
+grid parallel mode.
+There are a wide variety of EV and charger models that allow customers to operate in bidirectional
+mode when in parallel with the grid. The Draft Resolution expresses doubts that automotive OEMs
+would enable bidirectional functionality outside of a backup power use case, but in the past year the
+number of models with this functionality has increased significantly.
+Appendix A summarizes vehicles offering grid-parallel bidirectional functionality, including 24
+models on the market today from 14 automakers, with four additional models from four more
+automakers announced for upcoming release.20 In total, the list in Appendix A indicates that there
+are an estimated 215,465 light-duty vehicles and 1,890 electric school buses in California that offer
+18 See ELRP and DSGS Trailer Bill Language at https://trailerbill.dof.ca.gov/public/trailerBill/pdf/1398 and
+https://trailerbill.dof.ca.gov/public/trailerBill/pdf/1397, respectively.
+19 VGIC Response to Advice Letter 5536-E at 4.
+20 See the full set of data in Appendix A.
+
+March 3, 2026
+Page 8
+bidirectional charging features. Assuming SCE contains 33% of the state’s EVs, an estimated 71,727
+such vehicles may already be in SCE’s service territory.21
+Appendix A also discusses available bidirectional EVSE. Notably, nearly every bidirectional
+charging system currently listed in the light-duty segment is certified to UL 1741 SB.22 In the
+medium- and heavy-duty segment, all listed bidirectional charging systems are certified to UL 1741
+SB. This certification ensures compliance with IEEE 1547-2018 and facilitates interconnection
+under Rule 21. Nearly all of the bidirectional charging system models listed in Appendix A have
+been enabled for bidirectional operation in parallel with the grid under certain California programs,
+including the Emergency Load Reduction Program, Demand Side Grid Support Program, CEC’s
+REDWDS initiative, and PG&E’s Hourly Flex Pricing (via PG&E’s Vehicle-to-Everything Pilot).
+In order to allow customers to operate their bidirectional charging systems in grid-parallel mode,
+those features must be enabled, which requires the appropriate hardware and software activation
+after the appropriate utility interconnection study and agreement process is completed.
+The Draft Resolution expresses concerns around “the likelihood of whether customers will want to
+enable the grid-parallel functionality.”23 However, SCE has surveyed customers and provided
+empirical evidence of customer acceptance and appetite for “V2G energy exports,” with 81% of
+SCE’s surveyed customers expressing at least “a little interested” and 16% of customers stating they
+are “very interested.”24 This level of customer interest makes SCE’s bidirectional enrollment goal
+of 8,700 in ORCHARD very reasonable. Additionally, VGIC today filed a set of Joint Comments
+with 36 other stakeholders, including customer groups, indicating interest in grid-parallel
+bidirectional charging features.
+D. Other States Are Actively Incentivizing Grid-Parallel Bidirectional Charging.
+California utilities are not alone in seeking to unlock bidirectional charging value. Utilities and
+policymakers in multiple states are proactively addressing the upfront costs and equipment barriers
+to enable grid-parallel bidirectional EVs.
+• National Grid’s Proposed Enhanced V2G Equipment Incentives: Pending approval of
+the Massachusetts Department of Public Utilities, National Grid plans to offer ratepayer-
+funded enhanced incentives to support grid-parallel bidirectional charging systems, for both
+residential (up to $2,500) and non-residential customers. Customers receiving the incentives
+must participate in the ConnectedSolutions program – a demand response program that
+allows for exports, similar to ELRP or DSGS – to provide value to the grid during times of
+21 Prepared Testimony of Sylvie Ashford Addressing Southern California Edison’s Test Year 2025 General Rate Case
+Load Growth Investments. A.23-05-010. TURN-07. Page 11-13.
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2305010/7090/526146968.pdf
+22 The Tesla Powershare system, currently available for Cybertruck drivers, is not yet certified to UL 1741 SB.
+23 Draft Resolution at 16.
+24 SCE, Phase 2 of 2025 General Rate Case Amended Rate Design Proposals (SCE-04A) at p. 125, lines 10-16, served
+to A.24-03-019 on August 26, 2024. https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7663/538693971.pdf
+
+March 3, 2026
+Page 9
+stress.25
+• Connecticut Innovative Energy Solutions: The Connecticut Innovative Energy Solutions
+program, overseen by the Public Utilities Regulatory Authority (funded by Connecticut
+ratepayers) is supporting residential bidirectional chargers to provide virtual power plant
+services to the grid.26 Up to $10,800 in incentives for bidirectional equipment is being
+provided to help offset the upfront equipment costs.27
+• MassCEC V2X Demonstration Program: This $6 million project covers all upfront costs
+of bidirectional charging equipment and installation for up to 100 residential, commercial,
+and school bus customers in Massachusetts.28
+These programs share a common principle: bidirectional EVs are treated as distributed energy
+resources capable of delivering incremental reliability and system benefits when enabled for grid-
+parallel operation. Utilities are not limiting these technologies to backup-only use cases; rather, they
+are proactively removing barriers and designing pathways for participation in demand response,
+capacity, and export programs.
+SCE’s request is in line with these goals. Approving the bidirectional incentive would align
+California with established utility practice nationwide and ensure that ORCHARD captures the full
+grid value of EVs consistent with SB 676 and the Commission’s broader VGI objectives.
+E. SCE’s ORCHARD proposal resolves one of the biggest barriers to unlocking additional
+bidirectional charger adoption and operationalization.
+In order to unlock bidirectional charging for grid services in California, key barriers will need to be
+removed. One of the most significant barriers in California is the high upfront costs specific to
+California, including the $800 Rule 21 interconnection application fee.
+The current Rule 21 interconnection application fee for small bidirectional charging systems is
+disproportionately high. Notably, this fee significantly exceeds those charged by utilities in other
+25 Massachusetts Electric Company and Nantucket Electric Company, each d/b/a National Grid, Pre-Filed Direct
+Testimony of Julia Gold Christopher Coy and Jenna Gould (Exhibit NG-EVPP-1), December 30, 2025, Docket No.
+D.P.U. 25-189
+https://fileservice.eea.comacloud.net/V3.1.0/FileService.Api/file//aeijjidej?A3keHyyU6XwgzbntVM/zSemplo6W2bD
+Yt6kv4l+nvFGPcSxI+blU344Khxm+qpOeg0hKFj9M9l/xQR8+/8GqPvdGgrFe6XR6ngIfa80wd3rxFD8G4j981M2Rn
+a9aVTXA
+26 Innovative Energy Solutions, Cycle 2 Awarded Projects, https://ct-ies.com/cycle-2-awarded-projects/ Accessed
+February 25, 2026.
+27Information from Bidirectional Energy at https://www.bidirectional.energy/learn/connecticut. Accessed February 25,
+2026.
+28 Massachusetts Clean Energy Center. Vehicle-to-Everything Demonstration Projects.
+https://www.masscec.com/masscec-focus/clean-transportation/electric-vehicle-charging-infrastructure/vehicle-to-
+everything-demonstration. Accessed February 25, 2026.
+
+March 3, 2026
+Page 10
+states, in most cases by 800%29 and greatly exceeds the standard $94 fee charged by SCE for
+similarly-sized rooftop solar customers (i.e., Net Energy Metering or Net Billing Tariff customers)
+– which may even use the same inverter model as bidirectional charging customers. These fees have
+an outsized impact on bidirectional charging systems, which have relatively lower upfront costs
+compared to stationary energy storage systems, rooftop solar PV, or other DERs interconnecting
+under Rule 21. Since customers are purchasing EVs for transportation uses, the incremental costs to
+unlock bidirectional charging features are typically only the cost of the bidirectional charger and
+interconnection. As a result, the $800 interconnection application fee comprises one of the most
+significant upfront costs for bidirectional charging systems and, in turn, a significant barrier to
+widespread bidirectional charging system deployment.
+The ORCHARD proposal for an $800 incentive is therefore extremely meaningful to unlocking
+grid-parallel bidirectional charging features and participation. Low-income customers face greater
+barriers to adopting distributed energy resources, and SCE’s plan to offer up to $7,800 in additional
+incentives for income-qualified customers to help offset other equipment costs ensures equitable
+access to bidirectional charging systems and the customer-oriented benefits it brings, like lower total
+cost of ownership. The Commission should therefore amend the Draft Resolution to approve SCE’s
+proposal.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to the Draft Resolution. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+29 See Comments of the Vehicle-Grid Integration Council on Order Instituting Rulemaking to Update Distribution
+Level Interconnection Rules and Regulations. R.25-08-004. Filed October 20, 2025. Attachment A: List of
+Interconnection Fees by State/Utility.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/68f6e79ed70c7c16ccb997ca/1761011614259/202
+5-10-20+VGIC+Comments+on+Rule+21+2025+OIR+and+Attachment+-+FINAL.pdf
+
+Appendix A
+Table 1: EV and EVSE on California’s roads that can be enabled to operate in bidirectional
+mode when operating in parallel with the grid
+Product Notes Estimated Vehicle Sales
+in California
+Nissan LEAF - MY 2013 or later. 54,304 total registered
+- Bidirectional charging enabled from 2013 through Q3
+with dcbel Ara.30 2025.31
+Ford F-150 Lightning Electric - Bidirectional charging enabled Estimated 35,877 total
+with Ford Charge Station Pro delivered through Q4
+and Home Integration System.32 2025.33 Ford customers
+cannot do bidirectional
+charging without the
+associated hardware,
+software, and activation.
+Chevrolet Bolt EV - MY 2027. Estimated 0 delivered
+- Bidirectional charging enabled through 2025.35
+with GM Energy PowerShift.34
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+30 dcbel, California Energy Commission. California Connected Home Rebate. Accessed January 13, 2026.
+https://redwds.dcbel.energy/
+31 California Energy Commission (2026). New_ZEV_Sales_updated_10-13-2025_ada.xlsx. ZEV and Infrastructure
+Stats Data. Data last updated October 13, 2025. Retrieved January 16, 2026 from https://www.energy.ca.gov/files/zev-
+and-infrastructure-stats-data.
+32 Bill Crider. Your Next Side Hustle Might Come from Your Parked Electric Vehicle. Ford From the Road. October 28,
+2025. https://www.fromtheroad.ford.com/us/en/articles/2025/introducing-ford-home-power-management
+33 Ford. Q4 2025 Sales Release. https://s205.q4cdn.com/882619693/files/doc_news/2026/Jan/06/Ford-U-S-Q4-2025-
+Sales-Release.pdf. Q4 2024 Sales Release https://s205.q4cdn.com/882619693/files/doc_news/2025/Jan/03/Ford-U-S-
+Q4-2024-Sales-Release.pdf. Q4 2023 Sales Release.
+https://s205.q4cdn.com/882619693/files/doc_news/2024/Jan/04/q4-2023-sales-final.pdf. YTD 2022, 2023, 2024, and
+2025 Ford F-150 Lightning deliveries total 100,149. Assumes California comprises 35.82% of all vehicle deliveries,
+based on Veloz’s California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and
+6,889,728 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+34 GM Energy. V2H-Capable GM EVs. Accessed January 13, 2026. https://gmenergy.gm.com/
+35 Jameson Dow. The new $29k 2027 Chevy Bolt is now in dealerships, get it before it’s gone again. January 9, 2026.
+https://electrek.co/2026/01/09/the-refreshed-2027-chevy-bolt-is-hitting-dealerships-get-it-before-its-gone-again/
+A-1
+
+Chevrolet Silverado EV - MY 2024, 2025, and 2026. Estimated 6,865 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.36
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+Chevrolet Equinox EV - MY 2024, 2025, and 2026. Estimated 31,098 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.37
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+Chevrolet Blazer EV - MY 2024, 2025, and 2026. Estimated 16,561 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.38
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+GMC Hummer EV SUT - MY 2026. Estimated 5,655 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.39
+36 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-4a6e-
+82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-aaf9-4141-
+b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+37 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-4a6e-
+82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-aaf9-4141-
+b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+38 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-4a6e-
+82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-aaf9-4141-
+b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+39 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-4a6e-
+82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-aaf9-4141-
+A-2
+
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+GMC Sierra EV - MY 2024, 2025, and 2026. Estimated 3,505 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.40
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+Cadillac CELESTIQ - MY 2026. Estimated very few.
+- Bidirectional charging enabled CELESTIQ first delivered
+with GM Energy PowerShift. in mid-2025.41
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+Cadillac VISTIQ - MY 2026. Estimated 2,822 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.42
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+40 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-4a6e-
+82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-aaf9-4141-
+b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+41 GM News. First Cadillac CELESTIQ delivered, marking a new era for the Standard of the World. June 24, 2025.
+https://news.gm.com/home.detail.html/Pages/topic/us/en/2025/jun/0624-First-Cadillac-CELESTIQ-delivered.html
+42 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-4a6e-
+82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-aaf9-4141-
+b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+A-3
+
+Cadillac ESCALADE IQ - MY 2025 and 2026. Estimated 3,146 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.43
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+Cadillac OPTIQ - MY 2025 and 2026. Estimated 4,365 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.44
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+Cadillac LYRIQ - MY 2024, 2025, and 2026. Estimated 20,964 total
+- Bidirectional charging enabled delivered through Q4
+with GM Energy PowerShift. 2025.45
+- Although GM does not
+explicitly advertise grid-parallel
+bidirectional charging, the GM
+Energy V2X Enablement Kit
+does include a UL 1741 SB
+certified inverter.
+43 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-4a6e-
+82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-aaf9-4141-
+b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+44 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-4a6e-
+82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-aaf9-4141-
+b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+45 General Motors. GM U.S. Deliveries for Quarter 4 2025. https://investor.gm.com/static-files/23adce96-ea26-4a6e-
+82dd-68a0042df51c. GM U.S. Deliveries for Quarter 4 2024. https://investor.gm.com/static-files/e1bb38a4-aaf9-4141-
+b44a-4c61c1f2ec54. Assumes California comprises 35.82% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales and 6,889,728 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+A-4
+
+Tesla Cybertruck - Bidirectional charging enabled 14,360 total registered
+with Tesla Universal Wall through Q3 2025.47
+Connector.46
+Kia EV9 - Bidirectional charging enabled Estimated 13,277 total
+with Wallbox Quasar 2.48 delivered through Q4
+2025.49
+Volvo EX90 - Bidirectional charging enabled Estimated 1,708 total
+with dcbel Ara.50 delivered through Q4
+2025.51
+Polestar 3 - Bidirectional charging enabled 958 total registered
+with dcbel Ara.52 through Q3 2025.53
+BlueBird - 155 kWh or 196 kWh school 915 through Q4 2024.55
+buses54
+46 Tesla. Powershare. Accessed January 13, 2026. https://www.tesla.com/powershare
+47 California Energy Commission (2026). New_ZEV_Sales_updated_10-13-2025_ada.xlsx. ZEV and Infrastructure
+Stats Data. Data last updated October 13, 2025. Retrieved January 16, 2026 from https://www.energy.ca.gov/files/zev-
+and-infrastructure-stats-data.
+48 Kia EV9 x Wallbox Quasar 2. Accessed January 13, 2026. https://wallbox.com/en_us/kia-ev9-quasar-2
+49 Best-Selling Cars. 2025 (Full Year) USA: Kia America US Car Sales by Model. https://www.best-selling-
+cars.com/usa/2025-full-year-usa-kia-america-us-car-sales-by-model/. Assumes California comprises 35.82% of all
+vehicle deliveries, based on Veloz’s California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV
+sales and 6,889,728 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+50 dcbel, California Energy Commission. California Connected Home Rebate. Accessed January 13, 2026.
+https://redwds.dcbel.energy/
+51 Volvo Cars. Sales Volumes: United States – Retail Sales by Car Model – December 2025. Accessed January 16, 2026.
+https://www.volvocars.com/us/media/corporate/sales-volumes/. Assumes California comprises 35.82% of all vehicle
+deliveries, based on Veloz’s California EV Market Report, accessed January 16, 2026, listing 2,468,158 CA EV sales
+and 6,889,728 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+52 dcbel, California Energy Commission. California Connected Home Rebate. Accessed January 13, 2026.
+https://redwds.dcbel.energy/
+53 California Energy Commission (2026). New_ZEV_Sales_updated_10-13-2025_ada.xlsx. ZEV and Infrastructure
+Stats Data. Data last updated October 13, 2025. Retrieved January 16, 2026 from https://www.energy.ca.gov/files/zev-
+and-infrastructure-stats-data.
+54 BusinessWire. Blue Bird Receives Record Order of 180 Electric School Buses. January 16, 2024.
+https://www.businesswire.com/news/home/20240116715215/en/Blue-Bird-Receives-Record-Order-of-180-Electric-
+School-Buses
+55 California Energy Commission (2026). Medium_Heavy_Duty_Vehicle_Population_Last_updated_04-30-
+2025_ada.xlsx. ZEV and Infrastructure Stats Data. Data last updated April 30, 2025. Retrieved January 16, 2026 from
+https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+A-5
+
+BYD / RIDE - 156 kWh, 230 kWh, or 288 127 through Q4 2024.57
+kWh school buses56
+IC Bus - 210 kWh or 315 kWh school 731 through Q4 2024.59
+buses58
+Green Power Motors - 118 kWh or 193 kWh school 117 through Q4 2024.61
+buses60
+Thomas Built Buses - 226 kWh school buses62 Unknown
+Tellus Power Green - 20, 30, 40, or 60 kW EVSE63 Unknown
+InCharge - 22, 44, or 66 kW EVSE64 Unknown
+Heliox - 60 kW EVSE65 Unknown
+In addition to the above-listed currently available solutions, the following EVs are associated with
+announced, but not yet available, bidirectional charging features: Hyundai Ioniq 9,66 Kia EV6,67
+Acura RSX,68 and Rivian R2.69 EVSE manufacturers that have announced but not yet released
+56 PG&E. Vehicle-to-Everything (V2X) pilot program: Eligible Product List for the V2X Commercial Pilot.
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-
+v2x-pilot-programs.html. Retrieved January 13, 2026.
+57 California Energy Commission (2026). Medium_Heavy_Duty_Vehicle_Population_Last_updated_04-30-
+2025_ada.xlsx. ZEV and Infrastructure Stats Data. Data last updated April 30, 2025. Retrieved January 16, 2026 from
+https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+58 IC Bus. Electric CE Series School Bus. https://www.icbus.com/-
+/media/Project/Navistar/ICBus/ICBus/electric_ce_series_brochure_spread_format.pdf. Retrieved January 7, 2025.
+59 California Energy Commission (2026). Medium_Heavy_Duty_Vehicle_Population_Last_updated_04-30-
+2025_ada.xlsx. ZEV and Infrastructure Stats Data. Data last updated April 30, 2025. Retrieved January 16, 2026 from
+https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+60 California HVIP. School Bus: Vehicle Type – ZESBI $ Eligible. https://californiahvip.org/vehicle-category/school-
+bus/?type=655. Retrieved January 7, 2025.
+61 California Energy Commission (2026). Medium_Heavy_Duty_Vehicle_Population_Last_updated_04-30-
+2025_ada.xlsx. ZEV and Infrastructure Stats Data. Data last updated April 30, 2025. Retrieved January 16, 2026 from
+https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+62 Thomas Built Buses, Retrieved March 3, 2026 from https://thomasbuiltbuses.com/electric-school-buses/utility-
+providers/
+63 PG&E. Vehicle-to-Everything (V2X) pilot program: Eligible Product List for the V2X Commercial Pilot.
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-
+v2x-pilot-programs.html. Retrieved January 7, 2025.
+64 InCharge. Chargers & Hardware. https://inchargeus.com/chargers/. Retrieved January 7, 2025.
+65 Heliox. Heliox 60 kW. https://www.heliox-energy.com/us-products/60-kw-dc-charger. Retrieved January 7, 2025.
+66 Hyundai. Hyundai Motor Group Expands EV Energy Services with Vehicle to Grid and Vehicle to Home. November
+28, 2025. https://www.hyundainews.com/releases/4634
+67 Ibid.
+68 Honda. Honda Highlights Home and Vehicle Energy Management Technologies at RE+ 25. September 3, 2025.
+https://hondanews.com/en-US/releases/honda-highlights-home-and-vehicle-energy-management-technologies-at-re-25
+69 EV.com. $45,000 Rivian R2 Will Power Homes With New Bidirectional Charging Technology. November 6, 2025.
+https://ev.com/news/45000-rivian-r2-will-power-homes-with-new-bidirectional-charging-technology
+A-6
+
+bidirectional charging solutions include: Emporia,70 ChargePoint,71 Enphase,72 SolarEdge, and
+Autel.
+70 Emporia. Coming Soon: V2X Bi-Directional Charger. Accessed January 13, 2026.
+https://www.emporiaenergy.com/how-the-emporia-v2x-charger-works/
+71 ChargePoint. ChargePoint and Eaton launch breakthrough ultrafast DC V2G chargers and power infrastructure to
+accelerate the future of EV charging. August 28, 2025. https://www.chargepoint.com/about/news/chargepoint-and-
+eaton-launch-breakthrough-ultrafast-dc-v2g-chargers-and-power
+72 Enphase. IQ Bidirectional EV Charger. Accessed January 13, 2026. https://enphase.com/ev-chargers/bidirectional
+A-7

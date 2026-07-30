@@ -1,0 +1,389 @@
+Steve Letendre, PhD
+Senior Advisor
+Vehicle Grid Integration Council
+1401 21st Street, #5409
+Sacramento, CA 95811
+sletendre@vgicouncil.org
+(802) 779-3580
+December 8, 2025
+VIA DMM
+Hon. Michelle L. Phillips
+Secretary to the Commission
+New York State Public Service Commission
+Empire State Plaza
+Agency Building 3
+Albany, NY 12223-1350
+Re: Case 18-E-0138 – Proceeding on Motion of the Commission Regarding Electric
+Vehicle Supply Equipment and Infrastructure
+Dear Secretary Phillips:
+The Vehicle Grid Integration Council hereby submits comments for filing on the Technical
+Standards Working Group Report, which addresses electric vehicle supply equipment and
+telematics metering accuracy for managed EV charging programs. In addition, VGIC’s
+comments include responses to the broader set of questions posed by DPS Staff.
+Respectfully submitted,
+
+STATE OF NEW YORK
+PUBLIC SERVICE COMMISSION
+_________________________________________
+Proceeding on Motion of the Commission
+Regarding Electric Vehicle Supply Case 18-E-0138
+Equipment and Infrastructure
+_________________________________________
+COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL (VGIC) ON THE
+TECHNICAL STANDARDS WORKING GROUP REPORT ADDRESSING
+EVSE AND TELEMATICS ACCURACY AND DPS STAFF QUESTIONS
+I.
+INTRODUCTION
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based advocacy
+organization committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring that the value from
+EV deployments, and from flexible EV charging and discharging, is recognized, compensated,
+and aligned with a more reliable, affordable, and efficient electric grid.
+Transportation electrification is central to meeting New York’s Climate Leadership and
+Community Protection Act (CLCPA) requirements, and the state’s rising EV adoption
+underscores the urgency of ensuring that this transition strengthens, not strains, the electric grid.
+The Grid Flexibility Study, prepared for the Department of Public Service (DPS) and New York
+State Energy Research and Development Authority (NYSERDA) in January 2025, found that
+electric vehicles are expected to become the largest source of grid flexibility in both 2030 and
+2040, providing more system value than any other behind-the-meter resource. This finding
+highlights the critical role that managed charging programs, and eventually bidirectional
+charging, will play in enabling EVs to reliably shift or shed load during the system’s highest-
+value hours. As millions of EVs connect to the grid over the next decade, managed and
+bidirectional charging programs will be essential to unlocking this flexibility, reducing peak
+demand, improving system affordability, and enhancing resiliency while supporting the state’s
+clean-energy mandates.
+VGIC appreciates the opportunity to provide comments on the Technical Standards Working
+Group Report (TSWG Report), which addresses electric vehicle supply equipment (EVSE) and
+telematics accuracy testing methodology. In addition, VGIC responds below to the broader set of
+questions posed by DPS Staff, which extend beyond accuracy alone and include the
+Commission’s and joint utilities’ (JU’s) potential roles in standards development and design
+considerations for managed charging programs.
+1
+
+II.
+COMMENTS ON THE TSWG REPORT
+VGIC appreciates the DPS Staff and Joint Utilities’ important work in developing a standardized
+test method, demonstrated through a limited set of EVSE and telematics samples, for assessing
+the accuracy of EV charging data. The development of this test method is an important first step
+into advancing managed charging programs.
+A. Summary of VGIC’s Position
+The TSWG Report recommends that New York should not adopt any accuracy or metering
+standards at this time, citing significant gaps in national standards and the risk of constraining
+program participation. Our key positions in response to this recommendation and related next
+steps are summarized below and expanded in the following section:
+• VGIC supports Staff Option #5 (Status Quo) as the appropriate near-term
+approach. EVSE and telematics-based participation must remain eligible for
+managed charging programs until standards are mature. Keeping current managed
+charging program participation pathways open maintains the broad customer
+engagement necessary to continue scaling managed charging programs statewide.
+• The EPRI exercise on EVSE and telemetry data accuracy provides useful
+exploratory insights but is far too limited in scope, sample size, and methodology
+to support broad conclusions about the accuracy of EVSE or telematics systems
+data for use in managed charging programs or submetering. Notably, the exercise
+was never intended to do so, instead it was launched to establish a methodology
+for testing devices, rather than conducting widespread testing to yield definitive
+conclusions about accuracy.
+• New York should avoid adopting state-specific accuracy requirements for
+telematics and EVSE at this time, consistent with the TSWG’s finding that
+existing standards are incomplete and that premature adoption “would unduly
+limit program participation.”
+• National standards alignment must form the foundation of New York’s future
+EVSE and EV submetering roadmap. As DPS develops a roadmap, metering
+requirements should be matched to today’s program needs, while any future EV-
+specific TOU rates will necessitate adoption of a revenue-grade national standard.
+• While NIST Handbook 44 provides a well-established accuracy standard for
+EVSE submetering, requiring compliance now would significantly restrict
+participation because most residential chargers on the market are not yet certified
+to this standard. However, if New York requires revenue-grade metering for EV-
+specific TOU rates, the NIST 44 accuracy standard should serve as the
+appropriate, nationally recognized framework for EVSE metering accuracy,
+consistent with what’s been adopted outside of New York.
+• The Commission and utilities should not only monitor but actively lead and
+contribute to regional or national policy development (for Commission) and
+2
+
+standards development (for utilities) efforts to ensure that emerging frameworks
+reflect practical program needs, support broad participation, and enable a clear,
+scalable pathway for future implementation in New York.
+• VGIC offers detailed responses to DPS Staff’s six questions in each of the three
+categories: Standards Development, Data Opacity & Accuracy, and Programatic
+Options.
+B. Detailed Comments on the TSWG Report
+The TSWG Report provides an important foundation for understanding how EVSE- and
+telematics-reported charging data can be evaluated and compared using a consistent
+methodological framework. While the results to date are based on limited samples and are not
+intended to represent a comprehensive market-wide assessment, the work nonetheless highlights
+several critical considerations for New York as it seeks to expand managed charging programs
+and tap into emerging bidirectional charging capabilities. VGIC’s detailed comments below
+expand on these considerations and outline priority actions for DPS, emphasizing the need to
+maintain broad program participation today while establishing a forward-looking pathway
+toward standardized approaches to EV chargin metering.
+1. Support for Staff Option #5 (Status Quo) and Continued Broad Participation
+VGIC supports Staff’s Option #5 (Status Quo) as the most appropriate near-term approach for
+utility-managed charging programs, while emphasizing that maintaining the status quo does not
+mean pausing progress. In fact, it does just the opposite, allowing New York to preserve broad
+participation in managed charging programs and yield the resulting critical learnings about
+customer engagement, utility operations and planning, and system impact, while continuing to
+advance the foundational work needed for future standards-aligned metering. In practice, this
+means maintaining broad enrollment pathways while DPS moves forward with:
+(a) Adopting an EV- and EVSE-based submetering roadmap aligned with emerging
+national standards (as detailed by VGIC below in Section 3;
+(b) Directing utility representation in standards development; and
+(c) Preparing for future submetering capabilities for bidirectional charging use cases.
+Option #5 protects customer participation at a critical moment in the State’s transportation
+electrification efforts. Any approach that reduces incentives for telematics users, requires
+immediate hardware changes, or imposes technology-specific penalties would disproportionately
+affect customers with limited ability to install new EVSE, such as renters, residents of multi-unit
+dwellings, rideshare drivers, and others dependent on public charging. These customers currently
+rely on telematics pathways to participate in managed charging programs. Restricting their
+access would undermine enrollment and reduce the system-wide benefits that managed charging
+programs are intended to deliver, including peak load reduction and improved grid utilization.
+3
+
+2. Ensure Design Flexibility as Standards Mature
+VGIC agrees with DPS Staff that maintaining broad and accessible participation in managed
+charging programs is essential as standards evolve. The accuracy findings referenced in the
+TSWG Report stem from the EPRI study, which evaluated a limited sample of EVSE and
+telematics devices to demonstrate and validate a testing methodology, not to provide a
+comprehensive market-wide assessment. These preliminary results do not justify narrowing
+eligibility or penalizing customers who rely on telematics-based participation, nor do they justify
+definitive conclusions that EVSE and/or EV-based metering should not be used in New York.
+Notably, California customers use EVSE-based submetering to take advantage of compelling
+EV-specific rates, leveraging the accuracy standard established in NIST Handbook 44, which
+requires deviations less than 1% in a lab and 2% in the field. For New York to determine that
+EVSE-based measurement, in particular, is not appropriate for use would be inconsistent with
+what is being done elsewhere.
+Moreover, at this stage of market development, managed charging programs must prioritize
+inclusivity and accessibility. Restricting participation based on interim accuracy concerns –
+especially those demonstrated by a very small sample of EV and EVSE-based measurement –
+would risk slowing transportation electrification and undermining customer engagement at a
+moment when participation habits and program familiarity are still forming.
+The EPRI study offers helpful exploratory data, but its limited scope (i.e., three EVs, three
+telematics providers, four EVSEs, and the use of an upstream reference meter that inherently
+captures wiring losses), means it cannot support definitive conclusions about the suitability of
+EVSE or telematics for submetering or managed charging accuracy. The report itself
+acknowledges that it did not develop performance standards and was not intended to certify
+equipment performance, underscoring that its findings should not be used to restrict
+participation pathways.
+When revenue-grade submetering becomes necessary for EV-specific rates, VGIC recommends
+that DPS adopt the NIST Handbook 44 accuracy requirements already used in California1, which
+provide a clear, nationally recognized standard for EVSE submetering. This certification
+requirement should apply only to use cases that truly require revenue-grade accuracy, and should
+not be imposed on managed charging programs where it would unnecessarily limit participation.
+For many drivers, telematics remains the most practical and affordable pathway into managed
+charging programs. This is especially true for customers reliant on public charging, renters,
+residents of multi-unit dwellings, rideshare drivers, and others who may not have the ability or
+financial means to install smart EVSE hardware. Several of the approaches outlined by DPS
+Staff as potential paths forward, such as incentive buffers, technology-specific penalties, or
+1 See California Public Utilities Commission, Plug-In Electric Vehicle (PEV) Submetering, available at
+https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/infrastructure/transportation-
+electrification/electricity-rates-and-cost-of-fueling/plug-in-electric-vehicle-submetering.
+4
+
+differentiated incentive levels based on device type, would disproportionately affect these
+customers and introduce unnecessary inequities into program design. Additionally, program
+administration would be made more complex through these options, as they effectively require
+each utility to maintain two programs: one for EVSE-based participation and one for EV-based
+participation. While intended to address the accuracy concerns identified in the EPRI report,
+these measures risk signaling that customers may need to purchase new hardware to participate
+fully in managed charging programs, dampening participation, slowing the adoption curve that
+the State aims to accelerate, and imposing cost concerns on customers amid an affordability
+crisis.
+The DPS should maintain a strong commitment to technology-neutral program enrollment
+pathways, until and unless EV-specific residential rates become available in New York. Keeping
+program rules flexible preserves participation while allowing New York to transition smoothly to
+standards-based approaches once there is a need to do so. Maintaining open participation
+pathways ensures that managed charging programs continue to be cost-effective, equitable, and
+aligned with long-term grid modernization and transportation electrification goals.
+3. Roadmap for Aligning EVSE and Telematics with National Standards
+The TSWG Report relies on testing by EPRI to conclude, based on a limited sample, that current
+EVSE and telematics systems are not yet suitable for revenue-grade metering. Importantly, the
+Report emphasizes that these findings should not translate into restrictive program rules or
+reduced eligibility today. VGIC strongly agrees. As noted above, at this stage of market
+development, maintaining broad and accessible participation is essential for shaping customer
+charging habits and supporting statewide transportation electrification goals.
+The report recognizes that accuracy challenges extend beyond physical measurement to include
+telemetry, data handling, and calculation of differences across devices. Continued technical
+investigation, including real-world performance testing, auxiliary load considerations, and data-
+pathway evaluations, will help clarify what is required for alignment with national standards
+such as NIST HB 44 (Handbook 44), ANSI C12.20, ISO 15118-20, and any forthcoming SAE
+work.
+The TSWG Report notes:
+• EVSE metering: “Staff does not currently recommend the adoption of any particular
+standard. Though accuracy standards for EVSE do exist, few manufacturers have
+coalesced around any particular standard. Staff is supportive of standards generally and is
+5
+
+eager for the residential EVSE industry to coalesce around an accuracy standard, but
+believes that requiring one at this time would unduly limit program participation.”2
+• Telematics: ”…no standard for accuracy of EV telematics currently exists... a standard
+needs to be developed for EV telematics to better support the programs of today and
+enable programs of the future…Disallowing participation via this method would
+significantly impact program uptake during a crucial time for the formation of EV
+charging habits.”3
+These statements make clear that adopting accuracy requirements would be premature and
+counterproductive. VGIC fully supports this overall conclusion, with the important caveat that if
+New York adopts EV-specific customer rates in which submetering would provide a lower-cost
+solution than installing an additional utility meter, then accuracy standards should be adopted.
+Additionally, these statements underscore the importance of aligning New York’s trajectory with
+the direction of regional and national standardization efforts. There is value in bringing this
+expertise to the national standards development forums. There are not many groups as well
+positioned as DPS staff and NY utilities to collaborate with other state utility commissions (in
+the case of DPS staff) and industry standards development (in the case of NY utilities) on a
+unified, consensus approach.
+The TSWG Report also identifies substantial gaps in the national landscape, describing
+“incomplete national standards for EVSE and telematics testing, certification, and compliance.”4
+VGIC concurs that New York should not attempt to fill these gaps through bespoke, state-
+specific requirements that would misalign with national initiatives currently underway. Instead,
+DPS should focus on building a forward-looking roadmap that positions New York to adopt
+standards once they mature at the national level.
+A robust roadmap would outline the technical, procedural, and data-quality expectations that
+EVSE and telematics systems will eventually need to meet while avoiding any immediate
+program constraints. By defining a clear sequence of research needs, pilot activities, validation
+steps, and stakeholder engagement processes, the roadmap would provide transparency for
+market participants without prematurely narrowing the technologies eligible for managed
+charging programs. When creating the roadmap, it is important to keep in mind the right tools for
+the job. If the end goal is EV-specific TOU rates a technical standard for revenue-grade metering
+at the device-level may be required. If not, then current EVSE and vehicle telematics capabilities
+can capably deliver program goals.
+Furthermore, VGIC recommends the roadmap include the following scenarios:
+2 New York State Department of Public Service. Technical Standards Working Group Report on EVSE and
+Telematics Accuracy (September 2025), page 21.
+https://documents.dps.ny.gov/public/MatterManagement/MatterFilingItem.aspx?FilingSeq=369102&MatterSeq=56
+005
+3 Ibid, page 21
+4 Ibid, page 13.
+6
+
+• If New York adopts EV-specific TOU rates, then EVSE-based metering should be
+immediately eligible based on the accuracy standard detailed in NIST Handbook
+44, which would align with what’s been done outside of New York (e.g., in
+California)
+• If New York adopts EV-specific TOU rates, and if SAE or another organization
+has developed a standard specific to EV-based metering, then EV-based metering
+should be eligible based on the relevant standard having been developed.
+III.
+RESPONSES TO DPS STAFF QUESTIONS
+In addition to commenting on the TSWG Report, VGIC appreciates the opportunity to respond to
+the specific questions posed by DPS Staff regarding the development of accuracy standards, the
+roles of the Commission and utilities, data transparency, and design considerations for managed
+charging programs. These questions directly address how New York can improve data quality
+and support effective, inclusive managed charging programs alongside industry leaders as the
+market evolves. VGIC offers the following responses to inform Staff’s ongoing evaluation.
+Question 1: What role could the Commission or NY utilities play in developing an EV
+telematics accuracy standard?
+VGIC Response:
+VGIC believes the most effective role for the Commission at this stage is directing (a) DPS Staff
+to engage directly with staff at other utility commissions wrestling with the same issues, namely,
+California, Massachusetts, and Maryland, and (b) the JU to actively engage via at least one utility
+representative at the national standards body or bodies developing telematics and/or EVSE
+accuracy and reporting requirements. The former approach has been facilitated on related EV
+issues through NARUC’s EV Working Group, general knowledge sharing across staff-facilitated
+workshops, and direct staff-to-staff engagement and inquiry. Meanwhile, the latter approach has
+been proven successful in the development of standards for AC bidirectional charging (i.e., V2G
+AC), where the California Public Utilities Commission directed the state’s investor-owned
+utilities to contribute to the development of the UL 1741 SC standard. By issuing these
+directives, The Commission can clearly signal that New York intends to adopt nationally
+recognized accuracy standards once they are finalized. This approach offers clarity and
+predictability for industry participants while ensuring New York’s eventual requirements remain
+fully aligned with broader interoperability efforts.
+Notably, standards development is most commonly a volunteer-based activity, and the
+appropriate technical expertise, especially from a utility representative, would be welcomed and
+highly valued in the creation of a new consensus-based standard or updated version of an
+existing standard. DPS Staff and JU input can help ensure that national standards adequately
+reflect real-world operational needs without requiring New York to independently define
+accuracy criteria.
+7
+
+Additionally, as detailed above in Section II, VGIC recommends that the Commission direct
+DPS Staff to formalize these activities and intents in a forward-looking roadmap that outlines
+how New York will transition to national EVSE and telematics accuracy standards once EV-
+specific rates are available and, in the case of telematics, once the standards are sufficiently
+mature. This roadmap should describe the technical criteria, testing methodologies, data-
+handling expectations, and implementation steps that Staff will evaluate as national standards
+evolve. It should also identify the analytical work, pilots, and stakeholder engagement processes
+needed to ensure that future accuracy requirements are adopted smoothly, without disrupting or
+narrowing participation in current managed charging programs. By tasking Staff with producing
+and executing this roadmap, the Commission can provide structure and transparency while
+avoiding premature rulemaking.
+Question 2: What role could the Commission play in widespread adoption of accuracy
+standards?
+VGIC Response:
+As detailed above, providing clear direction regarding the intent to have stricter accuracy
+standards if New York offers EV-specific rates signals the critical underlying imperative to
+solicit volunteers to develop relevant standards. As those standards become finalized and
+commercially supported, the Commission can then incorporate them into requirements in a way
+that is predictable, transparent, and aligned with New York’s broader electrification goals. This
+approach provides clarity and direction to manufacturers, charging providers, and aggregators,
+ensuring that they understand how today’s standards development investments will translate into
+future implementation within New York’s EV rate landscape and, in turn, are compelled to make
+those resource investments in standards development work.
+Question 3: What actions could utilities take to reduce data opacity?
+VGIC Response:
+Reducing data opacity is essential to building trust in managed and bidirectional charging
+programs and ensuring that all parties, utilities, customers, aggregators, and regulators have a
+clear understanding of how charging data is collected, processed, and used. Utilities should
+provide customers and aggregators with reasonable access to their underlying charging data,
+increasing transparency and supporting any disputes of program incentives. This would
+meaningfully enhance transparency and complement the long-term development of accuracy
+standards.
+Question 4: What actions could improve accuracy of devices or services used in managed
+charging?
+VGIC Response:
+8
+
+Improving accuracy starts with stronger coordination between managed charging program
+administrators, service providers, and vehicle OEMs. Clear data-sharing practices, including
+clarity on how charging data is acquired and collected, consistent reporting formats, and
+collaborative troubleshooting can quickly enhance data quality without limiting customer
+participation Based on conversations with VGIC members, several industry participants are
+aiming to advance the exclusive use of OEM-authorized telematics data access for use in
+managed charging programs. VGIC recommends the Commission prepare to address this issue
+as managed charging use cases mature (for example, to unlock additional distribution system
+optimization benefits) and participation scale increases (for example, to a degree where
+integration reliability is more critical to utility operations and planning).
+Question 5: Are there other program designs that mitigate inaccurate readings while
+engaging all driver types?
+VGIC Response:
+VGIC does not recommend creating new or more complex program structures at this time, as
+doing so could reduce clarity and limit participation. Instead, utilities can implement internal
+safeguards within existing program designs to help mitigate the effects of measurement
+uncertainty. Maintaining broad enrollment is critical for program cost-effectiveness, and these
+internal guardrails strike the right balance between operational integrity and accessibility.
+Question 6: Should accuracy be addressed differently in active vs. passive managed
+charging programs?
+VGIC Response:
+Accuracy requirements should be calibrated to the specific goals of active and passive managed
+charging programs rather than treated as a uniform threshold. Active managed charging, where
+utilities or aggregators directly control or shift load, depends on timely, reliable data to inform
+dispatch decisions, but it does not require revenue-grade metering; the necessary level of
+accuracy is tied to operational performance, not billing. Passive managed charging, which relies
+on incentives to influence off-peak behavior, can tolerate greater measurement variability
+because program outcomes are not sensitive to fine-grained kWh accuracy. In both cases, the
+appropriate accuracy standard flows from the program’s purpose: revenue-grade metering (e.g.,
+NIST Handbook 44) should only be required when the goal is EV-specific billing or TOU rate
+design, not for managed charging program incentives. New York should therefore maintain
+broad participation pathways for both active and passive programs while aligning future
+accuracy requirements with the specific functions each program is designed to serve.
+IV.
+Conclusion
+VGIC urges DPS to maintain the broad participation pathways by adopting Option 5 (Status
+Quo), avoid premature accuracy requirements, and base all future metering and submetering
+policies on emerging national standards rather than New York-specific rules. As DPS develops a
+9
+
+roadmap, accuracy expectations should be matched to program goals: current EVSE and
+telematics capabilities are sufficient for managed charging, while future EV-specific TOU rates
+will require nationally aligned, revenue-grade metering standards such as NIST Handbook 44
+(for EVSE) or subsequent telematics standards. The Commission and utilities should actively
+participate in regional or national standards development.
+VGIC appreciates the opportunity to provide these comments and looks forward to continued
+collaboration to position New York as a leader in vehicle-grid integration.
+Respectfully submitted,
+/s/ Steve Letendre
+Steve Letendre, PhD
+Senior Advisor
+Vehicle-Grid Integration Council
+www.vgicouncil.org
+10

@@ -1,0 +1,115 @@
+May 28, 2025
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 22-E-0236: Proceeding to Establish Alternatives to Traditional Demand-Based
+Rate Structures for Commercial Electric Vehicle Charging
+Comments of the Vehicle-Grid Integration Council (VGIC) on the Load Management
+Technology Incentive Program
+Introduction
+The Vehicle-Grid Integration Council (“VGIC”) is a 501(c)(6) membership-based
+advocacy group committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid
+integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring the value
+of flexible EV charging and discharging is recognized and compensated in support of a more
+reliable, affordable, and efficient electric grid. VGIC appreciates the opportunity to provide
+comments on the Joint Utilities’ Load Management Technology Incentive Program (“LMTIP”).
+VGIC Supports the Continuation of LMTIP
+Deploying load management technologies at EV charging sites is a critical strategy to
+advance New York’s transportation electrification goals while minimizing impacts to ratepayers.
+Specifically, EV load management technologies can reduce charging customers’ electric service
+requirements, which can help defer or avoid distribution system upgrades that might otherwise
+be required to energize the EV charging site. By incentivizing customers to elect solutions that
+reduce the cost to ratepayers and optimize the use of utility make-ready funding, New York can
+support a greater number of charging sites at a lower overall system cost. Using EV load
+management technologies to reduce utility infrastructure has also been shown to significantly
+accelerate site connection timelines by reducing the scope of service connection, in turn allowing
+New York to meet its overall decarbonization goals sooner. Tools that allow charging
+infrastructure to be available more quickly directly serves the fast-growing number of EVs on the
+
+road and the increasing customer demand for local EV charging sites. VGIC appreciates the
+Commission and Joint Utilities’ efforts in developing the nation’s first large-scale program to
+directly incentivize the deployment of EV load management technologies. We strongly support
+the continuation of the LMTIP program and recommend one potential enhancement in the
+comments below.
+LMTIP Technology Eligibility
+There are many approaches – both hardware and software – to managing the demand and
+site connection requirements of charging sites. The current LMTIP guidelines detail four groups
+of eligible technologies: load management software, load management hardware, co-located
+energy storage, and integrated energy storage. Each of these load management technologies are
+capable of reliably balancing, curtailing, or deferring a customer’s net EV charging demand on
+the electric grid. Diverse approaches are needed to deliver the same service to the grid and allow
+customers to choose the approach that best fits their needs. Allowing LMTIP to help offset a
+significant portion of the costs of adopting these technologies greatly improves the economic
+case for customers to install them. In turn, this benefits the customers installing the EV load
+management technologies as well as ratepayers in general.
+While the existing LMTIP technology eligibility has been an important first step in
+supporting these critical technologies, VGIC recommends that additional technologies be
+deemed eligible in LMTIP moving forward. Firstly, we recommend that on-site generation be
+deemed eligible. This solution is growing in popularity for larger EV sites in capacity-
+constrained areas. For example, in the October 25, 2023 Medium- and Heavy-Duty
+Electrification Actions, Challenges and Opportunities Technical Conference hosted in NY PSC
+Case 23-E-0070, Prologis detailed its use of linear generator technology to support a 10 MW site
+in just 12 months, rather than the 2-3 years required to complete utility-side upgrades.1
+Customer-owned solar offers another such solution set. For example, a medium- and heavy-duty
+charging site on the West Coast uses solar and a stationary battery energy storage system on a
+119-acre site to mitigate the utility-side system upgrades otherwise needed to energize the site.2
+VGIC believes temporary or permanent generation of this kind will be critical to energizing
+several sites in New York. As such, we urge the Commission to direct the Joint Utilities to add
+1 NY DPS Case 23-E-0070. Prologis Mobility. 10 MW in 12 months. Slide 6. October 25, 2023.
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={90F5818B-0000-C492-BA6D-
+C9B69E6DD5B2}
+2 WattEV, WattEV opens world’s largest solar-powered truck charging depot boasting megawatt charging, fourth
+station to open in one year. May 6, 2024.
+https://www.wattev.com/post/wattev-opens-world-s-largest-solar-powered-truck-charging-depot-fourth-station-
+to-open-in-one-year
+
+these solutions to the list of eligible technologies that may be considered for LMTIP incentives.
+As with all projects considered in the LMTIP program, we believe projects using these
+technology types should be evaluated to avoid double paying for the same technology, for
+example, solar systems that may receive other equipment deployment incentives.
+As explained by the Joint Utilities in their 2023 filing proposing the LMTIP, the costs of
+some technologies can be ambiguous – such as when software-based load management costs are
+part of a software package that also includes other services, or when energy storage is integrated
+directly into the EVSE rather than a separate piece of equipment.3 This limitation may also
+introduce uncertainty for the site host and/or technology provider as to the amount of incentive
+they can expect to be eligible for under the LMTIP, affecting calculations for project economics.
+With this in mind, and considering VGIC’s above recommendation to include solar and other
+types of customer generation as eligible technologies in LMTIP, long-term program development
+efforts may benefit from consideration of alternative program designs. Given LMTIP has only
+been offered for a few months, VGIC advises against implementing any substantially difference
+program design at this time. However, we respectfully request the Commission, Joint Utilities,
+and relevant stakeholders convene in the next 12-18 months to discuss lessons learned regarding
+program design and consider changes to reduce administrative burden and ad hoc consideration
+of how LMTIP incentives stack with other program funds.
+Lastly, VGIC notes that bidirectional charging equipment costs more than unidirectional
+charging equipment. This is true across all use cases, although the cost differences are
+particularly challenging in residential and light-duty vehicle contexts, where overall upfront costs
+are generally lower than in commercial and medium- and heavy-duty segments. In residential
+and light-duty sites the cost differential for bidirectional charging systems is therefore felt more
+by the customer or site developer. VGIC has detailed this dynamic in its past comments in this
+proceeding (Case 22-E-0236 re Demand Charge Alternatives), Case 18-E-0138 re light-duty
+make ready and managed charging, and Case 23-E-0070 re medium- and heavy-duty make
+ready). Here, we reiterate the need to provide incremental funding support for bidirectional
+charging systems above and beyond what is provided to unidirectional charging systems. This
+support is needed to promote a market transition toward bidirectional charging solutions, which
+offer increased benefit to both customers with the technology and ratepayers at large. Although
+the intent of LMTIP is to promote load flexibility in commercial charging sites, we recommend
+the Commission consider including bidirectional charging solutions as eligible for LMTIP,
+including in residential and light-duty vehicle contexts where the added costs of bidirectional
+charging persists as a barrier to unlocking the full grid benefits of EVs.
+3 NY DPS Case 22-E-0236. Joint Utilities’ Electric Vehicle Load Management Technology Incentive Program. May 19,
+2023. https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C01E3588-0000-CC11-824F-
+591C19658923}
+
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Joint Utilities, the Commission, and other stakeholders to ensure the success of
+New York’s transportation electrification efforts.
+Respectfully submitted,
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+vgicregulatory@vgicouncil.org

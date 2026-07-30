@@ -1,0 +1,186 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+08/01/25
+Order Instituting Rulemaking to Rulemaking 25-06-019
+04:59 PM
+Continue Oversight of Electric (Filed June 26, 2025)
+R2506019
+Integrated Resource Planning and
+Procurement Processes.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING TO CONTINUE OVERSIGHT OF ELECTRIC
+INTEGRATED RESOURCE PLANNING AND PROCUREMENT PROCESSES
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+August 1, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 25-06-019
+Continue Oversight of Electric (Filed June 26, 2025)
+Integrated Resource Planning and
+Procurement Processes.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING TO CONTINUE OVERSIGHT OF ELECTRIC
+INTEGRATED RESOURCE PLANNING AND PROCUREMENT PROCESSES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Order Instituting Rulemaking to Continue Oversight of Electric Integrated
+Resource Planning and Procurement Processes (“OIR”), issued on July 2, 2025.
+I. INTRODUCTION
+VGIC appreciates the opportunity to submit these comments on the OIR for the next stage
+of California’s Integrated Resource Planning (“IRP”) proceeding. VGIC appreciates the
+Commission’s continued efforts to refine the Integrated Resource Planning (“IRP”) framework
+and ensure that planning and procurement processes are aligned with California’s reliability and
+decarbonization goals. As the state experiences rapid growth in electric vehicle (“EV”) adoption,
+VGIC urges the Commission to further incorporate vehicle-grid integration (“VGI”) and EV load
+flexibility into IRP modeling, scenario development, and procurement planning.
+In response to the OIR and the planned development of the 2026 Preferred System Plan
+(“PSP”), VGIC offers recommendations to improve visibility into VGI-related modeling results,
+incorporate VGI as a candidate resource, and ensure that bidirectional EV charging potential is
+1
+
+appropriately considered in California’s planning processes. VGIC looks forward to working with
+the Commission and stakeholders to ensure California’s planning processes fully recognize the
+evolving capabilities of EVs and the value they can provide to the electric system.
+II. BACKGROUND & INTEREST IN PROCEEDING.
+VGIC is a 501(c)6 member-based advocacy group committed to advancing the role of EVs
+and VGI through policy development, education, outreach, and research. VGIC supports the
+transition to a decarbonized transportation and electric sector by ensuring the value from flexible
+EV charging and discharging is recognized and compensated to achieve a more reliable,
+affordable, and efficient electric grid. VGIC’s members include automotive original equipment
+manufacturers (“OEMs”), EV service providers (“EVSPs”), distributed energy resource (“DER”)
+aggregators, publicly-owned electric utilities, and Community Choice Aggregators.
+Californians are adopting significant numbers of EVs, with over 2 million on the road
+today. These vehicles can provide significant amounts of energy flexibility for California without
+compromising customer mobility needs and the movement of goods within and beyond the state.
+EVs are also unlike any other modifiable load or dispatchable resource type because individual
+EVs represent a more significant potential load shift and energy storage capacity than the typical
+customer-sited DERs. VGIC therefore holds a direct interest in shaping grid planning to ensure
+that the potential for VGI is fully incorporated into California’s planning processes. VGIC has
+been an active party in related rulemakings on grid planning and transportation electrification such
+as R.18-12-006, R.21-06-017, R.22-07-005, and R.23-12-008.
+III. COMMENTS ON THE PROPOSED SCOPE.
+VGIC appreciates the CPUC’s continued efforts to improve the modeling of VGI and
+demand flexibility from EVs within the IRP. VGIC commends the Commission for considering
+2
+
+the capabilities of EV charging equipment within the IRP modeling effort. In setting the scope and
+focus of this proceeding, VGIC recommends that the Commission more explicitly consider the
+potential for EVs to contribute to California’s electric system portfolio in the development of the
+2026 Preferred System Plan (“PSP”).
+A. The Commission should host a workshop on the results of VGI modeling scenarios
+for the 2026 PSP.
+VGIC was encouraged by the inclusion of VGI in the inputs and assumptions (“I&As”) for
+the last IRP cycle. However, the results of the VGI-related analysis that was done last cycle were
+not ultimately published. VGIC is unclear if the sensitivity analyses, including the proposed Mid-
+VGI and High-VGI scenarios were executed by the modeling team for the 2023 PSP because the
+results seem to have been withheld.
+Since distributed energy resources and EV load flexibility are relatively new within the
+IRP process, many DER and VGI stakeholders are less familiar with the RESOLVE model. It is
+difficult to parse through the available RESOLVE spreadsheets to find different results that are
+not discussed or presented by Energy Division in venues such as Rulings or workshops. To ensure
+that all stakeholders can understand the results of different sensitivity analyses, VGIC encourages
+the Commission to include the results of any VGI analyses in published materials and workshops
+that discuss modeling outputs. A dedicated VGI or load flexibility workshop may also be
+warranted to ensure there is enough time for discussion on these topics.
+Dedicated discussion related to modeling VGI would go a long way in filling a critical
+knowledge gap for VGI stakeholders, including policymakers and customer groups. VGIC has
+heard CPUC and CEC Commissioners, as well as senior CAISO representatives, ask for more
+details on the availability, load/generation curves, and price elasticity of VGI resources on
+3
+
+California’s grid. We believe this IRP cycle is a critical opportunity to answer these
+Commissioner’s questions.
+B. The Commission should work towards adding VGI as a full candidate resource in
+the IRP.
+VGIC encourages the Commission to incorporate VGI as a full candidate resource in the
+IRP as soon as possible. There is significant potential for VGI to contribute to California’s electric
+system and provide ratepayer savings. While some modeling has been done on more limited
+applications of VGI and exploration may soon begin on the ability of VGI to greatly improve
+distribution system utilization, California has yet to evaluate VGI as a tool in electric system
+portfolio development. Without explicit consideration of VGI potential in system planning,
+California risks planning for, and ultimately procuring, excess generation that is not needed due to
+VGI contributions. This is especially important given the amount of EV charging load that is
+included in California’s demand forecast that is used for the IRP.
+Significant work has already been done through the proposed 2026 PSP I&As to gather
+cost data for VGI resources, develop adoption curves, and create total resource potential estimates.
+If additional work or data is needed to fully model VGI in the core capacity expansion analysis,
+the Commission should share what information would allow for full inclusion in the IRP. VGIC
+understands the complexity of accurately incorporating all aspects of VGI into an IRP model, and
+we appreciate the inherent challenges of including new resources in general. We would welcome
+collaboration with Energy Division to continue strengthening VGI representation so that California
+can evaluate all tools in its toolkit, including the state’s fast-growing and flexible customer-owned
+EV fleet.
+4
+
+C. California can expect significant vehicle export / V2G potential.
+The 2025 Draft I&As include vehicle-to-grid (“V2G”) or vehicle export potential as a potential
+grid resource. VGIC is extremely supportive of modeling V2G as a grid resource and believes that
+there is significant potential for V2G to contribute to California’s clean energy and reliability
+needs. California is already home to the largest V2G site in North America located in Oakland
+providing peak reduction services to Pacific Gas & Electric. California is also unlocking V2G
+resources in existing programs already. For example, V2G sites may enroll in the Emergency Load
+Reduction Program (ELRP), the CEC’s Demand Side Grid Support Program (DSGS), PG&E’s
+V2X Pilots, and SDG&E’s Dynamic Export Rate Pilot. Additionally, SCE has proposed a V2G
+Export Credit (“Vehicle-to-Grid Resource Proposal”) in its recent General Rate Case Phase II.1
+Automakers are also expected to grow their bidirectional vehicle offerings. More than 50%
+of OEMs, representing far greater than 50% of California EV sales, have publicly stated they will
+enable vehicles to be V2G capable. Light-duty vehicle auto manufacturers that already offer
+bidirectional charging capability include: Nissan, Ford, General Motors (including nearly every
+Chevrolet, Cadillac, and GMC EV), Kia, and Tesla. Additional manufacturers have made public
+statements clarifying their intent to offer V2G solutions, including Hyundai, Volkswagen, BMW,
+Mercedes-Benz, Lucid, Audi, Volvo, Polestar, and Rivian. Medium and heavy-duty vehicles,
+especially school buses, are also expected to have significant V2G potential. World Resources
+Institute (“WRI”) notes that California has over 3,110 committed electric buses across the state, of
+which nearly 45% are delivered or operating.2 A majority of these electric school buses will be
+1 See A.24-03-019.
+2 Lydia Freehafer, Leah Lazer, and Brian Zepka. The State of Electric School Bus Adoption in the US.
+Updated November 18, 2024. https://www.wri.org/insights/where-electric-school-buses-us.
+5
+
+Type C, which come equipped with between 126 kWh and 315 kWh of battery capacity.3
+Moreover, all school buses claiming credits under California Air Resources Board’s Hybrid and
+Zero-Emission Truck and Bus Voucher Incentive Project (“HVIP”) or Zero-Emission School Bus
+and Infrastructure (“ZESBI”) programs, which represent the vast majority of California’s electric
+school buses, are currently required to be capable of bidirectional charging.
+Given the significant potential, VGIC encourages the IRP team to conduct sensitivity
+analyses with higher amounts of V2G to ensure that this resource can be optimized alongside
+California’s electric system portfolio.
+IV. PROCEDURAL SCHEDULE, CATEGORIZATION, AND NEED FOR
+HEARINGS.
+VGIC supports the categorization and proposed schedule of this proceeding and agrees
+with the preliminary determination that hearings may be needed.
+V. NOTICES.
+Service of all notices and communications in this proceeding should be directed to the
+following VGIC representative:
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+3Jessica Wang, Vishant Kothari, Emmett Werthmann, Eleanor Jackson, Lidia Henderson, Alissa
+Huntington. Updated August 2024. “Electric School Bus Market Study and Electric School Bus U.S.
+Buyer's Guide” Washington, DC: World Resources Institute.
+https://electricschoolbusinitiative.org/electric-school-bus-market-study-and-electric-school-bus-us-
+buyers-guide
+6
+
+VI. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the OIR. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: August 1, 2025
+7

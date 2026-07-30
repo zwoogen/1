@@ -1,0 +1,423 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+08/14/25
+Order Instituting Rulemaking to Rulemaking 22-07-005
+04:59 PM
+Advance Demand Flexibility (Filed July 14, 2022)
+R2207005
+Through Electric Rates.
+OPENING COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION ADOPTING GUIDELINES FOR PACIFIC GAS AND
+ELECTRIC COMPANY, SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN
+DIEGO GAS & ELECTRIC COMPANY ON DEMAND FLEXIBILITY RATE DESIGN
+PROPOSALS
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: August 14, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+OPENING COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION ADOPTING GUIDELINES FOR PACIFIC GAS AND
+ELECTRIC COMPANY, SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN
+DIEGO GAS & ELECTRIC COMPANY ON DEMAND FLEXIBILITY RATE DESIGN
+PROPOSALS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these opening comments on the Proposed Decision Adopting Guidelines for Pacific Gas and
+Electric Company, Southern California Edison Company, and San Diego Gas & Electric Company
+On Demand Flexibility Rate Design Proposals (“Proposed Decision” or “PD”), issued by
+Administrative Law Judges Rajan Mutialu and Carolyn Sisto on July 25, 2025.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to comment on the PD and the next stage of development
+for California’s dynamic rate vision. VGIC strongly believes that electric vehicles (“EVs”) are
+well-positioned to take advantage of dynamic pricing and provide immense ratepayer value via
+load flexibility and EV battery discharge. Vehicle-grid integration (“VGI”) strategies, including
+managed unidirectional charging, bidirectional charging and discharging, and distributed energy
+resource (“DER”)-paired charging, can unlock EVs as strategic grid assets, including through
+participation in dynamic rates. These price signals can directly influence customer behavior or
+1
+
+integrate with automated charging management systems for a “behind the scenes” customer
+experience. In other words, VGI strategies will play a key role in helping California meet its
+ambitious clean energy and transportation electrification goals, while alleviating upward pressure
+on rates. The dynamic rates developed under this guidance to comply with the California Energy
+Commission’s (“CEC”) Load Management Standards (“LMS”) are one key tool to unlock these
+benefits.
+In response to the PD, VGIC offers recommendations to ensure that dynamic rates unlock
+maximum load flexibility, particularly from EVs. Our comments are summarized below:
+• VGIC strongly urges the Commission to modify the PD to explicitly direct the IOUs to
+offer dynamic export compensation for non-Net Energy Metering (“NEM”), non-
+Qualifying Facility (“QF”) customer resources and aggregations, as supported by the
+record of this proceeding.
+o Providing dynamic export compensation through demand flexibility rates will
+unlock grid services from EVs that are otherwise unavailable.
+o The record references sufficient precedent in support of establishing non-NEM,
+non-QF retail export compensation rates.
+o The Commission has previously adopted and authorized significant ratepayer
+investment in non-NEM, non-QF export compensation initiatives.
+o The Commission-adopted Demand Flexibility Design Principles specifically
+includes offering dynamic export compensation to all export-capable DERs.
+• The Commission should consider alternative structures to unlock distribution-level load
+flexibility, including programmatic approaches.
+2
+
+• The Commission should allow for flexibility in customer protection measures.
+II. VGIC STRONGLY URGES THE COMMISSION TO EXPLICITLY DIRECT THE
+IOUS TO OFFER DYNAMIC EXPORT COMPENSATION FOR NON-NEM NON-
+QF CUSTOMER RESOURCES AND AGGREGATIONS OF CUSTOMER
+RESOURCES.
+Although the Commission’s own Demand Flexibility Design Principles includes and the
+Staff Proposal recommends that dynamic rates include technology-agnostic export compensation,
+the current PD “declines to provide guidance on whether the Large IOUs should include export
+compensation in DF Rate Proposals.”1 VGIC believes this is unsupported by the record and
+strongly disagrees with this determination. We urge the Commission to direct the IOUs to offer
+dynamic export compensation within their demand flexibility (“DF”) rates.
+A. Providing dynamic export compensation through demand flexibility rates will
+unlock grid services from EVs that are otherwise unavailable.
+The Commission can unlock far greater value from EV customers and fleets by providing
+customers with the needed price signal to not only shift load but also export energy during peak
+times. By compensating customers for exporting energy during periods of high system demand,
+these rates can enhance grid reliability, reduce the need for costly peak-period procurement, and
+increase other grid services provided by EVs. For EV customers and fleets in particular, dynamic
+export compensation enables them to contribute to both load reduction and energy supply,
+unlocking additional value that is otherwise unavailable under import-only rate designs. As
+discussed by VGIC in comments on the Working Group Report, without export compensation, the
+potential grid value is limited to the avoided charging that would have occurred in a given period,
+leaving the opportunity to send energy back to the grid when it is needed most entirely untapped.2
+1 PD at 87.
+2 VGIC Opening Comments on Working Group Report at 5.
+3
+
+VGIC believes that the Commission should leverage this bidirectional charging capability and
+direct the IOUs to implement, or build on existing implementations of, dynamic export rates.
+It is important to leverage this capability in dynamic rates because there are limited
+opportunities in California for EVs to provide exports to the grid. California currently provides
+export compensation for EVs in some demand response programs, such as the Emergency Load
+Reduction Program (“ELRP”) and the Demand Side Grid Support (“DSGS”) program, which are
+both event-based and do not allow EVs to provide regular exports for daily load shifting.
+Additionally, the ELRP is only authorized through 2027, while DSGS has not been provided with
+any further funding from the legislature, signaling its likely sunset prior to the 2027 timeframe for
+the large IOUs’ dynamic rates. Pacific Gas and Electric (“PG&E”) and San Diego Gas and Electric
+(“SDG&E”) also have pilots that compensate for EV exports, PG&E’s Vehicle-to-Everything
+(“V2X”) Pilots and SDG&E’s Dynamic Export Rate Pilot, but both are tied to developing and
+advancing the dynamic rates that will be developed pursuant to this PD’s guidance.
+Additionally, large IOUs currently steer bidirectional charging customers seeking
+compensation away from Net Energy Metering (“NEM”) or Net Billing Tariff (“NBT”) export
+compensation provided to solar customers. These tariffs designed for “eligible customer
+generators”, defined in statute as a customer “who uses a renewable electrical generation facility.”3
+For example, in order for energy storage to participate in NEM or NBT, it must be “an addition or
+enhancement to a renewable electrical generation facility,” and “configured and metered in order
+to ensure that NEM credit can only be generated by eligible renewable electric generation.”4
+Although VGIC believes there are existing strategies that can be leveraged to ensure bidirectional
+3 PUC Section 2827.
+4 D.14-05-033 at 15.
+4
+
+charging systems do not violate these so-called “NEM-integrity” rules and other NEM energy
+storage requirements, the large IOUs’ practice of nudging these customers away from NEM or
+NBT demonstrates another realm where willing bidirectional charging customers are not
+welcomed to provide valuable services to the grid and, in turn, help alleviate system and ratepayer
+costs.
+Notably, California has already shown the potential for dynamic rates to unlock significant
+export capacity from EVs. The largest grid-parallel bidirectional charging site in North America
+is located at the Oakland Unified School District and participating in PG&E’s V2X pilot with
+dynamic export compensation, providing 2.1 GWh of energy back to the grid each year.5 Similar
+projects could be deployed across fleets and EVs statewide, multiplying the reliability and cost-
+saving benefits for the grid. However, absent proactive direction from the Commission requiring
+the IOUs to offer export compensation, California will be unable to build on this effort to maximize
+the available EV capacity and grid services from this flexible resource. For example, We have
+already seen Southern California Edison (“SCE”) operating out of alignment with the
+Commission’s vision in implementing their expanded dynamic rate pilot. D.24-01-032 includes an
+Attachment B specifically dedicated to the treatment of bidirectional charging equipment within
+the expanded rate pilot. However, D.24-01-032 did not include specific Commission direction to
+SCE to provide compensation for non-NEM exports. SCE has indicated that these non-NEM
+customers are not eligible for the expanded dynamic rate pilot.6 VGIC believes that without explicit
+5 See “Zum Launches Nation’s First School District with 100% Electric, Bidirectional V2G School Bus
+Fleet in Oakland” https://www.ridezum.com/press-release/zum-launches-nations-first-school-district-
+with-100-electric-bidirectional-v2g-school-bus-fleet-in-oakland/
+6 In response to a recent data request from Cal Advocates, SCE states “while not explicitly discussed in
+our implementation plan, Net Energy Meter (NEM) and Solar Billing Plan (SBP) customers are eligible
+to participate in the expanded pilot.” (see
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7847/546561478.pdf page B-12). When Cal
+5
+
+direction from the Commission, the large IOUs will not support non-NEM export compensation
+in the dynamic rate pilots. In turn, the grid benefits of VGI will remain latent, representing an
+immense missed opportunity to mitigate upward pressure on rates.
+B. The record references that sufficient precedent exists in support of establishing
+non-NEM, non-QF retail export compensation rates.
+It is unclear to VGIC why the Commission does not direct the IOUs to adopt export
+compensation rates in the PD. One item the IOUs have raised is that “Non-NEM, non-QF export
+compensation may raise questions about the boundary between retail and wholesale jurisdiction,”7
+which is cited in the PD. However, there is sufficient precedent to show that export compensation
+can be established for non-PURPA qualifying facilities by state utility regulatory commissions.
+VGIC references in its comments on the staff proposal8 the Value of Distributed Energy Resources
+(“VDER”) tariff design used in New York. Specifically, the New York Public Service Commission
+(“NY PSC”) established an avoided cost-based VDER in a March 2017 order (“VDER Transition
+Order”).9 In the March 2017 VDER Transition Order, the Commission states, “VDER tariffs will
+be expanded beyond NEM-eligible [Distributed Generation (DG)] technologies to all DER in a
+technologically-neutral, value-focused manner as soon as practicable.”10 In addition, the VDER
+Transition Order directed that stand-alone energy storage projects be eligible under the VDER
+Advocates asked “Please explain what requirements must be met for customers enrolled in the Expanded
+Pilot to export load,” SCE responded by stating “Customers enrolled in NEM 1.0, NEM 2.0, or SBP and
+enrolled in an eligible pilot rate, and are not enrolled in any disqualifying demand response programs,
+would be eligible to participate in the pilot and receive credits for exporting load.” (see
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7847/546561478.pdf at page B-14).
+7 Working Group Report at 95.
+8 VGIC Comments on Track B Working Group Report at 9.
+9 Case 15-E-0751, et al., Order on Net Energy Metering Transition, Phase One of Value of Distributed
+Energy Resources, and Related Matters (issued March 9, 2017) (Phase One VDER Order)
+10 Ibid.
+6
+
+tariff "as expeditiously as possible."11 NY Department of Public Service (“DPS”) staff then
+published a staff whitepaper, which details unified, technology-agnostic, avoided cost-based
+export compensation. VGIC views this whitepaper as directly analogous to the CPUC Energy
+Division staff’s Advanced Strategies for Demand Flexibility Management and Customer DER
+Compensation (“2022 CalFUSE Whitepaper”) and the subsequent 2023 Staff Report filed in this
+proceeding, which also envisions providing unified, technology-agnostic, avoided cost-based
+export compensation. Critically, the NY DPS staff whitepaper proposed that standalone energy
+storage, including storage paired with consumption load, be eligible for VDER tariff for any hourly
+injections to the grid. 12 NY DPS staff proposed that Value Stack compensation be determined and
+calculated as for existing resources. Under the NY DPS staff whitepaper section titled “Mitigating
+Inequities to Non Participants,” the NY DPS staff proposal also required that standalone storage
+customers take service on hourly pricing, such that both charges and credits accurately reflect
+hourly values. This, too, is directly analogous to the CPUC ED staff’s 2022 CalFUSE Whitepaper
+focus on “symmetrical” pricing, ensuring that both consumption and export are priced fairly. In its
+September 12, 2018, Order on Value Stack Eligibility Expansion and Other Matters, the NY PSC
+adopted the NY DPS staff proposal, thereby instituting non-NEM, non-QF export
+compensation for customers of New York utilities. Critically, VDER is not a pilot, like
+California’s ELRP or PG&E’s V2X Pilots – rather, it is a mass-market, cost-based tariff, fully
+adopted by utilities and made available to all interested customers. Similar to the position of
+California’s IOUs’, the NY Joint Utilities also argued that “larger resources, including storage
+resources, should be required to seek energy and capacity compensation from the wholesale market
+11 Ibid.
+12 Case 15-E-0751, Staff Proposal on Value Stack Eligibility Expansion (filed May 22, 2018).
+7
+
+rather than receiving those elements as part of the Value Stack” (i.e., where wholesale market price
+signals are “passed through,” just as proposed in this PD). The NY Order then states, in no
+uncertain terms, that “The Staff Proposal provides a rational and appropriate framework for
+the eligibility of standalone storage and it is therefore adopted.”13 Lastly, the Order explicitly
+deems vehicle-to-grid (“V2G”) systems as eligible. In 2023, the NY DPS expanded on the
+eligibility finding for V2G systems by further explicitly directing each utility to ensure V2G
+systems are eligible.14
+Although the NY Joint Utilities argued, similar to the CA IOUs, that these non-NEM, non-
+QF resources should be participating in the wholesale market, the PSC found and later reaffirmed
+that non-NEM, non-QF systems are to be provided with the technology-neutral, avoided cost-
+based export compensation. With this in mind, VGIC strongly recommends the CPUC explicitly
+direct the IOUs to establish dynamic export compensation for non-NEM non-QF resources. Not
+only were these resources specifically envisioned as eligible in the 2022 whitepaper, the 2023
+decision adopting rate design principles, and the 2024 decision adopting expanded dynamic rate
+pilot, but there is no factual basis for the IOUs’ assertions that export compensation cannot
+be provided to these resources.
+Regarding the impact of these policies, it is worth highlighting that New York customers
+with non-NEM, non-QF resources, including V2G resources, have been actively enrolling in
+13 NY PSC Case 15-E-0751 – In the Matter of the Value of Distributed Energy Resources and NY PSC
+Case 15-E-0082 – Proceeding on Motion of the Commission as to the Policies, Requirements and
+Conditions for Implementing a Community Net Metering Program. Order on Value Stack Eligibility
+Expansion and Other Matters. September 12, 2018. Page 16.
+14 NY PSC, CASE 18-E-0138 - Proceeding on Motion of the Commission Regarding Electric Vehicle
+Supply Equipment and Infrastructure. Order Approving Midpoint Review Whitepaper’s Recommendations
+with Modifications. November 16, 2023.
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7b6057D98B-0000-C912-
+9B64-A2D769C4790D%7d
+8
+
+VDER and receiving compensation from the tariff. For example, a rideshare fleet by the company
+Revel has operated a V2G site since 2022 enrolled in VDER and receiving retail compensation for
+participation in the tariff.15 In the multiple years that VDER has been actively offered to V2G
+customers, issues surrounding federal jurisdiction or resource eligibility for retail export
+compensation tariffs have not been raised.
+C. The Commission has previously adopted and authorized significant ratepayer
+investment in non-NEM, non-QF export compensation initiatives.
+The clear and repeatedly upheld precedent established by the NY PSC shows that state
+utility commissions can establish mass-market, tariffed export rates for non-NEM, non-QF
+resources. This Commission itself has also adopted and authorized significant ratepayer
+investment in these types of export compensation initiatives, including the following California
+IOU efforts that allow exports from EVs:
+• PG&E has current Vehicle-to-Everything (“V2X”) pilots, which encourages EVs to export
+under the utility’s Hourly Flex Pricing (“HFP”) signal, which uses the same price engine
+and API as PG&E’s expanded dynamic rate pilot authorized in this proceeding.16
+• SDG&E allows EVs and other customer DERs to export in its Dynamic Export Rate Pilot,
+which sends price signals based on the CAISO day-ahead price and a generation capacity
+component.17
+15 SEPA, Case Study: Revel Rideshare— Commercial Fleet V2G & Demand Response, September 2023:
+https://s3.us-east-1.amazonaws.com/fonteva-customer-
+media/00Do0000000Yi66EAC/jPnGYohk_SEPA_Case_Study_Revel_Rideshare_State_of_Bidirectional
+_Charging_pdf
+16 PG&E’s V2X were approved by the Commission in Resolution E-5192 pursuant to D.20-12-029.
+17 SDG&E’s Dynamic Export Rate Pilot was approved in D.23-11- 006.
+9
+
+• Southern California Edison (“SCE”) has proposed a new EV export rate, their Vehicle Grid
+Resource Proposal (“VGRP”), which would provide export compensation for EVs.18
+Based on VGIC’s detailed engagement in the development of all three of these options since the
+beginning of each effort, none of these pilots or proposals have been held up or opposed on the
+basis of potential overlap or complexities with wholesale market operations, rules, or participation.
+D. The Commission-adopted Demand Flexibility Design Principles include offering
+dynamic export compensation to all export-capable DERs.
+In D.23-04-040, the Commission adopted Demand Flexibility Design Principles, including
+Demand Flexibility Design Principle 6: “Demand flexibility tariffs should provide marginal
+cost-based compensation for exports to enable economically efficient grid integration of
+customer-sited electrification technologies and distributed energy resources.”19 This principle
+was adopted because the Commission recognized that “Customer exports should be compensated
+commensurate to the real-time value that those exports provide the grid.”20 and noted that “This
+will create a stable pathway for customers to adopt export-capable DERs and electrification
+technologies (e.g., bidirectional electric vehicle chargers) without creating cost-shifts for other
+customers.”21 At the time the principles were developed, there were discussions about what would
+be an appropriate dynamic export compensation rate, but no party opposed the principle that an
+export compensation rate should be offered. In fact, the offering of a technology-neutral export
+rate was supported by multiple parties, including the California Environmental Justice Alliance
+18 VGRP is currently being taken up in A.24-03-019.
+19 D.23-04-040 at 34.
+20 D.23-04-040 at 33.
+21 D.23-04-040 at 33.
+10
+
+(“CEJA”),22 California Energy Storage Alliance (“CESA”),23 Center for Accessible Technology
+(“CforAT”),24 Enchanted Rock,25 350 Bay Area and The Climate Center,26 and SCE.27
+These Demand Flexibility Design Principles were used to guide parties’ dynamic rate
+proposals and responses to those proposals, and should be used to direct the Commission’s
+guidance in this PD. It is not appropriate at this time for the Commission to adopt guidance that
+goes against earlier Commission orders. VGIC respectfully questions the fundamental value of the
+Demand Flexibility Design Principles decision if the subsequent guidelines detailed in this PD
+represent such a significant departure from the adopted design principles. In line with the
+Commission-adopted principle, this PD should direct the IOUs to adopt export compensation that
+is marginal and cost-based for all DERs that are capable of providing exports.With this in mind,
+VGIC recommends the following Finding of Fact be added to the PD:
+It is reasonable for the Large IOUs to include marginal, cost-based export compensation in
+DF Rate Proposals.
+III. THE COMMISSION SHOULD CONSIDER ALTERNATIVE PROGRAMATIC
+STRUCTURES TO UNLOCK DISTRIBUTION VALUE.
+VGIC understands the desire to unlock the distribution value that can be provided by DERs
+to avoid unnecessary distribution upgrades, as distribution costs are expected to increase
+significantly in the coming years. The 2023 Kevala Electrification Impacts Study Part 1 (“EIS Part
+1”) estimates that distribution system investment from electrification will amount to $51 billion
+22 CEJA Opening Comments on Phase 1 Scoping Memo at 12.
+23 CESA Opening Comments on Phase 1 Scoping Memo at 1.
+24 CforAT Opening Comments on Phase 1 Scoping Memo at 14.
+25 Enchanted Rock Opening Comments on Phase 1 Scoping Memo at 5.
+26 350 Bay Area and The Climate Center Opening Comments on Phase 1 Scoping Memo at 8.
+27 SCE Opening Comments on Phase 1 Scoping Memo at 10.
+11
+
+by 2035.28 On the other hand, Cal Advocates’ recent Distribution Grid Electrification Model
+(“DGEM”) study and report indicates that through load management, including primarily EV load
+management, this value can be reduced to $22.7 billion.29 These savings underscore the importance
+of deploying the most effective strategies to optimize use of the existing distribution system and
+avoid or defer costly upgrades.
+At the same time, using circuit-specific and highly localized pricing, even if circuits are
+clustered, raises geographic equity and fairness concerns. Because different customers would face
+different price signals based on their circuit conditions, customers could face systematically higher
+or lower distribution costs compared to other customers. As discussed by the PD, “If constrained
+areas of the distribution grid are located in low-income or disadvantaged communities, where cost
+of service is higher, this could raise concerns regarding the equity in differential pricing.”30 These
+impacts could result in uneven access to cost savings opportunities, and given these concerns, it is
+unclear whether dynamic distribution pricing is the best way to unlock distribution value.
+Programmatic approaches have also been proven to unlock distribution value, particularly
+for EV customers, and should be considered as alternative approach. In these programs, third-party
+aggregators enroll EV charging customers in the utility distribution programs and integrate with
+the utility’s operations to respond to real-time distribution conditions. Such programs can “even
+out” load across targeted time periods, prevent overload on distribution equipment, and create
+additional headroom on constrained substations, without imposing circuit-specific price
+28 Kevala, Electrification Impacts Study Part 1: Bottom-Up Load Forecasting and System-Level
+Electrification Impacts Cost Estimates, May 9, 2023.
+29 Cal Advocates, DGEM 2.0 Preliminary Results, October 21, 2024,
+https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-
+analyses/241024-public-advocates-office-dgem-20-preliminary-results.pdf
+30 PD at 45.
+12
+
+disparities. They typically provide predictable payments to customers for performance, with fixed
+monthly compensation for participation or payment for performance in events. As these programs
+also typically span much larger areas, such as entire substations, cities, or utility areas, a wide
+variety of customers have access to the same payment amounts, instead of significantly
+advantaging or disadvantaging customers on constrained or unconstrained circuits.
+These managed charging programs have shown significant success in providing
+distribution value. Baltimore General Electric (“BGE”) ran a successful Smart Charge
+Management (SCM) Demonstration program that specifically targeted optimizing distribution
+usage. The program significantly reduced non-coincident peaking by 33% on individual feeders.31
+This was done by orchestrating EV charging in a particular area, prioritizing customer charging
+based on customer departure times and EV battery state of charge. SCE has also requested approval
+for their Orchestrated Charging and Advanced Resiliency for Distribution (“ORCHARD”)
+Program, which will allow SCE to utilize a centralized managed charging to unlock distribution
+value.32
+VGIC recommends that the Commission allow this programmatic structure to be used as
+the dynamic distribution component, at least for EV customers. Under this approach, customers
+could still receive a dynamic price signal to benefit system and transmission conditions, but the
+EV distribution load management program would support local distribution system capacity.
+IV. THE COMMISSION SHOULD ALLOW FOR FLEXIBILITY IN CUSTOMER
+PROTECTION MEASURES.
+31 SEPA, The State of Managed Charging in 2024 at p.43: https://sepapower.org/resource/state-of-
+managed-charging-in-2024/
+32 SCE Advice Letter 5536-E.
+13
+
+In the PD, the Commission adopts requirements that the IOUs offer consumer protection
+measures to reduce customer bill volatility and the risk of customers being exposed to
+unexpectedly high rates for extended periods of time. The options the Commission provides in its
+proposed guidance are two-part subscription tariffs, approaches similar to Valley Clean Energy’s
+price-adjustment, transactive pricing options, and bill limiters or bill protection.
+Customer protection measures are important to ensure that participants in dynamic rates
+are not exposed to unreasonable or unpredictable bill impacts. However, if these measures overly
+shield customers from real-time price fluctuations, they can significantly weaken the very price
+signals needed to encourage load shifting and grid-responsive behavior. As discussed in the Final
+Evaluation Report for SCE’s Dynamic Rate Pilot, high dynamic prices did not drive significant
+load shifting, which could be due in part to the subscription pricing muting the bill impact of load
+shifting. As discussed in the report, “The evaluation of cost recovery concluded that the customer’s
+subscription load profiles were the most important factor in determining whether a customer was
+due a shadow bill credit.”33 Although shadow billing also played a part to mute price signals, the
+pilot shows the outcome when customers are insufficiently incentivized to respond to signals.
+Because the initial implementation of dynamic rates will be optional, participants are more
+likely to be engaged and responsive if given the opportunity to manage greater portions of their
+load under true dynamic price exposure. For large customers, the PD already allows negotiated
+subscription levels below 100% of historical load, providing an incentive to respond to price
+signals for the unsubscribed portion of their usage. VGIC recommends extending similar flexibility
+to small customers by allowing them to opt into subscription levels lower than their Tier 1 usage
+allowance or “pay-for-your-load-shape” baseline. This would enable small customers to see more
+33 Final Evaluation of Southern California Edison’s Dynamic Rate Pilot at 8.
+14
+
+of the dynamic rate’s price variation, respond accordingly, and contribute meaningfully to grid
+needs.
+Additionally, the Commission should direct the IOUs to ensure that subscriptions are easy
+to understand and are predictable for customers. Under current subscription models being used in
+dynamic rate pilots, it can be hard to understand what the subscription baseline is and how it will
+change over time. This issue is most prevalent when subscription baselines are finalized ex post,
+after a billing period has already occurred. However, even if subscription baselines are determined
+ex ante, it can be hard to predict exactly what they will be, especially if the subscription is based
+on an individual customer’s usage from the past 12 months. Additionally, the utilities could be
+incentivized to increase subscription levels where possible to ensure additional cost recovery for
+non-marginal costs. To ensure that appropriate and transparent subscriptions are created, VGIC
+strongly recommends this PD direct the IOUs to make clear in their dynamic rate
+applications how the subscription component will be implemented, including the frequency
+and method of updating the subscription, strategies for communicating subscription curves
+to customers, and how subscription data will be accessible to customers and load flexibility
+service providers.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these opening comments on the Proposed
+Decision.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: August 14, 2025
+15

@@ -1,0 +1,199 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+11/13/25
+Order Instituting Rulemaking to Rulemaking 25-09-004
+04:59 PM
+Enhance Demand Response in (Filed September 18, 2025)
+R2509004
+California.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING TO ENHANCE DEMAND RESPONSE IN
+CALIFORNIA
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: November 13, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 25-09-004
+Enhance Demand Response in (Filed September 18, 2025)
+California.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING TO ENHANCE DEMAND RESPONSE IN
+CALIFORNIA
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Order Instituting Rulemaking to Enhance Demand Response in California
+(“OIR”), issued on September 29, 2025.
+I. INTRODUCTION.
+VGIC supports the Commission’s goal of modernizing demand response (“DR”) policy to
+reflect evolving customer technologies and grid needs. As electric vehicle (“EV”) adoption
+accelerates, vehicle-grid integration (“VGI”) solutions, such as managed charging and
+bidirectional charging, will play a critical role in providing reliable, flexible load and export
+capabilities. This proceeding will have the opportunity to discuss how best to unlock the value of
+these resources for broad customer and ratepayer benefit. VGIC looks forward to engaging with
+the Commission and stakeholders on these issues and offers comments below on the scope and
+schedule of this proceeding.
+II. BACKGROUND & INTEREST IN PROCEEDING.
+VGIC is a 501(c)6 member-based advocacy group committed to advancing the role of EVs
+and vehicle-grid integration (“VGI”) through policy development, education, outreach, and
+1
+
+research. VGIC supports the transition to a decarbonized transportation and electric sector by
+ensuring the value from flexible EV charging and discharging is recognized and compensated to
+achieve a more reliable, affordable, and efficient electric grid. VGIC’s members include
+automotive original equipment manufacturers (“OEMs”), EV service providers (“EVSPs”), DER
+aggregators, EV charging site developers, publicly owned electric utilities, and Community Choice
+Aggregators.
+EVs can provide critical load flexibility and demand response in California. As EV
+adoption in the state grows, these large batteries on wheels have the potential to be a significant
+flexible load resource, shifting load between different times and providing energy to customers
+and the grid via bidirectional capabilities. VGIC, therefore, holds a direct interest in modifications
+to demand response policy. VGIC has been an active party in the previous Demand Response
+applications, A.22-05-002, et al., and related rulemakings on DERs and demand flexibility such as
+R.21-06-017 and R.22-07-005.
+III. COMMENTS ON THE PROPOSED SCOPE.
+A. Exports should be included in the Demand Response framework.
+As a general matter, the Commission should ensure that exports from customer-sited DERs are
+included in the scope of what is discussed as demand response. California has recognized the grid
+value of exports from customer DERs in certain key DR programs, including the Commission-
+approved Emergency Load Reduction Program (“ELRP”) and the California Energy Commissio’s
+Demand Side Grid Support (“DSGS”) program. However, there is a large potential for exports to
+be provided from customer resources, including bidirectional EV charging systems. For example,
+2
+
+Oakland Unified School District’s bidirectional all-electric fleet can provide 2.1 GWh of flexible
+power a year.1
+Given that these resources are built first to serve onsite customer needs and mostly perform as
+aggregated portfolios instead of individual assets, Demand Response is likely still the most
+appropriate model for these resources. VGIC encourages the Commission to take the Incremental
+Load Reduction model used by ELRP and apply it to demand response programs where exporting
+resources are participating.
+B. Response to Existing Scoping questions.
+1. What guiding principles should the Commission adopt for demand response policies?
+VGIC does not offer any comments on the guiding principles at this time.
+2. What policies should the Commission adopt or amend to make demand response
+resources more consistent, predictable, reliable, and cost-effective, including but not
+limited to:
+a. Dual participation;
+b. Valuation methodologies and evaluation metrics;
+c. CAISO market integration topics; and
+d. Resource adequacy valuation and slice-of-day implementation?
+VGIC strongly supports the inclusion of this question in the scope of this proceeding. In
+evaluating the issues laid out in this question, VGIC encourages the Commission to consider
+leveraging a device-level DR framework. Many customers are now providing demand response
+not by changing their overall load, but by controlling specific large load devices that provide
+outsized grid impacts. This is especially true for EV customers. For example, the average
+1 The EV Report, “First All-Electric, Bidirectional V2G School Bus Fleet Launches in Oakland”, May 16,
+2024: https://theevreport.com/first-all-electric-bidirectional-v2g-school-bus-fleet-launches-in-oakland
+3
+
+household in California uses roughly 17 kWh of electricity a day, but the average EV battery is
+almost four times that size.2 The current statewide average battery capacity for full battery-electric
+vehicles exceeds 60 kWh.3 While most EV customers do not charge every day, these batteries are
+a significant source of load flexibility and can provide substantial demand response, even when
+other loads are inflexible. Since significant demand response capability is found in particular
+devices or DERs, the Commission should seek to move valuation methodologies and metrics to
+the device level. Device-level participation can also alleviate some dual-participation concerns,
+since customers can participate in different programs with different devices, with participation
+measured separately for each device.
+Other dual participation considerations will also have to be considered in this proceeding
+since DR programs tend to focus on one grid service value (e.g., system capacity, emergency
+reliability, or distribution system management), and it is rare for a program to focus on a variety
+of grid service values, even though most DERs can be simultaneously optimized around several
+grid services. For EVs, there are also opportunities to both control load (i.e., manage EV charging)
+and provide power via discharging the vehicle battery (i.e., bidirectional EV charging). When
+considering dual participation, the Commission should determine how best to enable customers to
+deliver a range of grid service values, including through dual participation in multiple programs.
+On CAISO market integration and Resource Adequacy (“RA”) valuation, VGIC also
+supports discussing these issues in this proceeding. The Commission should ensure that the full
+scope of RA issues can be discussed in this venue. While VGIC appreciates that the Commission
+2 Electricity consumption data from the CEC 2019 California Residential Appliance Saturation Study
+(RASS) https://www.energy.ca.gov/sites/default/files/2021-08/CEC-200-2021-005-
+ES.pdf#:~:text=Electricity%20Consumption%20and%20Unit%20Energy%20Consumption%20The,to%2
+0the%202009%20consumption%20by%20end%20use.
+3 International Energy Agency, Global EV Outlook 2023: https://www.iea.org/reports/global-ev-outlook-
+2023
+4
+
+has a separate proceeding on RA, R.25-10-003, that proceeding has many topics, and parties are
+almost exclusively focused on utility-scale project issues. By addressing these issues in a dedicated
+DR venue, all relevant stakeholders can remain focused on the unique considerations of this
+resource type. Relatedly, the relevant stakeholders do not need to expend their very limited
+resources engaging in a separate proceeding (i.e., the RA proceeding) which focuses primarily on
+utility-scale issues. To the extent coordination is required with the RA proceeding, the Commission
+should clearly delineate which issues must be taken up in the RA OIR or incorporated into this
+proceeding, ensuring that all issues are accounted for. VGIC posits that all relevant RA issues can
+likely be addressed in this proceeding, with only minor coordination with the RA proceeding.
+VGIC also recommends that this issue be discussed in 2026, which we discuss further below.
+3. What standardized data systems, communication protocols, and data transfer
+processes should the Commission adopt or amend to support demand response
+initiatives, including dynamic rates?
+VGIC supports this scoping topic. Data processes, in particular the Share My Data /
+“Green Button” process, has long been a significant barrier to DR participation. Data access has
+been extremely onerous for customers and vendors to navigate. There are also alternative sources
+of data, including device-level data from EVs or EVSE, that could be used for DR measurement,
+but are largely untapped in Commission-approved programs. We encourage the Commission to
+ensure that standardized data systems can incorporate device-level data and that programs look
+towards device-level performance measurement. For EVs, this can include data from submeters,
+including EVSE acting as submeters, or onboard telematics systems. Issues surrounding device-
+level data collection and transfer should be included in this proceeding. Post processing of raw
+telematics data, such as line loss from EVSE to vehicle battery, should be discussed to arrive at
+accurate data to measure performance measurement and inform program development.
+5
+
+When the Commission considers data collection requirements and processing needs,
+VGIC encourages the Commission to consider not only data needed for individual program
+performance measurement but also weigh whether other data or data processing is needed to
+ensure that DR resources can show their full capacity values. To maximize the value of DR and
+dynamic rates, it is critical that these resources be included in LSE supply plans or load forecasts
+to reduce capacity obligations. VGIC understands that there have been multiple barriers in this
+effort, but to the extent that data collection and transfer is one of them, the Commission should
+ensure that this Rulemaking addresses any gaps that must be filled.
+IV. PROCEDURAL SCHEDULE.
+Given the breadth of this proceeding, VGIC recommends concurrent tracks to address all
+issues in scope in a timely manner. VGIC recommends beginning discussions on the issues in
+question 2 (i.e., dual participation, valuation metrics, CAISO market integration, and Resource
+Adequacy) in 2026. The current schedule laid out in the OIR does not have these issues being
+discussed at all until 2027. The OIR also contemplates releasing a Proposed Decision on both DR
+guiding principles and data systems and process improvements in Q3 2026. If the Commission
+would like to have adopted guiding principles before the discussion of the items in question 2, a
+separate Decision should be adopted in Q1 2026 on the guiding principles based on party
+comments on this OIR.
+V. CATEGORIZATION, AND NEED FOR HEARINGS.
+VGIC supports the categorization of this proceeding and agrees with the preliminary
+determination that hearings will not be necessary.
+6
+
+VI. NOTICES.
+Service of all notices and communications in this proceeding should be directed to the
+following VGIC representative:
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+VII. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the OIR. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: November 13, 2025
+7

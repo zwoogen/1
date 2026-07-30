@@ -1,0 +1,265 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+04/30/26
+Order Instituting Rulemaking to Update Rulemaking 25-08-004
+04:59 PM
+Distribution Level Interconnection (Filed August 14, 2025)
+R2508004
+Rules and Regulations.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ASSIGNED COMMISSIONER’S SCOPING MEMO AND RULING
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (279) 895-7855
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: April 30, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Update Rulemaking 25-08-004
+Distribution Level Interconnection (Filed August 14, 2025)
+Rules and Regulations.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ASSIGNED COMMISSIONER’S SCOPING MEMO AND RULING
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Assigned Commissioner’s Scoping Memo and Ruling (“Scoping Memo”),
+issued by President Alice Reynolds on March 3, 2026, as modified by the Email Ruling Granting
+Extension for Comments, Motion to Late File NOI, and Motions for Party Status issued by
+Administrative Law Judge Andrew Dugowson.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to provide comments in response to the Scoping Memo
+regarding the update to distribution-level interconnection rules and regulations and, specifically,
+to address the questions in Appendix A. VGIC strongly supports the Commission’s intent to
+modernize Rule 21 and to ensure that interconnection timelines and application fees remain
+efficient, transparent, affordable, and equitable as California transitions to greater use of
+distributed energy resources (“DER”). VGIC commends Energy Division staff and the
+Commission for prioritizing the critical issue of interconnection application fees for small non-
+NEM customers, as the current fee has an outsized impact on the emerging small bidirectional
+charging system market. Accordingly, VGIC offers several recommendations in response to the
+Scoping Memo questions.
+1
+
+II. INTERCONNECTION TIMELINE QUESTIONS
+1. Should the Commission take measures to modify the interconnection [timeline] rules and
+requirements established for IOUs’ in D.20-09-035? If so, what measures do you
+recommend? Include in your response answers to the following questions:
+i. Are the timelines in D.20-09-035 reasonable? What data or information are
+available to support whether they are or are not reasonable?
+VGIC does not have a position on this topic at this time but may provide additional
+information in reply comments.
+ii. Should the Commission modify the benchmarks, timelines, metrics and reports
+established by D.20-09- 035, Ordering Paragraph (OP) 22? If yes, describe why
+the modifications are reasonable and how they protect ratepayers and support
+California’s climate goals.
+Yes. Specifically, the Commission should direct the IOUs to modify the
+“Technology Types” listed in their D.20-09-035 OP 22 quarterly interconnection timeline
+reports to include clear identifiers for DC Bidirectional Charging Systems, AC
+Bidirectional Charging Systems, and combinations of DER pairings with these systems
+(e.g., V2X DC + Solar PV, V2X AC + Storage, V2X DC + Solar + Storage, etc.). D.20-
+09-035 OP 22 details the timelines and metrics that the IOUs must report on, and OP 28
+details that all systems other than NEM systems <30 kW shall be subject to interconnection
+timeline targets (and, subsequently, the quarterly timelines reporting directed in OP 22).
+However, neither OP 22 nor OP 28 considers the “Technology Types” data field to be
+collected and reported for each interconnection request. Currently, IOUs apply unclear
+treatment for certain technology types in their quarterly interconnection timeline reports.
+For example, PG&E’s latest report identifies some projects as “Storage – EVSE” or
+2
+
+“Storage – EV.”1 Presumably, these identify DC and AC bidirectional charging systems,
+although, based on VGIC’s interpretation of the reporting materials, that is not explicitly
+defined. Meanwhile, the latest aggregated report lists only “Battery Storage” and “Solar
+PV & Battery Storage.” Presumably, the many “Storage – EVSE” sites identified in
+PG&E’s latest report or the “Electric Vehicle-to-X– DC” identifier used in SCE’s latest
+report are accounted for as “Battery Storage” in the latest aggregated report. However, this,
+too, is not detailed. For those seeking to understand the interconnection timelines facing
+bidirectional charging customers, these inconsistencies – namely, grouping bidirectional
+charging systems in with all other reported energy storage systems – greatly limit the
+usefulness of this reporting. If the Commission, Energy Division staff, the IOUs
+themselves, VGIC, or another stakeholder were seeking transparent information on how
+long it has taken to interconnect all or a subset of bidirectional charging system
+configurations (i.e., to recommend future enhancements to interconnection rules and
+processes), it would be challenging to identify differences or determine which steps pose
+the primary obstacles. VGIC posits that this will not be considered a major revision by
+IOUs and does not anticipate it will be a contested issue among the parties. Further, VGIC
+does not aim to create any needless friction or undue burden in an already rather onerous
+portfolio of IOU reporting. Nonetheless, we respectfully urge the Commission to direct
+utilities to clearly detail and delineate DC and AC bidirectional charging systems in the
+“Technology Types” field of both their individual and consolidated reporting to make the
+data useful to stakeholders. For example, the following terms could be used:
+• DC Bidirectional Charging System
+o DC Bidirectional Charging System – PV
+1 See e.g., PG&E Interconnection Timeline Report Q4 2025, January 30, 2026.
+3
+
+o DC Bidirectional Charging System – Storage
+o DC Bidirectional Charging System – PV, Storage
+• AC Bidirectional Charging System
+o AC Bidirectional Charging System – PV
+o AC Bidirectional Charging System – Storage
+o AC Bidirectional Charging System – PV, Storage
+Alternatively, the terms “DC Bidirectional Charging System” and “AC Bidirectional
+Charging System” could appear as “Storage – EVSE” and “Storage – EV”, as PG&E
+already provides. Another alternative could be to use the terms “Electric Vehicle-to-X–
+DC” and “Electric Vehicle-to-X– AC”, which appear in SCE’s reporting.2 Ultimately,
+VGIC does not have a preference regarding whether all three IOUs use the same
+language, but rather that they all provide a clear, easily interpretable indication so
+that the Commission, Energy Division staff, the IOUs themselves, and other parties
+can make use of the data.
+iii. Should the Commission update the list of projects eligible for the timelines? What
+type of projects and/or resources (e.g., projects with deliverability and power
+purchase agreements with load serving entities) should be eligible for the
+timelines?
+D.20-09-035 OP 28 details that systems other than <30 kW NEM systems are
+currently eligible for the timelines and, subsequently, the quarterly timeline reporting.
+Based on VGIC’s understanding, most bidirectional charging customers are, therefore,
+already eligible for timelines and associated reporting. However, it is unclear whether
+bidirectional charging systems that are taking service and interconnecting under the Net
+Energy Metering Multiple Tariff (“NEM-MT”) are eligible for timelines and associated
+reporting. Based on our interpretation of the quarterly interconnection reporting, it appears
+2 SCE uses the phrasing “Electric Vehicle-to-X– DC” and “Electric Vehicle-to-X– AC” in its quarterly reporting.
+4
+
+that NEM-MT sites above 30 kW are listed, but those under 30 kW are not.3 VGIC
+therefore requests the Commission clarify that bidirectional charging sites taking
+service under NEM-MT, regardless of size, are eligible for timelines and reporting.
+Similar to the recommendation in response to question 1.ii above, VGIC believes that
+enhanced reporting on bidirectional charging systems will significantly improve
+stakeholders’ ability to understand the areas of friction across various bidirectional
+charging configurations and, in turn, support sound policymaking. VGIC estimates roughly
+50-70% of early adopters of bidirectional charging systems will also have a rooftop solar
+system and, as a result, NEM-MT installations may become increasingly common for these
+customers.
+iv. Should the Commission consider the proposals in party comments to add
+additional timelines? If so, what data should the utilities use to determine the
+timelines? What type of projects would require this work?
+VGIC does not have a position on this topic at this time but may provide additional
+information in reply comments.
+v. Should the Commission re-consider how the 95% compliance benchmark set by
+D.20-09-035, OP 28 is evaluated? Are there alternative compliance benchmarks
+or mechanisms the Commission should consider to supplement and/or replace the
+95% compliance benchmark?
+VGIC does not have a position on this topic at this time but may provide additional
+information in reply comments.
+3 California Public Utilities Commission. Electric Rule 21: Generating Facility Interconnections. Rule 21
+Interconnection Timeline Reporting. All IOUs – R21 Timelines Report. https://www.cpuc.ca.gov/Rule21/. Accessed
+April 28, 2026. https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/rule21/all_ious-
+r21timelinesreport_202204.xlsx
+5
+
+vi. How could the overall timelines compliance and reporting process be simplified
+and improved?
+VGIC generally supports simplifying and improving the compliance and reporting
+process. However, this must be balanced with the need to maintain transparency such that
+reporting can effectively inform policymaking. At a minimum, VGIC believes that the
+compliance and reporting process must functionally support a stakeholder in identifying
+the areas of friction in the interconnection process for different technology types (including
+DC Bidirectional Charging Systems, AC Bidirectional Charging Systems, and either of
+these configurations paired with other DER(s)), site sizes, and tariffs (e.g., NEM-MT vs
+non-NEM). This identification could conceivably be accomplished through a process
+simpler than the one currently in place. VGIC looks forward to further collaboration with
+the Commission and stakeholders on any efforts to simplify and streamline timelines
+reporting without compromising its usefulness.
+vii. Should the Commission adopt any of the proposals presented by parties for
+timeline compliance mechanisms? If so, provide a detailed description of how the
+proposal should be implemented. What are the drawbacks and merits of the
+proposals provided?
+VGIC does not have a position on this topic at this time but may provide additional
+information in reply comments.
+III. INTERCONNECTION FEE QUESTIONS.
+1. Utilities currently charge all non-NEM resources a flat interconnection fee of $800,
+regardless of the size or type of resource. The IOUs also, under certain circumstances,
+conduct and charge the applicant a fee for a Supplemental Review.
+6
+
+2. The IOUs shall, and other parties may, address the following question: What are the costs
+associated with interconnecting non-NEM resources? Does the current $800
+interconnection fee cover these costs? If the costs vary based on certain characteristics
+(e.g., generating technology or project size), separate your responses into the appropriate
+buckets. If the data are not available, what steps are necessary to collect this data?
+VGIC does not have cost data for non-NEM systems beyond what utilities currently report.
+However, VGIC recommends that the utilities provide interconnection cost data broken down by
+project size as follows: systems < 30 kW, 30 kW – 1 MW, and > 1 MW. Based on the Q2 2025
+Interconnection Discussion Forum, the relative complexity of interconnection applications (and
+therefore processing costs) appears to be directly correlated with project size. Therefore, if the
+utilities do not provide costs broken down by project size, the Commission should seek to quickly
+enable the collection of this data.
+3. Should the Commission order utilities to update the interconnection fees?
+Yes, as VGIC has discussed in this proceeding and prior venues (e.g., Interconnection
+Discussion Forum), the California IOUs have the highest interconnection application fee for small
+non-NEM systems in the country. The $800 fee was set in a decision over two decades ago and
+warrants an update. The Commission has acknowledged that this update is needed, including in
+the previous Rule 21 proceeding (R.17-07-007), and the time to address this issue is now. Further
+delay risks significantly restricting California's ability to leverage small non-NEM systems,
+including bidirectional charging solutions, to support the grid. The Commission’s substantial
+investments in dynamic rate pilots, emergency reliability programs, V2X Pilots, and related efforts
+to unlock bidirectional charging solutions and other small non-NEM DERs have collectively
+tapped hundreds of millions of dollars in ratepayer funds. These efforts are directly and severely
+undercut by the exceedingly high interconnection application fee for small non-NEM systems.
+Notably, today’s non-NEM bidirectional charging systems are similar in size to and leverage the
+7
+
+same UL safety standards as small NEM systems. In some cases, the same inverter model is even
+deployed for both emerging small non-NEM bidirectional charging products and actively-
+deployed, interconnected small NEM systems.
+i. If so, how should the Commission order to calculate the new fee schedules, and what
+data are necessary to calculate those fees?
+VGIC posits that the IOUs do not yet have sufficient cost data on interconnecting small,
+non-NEM bidirectional charging systems to support the calculation of a new fee schedule for
+these systems. In the long term, the IOUs should closely track this cost data, file a joint report
+in this or a successor interconnection proceeding (on which the Assigned Commissioner or
+ALJ should request party comments), and then, via joint Advice Letter, request a new
+interconnection application fee for small non-NEM systems. The report, comment period, and
+subsequent Advice Letter should be triggered by surpassing 10,000 total completed small non-
+NEM bidirectional charging system interconnection applications across all three IOUs, as
+reported in D.20-09-035 OP 22 reports.
+In the interim, VGIC strongly recommends that the Commission set the
+interconnection application fee for small non-NEM bidirectional charging systems equal
+to the interconnection fee currently in place for small NEM systems. VGIC believes this
+interim approach is reasonable, as it avoids overly penalizing customers engaging in the
+relatively nascent bidirectional charging market. This proposal also offers a built-in risk-
+containment mechanism, as only the first approximately 10,000 customers would receive this
+treatment.
+ii. Should the Commission order utilities to charge fees that more closely represents the
+actual cost of a given application?
+8
+
+VGIC believes it is ideal for utilities to have application fees that more closely reflect
+the actual costs of reviewing these applications. However, these fees should also be reasonable
+and predictable for customers, and newer technologies should not be overly penalized. For
+example, the IOUs have processed only a handful of Rule 21 applications for bidirectional
+charging systems in the last few years, and only in 2025-2026 have residential bidirectional
+charging systems received Permission to Operate.4 Given that small, non-NEM bidirectional
+charging systems are a relatively nascent market, the time and costs for application review may
+be higher than they will be once the utilities gain familiarity and expertise with bidirectional
+charging systems. VGIC anticipates that this can happen relatively quickly, since bidirectional
+charging systems are similar to stationary storage devices (as outlined extensively by the
+Commission in D.20-09-035), but these early deployments should not be overly penalized.
+Therefore, VGIC does not believe that, in the long term, application fees should differ between
+technology types. Instead, all projects of similar size should eventually pay the same
+application fee, even if other interim approaches are used until the Commission can confirm,
+through IOU reporting, that the application review costs are, in fact, similar across these
+projects.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Scoping Memo. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+4 See e.g., PG&E Interconnection Timeline Report Q4 2025, January 30, 2026.
+9
+
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: April 30, 2026
+10

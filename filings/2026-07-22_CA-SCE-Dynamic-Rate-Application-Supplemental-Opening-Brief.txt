@@ -1,0 +1,173 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Southern California Edison Application 24-06-014
+Company (U-338E) for Approval of Large (Filed September 30, 2024)
+Power Dynamic Pricing Rate.
+Application 24-12-008
+And Related Matter.
+SUPPLEMENTAL OPENING BRIEF OF THE VEHICLE-GRID INTEGRATION
+COUNCIL
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: July 22, 2026
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Southern California Edison Application 24-06-014
+Company (U-338E) for Approval of Large (Filed September 30, 2024)
+Power Dynamic Pricing Rate.
+Application 24-12-008
+And Related Matter.
+SUPPLEMENTAL OPENING BRIEF OF THE VEHICLE-GRID INTEGRATION
+COUNCIL
+Pursuant to Rule 13.1 of the Rules of Practice and Procedure of the California Public
+Utilities Commission (“Commission”) and the Administrative Law Judge’s Ruling Modifying
+Schedule and Providing Supplemental Opening Brief Instructions (“Ruling”) issued on July 8,
+2026, the Vehicle-Grid Integration Council (“VGIC”) hereby submits this Supplemental Opening
+Brief on the consolidated Application of Southern California Edison Company (U 338-E) for
+Approval of Large Power Dynamic Pricing Rate.
+I. RESPONSE TO ISSUE 5 REGARDING EXTENSION OF EXPANDED DYNAMIC
+RATE PILOT.
+ALJ Ruling Issue 5:
+In its supplemental testimony, SCE requests that the Commission expand the scope
+of this proceeding to consider extending the timeline and budget of SCE’s Expanded
+Dynamic Rate Pilot, which SCE states it must rely on to maintain compliance with
+the California Energy Commission Load Management Standards until the Standard
+Dynamic Rate can be implemented, with an implementation estimate of Quarter 1 of
+2030.
+a. Is SCE’s implementation timeline for the Standard Dynamic Rate
+reasonable? Please explain: i.) how the proposed timeline compares to the
+implementation timeline for the Expanded Pilots, ii.) what changes are needed
+compared to the Expanded Pilots, and iii.) how long each proposed change will
+take.
+b. Given that SCE’s Expanded Pilots are currently authorized to end by
+December 31, 2027, what process should be initiated to enable SCE’s
+customers to have continued access to a dynamic rate, or dynamic rate pilot?
+1
+
+VGIC recommends herein a process that should be initiated to enable SCE’s customers to
+continue accessing a dynamic rate or dynamic rate pilot. As detailed in the Ruling, SCE’s
+Expanded Pilot is currently authorized to end by December 31, 2027. However, the Expanded Pilot
+itself currently imposes a de facto exclusion on certain interested customers, and VGIC is
+concerned this would continue through 2026, 2027, and, if extended, future years. Specifically,
+SCE’s de facto exclusion of non-net energy metering (“Non-NEM”) exporting customers, namely
+bidirectional electric vehicle (“EV”) charging customers, represents a significant departure from
+the Commission’s intent detailed in Decision (“D.”) 24-01-032 authorizing the Expanded Pilot and
+the more explicit Commission language included in D.26-04-033.
+As SCE notes in its Reply to the Vehicle Grid Integration Council’s Protest of Advice 5596-
+E, bidirectional EV charging customers are not explicitly excluded from the Expanded Pilot; rather,
+“they simply are not entitled to pilot rate compensation for exports.”1 Practically speaking,
+customers making significant upfront investments in grid-parallel bidirectional EV charging
+systems, including paying the $800 interconnection application fee for small non-NEM systems,
+hold an interest in supporting the grid through exports that would yield customer credits or
+compensation commensurate with the value provided. As such, although SCE technically permits
+bidirectional EV charging customers to participate in its Expanded Pilot, there is no reasonable
+justification for a customer to do so without the Expanded Pilot promoting grid exports in addition
+to load optimization. In turn, SCE, the Commission, and California grid stakeholders at large are
+not provided any opportunity to learn about SCE bidirectional EV charging customer behavior in
+response to the Expanded Pilot. VGIC struggles to understand the rationale for D.24-01-032 to
+1 Conner Flanigan. Southern California Edison Company’s Reply to the Vehicle Grid Integration Council’s
+Protest of Advice 5596-E. August 28, 2025.
+2
+
+have included a dedicated discussion on BTM storage systems and EVSE if the goal was not to
+gain these learnings (i.e., to inform future rate and program design).2 D.24-01-032 highlights that
+the staff proposal recommended allowing BTM storage systems and EVSE to participate in the
+expanded pilots subject to the requirements in Attachment B. The referenced Attachment B is
+focused primarily on the treatment of bidirectional EV charging equipment, detailing how such
+equipment should be treated in the Expanded Pilots. Specifically, Attachment B states:
+• “Any DC V2G EVSE that has UL 1741 certification…may interconnect initially
+for the purpose of participating in the expanded pilots. (emphasis added)”
+• “Only during participation in the expanded pilots, the customer (or the
+customer’s authorized third party) is permitted to virtually aggregate separately
+metered EVSE that have a Rule 21 interconnection agreement with other load and
+generation… to allow export from the EVSE to reduce the host site’s load and
+export from such aggregation… (emphasis added).”
+In D.24-01-032, the Commission then states, “It is reasonable to allow customers with
+BTM storage systems, including sub-metered systems, to participate in the expanded pilots...” and
+“It is reasonable to allow customers with EVSE, including sub-metered systems, to participate in
+the pilot, subject to the rules in Attachment B.”3 Taken together, the Commission’s intent in
+coming to these determinations in the 2024 Decision is clear: bidirectional EV charging
+customers should be eligible to export to the grid through SCE’s Expanded Pilots. Neither
+SCE nor the Commission has since provided evidence or asserted that the Commission erred in
+making this determination. In fact, the opposite has occurred.
+2 D.24-01-032 at 58.
+3 D.24-01-032 at 58.
+3
+
+The Commission seems to have since reaffirmed the value of encouraging grid-aligned
+bidirectional EV charging exports through dynamic rate pilots. In D.26-04-033, the Commission
+rejected a static, Avoided Cost Calculator (“ACC”) based export rate proposed by SCE, citing that
+additional evaluation is needed and that, in the interim, “…existing dynamic pricing pilots
+approved in D.24-01-032 should be utilized” (emphasis added). 4 Despite the language in D.24-
+01-032 to “allow export from the EVSE to reduce the host site’s load and export from such
+aggregation” and D.26-04-033 rejecting a static V2G export credit and clearly stating that
+“existing dynamic pricing pilots approved in D.24-01-032 should be utilized” (emphasis
+added) SCE has not promoted bidirectional EV charging customer exports through its Expanded
+Pilots, even though the Expanded Pilots have been available to customers for over a year.5
+Today, 18 light-duty vehicle models across nine vehicle brands, in addition to nearly every
+electric school bus sold in the U.S., offer grid-parallel bidirectional EV charging features.6
+Customers are eager to adopt new technologies and seek opportunities to support the grid, as
+demonstrated by SCE’s own customer survey data.7 Similarly, the aggregators or “ASPs” that
+coordinate customer response have made significant investments to take advantage of the
+Expanded Pilot and other CalFUSE rate initiatives based on the clear signals that bidirectional EV
+charging exports would, in fact, be supported. These signals include the 2022 CalFUSE whitepaper
+(to which the SCE Expanded Flexible Pricing Rate Pilot webpage’s Frequently Asked Questions
+4 D.26-04-033 at 49-50.
+5 This includes: 12 vehicle models from General Motors, Ford F-150 Lightning, Nissan Leaf, Kia EV9,
+Volvo EX90, Polestar 3, and the Tesla Cybertruck. For many of these vehicles, the feature is offerred across
+multiple model years.
+6 See https://gmenergy.gm.com/, https://redwds.dcbel.energy/
+7 A.24-03-019. Ex. SCE-04, pp. 125-126; Ex. SCE-04A, pp. 124-125.
+4
+
+section directly refers customers8) and subsequent working group, D.24-01-032 (including,
+namely, Attachment B which specifically details the treatment of bidirectional EV charging
+equipment), PG&E’s awarding of export credits through its Expanded Dynamic Rate Pilot Hourly
+Flex Pricing, and, most recently, D.26-04-033. Despite expanded product availability and
+investments from ASPs, the market for bidirectional EV charging solutions is still emerging, and
+there are very few stable price signals available to encourage customers to leverage these systems
+when it is most beneficial to the grid. The Expanded Pilot, if implemented to align with D.24-01-
+032 and D.26-04-033, would be one of the only forms of utility compensation for grid-friendly
+bidirectional EV charging behavior in California. The only other options available to SCE
+customers are the Emergency Load Reduction Program and Demand Side Grid Support (“DSGS”),
+both of which are currently set to sunset in 2027 or, in the case of DSGS, earlier if additional
+funding is not provided. VGIC stresses the importance of ensuring that bidirectional EV charging
+exports are incorporated into SCE’s Expanded Pilot.
+In response to the Ruling’s issue 5, VGIC strongly recommends that the following
+process be initiated to enable SCE’s customers to have continued access to a dynamic rate,
+or dynamic rate pilot, including by expanding access before the December 31, 2027 sunset
+date:
+1. The Commission should direct SCE to file a Tier 1 Advice Letter within 30
+days to clarify that bidirectional EV charging exports will be recognized and
+credited in the Expanded Pilot, as the Commission states in D.26-04-033.
+8 SCE Expanded Flexible Pricing Rate Pilot – Frequently Asked Questions. Accessed July 22, 2026.
+https://www.sce.com/factsheet/dynamic-pricing-rate-pilot
+5
+
+2. The Commission should direct SCE to file a Tier 2 Advice Letter within 90
+days to detail its extension of the Expanded Pilot until a new dynamic rate
+pilot is available to customers.
+In general, VGIC remains discouraged that SCE continues to overlook the Commission’s
+repeated indications that bidirectional EV charging exports should be promoted through the use of
+its Expanded Pilot, whether that signal comes from the implicit inclusion of bidirectional EV
+charging equipment rules in D.24-01-032 or the explicit statement in D.26-04-033 that “…existing
+dynamic pricing pilots approved in D.24-01-032 should be utilized” in lieu of a static export
+credit. Regarding the availability of export credits to non-NEM customers in SCE’s Standard
+Dynamic Rates (“SDR”), VGIC reserves further responses to reply briefs.
+II. CONCLUSION.
+VGIC appreciates the opportunity to submit this Supplemental Opening Brief and looks
+forward to continued collaboration with the Commission, SCE, and other parties on this important
+initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: July 22, 2026
+6

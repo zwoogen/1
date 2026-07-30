@@ -1,0 +1,90 @@
+August 7, 2025
+Energy Division
+California Public Utilities Commission
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+RE: Response of the Vehicle-Grid Integration Council to Advice Letter 5585-E of Southern
+California Edison Company, Advice Letter 7651-E of Pacific Gas and Electric Company,
+Advice Letter 4694-E of San Diego Gas and Electric Company
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(VGIC) hereby submits these comments to Advice Letter 5585-E of Southern California Edison
+(SCE) Company, Advice Letter 7651-E of Pacific Gas and Electric Company, (PG&E), and
+Advice Letter 4694-E of San Diego Gas and Electric Company (SDG&E), Proposed Enhancement
+to the Vehicle-To-Grid (V2G) AC Pilot in Accordance with Resolution E-5315 (Joint Advice
+Letter) submitted on July 18, 2025.
+Overall, VGIC supports the Advice Letter implementing an additional temporary pathway for
+vehicle-to-grid (V2G) alternating current (AC) interconnection. Utilizing the forthcoming UL
+1741 Certification Requirement Decision (CRD) for DER Systems will allow additional V2G AC
+systems to interconnect in California. We also recommend that the Joint Investor-Owned Utilities
+(IOUs) consider whether the UL 1741 CRD pathway is appropriate for permanent adoption in Rule
+21, alongside the UL 1741 SC pathway, once the V2G AC Interconnection Technical Subgroup is
+reconvened.
+I. VGIC SUPPORTS THE APPROVAL OF UL 1741 CRD AS AN
+INTERCONNECTION PATHWAY FOR V2G AC WITHIN THE PILOT.
+VGIC supports the IOUs’ proposal to establish an alternative certification pathway for V2G
+AC interconnection using the forthcoming UL 1741 CRD for DER Systems, in combination with
+UL 1741 SB and CSIP. Historically, the V2G AC interconnection pilot has required the use of
+external relays. This approach imposes significant additional equipment cost as well as increasing
+overall complexity, requiring engineering expertise and added utility review of individual project
+configurations.
+1
+
+In contrast, the proposed CRD-based certification pathway offers a more cost-effective
+solution. Importantly, VGIC posits this approach would streamline interconnection review for
+utilities; standardized testing and certification to the CRD reduce the need for detailed project-by-
+project engineering assessments, enabling faster approvals and lowering administrative workload
+and costs.
+VGIC also supports the Utilities’ proposal to exclude V2G AC systems certified under this
+alternative process from the original V2G AC Pilot project cap of six projects per utility per year.
+Based on our understanding, the six-project cap was adopted as a tool for cost containment.
+However, as noted above, engineering review and administrative costs are anticipated to be lower
+under the CRD-based pathway compared to relay-based site designs. Eliminating the six-project
+cap ensures V2G AC deployments are not unduly constrained, allowing California to accelerate
+the adoption of bidirectional EV charging solutions that can relieve distribution capacity
+constraints, generator capacity constraints, generation energy costs, and related grid balancing
+costs and, in turn, upward pressure on rates. VGIC therefore urges the Commission to approve this
+proposed enhancement to the V2G AC Pilot.
+II. THE UTILITIES SHOULD CONSIDER INCORPORATING THE UL 1741
+CRD FOR DER SYSTEMS AS A PERMANENT CERTIFICATION PATHWAY
+ONCE THE V2G AC SUBGROUP IS RECONVENED.
+VGIC supports the utilities’ near-term implementation of UL 1741 CRD as an optional
+certification pathway within the V2G AC Pilot, but the Joint IOUs, alongside the other participants
+of the V2G AC Interconnection Technical Subgroup, once it reconvenes, should consider how this
+certification could be used going forward. Currently, V2G AC interconnection is only allowed
+under the pilot and has not been incorporated into Rule 21 on a permanent basis. The Advice Letter
+notes that the Joint IOUs are awaiting finalization of UL 1741 SC to establish permanent pathways,
+referring to it as “the leading standard for the interconnection of V2G AC systems.”
+VGIC does not believe V2G AC interconnection should be unduly restricted, including by
+limiting eligible interconnection pathways. Specifically, stakeholders should consider the merits
+of establishing multiple pathways within Rule 21 for enabling V2G AC interconnection. Both UL
+1741 SC and UL 1741 CRD for DER Systems are designed to meet the critical underlying safety
+and grid interoperability requirements. Note UL 1741 CRD is for “matched pair” certification of
+a given EVSE paired with a specific vendor EV for V2G AC operation, whereas the UL 1741 SC
+certification is for general use with any EV meeting SAE J3072 certification. There is also a
+certification pathway for “matched pair” V2G AC using UL 9741 for grid-tied AC power export.
+The UL 9741 certification pathway, however, is not referenced in Rule 21, hence the desire to
+establish the UL 1741 CRD alternative certification pathway. Given the relatively nascent stage of
+2
+
+the market, VGIC recommends considering allowing customers to elect the interconnection
+pathways best suited for them and their choice of technology. Notably, Maryland has already
+established a dual pathway approach, and other markets, including Texas and Nevada, are faced
+with a timely opportunity to follow suit.
+While permanent changes to Rule 21 are outside the scope of this Advice Letter, VGIC urges
+the Joint IOUs not to create undue limitations at this stage. Once the V2G AC Subgroup
+reconvenes, a robust stakeholder process should consider all reasonable certification pathways.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the Joint Advice Letter. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION
+COUNCIL
+cc: Connor Flanigan, SCE (AdviceTariffManager@sce.com)
+Adam Smith, SCE, c/o Karyn Gansecki (Karyn.Gansecki@sce.com)
+Service list R.17-07-007
+3

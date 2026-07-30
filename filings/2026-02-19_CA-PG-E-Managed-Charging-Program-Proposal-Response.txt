@@ -1,0 +1,159 @@
+Feburary 19, 2026
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle Grid Integration Council to Advice Letter 7822-E
+of Pacific Gas and Electric Company: PG&E’s 2026 Low Carbon Fuel
+Standard Implementation Plan
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this Response to the above-referenced Advice Letter 7822-E of Pacific
+Gas and Electric Company (“PG&E”), PG&E’s 2026 Low Carbon Fuel Standard Implementation
+Plan (“Advice Letter”) submitted on January 30, 2026.
+I. INTRODUCTION.
+VGIC commends PG&E for proposing the Residential Optimized Charging Program and
+for pursuing Low Carbon Fuel Standard (“LCFS”) funding to advance vehicle-grid integration
+(“VGI”). PG&E’s 2026 LCFS Implementation Plan presents an important opportunity to translate
+the modeled benefits of electrification into tangible grid value. As PG&E identified in its
+Electrification Impact Study Part 2 (“EIS Part 2”), active EV charging management and
+bidirectional capability together represent significant sources of incremental load flexibility that
+can improve reliability, reduce distribution system costs, and preserve the rate benefits of
+transportation electrification. 1
+VGIC supports PG&E’s Residential Optimized Charging Program as a data-supported use
+of LCFS holdback funds. We also recommend that PG&E consider using these funds to scale
+deployment of the following VGI equipment and strategies: bidirectional charging systems and
+non-residential automated load management (“ALM”) solutions. Together, these strategies can
+maximize the grid benefits of EV adoption using non-ratepayer funding: a clear win-win-win for
+ratepayers, participating EV customers, and California’s decarbonization goals.
+II. DISCUSSION.
+A. PG&E’s Residential Optimized Charging Program is a prudent and data-supported
+use of LCFS Holdback Funds.
+1 PG&E, Electrification Impacts Study Part 2 Report, January 28, 2026, filed in Rulemaking (“R.”) 21-06-017,
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M596/K907/596907812.PDF (“PG&E EIS Part 2”)
+
+February 19, 2026
+Page 2 of 5
+PG&E’s proposed Residential Optimized Charging Program is a logical next step to unlock
+additional grid benefits from EVs. As identified in PG&E’s EIS Part 2, active EV charging
+management and dynamic pricing have the potential to unlock 1,007 MW of load flexibility across
+the PG&E system by 2040.2 The Residential Optimized Charging Program is a critical mechanism
+to translate those modeled benefits into real-world grid value.
+As PG&E explains in the Advice Letter, the program is designed to align EV charging more
+closely with localized grid needs, resulting in downward rate pressure and increased capital
+flexibility.3 While time-of-use rates can shift charging into off-peak windows, optimized charging
+smooths load within those windows and mitigates “timer peaks” that can otherwise stress
+secondary distribution equipment.4 This distinction becomes increasingly important as EV
+adoption accelerates and localized constraints become more prevalent.
+Importantly, PG&E’s proposal builds on nearly a decade of managed charging pilots and
+research. The evPulse Pilot and EV Charge Manager Program have already demonstrated
+measurable results. The EV Charge Manager Program showed that optimization lowered
+peak load across 89% of transformers at risk of exceeding 100% capacity and enrolled
+approximately 6,500 customers.5 The Residential Optimized Charging Program
+appropriately moves from pilot-scale deployment to broader implementation, with the
+potential to engage tens of thousands of customers.6
+By reducing the likelihood of distribution upgrades and preserving the rate benefits of
+electrification, the program advances the same system-level outcomes identified in EIS Part 2:
+improved reliability, lower infrastructure costs, and increased load flexibility. These benefits are
+achieved using LCFS holdback funds rather than ratepayer dollars. VGIC therefore supports the
+Residential Optimized Charging Program as a prudent, data-driven use of LCFS revenues.
+B. PG&E should seek to support the deployment of bidirectional charging systems with
+LCFS Holdback Funds.
+As PG&E continues refining its LCFS holdback portfolio to maximize grid value, it should
+include targeted support for bidirectional charging system deployment. PG&E’s EIS Part 2 found
+that 859 MW of additional demand flexibility could be unlocked through bidirectional EV
+exports.7 Importantly, this 859 MW is incremental to the 1,007 MW of flexibility associated with
+active managed charging. While managed charging reduces or shifts load, bidirectional charging
+2 PG&E EIS Part 2 at 34.
+3 Advice Letter at 15.
+4 Advice Letter at 18.
+5 Advice Letter at 18-19.
+6 Advice Letter at 26.
+7 PG&E EIS Part 2 at 34.
+
+February 19, 2026
+Page 3 of 5
+behavior transforms EVs into dispatchable distributed energy resources capable of supplying
+energy back to the grid.
+Bidirectional vehicle and charger availability is expanding rapidly across light-, medium-, and
+heavy-duty segments. From a system perspective, bidirectional capability meaningfully increases
+the magnitude of available flexibility. For example, if traditional managed charging typically
+avoids or shifts approximately 10 kW of charging load per vehicle, a bidirectional system can both
+avoid charging and discharge energy to serve on-site load or export beyond the meter, effectively
+doubling the flexibility potential to approximately 20 kW per participating vehicle.
+PG&E has been a leader in this space through its VGI / V2X pilots, which have demonstrated
+bidirectional use cases across residential and commercial sectors. However, current VGI pilot
+funding is expected to sunset in 2027. As those pilots conclude, it is prudent for PG&E to begin
+planning for a transition from pilot-scale demonstrations to an offering that better facilitates the
+market's transition to full-scale, programmatic support.
+LCFS holdback funds are an appropriate and strategic funding mechanism for this next phase.
+CARB’s updated LCFS regulation explicitly identifies bidirectional charging equipment
+deployment as an eligible use of holdback proceeds. PG&E should therefore leverage this non-
+ratepayer funding source to unlock incremental load flexibility that would otherwise remain
+unrealized and to scale a resource that directly supports reliability, rate stability, and
+decarbonization goals. VGIC respectfully urges PG&E to file a supplemental AL to leverage
+a portion of LCFS holdback funds to support this critical emerging use case. While PG&E
+has identified bidirectional charging solutions can unlock 859 MW of incremental load
+flexibility, it has not yet detailed its strategy for unlocking this scale.
+C. PG&E should pursue programs to support the adoption of non-residential
+Automated Load Management (“ALM”) solutions.
+In the Advice Letter, PG&E states that it considered a non-residential ALM program for this
+2026 Holdback Implementation plan, but that it decided not to pursue this program. PG&E states
+that more data is required “on the benefits ALM can provide for upfront capacity reduction and
+how ALM fits into existing PG&E processes.”8 However, there are ample benefits from ALM that
+have already been shown, including in third-party evaluator reporting on PG&E’s own programs,
+and PG&E should pursue a non-residential ALM program to unlock these benefits.
+In the Advice Letter, PG&E cites a report from Cadmus Group and CLEAResult Energetics
+that discusses lessons learned from the California utilities’ EV infrastructure programs and outlines
+8 Advice Letter at 11.
+
+February 19, 2026
+Page 4 of 5
+the benefits of an ALM program. In particular, the report notes that “Most fleet operators have not
+implemented load management, resulting in higher electricity costs.”9 The report further describes:
+Across all Utility MDHD programs, only 45 of the 219 activated sites (21%) exhibited use
+of load management. Across these programs, as much as 40% of charging consumption
+shows enough flexibility to be shifted to lower cost time periods. The school bus market
+sector has the greatest flexibility, with 49% of charging sessions overlapping with the
+highest cost time of 4 p.m. to 9 p.m. The greatest flexibility across all market sectors by
+utility is for medium-duty vehicles in PG&E territory, with 59% of energy able to be shifted
+to lower cost time periods.10
+The report then recommends that the utilities adopt mechanisms to expand load management
+technologies and adoption among fleets. 11
+Given clear evidence of the benefits of expanding load management and ALM, PG&E should
+develop a program to advance this technology. While some elements of the program may still
+require refinement, it is not too early for PG&E to put forward an incentive program for this sector
+to offset the costs of the software and/or hardware required to enable ALM for non-residential
+customers. PG&E has also acknowledged further refinements that will be required for the two
+programs that are being put forward in this Advice Letter, with PG&E noting areas where
+flexibility will be maintained to ensure that PG&E can update plans as additional data becomes
+available. This approach can also be used for an ALM incentive and would allow PG&E to put
+forward a proposal now while retaining flexibility to update plans as new learnings arise.
+D. PG&E be given ample flexibility in contracting with one or more aggregators.
+PG&E states that it plans to issue a competitive solicitation in Q3 2026 to select one or more
+Managed Charging Service Providers (MCSPs) to operate the program.12 PG&E also expects to
+finalize agreements with one or more automakers or retailers between Q1 and Q2 2027 to further
+create bundled incentive offerings.13 VGIC encourages PG&E to engage with the parties, both
+MCSPs and retailers, that are best suited to support customer outreach and program resilience as
+revealed through common competitive procurement practices. By following long-established
+practices for developing partnerships with industry leaders, PG&E can directly address this risk.
+9 Cadmus Group and CLEAResult Energetics, “Standard Review Projects and AB 1082/1083 Pilots Evaluation Year
+2024”, September, 2025, at p.7 accessed at https://www.cpuc.ca.gov/-/media/cpuc-
+website/divisions/energydivision/documents/sb-350-te/srp-ab10821083-2024-evaluation-report092025.pdf
+10 Ibid.
+11 Ibid at 8.
+12 Advice Letter at 32.
+13 Advice Letter at 26.
+
+February 19, 2026
+Page 5 of 5
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this Response to the Advice Letter. We look
+forward to collaborating with stakeholders on this important initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+Vehicle Grid Integration Council
+cc: Sidney Bob Dietz II c/o Megan Lawson, PG&E (PGETariffs@pge.com)
+Service list of R.23-12-008
