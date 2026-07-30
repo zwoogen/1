@@ -1,0 +1,324 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+JOINT REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL,
+ENEL X NORTH AMERICA, INC. , ADVANCED ENERGY ECONOMY, CALIFORNIA
+ENERGY STORAGE ALLIANCE, CHARGEPOINT, INC., ENVIRONMENTAL
+DEFENSE FUND, GREENLOTS, NATURAL RESOURCES DEFENSE COUNCIL, AND
+SIEMENS ON ALJ RULING SEEKING PARTY COMMENT ON VEHICLE-GRID
+INTEGRATION ISSUES
+August 31, 2020
+EDWARD BURGESS MARC MONBOUQUETTE
+ZACH WOOGEN Enel X North America, Inc.
+Vehicle-Grid Integration Council 846 Bransten Road
+2150 Allston Way, Suite 400 San Carlos, CA 94070
+Berkeley, CA 94704 Tel: (415) 488-6035
+Tel: (510) 665-7811 Email: marc.monbouquette@enel.com
+Email: vgicregulatory@vgicouncil.org
+MATT STANBERRY JIN NOH
+Advanced Energy Economy California Energy Storage Alliance
+1000 Vermont Ave. NW, 3rd Floor, 2150 Allston Way, Suite 400
+Washington, D.C. 20005 Berkeley, CA 94704
+Tel: (202) 380-1950 Tel: (510) 665 7811
+Email: mstanberry@aee.net Email: cesa_regulatory@storagealliance.org
+ANTHONY HARRISON LARISSA KOEHLER
+ChargePoint, Inc. PAMELA MACDOUGALL
+1
+
+254 East Hacienda Ave. Environmental Defense Fund
+Campbell, CA 95008 123 Mission Street, 28th Floor
+Tel: (408) 656-4292 San Francisco, CA 94105
+Email: anthony.harrison@chargepoint.com Tel: (415) 293-6093
+Email: lkoehler@edf.org
+THOMAS ASHLEY MILES MULLER
+Greenlots Natural Resources Defense Council
+767 S. Alameda St, Suite 200 111 Sutter Street, 21st Floor
+Los Angeles, CA 90021 San Francisco, CA 94104
+Tel: (802) 922-5585 Tel: (415) 875-8254
+Email: tom@greenlots.com Email: mmuller@nrdc.org
+CHRIS KING
+Siemens
+721 Shell Blvd, Suite 205
+Foster City, CA 94404
+Tel: (510) 435 5189
+Email: chris_king@siemens.com
+2
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+JOINT REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL,
+ENEL X NORTH AMERICA, INC. , ADVANCED ENERGY ECONOMY, CALIFORNIA
+ENERGY STORAGE ALLIANCE, CHARGEPOINT, INC., ENVIRONMENTAL
+DEFENSE FUND, GREENLOTS, NATURAL RESOURCES DEFENSE COUNCIL, AND
+SIEMENS ON ALJ RULING SEEKING PARTY COMMENT ON VEHICLE-GRID
+INTEGRATION ISSUES
+I. INTRODUCTION
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (VGIC1) is pleased to
+provide these reply comments on behalf of its members and supporters, as well as Enel X North
+America, Inc., Advanced Energy Economy (“AEE”), California Energy Storage Alliance
+(“CESA”), ChargePoint, Inc., Environmental Defense Fund (“EDF”), Greenlots, Natural
+Resources Defense Council (“NRDC”), and Siemens (collectively, “Joint Commenters”) on the
+Administrative Law Judge’s Email Ruling Seeking Party Comment on Vehicle-Grid Integration
+1 The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+3
+
+Issues (“Ruling”) issued by Administrative Law Judge (“ALJ”) Patrick Doherty on July 20,
+2020. Pursuant to the Ruling, we timely file these reply comments on August 31, 2020.
+II. FULFILLING THE VISION OF SB 676 WILL ACCELERATE
+TRANSPORTATION ELECTRIFICATION, NOT IMPEDE IT.
+In opening comments, San Diego Gas & Electric (“SDG&E”) states that “there remains
+widespread uncertainty regarding the value and cost of many VGI use cases. SDG&E therefore
+believes the primary focus of state strategy and investment must remain on spurring EV
+adoption.”2 Joint Commenters acknowledge that both VGI and transportation electrification
+(“TE”) are in a relatively nascent state; however, SDG&E’s assertion that VGI may present
+barriers to broader TE is misplaced. To the contrary, the Joint Commenters believe that VGI
+strategies offer opportunities to accelerate TE by addressing critical cost barriers related to EV
+adoption. As discussed in our Joint Comments, VGI can directly address barriers to faster EV
+adoption by:
+Reducing the total cost of ownership via lower charging costs and new customer revenue
+streams; Unlocking new value propositions beyond e-mobility and VGI (e.g., V2H/V2B
+providing backup power – especially relevant during COVID-19 and rolling brown-
+outs.); Unlocks new revenue streams for OEMs, improves business case for EVs; Can
+help “right-size” TE infrastructure investments and unlock revenue streams for EVSPs
+and OEM end user. 3
+Joint Commenters maintain that there is a critical need to develop VGI in parallel with - not in
+lieu of - broader TE initiatives. To enable VGI to accelerate TE and maximizes ratepayer
+benefits, the Commission should focus its efforts on rates, programs, and market mechanisms,
+2 San Diego Gas & Electric Company’s (U 902-E) Opening Comments on Email Ruling Seeking Party Comments on
+Vehicle-Grid Integration Issues at 5.
+3 Joint Comments of the Vehicle-Grid Integration Council, Enel X North America, Inc., Advanced Energy Economy,
+California Energy Storage Alliance, ChargePoint, Inc., Environmental Defense Fund, Greenlots, Natural Resources
+Defense Council, and Siemens on Email Ruling Seeking Party Comment on Vehicle-Grid Integration Issues at 20.
+4
+
+such as those supported by the Joint Commenters’ VGI Portfolio concept. These rates, programs,
+and market mechanisms will source cost-effective VGI use cases that deliver customer value.
+III. CLAIMS THAT DYNAMIC PRICING SIGNALS OR VGI PROGRAMS WILL
+ADVERSELY IMPACT CUSTOMER CHARGING EXPERIENCES AND
+POTENTIALLY DETER EV ADOPTION ARE UNSUPPORTED.
+In opening comments, SDG&E states “state policy must balance the grid values of VGI
+with the potential for confusing or alienating potential EV adopters” and suggests dynamic rates
+may be too confusing for some customers. 4 While there are likely to be some customers that are
+unable to respond to a real-time price signal or are uninterested in leveraging dynamic rates, this
+provides absolutely no justification for avoiding dynamic rates altogether, especially given the
+technological solutions the market already offers to make internalizing and responding to
+advanced price signals quite straightforward. For example, a “set-and-forget” strategy could be
+used wherein customers select a mileage range or state of charge for their vehicle and allow
+charge management to occur in the background without any additional or potentially complicated
+decision points that could confuse customers. Under this example, EV and/or EVSE-based
+managed charging systems would be able to respond to dynamic price signals “behind the
+scenes,” while making the VGI process both easy for customers and beneficial for the grid.
+SDG&E describes a scenario in which “being defaulted to a complex real-time rate” leads to
+greater costs for fleet operators.5 However, no party has suggested that complex real-time rates
+needs to be the default option for EV customers and this was not a recommendation of the Final
+VGI WG Report – and, indeed, it is not clear that SDG&E’s concern would not be remedied by
+more effective marketing, education, and outreach. Instead, the Joint Commenters recommend
+4 San Diego Gas & Electric Company’s (U 902-E) Opening Comments on Email Ruling Seeking Party Comments on
+Vehicle-Grid Integration Issues at 6.
+5 Ibid.
+5
+
+the Commission issue guidance that encourages dynamic rate options and supporting programs
+mechanisms that allow customers to choose the solution that delivers the most value in exchange
+for grid-friendly charging.
+SDG&E proceeds to offer an example that:
+requiring a direct current fast charging (“DCFC”) station to participate in demand
+response events may produce grid benefits but would seriously inconvenience drivers
+who arrive at the station and are unable to charge.6
+Joint Commenters note that this is not a recommendation provided in the VGI WG Final Report.
+Furthermore, there is no evidence to Joint Commenters’ knowledge that activating certain grid
+services would necessarily render drivers “unable to charge,” or that passing through amplified
+price signals to drivers will be incomprehensible to customers and deter EV adoption. This is
+especially true for fleet operators that are likely to have more sophisticated energy management
+systems for charging. Moreover, some of these more sophisticated energy management systems
+may be willing and able to accept a moderate level of “inconvenience” if provided the right
+incentive structures to appropriately compensate them for grid and/or environmental benefits.
+Joint Commenters also believe that there are potential VGI strategies for DCFC stations
+that simultaneously provide grid benefits and promote broader TE. For example, DCFC
+operators that opt into a dynamic rate option or demand response program could develop new
+business models and offerings that allow their customers to realize monetary benefits if they
+voluntarily choose to provide grid services or manage their charging in a more dynamic way.
+However, the incentive to create these offerings likely will not exist without dynamic rates, price
+signals and/or managed charging programs that allow these offerings and services to create
+value. Drivers of traditionally fueled vehicles can be quite price sensitive and respond by driving
+6 Ibid.
+6
+
+significant distances to save money on gas. There is no reason to believe that EV drivers would
+not similarly respond to price signals if given the option and choice to do so.
+IV. TIMELY IMPLEMENTATION OF SB 676 IS A STATUTORY
+REQUIREMENT AND NOT CONTINGENT ON FULL RESOLUTION OF
+THE JOINT AGENCIES VGI WORKING GROUP SCOPING QUESTIONS.
+As mentioned by some parties in opening comments, the VGI WG process was inherently
+incomplete7 and the Final Report did not reflect the broad swath of stakeholders that should have
+been included. Joint Commenters appreciate the considerable effort made by stakeholders,
+facilitators, and engaged members of Energy Division Staff over the course of the VGI WG
+process to address the three VGI WG scoping questions. As active participants in the VGI WG,
+Joint Commenters agree with others that the process was not perfect; however, we believe it did
+highlight certain high-value, near-term recommendations, many of which are included in Joint
+Commenters’ recommended Model VGI Portfolio and are identified in the August 10, 2020 Staff
+Paper on VGI Issues.8
+In opening comments, some parties indicate the need to conduct further analysis of the
+VGI WG use cases because the VGI WG did not answer all three scoping questions.9 Critically,
+Joint Commenters emphasize that implementation of SB 676 is a statutory requirement and not
+contingent on full resolution of the VGI WG scoping questions. Furthermore, the VGI WG did
+not explicitly consider the “action” or implementation pathway(s) needed to monetize VGI use
+cases, and therefore the WG’s efforts should be seen a useful effort to inform, not prescribe, the
+7 See, for example, San Diego Gas & Electric Company’s (U 902-E) Opening Comments on Email Ruling Seeking
+Party Comments on Vehicle-Grid Integration Issues at 2 and Southern California Edison Company's (U 338-E)
+Opening Comments on ALJ Ruling Seeking Party Comments on Issues Related to Vehicle-Grid Integration at 2.
+8 Energy Division Staff Paper on Vehicle Grid Integration Implementation and the Draft Transportation
+Electrification Framework (August 10, 2020)
+9 See San Diego Gas & Electric Company’s (U 902-E) Opening Comments on Email Ruling Seeking Party
+Comments on Vehicle-Grid Integration Issues at 2and Southern California Edison Company's (U 338-E) Opening
+Comments on ALJ Ruling Seeking Party Comments on Issues Related to Vehicle-Grid Integration at 3.
+7
+
+path forward for SB 676 implementation. Therefore, while further analysis of VGI use cases
+beyond the VGI WG Report may be helpful, Commission guidance on VGI strategies pursuant
+to SB 676 is not critically dependent on completing that analysis. Instead, the Joint Commenters
+reiterate our request that the Commission provide guidance in support of rates, programs and
+market mechanisms that fulfill the requirements of SB 676. We believe the Model VGI Portfolio
+framework offers the fundamental toolkit necessary to implement the statutory requirements
+established by SB 676.
+V. FOCUSING ON RATES, PROGRAMS, AND MARKET MECHANISMS
+WILL SOURCE VGI SERVICES THAT DEMONSTRATE REAL VALUE TO
+DRIVERS, AVOIDING THE RISKS OF “OVER-PILOTING” SOLUTIONS.
+In opening comments, SCE states “the Commission should support and fund market
+demonstration to validate technology, assess market readiness, and verify costs and benefits to
+deliver VGI services and programs.” 10 Similarly, PG&E highlights that “pilots, demonstrations
+and studies, including customer and market research, are important and essential to gather that
+data on a use-case-by-use-case basis.” 11 Gathering data on a use-case-by-use-case basis, as
+PG&E implicitly recommends, is unnecessary, infeasible, and would significantly delay SB 676
+implementation. Indeed, discussions that occurred throughout the VGI WG process, in which
+several of the Joint Commenters were actively engaged, indicated a strong consensus that a near
+term focus on formally instantiated VGI programs addressing Customer Bill Management could
+produce multi-dimensional benefits for ratepayers, load-serving entities (“LSEs”), EV service
+providers (“EVSP”), and original equipment manufacturers (“OEMs”), and can be based on
+presently available secure communications methods. The Joint Commenters do believe that
+10 Southern California Edison Company's (U 338-E) Opening Comments on ALJ Ruling Seeking Party Comments on
+Issues Related to Vehicle-Grid Integration at 3.
+11 Opening Comments of Pacific Gas and Electric Company (U 39 E) on Administrative Law Judge Ruling Seeking
+Party Comments on Vehicle-Grid Integration Issues at 5.
+8
+
+large-scale demonstration projects can be a valuable component of VGI implementation initially,
+but encourage the Commission to fully consider the risks associated with “over-piloting”
+solutions – and ensure that demonstration pilots pursued are suited to enabling full-scale
+programs. While VGI is a nascent market, many VGI strategies and solutions are proven and
+ready for large-scale deployment and programs. Joint Commenters’ preference is for
+implementation efforts to instead focus on creating rates, programs, and market mechanisms that
+will source VGI services that demonstrate real value in the near term. The risk of “over-piloting”
+and requiring continual demonstration of value in pilot or demonstration settings is captured in
+more detail in Comments of VGIC on Transportation Electrification Framework (“TEF”)
+Section 7.12
+To the extent the Commission does direct IOUs to pursue reasonable and justifiable
+demonstration projects within a framework that mitigates the risk of over-piloting, the Joint
+Commenters support these actions taking place in the near-term, pre-TE Plan (“TEP”)
+timeframe. At the same time, to ensure that any pilot facilitates potential scaling, pilots should
+be carefully crafted with key objectives and an evaluation plan that would support scaling the
+pilot program to a commercial program.
+VI. JOINT COMMENTERS SUPPORT SEVERAL OF THE UNION OF
+CONCERNED SCIENTISTS’ (“UCS”) RECOMMENDATIONS.
+In opening comments, UCS underscores the importance of recognizing the different
+capabilities and needs of various sectors. Joint Commenters agree with UCS’s recommendation
+that “vehicle segment should be a consideration as the Commission develops and refines VGI
+12 Comments of the Vehicle-Grid Integration Council on the Transportation Electrification Framework (Sections 7
+And 8) at 2. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M343/K624/343624819.PDF
+9
+
+strategies.” 13 Given the different battery sizes and operational characteristics between light-duty
+and medium- and heavy-duty vehicles, as well as within the latter two categories, the VGI
+capabilities of these various sectors will need to be considered under different lenses. Joint
+Commenters also support UCS’ comment that “ESJ communities, in particular, need thorough
+ME&O on VGI opportunities to ensure they are aware of and have access to the benefits of
+VGI,”14 and their recommendation that the Commission facilitate IOU coordination with other
+agencies to provide VGI educational materials to low-income drivers under existing California
+Energy Commission and Air Resources Board programs.
+VII. JOINT COMMENTERS AGREE WITH SEVERAL PARTIES ON COMMON
+RECOMMENDATIONS
+Several parties indicated that the VGI definition should describe the capability for VGI
+strategies to support resiliency.15 The Joint Commenters agree with this recommendation, and
+encourage the Commission to adopt a revised definition that captures not only the opportunity to
+enhance resiliency but also broader economic, social, or environmental benefits associated with
+TE16 to reflect the growing needs for renewables integration and wildfire-risk-related resiliency.
+Joint Commenters also agree with parties that indicated SB 676 implementation remain
+within the DRIVE OIR at this time. While a dedicated proceeding can provide focus on
+particular issues, especially ones that are not being addressed elsewhere, the Joint Commenters
+13 Opening Comments of the Union of Concerned Scientists on Administrative Law Judge Ruling Seeking Party
+Comment on Vehicle-Grid Integration Issues at 6.
+14 Id. at 12.
+15 See, for example, SBUA Comments on VGI Issues at 3, SCE Comments on VGI Issues at 2, SDG&E Comments
+on VGI Issues at 7, and PG&E Comments on VGI Issues at 2.
+16 See Joint Comments of the Vehicle-Grid Integration Council, Enel X North America, Inc., Advanced Energy
+Economy, California Energy Storage Alliance, ChargePoint, Inc., Environmental Defense Fund, Greenlots, Natural
+Resources Defense Council, and Siemens on Email Ruling Seeking Party Comment on Vehicle-Grid Integration
+Issues at 7.
+10
+
+have concerns that a separate docket would create additional time and resource burdens on the
+Commission and stakeholders, create scoping issues in terms of which proceeding to best address
+certain VGI issues, and create some risk of misalignment between this separate proceeding and
+the DRIVE OIR. Especially as there are already a number of proceedings at the Commission
+where identifying the appropriate proceeding to address a particular issue is a persistent
+challenge for the Commission and stakeholders, a single umbrella proceeding on all issues
+related to transportation electrification would better address each of the aforementioned
+concerns. Rather, the Joint Commenters encourage consistent focus on VGI matters in the
+DRIVE OIR. By effectively implementing SB 676 within R.18-12-006, overarching VGI policy
+focus, development, and implementation can be directed within this proceeding or potentially in
+others.
+VIII. CONCLUSION
+Joint Commenters appreciate the opportunity to submit these reply comments on VGI
+Issues. We look forward to further collaboration with the Commission and stakeholders on this
+initiative.
+Dated: August 31, 2020 Respectfully submitted,
+/s/ Edward Burgess /s/ Marc Monbouquette
+Edward Burgess Marc Monbouquette
+Vehicle-Grid Integration Council Enel X North America, Inc.
+2150 Allston Way, Suite 400 846 Bransten Road
+Berkeley, CA 94704 San Carlos, CA 94070
+Tel: (510) 665-7811 Tel: (415) 488-6035
+Email: vgicregulatory@vgicouncil.org Email: marc.monbouquette@enel.com
+/s/ Matt Stanberry /s/ Jin Noh
+Matt Stanberry Jin Noh
+Advanced Energy Economy California Energy Storage Alliance
+1000 Vermont Ave. NW, 3rd Floor, 2150 Allston Way, Suite 400
+11
+
+Washington, D.C. 20005 Berkeley, CA 94704
+Tel: (202) 380-1950 Tel: (510) 665 7811
+Email: mstanberry@aee.net Email: cesa_regulatory@storagealliance.org
+/s/ Anthony Harrison /s/ Larissa Koehler
+Anthony Harrison Larissa Koehler
+ChargePoint, Inc. Pamela Macdougall
+254 East Hacienda Ave. Environmental Defense Fund
+Campbell, CA 95008 123 Mission Street, 28th Floor
+Tel: (408) 656-4292 San Francisco, CA 94105
+Email: anthony.harrison@chargepoint.com Tel: (415) 293-6093
+Email: lkoehler@edf.org
+/s/ Thomas Ashley /s/ Miles Muller
+Thomas Ashley Miles Muller
+Greenlots Natural Resources Defense Council
+767 S. Alameda St, Suite 200 111 Sutter Street, 21st Floor
+Los Angeles, CA 90021 San Francisco, CA 94104
+Tel: (802) 922-5585 Tel: (415) 875-8254
+Email: tom@greenlots.com Email: mmuller@nrdc.org
+/s/ Chris King
+Chris King
+Siemens
+721 Shell Blvd, Suite 205
+Foster City, CA 94404
+Tel: (510) 435 5189
+Email: chris_king@siemens.com
+12

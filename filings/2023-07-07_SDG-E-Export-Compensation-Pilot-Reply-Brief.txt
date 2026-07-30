@@ -1,0 +1,357 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Real Time Application No. 21-12-006
+Pricing Pilot Rate. (Filed December 13, 2021)
+Application of San Diego Gas & Electric Application No. 21-12-008
+Company (U902E) for Approval of Commercial (Filed December 17, 2021)
+Electric Vehicle Dynamic Rate.
+REPLY BRIEF OF THE VEHICLE GRID INTEGRATION COUNCIL
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+July 7, 2023
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Real Time Application No. 21-12-006
+Pricing Pilot Rate. (Filed December 13, 2021)
+Application of San Diego Gas & Electric Application No. 21-12-008
+Company (U902E) for Approval of Commercial (Filed December 17, 2021)
+Electric Vehicle Dynamic Rate.
+REPLY BRIEF OF THE VEHICLE GRID INTEGRATION COUNCIL
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”) the Vehicle-Grid Integration Council (“VGIC”) hereby submits this
+reply brief in the consolidated Application of San Diego Gas & Electric Company (“SDG&E”) for
+Approval of Real Time Pricing Pilot Rate (“Application”), pursuant to the Procedural Email
+Granting Extension Request for Briefs and Email Ruling to Provide Directions for Reply Briefs
+and Allow Responses to Reply Briefs (“Email Ruling”) issued by Administrative Law Judge
+(“ALJ”) Stephanie Wang on May 16, 2023, and June 19, 2023, respectively.
+VGIC’s below reply brief first responds to the ALJ’s questions from the June 19, 2023,
+Email Ruling, as summarized below:
+• The Commission should require a distribution component for the export pilot that
+applies SDG&E’s distribution CPP component currently implemented in Schedules
+GIR and VGI.
+• The Commission should allow SDG&E to file a Tier 2 Advice Letter based on
+guidance in R.22-07-005 related to dynamic distribution export components if this
+guidance is issued in spring 2024.
+2
+
+• The Joint Settlement Agreement contains unclear language regarding “conjunctive
+billing” customers that should be clarified to ensure customers can participate in
+the export rate using the Plug-In EV Submetering Protocol.
+• The export rate should be evaluated using a metrics-outcomes-goals framework,
+and metrics should include those suggested by VGIC in our Opening Brief.
+• The Commission should not automatically terminate the pilot if the number of
+participants is insufficient, given the relatively nascent state of the market.
+• The Settlement Agreement fails to comply with several Rate and Demand
+Flexibility Design Principles but would comply if a distribution component were
+included.
+• The Settlement Agreement would not result in system reliability benefits and
+greenhouse gas reductions because it limits customer enrollment by offering an
+incomplete export price signal. These benefits could be unlocked with a more
+complete export price signal that includes a distribution component.
+I. RESPONSE TO QUESTIONS FROM JUNE 19, 2023, EMAIL RULING.
+1. Cal Advocates argued in its opening brief that it is not feasible to include a dynamic
+distribution component in the export rate pilot because there have been significant
+implementation challenges for SDG&E’s distribution critical peak pricing (CPP)
+component for Schedules Public Grid Integration Rate (GIR) and Vehicle Grid
+Integration (VGI). Cal Advocates also argued that the Commission will consider
+dynamic distribution components in Rulemaking (R.) 22-07-005 and noted that the
+scoping memo for R.22-07-005 expressed an intention to issue a proposed decision
+on guidance for demand flexibility rates in March 2024.
+a. If the Commission requires a distribution component for the export pilot, do
+you agree with Cal Advocates’ argument that the Commission should not
+apply SDG&E’s distribution CPP component from Schedules GIR and VGI
+due to implementation challenges?
+VGIC disagrees with Cal Advocate’s argument regarding whether SDG&E should apply
+its distribution CPP component from Schedules GIR and VGI. Cal Advocates asserts that “at this
+time, there is not a feasible way to implement a dynamic-distribution component in the export-rate
+3
+
+pilot.”1 VGIC questions whether the distribution CPP (“D-CPP”) component from Schedules GIR
+and VGI is “infeasible” to implement, seeing as it is currently implemented for two SDG&E pilot
+rates. As noted by Cal Advocates, the Public GIR rate has 3 customers enrolled and the VGI rate
+has 3,381 customers enrolled.2 As recommended in the Joint Settlement, the export rate would be
+limited to “SDG&E bundled customers on Schedules EV-HP, AL-TOU, and TOU-A” and
+customers that are not participating in “NEM, any demand response programs, including CPP and
+ELRP, legacy TOU rates, and conjunctive billing.”3 These eligibility provisions, if adopted, will
+necessarily limit the number of customers enrolled in the export rate. As a result, applying D-CPP
+for the export rate and its existing implementations for Schedules GIR and VGI would result in an
+inherently bound implementation challenge with which SDG&E has experience addressing. It is,
+therefore, incorrect to assume that applying D-CPP to the export rate would trigger a new,
+insurmountable implementation challenge. Applying D-CPP to the export rate would instead
+represent an appropriate interim step forward for leveraging dynamic distribution components in
+SDG&E’s service territory.
+Additionally, Cal Advocates’ argument regarding the feasibility of implementation,
+detailed in its Prepared Testimony,4 is based on SDG&E’s Response to Cal Advocates Data
+Request #13:
+“SDG&E experiences difficulty in implementing and billing the D-CPP rate component
+adopted for Schedules VGI and Public GIR because it requires pricing based on the
+customer’s circuit assignment. This significantly complicated executing the appropriate
+pricing for each customer on these rates because each customer’s circuit had to be tracked
+1 Cal Advocates Opening Brief, pg. 7.
+2 SDG&E’s Data Response to Cal Advocates Data Request #3, question 14, pg. 11-12. Referenced in Prepared
+Testimony of Cal Advocates, pg. 1-25.
+3 Joint Motion for Adoption of Settlement Agreement, Attachment 1, pg 7.
+4 Prepared Testimony of Cal Advocates, pg. 1-24.
+4
+
+for CPP events and to confirm when each customer was on a particular circuit (since certain
+customers may switch between circuits throughout the day.)”5
+VGIC understands implementing the D-CPP component requires tracking and confirming which
+circuit a customer is on, and we do not assert that this is an easy task. However, in addition to
+SDG&E already implementing it for two rates, VGIC believes it is reasonable to expect this task
+will be required to implement dynamic distribution components in California. As noted by Cal
+Advocates, the Demand Flexibility Rulemaking (R.) 22-07-005 is considering dynamic
+distribution components; the CalFUSE framework and ongoing Demand Flexibility Working
+Group B consider dynamic distribution components that require significant locational granularity.6
+Taken together, the current implementation of the D-CPP component in two ongoing rates
+and the forward-looking direction of CalFUSE and Demand Flexibility Working Group B for
+locational granularity supports the implementation of SDG&E’s D-CPP component into the export
+rate. With this in mind, VGIC respectfully disagrees with Cal Advocates’ argument and believes
+the argument provides insufficient justification for limiting the export rate components to include
+only marginal energy and marginal generation capacity components.
+Moreover, as highlighted in VGIC’s opening brief, adopting an export rate that
+incorporates only marginal generation components will not result in meaningful participation,
+which will miss out on the opportunity to yield lessons learned to inform future dynamic rate
+design efforts, benefit ratepayers through avoided distribution infrastructure costs, and accelerate
+fleet and other transportation electrification.7 Based on commercially-available bidirectional
+charging and storage-backed charging products and the benefits utilizing these solutions can yield
+5 SDG&E’s Data Response to Cal Advocates Data Request #13, Attachment 1-3, question 2.a., pg. 6.
+6 Cal Advocates Opening Brief, pg. 7.
+7 VGIC Opening Brief, pg. 3.
+5
+
+for ratepayers, electrified fleets, and society at large, it is the right time to authorize a tractable
+export compensation mechanism for SDG&E EV customers. This requires applying D-CPP to
+SDG&E’s export rate.
+b. If the Commission requires a distribution component for the export pilot,
+should the Commission direct SDG&E to file a Tier 2 advice letter after a
+decision on guidance for demand flexibility rates in R.22-07-005 to
+implement a dynamic distribution component for the export rate pilot that
+complies with the guidance decision?
+As noted in VGIC’s response to question 1.a. above, the Commission should require a
+distribution component for the export pilot that utilizes SDG&E’s existing D-CPP approach
+implemented in Schedule GIR and VGI. VGIC strongly recommends the Commission (1) direct
+SDG&E to implement the distribution component in the export rate based on D-CPP from the
+outset, and (2) allow SDG&E to file a Tier 2 Advice Letter to request modifications to the
+distribution export component after guidance in R.22-07-005 related to dynamic distribution
+export components is issued.
+VGIC understands that the Commission plans to issue guidance in R.22-07-005 to move
+forward with the CalFUSE framework and the topics addressed in the Demand Flexibility Working
+Groups, of which VGIC is a member. However, the issues scoped into the Demand Flexibility
+proceeding, the CalFUSE framework, and Demand Flexibility Working Groups span far beyond
+the scope of distribution export components for SDG&E’s export rate. Based on the CPUC’s
+bandwidth constraints and the sweeping nature of the rate design reform at hand in R.22-07-005,
+VGIC cautions against over-relying on R.22-07-005 guidance on the specific issue of dynamic
+distribution export component. VGIC is concerned that there may be delays to some or all of the
+guidance in R.22-07-005, including guidance on dynamic distribution export components, which
+6
+
+would in turn impose undue delays on SDG&E’s export compensation pilot. With this in mind,
+SDG&E should be authorized to file a Tier 2 Advice Letter after guidance in R.22-07-005 related
+to the topic of dynamic distribution export components is issued. This Tier 2 Advice Letter would
+create an opportunity for SDG&E to request modifications to its distribution component export
+rate. In the event that R.22-07-005 guidance on dynamic distribution components in export rates
+is adopted in spring 2024, the Tier 2 Advice Letter pathway provides SDG&E an option to align
+with the guidance if they believe the D-CPP approach doesn’t already align with it. Moreover, if
+the spring 2024 target for a decision is achieved, this provides SDG&E an opportunity to request
+modifications to its pilot nearly a year before the proposed pilot launch date of January 1, 2025.
+Directing SDG&E to incorporate D-CPP into the rate now and allowing SDG&E the
+flexibility to submit a Tier 2 Advice Letter after guidance on dynamic distribution export
+components is issued in R.22-07-005 offers a desired balance of certainty (i.e., that there will be a
+distribution component in the export rate) and alignment with long-term rate design reforms (i.e.,
+by allowing SDG&E to request modifications).
+c. If the Commission moves forward with the direction in 1(b) above and the
+guidance decision in R.22-07-005 provides a different approach to the
+generation CPP component, should the Commission direct SDG&E to also
+modify its approach to the generation CPP component of the export rate in
+the above Tier 2 advice letter?
+VGIC does not have a position at this time but may provide additional detail in reply comments.
+d. If the Commission requires SDG&E to include a distribution component in
+the export rate pilot, should any other aspects of the Settlement Agreement
+and/or export rate pilot proposal be adjusted? For example, will SDG&E’s
+implementation costs increase or should the implementation schedule
+change?
+7
+
+Regardless of whether the Commission requires SDG&E to include a distribution
+component in the export rate, the Settlement Agreement’s proposed provision regarding eligibility
+should be modified to remove the prohibition on “conjunctive billing” customers.8 The Joint
+Settlement states, “conjunctive billing refers to customers with multiple meters on a single
+premise, where meter data is combined for the purpose of billing UDC charges.”9 The record does
+not support the exclusion of these customers. Moreover, the Joint Settlement Agreement does not
+clarify whether customers participating in the export rate using the Plug-In EV Submetering
+Protocol would be deemed ineligible as a result of declaring “conjunctive billing” customers
+ineligible. The Plug-In EV Submetering Protocol (“PEV Submetering Protocol”), as adopted in
+D.22-08-024 and implemented through Resolution 5274, indisputably applies to these customers.
+The Commission states that “the only limitations [D.22-08-024] places on PEV submetering
+participation are on simultaneous PEV submetering and NEM participation, which was
+delayed until legal and technical issues can be resolved” [emphasis added].10 At a minimum, the
+Commission should ensure that the adoption of the Settlement Agreement does not conflict with
+the PEV Submetering Protocol guidance, which implicitly but undoubtedly requires the protocol
+to be made available to customers in SDG&E’s export rate.
+2. The Settlement Agreement proposed a two-year pilot period with no cap on
+participation and automatic extension of the export rate (with no end date) unless
+SDG&E seeks authorization to terminate the pilot.
+a. Is the proposed two-year pilot duration reasonable?
+VGIC does not have a position at this time but may provide additional detail in reply comments.
+8 Joint Motion for Adoption of Settlement Agreement, Attachment 1, pg. 8.
+9 Ibid.
+10 CPUC Resolution 5274, pg. 19.
+8
+
+b. Is it reasonable to authorize the export pilot with no cap on participation?
+VGIC does not have a position at this time but may provide additional detail in reply comments.
+c. What criteria should the Commission use to determine whether to extend the
+export rate beyond the pilot period (e.g., whether the export rate results in
+cost shifts to ratepayers, whether a minimum number of participants are
+using the rate schedule as of 18 months after the rate schedule is available,
+whether the implementation costs are too high or implementation is too
+challenging)?
+VGIC refers to Section III.E. in its opening brief, which details a strategy for evaluating the export
+rate based on a metrics-outcomes-goals framework.11 Important metrics to inform the
+Commission’s decision regarding the future of the export rate include:
+• number of customers enrolled,
+• number of participating customers utilizing the recently adopted Plug-in EV
+Submetering Protocol, and number of participating customers utilizing a separate
+utility meter,
+• date and duration of customer participation,
+• number of customers participating within AB 841 disadvantaged communities and
+number of customers participating outside of AB 841 disadvantaged communities,
+• tons of CO2 avoided through reduced marginal energy consumption,
+• kWh exported during daily, monthly, and annual system peaks,
+• avoided costs of marginal energy (i.e., total marginal energy component paid to
+participants),
+• avoided costs of marginal generation capacity (i.e., total CPP credit paid to
+customers), and
+• avoided costs of distribution capacity (i.e., total distribution component paid to
+customers).
+d. How should the Commission adjust evaluation criteria and/or processes
+based on your response to 2(c) above?
+11 VGIC Opening Briefs, pg 14.
+9
+
+VGIC believes the evaluation process proposed in the Joint Settlement should be adjusted
+to include the above-mentioned metrics in addition to the three metrics detailed in the Joint
+Settlement. Moreover, the Commission should adopt the outcomes and goals detailed in VGIC’s
+opening brief to represent a well-defined framework for applying these metrics
+e. Should the Commission automatically terminate the pilot at the end of the
+pilot period if the number of participants in the pilot is not sufficient to
+support an evaluation? What is the minimum number of pilot participants for
+meaningful data to support an evaluation report?
+No, the Commission should not automatically terminate the pilot at the end of the pilot period if
+the number of participants in the pilot is not sufficient to support an evaluation. While VGIC does
+not believe the number of participants will be too small to support evaluation, it is possible that
+unforeseen circumstances will arise that may delay customer enrollment beyond the 30 months
+evaluation timeframe. Notably, PG&E has opened customer enrollment in its V2X Commercial
+pilot, but it is running several years behind the originally proposed pilot schedule. While
+bidirectional charging and storage-backed charging product availability has matured in recent
+years and will continue to do so, several factors in the nascent bidirectional charging and storage-
+backed charging market could delay implementation. Any delays should not be considered a
+failure in pilot design or justification to automatically terminate the pilot at the end of the pilot
+period.
+f. If the pilot has enough participants by certain date (e.g. 12 months after
+enrollment begins), should the Commission require an independent
+evaluation of the export rate to inform a Tier 3 advice letter process for
+determining whether to extend the pilot?
+VGIC does not have a position at this time but may provide additional detail in reply comments.
+10
+
+g. If the Commission requires an independent evaluation, what is the estimated
+cost for this evaluation?
+VGIC does not have a position at this time but may provide additional detail in reply comments.
+3. The Settlement Agreement proposes implementation memorandum account cost
+recovery through Public Purpose Program rates allocated via equal cents per kWh,
+for all customer classes. Is this approach reasonable from legal and public policy
+perspectives?
+VGIC does not have a position at this time but may provide additional detail in reply comments.
+4. Does the Settlement Agreement comply with each of the Rate Design Principles
+recently adopted in D.23-04-040?
+The Settlement Agreement fails to comply with Rate Design Principles (f): “Rates should
+encourage customer behaviors that optimize the use of existing grid infrastructure to reduce long-
+term electric system costs.”12 By not including a distribution component in the export rate, the
+Settlement Agreement will not incentivize exports that avoid or defer distribution system upgrades
+and, in turn, fails to optimize the use of the existing distribution grid and reduce long-term
+distribution system costs.
+5. Does the Settlement Agreement comply with each of the Demand Flexibility Design
+Principles recently adopted in D.23-04-040?
+The Settlement Agreement fails to comply with Demand Flexibility Principles (a), (c), and (f). As
+noted in VGIC’s above response to question 4, the Settlement Agreement does not comply with
+Rate Design Principles (f) unless modified to include a distribution export component and, as a
+result, fails to comply with Demand Flexibility Principles (a), which requires compliance with the
+Rate Design Principles. Additionally, the Settlement Agreement does not comply with Demand
+12 D.23-04-040, Ordering Paragraph 1.
+11
+
+Flexibility Principles (c) because it does not incorporate distribution capacity costs. Lastly,
+Demand Flexibility Principles (f) is not met by the Settlement Agreement because the
+compensation for exports is not enabling “economically efficient grid integration of customer-sited
+electrification technologies and distributed energy resources,” as it does not integrate exports based
+on local distribution system needs through the use of a distribution component.13
+6. Does the Settlement Agreement address the potential for technical advances in load
+metering, sub-metering, and load management technologies over time?
+As detailed above in VGIC’s response to question 1.d., the Settlement Agreement proposes to
+deem customers operating on “conjunctive billing” ineligible for the export rate. It is unclear based
+on the language in the Settlement Agreement whether the use of submetering technologies per the
+PEV Submetering Protocol would qualify a customer as using “conjunctive billing.” If this is the
+case, the Settlement Agreement does not sufficiently address the potential for technical advances
+in submetering. However, if the Settlement Agreement is modified to ensure customers can
+participate in the export rate using the PEV Submetering Protocol, then the potential for the
+advanced use of submetering technologies over time would be addressed.
+7. Would the Settlement Agreement result in system reliability benefits and greenhouse
+gas reductions?
+The Settlement Agreement has the potential to result in system reliability benefits and greenhouse
+gas reductions, but the ability for these benefits to be realized is limited unless meaningful
+customer enrollment is achieved. As detailed in VGIC’s opening briefs, including a distribution
+component can promote meaningful customer enrollment, while limiting the rate components to
+only marginal energy and generation capacity values will pose significant headwinds for realizing
+13 D.23-04-040, Ordering Paragraph 2.
+12
+
+the benefits of an export rate. That said, the marginal energy and marginal generation capacity
+price signals themselves will reflect real-time grid conditions, which would incentivize customer
+exports during tight system reliability conditions. To the extent exports are incentivized during the
+system peaks, customer contributions can help offset peaking fossil fuel plants, thereby reducing
+greenhouse gas reduction (and local pollutants from those peaker plants). Lastly, to the extent that
+the rate is successful in enrolling customers, it can accelerate the broader transportation
+electrification effort, which can lead to greenhouse gas reductions from the transportation sector.
+8. Does the Settlement Agreement align with the Commission's Environmental and
+Social Justice Action Plan 2.0?
+VGIC does not have a position at this time but may provide additional detail in reply comments.
+9. Does the Settlement Agreement align with the Commission's Distributed Energy
+Resources Action Plan 2.0?
+VGIC does not have a position at this time but may provide additional detail in reply comments.
+10. Does the Settlement Agreement reasonably protect participating customers?
+VGIC does not have a position at this time but may provide additional detail in reply comments.
+II. CONCLUSION.
+VGIC appreciates the opportunity to submit this reply brief to SDG&E’s proposed export
+rate application. We look forward to further collaboration with the Commission and stakeholders
+on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+13
+
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: July 7, 2023
+14

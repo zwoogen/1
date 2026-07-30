@@ -1,0 +1,125 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Real Time Application No. 21-12-006
+Pricing Pilot Rate. (Filed December 13, 2021)
+Application of San Diego Gas & Electric Application No. 21-12-008
+Company (U902E) for Approval of Commercial (Filed December 17, 2021)
+Electric Vehicle Dynamic Rate.
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+July 26, 2023
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Real Time Application No. 21-12-006
+Pricing Pilot Rate. (Filed December 13, 2021)
+Application of San Diego Gas & Electric Application No. 21-12-008
+Company (U902E) for Approval of Commercial (Filed December 17, 2021)
+Electric Vehicle Dynamic Rate.
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”) the Vehicle-Grid Integration Council (“VGIC”) hereby submits this
+response to reply briefs in the consolidated Application of San Diego Gas & Electric Company
+(“SDG&E”) for Approval of Real Time Pricing Pilot Rate (“Application”), pursuant to the
+Procedural Email Granting Extension Request for Briefs and Email Ruling to Provide Directions
+for Reply Briefs and Allow Responses to Reply Briefs (“Email Ruling”) issued by Administrative
+Law Judge (“ALJ”) Stephanie Wang on May 16, 2023, and June 19, 2023, respectively.
+In reply briefs, several parties incorrectly assert that implementing a distribution
+component within the export rate pilot is unsupported by the record of this proceeding.1 In fact,
+VGIC and EDF have repeatedly presented an unassailable case for a distribution export component
+in opening testimony, reply testimony, opening briefs in response to ALJ questions, and reply
+briefs in response to ALJ questions.2 VGIC even proposes a specific recommended D-CPP value
+1 Joint Reply Parties Reply Brief, pg 5; Cal Advocates Opening Brief, pg 4.
+2 VGIC-01, pg 28; VGIC-02, pg 9; EDF-01, pg 2; EDF-02, pg 2. VGIC Opening Brief, pg 7; VGIC Reply Brief pg 3; EDF
+Opening Brief, pg 6; EDF Reply Brief, pg 2.
+2
+
+($0.79549/kWh) and a fully-developed and implementable methodology for applying the adder
+(i.e., top 200 annual hours of the circuit), which are based on the existing methodology used by
+SDG&E in two other rate pilots, Schedule VGI and Public GIR, that collectively have over 3,000
+enrolled customers.3
+In Reply Briefs, SDG&E states that “VGIC fails to address any of SDG&E’s reasons for
+excluding the Schedule VGI and Schedule Public GIR distribution component from the Export
+Compensation Rate Pilot.”4 SDG&E lists the “two significant challenges” initially attached to Cal
+Advocate’s direct testimony as circuit assignments and customer fairness. In its own Reply Brief,
+VGIC addresses the first challenge, circuit assignments, by detailing the inherently limited nature
+of this export pilot due to the exclusion of non-bundled customers, NEM customers, demand
+response customers, and other customer types.5 The export rate may, therefore, see even less
+participation than the current Schedule VGI, which has 3,381 enrolled customers. Moreover, while
+SDG&E states circuit tracking is a challenge, they do not present any evidence regarding the cost
+or resources required to address this challenge in their existing implementation. Without these
+incremental costs quantified, VGIC concludes that, although circuit tracking may be challenging
+to implement, it requires no additional cost incremental to what was initially approved for those
+VGI and GIR rate pilots. Regarding the second challenge, customer fairness, VGIC specifically
+addresses this concern in its rebuttal testimony, testifying that this issue is much less salient for
+export credits than it is for an import rate, as was initially contemplated in this proceeding.6 In fact,
+VGIC explains that a D-CPP export credit would help reduce both participating customer costs
+3 VGIC-02, pg 7-10.
+4 SDG&E Reply Brief, pg 8.
+5 VGIC Reply Brief, pg 3-5.
+6 VGIC-02, pg 9-10.
+3
+
+(through credits) and overall grid costs for all ratepayers (through reduced distribution capacity
+needs).7
+Additionally, although VGIC is a relative newcomer to proceedings of this nature, we have
+observed that the process attached to this application has seemed somewhat unusual in nature.
+Namely, the ALJ has asked parties to present additional information in both Opening and Reply
+Briefs, long after testimony and rebuttal testimony was filed. VGIC believes this was appropriate
+and prudent direction from the ALJ considering the importance of these issues. However, the
+additional information provided in opening and reply briefs in response to the ALJ’s questions
+represents substantive, critical input needed to make an informed decision on the export rate
+design. With this in mind, VGIC respectfully requests the Commission give adequate
+consideration to the arguments presented not only in the initial round of opening and reply
+testimony, but also the substantive opening and reply briefs filed in response to the ALJ’s key
+export rate design questions.
+VGIC aims to ensure the export rate pilot ultimately offered to customers is a success so
+that ratepayer funds and SDG&E’s specialized personnel resources are not wasted and so that the
+findings of such a pilot can meaningfully inform forthcoming rate design and VGI market
+development. Within the broader California rate design and VGI market development context, it’s
+important to reiterate that only one other EV export rate design pilot has been approved: PG&E’s
+Day-Ahead Hourly Real-Time Pricing export pilot. Rather than offering a distribution export
+component, this rate design offers additional upfront and ongoing fixed incentives to customers,
+in recognition that marginal energy and marginal generation capacity credits alone do not
+7 Id.
+4
+
+adequately value exports and would not adequately incentivize customer participation. While
+PG&E’s approach offers one path to understanding EV charging customer response to an export
+rate design, VGIC strongly recommends SDG&E’s export rate be leveraged as a different rate
+design experiment. Specifically, SDG&E’s design should include a distribution component rather
+than a separate participation incentive. These two pilots, taken together, will offer important points
+of comparison and unearth insights into customer participation under two different export
+compensation mechanisms for EV charging customers (one with distribution component and one
+with fixed customer incentives). With the ultimate goal of increasing system reliability benefits,
+greenhouse gas reduction, and ratepayer cost reductions in mind, VGIC strongly recommends the
+Commission consider the case made by VGIC and EDF for a distribution export component that
+sufficiently attracts customers, supports distribution capacity benefits, and, in turn, yields real-
+world ratepayer benefits.
+VGIC appreciates the opportunity to submit this response to reply briefs on SDG&E’s
+proposed export rate application. We look forward to further collaboration with the Commission
+and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: July 26, 2023
+5

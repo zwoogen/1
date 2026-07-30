@@ -1,0 +1,112 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING RATE DESIGN PRINCIPLES AND DEMAND
+FLEXIBILITY DESIGN PRINCIPLES
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+April 6, 2023
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING RATE DESIGN PRINCIPLES AND DEMAND
+FLEXIBILITY DESIGN PRINCIPLES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Proposed Decision Adopting Electric Rate Design Principles and Demand
+Flexibility Design Principles (“Proposed Decision”), mailed by the Commission on March 17,
+2023.
+I. INTRODUCTION.
+VGIC commends Energy Division (“ED”) staff’s diligent efforts in convening stakeholders
+to develop comprehensive updates to the rate design principles and establish the new demand
+flexibility design principles. While VGIC generally supports the move toward unified, dynamic
+price signals and is encouraged by the CalFUSE framework, it is important to balance the long-
+term goals of this vision with the immediate impacts and interim steps needed to chart a clear path
+forward. VGIC recommends that the Commission and ED staff apply each rate design principle in
+a manner that does not ultimately undercut the goals of the CalFUSE framework. Specifically, it
+is critical to apply appropriate treatment to Rate Design Principle IX, “Rate design should not be
+1
+
+technology-specific and should avoid creating unintended cost-shifts,”1 in light of the current and
+upcoming EV-specific rate offerings. With this in mind, VGIC offers the following
+recommendations for the Commission as it considers revisions to the PD:
+ The Commission should facilitate a thoughtful and gradual transition away from
+technology-specific rates to avoid creating rate shock for existing or new EV
+customers.
+ The Commission should clarify the implementation timeline for rate design principles
+within the context of ongoing rate applications.
+II. THE COMMISSION SHOULD FACILITATE A THOUGHTFUL AND GRADUAL
+TRANSITION AWAY FROM TECHNOLOGY-SPECIFIC RATES TO AVOID
+CREATING RATE SHOCK FOR EXISTING OR NEW EV CUSTOMERS.
+While VGIC supports the long-term vision of unified, non-technology-specific price
+signals, it is important to recognize that the existing suite of available rates do incorporate several
+technology-specific rates.2 Today, EV-specific rate designs for residential and commercial
+customers represent an important tool for shaping and shifting EV charging load in California.
+VGIC respectfully requests that the Commission carefully implement Rate Design Principle IX:
+“Rate design should not be technology-specific and should avoid creating unintended cost-shifts,”3
+such that today’s EV-specific rate designs are not abruptly terminated in a manner that would
+create rate shocks for participating customers or new EV adopters expecting EV-specific rates.
+Participation in these rates can result in increased off-peak charging, which can reduce system
+1 PD at 2.
+2 See, for example, Comments of the VGIC on the Oder Instituting Rulemaking to Advance Demand
+Flexibility Through Electric Rates. August 15, 2022. R.22-07-005. Pages 5-7.
+3 PD at 2.
+2
+
+costs and the utilization of polluting natural gas “peaker” plants, yielding positive economic and
+environmental benefits for ratepayers and California at large.
+Emerging EV-specific rates like PG&E’s Day-Ahead Hourly Real-Time Pricing
+(“DAHRTP”) offering and the associated export compensation pilot, PG&E’s proposed V2X Pilot
+rate design, and SDG&E’s proposed Export Compensation pilot, will play a critical role in
+informing the development of future dynamic rate and export compensation design in California.
+These rates can also support innovative multi-DER sites like co-located or integrated energy
+storage and EV charging, co-located solar and EV charging, or sites with all three types of DERs.
+If Rate Principle IX is implemented too abruptly, it could jeopardize the opportunity to learn from
+these emerging EV-specific dynamic rate offerings and pilots.
+Today’s automotive manufacturers, EV charging equipment manufacturers, and third-party
+EV service providers are situated to unlock significant customer participation in California under
+emerging EV-specific dynamic rates (in addition to program offerings like the Emergency Load
+Reduction Program). By pursuing a thoughtful, gradual, and appropriately-timed transition away
+from EV-specific rates, the Commission can avoid (1) creating rate shock for existing or new
+customers relying on EV-specific rates, (2) disrupting the burgeoning market for flexible charging
+and discharging solutions, and (3) creating roadblocks to achieving the Commission’s VGI
+strategies as adopted in Decision 20-12-029 per Senate Bill 676. With this in mind, VGIC urges
+the Commission to chart a gradual path forward to implementing Rate Design Principle IX that
+avoids abruptly terminating today’s existing and emerging EV-focused rates.
+3
+
+III. THE COMMISSION SHOULD CLARIFY THE IMPLEMENTATION TIMELINE
+FOR RATE DESIGN PRINCIPLES WITHIN THE CONTEXT OF ONGOING
+RATE APPLICATIONS.
+As referenced in Section II above, SDG&E has proposed a real-time pricing pilot in A.21-
+12-006 and an EV-specific export compensation rate in A.21-12-008. In early 2021, the
+proceedings were consolidated into a single ratesetting proceeding that is currently active. VGIC
+is a party in that proceeding, and briefs are currently scheduled for late April. If the PD is adopted
+as at the Commission’s April 27th Business Meeting, it is unclear to VGIC how this would impact
+the ongoing SDG&E proceeding. VGIC respectfully requests that the Commission clarify the
+implementation timeline for the new rate design principles such that active rate proceedings such
+as SDG&E’s RTP and export compensation application are not impacted.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the PD. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: April 6, 2023
+4

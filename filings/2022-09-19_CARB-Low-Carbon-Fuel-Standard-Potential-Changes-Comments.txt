@@ -1,0 +1,61 @@
+September 19, 2022
+Low Carbon Fuel Standard Program
+California Air Resources Board
+1001 I Street
+Sacramento, CA 95814
+Re: Comments on Potential Changes to LCFS (as Proposed at August 18 Staff Workshop)
+September 19, 2022
+I. Introduction
+The Vehicle Grid Integration Council (“VGIC”)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid integration
+(“VGI”) through policy development, education, outreach, and research. VGIC supports the transition to a
+decarbonized transportation and electric sector by ensuring the value from flexible EV charging and
+discharging is recognized and compensated in support of a reliable, affordable, and efficient electric grid.
+VGI encompasses a variety of technologies and use cases to employ unidirectional managed charging
+(“V1G”), provide on-site backup power and behind-the-meter customer bill management (Vehicle-to-
+Building, or “V2B”), or export power to the grid (Vehicle-to-Grid, or “V2G”). Additional applications
+include residential emergency power backup during blackouts and the use of EVs for powering homes
+during on-peak hours (Vehicle-to-Home or “V2H”) and providing emergency power backup to a section of
+the grid or “microgrid” (Vehicle-to-Microgrid or “V2M”). These technologies and services target two of
+the largest sectors contributing to California’s greenhouse gas (“GHG”) emissions: transportation and
+electricity. VGI will play a critical role in helping California achieve its ambitious GHG emissions
+reduction goals. The transportation sector is California's largest source of GHG emissions, accounting for
+almost 40% of statewide emissions in 2019.2 VGI can directly help California achieve transportation
+decarbonization goals by incentivizing the adoption of electric vehicles by reducing the total cost of
+ownership, unlocking additional services the vehicle can provide the customer (such as V2H home backup
+power), and improving the utilization of public charging infrastructure, so that investments stretch further,
+among other ways.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Customized Energy Solutions,
+dcbel, Enel X North America, Inc., Engie, Fermata Energy, FlexCharging, Inc., Flo/AddEnergie, Ford Motor Company,
+FreeWire, General Motors, Kaluza, Nissan North America, Inc., Nuvve Corporation, Sacramento Municipal Utilities
+District, Stellantis N.V., Sunrun, Switch EV Ltd, The Mobility House, Toyota Motor North America, Inc., Veloce
+Energy, Inc., Wallbox, and WeaveGrid. The views expressed in these comments are those of VGIC, and do not
+necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/).
+2 CARB. California Greenhouse Gas Emissions for 2000 to 2019: Trends of Emissions and Other Indicators.
+https://ww3.arb.ca.gov/cc/inventory/pubs/reports/2000_2019/ghg_inventory_trends_00-19.pdf
+1
+
+II. VGIC Recommends CARB Coordinate with the California Energy Commission and
+California Public Utilities Commission on Strategies to Promote VGI, including through the
+Smart Charging Pathway
+The LCFS Smart Charging Pathway was launched in 2019 as a new pathway to generate incremental EV
+charging credits. The pathway has the potential to better align EV charging with the electric grid’s carbon
+intensity throughout the day. Meanwhile, California’s major investor-owned utilities offer compelling, EV-
+specific time-of-use (“TOU”) rates that discourage EV charging during the grid’s hours of peak demand.
+EV-specific TOU rates lower the total cost of EV ownership, accelerating transportation electrification and
+reducing transportation sector GHG emissions. While the LCFS Smart Charging Pathway and EV-specific
+TOU rates generally overlap to discourage on-peak charging, they do not necessarily mirror one another
+during off-peak times. As a result, the Smart Charging Pathway and EV-specific TOU rates are, at times,
+at odds with one another, even though both strategies are intended to reduce transportation sector emissions.
+Meanwhile, the California Energy Commission (“CEC”) and the California Public Utilities Commission
+(“CPUC”) have been coordinating to establish additional strategies, programs, and rates to align EV
+charging and discharging with grid conditions to reduce emissions. With this in mind, VGIC recommends
+that CARB coordinate closely with CEC and CPUC to align the full suite of California’s VGI strategies in
+a way that allows for more streamlined participation from customers and maximizes VGI in the state.
+Respectfully submitted,
+Zach Woogen
+Policy Manager
+Vehicle Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+2

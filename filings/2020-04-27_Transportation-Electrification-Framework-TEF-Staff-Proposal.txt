@@ -1,0 +1,342 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 2, 3.1, 3.2, 3.3,
+4, AND 5)
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: April 27, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 2, 3.1, 3.2, 3.3,
+4, AND 5)
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1 hereby submits
+its reply to opening comments on certain sections of the draft Transportation Electrification
+Framework (“Draft TEF”) in Rulemakings (“R.”) 18-12-006 on February 25, 2020. Pursuant to
+Administrative Law Judge’s Ruling Adding Staff Proposal for a Draft Transportation
+Electrification Framework to the Record and Inviting Party Comments (“Ruling”) and E-mail
+Ruling Denying Joint Motion to Stay Proceeding and Resetting Procedural Schedule, issued by
+Administrative Law Judge Patrick Doherty on February 3, 2020 and March 24, 2020,
+respectively, VGIC timely files these comments on April 27, 2020 in R.18-12-006. VGIC was
+granted party status in this proceeding on January 28, 2020.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Enel X North America, Inc.,
+Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nuvve Corporation, and Toyota
+Motor North America, Inc.. The views expressed in these Comments are those of VGIC, and do not necessarily
+reflect the views of all of the individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+1
+
+I. INTRODUCTION.
+A. Overview of VGIC
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+B. Organization of VGIC’s Comments
+VGIC’s comments are organized as follows:
+ First, VGIC recommends fundamental approaches necessary to support
+transportation electrification (“TE”) at the scale and pace required to meet state goals.
+ Second, VGIC replies to recommendations posed in opening comments on Sections
+3.1 and 5 of the Draft TEF.
+ Finally, VGIC provides a summary of recommendations on approaches to accelerate
+TE and responses to opening comments.
+II. NECESSARY STEPS TO SUPPORT TRANSPORTATION ELECTRIFICATION
+INVESTMENTS AT THE SCALE AND PACE REQUIRED TO MEET STATE GOALS.
+A. VGIC supports the Commission’s role and efforts in facilitating TE planning
+VGIC supports the Commission’s goal to develop a long-term and sustainable framework
+to better prioritize and evaluate the investor-owned utilities’ (“IOUs”) TE programs. In recent
+2
+
+years, the Commission has authorized over one billion dollars in ratepayer funds for TE
+investments, with another one billion currently pending review. These TE proposals and related
+programs have been made on an ad-hoc, case-by-case basis that has created significant
+uncertainty for the EV industry, the IOUs, and California ratepayers. As California continues to
+ramp up its TE efforts to meet decarbonization goals, a more holistic and streamlined framework
+for evaluation and authorization of IOU TE investment proposals can provide greater certainty to
+the industry over the long run, which is a concept VGIC broadly supports.
+The Draft TEF makes progress towards this goal by seeking to establish a holistic
+framework for California’s TE programs. However, VGIC believes the level of EV adoption and
+TE infrastructure deployment needed to realize California’s clean energy and transportation
+goals necessitates certain key steps that are not included in the Draft TEF. As identified by VGIC
+and several other parties in opening comments, the Joint Motion to Stay TEF, and the March 23,
+2020 TEF Workshop, the Draft TEF has significant shortcomings, chief among them the lengthy
+interim period between now and when the long-term framework would go into effect,2 as well as
+the complex and redundant procedure to review and approve TE investments once the
+framework is live. We believe that addressing these fundamental issues would go a long way
+towards creating a streamlined regulatory process that predictably reviews and approves IOU TE
+investments against the continued evolution and maturity of the market.
+2 See, for example, Center for Community Action et al. joint comments at 1-4, Environmental Defense Fund
+(“EDF”) comments at 1-2, Greenlots and Siemens joint comments at 3-5, Pacific Gas and Electric (“PG&E”)
+comments at 1-3, Southern California Edison (“SCE”) at 4-7, and San Diego Gas & Electric (“SDG&E”) comments
+at 6-12.
+3
+
+B. The TEF should create a streamlined regulatory process that provides certainty to all
+stakeholders and facilitates progress at the pace and scale required to meet California’s
+decarbonization goals.
+VGIC agrees with several parties that the plain language of the Draft TEF would lead to a
+protracted period of limited TE investment over the next several years, specifically in the time
+between approval of the Draft TEF and implementation of the first TE programs.3 The process
+the Draft TEF outlines for development, review, and approval of IOU TE Plans (“TEP”),
+followed by a separate process to review IOU TE program applications and budgets, is
+unnecessarily lengthy and burdensome.
+Instead, the Commission should adopt a streamlined approach to simultaneously approve
+TEPs and authorize program budgets. This approach would not only eliminate the lengthy delay
+in significant new TE infrastructure investments that would result from the Draft TEF, but would
+also enable existing and new TE infrastructure to provide near-term grid benefits by scaling up
+existing and new VGI programs. The Commission can ensure that significant and timely action
+is taken to deploy the required TE solutions at the scale and pace required by California’s
+decarbonization goals if the prolonged and overly complex process to implement the first TEPs
+is eliminated.
+The simultaneous approval of an IOU’s strategic TEP and authorization of TE program
+budgets will also provide much-needed certainty to industry actors, such as VGIC members and
+supporters from the automotive original equipment manufacturer (“OEM”) and EV service
+provider (“EVSP”) industries who benefit from long-term predictability. Regulatory certainty
+3 Ibid.
+4
+
+enables market participants to implement new business models, develop new technologies, and
+realize customer benefits associated with VGI-related activities.
+To further provide clear and consistent signals to stakeholders, IOU TEPs should be
+based on a five-year planning horizon. VGIC supports a five-year TEP that simultaneously
+requests authorization for TE programs and budgets, as multi-year predictability is critical to
+inform investment decisions. Predicting demand trends and infrastructure needs beyond five
+years into the future inherently comprises a large amount of uncertainty and risks implementing
+programs that do not achieve the statutory objectives of IOU TE programs as ordered by SB 350.
+VGIC believes that moving to a five-year TEP and simultaneous approval of TE
+programs and budgets are necessary steps to streamline the regulatory processes, a goal that the
+December 19, 2018 DRIVE OIR explicitly sets out to accomplish.4
+C. The TEF should allow for separate consideration of relatively non-controversial
+elements of TE programs to accelerate infrastructure deployment and EV adoption.
+VGIC believes that the TEF should allow for the separate consideration of programmatic
+elements of IOU TE investments that enjoy a certain degree of consensus. Implementation of
+such items would be unnecessarily delayed if tied to the disposition of relatively contentious
+issues. For instance, a general consensus has emerged through the disposition of prior TE
+applications around the natural role for utility ownership of utility-side make-ready
+infrastructure. One pathway to expedite relatively non-controversial and no-regrets elements of
+TE programs is to direct IOUs to propose tariffs or rules that allow them to advance TE goals by
+4 OIR at 9-10.
+5
+
+designing, installing, and maintaining infrastructure on the utility side of the meter necessary to
+support EV charging installations.
+VGIC supports a tariff or rules-based approach to deploying TE infrastructure. This could
+either build off of existing IOU rules, namely Rules 15 and 16, that govern the regular buildout
+of primary and secondary distribution infrastructure or could entail the development of a new
+tariff that considers the specific characteristics and capabilities associated with EV charging
+infrastructure. Such a tariff or program would put forth standardized processes and accounting
+for customers to apply for interconnection, oversee construction of necessary upgrades, and
+access available utility funding, and is explored below in Section III-A.
+On the other hand, the more controversial elements of proposed IOU TE investments will
+need to be addressed on an ongoing basis in the evaluation of each IOU TEP application. VGIC
+supports a standardized framework for evaluating proposed TE investments under SB 350 that
+continually reviews elements prone to controversy, such as utility-ownership of EV supply
+equipment (“EVSE”). These issues should not be decided upon up-front in the final TEF that will
+result from the instant proceeding. Individual IOU TE infrastructure and program proposals
+should be evaluated in their entirety and within the context of other existing and proposed TE
+investments to determine if the program characteristics are appropriate given the relative
+nascency or maturity of a given market segment.
+6
+
+III. RESPONSES TO RECOMMENDATIONS AND ANSWERS TO PUC
+QUESTIONS PROVIDED IN OPENING COMMENTS.
+In the spirit of identifying alternative framework proposals, VGIC provided
+recommendations in our opening comments for potential modifications to the Draft TEF that
+would allow more flexibility in the interim period before the TEF is in full effect, including:
+ Allowing an expanded list of approved near-term investment options,
+ Removing the per-IOU budgetary cap on near-term investments, and;
+ Allowing for additional ad hoc TE programs to be proposed and reviewed until the final
+TEF is adopted, under the current rules and guidance used to date.
+Staff asserted during the March 23, 2020 TEF Workshop that the Draft TEF does not
+propose limiting near-term investment options or capping per-IOU budgets, but rather puts these
+ideas forth in the form of questions for stakeholder feedback. Staff also clarified that the status
+quo ability of IOUs to seek approval for TE investments will continue throughout the Draft TEF
+stakeholder process until any new Commission guidance is adopted. Furthermore, the E-Mail
+Ruling Denying Joint Motion to Stay Proceeding and Resetting Procedural Schedule issued by
+Administrative Law Judge Patrick Doherty on March 24, 2020 reiterated, and further clarified
+these points.
+VGIC appreciate Staff’s clarification and maintains the recommendations included in our
+opening comments in response to Staff’s questions, specifically those regarding the potential for
+the Draft TEF’s guidance around near-term investments to hinder infrastructure and EV
+deployment through unnecessary limitations on investment scope and scale.
+In this section, VGIC responds to the specific recommendations posed in opening
+comments related to the following sections of the Draft TEF:
+7
+
+ Section 3 (excluding Section 3.4): IOU TEP Development, and
+ Section 5: Near-term Investment Priorities.
+A. Response to Opening Comments on Section 3: IOU TEP Development.
+In opening comments, Enel X and Pacific Gas & Electric (“PG&E”) both discussed the
+importance of existing IOU planning processes, specifically as they relate to forecasting
+assumptions for EVs. VGIC believes this is a critical area for TEF development and agrees that
+more sensitivity analyses around TE load and cost comparisons should be leveraged by IOUs in
+their TE investment applications.5 As Enel X points out, the assumed 8,760 hour EV load
+profiles and use cases assumed in the IEPR have “direct downstream impacts on the resulting
+conclusions about the generation, transmission, and ancillary services needed to meet forecasted
+EV charging demand.” 6 VGIC agrees that the assumed impact of VGI strategies should be
+included in forecasting EV load, for example describing whether EVs may contribute to peak
+load or consume low-cost solar in the middle of the day.
+The Draft TEF identifies the Integration Capacity Analysis (“ICA”) as a tool to inform
+IOU TEPs, specifically using ICA maps to determine opportunities where “costly distribution
+upgrades could be deferred by incorporating load management solutions such as on-site
+renewable generation and storage facilities to offset some of the new incremental TE load.”7
+VGIC recommended in our opening comments that flexible charging and – as the market
+develops – discharging capabilities be included in the set of load management solutions that
+IOUs should consider.
+5 Enel X comments at 3-6 and PG&E comments at 11-12.
+6 Enel X comments at 3.
+7 Draft TEF at 22.
+8
+
+In opening comments, Enel X also supported this use of the ICA. However, they also
+detailed the inherent challenges in implementing such an approach and offered a practical
+alternative: “the Commission, through TEF development and through the VGI working group
+process underway, should focus on establishing tariffs and programs to allow site hosts to select
+a load balancing and/or DER solution to avoid grid upgrades that are identified through the
+interconnection process.” 8
+VGIC supports this solution as an alternative to the language proposed in the Draft TEF
+and agrees that provides a more practical and customer-centric approach. The option to elect
+certified load management software to defer customer-triggered distribution upgrades should
+accompany tariffs created for utility-side or behind-the-meter make-ready infrastructure. This
+tariffed approach to upgrade deferral would support customer choice, leverage mature
+technology and existing load management standards, encourage competition, and contain
+ratepayer costs while enabling standardized access to behind-the-meter load management or
+other DER solutions. Customers could assess the market offerings from EVSPs, automotive
+OEMs, and other market participants to make an informed decision based on which solution, if
+any, best fits their needs at the least cost.
+Behind-the-meter solutions would comply with relevant standards to ensure IOUs
+maintain grid safety and reliability. For instance, existing and revised codes and standards that
+certify power control systems and energy management software on the customer side of the
+meter to manage load could be leveraged for such a tariff. And, as California works to enable the
+widespread use of vehicle-to-grid (“V2G”) applications, the set of available customer-side
+solutions that leverage EV batteries to defer or avoid TE investments will expand.
+8 Enel X comments at 6.
+9
+
+Any Commission-approved investment framework must seek to maximize the value VGI
+can provide to all ratepayers, given the potential for VGI strategies to offer a least-cost
+alternative to, for instance, distribution infrastructure investments. The California State
+Legislature has indicated through SB 676 (Bradford, 2019), codified in Public Utilities Code
+§740.16, that VGI has an important role to play in the state’s clean energy and transportation
+future, by ensuring EV infrastructure investments place downward pressure on rates and support
+the integration of the state’s abundant renewable energy resources. Establishing tariffed options
+for load management alongside traditional EV infrastructure investments would provide a
+streamlined opportunity to implement VGI solutions in a way that reduces costs to ratepayers
+and develops the competitive third-party VGI market in ways consistent with SB 676 and SB
+350.
+B. Response to Opening Comments on Section 5: Near-Term Investment Priorities.
+Section 5, Question 1: Should the IOUs’ pre-TEP program proposals be limited to these
+identified priority areas? Why or why not?
+Several parties, including VGIC, indicated in opening comments that pre-TEP proposals
+should not be limited to the small subset of areas identified in the Draft TEF.9 Additional near-
+term actions are needed to ensure alignment with the state’s policy goals and to continue to
+develop the EV and VGI markets. In opening comments, Pacific Gas and Electric (“PG&E”)
+recommended pre-TEP programs should also include proposals to extend or expand existing TE
+programs, to the extent they are consistent with guidance in an approved final TEF and former
+guidance from the Commission that proposals contain necessary evidence of market need and
+9 See, for example, CESA comments at 9, EDF comments at 2-4, and SCE comments at 16.
+10
+
+justification for investment.10 VGIC also agrees that the extension or expansion of existing TE
+programs should be permitted in the pre-TEP period.
+VGIC reiterates that it strongly disagrees with the Staff’s recommendation that “the IOUs
+should not propose new investment programs where the market shows signs of private sector
+engagement, such as single-family home residential charging stations and workplace L1 or L2
+charging deployment.” 11 This approach implies that TE programs addressing charging at single-
+family homes and workplaces will not be implemented until the IOUs’ first TE program
+applications are implemented, a delay that risks needless societal costs. This would also forgo a
+ripe opportunity to focus near-term market development on segments that entail relatively low
+costs and provide ideal environments to test innovative business models for deploying EV
+infrastructure that enables the full capabilities of VGI technologies.
+Given the long lead times for TE programs that would result from the Draft TEF, the risk
+of technology lock-in, the cost of deferring rate reduction through increased kWh usage and VGI
+applications, and the availability of existing Commission processes, VGIC echoes the
+widespread stakeholder support for a more open approach to pre-TEP program proposals.
+Section 5.2, Question 1: Should the IOUs prioritize projects that will test and validate
+resiliency strategies that utilize EVs as grid resources and ensure EV
+drivers have adequate access to charging options during power outages?
+If yes, how should the IOUs design their pilot(s)? What sector(s) should
+the pilot(s) target? What use cases should the IOUs prioritize in their
+pilot(s)?
+10 PG&E comments at 18-19.
+11 Draft TEF at 44.
+11
+
+In opening comments, SCE responded positively to Staff’s question about whether IOUs
+should prioritize the testing and validation of EV resiliency initiatives, including the use of EVs
+for backup power.12 VGIC agrees with SCE and strongly supports the inclusion of EVs for
+backup power in the list of priority areas for IOU pre-TEP program focus. Connect California
+(“ConnCA”), in their opening comments, argued that “grid resources” in the context of Staff’s
+Section 5.2, Question 1 “should include resources that do not interconnect and run in parallel to
+the distribution grid.” 13 VGIC agrees with the definition of “grid resources” within the context
+of Staff’s question. Under this definition, VGIC echoes the recommendation made in our
+opening comments for a pilot program that leverages EVs as backup power, for example through
+disconnection from the grid in advance of a PSPS, e.g. by using a transfer switch. This and other
+solutions that use EVs as backup power during PSPS events warrant serious consideration as
+near-term priorities given the high potential to provide net benefits to vulnerable customers and
+the limited barriers to implementation.
+IV. SUMMARY OF RECOMMENDATIONS.
+In responding to parties’ opening comments, VGIC proposes several recommendations,
+which can be summarized as follows:
+Overarching steps to support TE investments at the scale and pace required to meet state goals:
+ The Final TEF should implement a streamlined regulatory process, a goal set out in the
+December 2018 OIR, that includes the simultaneous approval of five-year TEPs and
+authorization of their budgets.
+ The Commission could separate utility-side make-ready infrastructure from other, more
+controversial elements of TE programs, for example through a tariff or rules-based
+12 SCE comments at 16-17.
+13 ConnCA comments at 5.
+12
+
+approach. Contentious issues should be addressed in each IOU TEP to account for the
+nuances of each proposed investment.
+Section 3:
+ VGI strategies should be considered when developing load forecasting assumptions that
+will be used to determine distribution-level needs.
+ While the Integration Capacity Analysis (“ICA”) maps could be used to identify
+opportunities for load management to defer distribution upgrades, there are simpler
+approaches that should be explored. One such approach would be to develop tariffs to
+allow customers the choice of load management solutions as an alternative to system
+upgrades.
+Section 5:
+ The IOUs’ pre-TEP proposals should not be limited to the identified priority areas, as
+several parties have highlighted the risks of imposing high societal costs, deferring
+opportunity to reduce customer rates, and significant misalignment with state TE and
+broader decarbonization goals.
+ VGIC further expands on one possible approach to a pilot program enabling EVs to
+provide backup power in resiliency use cases.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the TEP
+development and near-term investment priorities sections of the Draft TEF. We look forward to
+further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: April 27, 2020
+13

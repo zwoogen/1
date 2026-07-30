@@ -1,0 +1,272 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 9, 10, AND 12)
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: September 25, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 9, 10, AND 12)
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council1 (“VGIC”) hereby submits
+these reply comments to the Administrative Law Judge’s Ruling Adding Staff Proposal for a
+Draft Transportation Electrification Framework to the Record and Inviting Party Comments
+(“Ruling”) issued by Administrative Law Judge (“ALJ”) Patrick Doherty on February 3, 2020.
+Pursuant to Email Ruling Resetting Procedural Schedule for Comments on Transportation
+Electrification Framework Sections issued by ALJ Sasha Goldberg on August 4, 2020, VGIC
+timely files these reply comments on Sections 9, 10, and 12 of the Draft Transportation
+Electrification Framework (“Draft TEF”) on September 25, 2020.
+I. INTRODUCTION.
+A. Overview of VGIC
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California
+LLC, Enel X North America, Inc., Fiat Chrysler Automobiles, Ford Motor Company, General Motors
+Company, Nissan North America, Inc., Nuvve Corporation, and Toyota Motor North America, Inc. The
+views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+1
+
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+II. REPLY COMMENTS
+A. High-Level Principles for EV Rates:
+In its opening comments Southern California Edison (“SCE”) proposes examples of high-level
+principles that should be applied to EV rates including:
+1. “Sending price signals to efficiently utilize the grid and generation resources
+2. Pricing EV rates to expand EV adoption into Disadvantaged Communities
+(“DACs”)
+3. Continuing to recognize the importance of load management and its position at
+the top of the loading order” 2
+VGIC Response:
+VGIC generally agrees with these high-level principles and would suggest a few minor
+modifications and/or interpretations of these. Regarding example principle #1 listed above,
+VGIC supports the increased optionality of more dynamic rates for both generation (i.e.
+2 Southern California Edison Company's (U 338-E) Opening Comments on Rates, Cost Recovery, Alternative
+Financing, Partnerships, and Emerging Trends (Sections 9, 10, and 12) at 3. (Hereinafter, “Opening Comments of
+SCE”)
+2
+
+“efficiently utilize … generation resources”) and distribution (i.e., “efficiently utilize the grid”)
+bill components, as is suggested by SCE. Additionally, VGIC recommends that vehicle-to-grid
+(“V2G”) behavior should be adequately incentivized to leverage EVs for on-peak energy, off-
+peak (including mid-day) charging, and ancillary services. Example principle #2 should seek to
+expand EV adoption overall and also further expand EV adoption into DACs. VGIC
+recommends that example principle #3, if adopted or incorporated in the Final TEF and, in turn,
+the IOUs’ EVREV plans, include specific reference to V2G (in addition to V1G) as a type of
+“load management” for the purpose of determining its position in the loading order.
+Additionally, VGIC generally agrees with the principles cited in the Draft TEF,3 and
+believes the final set of principles should also include the following:
+▪ Promoting and rewarding “grid-friendly” charging behavior for specific and distinct use
+cases, including both residential and commercial EV applications.
+▪ Providing adequate incentives to transform the market for VGI services so that EVs can be
+unlocked as a grid resource in the future.
+B. Procedural Considerations for EV Rates
+VGIC notes that all three major IOUs oppose the coordination of EV rate in TEPs through the
+proposed EVREV plan process, instead recommending rates be proposed and reviewed in GRC
+3 Draft TEF at 99-101.
+3
+
+Phase 2 as the “primary venue.”4 VGIC notes that SCE does suggest that “each IOU should be
+allowed to propose rate options as a component of their TE proposals, if appropriate.”5
+VGIC Response:
+Given the nascent state of the EV industry and VGI today relative to California’s new goal for
+100% ZEV passenger car and truck sales by 2035,6 VGIC believes that the TEPs should play a
+meaningful role in providing a comprehensive review and coordination of EV rates as a whole.
+This is necessary for several reasons: 1) it allows for better coordination of EV rate options and
+other VGI-related programs that are developed through the TEPs, 2) it helps to avoid ad-hoc
+development of EV rates through standalone applications or GRC cases. This is necessary to
+encourage more robust participation from global firms (e.g. automotive original equipment
+manufacturers or “OEMs”) that are unable to devote resources to many disparate rate
+proceedings within a single U.S. state. At a minimum, the TEPs should provide a venue for
+substantive policy guidance on EV rates, whereas specific details could be worked out in
+subsequent GRCs. In that spirit, VGIC believes the draft TEF EVREV concept is a more
+organized approach that improves upon the existing ad-hoc EV rate application process.
+C. Coordination with CEC
+In opening comments, SCE recommends the directives emerging from the TEF be well-
+coordinated with the California Energy Commission (“CEC”) Load Management docket.7
+4 Opening Comments of SCE at 3, Opening Comments of Pacific Gas and Electric Company (U 39 E) on Draft
+Transportation Electrification Framework Sections 9, 10 and 12 (hereinafter, “Opening Comments of PG&E”) at 2 ,
+and San Diego Gas & Electric Company’s (U 902-E) Opening Comments on the Transportation Electrification
+Framework: Rates, Cost Recovery, Alternative Financing, Partnerships, and Emerging Trends (Sections 9, 10, and
+12) (hereinafter, “Opening Comments of SDG&E”) at 2.
+5 Opening Comments of SCE at 3.
+6 Executive Order N-79-20.
+7 Opening Comments of SCE at 7.
+4
+
+VGIC Response:
+VGIC generally supports this coordination. However, coordination with CEC must not serve as a
+substitute or delay for IOUs proposing VGI rates and programs through their TEPs and, in the
+pre-TEP timeframe, through VGI Portfolios as discussed in previous VGIC comments.8
+D. Customer Experience and Comprehension of EV Rates
+Several IOUs suggest that varying prices based on time of day may prove to be too confusing for
+EV drivers, with SCE’s opening comments stating, “varying fueling prices based on time of day
+is counterintuitive for a driver.” 9
+VGIC Response:
+VGIC disagrees with the notion that prices varying by time of day are too confusing or
+counterintuitive for EV customers. Time of use rates are common not only in California, where
+they are becoming the default for all customers, but across the country and have not proven to be
+too confusing for customers. In fact, controlled studies have shown that TOU rates have been
+effective at leading to peak load reduction due to responsive customer behavior.10 Additionally,
+dynamic rates also exist in California through the SDG&E PYD program, and could be made
+more widespread as an option (rather than a requirement) for larger groups of customers. In fact,
+multiple types (i.e., more than one option) of dynamic rates could be made available for
+8 See, for example, Comments of VGIC on TEF Sections 6, 11.1, and 11.2.
+9 Opening Comments of SCE at 5.
+10 See, for example, U.S. Department of Energy Office of Electricity Delivery and Energy Reliability, Final Report
+on Customer Acceptance, Retention and Response to Time-Based Rate from the Consumer Behavior Studies,
+November 15, 2016.
+https://www.smartgrid.gov/files/documents/CBS_Final_Program_Impact_Report_20161107.pdf and Smart Electric
+Power Alliance, The Brattle Group, E4 the Future, and Enel X, Residential Electric Vehicle Rates That Work:
+Attributes that Increase Enrollment, November, 2019. https://sepapower.org/resource/residential-electric-vehicle-
+time-varying-rates-that-work-attributes-that-increase-enrollment/
+5
+
+customers to participate at varying levels of sophistication in if they choose to do so. VGIC notes
+that automotive OEMs and EV service providers (“EVSPs”) can manage charging in response to
+these rates “behind the scenes” in a manner such that customers would not be bothered with the
+intricacies of how the rate functions, while also realizing net value from taking service on a
+dynamic rate tariff owing to third-party providers’ management of the customer experience. Our
+member companies are well equipped to perform this function. As consumer-facing brands,
+OEMs and EVSPs have decades of expertise in customer communications borne out of necessity
+due to the highly competitive nature of the automotive business. Given the opportunity, OEMs
+and EVSPs will be successful in communicating the information necessary for customers to
+participate in any dynamic rate scheme, no matter how complex it may initially appear.
+E. Timing of EV Rate Implementation
+The Draft TEF proposed that dynamic rates be optional within five years and default for
+commercial customers within ten years. In opening comments, San Diego Gas and Electric
+(“SDG&E”) cautions that highly dynamic rates may not be appropriate as the default rate for
+commercial EV customers.11 Similarly, Cal Advocates suggested that defaulting small
+commercial customers to dynamic rates could cause “customer confusion.”12
+VGIC Response:
+VGIC disagrees with SDG&E’s perspective and believes that dynamic rates will not only stand
+to benefit commercial customers, but are appropriate to be considered as the default option ten
+years from now. VGIC notes that, as a general rule, dynamic rate options are best suited and can
+provide the most benefit for customer classes that are the most price sensitive. This includes
+11 Opening Comments of SDG&E at 4.
+12 Opening Comments of Cal Advocates at 5.
+6
+
+commercial EV customers, which would have a strong interest in minimizing their charging
+costs. Moreover, VGIC believes that ten years is sufficient lead time for stakeholders to learn the
+benefits of deploying a dynamic rate for commercial EV customers. Over that time period, fleets
+and other commercial customers will be able to weigh the full costs and benefits of
+electrification, including the costs of charging on dynamic rates. Furthermore, there is no reason
+to presuppose that a static rate is any more “appropriate” for commercial EV customers than a
+dynamic one. In fact, it may be less appropriate since it gives customers fewer options for
+controlling their charging costs.
+F. Alignment with non-rate approaches to grid-management
+In opening comments, Pacific Gas & Electric (“PG&E”) recommends:
+“the CPUC should align rate design efforts with other non-rate grid management,
+including the myriad of existing and potential demand response (“DR”) programs and
+load management programs.”13
+VGIC Response:
+VGIC strongly supports this recommendation. Available EV rates, including those offering the
+greatest opportunity to align with grid conditions and reduce charging costs (e.g., PG&E EV-
+B14), may require customers to take service under a separate utility meter. However, for some
+VGI use cases, capturing additional value streams by participating in non-rate programs or
+market products such as DR rely on sharing a utility meter with on-site load. The misalignment
+between EV rate requirements and non-rate programs and market product structures is therefore
+a significant barrier to VGI market development and broader EV adoption. VGIC recommends
+13 Opening Comments of PG&E at 6.
+14 PG&E Electric Schedule EV
+https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_EV%20(Sch).pdf
+7
+
+that these onerous EV rate metering requirements be remedied in the near-term, and believes that
+this can be done through proven low-cost metering solutions embedded within the EV and/or
+EVSE, such as that which is presently being considered in the DRIVE OIR activity on
+submetering protocol development. The advancement of optional EV and/or EVSE metering
+strategies for all use cases where they are helpful should be accelerated to alleviate this threshold
+issue. Furthermore, existing DR programs are structured around load curtailment, which does not
+incentivize V2G solutions to provide capacity or other grid services. In opening comments,
+VGIC detailed new options for incentivizing V2G solutions to provide responsive and
+guaranteed capacity.15 This approach can provide day-to-day grid value in addition to fitting EVs
+into existing DR constructs. In light of California’s urgent need for Resource Adequacy (“RA”)
+resources, VGIC recommends the Commission explore pathways to promote V2G strategies
+such as those previously introduced by VGIC in the instant proceeding.
+G. Role of CCAs
+SCE’s comments suggest that R.13-11-007 already determined CCAs are ineligible to receive
+ratepayer funds for TE programs. In contrast, the CCAs offer a framework for delineating the
+roles and responsibilities for both CCAs and IOUs to administer a portion of funds collected to
+support TE programs.
+VGIC Response:
+VGIC is generally supportive of whatever TE approach is best suited to accelerating EV
+adoption and in turn VGI. To that end, VGIC believes there are certain areas of TE
+implementation that CCAs are better equipped to deliver than IOUs due to their specific local
+15 Comments of the Vehicle-Grid Integration Council on the Transportation Electrification Framework (Section 9,
+10, and 12) at 12-19. Hereinafter, “Opening Comments of VGIC”.
+8
+
+knowledge. Likewise, IOUs may be better equipped in some areas that require a more broad-
+based approach. As such, VGIC is supportive of the concept of CCAs acting as program
+administrators for a subset of TE program areas, provided that:
+1. Allowing CCAs to act in this capacity does not delay or diminish progress towards
+overall TE goals and objectives.
+2. There is general agreement among stakeholders on which roles are more suitable for
+CCAs to take on, and a delineation of these roles between CCAs and their IOU
+counterparts.
+Some of the areas that appear to be well suited for CCA implementation include (but are not
+limited to): fleets for municipal and localized commercial activities (e.g. ports), Active Load
+Management schemes that require coordination with local jurisdictions on electrical safety codes,
+and incentives for VGI that require alignment with CCA generation rates.
+H. Reply to General Comments of Cal Advocates on Section 9.1
+In their Opening Comments, Cal Advocates identifies three important rate design policies in the
+Draft TEF, including the following two:
+ Mitigate the economic impact of demand charges in new rates while still reflecting cost-
+causation principles.
+ Use the appropriate rates, subsidies, and/or customer bill credits to offset the cost of
+public charging for customers who do not have access to low residential off-peak
+charging rates.
+VGIC generally agrees with Cal Advocates comments on these issues. With regard to mitigating
+the impact of demand charges while still reflecting cost-causation, VGIC notes that its Opening
+Comments offered some potential approaches that may help to accomplish this, including a more
+9
+
+dynamic demand charge approach.16 With regard to the use of rates, subsidies, and/or customer
+bill credits, VGIC agrees that all of these mechanisms should be considered as helpful tools for
+achieving desired public policy goals such as expanding access to affordable EV charging rate
+for low- and moderate income MUD residents. VGIC further notes that there may be other
+laudable policy goals that warrant the use of rates, subsidies, and/or customer bill credits. For
+example, VGIC’s Opening Comments recommended the use of a bill credit mechanism as a
+means to help transform the market for emerging V2G technologies, which stand to provide
+long-term dividends to all ratepayers by reducing the costs to operate the grid.17
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on Rates, Partnerships,
+and Emerging Technology sections of the Draft TEF. We look forward to further collaboration
+with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: September 25, 2020
+16 Opening Comments of VGIC at 8-11.
+17 Opening Comments of VGIC at 12-18.
+10

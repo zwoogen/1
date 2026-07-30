@@ -1,0 +1,216 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+TRACK B WORKING GROUP REPORT
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+December 22, 2023
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+TRACK B WORKING GROUP REPORT
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), and pursuant to Assigned Commissioner’s Phase 1 Scoping Memo
+and Ruling, issued November 2, 2022, and the Email Ruling Modifying Deadlines for Working
+Group Proposal and Comments issued by Administrative Law Judge (“ALJ”) Stephanie Wang
+on September 29, 2023, the Vehicle-Grid Integration Council (“VGIC”) hereby submits these
+reply comments on the Track B Working Group Report, submitted by Southern California Edison
+Company (“SCE”), on October 11, 2023, on behalf of the Track B Working Groups.
+I. PARTY COMMENTS INDICATE THE NEED FOR A FULL VALUE STACK
+THAT OFFERS SUFFICIENT SAVINGS OR REVENUE CERTAINTY FOR DER
+CUSTOMERS.
+VGIC commends the Commission and stakeholders’ continued efforts to shape demand
+flexibility policies and establish guidance for demand flexibility rates, which will help California
+capitalize on the opportunity presented by the concurrent energy and transportation transitions.
+While party opening comments present different perspectives on the future demand flexibility
+rate guidance, VGIC notes an area of emerging consensus is the need for a full “value stack” that
+recognizes and compensates the entire suite of grid services that a customer may be either
+consuming or providing. We recommend the Commission adopt the below recommendations in
+its final guidance to promote a full, sustainable value stack that offers customers the sufficient
+1
+
+level of certainty needed to guide investments in grid-responsive technologies, like networked
+EV chargers or bidirectional charging equipment.
+A. Certain and Sufficient Revenue Should be the Goal of a Full Value Stack.
+In opening comments, the California Energy Storage Alliance (“CESA”) highlights the
+impact dynamic rate structures can have on existing technology (i.e., customers who have
+already installed the technology), which are “the most likely adopters of a flexible rate design.”1
+CESA also emphasizes that “revenue certainty is key for…new technology.” VGIC strongly
+agrees with this sentiment. Similar to stationary energy storage, mobile energy storage solutions
+require upfront investment to deploy the enabling technologies. To connect EVs to the grid and
+unlock the vehicle-to-everything (“V2X”) functionality, customers must install bidirectional EV
+supply equipment (EVSE) and enabling equipment that may differ across use cases (e.g., site
+controllers/EMS, meters, panel and switchgear upgrades, etc.). Without sufficient revenue
+certainty for customers considering participation in demand flex rates, customers will not make
+the necessary investment in V2X technology and the capabilities required to respond to dynamic
+rates. As CESA noted in their opening comments, “[f]or projects in the commercial and
+industrial sectors, financiers require a reasonable level of assurance that debt will be repaid.”
+VGIC again agrees with CESA, and notes EV customers in the commercial and industrial sectors
+represent a relatively nascent use case for VGI investments. The early market stage for this
+customer segment, as well as the relatively large size of these charging sites, demands a strong
+and compelling value proposition to incentivize the deployment of VGI solutions. This could
+include managed charging software, bidirectional charging equipment, and/or DER-backed
+charging. With that said, demand flexibility rates can provide certainty and sufficient
+1 CESA Opening Comments, pg. 3.
+2
+
+revenue for customers through a complete “value stack” including energy, generation
+capacity, transmission capacity, distribution capacity, and, potentially, ancillary services
+components, thus, unlocking far greater load flexibility and value from EV customers and fleets.
+B. At a Minimum, Primary Distribution Costs Should Comprise the Distribution
+Component of the Value Stack.
+As detailed in Section I.A above, all components that make up a full value stack are
+critical to providing certainty and sufficient revenue to encourage investment in VGI
+technologies. However, VGIC strongly believes that distribution compensation is particularly
+important to unlocking load shift from EVs that is responsive to distribution system constraints,
+given the observed and anticipated incidence of EV clustering on individual circuits. In the
+context of long-term dynamic rate guidance, it may be helpful to distinguish between primary
+and secondary distribution costs. This would align with what the Joint IOUs posed in their
+opening comments.2
+Distribution system management is particularly important for EV charging load. For
+example, residential EV charging can quickly overwhelm local neighborhood transformers in
+areas with high EV adoption. A similar dynamic can be observed in commercial areas where
+warehouses and fleet charging depots may be just across the street from one another. It’s
+important to note that these examples can result in localized distribution system peaks that may
+not coincide with the bulk system’s net peak load. As a result, demand flexibility rates should be
+thoughtfully designed to accommodate this unique characteristic. Programmatic approaches to
+secondary distribution costs can be a valuable tool to complement demand flexibility rates that
+may otherwise communicate only system-level conditions. To that end, VGIC supports the
+2 Opening Comments of Joint IOUs. Page 5-6.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M520/K881/520881587.PDF
+3
+
+IOU’s reversal from their initial position that a distribution component should not be included in
+the initial demand flexibility rates to the new position, represented in opening comments, to
+include a distribution component from the outset.3 However, we encourage the IOUs to consider
+how to round out a full dynamic rate value stack using programmatic elements. For example,
+primary distribution cost optimization could be addressed through a dynamic rate design
+component, while secondary distribution costs are optimized through a managed charging
+program.
+Additionally, we strongly recommend the IOUs include an export distribution
+component to fairly round out the value stacking, which in turn, will incentivize resources to
+support the grid via exports when needed most. Without a distribution component for exports,
+there would be little-to-no incentive for customers/resources with the greatest grid support
+potential (e.g., VGI resources) to support the grid through strategically times exports.
+The Public Advocates Office’s (“Cal Advocates”) recent Distribution Grid Electrification
+Model (“DGEM”) study, which aimed to study and forecast the costs of upgrading California’s
+three largest IOUs’ (i.e., SCE, PG&E, SDG&E) distribution system to meet California’s
+Transportation Electrification (“TE”) goals, found that EVs will account for the vast majority of
+load growth expected by the year 2035.4 The Commission’s Electrification Impacts Study: Part
+1, completed by Kevala, finds the need for new distribution investments over this period to be as
+high as $50 billion.5 However, Cal Advocates’ DGEM study finds that smart charging (e.g., VGI
+3 Joint IOUs Opening Comments, pg. 5, 10-11.
+4 Public Advocates Office, Distribution Grid Electrification Model – Study and Report, August 2023.
+“We estimate that electrification will cost $26 billion in required upgrades to the utilities’ distribution
+grids through 2035. However, this number has significant uncertainty, and the total cost could be as much
+as $18 billion lower or $31 billion higher.”
+5 See Kevala
+4
+
+strategies) “reducing the peak load could avoid $35 billion or more in distribution investments”
+(emphasis added).6 Meanwhile, recent studies of VGI capability found that peak demand can be
+decreased by roughly 3 to 20 percent with V2G systems, and under different scenarios (e.g.,
+residential V2G), the system peak demand was decreased by 27 to 67 percent.7 While this VGI-
+specific analysis is specific to bulk system peak demand, VGIC posits similar reductions can be
+achieved for distribution system peak demand. These three studies, taken together, demonstrate
+the critical need to address distribution impacts and minimize investments in distribution system
+upgrades, thereby saving ratepayers money. VGIC recommends the Commission include, at a
+minimum, (1) a primary distribution component for both imports and exports and (2)
+create a programmatic pathway to mitigate secondary distribution impacts.
+To ensure a sufficient value stack that incentivizes the adoption of grid-responsive VGI
+solutions, VGIC recommends that IOU demand flexibility applications include an analysis of the
+payback period for various types of VGI solutions across different customer segments, including
+unidirectional charging networking costs, bidirectional charger deployment costs, and DER-
+paired EV charging solutions. This analysis will help to inform the level of compensation that is
+necessary to attract investment into the nascent VGI market.
+Lastly, VGIC recommends the Commission consider expanding the value stack in the
+future to include additional distribution system optimization services, including balancing
+6 Public Advocates Office, Distribution Grid Electrification Model – Study and Report, August 2023. Pg.
+44.
+7 Bijan Bibak, Hatice Tekiner-Mogulkoc, The parametric analysis of the electric vehicles and vehicle to
+grid system’s role in flattening the power demand, Sustainable Energy, Grids and Networks, Volume 30,
+June 2022.
+See: https://www.sciencedirect.com/science/article/abs/pii/S2352467722000030
+5
+
+voltage and frequency, which EVs may be able to support through unidirectional or bidirectional
+charging equipment.
+II. CAL ADVOCATES’ ASSERTION THAT THE COMMISSION HALT
+RATEPAYER INVESTMENTS IN DEMAND FLEXIBILITY DIRECTLY
+CONFLICTS WITH THEIR ANALYSIS SHOWING THE $35 BILLION THAT
+DEMAND FLEXIBILITY CAN SAVE RATEPAYERS BY 2035.
+In opening comments, Cal Advocates’ asserts that funding opportunities for demand
+flexibility through the California Energy Commission’s (CEC) Distributed Electricity Backup
+Assets (“DEBA”), Energy Efficiency and Load Flexibility Grant Funding Opportunity,
+Responsive, Easy Charging Products with Dynamic Signals (“REDWDS”) Grant Funding
+Opportunity, Clean Energy Reliability Investment Plan, Climate Resiliency Bonds, Cap-and-
+Trade Auction Revenue, and the Department of Energy’s (“DOE”) Grid Resilience and
+Innovation Partnership (“GRIP”) “be fully exhausted before requiring ratepayers to fund the
+Demand Flexibility transition.”8 VGIC acknowledges the critical need to guard against
+imprudent ratepayer costs given that California IOU ratepayers see the highest electricity rates in
+the nation. VGIC also agrees that there is a patchwork of funding opportunities that have been
+recently opened to demand flexibility technologies. However, Cal Advocates’ assertion that
+demand flexibility rates not be implemented until these funds are exhausted is in direct conflict
+with their DGEM analysis, detailed in Section I.B. above. The Cal Advocates’ DGEM study
+correctly concludes that managed EV charging will be key to mitigating the billions of dollars in
+distribution system upgrade costs identified within the study. One way to encourage this desired
+level of VGI is through demand flexibility rates. VGIC reiterates that non-rate programmatic
+approaches can also be effective in enrolling customers and managing EV load.
+8 Public Advocates Office Opening Comments, Pg. 7.
+6
+
+Moreover, in the context of grid reliability, we cannot put all our eggs in one basket and
+rely on programs like DEBA and Demand Side Grid Support (“DSGS”) alone, as those only
+target deploying emergency reliability resources during the months of May to October, and do
+not consider year-round, 8,760-hour DER optimization. For some customers, emergency
+reliability response strategies may not be well-suited for event-based programs and may be better
+fit to a 24/7, year-round optimization approach. In this way, there is, unfortunately, no one-size-
+fits-all approach to demand flexibility. Just as California seeks fuel diversity in its bulk power
+generation profile, it should seek demand side management strategy diversity. VGIC strongly
+advises against placing all of the Commission’s eggs in one basket, whether that be
+CalFUSE rates, emergency demand response programs, or non-ratepayer-funded grant
+funding opportunities. Especially within the context of VGI solutions and some of its more
+nascent technologies, there is a need to promote customer response from an immense array of
+vehicle use cases, customer segments, charger sizes and types, site hosts, relevant agents and
+actors, and price sensitivities. This is evident in California’s effort to list and rank thousands of
+VGI use cases in the Commission’s 2019-2020 VGI Working Group.
+Additionally, the REDWDS solicitation referenced by Cal Advocates is meant to promote
+technology development for additional solutions that can respond to demand flexibility rates. In
+other words, deferring rate implementation would directly inhibit the success of the CEC’s
+REDWDS effort and its significant funding.
+A stable underlying price signal – whether that be the demand flexibility rates or mass-
+market managed charging/VGI programs – is needed to deploy grid-supportive VGI resources.
+Cal Advocates’ DGEM study demonstrates California's critical cost imperative to establish this
+price signal, and VGIC questions how else California could capture the $35 billion in
+7
+
+distribution system upgrade cost avoidance by 2035. VGIC urges the Commission to authorize
+strategic investments in VGI solutions, including through both demand flexibility rates and non-
+rate managed charging/VGI programs, to ensure there is a relief valve for ratepayer costs as the
+pace of EV load growth accelerates and shows no sign of tapering off.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the Track B
+Working Group Report. We look forward to further collaboration with the Commission and
+stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: December 22, 2023
+8

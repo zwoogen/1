@@ -1,0 +1,98 @@
+Comments of the Vehicle-Grid Integration Council (VGIC) on the California Energy
+Commission (CEC) Vehicle-to-Grid (V2G) Inverter List Workshop
+Docket # 19-AB-2127
+Implementation of AB 2127 Electric Vehicle Infrastructure Assessments
+Ed Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Comments submitted via:
+https://efiling.energy.ca.gov/Ecomment/Ecomment.aspx?docketnumber=19-AB-2127
+
+May 31, 2022
+I. Introduction
+The Vehicle-Grid Integration Council (“VGIC”), a 501(c)6 membership-based advocacy
+group, is pleased to provide comments in response to the California Energy Commission
+(“CEC”) Vehicle-to-Grid (“V2G”) Inverter List Workshop hosted May 17, 2022.
+VGIC is committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid
+integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring the value
+from EV deployments and flexible EV charging and discharging is recognized and compensated
+in support of achieving a more reliable, affordable, and efficient electric grid.
+VGI refers to the shift or modulation in charging or discharging time, level, or location in
+support of achieving a more reliable, affordable, decarbonized, and efficient electric grid. VGI
+includes V2G solutions, and VGIC appreciates the Commission’s exploration of establishing a
+V2G inverter list. VGIC’s comments below address specific recommendations for the CEC to
+consider as it establishes a V2G Inverter List.
+II. UL 1741, UL 1741 SA, and UL 1741 SB should each be tracked upon launch of
+the V2G Inverter List.
+During the workshop, CEC staff identified that UL 1741, UL 1741 SA, and UL 1741 SB may
+each be relevant standards to track upon launch of the V2G Inverter List. VGIC believes all three
+of these standards should be tracked for the following reasons:
+A. UL 1741 – the core safety standard – is require for participation in the customer
+group A.5 of the Emergency Load Reduction Program (“ELRP”). Based on VGIC’s
+understanding, this is the only existing pathway for V2G exports to be compensated
+in California, and therefore plays a critical role in facilitating the development of the
+V2G market. According to CPUC Decision 21-12-015 and the IOU’s Second
+Substitute Tariff Sheet to Advice Letter 6458-E, V2G Direct Current (“V2G-DC”)
+systems certified to UL 1741 – but not UL 1741 SA or other updated smart inverter
+standards (i.e., UL 1741 SB) – may interconnect for the purpose of participating in
+Vehicle-Grid Integration Council Page 2 of 4
+www.vgicouncil.org
+
+May 31, 2022
+ELRP. With this in mind, VGIC believes it is critical that certification to the base UL
+1741 be tracked in the CEC’s V2G Inverter List.
+B. UL 1741 SA – the smart inverter supplement – is currently required under Rule 21
+for all V2G DC devices seeking interconnection that are not participating in ELRP.
+While UL 1741 SB will be required under Rule 21 beginning in 2023, Decision 20-
+09-035 and Resolution E-5165 allow installed V2G-capable (but not enabled) devices
+certified to UL 1741 SA a 5-year grace period to comply with UL 1741 SB. For
+example, if a UL 1741 SA device is installed in unidirectional or V1G “mode” in
+2022, then requests Rule 21 interconnection in 2024, then it does not need to meet UL
+1741 SB even though at that time UL 1741 SB would otherwise be required under
+Rule 21. With this 5-year grace period in mind, it is critical that certification to UL
+1741 SA be tracked in the CEC’s V2G Inverter List.
+C. UL 1741 SB – the updated smart inverter supplement – will be required under Rule
+21 beginning in early 2023. Considering it will take some time for the CEC to
+develop and launch the V2G Inverter List, VGIC believes it reasonable to track UL
+1741 SB upon launch, which may coincide with the new Rule 21 requirement. As
+noted in Sections II.B and II.C above, even when UL 1741 SB is required under Rule
+21, several key exceptions for V2G DC systems participating in ELRP and/or
+utilizing the 5-year grace period will remain, and therefore UL 1741 SB should not be
+the only certification tracked at launch.
+III. VGIC recommends the CEC host further discussion to determine how best to
+develop the tool for purposes beyond streamlining interconnection.
+The specific scope of the V2G Inverter List appears to remain an open question for the
+CEC. During the workshop, CEC staff shared that the solar and storage equipment and inverter
+lists have been used by utilities to streamline the interconnection process. Several stakeholders
+highlighted that in addition to this purpose, the V2G Inverter List could potentially be used to list
+other technical details that could support V2G market development. Additionally, CEC staff
+expressed interest in how to design the list to prepare for V2G Alternating Current (“V2G AC”)
+devices, even if this configuration is not common at the launch of the list. Along these lines, the
+in-development UL 1741 SC standard has been suggested as a no-regrets addition to the V2G
+Vehicle-Grid Integration Council Page 3 of 4
+www.vgicouncil.org
+
+May 31, 2022
+Inverter List. In VGIC’s view, the CEC’s V2G Inverter List is an important initiative that should
+in the near-term track the three UL standards listed above in Section II, and that the topics of (1)
+additional uses for the list and (2) how to prepare for V2G AC devices, including adding UL
+1741 SC to the list, merit further discussion. As such, VGIC urges the CEC to host further
+stakeholder discussions to develop the specific scope of the V2G Inverter List beyond its near-
+term role of streamlining interconnection.
+IV. Conclusion
+VGIC believes V2G solutions are well-poised to be a critical component of California’s
+clean, reliable energy future and an accelerated transition to a carbon-free system that benefits
+everyone. VGIC appreciates the leadership of the CEC in establishing the V2G Inverter List, and
+looks forward to further collaboration with the CEC and other stakeholders on this important
+initiative.
+Respectfully submitted,
+ED BURGESS
+Vehicle-Grid Integration Council Page 4 of 4
+www.vgicouncil.org

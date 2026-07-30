@@ -1,0 +1,46 @@
+
+“What is it about VGI that has you focus your time and attention on it?  What makes you think it is worth the time, attention, and money (including public funds) that could go into it?”
+
+VGIC believes that VGI is worth prioritizing now because it can help achieve five important public policy goals: 
+Decarbonize the transportation sector by accelerating EV adoption
+Support decarbonization of the power sector by providing essential grid services as RE penetration increases
+Increase affordability by reducing electricity bills for all consumers 
+Improve grid resiliency and security (including during PSPS events)
+Foster economic activity through innovation, competition, and market transformation. 
+Each of these is addressed in greater detail below. At the end of this document, we offer a hypothesis on the comparison of VGI to other DERs based on the five policy goals. This is meant to spur further discussion.
+Decarbonize transportation sector by accelerating EV adoption
+Transportation represents roughly 40% of statewide greenhouse gas (“GHG”) emissions and to address this California has established goals to reach 1.5 million EVs by 2025 and 5 million EVs by 2030. Accelerated EV adoption is still needed to meet these goals. VGI can help address barriers to faster EV adoption: 
+
+Support decarbonization of power sector by providing essential grid reliability services as RE penetration increases
+California’s GHG emissions reduction targets call for a ~40% cut from today to 2030, and the state aims to reach 100% GHG-free electricity by 2045. As RE penetration increases in support of this goal, a number of essential grid reliability services will need to be provided by clean resources instead of traditional fossil resources. VGI-enabled EVs can play an important role in this transition. 
+
+CPUC’s recent 2019-20 IRP modeling shows need for +8,900 MW of new battery storage by 2030 to meet GHG targets. 
+
+
+
+This significant ramp up in battery storage is likely to be met by a diverse portfolio of options including the following: 
+Distributed BTM batteries
+Large-scale FTM batteries
+VGI-enabled EVs
+
+As new EVs are deployed to meet transportation electrification goals over the next decade, these assets can also be leveraged to provide grid services and contribute to the overall battery storage needs identified by the CPUC. This may even be a more cost-effective option in some cases than standalone forms of storage since the initial capital cost is largely paid for by customers’ EV purchases. 
+	
+Increase affordability by reducing electricity bills for all consumers 
+3.1) VGI can directly help limit overall electricity system cost increases (and in turn, limit future customer bill increases) by: 
+providing lower-cost alternatives to traditional supply-side resources, AND/OR 
+offering a tool to help mitigate the cost impacts of rising EV and RE adoption.  
+
+3.2) In addition to directly reducing system costs, VGI can help to reduce electricity bills, even for non-EV owners. Because VGI plays a role in accelerating EV adoption (thereby increasing kWh sales), it also helps to place downward pressure on overall electric rates by increasing the total sales relative to the revenue requirement. This was further explained by VGIC as part of the Subgroup B workshop materials (see “Ratepayer Impact Benefits” writeup dated February 2020). 
+
+Improve grid resiliency and security (including during PSPS events)
+The prospect of more frequent Public Safety Power Shutoffs (PSPS) creates an urgent need to address the relationship between resiliency and EVs. PSPS events highlight the need for microgrids to support vulnerable communities, as well as the value of on-site backup power for customers experiencing an outage.
+VGI, specifically bi-directional systems, can address these pressing resiliency needs by leveraging EVs as multi-use assets for more cost-effective microgrids and by providing a new benefit stream for customers seeking backup power during a PSPS.
+VGI can also reduce emissions caused by diesel backup generators that would otherwise be implemented  by customers and/or microgrid planners.
+CPUC Wildfire Map
+
+
+Foster economic activity through innovation, competition, and market transformation. 
+The complex ecosystem of firms engaged in the VGI marketplace reflects the depth and diversity of private investment. As an example, the below collection shows some of the automotive original equipment manufacturers (“OEM”), EV supply equipment (“EVSE”) companies, and EV service providers (“EVSP”) engaged in VGI. These market participants engage with other equipment and software providers, project developers, financers, engineering, procurement, and construction (“EPC”) companies, and operations & maintenance experts. 
+
+
+Comparison to other DERs Hypothesis - Draft for Discussion

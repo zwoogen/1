@@ -1,0 +1,332 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking
+Regarding Transportation Rulemaking 23-12-008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+(NOT CONSOLIDATED)
+Order Instituting Rulemaking to
+Continue Development of Rates and
+Infrastructure for Vehicle Rulemaking 18-12-006
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING REGARDING TRANSPORTATION
+ELECTRIFICATION POLICY AND INFRASTRUCTURE AND CLOSING
+RULEMAKING 18-12-006
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+January 19, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking
+Regarding Transportation Rulemaking 23-12-008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+(NOT CONSOLIDATED)
+Order Instituting Rulemaking to
+Continue Development of Rates and
+Infrastructure for Vehicle Rulemaking 18-12-006
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING REGARDING TRANSPORTATION
+ELECTRIFICATION POLICY AND INFRASTRUCTURE AND CLOSING
+RULEMAKING 18-12-006
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1 hereby submits
+these comments on the Order Instituting Rulemaking Regarding Transportation Electrification
+Policy and Infrastructure and Closing Rulemaking 18-12-006 (“TE OIR”), issued by
+Administrative Law Judge (“ALJ”) on December 14, 2023.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Fermata Energy,
+Ford Motor Company, General Motors, Nissan Group of North America, Nuvve Holding Corporation, Toyota
+Motor North America, Inc., BlueGrid Energy, Customized Energy Solutions, dcbel, Emporia Corp., EnergyHub,
+EV.Energy, FreeWire Technologies, Inc., GridWiz, Kaluza, Kitu Systems, Landis + Gyr, Ninedot Energy, Peak
+Power, PowerFlex, Qcells, Rhythmos, Inc., Stellantis N.V., Sumitomo Electric, The Mobility House, Wallbox USA
+Inc., WeaveGrid, Hoosier Energy, and Sacramento Municipal Utility District. The views expressed in these
+Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/)
+1
+
+I. INTRODUCTION.
+VGIC commends the Commission for issuing the OIR and appreciates the attention given
+to timely energization of electric vehicle (“EV”) charging infrastructure, transportation
+electrification (“TE”) grid planning to support charging infrastructure deployment, deployment of
+behind-the-meter (“BTM”) charging infrastructure to support state goals, vehicle-grid integration
+(“VGI”), and ongoing TE policy development and collaboration. The previous TE Rulemaking
+(“R.”) 18-12-006 developed a framework for funding BTM charging infrastructure, clarifying the
+IOUs’ role in TE, adopted key VGI strategies pursuant to Senate Bill (“SB”) 676, adopted a
+submetering protocol for EV supply equipment (“EVSE”), and established strategic focus areas
+for VGI. VGIC and its members appreciate the progress made through each of these efforts in
+pursuit of widespread TE. VGIC generally supports the Commission’s focus on the emerging TE
+issues identified in the new TE OIR, including timely energization of EV charging sites, grid
+planning for freight and other TE use cases, impacts on rate payers, and establishing goals and
+targets to advance VGI.2
+The scope and timeline of the TE OIR are significant, which is appropriate given the
+imperative for TE to meet the state of California’s climate goals. As detailed below, VGIC supports
+a dedicated track for VGI issues; however, it is critical that VGI solutions not be treated as an
+optional component of the TE planning portfolio or as an afterthought being considered only after
+immense TE infrastructure deployment. VGI is a critical tool that can help California achieve its
+ambitious transportation and energy sector decarbonization goals. The OIR states that “[t]he
+growth of zero-emission vehicles, and the deployment of new charging infrastructure to support
+the growing pace of zero-emission vehicle adoption, will have varying impacts on local
+2 OIR at 8.
+2
+
+distribution systems and will require significant grid upgrades.”3 VGI strategies can aid in
+alleviating cost pressures and energization timeline challenges that have been experienced to date
+and are expected to continue or worsen as EV adoption accelerates. VGI strategies, therefore,
+should be a key component of all TE infrastructure planning. VGIC offers the below comments
+recommending modifications to the OIR’s preliminary scope to holistically incorporate VGI
+throughout California’s emerging TE strategy and, in turn, optimize the deployment and use of
+infrastructure necessary to enable electrification and thereby reduce the ratepayer impacts of TE.
+II. BACKGROUND & INTEREST IN PROCEEDING.
+VGIC is a 501(c)6 member-based advocacy group committed to advancing the role of EVs
+and VGI through policy development, education, outreach, and research. VGIC supports the
+transition to a decarbonized transportation and electric sector by ensuring the value from flexible
+EV charging and discharging is recognized and compensated to achieve a more reliable,
+affordable, and efficient electric grid. VGIC’s members include automotive original equipment
+manufacturers (“OEMs”), EV service providers (“EVSPs”), distributed energy resource (“DER”)
+aggregators, and electric utilities, and has a direct interest in shaping the policies, procedures, and
+rules needed to develop the infrastructure required to support the acceleration of TE. VGIC has
+been an active party in related rulemakings such as R.18-12-006, R.22-07-005, R.17-07-007, and
+R.21-06-017.
+III. COMMENTS ON THE PROPOSED SCOPE.
+In recognition of increasing EV adoption in California and the required charging
+infrastructure to support it, VGIC appreciates the magnitude of challenges facing the state’s major
+3 OIR at 7.
+3
+
+investor-owned utilities and the established Commission TE policies. Leveraging the unique
+flexibility of EVs and EVSE offers the grid a relatively low-cost and increasingly critical approach
+to maintain electric reliability, unlock rate affordability, and reduce lengthy energization timelines.
+It will take an intentional and coordinated effort to capitalize on the opportunity of the coming
+mass deployment of EVs and the associated charging infrastructure.
+Critically, planning for VGI cannot be considered in isolation from other efforts or as an
+afterthought. VGIC believes it would be a missed opportunity to deploy the needed charging
+infrastructure and distribution system upgrades without prudent consideration of VGI as a tool to
+manage EV load and moderate costs. Similarly, using VGI strategies to accelerate energization
+timelines should not be addressed after customers have navigated lengthy – and ever-lengthening
+–service connection queues. This demands an explicit and comprehensive framework for
+advancing VGI to address these and other challenges associated with TE.
+VGIC appreciates the Commission’s “VGI Strategic Focus Areas” adopted in D.22-11-
+040, but California needs a more comprehensive VGI Roadmap that includes a critical role for
+bidirectional charging, vehicle-based managed charging programs, automated load management
+solutions, and other key VGI technologies. SB 676 directs the Commission to maximize VGI. To
+fulfill this vision, VGIC recommends several enhancements below to ensure the scope of this
+proceeding is inclusive of all necessary VGI issues. VGIC also details a recommendation for the
+Commission to scope a precise process to maximize VGI benefits, including by adopting a
+participation/procurement target, establishing interim targets, adopting metrics to measure success
+against targets, identifying gaps and barriers to achieving VGI targets, and approving strategies to
+address each gap and barrier.
+4
+
+A. The Commission should establish discrete Tracks to facilitate parallel progress
+and “quick wins” across TE issues rather than sequencing topics solely by
+urgency.
+The OIR identifies five issues and eight sub-issues within the preliminary scope for this
+proceeding.4 To guide parties, VGIC recommends the Commission establish discrete tracks that
+infuse VGI throughout for the following key TE issues:
+• Track A: Solutions to energization timelines and the IOU side-of-meter & BTM
+paradigm’s impact on ratepayers.
+• Track B: VGI targets, market transition, and holistic road-mapping.
+• Track C: Statewide BTM rebate program development (i.e., Funding Cycle 1).
+• Track D: TE infrastructure planning tools and investments, including freight, non-
+freight MHDV, and LDV charging needs, Funding Cycle 0, and Funding Cycle 2.
+By developing distinct Tracks, the Commission can organize key issues in parallel efforts
+rather than strictly sequencing related issues, which may delay progress on urgent matters and miss
+opportunities for “quick wins” with outsized impact.
+B. The VGI Track should consider market transition support and costs to enable
+third-party aggregator participation.
+VGIC appreciates the inclusion of “technology enablement” as a strategic focus area for
+VGI and its explicit inclusion in the OIR’s preliminary scope. While D.22-11-040 does not
+explicitly define VGI technology enablement, it states the following in its discussion of the
+technology enablement topic within the Annual VGI Forum:
+“This focuses on technology enablement, VGI in existing IOU programs and pilots, and
+the incorporation of new technology developments into FC1. This forum should coordinate
+4 OIR at 12.
+5
+
+with the CEC’s VGI staff to showcase recent developments (e.g., emerging technology,
+ALM, coordination on VGI equipment certification, etc.).”5
+Based on this, VGIC interprets technology enablement to include (1) unlocking emerging VGI
+technologies and (2) considering standards and equipment certification. There are two key
+elements to market enablement that VGIC recommends be explicitly addressed in the scope of this
+proceeding:
+• Market transition support to encourage customer adoption of VGI-capable
+equipment. This is particularly important for equipment that enables relatively
+nascent VGI market segments, like bidirectional chargers. Due to the early stage of
+market development for these technologies, it is important to provide market
+transition support in cases where ratepayers are expected to benefit from mass
+deployment as the industry matures. Notably, proactive technology deployment
+incentives have been successfully used in California for rooftop solar, smart
+thermostats and load control, and stationary energy storage. Today, these
+technologies yield significant affordability and reliability benefits for customers,
+ratepayers, and society at large, and VGIC posits this same blueprint could be
+successfully applied to VGI technologies.
+• Consideration of development and integration costs for third-party
+aggregators and service providers. Bringing in new aggregators/service
+providers that service new types of customer assets/equipment, such as connected
+EVs and EVSE, bidirectional charging equipment, and storage-backed EVSE, may
+require the provider to develop new software and technology to support the
+integration of the customer-owned equipment into pilots, programs, and/or rates.
+Sufficient funding mechanisms and revenue are needed to entice these third-party
+providers to undertake this development effort and provide their services to retail
+customers and the grid throughout VGI pilots, programs, and/or rates. This is
+particularly important for emerging technologies and customer-owned equipment
+like bidirectional vehicle-to-everything (“V2X”) EVSE or submetering via
+EVSE/vehicle telematics, where the underlying technology, integrations, and data
+flows are not nearly as developed as, say, smart thermostats.
+5 D.22-11-040 at 174.
+6
+
+C. The VGI Track should explicitly scope in the following types of VGI goals:
+customer participation targets and utility procurement directives.
+VGIC strongly supports the OIR’s intent to “establish goals and targets for the
+advancement of vehicle-grid integration.” VGI progress in this proceeding’s predecessor, R.18-
+12-006, was largely driven by the SB 676 legislative directive to develop strategies to maximize
+VGI. This created an imperative to spur the market, however, the tangible impact of SB 676 and
+the resulting D.20-12-029 has been essentially limited to Pacific Gas & Electric’s V2X Pilots,
+which recently launched Phase 1 (focused on backup power) and are still pending approval for
+Phase 2 (adding grid export). The underlying need for SB 676 and maximizing VGI has not
+diminished and, in fact, has strengthened as EV adoption accelerates and the associated time and
+cost pressures continue to mount.
+With this in mind, VGIC urges the Commission to adopt a set of clear, explicit, and
+ambitious goals for VGI to establish a “north star” to guide market development. While
+maximizing VGI remains a key theme, well-defined quantitative targets provide a benchmark
+against which we can track progress. VGIC offers the following two types of goals that should be
+included in the scope of the VGI Track:
+• Customer Participation Targets: VGIC recommends the Commission seek party
+feedback on and ultimately adopt an appropriate customer participation target, in
+terms of number of customers and/or participating MW, for VGI programs and rates
+in California. Targets should apply to specific initiatives within the state’s VGI
+portfolio, for example, individual VGI pilots, programs, and rates. An overall
+target(s) across the entire portfolio should also be adopted. These targets can be
+informed by existing data from the Joint IOU Electric Vehicle Load Research and
+Charging Infrastructure Cost Report, Lawrence Berkeley National Laboratory’s
+(“LBNL”) California Demand Response Potential Study, which were both used as
+key inputs in California’s recent Integrated Resource Planning cycle to indicate
+7
+
+VGI customer enrollment, as well as additional studies in California and other
+jurisdictions that can support an informed customer participation target.6
+• Utility Procurement Directives: VGIC recommends the Commission seek party
+feedback on and ultimately direct VGI procurement by utilities. This can be a share
+of customers and/or MW capability, which could include cumulative installed
+bidirectional charging capacity. This directive could be an overarching requirement
+for California’s investor-owned utilities (“IOU”) to procure a certain amount of
+demand flexibility and/or grid exports from VGI technologies. This approach was
+utilized to procure stationary energy storage, which helped to kickstart the industry.
+VGIC believes this successful approach can be applied to VGI customer resources
+and should be considered in the VGI Track of this OIR.
+D. The VGI Track should seek to develop a clear VGI Roadmap to achieve the
+established targets and procurement directives and accomplish quick wins.
+VGIC recommends the VGI Track scope include a precise process to maximize VGI by
+adopting participation and procurement targets, as noted above. In addition to these “north star”
+goals that will set an end destination for VGI efforts, VGIC urges the Commission to consider
+establishing interim VGI targets, adopting metrics to measure success against VGI targets,
+identifying gaps and barriers to achieving VGI targets, and approving strategies to address each
+gap and barrier. This road-mapping approach creates critical linkages between the desired end
+state, the milestones that must be hit along the way, and the actionable strategies various state
+agencies must pursue to achieve the desired outcomes. This roadmap can identify key near-term
+barriers and “quick wins,” and detail a path for overcoming more challenging obstacles to
+widespread VGI.
+6 Inputs & Assumptions: 2022-2023 Integrated Resource Planning (IRP). October 2023. CPUC. Pg 110.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/integrated-resource-
+plan-and-long-term-procurement-plan-irp-ltpp/2023-irp-cycle-events-and-materials/inputs-assumptions-
+2022-2023_final_document_10052023.pdf
+8
+
+E. Strategies for achieving faster energization, including Automated Load
+Management (“ALM”), should be considered given the nearly universal
+applicability of energization timeline challenges and the fundamental need for
+operational EVSE.
+VGIC recognizes that the Commission is slated to adopt another new OIR at its January
+25, 2024 voting meeting to address Timely Energization pursuant to SB 410 and Assembly Bill
+(“AB”) 50. The draft Timely Energization OIR will set average and maximum energization
+timeline targets. The new TE OIR, in contrast, appears to be the appropriate venue to consider
+strategies to achieve faster energization timelines, including both software- and hardware-based
+automated load management (“ALM”) strategies. Given that lengthy energization timelines
+challenge most TE efforts, VGIC believes it is appropriate to deem solutions to lengthy
+energization timelines as a high-priority issue to be addressed in the near-term within this new TE
+OIR.
+F. The Commission should coordinate closely with (1) demand response portfolio
+development, (2) Rule 21 interconnection of bidirectional V2X chargers, and (3)
+the High DER OIR and Timely Energization OIR.
+The OIR’s preliminary scoping memo section on VGI refers to “programmatic and policy
+interventions.”7 VGIC strongly supports the consideration of programmatic approaches to
+promoting VGI, such as the Managed Electric Vehicle Charging at Home program proposed by
+PG&E in its recently shared EPIC 4 Portfolio.8 VGIC has raised the question of where managed
+charging programs or other VGI programs (e.g., bidirectional charging) can be proposed in both
+the preceding TE OIR (R.18-12-006) and the recent Demand Response (“DR”) Portfolio
+Application (Application 22-05-002 et al.). The topic had been “bounced” between proceedings,
+7 OIR at 12.
+8 PG&E’s EPIC 4 Portfolio. Presented January 16, 2024. Slides 33-34.
+https://www.pge.com/en/about/corporate-responsibility-and-sustainability/taking-
+responsibility/emerging-electric-technology-programs.html#accordion-268a6f67d5-item-804c2f0b8b
+9
+
+with Decisions in each proceeding referring the topic to the other proceeding. While the matter of
+programmatic approaches to VGI is unquestionably included in the preliminary scope of the new
+TE OIR, VGIC urges the Commission to coordinate closely with any future DR portfolio
+applications to ensure alignment across these initiatives, which could overlap.
+In considering remaining barriers to VGI market development and opportunities for “quick
+wins,” VGIC notes that the preliminary scope does not reference V2X interconnection. While this
+issue is scoped into R.17-07-007 by way of its relevance to each IOU’s Rule 21, VGIC strongly
+urges the Commission to coordinate the new TE OIR with R.17-07-007 on the topic of V2X
+interconnection. Developing a standardized and streamlined process to interconnect both V2X DC
+and V2X AC resources to the grid in a timely fashion remains a critical keystone to advancing the
+VGI market.
+Lastly, VGIC notes that the High DER OIR (R.21-06-017) and the new Timely
+Energization OIR, which may be approved as early as January 25, 2024, address the matter of
+energization timelines. Including this new TE OIR, the CPUC would simultaneously host three
+separate dockets in which this issue is addressed. VGIC urges the Commission to either consolidate
+the treatment of this issue, explicitly clarify scopes, or closely coordinate across all three
+proceedings on this matter.
+G. Low Carbon Fuel Standard holdback revenue utilization was initially addressed
+in R.18-12-006, but outstanding issues should be scoped into the new TE OIR.
+The preliminary scope thoughtfully details or implicitly captures most TE and VGI issues.
+However, VGIC notes that the Low-Carbon Fuel Standard (“LCFS”) Holdback Revenue priorities
+and implementation plans are not mentioned in the OIR. Anticipated amendments to the LCFS
+Regulation by the California Air Resources Board (“CARB”) in March of this year indicate that
+10
+
+the new TE OIR should include these topics.9 As VGIC understands it, LCFS implementation plan
+development and approval have recently been held/discouraged pending CARB’s LCFS updates.
+Once CARB finalizes LCFS updates, the CPUC is poised to take the issue back up and issue
+guidance/approvals for utility spending. VGIC recommends the Commission scope LCFS
+holdback revenues into the new TE OIR to ensure the progress made in R.18-12-006 can continue.
+IV. PROCEDURAL SCHEDULE AND TIMING.
+VGIC supports the categorization and proposed schedule of this proceeding and agrees
+with the preliminary determination finding that no hearings will be needed.
+V. NOTICES.
+Service of all notices and communications in this proceeding should be directed to the
+following VGIC representative:
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+VI. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the OIR. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+9 CARB, Proposed LCFS Amendments, https://ww2.arb.ca.gov/rulemaking/2024/lcfs2024.
+11
+
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: January 19, 2024
+12

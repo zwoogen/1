@@ -1,0 +1,150 @@
+April 1, 2025
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 22-E-0236: Proceeding to Establish Alternatives to Traditional Demand-Based
+Rate Structures for Commercial Electric Vehicle Charging
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on the Demand Charge Rebate and Commercial Managed Charging Program
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based
+advocacy group committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from
+flexible EV charging and discharging is recognized and compensated in support of a more
+reliable, affordable, and efficient electric grid. VGIC appreciates the opportunity to provide
+comments on the Demand Charge Rebate and Commercial Managed Charging Program
+(CMCP). Additionally, VGIC also reiterates a proposal regarding bidirectional charging that it
+has provided across several relevant EV proceedings in New York: compensation for vehicle-to-
+grid (V2G) exports.
+Commercial Managed Charging Program
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Fermata Energy, Ford Motor
+Company, General Motors, Nissan Group of North America, Bidirectional Energy, BorgWarner, ChargeScape,
+dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy, Gravity, GridBeyond, GridWiz, Hyundai Cradle,
+Innovation Core SEI, Kaluza, Landis + Gyr, LG Innotek, Mercedes-Benz, Orange Charger, Peak Power, Stellantis
+N.V., Sunrun, Tesla, The Mobility House, Toyota Motor North America, Inc., WeaveGrid, Clean Power Alliance,
+Holy Cross Energy, Los Angeles Department of Water & Power, and Sacramento Municipal Utility District. The
+views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all individual
+VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+VGIC strongly supports the extension of the downstate utilities’ Commercial Managed
+Charging Program. Particularly, VGIC is encouraged that the program is designed to incorporate
+customers both with and without separate meters, thereby facilitating participation from the
+broadest possible set of customers. This strategy is critical to unlocking a significant amount of
+regular peak load reduction from EV charging sites, a tool that will become increasingly valuable
+as New York’s grid demands increased load flexibility.
+Given the success of the downstate utilities’ CMCP, VGIC reiterates its previous support
+within this proceeding for CMCP development for the remaining New York utilities. Managed
+charging offerings are increasingly commonplace among utilities across the country, as they
+offer an important tool not only to manage bulk system net peak load, but also more localized
+distribution system operational constraints.
+Evolving Commercial Managed Charging Programs to Support Bidirectional Charging
+Solutions
+In addition to extending and expanding existing CMCP efforts, VGIC strongly
+recommends the Commission direct the Joint Utilities to develop related incentives to support
+not only load reduction from commercial EVSE sites, but also vehicle battery discharge via
+bidirectional charging systems. These systems are increasingly available to commercial
+customers. For example, every major electric school bus manufacturer includes bidirectional
+charging capability. Meanwhile, bidirectional charging equipment, formerly offered by only
+Fermata Energy and BorgWarner, are now available from Tellus Power Green, Heliox, and
+InCharge, while Ford, General Motors, Wallbox, Tesla, and dcbel offer additional solutions
+currently tailored to light-duty vehicles and electric pickup trucks.
+Bidirectional charging, especially in grid-parallel “vehicle-to-building” or “vehicle-to-
+grid” configurations, can significantly reduce the total operating costs of commercial charging
+sites, including school bus, refuse truck, and other fleet depot sites. In addition to reducing
+operating costs, these sites can serve as non-wires alternatives to mitigate distribution
+infrastructure needs and serve as an essential tool to help meet New York’s energy needs in the
+coming years. Particularly, New York’s aggressive climate and environmental goals will
+necessitate the retirement of polluting fossil fuel resources. Since utility-scale renewable energy
+development faces significant financial headwinds and transmission interconnection challenges,
+the state must leverage all available tools to ensure sufficient energy supply and reliability,
+especially in downstate areas. For example, NYISO recently had to delay the retirement of
+peaker plants in New York City to ensure reliability, noting that New York City would otherwise
+face an expected 446 MW of capacity deficiency beginning in mid-2025. Given the high real
+estate costs in downstate New York, VGI has immense potential to serve the state’s needs since
+2
+
+EVs and the associated charging infrastructure will already be deployed as a result of the state’s
+EV adoption goals. Unlike most other energy resources, unlocking bidirectional capabilities from
+these resources will not require the acquisition of additional real estate (i.e., compared to
+unidirectional charging). The NYISO Gold Book 2023 EV stock forecast includes 4,800 electric
+buses by 2025 and 28,800 electric buses by 2030. Modestly assuming that half are school buses
+with 120 kWh batteries and 40 kW chargers, school buses alone would total 96 MW of capacity
+and 288 MWh of energy in 2025, and 576 MW of capacity and 1.728 GWh of energy in 2030.
+However, current infrastructure costs and export compensation mechanisms do not make
+investments in V2G-capable vehicles and chargers economically viable in New York. Additional
+policy intervention and market support, addressing both infrastructure costs and export
+compensation for V2G, are necessary to spur deployment and ensure that the emerging V2G
+resource can be leveraged to support New York’s decarbonization goals in the coming years.
+VGIC appreciates the Commission’s recent decision in Docket 18-E-0138 to require the Joint
+Utilities to update their VDER tariffs to include V2G, which will establish uniformity across the
+state regarding the eligibility of V2G resources to participate in VDER. Based on VGIC’s
+estimates, the compensation under VDER is currently insufficient to warrant investments in V2G
+projects, especially in areas outside of ConEd territory. Using highly generous assumptions for a
+120-kWh electric bus (i.e., batteries discharge all 120 kWh of stored energy across three hours of
+a CSRP call window for 20 days per month), fleets can earn a maximum of approximately
+$8,400 per vehicle over three summer months in ConEd territory by participating in VDER.
+However, in National Grid territory, the corresponding best-case-scenario compensation drops to
+only approximately $1,800 per vehicle per summer. While VGIC has not developed similar
+estimates for the remaining utilities, we understand the other IOUs’ Value Stack credit rates are
+similar to or lower than those offered by National Grid, and therefore provide a similar or even
+lower compensation level for V2G projects. Given the relatively high upfront costs of
+developing and deploying bidirectional charging infrastructure and the enabling equipment,
+which is particularly high as the market is in a nascent stage of development, the (somewhat
+unrealistic) best-case-scenario VDER revenue in most New York utility territories (with the
+exception of ConEd) would be wholly insufficient to unlock this latent V2G capacity.
+Additionally, the CSRP and DLRP programs require participants to forego the DRV and LSRV
+components of VDER but only include a small number of events each summer, resulting in even
+lower compensation than what fleets can earn from the DRV component alone.
+In contrast, a managed bidirectional charging program could be offered that would
+include much more attractive compensation mechanism for V2G customers. For example,
+National Grid’s Massachusetts ConnectedSolutions Daily Dispatch program calls between 30
+and 60 events per summer, each lasting two to three hours, and provides $200 per kW per
+summer in compensation based on average performance. For comparison, again assuming 120
+3
+
+kWh of battery capacity, the compensation fleets can earn from V2G is between $8,000 and
+$12,000 per vehicle per summer in Massachusetts. Similarly, Rhode Island Energy’s
+ConnectedSolutions program provides $300 per kW per summer, allowing a much smaller
+vehicle battery (Nissan’s 60-kWh LEAF) on a much smaller charger (Fermata Energy’s 15-kW
+FE-15) to earn, on average, approximately $4,000 per summer.
+Based on these current program offerings, VGIC expects V2G investments on the east
+coast to likely concentrate toward New England states with ConnectedSolutions options. Even
+though revenue under the VDER tariff were comparable to the real-world results from V2G
+projects in New England, New York V2G site deployment will still likely lag, given the overall
+higher costs faced by fleets and technology providers in the state, especially in the downstate
+area. Without improvements to its V2G export compensation mechanism(s), New York risks
+being left out of the development of V2G projects and, instead, may become home to an
+immense amount of a new type of stranded asset: latent distributed energy storage capacity
+locked away behind unidirectional chargers.
+VGIC proposes that the Commission establish a new managed bidirectional charging
+program in addition to the CMCP offering. This program could be similar to the Daily Dispatch
+program referenced above, to incentivize grid exports from V2G. The program could either 1) be
+an option in which fleets participate instead of receiving the DRV and LSRV credits under
+VDER, 2) provide additional compensation on top of all VDER components, or 3) provide an
+entirely non-rate alternative that is closely aligned with the CMCP approach and incentive. This
+strategy would mirror the Commission’s reasoning for establishing the Term-DLM and Auto-
+DLM programs: spur investments into a specific customer resource that will benefit the grid. In
+the case of Term-DLM and Auto-DLM, the goal was to support more long-term, capital-
+intensive stationary storage projects and spur the emerging stationary energy storage market to
+capture the commensurate grid benefits. A new V2G-specific program offering, with program
+terms that are more suitable for this technology and, potentially, based on CMCP
+implementation, is critically needed to deploy V2G projects in New York. Additionally, a V2G-
+specific program would allow the Commission to modify program terms and incentive levels
+more easily as lessons are learned and the industry matures without having to modify the
+underlying VDER tariff, which applies to all distributed energy resources.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the utilities, the Commission, and other stakeholders to ensure the success of New
+York’s transportation electrification efforts.
+4
+
+Respectfully submitted,
+Zach Woogen
+Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+5

@@ -1,0 +1,187 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding
+Rulemaking 19-09-009
+Microgrids Pursuant to Senate Bill 1339
+(Filed September 12, 2019)
+and Resiliency Strategies.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON TRACK 2
+MICROGRID AND RESILIENCY STRATEGIES STAFF PROPOSAL
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: vgicregulatory@vgicouncil.org
+Dated: August 14, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding
+Rulemaking 19-09-009
+Microgrids Pursuant to Senate Bill 1339 and
+(Filed September 12, 2019)
+Resiliency Strategies.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON TRACK 2
+MICROGRID AND RESILIENCY STRATEGIES STAFF PROPOSAL
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1 hereby submits
+comments on Staff Proposal for Facilitating the Commercialization of Microgrids Pursuant to
+Senate Bill 1339 (“Staff Proposal”) submitted in Rulemaking 19-09-009. Pursuant to
+Administrative Law Judge’s Ruling Requesting Comment on Track 2 Microgrid and Resiliency
+Strategies Staff Proposal, Facilitating the Commercialization of Microgrids Pursuant to Senate
+Bill 1339, issued by Administrative Law Judge Colin Rizzo on July 23, 2020, VGIC timely files
+these comments on August 14, 2020 in R. 19-09-009. VGIC was granted party status in this
+proceeding on February 4, 2020.
+I. INTRODUCTION
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of plug-in electric vehicles (“PEVs”) and vehicle-grid integration (“VGI”) through policy
+development, education, outreach, and research. VGIC supports the transition to a decarbonized
+1 The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+1
+
+transportation and electric sector by ensuring the value from PEV deployments and flexible PEV
+charging and discharging is recognized and compensated in support of achieving a more reliable,
+affordable, and efficient electric grid. VGIC appreciates the opportunity to participate in this
+proceeding and contribute to the development of a market for microgrids and resiliency
+solutions. VGIC commends the considerable effort made by Energy Division Staff to develop a
+thoughtful and detailed Track 2 Staff Proposal. Our comments focus primarily on Staff’s
+Proposal 5, which VGIC supports. We also provide comments on Proposal 1.
+II. COMMENTS ON PROPOSAL 5
+VGIC would like to thank the Staff for considering Options to implement Proposal 5,
+which we believe if adopted would represent the single most meaningful action taken by the
+Commission and investor-owned utilities (“IOUs”) to promote vehicle-to-building power
+solutions (“V2B”), including backup power use cases in support of vehicle-to-home (V2H),
+multi-unit dwellings, workplace, commercial and industrial locations, and, where appropriate,
+Public Safety Power Shutoffs (“PSPS”) – all in collaboration with California’s IOUs. VGIC
+strongly supports Proposal 5, Option 2. VGIC posits Proposal 5 to “direct utilities to conduct
+pilot studies of low-cost, reliable electrical isolation methods”2 represents a remarkable and
+innovative opportunity to implement shovel-ready, near-term bi-directional VGI strategies. Staff
+accurately assessed that Option 2 is preferable to Option 1 as it would include a broader set of
+technology options, which staff states:
+2 Staff Proposal at 23.
+2
+
+“can provide increased flexibility for end-use customers to provide and configure their
+own sources of backup power or to reduce the costs of incorporating battery energy
+storage systems for backup power with new or existing solar PV systems.” 3
+However, VGIC requests the Commission clarify that “battery energy storage systems”
+include both stationary energy storage systems and VGI energy storage systems, i.e. VGI-
+enabled PEVs. Indeed, the growing population of VGI energy storage systems will represent the
+most versatile solution available in terms of dispatchable DER capacity. VGIC recommends the
+Commission adopt Option 2 under Proposal 5 and include the requested clarification regarding
+the definition of battery energy storage systems.
+VGIC also requests the Commission specify that while the pilot program should be
+implemented by IOUs in partnership with technology and service providers, which may include
+automotive original equipment manufacturers (“OEM”), the behind-the-meter (“BTM”)
+solutions themselves should not be restricted to IOU-owned assets, IOU-approved technologies,
+or any specific technology so long as the solutions meet specific performance criteria. In its
+proposal Staff recommended the following criteria:
+“Be low-cost relative to an island-capable inverter or a transfer switch. Low-cost includes
+avoiding installation labor or any reconfiguration of existing electrical equipment that
+would be required using other approaches to provide electrical isolation; Meet all
+necessary safety requirements, including the ability to obtain Underwriters Laboratory
+listing when applicable; Meet any pre-deployment safety testing and acceptance criteria
+established by IOUs.” 4
+VGIC largely agrees with this recommendation, with the exception of the specific reference to
+the “ability to obtain Underwriters Laboratory listing.” VGIC believes a specific reliance on UL
+listing could preclude other viable approaches that achieve the same safety requirements,
+3 Staff Proposal at 27.
+4 Staff Proposal at 25.
+3
+
+particularly for AC V2G pilots. This issue is addressed at length in VGIC’s January 6, 2020
+Comments on the V2G AC Interconnection Subgroup Report in R.17-07-007.
+Aside from these details, VGIC believes Proposal 5 will enable customers to leverage
+existing and future PEVs for resiliency functions, which could represent a significant step
+forward in establishing a market for products and services that can help mitigate the impact of
+future power outages with only a modest impact on VGI-enabled vehicle cost. VGIC commends
+the Commission’s special consideration of these short-term opportunities to achieve overall
+resiliency goals through increased provision and intelligent integration of PEVs. VGIC believes
+that, if successful, solutions piloted under Proposal 5 can be scaled up into much larger
+intelligent V2B power programs in future years. Furthermore, Proposal 5 is consistent with both
+the intent and statutory requirements established by SB 1339 as well as California’s overall clean
+energy and transportation policy goals, such as those set in SB 350.
+Given the current state of technology, including the capabilities of smart meters, PEVs,
+and EV supply equipment (“EVSE”), VGIC believes that pursuing V2B power solutions
+through Proposal 5 could result in project implementation as early as Fall 2021 wildfire season.
+Several automotive manufacturers (“OEMs”) and EVSE companies, some of which are VGIC
+members or supporters, have recently demonstrated or indicated the technological readiness of
+PEVs to provide V2B functionality either through an on-board inverter (i.e. AC interconnection)
+or through an external device (i.e. DC interconnection). While there are some existing regulatory
+barriers to the broader implementation of V2G solutions through an AC approach due to current
+interconnection rules (i.e. Rule 21) and technical standards, VGIC believes these solutions could
+build upon California demonstrations at Los Angeles Air Force Base, UC Davis and UC San
+4
+
+Diego and are ready to be pursued now for IOU collaborations on a limited pilot scale. 5
+Additionally, there are fewer barriers to V2B solutions through a DC interconnection approach
+which could be readily implemented now. Specifically, VGIC auto members are intent on
+pursuing opportunities to partner with IOUs in V2B pilots enabled by Proposal 5. VGIC is
+available to facilitate informal discussions, as needed, between individual VGIC automotive
+OEM members, Energy Division staff, and the IOUs.
+Additionally, VGIC recommends Proposal 5 be modified to include a $4 million per IOU
+cap, rather than $1 million. This change would make the pilot funding amount consistent with
+other EV-focused pilots and the guidance laid out in the 2016 Assigned Commissioner’s Ruling
+on transportation electrification (“TE”) in accordance with SB 350.6 VGIC believes the
+alignment with TE pilot budgets is justified because Proposal 5 is implicitly geared toward
+enabling V2B solutions.
+VGIC would like to emphasize that V2B solutions represent only a subset of VGI
+applications that could aid the deployment of microgrids and resiliency solutions. As such, VGIC
+would like to continue discussion on pathways to deploying VGI solutions more broadly and
+beyond the Track 2 Staff Proposal.
+5 The VGI Working Group (established within R.18-12-006) and the Vehicle to Grid Alternating Current
+Interconnection Technical Subgroup (in both R.17-07-007 and R.18-12-006) have provided thorough exploration
+into the ease of implementation of these solutions in the short-term.
+6 Assigned Commissioner’s Ruling Regarding the Filing of the Transportation Electrification Applications Pursuant
+to Sentabe Bill 350 (September 14, 2016) in R.13-11-007
+http://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M167/K099/167099725.PDF
+5
+
+III. COMMENTS ON PROPOSAL 1
+VGIC believes that Proposal 1 regarding amendments to the IOUs’ respective Rule 2
+tariffs offers a valuable set up for broadly applicable applications and implementation of BTM
+technologies for microgrids and resiliency strategies. In fact, Rule 2 provides a logical starting
+place for broader consideration – beyond microgrids applications – of how loads should be
+assessed for interconnection, prior to downstream processes to determine upgrades, cost
+responsibility, and opportunities for non-wires alternatives per Rules 15 and 16, General Rate
+Cases, and the Distribution Investment Deferral Framework. Notably, certain versions of Rule 2
+define “connected load” as “the sum of the rated capacities of all of the customer's electric
+utilization equipment that is served through one metering point and that may be operated at the
+same time.” 7 A more focused examination of Rule 2 could take into account microgrids, the
+variety of resources and loads they will utilize, as well as VGI and load management more
+generally. Importantly, VGIC believes this effort could result in a more nuanced representation
+of the critical difference between load measured at Point of Common Coupling (“PCC”) and load
+defined as the sum of each BTM device. VGIC believes Rule 2 merits further consideration, and
+recommends the Commission explore opportunities to link a focused Rule 2 conversation with
+the instant proceeding, Rule 21 Interconnection (R.17-07-007), Distribution Resource Planning
+(R.14-08-013), California Energy Commission’s Load Management (19-OIR-1), DRIVE OIR
+(R.18-12-006), and/or any new OIRs that may implicitly depend on Rule 2 definitions of
+“connected loads.” Primarily, these definitions should be updated to align with the current state
+of Distributed Energy Resources (“DER”), as the IOUs’ Rule 2 have not been revised since
+before the recent wave of DER deployment began. VGIC acknowledges the Commission and
+7 See, e.g., PG&E Rule 2, Section H. Connected Load Ratings,
+https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_RULES_2.pdf
+6
+
+Energy Division Staff are subject to considerable resource constraints. As such, we are interested
+in discussing this recommendation further with staff to explore options to advance high-priority
+Rule 2 conversations in recognition of Commission and Staff resource limitations.
+IV. CONCLUSION
+VGIC appreciates the opportunity to submit these comments in response to Track 2
+Microgrid and Resiliency Strategies Staff Proposal. We look forward to further collaboration
+with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: vgicregulatory@vgicouncil.org
+Date: August 14, 2020
+7

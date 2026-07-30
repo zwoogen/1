@@ -1,0 +1,311 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGES’ RULING SETTING A WORKSHOP, ADMITTING
+INTO THE RECORD PART 1 OF THE ELECTRIFICATION IMPACTS STUDY AND
+RESEARCH PLAN, AND SEEKING COMMENTS
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+July 28, 2023
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGES’ RULING SETTING A WORKSHOP, ADMITTING
+INTO THE RECORD PART 1 OF THE ELECTRIFICATION IMPACTS STUDY AND
+RESEARCH PLAN, AND SEEKING COMMENTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Administrative Law Judges’ Ruling Setting a Workshop, Admitting into
+the Record Part 1 of the Electrification Impacts Study and Research Plan, and Seeking
+Comments (“EIS Part 1 Ruling”), issued by Administrative Law Judge (“ALJ”) Manisha
+Lakhanpal and Kelly A. Hymes on May 9, 2023.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of a more reliable, affordable, and
+efficient electric grid.
+VGIC commends the Commission for commissioning the two-part Electrification
+Impacts Study (“EIS”) series in an effort to determine the scope and scale of potential electric
+1
+
+grid impacts to support Rulemaking (R.) 21-06-017: the Order Instituting Rulemaking (OIR) to
+Modernize the Electric Grid for a High Distributed Energy Resources Future1 and California’s
+electrification goals. VGIC also appreciates the work and effort by the Kevala, Inc. (“Kevala”)
+team in developing the comprehensive Part 1 Electrification Impacts Study (“Part 1 Study”)
+which helps stakeholders understand the potential impacts of a high distributed energy resource
+(“DER”) future. Importantly, VGIC appreciates the Commission’s diligent efforts in convening
+stakeholders to participate and offer input on the EIS, and specifically, for facilitating the
+discussions around transportation electrification (“TE”) load impacts and the vital role grid
+integration technologies (e.g., advanced DER solutions and flexible load management) can play
+in mitigating those impacts. To that end, VGIC believes deploying VGI technologies will be key
+in preparing for potential TE load impacts and a high DER future. With this in mind, VGIC
+generally supports Kevala’s approach, results, and insights for the Part 1 Study and offers
+comments on the Part 1 Study and recommendations for the EIS Part 2 Study, summarized
+below.
+• Recommendations for EIS Part 2 Study:
+o VGIC recommends that the EIS Part 2 Study consider several sensitivities for EV
+load management to accurately reflect the value of VGI solutions.
+o The Commission should consider contracting an independent evaluator to ensure
+the IOUs provide consistent data quality and transparency for the Part 2 Study.
+o The EIS Part 2 Study should ensure a wide set of non-wires solutions and load
+mitigation strategies are considered.
+• Comments on EIS Part 1 Study:
+1 CPUC R.21-06-017, Order Instituting Rulemaking to Modernize the Electric Grid for a High
+Distributed Energy Resources Future.
+2
+
+o VGIC supports EIS’s recommendation to increase the investor-owned utilities’
+(“IOU”) Distribution Planning Process (“DPP”) planning horizon and integrate
+policy-based demand scenarios into the annual DPP and Grid Needs Assessment
+(“GNA”)/ Distribution Deferral Opportunity Reports (“DDOR”).
+o VGIC supports EIS’s recommendation to estimate secondary infrastructure
+upgrades needed to support California’s electrification policy goals.
+o VGIC supports EIS’s recommendation to provide additional information about
+transmission and sub-transmission constraints and identify where higher voltage
+upgrades will be triggered due to distribution demand.
+II. RECOMMENDATIONS FOR EIS PART 2 STUDY
+A. The EIS Part 2 Study should consider several sensitivities for EV load
+management to accurately reflect the value of VGI solutions.
+As explained by Kevala, the Part 1 Study developed and analyzed a base case, calibrated
+to the 2021 Integrated Energy Policy Report’s (“IEPR”) system-level forecasts to ensure
+consistency with the IOUs’ GNAs.2 For Part 2, VGIC respectfully requests that the Kevala team
+conduct several TE load scenarios based on different levels of managed charging:
+• Baseline EV Load Management, based on 2021 IEPR Forecast used in Part 1.
+This assessment has already been completed in Part 1.
+• Mid EV Load Management, based on updated 2022 IEPR assumptions, which
+reflect higher TOU rate participation from EVs.
+2 EIS Part 1 Study, pg. ES-4.
+3
+
+• High EV Load Management, based on the inputs and assumptions for high EV
+load management used in the June 2023 Updated Integrated Resource Planning
+Inputs and Assumptions document.3
+• High EV Load Management + EV Charger Export, based on the inputs and
+assumptions used in the June 2023 Updated Integrated Resource Planning Inputs
+and Assumptions document.4
+VGIC believes that these scenarios will help to understand the value of VGI on the
+distribution grid and provide critical policy guidance for the Commission moving forward. We
+urge the Commission and Kevala to seize this opportunity to conduct a first-of-its-kind robust
+analysis of the distribution value of VGI (i.e., EV load management, bidirectional charging, and
+storage-backed charging). This will ultimately bolster the key findings related to TE impacts on
+the grid and provide a dynamic, accurate picture of the available tools in the high DER toolkit.
+B. The Commission should consider contracting an independent evaluator to
+ensure the IOUs provide consistent data quality and transparency for the Part 2
+Study.
+VGIC reiterates its appreciation for the work done by the Commission and Kevala staff
+on the Part 1 Study. Notwithstanding the data quality issues, VGIC believes that the work
+performed on the Part 1 Study is of the highest quality possible. While VGIC believes the IOUs
+made their best efforts in providing quality and complete data to Kevala for the Part 1 Study, it’s
+evident that Kevala encountered multiple issues with missing, and inconsistent data while
+conducting their analysis. As identified by Kevala in the EIS Part 1 Study report, the challenges
+3 Inputs & Assumptions, 2022-2023 Integrated Resource Planning (IRP), June 2023.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/integrated-resource-
+plan-and-long-term-procurement-plan-irp-ltpp/2023-irp-cycle-events-and-
+materials/draft_2023_i_and_a.pdf
+4 Id.
+4
+
+related to missing or inconsistent data ranged from Advanced Metering Infrastructure (AMI)
+data, which helps to provide a “detailed picture of energy demand over time for a location,” to
+interconnection data, which helps model “existing PV and BESS systems.”5 Most notably, with
+the interconnection dataset, “about 80% of the records were missing the energy rating.”6
+It is of the utmost importance that the quality and completeness of the data used for the
+Part 1 Study improves to the extent feasible before commencing the Part 2 Study. While VGIC
+understands the difficulties regarding the logistics of gathering substantial data, the inputs used
+in the Part 2 Study must be of higher quality and completeness in order to yield the most
+meaningful findings. Given that the result of any analysis is highly dependent on the input data
+quality, addressing the key issues Kevala encountered in the first part of the study will be a key
+factor in the value and usefulness of the Part 2 Study. This being said, VGIC urges the
+Commission to consider contracting an independent evaluator to ensure the IOUs provide
+consistent data quality and transparency for the Part 2 Study. VGIC believes this will not only
+provide better insight as to where deficiencies exist in regard to data availability but will also
+ensure a more accurate, useful, and prudent Part 2 Study.
+C. The EIS Part 2 Study should ensure a wide set of non-wires solutions and load
+mitigation strategies are considered.
+VGIC believes that deploying non-wires solutions and load mitigation strategies will be
+key in preparing California’s grid for a high DER future. Moreover, given the increasing number
+of EVs on the road, California’s ambitious TE goals, and the rapidly emerging managed charging
+technologies for EVs (i.e., software- and hardware-based solutions), it is a must that these
+5 EIS Part 1 Study, pg. 142-144.
+6 Ibid.
+5
+
+mitigation strategies are accounted for in the Part 2 Study and when planning for infrastructure
+investments. Without considering an adequate diversity of VGI technologies, the Part 1 Study
+found that the “system-level peak load increase from 2025 to 2035 is 56%, on average, across the
+three IOUs and High Transportation Electrification scenarios”7 and the significant increase in
+peak demand was mainly due to TE impacts. Thus, it is pivotal that, at a minimum, software- and
+hardware-based solutions to manage EV charging load specifically for local grid constraints (i.e.,
+as opposed to system-level needs), including:
+• Platforms to manage EV charging load on the distribution system, including at the
+secondary / transformer level.
+• Site-level EV load management utilizing power-sharing software across several
+chargers at a single customer site.
+• Storage-backed EV charging and DER-paired EV charging.
+D. The EIS Part 2 Study should include specific recommendations to help advance
+pilots and programs that can mitigate the cost impacts determined in EIS Part 1
+Study.
+EIS Part 1 indicated the severe costs to inaction when building out the distribution grid to
+meet California’s policy goals, and VGIC posits these costs are intolerable to ratepayers. The
+EIS Part 2 Study offers an opportunity to quantify the potential cost mitigation opportunity
+through load management solutions and, critically, to detail specific policy recommendations to
+advance and operationalize these solutions. Specifically, VGIC urges the Kevala team to analyze
+recommendations for enhancements to California’s existing demand response and EV load
+management frameworks. For example, the Commission has not detailed the process for utilities
+to propose new VGI programs, and the utilities have not proposed large-scale EV load
+7 EIS Part 1 Study, pg. ES-6
+6
+
+management programs that leverage VGI solutions. While VGIC welcomes additional and
+refined distribution planning process recommendations, as provided in EIS Part 1, we believe
+these are of limited value without directly-linked, actionable recommendations to enhance or add
+programs and pilots offering infrastructure cost mitigation opportunities. We recognize the
+Commission has invested time in a unified, dynamic rate design vision and has principally
+committed to seeking precise load flexibility in response to real-time system needs through rates.
+However, capturing the benefits of avoiding investments and operations and maintenance costs
+for the downstream distribution infrastructure identified by the Kevala team, including secondary
+service and transformer upgrades, is challenging for rate design on its own. VGIC urges the
+continued assessment and pursuit of programmatic solutions to ensure high load flexibility and
+customer resource response with low complexity and administrative burden. The EIS Part 2
+study offers a critical opportunity to assess and recommend next steps related to the portfolio of
+programs and pilots to mitigate the cost impacts determined in EIS Part 1.
+III. COMMENTS ON EIS PART 1 STUDY.
+A. The IOUs should increase their DPP planning horizon.
+The Part 1 Study recommended that Pacific Gas and Electric (“PG&E”), Southern
+California Edison Company (“SCE”), and San Diego Gas and Electric (“SDG&E”) should
+increase the planning horizon for their distribution planning fillings to better align with the
+California Energy Commission’s (“CEC”) IEPR planning horizon (i.e., 15 years) and the
+California Independent System Operator’s (“CAISO”) transmission planning horizons (i.e., 10
+7
+
+years for annual planning and 20 years for transmission outlook).8 VGIC agrees with Kevala’s
+recommendation to increase the IOUs’ DPP planning horizon to better align with other state
+planning initiatives, such as the CEC’s IEPR.
+As identified in the Part 1 Study, the “system-level peak load increase from 2025 to 2035
+is 56%, on average, across the three IOUs and High Transportation Electrification scenarios”.9
+This significant increase in system-level peak load was estimated in the study by looking further
+out than the current IOUs’ DPP planning horizon (i.e., 15 years instead of 10 years), and given
+that the state has set course to end sales of internal combustion passenger vehicles by 2035,10 and
+the main purpose of R.21-06-017 being to “prepare the electric grid for a high number of
+distributed energy resources, including those specific to transportation electrification,”11 it’s
+evident that there is a disconnect between the timing of the current DPP planning horizon and the
+potential grid investments needed over the longer term to prepare the grid for a high number of
+DERs.
+Moreover, in order to cost-effectively mitigate the impacts associated with the high
+electrification scenarios, distribution investment deferrals (e.g., DERs as an alternative to
+infrastructure capital investments) need to be effectively identified and utilized. However, the
+current DER planning processes “result in minimal-to-no deferral opportunities being
+implemented.”12 For example, a recent evaluation of the IOUs’ DIDF filings found that 2,082
+grid needs were identified between the three IOUs in the three DIDF cycles spanning from 2020-
+2022. Of those 2,082 grid needs identified, 1,457 were planned investments, and of those, only
+8 EIS Part 1 Study, pg. 121.
+9 EIS Part 1 Study, pg. ES-6.
+10 Executive Order N-79-20
+11 CPUC R.21-06-017, pg. 2.
+12 EIS Part 1 Study, pg. 121.
+8
+
+140 were identified as distribution investment deferral candidates, while only a mere 5 were
+actually procured and interconnected through DIDF.13 Furthermore, the evaluation also
+determined that the primary driver of the significant reduction in candidate deferrals between the
+planned investments stage (i.e., 1,457 identified) and the candidate deferral stage (i.e., 140
+identified), “is the mismatch in distribution grid needs planning and DER eligibility time
+horizons.”14 This timing mismatch hinders the ability to consider and procure distribution
+investment deferrals properly, and increasing the DPP planning horizon could help mitigate this
+mismatch.
+For the aforementioned reasons, VGIC supports EIS’s recommendation that the IOUs
+should increase the planning horizon for their distribution planning fillings to align with the
+CEC’s IEPR planning horizon and the CAISO’s transmission planning horizons.
+B. The IOUs should integrate policy-based demand scenarios into annual DPP and
+GNA/DDOR filings.
+Based on the Part 1 Study results, it was recommended that the IOUs incorporate
+additional policy-based demand scenarios into their DPPs and annual GNA/DDOR filings. VGIC
+believes that the recommendation made by the Part 1 Study is appropriate for several reasons.
+Firstly, considering that the Part 1 Study estimated that the increase in system-level peak load is
+mainly a result of TE, it’s important to fully consider and incorporate EV deployment and EV
+load management into the IOU planning processes. This can be achieved by incorporating
+policy-based demand scenarios (e.g., EV Time-of-Use rate and managed charging program
+13 Distribution Investment Deferral Framework: Evaluation and Recommendations
+Kevala, Inc., November 2022. pg. 2-3.
+14 Distribution Investment Deferral Framework: Evaluation and Recommendations Kevala, Inc., pg. 2.
+“grid needs and planned investments are mostly identified in the short term by the IOUs (year 3 or
+before), while candidate DER deferrals are only eligible to defer grid needs that are four or more years
+out in the planning horizon.”
+9
+
+participation) into the IOUs’ planning processes to help right-size grid infrastructure in
+preparation for a high DER future. California’s state policy goals include fostering EV adoption
+and EV load management and bidirectional charging deployment, which must all be considered
+in the IOUs’ DPPs and annual GNA/DDOR filings. With this in mind, VGIC agrees with the
+recommendation made in the Part 1 Study that additional policy-based demand scenarios should
+be integrated into the IOUs’ DPPs and GNA/DDOR filings in an effort to avoid underbuilding
+and overbuilding when planning for distribution system infrastructure needs.
+C. VGIC supports EIS’s recommendation that the IOUs should estimate secondary
+distribution infrastructure grid needs in the GNA/DDOR filings.
+In the Part 1 Study, AMI consumption data was leveraged to perform premise-level
+modeling of load. As explained in the EIS Part 1 Study report, this modeling was able to estimate
+upgrades needed at the service transformer level for all three IOUs based on the different TE
+scenarios. However, the Part 1 Study notes that the IOUs should estimate secondary distribution
+infrastructure grid needs in their GNA/DDOR filings to avoid any potential bottlenecks
+associated with secondary distribution infrastructure upgrades. VGIC agrees that the secondary
+distribution infrastructure grid needs must be accounted for when prudently planning for
+electrification in the future. To this end, VGIC supports the Part 1 Study recommendation that
+the IOUs should estimate secondary distribution infrastructure grid needs in their GNA/DDOR
+fillings.
+D. VGIC supports EIS’s recommendation to provide additional information about
+transmission and sub-transmission constraints and identify where higher voltage
+upgrades will be triggered due to distribution demand.
+According to the Part 1 Study, the scope of the study focused on “understanding the
+impact on the unmitigated load and DER growth in the scenario considered,” but this stopped at
+10
+
+the distribution substation level.15 Yet the Part 1 Study highlights the increasing importance of
+also understanding the impacts on the transmission and sub-transmission infrastructure when
+planning for a high DER future. Moreover, given the current scarcity in transmission capacity
+throughout the U.S. electric grid, which has resulted in unworkable interconnection queues for
+supply-side resources, and the ambitious TE goals set by the state, it is of the utmost importance
+to ensure that a similar situation does not unfold with EV deployment in the future.16 Granted,
+transmission interconnection and DER interconnection are different with respect to how each
+resource can impact the grid infrastructure at their respective level (i.e., DERs at the distribution
+level and wholesale market resources at the transmission level). However, it’s critical to identify
+and understand any challenges early on that could negatively impact meeting the state’s TE
+goals.
+While the distribution system will undoubtedly endure the bulk of the upgrades needed to
+accommodate a high DER future, it is equally important to identify and map any transmission
+and distribution nodes that will need large infrastructure upgrades and plan accordingly. With
+this in mind, VGIC agrees with the Part 1 Study recommendation that the IOUs “should provide
+information in the GNA regarding distribution planning areas located in transmission- and sub-
+transmission-constrained nodes.”17
+15 EIS Part 1 Study, pg. ES-11.
+16 FERC NOPR 2022-13470, Improvements to Generator Interconnection Procedures and Agreements.
+July 2022. pg. 39934.
+17 EIS Part 1 Study, pg. ES-11.
+11
+
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the EIS Part 1 Study. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: July 28, 2023
+12

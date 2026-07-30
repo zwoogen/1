@@ -1,0 +1,70 @@
+March 18, 2021
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle-Grid Integration Council to Advice Letter 4429-E of
+Southern California Edison
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 4429-E of Southern
+California Edison Company (“SCE”), Southern California Edison Company’s Proposed
+Establishment of Rule 29, Electric Vehicle Infrastructure, and Preliminary Statement Part N.50,
+Electric Vehicle Infrastructure Memorandum Account, to Implement Assembly Bill 841 (“Advice
+Letter”), submitted on February 26, 2021.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable, and
+efficient electric grid.
+II. DISCUSSION.
+In reviewing the Advice Letter, VGIC supports the proposed Rule 29 and recommends it be
+adopted without delay to fulfill the intent of Assembly Bill (“AB”) 841. While not objecting to the
+proposed Rule 29, VGIC notes the proposed Rule may not be fully compliant with Ordering
+Paragraph (“OP”) 5 of Decision (“D.”) 20-12-029, which states:
+“Southern California Edison Company, San Diego Gas & Electric Company, and Pacific Gas
+and Electric Company shall, each, in all of its future applications for transportation
+electrification (TE) programs, or rule or tariff to support TE infrastructure installation:
+
+March 18, 2021
+Page 2 of 3
+identify how it will deploy customer-side Automated Load Management (ALM) at
+host sites through such programs, rule, and/or tariff where appropriate because this
+technology will support TE installation at equal or lesser costs than hardware-based
+electrical capacity while meeting TE charging needs; and
+describe its standard evaluation criteria to determine host sites where ALM would
+benefit ratepayers by reducing costs while meeting host site needs for electric vehicle
+charging.” 1
+VGIC does not interpret the proposed Rule 29 as including either (a) an identification of
+how it will deploy customer-side ALM where appropriate or (b) a description of a standard
+evaluation criteria to determine host sites where ALM would be beneficial. To the extent that the
+proposed Rule 29 constitutes a “…rule or tariff to support TE infrastructure installation,”2 VGIC
+identifies this potential inconsistency and recommends it be addressed in a future forum.
+To be clear, VGIC believes the proposed Rule 29 will meaningfully accelerate transportation
+electrification by significantly reducing the potential costs incurred by customers installing new EV
+supply equipment (“EVSE”). As such, VGIC recommends the proposed Rule 29 be approved
+without delay, but reiterates the proposed Rule 29 should be updated in the future to incorporate
+opportunities to encourage or incentivize ALM solutions that can potentially reduce distribution
+system upgrade costs. The development of strategies to promote ALM solutions and standard
+evaluation criteria to determine host sites where ALM would be beneficial should be discussed
+further with a broad set of stakeholders to work through key remaining issues before
+implementation. These strategies could then be included in a revised version of the proposed Rule
+29 as an option for customers who choose to pursue ALM (but should not be a requirement).
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to SCE’s Advice Letter. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+cc: Gary A. Stern, SCE (AdviceTariffManager@sce.com)
+1 D.20-12-029 OP 5.
+2 Ibid.
+
+March 18, 2021
+Page 3 of 3
+Tara S. Kaushik c/o Karyn Gansecki (Karyn.Gansecki@sce.com)
+Service list R.18-12-006

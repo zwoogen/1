@@ -1,0 +1,133 @@
+To: Lisa Rosi, NY Department of Public Service
+From: Environmental Defense Fund and Vehicle-Grid Integration Council
+Re: Informal Comments on Updated Queue Management Straw Proposal
+Date: December 10, 2024
+Dear Ms. Rosi,
+Environmental Defense Fund (“EDF”), Interstate Renewable Energy Council (“IREC”), and Vehicle-
+Grid Integration Council (“VGIC”) respectfully submit the following comments on Con Edison’s Queue
+Management Straw Proposal that was shared with the Electric Vehicle Infrastructure Interconnection Working
+Group (“EVIIWG”).1 While we are generally supportive of efforts to standardize and streamline the EV
+interconnection process as outlined in the Straw Proposal, we remain concerned that the straw proposal and
+the EVIIWG more broadly is missing a significant opportunity to consider the role of phased and flexible
+interconnection agreements. These agreements can provide value to EV charging customers, utilities, and
+ratepayers as bridging solutions to address temporary distribution grid capacity constraints, and as long-term
+resources to facilitate more efficient and cost-effective utilization of the distribution grid. In light of this, we
+make two recommendations. First, the final Queue Management Straw Proposal should include as standard
+consideration of phased interconnection agreements for EV charging customers whose interconnection
+request would otherwise require a distribution grid upgrade. Second, the work of the EVIIWG should continue
+beyond the adoption of the Straw Proposal to more robustly consider the potential, challenges, and solutions
+for more sophisticated forms of flexible interconnection as a near-term and long-term tool for avoiding
+distribution grid capacity constraints in New York.
+I. Immediate Adoption: Phased Interconnection
+As part of the final Queue Management Straw Proposal, expected to be noticed for formal public
+comment in Q1 2025, the New York utilities should commit to implementing phased interconnection as a
+standard option for customers with new or upgrading load requiring distribution grid upgrades. Such a policy
+would require no major operational changes on the part of the utilities and would help unlock for customers
+grid capacity that exists today, ultimately speeding the interconnection process and supporting achievement
+of the State’s electrification goals.
+Under a phased interconnection agreement, an EV charging customer who submits an interconnection
+request that cannot be fulfilled without the utility completing a distribution grid upgrade would have two
+1 Case 18-E-0138, Proceeding on Motion of the Commission Regarding Electric Vehicle Supply Equipment and
+Infrastructure, Straw Proposal for Streamlined Queue Management in Electric Vehicle Make-Ready Program and
+Other Programs (Mar. 15, 2024).
+
+options: (1) They could wait for that upgrade before receiving any electric service; (2) they could take service
+up to the level that would require the grid upgrade immediately and receive full service once the upgrade is
+completed. For example, an EV charging customer with a cumulative nameplate capacity of 500 kW can
+agree to never exceed a limit of 250 kW peak demand, year-round, which can be enforced using a hardware
+limiter, equipment certified to an accepted standard, or another acceptable solution that supports the
+underlying project economics of the site. The customer would not be able to exceed their load limit under any
+circumstances and the utility would step up the customer’s load to 500 kW once upstream upgrades are
+completed. Or, in some cases, a customer with similar characteristics may elect to operate in the long-term
+under the 250 kW limit. This type of interconnection agreement with a static limit can be easily implemented
+and trusted, with hardware or other acceptable solutions in place to limit the customer’s interim load for the
+protection of the grid.
+Phased interconnection can benefit customers by unlocking existing grid capacity in areas where
+customers are subject to long interconnection timelines and customers are willing to limit their load in order
+to receive faster energization. For those under regulatory pressure to transition MHDV and/or LDV vehicles
+to EVs, phased interconnection can help alleviate some of the financial risks and uncertainty for fleet owners
+investing and planning for a 100% EV fleet. Fleet owners can have more certainty that they will be able to
+install their high-capacity chargers sooner by agreeing to limit their load, for example until the utility can
+provide full service. Critically, the customer—most likely in partnership with a charge management system
+provider2—retains the flexibility to manage their own load however they choose, so long as they abide by
+their load limit. For example, the customer may choose to install a portion of their chargers and operate them
+unconstrained or install either a greater portion or all of their intended chargers and use load management
+technology to limit their cumulative demand. Customers who are able may accept a range of limiting schemes,
+such as static load limits that shift only seasonally or fixed schedules that shift throughout the day. Thus,
+phased interconnections are an ideal solution where utilities are already building—or are planning to build—
+upstream upgrades to meet new electric load demand and the phased interconnection is an interim, bridge-to-
+wires solution.
+This solution requires little to no operational adjustment by utilities and it has already been used by
+at least one New York utility to serve EV charging customers. It is also largely similar to “construction
+service” or “temporary service,” a common practice for many U.S. utilities where construction projects
+receive partial energization prior to completion and is increased at a later date. Static and seasonally varying
+flexible EV interconnection agreements do not require utilities to have extensively advanced monitoring or
+communications technology in place and would not require significant utility operational changes to the
+2 Note that in practice, the fleet managers themselves may often be partnering with a charge management system
+provider to conduct the day-to-day management. As such, a customer’s ability to interact with this type of management
+strategy should not be viewed as an impediment to implementation.
+
+utilities’ service determination process. As utilities are able, they may introduce simple static block schedules
+or more granular set schedules for bridging solutions and phased connections.
+In a summary of updates to the original Straw Proposal shared with the EVIIWG on October 23,
+2024, Con Edison stated that updated Straw Proposal includes a new “operations innovation” section “to
+support Participants looking to implement load mgmt. and V1G phased deployment of chargers.”3 While
+this language appears to support at least some forms of flexible EV interconnection, it is not clear what the
+full scope of this change is as the updated Straw Proposal has not yet been shared with the EVIIWG. Thus,
+we recommend that the final Straw Proposal include clear language that phased interconnection agreements
+shall be offered as a standard option in the EV interconnection process for customers whose projects require
+grid upgrades.
+II. Near-Term Adoption: Flexible EV Interconnection Policy Framework
+In addition to the initial improvements to the EV interconnection process outlined in the Straw
+Proposal, the EVIIWG is the appropriate venue to consider the opportunities to scale flexible EV
+interconnection to significantly shorten energization timelines and unlock available distribution grid capacity
+across a wider portfolio of sites using a range of effective flexible EV interconnection strategies. Given this,
+we recommend that the next phase of the EVIIWG following completion of the Straw Proposal focus on
+answering the program design and utility operations questions needed to implement widespread flexible EV
+interconnection agreements as a standard tariff option for EV charging customers.
+First, stakeholders will need to consider which forms of flexible interconnection agreements are
+acceptable to customers and can be implemented by the utilities, including through hearing directly from
+fleets, charging station operators, and charging management system providers. As noted in the previous
+section, flexible EV interconnection agreements can take many forms, including static load limits that shift
+only seasonally, fixed schedules that shift throughout the day, or dynamic limits that are set day-ahead. These
+options vary both in their complexity and their potential for making additional grid capacity available and the
+decision of which options to make available to customers will require stakeholders to consider what utility
+technology or process changes are needed before they can be offered. This also includes discussion of
+incentives for, and enforcement of, the agreements.
+Second, a well-designed program should be easy for customers to learn about and access. These
+programs should have clear procedures in place to make customers aware of their options for flexible EV
+interconnection when they are requesting new or upgraded service. The EVIIWG can consider what
+marketing, education, and outreach efforts are warranted to support deployment of flexible interconnection.
+3 Matter No. 24-00339, In the Matter of EV Infrastructure Interconnection Working Group, October 23 EVIIWG
+Presentations, at 24 (Oct. 23, 2024) (emphasis in original).
+
+Third, the EVIIWG should discuss the impact of flexible EV interconnection agreements on the
+utilities load forecasting and system planning inputs and assumptions. Beyond simply being a bridge-to-wires
+solution to serve customers while grid upgrades are completed as usual, these agreements have significant
+potential to defer or mitigate the need for some of these upgrades. Some customers may be willing and able
+to remain under a flexible agreement indefinitely, avoiding the need for an upgrade entirely. In other
+situations, these agreements may allow the utility to forgo multiple incremental upgrades and instead
+complete a longer lead-time, more cost-effective solution. Making this a reality in the planning process will
+require reliable assumptions regarding the system impacts of flexible EV interconnection agreement,
+including anticipated use cases, duration, and scale. The EVIIWG is well-positioned to serve as the venue for
+the utilities to have these conversations with stakeholders.
+Finally, the EVIIWG can consider what reporting requirements are needed so that the Commission,
+Staff, and stakeholders can understand the scale and success of flexible EV interconnection agreements,
+including the system benefits, customer benefits, and associated costs.
+While the complexity of these conversations precludes them from being completed before the
+finalization of the Straw Proposal this year, the work of the EVIIWG to date means that the group is well-
+positioned to begin these conversations as soon as possible. Therefore, we recommend the EVIIWG continue
+regular meetings following the finalization of the Straw Proposal, with a focus on addressing the questions
+necessary to implement flexible EV interconnection agreements at scale.
+III. Conclusion
+EDF, IREC, and VGIC thank the Commission and DPS for creating this working group and working
+with stakeholders to develop solutions for speeding the EV interconnection process in New York. We look
+forward to working collaboratively with DPS and other stakeholders to develop new procedures that will
+benefit utilities and interconnection customers, and help New York achieve its transportation electrification
+goals.
+Respectfully submitted,
+_________________________ _________________________ _________________________
+Cole Jermyn Mari Hernandez Zach Woogen
+Attorney, Environmental Regulatory Program Director, Interim Executive Director,
+Defense Fund Interstate Renewable Energy Vehicle-Grid Integration Council
+Council

@@ -1,0 +1,225 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Application 21-10-010
+Company for Approval of its Electric (Filed October 26, 2021)
+Vehicle Charge 2 Program. (U39E)
+OPENING BRIEF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+August 24, 2022
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Application 21-10-010
+Company for Approval of its Electric (Filed October 26, 2021)
+Vehicle Charge 2 Program. (U39E)
+OPENING BRIEF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) 1 hereby submits
+this opening brief in the Application of Pacific Gas and Electric Company for Approval of its
+Electric Vehicle Charge 2 Program. (U39E) (“Application”) pursuant to Email Ruling Setting
+Dates for Status Conference and Evidentiary Hearing and Providing General Guidance and
+Instructions in Advance of Remote Hearing (“Ruling”) issued by Administrative Law Judge
+(“ALJ”) Brian Korpics on May 24, 2022.
+I. INTRODUCTION.
+VGIC is excited to see Pacific Gas and Electric (“PG&E”) continue the work on the
+deployment of infrastructure to support the growing number of electric vehicles (“EV”) in
+California being adopted by customers to support our climate goals. PG&E began this work with
+its EV Charge Network (“EVCN”) and EV Fast Charge programs and proposes to continue to
+deploy make-ready infrastructure in EV Charge 2 (“EVC 2”), the subject of this application.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North
+America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor Company,
+FreeWire Technologies, Inc., General Motors Company, Kaluza, Nissan Group of North America, Nuvve
+Holding Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd, The
+Mobility House, Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and
+WeaveGrid. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the
+views of all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+Overall, VGIC supports PG&E’s EVC 2 proposal to provide incentives to support make-ready
+infrastructure behind the meter (“BTM”) and electric vehicle supply equipment (“EVSE”) to
+enable widespread adoption of EVs and transportation electrification (“TE”), especially in AB 841
+underserved communities.
+Throughout this proceeding, VGIC has been focused on unlocking maximum grid and
+ratepayer benefits in this program by advancing vehicle-grid integration (“VGI”) strategies,
+particularly Automated Load Management (“ALM”), a tool used to control and optimize EV
+charging across multiple EV chargers at a given site. ALM is typically used to minimize costs
+during installation and operations. In this proceeding, PG&E and many parties have raised the
+benefits of ALM, especially concerning ratepayer savings. These savings are $115,000 on average
+per site2 and could total over $2 billion across all sites by 2030.3 ALM should be encouraged across
+the EVC2 program as a tool that can provide ratepayer savings during a time when electric rate
+affordability is top of mind.
+Moreover, ALM can accelerate deployment timelines by deferring or avoiding the need for
+grid upgrades.4 As clarified by PG&E5 and supported by parties,6 a variety of PG&E-owned and
+third-party ALM solutions should be a part of EVC 2. To advance the adoption of ALM, VGIC
+offers the following recommendations:
+2 VGIC-01 Appendix B
+3 See VGIC-01 at p.5, lines 5-9, VGIC-01 Appendix B.
+4 See VGIC-01 at p.4, lines 5-17 and p.5, lines 1-2.
+5 PG&E-03 at p.57, lines 22-23: “PG&E does not intend to implement or administer any ALM solutions on
+customer-owned EVSE”
+6 TSLA-02 at p.2, lines 11-12: “I agree with VGIC’s recommendation to provide customers the option to
+select third-party ALM options”
+EA-02 at p.5, lines 21-13: “BTM battery storage [..] should be qualified as an ALM measure”
+2
+
+ Energy storage and other solutions that reduce infrastructure costs should be
+considered as Automated load Management tools in EVC 2
+ ALM to-the-meter (“TTM”) cost savings should be shared with participants to
+encourage ALM adoption
+II. ENERGY STORAGE AND OTHER SOLUTIONS THAT REDUCE
+INFRASTRUCTURE COSTS SHOULD BE CONSIDERED AUTOMATED LOAD
+MANAGEMENT TOOLS IN EVC 2.
+Currently, PG&E defines ALM as a tool used to “share available electrical capacity among
+charging stations to avoid the installation cost of additional electrical capacity” (emphasis
+added).7 ALM is typically thought of as software-based solutions that help to regulate the current
+being drawn by EVSE by allocating power among different EVSE through load management
+schemes or by staggering EVSE charging over time. VGIC acknowledges that software-based
+solutions are an essential ALM tool that customers should leverage where appropriate.
+At the same time, not every charging scheme is created equal, and customer charging
+experience is crucial to consider ensuring that investments made in EV infrastructure are used and
+useful for EV drivers. Direct-current fast charging (“DCFC”) remains a popular option for
+charging EVs, particularly in public charging stations and certain fleet depots. Multiple parties
+have raised concerns that applying ALM solutions that limit charging speed “would not benefit
+drivers in need of DCFC on demand or promote a positive customer experience that would aid in
+EV adoption.”8
+However, software-based ALM is not the only way of reducing the maximum power
+capacity required by a charging station and, in turn, accelerating deployment and reducing per-site
+7 PG&E-01 at p.5-2, lines 2-3.
+8 EVgo-01 at p.8, lines 21-22.
+3
+
+costs. Behind-the-meter (“BTM”) stationary energy storage solutions (“ESS”) can reduce charging
+station peak load to avoid utility upgrades by “enabl[ing] drivers to avoid using energy from the
+grid, effectively functioning as an inherent load management plan without impacting the driver’s
+charging experience.”9 A current example from FreeWire’s current deployments shows how BTM
+ESS is already being used to increase charger output without drawing additional power from the
+grid or increasing make-ready infrastructure costs.10 Additionally, customer demand for EV
+charging, particularly DCFC, is relatively inelastic, and “[time-of-use (“TOU”)] pricing is not
+likely to deter an EV driver who needs to recharge, notwithstanding the time of day or price,”11
+which results in additional upgrades to meet that demand. Even if higher peak TOU pricing helps
+to recover higher costs, the avoidance of upgrades and minimization of total installation costs still
+represents a more cost-effective solution for PG&E ratepayers, while the installation of energy
+storage helps a charging station become a more flexible load or even a source of exports to support
+the grid during times of stress. Ultimately, the goal of ALM is to reduce electric infrastructure
+upgrades that increase costs for ratepayers while accelerating EVSE deployment in pursuit of
+California’s TE goals. If BTM ESS or other hardware solutions can reduce ratepayer costs by
+managing power drawn from the grid, they should be accepted and promoted as an ALM or load
+management solution in EVC 2.
+9 FW-01 at p.14,
+10 FW-01 at 8, lines 2-8: “One 150kW FreeWire DCFC, called the Boost ChargerTM, can connect to the grid
+at low-input 208/240V power, drawing no more than 27kW from the grid, and yet can provide up to 150kW
+to one vehicle or up to 75 kW to two vehicles charging simultaneously. A single legacy 50kW DCFC could
+be replaced with two Boost ChargersTM using a step-down transformer, changing the station from a 1-plug
+rather slow fast charger to a 4-port charger with 50%-150% more output per port without any additional
+make-ready infrastructure.”
+11 EA-02 at p.5, lines 18-19.
+4
+
+III. TO-THE-METER COST SAVINGS FROM AUTOMATED LOAD
+MANAGEMENT SHOULD BE SHARED WITH PARTICIPANTS TO
+ENCOURAGE ALM ADOPTION.
+ALM reduces customer costs in EVC 2 by providing savings on BTM infrastructure
+investments, such as electric panel upgrades, switchgear, and other equipment or upgrades needed
+to provide EV charging service. At the same time, ALM has the potential to provide significant
+savings to ratepayers by reducing to-the-meter (“TTM”) costs covered by PG&E according to Rule
+29. VGIC believes a portion of the total TTM cost savings resulting from ALM should be offered
+to customers to incentivize grid-beneficial ALM adoption.
+PG&E’s Electric Rule 29 was established in 2021 pursuant to Assembly Bill (“AB”) 841
+(Ting, 2020) to “describe eligibility, installation, ownership and maintenance responsibilities, and
+cost allocation for certain electric vehicle distribution infrastructure.”12 AB 841 was designed to
+provide equal footing to upgrades provided for EV charging/load growth compared to other
+sources of load. Under Rule 29, PG&E is responsible for the costs of TTM infrastructure triggered
+by the installation of EV infrastructure, e.g., transformer upgrades, substation upgrades, and other
+network upgrades on the PG&E side of the meter. Depending on the nature of the network upgrade,
+TTM upgrade costs can be hundreds of thousands of dollars and ten times the costs of BTM make-
+ready upgrades.13
+Under EVC 2, customers would receive a share of the BTM cost savings from ALM.
+However, there is no mechanism within EVC 2, Rule 29, or any other TE program or rule to fairly
+compensate customers for the TTM cost savings that result from customer decisions to elect ALM
+12 PG&E Advice Letter 6102-E at 2.
+13 See VGIC-01 at p.12-13, where ALM may provide $25,000 of cost-savings on BTM make-ready
+infrastructure on a site of 10 chargers, $100,000 could be saved from ALM due to the deferal of distribution
+network upgrades.
+5
+
+solutions. VGIC recommends the Commission direct EVC 2 or another existing or new TE
+program, rule, rebate, or tariff to offer customers a $/kW rebate amount for reducing TTM
+upgrades below aggregate nameplate charger capacity at a site. TTM make-ready cost data and
+total charger kW deployed are published in the EV Load Research Report.14 This data can be used
+to find an average TTM $/kW value of ALM and, in turn, can provide the basis for a $/kW
+incentive applied to each kW an ALM approach reduces below aggregate nameplate capacity at a
+site. Notably, this is a “carrot” rather than “stick” approach to promoting ALM, similar to the EVC
+2 methodology for BTM ALM cost savings. Ensuring ALM is an option for customers to choose
+from – and not a requirement – is an important design element of successful ALM implementation.
+IV. BIDIRECTIONAL EV SUPPLY EQUIPMENT NOT INSTALLED ON A
+SEPARATE SERVICE DROP SHOULD BE ELIGIBLE FOR MAKE-READY
+FUNDING.
+Bidirectional charging equipment is a critical tool to unlock:
+ Customer and community resilience by providing clean, low-cost backup power
+solutions
+ Customer bill management opportunities by discharging from a vehicle to meet site
+load, performing energy arbitrage or demand charge management
+ Revenue generation for customers and support for grid reliability and renewable energy
+integration through vehicle-to-grid (“V2G”) exports. Customers can currently
+participate in the ELRP EV/VGI Aggregation pathway and PG&E’s V2G Pilots.
+Additionally, VGIC is hopeful that PG&E’s pending Day-Ahead Hourly Real Time
+Pricing (“DAHRTP”) V2G export compensation mechanism settlement will be
+approved by the Commission, which would provide a compelling year-round V2G
+14 Joint IOU Electric Vehicle Load Research and Charging Infrastructure Cost Report: 10th Report Filed on March 21,
+2022. Pg 120, Attachment 1 Table 2; Attachment 2 Table 2; Attachment 3 Table 2.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M464/K783/464783120.PDF
+6
+
+export opportunity for commercial customers as early as October 2023.15 Lastly,
+SDG&E’s anticipated Real-Time Pricing Import/Export Rate16 and the CPUC staff’s
+proposed CalFUSE concept17 may provide additional future opportunities for export
+compensation.
+For the backup power and customer bill management use cases, EV load must be comingled
+with site load rather than placed on a separate meter. VGIC believes these use cases must be
+supported through EVC 2 and other make-ready funding programs. Make-ready support is needed
+to offset the higher upfront costs of bidirectional charging systems relative to unidirectional
+chargers. As such, VGIC recommends EVC 2 be modified to offer make-ready support for
+bidirectional EVSE placed on an existing service and meter. Alternatively, if EVC 2 rebate
+eligibility remains limited to separate service drops, VGIC recommends that EVC 2 consider how
+to “net” the bidirectional EVSE with the on-site building meter. This method of “virtual
+aggregation” is used for electrically contiguous sites in PG&E’s Emergency Load Reduction
+Program.18 By netting out the load from the EVSE and the load of the site meter, PG&E can
+simulate a BTM installation where the EVSE would actually offset the building load. This would
+15 Joint Motion of Public Advocates Office, VGIC, Electrify America, and PG&E for Adoption of Joint
+Settlement Agreement in PG&E’s DAHRTP Commercial EV Proceeding on Non-NEM Export
+Compensation Pilot. June 17, 2022.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M488/K538/488538216.PDF
+16 Administrative Law Judge’s Ruling Regarding Staff Recommendations and Workshop and Attachment A:
+Staff Recommendations. June 15, 2022.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M485/K625/485625918.PDF and
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M485/K564/485564404.PDF
+17 Advanced Strategies for Demand Flexibility Management and Customer DER Compensation. June 22,
+2022. https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-
+response/demand-response-workshops/advanced-der---demand-flexibility-management/ed-white-paper---
+advanced-strategies-for-demand-flexibility-management.pdf
+18 PG&E. Emergency Load Reduction Program (ELRP) Pilot Group A Terms and Conditions Pursuant to
+California Public Utilities Commission Decision 21-03-056, 21-06-027, and 21-12-015. January 31, 2022.
+https://elrp.olivineinc.com/wp-content/uploads/sites/5/2022/05/ELRP-Group-A-Terms-and-
+Conditions.pdf. Pg 10.
+7
+
+allow separately-metered bidirectional EVSE users to discharge a parked EV during their building
+demand peaks, providing significant electricity bill management value.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit this brief. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: August 24, 2022
+8

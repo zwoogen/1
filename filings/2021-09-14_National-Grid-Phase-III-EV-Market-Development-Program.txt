@@ -1,0 +1,202 @@
+D.P.U. 21-91: Comments of the Vehicle-Grid Integration Council (VGIC)
+on National Grid’s Proposed Phase III EV Market Development Program
+I. Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates the
+opportunity to provide comments to the Department of Public Utilities (DPU) on National Grid’s
+proposed Phase III EV Market Development Program.
+II. EV Time-of-Use (TOU) Rates are Needed to Support Massachusetts’s
+Transportation Electrification (TE) Efforts
+Managed charging or “V1G” is an important tool to support TE efforts, as it shifts EV
+charging away from on-peak periods, which can help lower overall charging costs and support
+the grid.EV TOU rates are one of the most effective V1G strategies to shift EV charging. While
+VGIC is generally supportive of National Grid’s Off-Peak Charging Rebate, including the
+proposed flexible scheduling and eligibility expansion to fleet customers, time-varying EV rates
+can unlock a far greater level of load flexibility from EVs.
+For example, with the off-peak charging rebate, a residential customer receiving delivery
+service and fixed price supply from National Grid would pay 26.787 cents/kWh for on-peak
+charging, and 21.787 or 23.787 cents/kWh for off-peak charging (depending on the season),
+resulting in a 1.13:1 to 1.23:1 differential between on- and off-peak charging rates.2 For
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., Fermata, LLC., FlexCharging, Inc., Ford Motor Company, General Motors Company, Nissan North America, Inc.,
+Nuvve Corporation, Stellantis N.V., The Mobility House, Toyota Motor North America, Inc., and Veloce Energy, Inc.
+The views expressed in these comments are those of VGIC, and do not necessarily reflect the views of all individual
+VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2 Using rates from National Grid’s 2019 Summary of Rates. https://www.nationalgridus.com/media/pdfs/billing-
+payments/electric-rates/ma/cm4394_maweb.pdf
+1
+
+comparison, Pacific Gas & Electric’s EV-B rate offers a 4:1 on- and off-peak differential,3 while
+Xcel Energy Minnesota’s A08 – Residential EV Service offers a roughly 4:1 to 5:1 differential.4
+A similarly designed EV TOU rate would present more dynamic price signals and more
+effectively encourage customers to shift EV charging away from on-peak periods. Notably, the
+proposed demand charge alternative is not a load management strategy and therefore is not a
+substitute for such EV TOU rates.
+In addition, an off-peak charging incentive may not be a sustainable mechanism to
+encourage beneficial charging behavior. While a rebate for off-peak charging would be an
+acceptable first step in exploring financial incentives for off-peak charging, its continuation is
+dependent upon subsequent funding decisions by the Department. On the other hand, EV TOU
+rates can be designed to be revenue neutral and appropriately recover utility costs, and thus do
+not require additional ratepayer funding. When approving the off-peak charging rebate in 2018,
+the Department stated that the rebate would allow National Grid to “gain experience and gather
+data necessary to develop new time-of-use rates for EV customers in the future.” VGIC believes
+that sufficient time has passed since this decision for National Grid to have gathered the
+necessary data to develop EV TOU rates. EV TOU rates are a necessary long-term tariff
+offering, and VGIC urges the Department to direct National Grid to file proposals for EV TOU
+rates for residential and commercial customers 6 months from the approval of its proposed Phase
+III EV Program.
+III. Submetering via EV supply equipment (EVSE) and vehicle telematics should be
+utilized to support billing for EV TOU rates
+The absence of advanced metering infrastructure (AMI) need not delay progress on EV
+TOU rates, as existing EVs and EV supply equipment (EVSE) are capable of measuring charging
+for the purposes of billing. To unlock this capability, EV TOU rates, off-peak charging incentives,
+and any other TE incentive related to charging behavior should allow submetering via the EVSE
+or vehicle telematics. While both National Grid and Eversource have expressed concerns over
+metering accuracy related to using smart chargers and vehicle telematics, VGIC notes that these
+3 PG&E. Electric Vehicle Rate Plans. https://www.pge.com/en_US/residential/rate-plans/rate-plan-
+options/electric-vehicle-base-plan/electric-vehicle-base-plan.page. Pacific Gas & Electric’s EV-B rate includes
+charges of 56 cents/kWh during on-peak periods and 14 cents/kWh during off-peak periods – a 4:1 on- and off-
+peak differential.
+4 Xcel Energy Minnesota Electric Rate Book. Rate Code A08.
+https://www.xcelenergy.com/staticfiles/xn/Regulatory%20&%20Resource%20Planning/Minnesota/Me_Section_5.
+pdf. Xcel Energy Minnesota’s A08 – Residential EV Service includes charges of 16.508-20.497 cents/kWh during
+on-peak periods and 4.170 cents/kWh during off-peak periods – a 3.96:1 to 4.92:1 differential.
+2
+
+potential issues are based on flawed and out-of-date studies and less paramount than the benefits
+that these technologies can deliver. In fact, EVSE and vehicle telematics submetering capabilities
+are found in commercially available products and are in use today. Notably, FERC recently
+approved the CAISO’s methodology for EVSE submetering.5 Xcel Energy Minnesota has
+implemented the Residential EV Service Pilot since 2018, using the metering capability of smart
+chargers to allow residential customers to enroll in EV TOU rates, and the Pilot was made a
+permanent program offering in 2020.6 The Department itself has also directed National Grid and
+Eversource’s proposals for demand charge alternatives to allow EV charging data for billing
+purposes to be collected via smart or networked chargers and EV telematics.7
+Enabling EV- or EVSE-based submetering approaches help avoid the cost of a second
+meter, which may be borne by the customer or socialized to all of a given utility’s customers -
+however, either approach would disproportionately impact low-income customers. For instance,
+allowing submetering through the charger has helped participants in Xcel Minnesota’s Residential
+EV Service Pilot save an average $2,196 each in upfront costs.8 Furthermore, Eversource is already
+proposing to provide rebates for customers installing networked Level 2 EVSE,9 and networked
+EVSE and vehicle telematics are already used by National Grid and Eversource to enable EVs to
+participate in the Active Demand Reduction demand response program10. It would be a missed
+opportunity if such capabilities are not fully leveraged to support billing for EV TOU rates as well.
+As such, VGIC strongly recommends the Department direct Eversource to develop EV TOU rates
+that offer customers the option to elect EV- and EVSE-based measurement in lieu of installing a
+separate meter.
+IV. National Grid’s School Bus Offering Should Include a Vehicle-to-Grid (V2G)
+Component
+Electric school buses are ideal candidates for V2G use cases due to their large batteries
+and operational schedules. For example, the V2G-capable electric bus from Blue Bird has 155
+5 Order Accepting Tariff Revisions issued on September 30, 2020 in Docket No. 20-2443-000 at 8.
+http://www.caiso.com/Documents/Sep30-2020-
+LetterOrderAcceptingEnergyStorageandDistributedEnergyResourceStakeholderESDERPhase3-ER20-2443.pdf
+6 Minnesota PUC. October 6, 2020. Order Approving EV Home Service and Voluntary EV Charger Service
+Programs as Modified. Docket 19-559.
+7 DPU 20-69-A, pg. 42. 2021.
+8 Xcel Energy Minnesota. 2020. Annual EV Report, pg. 11-12. Docket 17-817.
+9 Eversource Exhibit NG-EVPP-1. Docket 21-91.
+10 Massachusetts Three-Year Energy Efficiency Plan 2019-2021, Appendix K. https://ma-eeac.org/wp-
+content/uploads/Exh.-1-Final-Plan-10-31-18-With-Appendices-no-bulk.pdf
+3
+
+kWh of battery capacity,11 while the Thomas Built Buses Saf-T-Liner C2 Jouley has up to 226
+kWh of battery capacity.12 If used to offset site electric load or dispatched to support local or
+system grid needs, electric school buses would provide meaningful benefits to both EV
+customers/EVSE sites hosts and non-EV ratepayers. Notably, school buses may not have a
+primary customer mobility obligation during summer months, and therefore have greater
+availability to support summer peak reliability needs, thereby presenting a potentially low-cost
+method for reducing systemwide capacity costs. Compensating V2G services would also unlock
+an additional revenue stream for school districts, mitigating the costs of bus electrification and,
+in turn, accelerating TE. Given the range of benefits school bus V2G can offer, National Grid
+should include a V2G component in its school bus offering. Example strategies that can facilitate
+adoption and use of V2G technology include:
+A. Ensuring V2G EVs and EVSE are eligible for the school bus rebate and any other
+relevant TE incentives;
+B. Offering incentives to cover incremental upfront or ongoing costs of V2G (e.g.,
+incremental cost of V2G EVSE, V2G management services, electrical equipment needed
+to facilitate backup power use case);
+C. Offering a reasonable ongoing compensation level for V2G use (e.g., compensation for
+V2G exports) that provides systemwide grid benefits to all ratepayers.
+VGIC notes that the City of Beverly has been partnering with Highland Electric
+Transportation to use electric school buses to provide V2G services in National Grid territory.13
+National Grid should build on this experience and expand V2G offerings to school districts that
+receive rebates for electric school buses under the proposed EV Program.
+V. Automated Load Management Should be Enabled and Incorporated into Advisory
+Services
+Automated Load Management (ALM) is the use of software or other behind-the-meter
+technologies to strategically share charging capacity across multiple charging ports at the same
+charging site, helping safely connect multiple charging ports whose total nameplate load would
+11 Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial Application of Vehicle-to-Grid
+Technology in Electric School Bus Partnership with Nuvve and Illinois School Districts. March 23, 2021.
+https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/
+12 Thomas Built Buses / Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School Bus.
+Retrieved September 1, 2021 from https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley/
+13 Rewnewable Energy World. 2020. “Start-up bets on new model for putting electric school buses on the road.”
+https://www.renewableenergyworld.com/2020/11/02/start-up-bets-on-new-model-for-putting-electric-school-
+buses-on-the-road/#gref
+4
+
+otherwise exceed the rated capacity of the customer connection. By using ALM, customers can
+avoid or defer the need to upgrade certain distribution system infrastructure to accommodate the
+new EV charging load. For example, if a multi-unit dwelling seeks to deploy a charging station
+with 5 ports, each with a 10-kW capacity, the distribution upgrades would normally be sized to
+accommodate 50 kW of incremental coincidental charging demand, equal to all 5 ports charging
+at full capacity. However, ALM can lower the coincident charging demand to below 50 kW even
+when all 5 ports are occupied, thus reducing distribution system upgrades to what is required for
+only 3 or 4 ports. In this scenario, when fewer ports are occupied, the EVs can still charge at full
+speed. ALM can lead to significant savings and ensure that investments in transportation
+electrification are used efficiently. Pacific Gas & Electric has worked with EV service providers
+to implement ALM solutions at 20 multi-unit dwelling and workplace host sites as of Q4 2020
+and saved between $30,000 and $200,000 per project.14 Southern California Edison also worked
+with PowerFlex to implement ALM to deploy 168 charging stations at $3,000 per port,
+significantly less than comparable deployments at $10,000-$15,000 per port without ALM.15
+Moreover, many low-income and other disadvantaged communities are served by
+outdated utility infrastructure (substations, transformers) that may require significant and costly
+upgrades to be able to accommodate EV charging load. The use of ALM can help mitigate these
+infrastructure upgrade costs, therefore making charging infrastructure more affordable for
+disadvantaged communities. ALM is a VGI technology that is particularly well-suited for multi-
+unit dwellings (MUDs), commercial buildings, workplace charging, and other non-single family
+home sites, where low-income customers may be more likely to charge.
+ALM would reduce the amount of infrastructure upgrades needed and thus lower the
+costs of fleet electrification and of preparing a MUD site for EV charging. As such, VGIC
+recommends National Grid ensure that ALM is available to customers as an option and that
+ALM is fully incorporated into the proposed Fleet Assessment Services and EV Ready Site
+Plans. It is critical that EV advisory services fully inform customers of all cost reduction
+measures available to them, including ALM.
+VI. Managed Charging Offerings Should Center the Customer
+The customers must be at the center of any managed charging or load management
+program. If program incentives are not attractive or visible enough to customers, participation
+will be low, and the offerings will fail to deliver grid and ratepayer benefits. To the extent that
+14 Pacific Gas & Electric. 2021. Presentation at CPUC ALM/EV EMS Workshop, Panel 2.
+15 EPIC Policy + Innovation Coordination Group. 2021. Transportation Electrification Workstream Report.
+https://epicpartnership.org/resources/Transportation_Electrification_Workstream_Report_Final.pdf
+5
+
+customers are willing and able to participate in any voluntary load management activities, they
+will be reducing distribution system costs for all utility customers and therefore should be
+rewarded accordingly. VGIC suggests that these programs include appropriate customer
+incentives, akin to Massachusetts’ long-standing approach towards funding energy efficiency
+and demand-side management activities.
+Additionally, the Department should consider allowing customers to simultaneously
+participate in multiple managed charging offerings, rather than requiring them to choose between
+different options. This would not only maximize customer value but also leverage EV batteries
+across the off-peak charging rebate, flexible scheduling, demand response (i.e., Active Demand
+Reduction), and other incentive programs to provide multiple benefits to the grid.
+Lastly, the benefits of participation in load management offerings must be effectively
+communicated to customers in order to ensure high enrollment rates. National Grid should
+consider partnering with OEMs and EV service providers for this communication, since they are
+effective messengers regarding EV products and services.
+VII. Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with National Grid, the Department, and other stakeholders to ensure the success of
+Massachusetts’s transportation electrification efforts.
+Respectfully submitted,
+Zach Woogen
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+6

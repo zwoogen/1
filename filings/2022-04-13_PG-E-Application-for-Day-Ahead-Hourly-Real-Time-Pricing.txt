@@ -1,0 +1,619 @@
+Docket No.: A.20-10-011
+Exhibit No.:
+Date: April 13, 2022
+Witness: Ed Burgess
+OPENING TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+
+Table of Contents
+I. Introduction 1
+II. PG&E’s Proposal for Export Compensation for Non-NEM Customers does not 3
+adequately comply with direction of Assigned Commissioner Rechtschaffen
+and ALJ Sisto
+III. PG&E’s Proposal for Export Compensation for Non-NEM Customers – 9
+Analysis and Recommendations
+a. Overview
+b. PG&E’s proposed wholesale market participation approach is infeasible
+given current challenges with direct participation in California’s wholesale
+market
+c. VGIC recommends PG&E offer the DAHRTP pricing model as an export
+option to non-NEM customers
+IV. Additional recommendations related to barriers to wholesale market 20
+participation that should be addressed in the appropriate policy arena
+Appendix A – Declaration of Ed Burgess in Support of Opening Testimony on A-1
+Behalf of the Vehicle Grid Integration Council
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Ed Burgess. I am a Senior Director at Strategen Consulting and the Senior
+4 Policy Director for the Vehicle Grid Integration Council (“VGIC”). My business address
+5 is 2150 Allston Way, Suite 400, Berkeley, California 94704.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of the Vehicle Grid Integration Council.
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to a
+12 decarbonized transportation and electric sector by ensuring the value from EV
+13 deployments and flexible EV charging and discharging is recognized and compensated in
+14 support of achieving a more reliable, affordable, and efficient electric grid.
+15 Q. Who are VGIC’s current members?
+16 A. VGIC’s members include Enel X, Ford, General Motors, Honda, Nissan, Nuvve,
+17 Stellantis (formerly Fiat-Chrysler), Toyota, dcbel, Engie, Fermata Energy, Flexcharging,
+18 Flo/AddEnergie, Sunrun, The Mobility House, Wallbox, WeaveGrid, Veloce, and
+19 Sacramento Municipal Utility District.1
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+1
+
+1 Q. Please summarize your professional background and qualifications.
+2 A. I am a leader within Strategen’s consulting practice where one of my primary
+3 responsibilities is managing the VGIC, which is one of Strategen’s primary clients. In
+4 addition to VGIC, I oversee much of the firm’s practice for governmental clients, non-
+5 governmental organizations, and trade associations. Strategen’s team is globally
+6 recognized for its expertise in the electric power sector on issues relating to resource
+7 planning, renewable energy, energy storage, electric vehicles, utility rate design and
+8 program design, and utility business models and strategy. During my time at Strategen, I
+9 have managed or supported projects for numerous client engagements related to these
+10 issues. Before joining Strategen in 2015, I worked as an independent consultant in
+11 Arizona for several years and regularly appeared before the Arizona Corporation
+12 Commission. I also worked for Arizona State University where I helped launch their
+13 Utility of the Future initiative as well as the Energy Policy Innovation Council. I have a
+14 Professional Science Master’s degree in Solar Energy Engineering and
+15 Commercialization from Arizona State University as well as a Master of Science in
+16 Sustainability, also from Arizona State. I also have a Bachelor of Arts degree in
+17 Chemistry from Princeton University.
+18 Q. Have you ever testified before the California Public Utilities Commission, or any
+19 other state regulatory body?
+20 A. Yes. I testified before the California Public Utilities Commission in proceedings
+21 Application (“A.”) 19-08-002 and A.20-08-002 both of which pertain to PacifiCorp’s
+22 2020 and 2021 Energy Cost Adjustment Clause, as well as proceeding Rulemaking (“R.”)
+23 20-11-003 pertaining to Emergency Reliability and proceeding A.21-10-010 related to
+2
+
+1 Pacific Gas and Electric Company’s (“PG&E”) Electric Vehicle Charge 2 proposal. I
+2 have also provided expert testimony before the Massachusetts Department of Public
+3 Utilities, the South Carolina Public Service Commission, the Indiana Utility Regulatory
+4 Commission, the Nevada Public Utilities Commission, the Oregon Public Utilities
+5 Commission, and the Washington Utilities and Transportation Commission.
+6 Q. What is the purpose of your testimony?
+7 A. The purpose of my testimony is to respond to PG&E’s proposal for export compensation
+8 for non-Net Energy Metering (“NEM”) customers enrolled in its Commercial Day-Ahead
+9 Hourly Real Time Pricing (“DAHRTP”) rate as filed in A.20-10-011. Specifically, I will
+10 address deficiencies in PG&E’s proposal in complying with Issue 2 detailed in Assigned
+11 Commissioner’s Amended Scoping Memo and Ruling (“Amended Scoping Memo”)
+12 issued by Commissioner Rechtschaffen on December 17, 2021 and Questions 1-5
+13 detailed in E-Mail Ruling Granting Extension Requests and Amending Procedural
+14 Schedule issued by Administrative Law Judge (“ALJ”) Sisto on January 14, 2022. In
+15 doing so, I propose an alternative export compensation mechanism for non-NEM
+16 customers enrolled in DAHRTP and offer recommendations for advancing wholesale
+17 market participation in other, more appropriate forums.
+18 II. PG&E’S PROPOSAL FOR EXPORT COMPENSATION FOR NON-NEM
+19 CUSTOMERS DOES NOT ADEQUATELY COMPLY WITH THE DIRECTION
+20 OF ASSIGNED COMMISSIONER RECHTSCHAFFEN AND ALJ SISTO.
+21 Q. Generally speaking, does PG&E’s proposal fit within the overall scope of A.20-10-
+22 011?
+3
+
+1 A. No. A.20-10-011 was filed on October 23, 2020 in response to Ordering Paragraph
+2 (“OP”) 9 of Decision (“D.”) 19-10-055, which required PG&E to “file an application for
+3 a dynamic rate option for commercial electric vehicle customers no later than 12 months
+4 after the effective date of this decision.”2 Thus, the primary focus of this proceeding has
+5 always been the establishment of dynamic retail rate options. The current phase of this
+6 proceeding narrowly extends that focus to consider an incremental export rate and does
+7 not contemplate a full wholesale market integration model nor the myriad additional
+8 reforms required under that approach. This was underscored by ALJ Sisto’s January 14,
+9 2022 ruling which included several questions pertaining to the development of a PG&E-
+10 calculated export compensation rate. In contrast, PG&E’s proposal filed March 24, 2022
+11 does not include an incremental dynamic rate to compensate exports from non-NEM
+12 customers.
+13 Q. What did PG&E propose in lieu of an incremental export rate option?
+14 A. Instead, PG&E proposes to initiate a pilot to begin exploring the integration of vehicle-to-
+15 grid (“V2G”) resources directly into the California Independent System Operator
+16 (“CAISO”) wholesale market while simultaneously seeking valuation and compensation
+17 for resource adequacy (“RA”). Notably, there is currently no established methodology to
+18 value and compensate the RA value of exports from behind-the-meter resources (such as
+19 EVs), and doing so currently faces multiple barriers,3 including opposition from PG&E
+2 D.19-10-055 OP 9.
+3 D.21-06-029 at 53-55 and 71-72.
+4
+
+1 itself.4 PG&E’s proposal therefore does not align within the scope of A.20-10-011
+2 because it is not a dynamic rate option. Additionally, by virtue of partially deferring the
+3 proposal for an export compensation methodology to the RA proceeding, PG&E is also
+4 essentially proposing no capacity-related compensation at all given the lack of a
+5 qualifying capacity (“QC”) methodology for V2G exports at present. In summary, what
+6 PG&E proposed amounts to an overly complicated and lengthy approach that appears
+7 designed to stall creation of an appropriate export rate, potentially for years to come.
+8 Q. Do you believe there are more practical, near-term approaches that PG&E could
+9 have considered instead for non-NEM customers?
+10 A. Yes. VGIC believes that PG&E’s proposal overlooks the relatively straightforward
+11 export approach that it is already offering to a subset of its DAHRTP customers (i.e.,
+12 NEM customers) in favor of a more complex approach that is infeasible at present and
+13 does not fit within the scope of this proceeding.
+14 Q. Does PG&E’s proposal respond to all five questions posed in ALJ Sisto’s January
+15 14, 2022 ruling?
+16 A. No. ALJ Sisto’s January 14, 2022 ruling asks PG&E the following five questions:5
+17 (1) In Exhibit PG&E-1 at 2-15, PG&E indicates that, for NEM customers, exports to
+18 the grid will be tracked by the hour and given generation compensation equal to
+19 that hourly price.
+4 Comments of Pacific Gas and Electric Company (U 39 E) on Phase 2 Proposals and Workshop. February 14,
+2022. R.21-10-002. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M450/K157/450157903.PDF. Pages 2-8.
+Reply Comments of Pacific Gas and Electric Company (U 39 E) on Phase 2 Proposals and Workshop. February 24,
+2022. R.21-10-002. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M453/K952/453952566.PDF. Pages 1-2.
+5 E-Mail Ruling Granting Extension Requests and Amended Procedural Schedule issued by ALJ Sisto on January
+14, 2022 at 3.
+5
+
+1 (a) Does PG&E propose to use the same export compensation methodology to
+2 calculate the export compensation amount for non-NEM customers as it was
+3 authorized to offer NEM customers that participate in the DAHRTP rate?
+4 (b) If not, PG&E should explain the methodology that would be used to calculate
+5 the compensation rate for non-NEM customers on the DAHRTP rate that
+6 provide exports to the grid and provide a detailed analysis on why the
+7 compensation rate for non-NEM should differ from the export compensation
+8 rate offered for NEM customers.
+9 (2) For the generation component of the rate rider, will DAHRTP customers (NEM
+10 and non-NEM) receive export compensation for the generation price that
+11 includes: (1) the DA market energy price from California Independent System
+12 Operator (CAISO), (2) the capacity adder based on forecasted adjusted net load
+13 (ANL) in each hour, and (3) the revenue neutral adder?
+14 (3) Will DAHRTP customers (NEM and non-NEM) receive export compensation for
+15 any other components of the DAHRTP rate (i.e., distribution, transmission, and
+16 non-bypassable charges that are part of the Total Energy Rates ($ per kilowatt
+17 hour) of the rate schedule)?
+18 (4) Will PG&E be able to distinguish between exports from behind-the-meter solar
+19 and exports from other distributed energy resources such as bi-directional electric
+20 vehicles?
+21 (a) If so, how will PG&E differentiate between the exporting resources?
+22 (b) Will all exports, regardless of which distributed energy resource they are
+23 from, be compensated at the same rate?
+24 (5) Will the technical and billing system upgrades PG&E plans to conduct to
+25 implement the DAHRTP rate authorized in D.21-11-017 support the potential for
+26 export compensation for customers that are enrolled in the DAHRTP rate but do
+27 not participate in NEM? If not, what additional investments and associated
+28 ratepayer costs does PG&E propose would be necessary to provide export
+29 compensation for DAHRTP customers that do not participate in NEM?
+30 While PG&E’s proposal responds to Question 1(a), it fails to respond to the ALJ’s
+31 request in Question 1(b) to “explain the methodology that would be used to calculate the
+32 compensation rate for non-NEM customers on the DAHRTP rate that provide exports to
+33 the grid.” Similarly, PG&E is unable to respond directly to Questions 2 and 3, as it fails
+34 to propose a “rate rider,” “rate,” or “rate schedule” as requested in the ALJ’s ruling.
+6
+
+1 PG&E does not provide a “yes” or “no” answer to Question 4 or respond to sub-questions
+2 4(a) or 4(b) regarding methodology. Instead, PG&E merely states that it wishes to
+3 “institute an application and workshop process to discuss various topics of which this one
+4 would be included”6, effectively deferring its proposal design indefinitely rather than
+5 offering a solution at this time.
+6 Overall, while Chapter 3 of PG&E’s Supplemental Testimony includes nominal
+7 responses to the ALJ’s questions, the Company was largely unable to provide direct
+8 answers to most of these questions and therefore did not adequately follow the guidance
+9 in the ruling that “at a minimum, PG&E shall address these questions in its supplement to
+10 A.20-10-011 related to export compensation.”7
+11 Q. Would considering PG&E’s proposal require relitigating key issues in A.20-10-011
+12 that were recently ruled on in D.21-11-017?
+13 A. Yes. D.21-11-017 discusses whether to adopt PG&E’s previously proposed prohibition
+14 on dual participation in both the DAHRTP rate option and other “load management
+15 approaches,” including RA contracts.8 At that time, PG&E justified its proposal by
+16 stating that DAHRTP customers “will be receiving hourly [day-ahead, real-time] rate
+17 signals that include an accurate capacity component based on the CAISO market”9. After
+18 considering PG&E’s arguments, as well as those from other parties, the Commission
+19 ultimately directed PG&E to allow some limited dual participation, specifically allowing
+6 Commercial Electric Vehicle Dynamic Rate Option Proposal for Export Compensation Mechanism for Non-Net
+Energy Metering Business Electric Vehicles Supplemental Testimony (“Supplemental Testimony”) at at 3-2.
+7 E-Mail Ruling Granting Extension Requests and Amended Procedural Schedule issued by ALJ Sisto on January
+14, 2022 at 3.
+8 D.21-11-017 at 27.
+9 Exhibit PG&E-1 at 2-6.
+7
+
+1 “customers that participate in CAISO’s ancillary services markets to also enroll in the
+2 DAHRTP if they are otherwise eligible to do so.”10 Notably, however, the Commission
+3 did not permit DAHRTP customers to also participate in RA programs, CAISO market
+4 products, or any other “in-market” program.11 This puts the Commission’s prior decision
+5 on dual participation at odds with PG&E’s proposal which would explicitly require
+6 customers to participate in both the DAHRTP pricing model for charging, while also
+7 participating in the CAISO market (and potentially RA framework) for export
+8 compensation.12 PG&E’s proposal therefore conflicts with the direction of D.21-11-017
+9 and likely demands a costly and protracted relitigating of the DAHRTP dual participation
+10 rules. VGIC is concerned this would further delay the development of an export
+11 compensation offering for non-NEM customers and risks overshooting the approved
+12 proceeding schedule’s Q3/Q4 2022 proposed decision target.13
+13 Q. Does PG&E’s proposal promote the efficient and fair resolution of the application
+14 per the Amended Scoping Memo?
+15 A. No. VGIC is concerned that PG&E’s proposal is contingent on completing unnecessary
+16 procedural steps when a simpler solution is at hand. PG&E proposes that “the
+17 Commission order PG&E to implement an application and stakeholder workshop process
+18 in the quarter following the final decision to further develop the pilot in coordination with
+19 industry, CAISO, interested load serving entities, and other impacted stakeholders.”14
+10 D.21-11-017 at 29.
+11 “In-market” programs include the Demand Response Auction Mechanism Pilot, bilateral RA contracts, and
+CAISO market products. In contrast, the Emergency Load Reduction Program is an “out-of-market” program.
+12 Supplemental Testimony at 1-2.
+13 E-Mail Ruling Granting Extension Requests and Amended Procedural Schedule issued by ALJ Sisto on January
+14, 2022 at 4.
+14 Supplemental Testimony at 1-3.
+8
+
+1 Despite a targeted Q3/Q4 2022 Proposed Decision on Phase 2 of this proceeding,
+2 PG&E’s requested subsequent application and workshop process would only begin in Q4
+3 2022 at the earliest and would likely not be resolved until well into 2023 or 2024, with
+4 implementation likely commencing in subsequent years. As discussed in Section IV
+5 infra, the CAISO market participation and RA pathways likely require structural reforms,
+6 market enhancements, and tariff revisions in no less than four policy forums (i.e., High
+7 Distributed Energy Resources (“DER”) Future Rulemaking15, RA Reforms Proceeding16,
+8 CAISO Energy Storage Enhancements17, Wholesale Distribution Tariff18) across at least
+9 four different overseeing entities (i.e., CPUC, CAISO Board of Governors, WEIM
+10 Governing Body19, and FERC), all demanding particularly close coordination during both
+11 the design and implementation phases. As such, VGIC does not believe PG&E’s proposal
+12 for a subsequent application and workshop process will result in timely resolution of
+13 Issue 2 of the Amended Scoping Memo or a near- or mid-term export compensation
+14 offering to non-NEM DAHRTP customers.
+15 III. PG&E’S PROPOSAL FOR EXPORT COMPENSATION FOR NON-NEM
+16 CUSTOMERS – ANALYSIS AND RECOMMENDATIONS.
+17 A. Overview of PG&E’s proposal
+15 R.21-06-017
+16 R.19-11-009
+17 CAISO energy storage enhancements initiative.
+https://stakeholdercenter.caiso.com/StakeholderInitiatives/Energy-storage-enhancements
+18 PG&E’s Wholesale Distribution Tariff. https://www.pge.com/pge_global/common/pdfs/about-pge/company-
+information/regulation/contracts-and-tariffs/wd-tariff.pdf.
+19 The CAISO energy storage enhancements initiative falls under joint authority of the CAISO Board of Governors
+and the WEIM Governing Body.
+9
+
+1 Q. Please summarize PG&E’s overall proposed approach to export compensations for
+2 non-NEM customers.
+3 A. PG&E proposes to partner with DER/EV providers and CAISO to pilot compensating
+4 V2G exports through the CAISO market. According to PG&E’s testimony, the Company
+5 believes it can “play a pivotal role in overcoming some of the hurdles that currently
+6 prevent [behind-the-meter] generation aggregators from participating in [the CAISO
+7 market].”20 However, PG&E makes only passing reference to these hurdles and does not
+8 explain how it intends to overcome them. PG&E does identify some broad goals for the
+9 pilot, each of which are generally commendable, but the proposal lacks any detail or
+10 specificity on how these would be achieved.21 Instead, the overwhelming majority of
+11 PG&E’s proposed pilot design is deferred to a later date as PG&E requests the
+12 Commission direct PG&E to file a subsequent application and coordinate a series of
+13 workshops to develop the pilot details.
+14
+15 B. PG&E’s proposed wholesale market participation approach is infeasible
+16 given current challenges with direct participation in the CAISO wholesale
+17 market
+18 Q. PG&E argues that direct CAISO market participation offers the best value for EV
+19 customers in the long-term. Do you agree?
+20 Supplemental Testimony at 1-2.
+21 PG&E’s pilot goals include the following: (1) Understand behavioral responses to export price signals given
+constraints such as commercial operations, (2) Explore and understand potential pathways for operational design
+regarding dispatch of energy into the CAISO wholesale market from non-net energy behind-the-meter (“BTM”)
+resources, (3) Continue to work with stakeholders to define standards and procedures for metering, submetering,
+telemetry and telematics of BEV integration as exporting resources.
+10
+
+1 A. Possibly. VGIC believes direct CAISO market participation may become an important
+2 option for EV customers in the long-term. However, PG&E’s proposed market
+3 integration pilot does not present a feasible near-term or mid-term approach based on
+4 recent history and current challenges to DERs directly participating in the CAISO
+5 market. Moreover, there is no reason why PG&E can’t offer a simpler export rate in the
+6 near-term while also continuing to work in parallel with stakeholders towards
+7 overcoming the hurdles to direct market participation. In essence, PG&E is making
+8 “perfect the enemy of the good.”
+9 Q. Can you elaborate on some of the recent history and current challenges for DER/EV
+10 direct participation in the CAISO wholesale market?
+11 A. Yes. The primary pathway that currently exists for DER/EV participation is the Non-
+12 Generator Resource (“NGR”) model which was introduced by CAISO in 2012 and the
+13 DER Provider Agreement (“DERPA”) framework which was approved in July, 2015.22
+14 Meanwhile, V2G products from Nissan23, Mitsubishi24, BlueBird25, Thomas Built26, Lion
+22 California ISO. Energy Storage and Distributed Energy Resources (ESDER) Stakeholder Initiative. Draft Final
+Proposal. November 2, 2015. http://www.caiso.com/Documents/DraftFinalProposal-
+EnergyStorageandDistributedEnergyResources.pdf. Pages 14 and 43.
+23 Steve Hanley. Clean Technica. Nissan Using Vehicle to Grid Technology to Power US Operations. November 29,
+2018. https://cleantechnica.com/2018/11/29/nissan-using-vehicle-to-grid-technology-to-power-us-operations/
+24 Roberto Baldwin. 2021 Mitsubishi Outlander PHEV Gets Bigger Motor and Battery at Same Price. Car and
+Driver. February 25, 2021. https://www.caranddriver.com/news/a35605985/2021-mitsubishi-outlander-plug-in-
+hybrid-upgrade/
+25 Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial Application of Vehicle-to-Grid
+Technology in Electric School Bus Partnership with Nuvve and Illinois School Districts. March 23, 2021.
+https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/
+26 Thomas Built Buses / Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School
+Bus. https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley
+11
+
+1 Electric27, Nuvve28, Fermata Energy29, and Rhombus30 have been available to customers
+2 during this time (i.e., from 2012 to 2015). However, based on VGIC’s understanding of
+3 the industry, none of these products participate directly in the CAISO market due to a
+4 range of market and policy barriers. This is true for all DERs, not just EVs. PG&E’s
+5 proposal does not adequately describe the barriers leading to this lack of participation nor
+6 does it recommend any new approaches to overcoming these barriers. Based on VGIC’s
+7 assessment, PG&E’s proposal would not lead to meaningful progress toward CAISO
+8 market participation, and instead only defers the act of discussing barriers and solutions
+9 to a requested workshop process that would be initiated in 2023.
+10 Q. What is PG&E’s rationale for its proposed approach of CAISO market integration
+11 for export compensation, and what is your response?
+12 A. In its Supplemental Testimony, PG&E argues that “CAISO market participation best
+13 supports long-term value for customers because dispatchable resources could be
+14 compensated at high energy prices during real-time scarcity events.”31 However, since
+15 the hourly prices computed by PG&E for the existing DAHRTP pricing model are
+16 already informed by the CAISO market, they should already provide a price signal
+17 comparable to direct market participation. Thus, if the existing DAHRTP pricing model
+18 were used as the basis for export compensation, customers would inherently be
+27 Lion Electric. Lion Electric Announces Successful Electric School Bus Vehicle-to-Grid Deployment with Con
+Edison in New York. December 14, 2020.
+https://thelionelectric.com/img/medias/LION_Press_Release_White%20Plains%20EN%20FINAL.pdf
+28 Nuvve Corporation (2020). Nuvve DC Heavy Duty Charging Station Specifications Sheet. https://nuvve.com/wp-
+content/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf
+29 Fermata Energy. Proven Results and Cost Savings with V2G Technology. October 14, 2020.
+https://www.fermataenergy.com/news-press/proven-results-and-cost-savings-with-v2g-technology.
+30 Rhombus Energy Solutions. V2G Charging, Control, and Management 50-500 kW: Bidirectional.
+https://rhombusenergysolutions.com/products
+31 Supplemental Testimony at 1-6.
+12
+
+1 compensated at “high energy prices during … scarcity events.”32 Moreover,
+2 compensating V2G exports at high energy prices during scarcity events is already a
+3 feature of the Emergency Load Reduction Program (“ELRP”), which is slated to run
+4 through 2025 and could be another option for DAHRTP customers to receive export
+5 compensation during scarcity events. In sum, achieving complete CAISO market
+6 integration should not be viewed as a requirement for establishing a meaningful, market-
+7 informed export compensation rate in the near-term because there are other options that
+8 can provide similar value to EV customers.
+9 Q. While DAHRTP provides a price signal during scarcity events, you mentioned that
+10 ELRP could be an alternative during those events. Can you elaborate?
+11 A. Yes. If an export compensation rate is adopted in this proceeding consistent with the
+12 DAHRTP pricing model, then VGIC strongly recommends that dual participation in the
+13 ELRP be permitted. Under this arrangement, dual-participating customers would be
+14 compensated for exports at the ELRP rate during the 30 hours prescribed under the ELRP
+15 customer group A.5. Meanwhile exports occurring during the remaining ~8730 hours
+16 would be compensated under the DAHRTP rate schedule. Notably, the original Proposed
+17 Decision to establish the EV/VGI aggregation customer group (A.5) within ELRP would
+18 have prohibited dual participation in ELRP and dynamic rates such DAHRTP.33
+32 VGIC recognizes that the DAHRTP pricing model uses hourly day-ahead pricing, rather than 5-min real-time
+pricing. There may be incremental customer value to be gained from exposing EV customers to real-time price
+signals for exports (in addition to day-ahead). However, VGIC believes that a substantial amount of the customer
+value for exports will still be realized through the day-ahead pricing model. VGIC would be open to considering
+real-time pricing for exports in the future as a supplement to hourly pricing, but this consideration does not
+preclude implementation of the day-ahead hourly pricing model for exports in the near term.
+33 Proposed Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California Edison Company,
+and San Diego Gas & Electric Company to Take Actions to Prepare for Potential Extreme Weather in the Summer
+of 2022 and 2023. Mailed October 29, 2021. Attachment 2 at 6.
+13
+
+1 However, in reviewing the record and revising the Proposed Decision, the Commission
+2 decided the correct path forward was to remove the proposed dual participation
+3 prohibition in its Final Decision (D.21-12-015) and allow dual participation in ELRP and
+4 dynamic rates.34 To remain consistent with the Commission’s direction in D.21-12-015,
+5 PG&E should permit dual participation in DAHRTP and ELRP. Moreover, this does not
+6 constitute double-counting as ELRP is an “out-of-market program” intended to support
+7 the grid during emergency reliability events.
+8 Q. PG&E’s testimony suggests that comprehensively resolving a variety of complex
+9 issues related to grid operational control and planning are a prerequisite to
+10 establishing an export rate for DAHRTP customers. Do you agree?
+11 A. No. While VGIC appreciates and supports long-term planning for DERs, we are
+12 concerned PG&E may be overcomplicating the task at hand by trying to consider all the
+13 implications of a high-DER future within the relatively narrow scope of this proceeding.
+14 Namely, the current proceeding’s scope is to develop an export compensation rate for a
+15 relatively small set of non-NEM DAHRTP customers. For example, PG&E’s
+16 Supplemental Testimony at Chapter 1-8 focuses on coordination needed between the
+17 Distribution System Operator (“DSO”) and aggregators in a high-DER future.35 Issues
+18 related to a high-DER future are central to High DER Future Rulemaking (R.21-06-017),
+19 and VGIC does not believe they can or should be fully addressed in this proceeding,
+20 which is specific to DAHRTP customers and does not necessarily pertain to the broader
+21 set of DER customers that R.21-06-017 considers. Moreover, the number of customers
+34 D.21-12-015 Attachment 2 at 6.
+35 Supplemental Testimony at 1-8.
+14
+
+1 impacted by a DAHRTP export option is likely to be relatively modest. PG&E states “as
+2 of March 4, 2022, there were 429 BEV service agreements which belong to 131 different
+3 companies. Four-hundred and twenty-seven of the service agreements were non-NEM.”36
+4 VGIC anticipates, in the near-term, DAHRTP customers will be a subset of Business EV
+5 (“BEV”) rate enrollment, as not all customers will wish to leverage more dynamic prices.
+6 Additionally, a limited set of EVs and chargers are currently V2G-capable, meaning an
+7 even smaller subset of eligible non-NEM customers will be participating in a DAHRTP
+8 export rate in the near-term.
+9 Q. What operational and coordination requirements should be considered in this
+10 proceeding?
+11 A. The operational and coordination requirements placed on dispatchable non-NEM
+12 DAHRTP customers should be limited to those that are needed to ensure grid safety and
+13 reliability (e.g., requiring the UL 1741 safety standard). However, this is already
+14 addressed through the Commission’s Rule 21 interconnection procedures, which were
+15 updated in D.20-09-035 to include a pathway for safe interconnection of V2G resources.
+16 Adding onerous and unnecessary requirements for specific customer resource types (i.e.,
+17 non-NEM DAHRTRP customers), other than those needed to ensure basic safety and
+18 reliability, is at odds with PG&E’s proposed Principle 1: “Level Playing Field.”37
+19 Avoiding these unnecessary requirements also helps supports the growth of nascent V2X
+20 technologies, programs, and customer adoption.
+36 Supplemental Testimony at 1-3.
+37 Supplemental Testimony at 1-4.
+15
+
+1 Q. PG&E argues that its proposal provides an equal opportunity to bundled and
+2 unbundled customers. Do you agree?
+3 A. I don’t disagree. However, I would note that offering a retail bill-based approach to
+4 PG&E’s bundled customers does not preclude other suppliers from doing the same.
+5 PG&E correctly notes that “under a retail bill-based approach, each Load Serving Entity
+6 (“LSE”) would procure energy through the retail bill from its customers.”38 Other LSEs
+7 besides PG&E could similarly choose to procure energy through the retail bill from its
+8 customers or establish other programmatic approaches to procure V2G exports from its
+9 customers. In recent years, VGIC has had an ongoing dialog with Community Choice
+10 Aggregators (“CCA”) on innovative VGI strategies and believes that unbundled
+11 customers may have similar retail bill-based V2G export compensation offerings
+12 provided by their CCAs in the near-term. VGIC does not believe LSE coordination
+13 should be viewed as a key barrier to implementing a retail bill-based approach.
+14 Additionally, PG&E’s proposed approach could result in customer confusion stemming
+15 from overlapping offerings to unbundled customers. Implementing retail bill-based V2G
+16 export compensation would therefore help avoid overlapping efforts between CCAs and
+17 PG&E.
+18 C. VGIC recommends that PG&E offer the DAHRTP pricing model as an
+19 export compensation option to non-NEM DAHRTP customers
+20 Q. What does VGIC recommend as an alternative to PG&E’s proposal?
+38 Ibid.
+16
+
+1 A. VGIC recommends a simplified approach as an alternative to PG&E’s overly
+2 complicated proposal that is unlikely to be implemented in the foreseeable future.
+3 Specifically, PG&E should offer the same DAHRTP pricing model that it is using for
+4 exports from NEM customers as the compensation rate for exports for non-NEM
+5 customers. Specifically, this approach would allow non-NEM DAHRTP customers to
+6 export energy from a Rule 21-interconnected system, resulting in PG&E’s interval meter
+7 recording a negative value that is then applied to the hourly DAHRTP rate. This is
+8 fundamentally the same way exports for NEM DAHRTP customers will be treated, and
+9 thus is already technically feasible.39 Moreover, the underlying economic principles of
+10 DAHRTP exports for NEM customers are equally applicable to non-NEM customers.
+11 Q. Can you explain why the underlying economic principles for DAHRTP exports from
+12 NEM customers are equally applicable to non-NEM customers?
+13 A. Yes. There is no fundamental reason why exports from non-NEM customers should be
+14 treated differently from exports from NEM customers based on economic principles. In
+15 PG&E’s Phase 1 Direct Testimony supporting its compensation for NEM exports, the
+16 Company stated “the [DAHRTP] rate rider substitutes one set of generation rates for
+17 another.”40 Thus, it appears that PG&E views the “generation only” subcomponent of
+18 rates as being somewhat interchangeable between tariff options. If this is the case, there is
+19 no reason why PG&E’s proposal for exports should not be extended to include the
+20 exports from non-NEM customers. Put another way, the wholesale energy and capacity
+39 A.20-10-011 Phase 1 Evidentiary Hearings Reporter’s Transcript at page 163 line 3 through page 164 line 9.
+40 A.20-10-011 Phase 1 Direct Testimony of Tysen Strieb at page 2-15 line 30 through 2-15 line 2.
+17
+
+1 value of exports from both NEM and non-NEM customers is equivalent and should not
+2 command different compensation rates.
+3 Q. Would offering DAHRTP compensation for non-NEM exports result in potential
+4 cross-subsidies that have been a recent concern for NEM compensation?
+5 A. No. VGIC recognizes that there is a long, complex, and contentious policy history
+6 surrounding the full retail rate compensation for exports for NEM customers.41 As part of
+7 this history, concerns have been raised about potential cross-subsidies embedded in this
+8 form of compensation. However, these issues are not applicable when considering a
+9 “generation only” subcomponent of retail rates42, which is what PG&E proposed for
+10 export compensation in phase 1 of A.20-10-011. By linking the export compensation to
+11 generation as PG&E has done, there is no risk of potential cross-subsidies associated with
+12 the fixed delivery cost component of rates. Therefore, it would be equally appropriate to
+13 apply this approach for any DAHRTP exports, regardless of whether they come from a
+14 NEM customer or not. Notably, the export compensation rate that PG&E has offered for
+15 NEM customers is not equivalent to the full retail compensation rate traditionally offered
+16 to NEM customer exports. Thus, NEM eligibility requirements are not at issue if the
+17 DAHRTP compensation rate is expanded to non-NEM customers. At a minimum,
+18 offering DAHRTP compensation for exports, whether to non-NEM or NEM customers,
+19 does not result in a cross-subsidy.
+41 R.20-08-020. Order Instituting Rulemaking to Revisit Net Energy Metering Tariffs Pursuant to Decision 16-01-
+044, and to Address Other Issues Related to Net Energy Metering. Filed August 27, 2020. Legislative and
+procedural backgrounds detailed at page 3 and page 5, respectively.
+42 Specifically, the Marginal Energy Cost and Marginal Generation Capacity Cost.
+18
+
+1 Q. Are there technical barriers to applying the same treatment to exports from NEM
+2 and non-NEM customers?
+3 A. Not to my knowledge. This appears straightforward to implement since during the
+4 exporting interval PG&E’s AMI meter would record a negative value and this negative
+5 value could readily be applied to the hourly DAHRTP rate. This is fundamentally the
+6 same way that exports for NEM customers would be treated, as explained by PG&E.43
+7 VGIC recognizes that DAHRTP customers in the near-term will be separately metered,
+8 as the Commission has not yet adopted any submetering protocol. VGIC recommends the
+9 Commission work with stakeholders, including PG&E and VGIC, to develop a
+10 submetering protocol that does not foreclose the option for customers to receive
+11 compensation for exports under DAHRTP – or any other export compensation pathway
+12 that may be developed between now and the approval of a submetering protocol.
+13 Q. Should a distribution value be explored in the future as an additional component for
+14 export compensation?
+15 A. Yes. VGIC believes a distribution component or distribution adder for DAHRTP
+16 customer exports should be explored in the future. This would compensate customers for
+17 any additional value provided from EV exports, such as the alleviation of load on
+18 congested circuits. However, VGIC also recognizes that this adds a layer of complexity
+19 that may not be resolved in the near term. As such, VGIC recommends that the
+20 generation only export rate be approved in the current phase of this proceeding.
+21 Meanwhile, the distribution component should be explored in a future phase of this
+22 proceeding, or in another proceeding.
+43 A.20-10-011 Phase 1 Evidentiary Hearings Reporter’s Transcript at page 163 line 3 through page 164 line 9.
+19
+
+1 Q. Is there precedent for an export rate that includes a distribution component?
+2 Yes. Under OP 50 through OP 58 of D.21-12-015, PG&E must partner with Valley
+3 Clean Energy (“VCE”) on a Dynamic Rate Pilot for Agricultural Pumping, which could
+4 offer a model to support the development of a dynamic non-NEM DAHRTP export
+5 distribution component.44 VGIC also notes that the Massachusetts Department of Energy
+6 Resources’ (“DOER”) recently issued a Straw Proposal for a Distribution Circuit
+7 Multiplier (“DCM”) as part of their Clean Peak Standard rulemaking process. The Clean
+8 Peak Standard program includes an option for V2G participation and could serve as a
+9 model for the design of distribution adder for DAHRTP exports.45 The DCM Straw
+10 Proposal details a 2x multiplier for selected circuits and a formulaic methodology for
+11 circuit identification. This approach is simple in both design and implementation,
+12 promotes administrative efficiency, and provides certainty and predictability for
+13 developers, aggregators, and fleet owners.
+14 IV. ADDITIONAL RECOMMENDATIONS RELATED TO BARRIERS TO DER
+15 WHOLESALE MARKET PARTICIPATION SHOULD BE ADDRESSED IN THE
+16 APPROPRIATE POLICY FORUMS AND NOT IN THIS PROCEEDING.
+17 Q. Does VGIC have additional recommendations related to barriers to DER wholesale
+18 market participation?
+44 D.21-12-015 Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California Edison
+Company, and San Diego Gas & Electric Company to Take Actions to Prepare for Potential Extreme Weather in the
+Summers of 2022 and 2023, issued December 6, 2021 in Rulemaking 20-11-003. Ordering Paragraphs 50 through
+58.
+45 Samantha Meserve. Massachusetts Department of Energy Resources. Clean Peak Energy Standard Distribution
+Circuit Multiplier Working Group. February 2022. https://www.mass.gov/doc/cps-dcm-straw-proposal/download
+20
+
+1 Yes. While VGIC opposes PG&E’s proposal in this proceeding and instead recommends
+2 a retail bill-based approach, we believe barriers to wholesale market participation should
+3 continue to be addressed separately. The stakeholder work needed to overcome barriers
+4 to CAISO and RA market integration should occur in parallel to a near-term export
+5 offering to non-NEM DAHRTP customers. This work should be conducted in the
+6 appropriate venues (e.g., High DER Future Proceeding46, RA Reforms Proceeding47,
+7 CAISO Energy Storage Enhancements48, Wholesale Distribution Tariff49, etc.). Since
+8 these issues relate to all DERs, hosting a dedicated application and workshop process
+9 focused on commercial BEV customers, as PG&E proposes, would be inefficient and
+10 duplicative of ongoing policy progress and would impose an even greater burden on
+11 stakeholders to participate in this additional technology-specific forum. The
+12 Commissioner’s and ALJ’s narrowly tailored requests that an export compensation
+13 mechanism be developed within this proceeding should not be viewed as an open-ended
+14 opportunity to pursue longer-term issues spanning multiple policy forums when a near-
+15 term, workable approach is readily available. Notably, neither workstream precludes the
+16 other: addressing long-term barriers to market participation and RA valuation in no way
+17 obstructs the DAHRTP rate from being implemented in its current form for non-NEM
+18 exports. It is possible that a market-integrated model could ultimately complement the
+19 retail-based V2G export mechanisms in the long-term, however VGIC does not believe
+20 the market-integrated approach is feasible in the near-term. Meanwhile, customer interest
+46 R.21-06-017
+47 R.19-11-009
+48 CAISO energy storage enhancements initiative.
+https://stakeholdercenter.caiso.com/StakeholderInitiatives/Energy-storage-enhancements
+49 PG&E’s Wholesale Distribution Tariff. https://www.pge.com/pge_global/common/pdfs/about-pge/company-
+information/regulation/contracts-and-tariffs/wd-tariff.pdf.
+21
+
+1 in V2G, recent product availability, and the opportunity to support the grid per Senate
+2 Bill 676 all point towards a customer-centric approach to compensating V2G exports that
+3 can be implemented in the near-term. Notably, the PG&E VGI Pilots draft resolution E-
+4 519250 and San Diego Gas & Electric Company’s proposed V2G export rate both use
+5 retail bill-based approaches to compensating V2G exports.51 This offers further evidence
+6 that such an approach is viable and worth pursuing in the near-term.
+7 Q. Does VGIC have additional recommendations related to incorporating V2G exports
+8 into California’s RA framework?
+9 A. Although VGIC is not a party in R.19-11-009, it understands that PG&E has been closely
+10 engaged on the issue of BTM RA. If PG&E hopes to incorporate V2G into the RA
+11 framework, VGIC recommends PG&E express its support for the BTM RA proposal
+12 submitted by the Joint DER parties in that proceeding, which represent the interests of
+13 several key V2G technology and service providers.52
+14 Q. Does this conclude your testimony?
+15 A. Yes.
+50Resolution E-5192. Pacific Gas and Electric Company Advice Letter 6259-E requests approval of four vehicle-grid
+integration pilots pursuant to Decision 20-12-029. Scheduled for April 21, 2022 CPUC Voting Meeting.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M464/K273/464273538.PDF. Pages 20-22.
+51 Application of San Diego Gas & Electric Company (U 902-E) for Approval of Commercial Electric Vehicle
+Dynamic Rate. A.21-12-008. Page 2.
+52 See Joint DER Parties Implementation Track – Phase 2 Proposal. January 21, 2022. R.21-10-002.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M444/K123/444123952.PDF
+22
+
+Appendix A:
+Declaration of Ed Burgess in Support of Opening Testimony on Behalf of the Vehicle Grid
+Integration Council
+A-1
+
+DECLARATION OF ED BURGESS IN SUPPORT OF OPENING TESTIMONY ON
+BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+I, Ed Burgess, am the Senior Policy Director for the Vehicle Grid Integration Council
+(VGIC). Having worked for VGIC since its founding in 2020, I am currently managing policy
+and regulatory affairs for VGIC and its 19 members. My business address is 2150 Allston Way,
+Suite 400, Berkeley, CA 94704. I declare under penalty of perjury that the foregoing facts in this
+document are true and correct.
+Executed on April 13, 2022 at Berkeley, California.
+Ed Burgess
+A-2

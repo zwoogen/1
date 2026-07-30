@@ -1,0 +1,119 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL ON THE PROPOSED DECISION SETTING NEAR-TERM
+PRIORITIES FOR TRANSPORTATION ELECTRIFICATION
+INVESTMENTS BY THE ELECTRICAL CORPORATIONS
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+June 28, 2021
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL ON THE PROPOSED DECISION SETTING NEAR-TERM
+PRIORITIES FOR TRANSPORTATION ELECTRIFICATION
+INVESTMENTS BY THE ELECTRICAL CORPORATIONS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) 1 hereby submits
+these reply comments on the Proposed Decision Setting Near-Term Priorities for Transportation
+Electrification Investments by the Electrical Corporations, issued on June 1, 2021.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+1 The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+II. ANY CAP IMPOSED ON UTILITY OWNERSHIP OF EVSE SHOULD BE
+MADE FLEXIBLE IF THE EVSE INCORPORATES VGI SOLUTIONS.
+In opening comments, several parties weigh in on the proposed restriction to IOU
+ownership of behind-the-meter make-ready and EVSE. For example, PG&E stated “the PD
+arbitrarily restricts IOU ownership of BTM make-ready and EVSE to no more than 50 percent of
+the customer side infrastructure per program proposal. Additionally, the PD restricts any IOU
+ownership of EVSE except for sites located in underserved communities.”2 Given the relative
+nascency of TE infrastructure deployment, VGIC remains agnostic regarding whether a specific
+cap should be imposed on utility ownership of behind-the-meter make-ready and EVSE. However,
+to the extent a specific cap is imposed, VGIC recommends the Commission allow for flexibility
+tied to the VGI capabilities of the EVSE. For example, IOUs could be permitted to own a certain
+share of EVSE if the equipment is placed on an existing service line. This would ensure the goals
+of SB 676 can still be met without overburdening ratepayers or disrupting progress toward
+accelerated TE.
+In recognition of the uncertainties that TE program design brings, VGIC offers that the
+Commission consider hiring an auditor to assess TE program metrics and ratepayer impact. A
+robust program audit could be valuable in supporting future policy decisions regarding IOU
+ownership of EVSE.
+2 PG&E Comments at 1.
+3
+
+III. REFERENCE TO VGI WORKING GROUP’S LOAD MANAGEMENT
+GUIDANCE SHOULD BE REPLACED WITH DEFAULT ENROLLMENT IN
+DR PROGRAM.
+As noted in VGIC’s opening comments, the PD references “VGI Working Group’s Load
+Management Guidance” but does not provide more detail or refer to a specific document.3 In
+recognition of this gap, VGIC recommends the Commission require any requests for extensions
+to existing programs or pilots align with the recent decision requiring SCE Charge Ready 2
+customers to enroll in a demand response program by default. Specifically, the PD should be
+revised to state:
+“Any application for an extensions to a pilot or program should demonstrate that… 2) the
+extension makes modifications to align with the recent decision requiring SCE Charge Ready
+2 customers to enroll in a demand response program by default Vehicle-Grid Integration
+(VGI) Working Group’s load management guidance,” 4
+IV. VGIC WOULD LIKE TO CLARIFY ITS OPENING COMMENTS
+REGARDING SEPARATION OF ELECTRIC VEHICLES FROM OTHER
+LOADS AND RESOURCES.
+In opening comments, VGIC recommended the Commission consider TE programs, pilots,
+and rates that do not separate EVs from other behind-the-meter loads and resources. VGIC would
+like to clarify that there are a set of issues that can generally be broken down into two categories:
+1. Separating EVs from site load limits the opportunity for EVs to support VGI
+applications, including demand response, customer bill management, and backup
+power.
+2. Separating EVs from other BTM DERs limits the opportunity for EVs to support
+customer self-supply of renewables.
+3 VGIC Comments at 6.
+4 PD at 26.
+4
+
+In opening comments, ChargePoint recommended the Proposed Decision “apply the
+Commission’s resolution of EVSE submetering to all utility TE programs going forward.”5 VGIC
+believes the Commission could address the separation of EVs from site load by disposing of
+pending issues in the development of an EV Submetering Protocol, per ChargePoint’s
+recommendation. Future TE programs, pilots, and rates should be designed to incorporate
+submetering approaches as an alternative to separately-metered EVSE. Regarding the separation
+of EVs from other BTM DERs, VGIC acknowledges that there are several complex issues that
+should be worked out, including but not limited to interactions of the following with TE programs:
+Net Metering policies, other applicable DER rate design, and the Self Generation Incentive
+Program.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on Near-Term
+Priorities for TE. We look forward to further collaboration with the Commission and
+stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+5 ChargePoint Comments at 13.
+5
+
+June 28, 2021
+6

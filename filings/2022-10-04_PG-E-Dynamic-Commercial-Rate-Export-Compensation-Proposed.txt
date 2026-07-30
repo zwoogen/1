@@ -1,0 +1,78 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL ON PROPOSED
+DECISION ADOPTING SETTLEMENT ON EXPORT COMPENSATION FOR
+CERTAIN PACIFIC GAS AND ELECTRIC COMPANY CUSTOMERS
+Ed Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+Vehicle Grid Integration Council
+10265 Rockingham Dr., Suite #100-4061
+Sacramento, CA 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+October 4, 2022
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL ON PROPOSED
+DECISION ADOPTING SETTLEMENT ON EXPORT COMPENSATION FOR
+CERTAIN PACIFIC GAS AND ELECTRIC COMPANY CUSTOMERS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (“VGIC”) hereby submits
+these comments on the Proposed Decision Adopting Settlement on Export Compensation for
+Certain Pacific Gas and Electric Company (“PG&E”) Customers, issued on September 14, 2022.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+II. VGIC SUPPORTS ALJ DOHERTY’S TIMELY APPROVAL OF THE
+UNCONTESTED SETTLEMENT ON EXPORT COMPENSATION.
+VGIC supports the Proposed Decision’s (“PD”) approval of the settlement agreement to
+establish export compensation rules for non-net energy metering (“Non-NEM”) customers taking
+2
+
+service under PG&E’s Day-Ahead Hourly Real-Time Pricing (“DAHRTP”) rate. As one of the
+four parties involved in the settlement, VGIC believes it represents meaningful progress toward
+maximizing VGI, as required under Senate Bill 676. Through the timely implementation of export
+compensation for non-NEM DAHRTP customers, PG&E can offer customers real-time export
+rates that may lead to reduced system costs and, in turn, prices for all ratepayers. VGIC believes
+the PD correctly finds the export compensation settlement agreement reasonable, lawful, and in
+the public interest. While other pathways for export compensation for EV customers may now or
+soon be available, for example, PG&E’s VGI pilots and Emergency Load Reduction Program
+(“ELRP”), the non-NEM DAHRTP export compensation rate offers another vital option for
+customers to choose from. Notably, participating EV charging customers with co-located or
+integrated distributed energy resources will have a unique opportunity to fully leverage their on-
+site devices to support the grid through exports. Moreover, the non-NEM DAHRTP export
+compensation rate design does not cap the amount of money a given customer can earn from
+providing grid exports, whereas PG&E’s VGI pilots impose a per-customer cap on upfront and
+ongoing performance incentives.1 As such, VGIC reiterates its strong support for establishing the
+non-NEM DAHRTP export compensation rate in addition to PG&E’s VGI Pilots and ELRP, as
+these options promote customer choice, support the VGI market during this critical early stage,
+and can yield significant learnings about the relative benefits of different rate and program designs.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+1 See PG&E’s Advice Letter 6637-E, “Justification for PG&E’s V2X Pilot 2 (Commercial Fleets Pilot).” Disposition
+Letter Accepting the Advice Letter was issued on August 12, 2022.
+3
+
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+Vehicle Grid Integration Council
+October 4, 2022
+4

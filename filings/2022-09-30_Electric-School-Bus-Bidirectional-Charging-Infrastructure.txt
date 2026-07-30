@@ -1,0 +1,251 @@
+Comments of the Vehicle Grid Integration Council (VGIC) on the California Energy
+Commission (CEC) Electric School Bus Bidirectional Infrastructure Funding Concept
+Workshop
+Docket # 19-TRAN-02
+Medium- and Heavy-Duty Zero-Emission Vehicles and Infrastructure
+Ed Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+VEHICLE GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Filed: September 30, 2022
+Comments submitted via:
+https://efiling.energy.ca.gov/EComment/EComment.aspx?docketnumber=19-TRAN-02
+
+September 30, 2022
+I. Introduction
+The Vehicle Grid Integration Council (“VGIC”)1, a 501(c)6 membership-based advocacy
+group, is pleased to provide comments in response to the California Energy Commission (“CEC”)
+Workshop on Electric School Bus Bidirectional Infrastructure Funding Concept hosted on
+September 13, 2022.
+VGIC is committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid
+integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring the value
+from EV deployments and flexible EV charging and discharging is recognized and compensated
+to achieve a more reliable, affordable, and efficient electric grid.
+II. Recommended enhancements to the Electric School Bus Bidirectional
+Infrastructure Funding Concept.
+VGIC greatly appreciates the CEC staff’s focus and thoughtful development of the funding
+concept presented during the September 13th workshop. VGIC generally supports the funding
+concept but recommends targeted modifications and enhancements to address critical gaps in the
+VGI market, detailed below.
+A. Funding Level
+VGIC supports the CEC staff’s funding concept but recommends that a higher level of
+funding is provided. Bidirectional charging equipment can unlock:
+ Customer and community resilience by providing clean, low-cost backup power
+solutions
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Customized Energy Solutions,
+dcbel, Enel X North America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor
+Company, FreeWire Technologies, Inc., General Motors, Kaluza, Nissan Group of North America, Nuvve Holding
+Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd, The Mobility House,
+Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed
+in these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC
+member companies or supporters. (https://www.vgicouncil.org/)
+Vehicle Grid Integration Council Page 2 of 8
+www.vgicouncil.org
+
+September 30, 2022
+ Customer bill management opportunities by discharging from a vehicle to meet site
+load, performing energy arbitrage or demand charge management through vehicle-to-
+building (“V2B”) discharge
+ Revenue generation for customers and support for grid reliability and renewable energy
+integration through vehicle-to-grid (“V2G”) exports. Customers can currently
+participate in the ELRP EV/VGI Aggregation pathway and PG&E’s V2G Pilots.
+Additionally, VGIC expects PG&E’s pending Day-Ahead Hourly Real Time Pricing
+(“DAHRTP”) V2G export compensation mechanism settlement will be approved by
+the CPUC on October 20th, which would provide the first compelling year-round V2G
+export opportunity for customers as early as October 2023.2 Lastly, SDG&E’s
+anticipated Export Compensation Pilot3 and the CPUC staff’s proposed CalFUSE
+concept4 will likely provide additional opportunities for export compensation soon.
+Despite the customer and grid benefits of bidirectional charging, deployment numbers and product
+offerings remain relatively nascent. The incremental costs of installing bidirectional chargers
+instead of unidirectional charging remain high – prohibitive in many cases. The CEC’s proposed
+funding concept will provide much-needed support to reduce the costs of purchasing and installing
+bidirectional chargers and associated electrical equipment, including traditional make-ready
+infrastructure and automatic transfer switches for backup power use cases. Bidirectional charging
+equipment is not currently given incrementally higher funding under other CEC rebates or make-
+ready programs. Although it is a type of energy storage, bidirectional charging equipment is not
+deemed eligible for California’s Self-Generation Incentive Program. There exists an uneven level
+of access to funding for bidirectional charging equipment compared to other charging equipment
+and other energy storage systems. To level the playing field, the proposed funding concept would
+provide $2-3 million per project for an expected 3-5 projects through a one-time grant funding
+2 Proposed Decision Adopting Settlement on Export Compensation for Certain Pacific Gas and Electric Company
+Customers. September 14, 2022. http://docs.cpuc.ca.gov/SearchRes.aspx?DocFormat=ALL&DocID=496924142
+3 Prepared Supplemental Direct Testimony of Jeff DeTuri (Chapter 1) on Behalf of San Diego Gas & Electric
+Company. August 15, 2022.
+https://www.sdge.com/sites/default/files/regulatory/A2212016%20and%20RM_SDGE%20RTP%20Supplemental%
+20JDTuri%20Chpt%201%20-%20Policy.pdf
+4 Advanced Strategies for Demand Flexibility Management and Customer DER Compensation. June 22, 2022.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-
+response/demand-response-workshops/advanced-der---demand-flexibility-management/ed-white-paper---
+advanced-strategies-for-demand-flexibility-management.pdf
+Vehicle Grid Integration Council Page 3 of 8
+www.vgicouncil.org
+
+September 30, 2022
+opportunity (“GFO”). VGIC believes successful execution of the proposed funding concept will
+yield significant benefits, including:
+ Accelerate the electric school bus transition by lowering the total cost of ownership
+for school bus fleets and, in turn, mitigating harmful pollution for society’s most
+vulnerable and, in turn, reducing adverse health impacts for students
+ Support the decarbonizing power grid by utilizing batteries that reduce the need for
+natural gas peaker plants and facilitate additional deployment of renewable energy
+resources
+ Improve customer and community resiliency, for example, during public safety
+power shutoffs
+ Aid the grid when reliability is most threatened, for example, during increasingly
+common extreme heat events
+ Increase affordability of electricity by deferring or avoiding local distribution grid
+infrastructure upgrades
+ Fostering economic activity for California-based VGI companies and their employees
+Given the broad scope of these benefits, VGIC urges the CEC to think expansively and take bold
+action to support bidirectional charging infrastructure deployment and accelerate the deployment
+of electric school buses broadly. For local education agencies, the decision to electrify their fleet
+may initially seem obvious but is often abandoned once the total costs of doing so are made clear.
+An essential tool to overcome this “sticker shock” is to unlock additional value propositions
+through V2G export revenue opportunities and V2B backup power. Over time, VGIC expects
+economies of scale and increased product offerings to reduce the costs of bidirectional charging
+infrastructure. Meanwhile, California’s load-serving entities, the California Public Utilities
+Commission, and CAISO will continue collaborating to expand access to V2G export options.
+However, today’s V2G market remains relatively nascent.
+VGIC recommends allocating significantly more funding for this GFO. Additionally, the
+CEC should consider conducting a series of GFOs or establishing an ongoing bidirectional
+charging infrastructure rebate program specifically marketed to school buses, rather than a single,
+one-off $10 million GFO. VGIC notes the CEC has recently issued a proposed V2G equipment
+adder funding concept and believes the two concepts could be merged into one much larger rebate
+Vehicle Grid Integration Council Page 4 of 8
+www.vgicouncil.org
+
+September 30, 2022
+program, perhaps with carveouts for certain use cases (e.g., school bus vs non-school bus). The
+CEC could maintain flexibility to modify those carveouts at regular intervals (e.g., every two
+years) based on the remaining budget and deployment levels for each use case. This would ensure
+the critical benefits of V2G are realized much sooner.
+B. Project Location Eligibility
+VGIC appreciates the CEC’s focus on supporting resiliency in high fire threat districts
+(“HFTD”) and agrees that bidirectional charging infrastructure is a critical part of the resiliency
+toolkit. VGIC supports requiring the infrastructure to be “for either V2B or V2G utilization.”5
+However, VGIC is concerned that limiting eligible projects to HFTD will impose a de facto
+prioritization of V2B. This will result in missed opportunities to support the grid through V2G in
+other locations, for example, congested areas of the grid where V2G exports may be especially
+valuable in meeting local demand. Moreover, selecting sites and partnering with local education
+agencies can be challenging in this early stage of market development. VGIC is concerned that the
+proposed location requirements may make it more challenging to deploy bidirectional charging
+infrastructure. Additionally, CEC staff presented a map of CAPCOA Small and Medium Air
+Districts overlaid on a map of Tier 2 and Tier 3 HFTD. VGIC is unsure whether CEC is proposing
+to further limit siting eligibility to locations that fall within both maps, and if so, the justification
+for doing so is unclear.
+VGIC encourages the CEC to avoid unnecessary siting restrictions that may only limit the
+benefits and total deployment of bidirectional charging infrastructure. While we understand there
+may be intent to prioritize the most vulnerable communities, this should be accomplished through
+a scoring mechanism rather than explicitly excluding certain areas. VGIC strongly recommends
+that the CEC not limit project eligibility to Tier 2 or Tier 3 HFTD or the CAPCOA Map of Small
+and Medium Air Districts.
+C. Minimum Bus Quantity
+5 Funding Concept Slide 12.
+Vehicle Grid Integration Council Page 5 of 8
+www.vgicouncil.org
+
+September 30, 2022
+During the workshop, CEC staff proposed requiring local education agencies to “own and
+operate a minimum of 10 bi-directional-capable electric school buses.”6 VGIC understands the
+CEC’s intent to tap into significant energy storage capacity through this funding concept.
+However, many school districts want to electrify their fleets incrementally over time. Finding a
+local education agency that is planning to start out with 10 buses from the outset maybe
+challenging. Therefore, VGIC believes the 10-bus minimum requirement may make it more
+difficult to find sites and effectively achieve the funding concept’s goals.
+D. Charging Equipment Capacity
+Not all available bidirectional chargers – of which there is only a handful on the market –
+would meet the proposed 60 kW minimum charging requirement. While some school buses have
+large batteries and range, others operate on shorter routes and may use low-power DC. However,
+these smaller battery buses and low-power bidirectional chargers can still provide V2B and V2G
+services and should be considered eligible under this funding concept. Notably, these smaller
+vehicles and chargers need similar electrical infrastructure upgrade costs. VGIC respectfully
+requests that the CEC not impose any minimum charging requirement. Alternatively, VGIC
+believes that the CEC could set a minimum charging requirement based on an analysis of
+commercially available and upcoming bidirectional charging equipment to ensure the funding
+requirements do not inadvertently pick market winners.
+E. Charging Equipment UL Certification
+The proposed funding concept would require that bidirectional chargers be certified to UL
+1741 SB. Meanwhile, in the case of the investor-owned utility’s Emergency Load Reduction
+Programs (“ELRP”), sites interconnecting to bidirectional DC chargers need to be certified to UL
+1741, but not UL 1741 SA, UL 1741 SB, or any updated smart inverter standards established by
+the Smart Inverter Working Group.7 Moreover, V2X DC sites interconnecting with investor-
+owned utilities for purposes other than ELRP would need to have EVSE certified to UL 1741 SA,
+6 Funding Concept Slide 14.
+7 Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California Edison Company, and San Diego
+Gas & Electric Company to Take Actions to Prepare for Potential Extreme Weather in the Summers of 2022 and
+2023. December 6, 2021. Attachment 1 at page 6.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821668.PDF
+Vehicle Grid Integration Council Page 6 of 8
+www.vgicouncil.org
+
+September 30, 2022
+but not necessarily SB, due to the 5-year grace period extended to V2X DC to meet applicable
+standards.89 To remain consistent with the CPUC’s findings regarding the applicability of UL 1741
+SB to bidirectional charging equipment, VGIC believes that the defining eligibility requirement
+for the bidirectional charger rebate should instead be based on whether a bidirectional charger can
+seek interconnection with a utility for its intended use case. This approach recognizes the CPUC’s
+authority over the interconnection process and works to reference the existing interconnection
+requirements. As such, VGIC strongly urges the CEC to remove the proposed UL 1741 SB
+requirement and instead provide funding to sites that meet the relevant interconnection rule for
+that distribution utility, which may or may not require certification to UL 1741 SB.
+F. ELRP Capability Requirement
+During the workshop, CEC staff detailed the proposed requirement that eligible equipment
+must be “capable of responding to ELRP events.” 10 VGIC questions this requirement, given that
+any individual site with a charger connected to the grid is “capable of responding” to an ELRP
+event and may do so if enrolled in an ELRP Group A.5 Aggregation. ELRP does not impose
+specific technology or minimum size requirements on individual sites. ELRP does require that
+aggregations be capable of providing 25 kW of incremental load reduction (“ILR”) for at least one
+hour. Still, this requirement applies to the entire aggregation rather than individual sites.
+Moreover, VGIC advises against requiring sites to participate in ELRP, specifically. Notably,
+PG&E’s commercial dynamic export compensation mechanism, expected to be adopted on
+October 20th and offered in Q4 2023, prohibits participation in ELRP but provides significant
+opportunities for V2G grid support.11 Additionally, more export compensation options may be
+made available through new rates, programs, or direct wholesale market integration, and V2G
+school buses should be able to switch to another option once it is available in the future. With this
+8 Resolution E-5165. Approval, with Modifications, of Vehicle-to-Grid Implementation Plans and Technical
+Requirements in Compliance with Decision 20-09-035. Page 6.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M420/K860/420860657.PDF
+9 Resolution E-5165. Approval, with Modifications, of Vehicle-to-Grid Implementation Plans and Technical
+Requirements in Compliance with Decision 20-09-035.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M420/K860/420860657.PDF
+10 Funding Concept Slide 15.
+11 Proposed Decision Adopting Settlement on Export Compensation for Certain Pacific Gas and Electric Company
+Customers. September 14, 2022. http://docs.cpuc.ca.gov/SearchRes.aspx?DocFormat=ALL&DocID=496924142
+Vehicle Grid Integration Council Page 7 of 8
+www.vgicouncil.org
+
+September 30, 2022
+in mind, VGIC recommends that the CEC not require that sites enroll in ELRP specifically, but
+rather that sites must enroll in either an existing or anticipated export compensation rate or
+program. The CEC should also specify that sites may switch to another export compensation rate
+or program in the future. Alternatively, the CEC should consider allowing sites to submit an
+attestation confirming they will enroll in an export rate or program within the next three years and,
+in the interim, will use the device for V2B discharging to manage their utility bill or provide backup
+power. This ensures that deployed V2X chargers are ultimately used to support the grid while
+recognizing that there are limited near-term V2G export options.
+G. Co-Located and Integrated Renewable Generation and other Distributed Energy
+Resources
+VGIC supports the proposed provision that the procurement and installation of renewable
+generation and other distributed energy resources be deemed eligible under this funding concept.
+Stationary energy storage integrated or co-located with EVSE can, in many cases, facilitate a lower
+cost and faster installation of EVSE. For example, integrated or co-located storage can allow new
+EVSE to be placed on an existing service and avoid or defer transformer upgrades. In the case of
+V2G EVSE, the benefits of integrated or co-located storage may be particularly high when on-site
+renewable generation is also present, as both the EV and stationary storage can self-consume the
+renewable generation and then export significant amounts of energy to meet local or system needs
+during peak hours.
+III. Conclusion
+VGIC appreciates the leadership of the CEC in hosting the September 13th workshop and
+developing the funding concept. We look forward to further collaboration with the CEC and other
+stakeholders on this critical initiative.
+Respectfully submitted,
+ED BURGESS
+Vehicle Grid Integration Council Page 8 of 8
+www.vgicouncil.org

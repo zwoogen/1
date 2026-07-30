@@ -1,0 +1,208 @@
+September 6, 2024
+The Honorable Janet Yellen
+Secretary
+U.S. Department of the Treasury
+1500 Pennsylvania Avenue, NW
+Washington, DC 20220
+The Honorable Daniel Werfel
+Commissioner
+Internal Revenue Service
+1111 Constitution Avenue, NW
+Washington, DC 20224
+Dear Secretary Yellen and Commissioner Werfel,
+On October 5, 2022, the Department of Treasury (Treasury) issued six notices to inform the
+implementation of key clean energy provisions of the historic Inflation Reduction Act (IRA),
+including § 30C, which extended and modified the Alternative Fuel Vehicle Refueling Property
+tax credit. In the factsheet that accompanied those notices, Treasury committed to “work
+expeditiously to provide clarity and certainty to taxpayers, so the climate and economic benefits
+of this historic legislation can be felt as quickly as possible.” Treasury and the Internal Revenue
+Service (IRS) partially delivered on this promise for the § 30C tax credit in January 2024 by
+providing initial guidance (Notice 2024-20) defining census tracts eligible for § 30C. This was a
+critical step to realizing the vision of the IRA and we strongly support Notice 2024-20’s inclusive
+4
+
+approach that will ensure more American consumers and business qualify for the tax credits.
+However, more guidance is needed to allow taxpayers to take advantage of this important policy.
+We urge Treasury and IRS to define single item of property, capitalization of costs, and
+low-population census tracts so that the rulemaking process can begin and guidance can be
+finalized and implemented by the end of this tax year, allowing people and businesses to
+access this vital tax credit.
+Urgency of Action
+The IRA was signed into law nearly two years ago and since has spurred unprecedented private
+investment through strategic tax credits. However, the lack of guidance on critical aspects of §
+30C is stalling investment in public and residential EV charging infrastructure in non-urban and
+low-income areas, which is a key factor in achieving the Administration’s vehicle emission
+standards and electrification and equity goals. Although Treasury and the IRS have announced
+their intent for a rulemaking for § 30C, additional needed guidance on the topics detailed below
+should be proposed as soon as possible. Without preliminary guidance proposed in the next
+month, charging credits from public charging infrastructure deployed in tax year 2023 could
+potentially be rendered valueless to those looking to claim them.
+In addition to issuing preliminary guidance within a month on the issues discussed below,
+Treasury and IRS should also file a Notice of Proposed Rulemaking to provide appropriate time
+for a public comment period while ensuring a final rule is released by the end of the tax year.
+Having finalized guidance for all aspects of § 30C by December 31, 2024 will allow individuals
+and businesses to begin claiming the credit on their 2024 taxes and invest in much needed new
+infrastructure with certainty.
+Single Item
+Treasury and IRS must clarify the definition of a “single item” of qualified alternative fuel
+vehicle refueling property. This definition should align with the Federal Highway
+Administration’s definition of a charging port for the National Electric Vehicle Infrastructure
+Program, which considers a port as a system within a charger that can charge only one EV at a
+time, even if it has multiple connectors.1 It should be flexible enough to accommodate both
+current practices and future developments in the industry, recognizing that some chargers can
+serve multiple EVs simultaneously through shared infrastructure, which offers significant cost
+savings. To illustrate, if a charger has two connectors and can charge two EVs simultaneously
+(e.g. a 350 kilowatt or “kW” fast charger can charge one vehicle at 350 kW or two vehicles at
+175 kW), it should be considered two single items, each of which should be subject separately to
+the credit cap. This definition also aligns with common practices in state-administered charging
+1 23 CFR Part 680 https://www.ecfr.gov/current/title-23/chapter-I/subchapter-G/part-680
+5
+
+programs, such as those in California,2 North Carolina,3 and Ohio.4 This approach will help
+ensure the § 30C tax credits effectively promote the installation of flexible, cost-efficient EV
+charging infrastructure.
+Capitalization
+Treasury should issue additional guidance that outlines which costs should be capitalized,
+including both direct and indirect costs. This new guidance should align with that of Notice
+2007-43 from the prior iteration of § 30C, and it should build on prior guidance to provide
+further detail and be tailored to the specific requirements and uses of alternative fuel refueling
+property. The guidance should confirm that federal capitalization rules under § 263A apply,
+requiring taxpayers to capitalize all direct and most indirect costs related to the production of the
+refueling property.5 Direct costs encompass materials integral to the property, such as hardware
+(e.g. display, energy storage, power outlets), software (e.g. networking, charge management), and
+installation costs. Indirect costs include labor, replacement hardware, construction (e.g. boring,
+trenching, electrical connections), transaction, and transportation costs. This way, the true cost of
+installing charging infrastructure can be considered when determining the appropriate credit
+amount.
+Low-population Census Tracts
+In Notice 2024-20, Treasury specifically highlighted that it had not determined a clear
+interpretation as to how the New Market Tax Credit (NMTC) rules under § 45D could be applied
+to § 30C geographic eligibility. This section is important as it will influence which communities
+can take advantage of the § 30C credit. Section 45D defines a census tract as a “low-income”
+community through four metrics, one of which is § 45D (e)(4), “If a census tract has less than
+2,000 individuals within it, it may be treated as low-income if: 1) it is in an ‘empowerment
+zones’ as defined in Section 1931 AND 2) it is contiguous to another tract identified as low-
+income.” The inclusion of low-population census tracts adjacent to low-income tracts in the §
+30C program would open the program to industrial areas that are in urban areas and therefore
+would be otherwise excluded from § 30C eligibility. Many industrial zones have low or no
+population in terms of residents but are located adjacent to historically disadvantaged and low-
+income communities. Extending the § 30C tax credit to these areas will help electrify freight in
+areas with historically poor air quality often caused by diesel truck pollution. Performing a
+2 Implementation Manual for Alameda County Incentive Project https://calevip.org/sites/default/files/docs/alameda-
+county/implementation-manual.pdf
+3 Request for Proposals Phase 2 Zero Emission Vehicle Infrastructure Program DC Fast Charging Stations Priority
+Corridors GMS Program ID: NCDEQDAQ0007 https://www.deq.nc.gov/air-quality/mobile/volkswagen/phase-2/nc-
+phase-2-zev-dc-fast-priority-corridors-program-rfp/download?attachment
+4 Diesel Mitigation Trust Fund (DMTF) DC Fast Charging Grant Program Request for Applications
+https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/42/documents/DMTF/DMTF-EVSE-DCFC-RFA.pdf
+5 Producer’s 263A Computation, https://www.irs.gov/pub/fatca/int_practice_units/producer_263a_computation.pdf
+6
+
+simple spatial analysis with publicly available data6, we have identified 10 census tracts7 that: 1)
+do not currently qualify for the § 30C tax credit based on Treasury’s most recent maps; 2) have a
+population of less than 2,000 individuals; 3) are within an “empowerment zone;” and 4) share
+part of their border with one or more tracts that currently qualify for 30C via their status as an
+NMTC low-income tract. To illustrate, one of these tracts (Census Tract ID = 24510250600) is
+within the Port of Baltimore and contains many auto warehouses, logistics centers, a harbor, etc.
+It is not “rural” despite the fact it has no residents, but it is not a high-income urban tract, and the
+industrial activities it houses directly impact neighboring low-income communities. Ensuring
+that tracts under § 45D (e)(4) are considered low-income aligns with Treasury’s guiding principle
+for the implementation of the IRA of “ensuring that as many eligible taxpayers as possible
+benefit from the incentives provided by the law while protecting against fraud and abuse.”
+Thank you for your leadership in implementing key provisions of the historic IRA. In line with
+the momentous nature of the law and spirit of the statute, we urge Treasury and IRS to issue
+guidance on these final, necessary pieces, consistent with the recommendation contained in this
+letter so taxpayers can access these tax credits to plan and make significant investments to install
+charging infrastructure with the full certainty of clear finalized guidance.
+Sincerely,
+Max Baumhefner Jordan Brinn
+Senior Attorney Clean Vehicles & Infrastructure Advocate
+Natural Resources Defense Council Natural Resources Defense Council
+Dan Bowerson Craig Segall
+Senior Director, Environment & Energy Vice President
+Alliance for Automotive Innovation Evergreen Action
+Marco Sylvester Trisha Dellolacono
+Policy Advisor Head of Policy
+Powering America’s Commercial Transportation CALSTART
+6 Using RStudio and R packages (primarily the ‘sf’ package), we started by joining census data from the American
+Community Survey 2020 5-year (ACS5) to the existing 30C census tract data available to download from Argonne
+National Lab (ANL). We then identified census tracts that did not qualify by either non-urban or low-income criteria
+(as is noted in the ANL data) and that have a population of less than 2000 (determined using the joined ACS5 data).
+Once we had this subset of tracts that currently do not qualify for 30C and have a population less than 2000, we used
+joining functions to examine each of these tracts and find how many, if any, census tracts that qualify via their low-
+income status (NMTC) share at least one point of their boarder with the tract being examined. We then added a
+column to the dataset with the number of adjacent NMTC-qualifying census tracts. From there, we further joined
+this dataset with HUD Empowerment Zone data (publicly available on the HUD Open Data Site). By the end of this
+process, we had an CSV file that identified census tracts by ID number, state, and county, flagged via 0 for false, 1
+for true each census tract’s 1) current 30C qualification status via non-urban, 2) current 30C qualification status via
+low-income, and 3) population under 2000, and listed the total number of low-income qualifying tracts sharing a
+boarder as well as HUD Empowerment Zone status. This file was filtered to identify the 10 tracts that we believe
+should qualify via low-population status as determined by § 45D (e)(4).
+7 11-digit FIPS codes for the identified tracts: 05119002500, 17031381200, 17031381700, 17031390100,
+24510250600, 36061029700, 36061031100, 36067000100, 39061001000, 40109101200
+7
+
+Emily Kelly Margarita Parra
+Senior Manager, Public Policy Director of Transportation Decarbonization
+ChargePoint Clean Energy Works
+Athena Motavvef Genevieve Cullen
+Legislative Representative President
+Earthjustice Electric Drive Transportation Association
+Anne Blair Alice Henderson
+Vice President of Policy Director & Lead Counsel, Transportation and Clean Air Policy
+Electrification Coalition Environmental Defense Fund
+Dan Schweizer, JD/MBA Vanessa Warheit
+Head of Policy and Regulatory National Lead
+Zeem EV Charging for All
+Andrea Marpillero-Colomina, PhD. Steve Letendre
+Sustainable Communities Program Director Senior Director of Regulatory Affairs
+Green Latinos Fermata Energy
+Kenneth W. Cooper Kelsey G. Johnson
+International President Senior Lead Policy Advisor
+International Brotherhood of Electrical Workers Rivian
+Nathan King Darien Davis
+Co-Founder/CEO Government Affairs Advocate, Climate & Clean Energy
+Itselectric League of Conservation Voters
+Paige Anderson Mahlon Aldridge
+Director, Government Relations Vice President of Strategy
+National Association of Convenience Stores Ecology Action
+Albert Gore Ryan Gallentine
+Executive Director Managing Director
+Zero Emission Transportation Association Advanced Energy United
+Jamie Hall Sven Thesen
+Director of Policy Founder
+EV Realty Project Green Home
+Kevin Maggay Ingrid Malmgren
+Senior Manager, Public Policy Policy Director
+Navistar Plug in America
+Kelsey G. Johnson Katherine Garcia
+Senior Policy Advisor Director, Clean Transportation for All
+Rivian Sierra Club
+Clay Stranger Samantha Houston
+Managing Director, Carbon-Free Transportation Senior Analyst
+RMI Union of Concerned Scientists
+Sam Vercellotti Chris Rall
+Senior Policy Manager Outreach Director
+TeraWatt Transportation for America
+8
+
+Raghav Murali Rachel Alland
+Director, Policy and Government Affairs Transportation Director
+EDF Powerflex American Council for an Energy-Efficient Economy
+Steven Montoya Adam Browning
+Executive Director Executive Vice President, Policy & Communications
+Transportation Energy Partners Forum Mobility
+Michelle Avary Zach Woogen
+VP External Affairs North America Interim Executive Director
+Einride Vehicle-Grid Integration Council
+Aravind Kailas Alleyn Harned
+Advanced Technology Policy Director Executive Director
+Volvo Group North America Virginia Clean Cities
+Josh Cohen Jacqueline Altschuler
+Head of Policy Manager, Federal Policy
+SWTCH Energy Ceres
+Jenifer Bosco David H. Fialkov
+Senior Attorney Executive Vice President, Government Affairs
+National Consumer Law Center (on behalf of its NATSO, Representing America's Travel Centers and Truck Stops
+low-income clients) SIGMA: America's Leading Fuel Marketers
+9

@@ -1,0 +1,233 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+03/27/25
+Order Instituting Rulemaking to Establish Rulemaking 24-01-018
+04:59 PM
+Energization Timelines. (Filed January 25, 2024)
+R2401018
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGE’S RULING CLARIFYING NEXT STEPS FOR
+FLEXIBLE SERVICE CONNECTIONS, MODIFYING PHASE 2 SCHEDULE, AND
+REQUESTING PARTY COMMENTS
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: March 27, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Establish Rulemaking 24-01-018
+Energization Timelines. (Filed January 25, 2024)
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGE’S RULING CLARIFYING NEXT STEPS FOR
+FLEXIBLE SERVICE CONNECTIONS, MODIFYING PHASE 2 SCHEDULE, AND
+REQUESTING PARTY COMMENTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments to the Administrative Law Judge’s Ruling Clarifying Next Steps for Flexible
+Service Connections, Modifying Phase 2 Schedule, and Requesting Party Comments (“Ruling”)
+filed by Administrative Law Judge (“ALJ”) Justin Regnier on February 7, 2025, Email Ruling
+Correcting Error in the February 7, 2025, Administrative Law Judge’s Ruling Re: Filing Date For
+Reply Comments filed by ALJ Carolyn Sisto and ALJ Justin Regnier on February 10, 2025, and
+E-Mail Ruling Granting Schedule Amendment filed by ALJ Justin Regnier on February 20, 2025.
+I. OPENING COMMENTS REVEAL A SIGNIFICANT DIFFERENCE IN THE
+CURRENT IMPLEMENTATION AND FUTURE VISION OF FLEXIBLE
+SERVICE CONNECTION BETWEEN PG&E AND SCE.
+Opening comments, namely from Pacific Gas and Electric (“PG&E”) and Southern
+California Edison (“SCE”) reveal disjointed approaches to flexible service connection (“FSC”).
+While VGIC has been able to gain a high-level understanding of PG&E and SCE’s pilots through
+anecdotal evidence gathered from its members, conversations with PG&E and SCE staff, and the
+utilities’ July 8, 2024 filings in R.21-06-017, VGIC is struck by the different interpretations the
+2
+
+two utilities employ in opening comments. Specifically, PG&E notes that UL 3141-certified
+equipment is not required to implement safe FSC, while SCE states it is absolutely required. Based
+on this difference, VGIC posits PG&E may be operating with more caution, offering customers
+load limits that yield a larger “buffer” for its distribution grid. This would preserve more headroom
+on its distribution assets relative to SCE. In this way, it is possible that SCE is permitting far more
+FSC per site/project than PG&E, and, as a result, PG&E ratepayers may be missing out on
+opportunities to stave off unnecessary costs and benefit from transportation electrification per SB
+350 and other state policy goals.
+On the other hand, given the requirement for UL 3141, SCE may be enabling fewer FSC
+opportunities than PG&E overall in the near-term, as UL 3141 is a new standard that site
+developers and technology providers may not yet be capable of implementing at scale. In contrast,
+PG&E’s ability to advance FSC sites that do not utilize UL 3141 may be enabling more
+electrification and distribution deferral/avoidance overall. This could be a contributing factor to
+the disparate FSC site counts presented by each utility: over a hundred for PG&E and eleven for
+SCE.1
+Yet another potential explanation for the vast difference in FSC site counts is that PG&E’s
+service territory may be experiencing significantly more EV service requests at locations with grid
+constraints, whereas SCE may have EV charging site requests at more areas with more available
+capacity.
+Ultimately, VGIC concedes that no party other than the utilities possesses the visibility to
+assess which of these cases is true. The inherent information asymmetry (i.e., the absence of real-
+time, high-accuracy integration capacity analysis (ICA) data portals) surrounding this issue hinders
+1 PG&E Opening Comments at 4 and SCE Opening Comments at 5.
+3
+
+parties’ ability to interpret the relative effectiveness of each utility’s approach. With this in mind,
+and considering the imperative to accelerate energization timelines and reduce ratepayer risk
+associated with the up to $50 billion in estimated distribution system upgrade costs,2 VGIC urges
+the Commission to consider the utilities’ approaches with the express aim of ensuring that the most
+fundamental elements of flexible service connection are consistent across these two major
+investor-owned utilities.
+In the below reply comments, VGIC offers recommendations to better align each approach
+and, critically, to ensure clear reporting on the use of FSC within each utility service territory. In
+considering these and other party recommendations, we respectfully caution the Commission
+against overlooking the importance of establishing consistency in favor of addressing the issue in
+a timely manner. In other words, the Commission should balance the urgent need to establish FSC
+options with the criticality of ensuring these options are scalable and consistent across utilities.
+II. RESPONSE TO COMMENTS AIMING TO CREATE CONSISTENCY ACROSS
+FLEXIBLE SERVICE CONNECTION OFFERINGS PROVIDED BY EACH
+UTILITY.
+VGIC agrees with those parties suggesting that FSC offerings and enrollment processes be
+made as consistent as possible across IOU service territories. While VGIC acknowledges that the
+IOUs are at different stages of FSC development and deployment, there is significant value in
+establishing a uniform foundation for FSC implementation statewide.
+VGIC understands that the current status of FSC offerings are:
+• PG&E:
+2 CPUC / Kevala Energy Impact Study Phase 1.
+4
+
+o Offering static, firm Limited Load Profiles (“LLPs”) and FSC via Load Limit
+Letters. These typically use a 4-value LLP with two seasons and two time periods
+- restricted and unrestricted.
+o PG&E also offers a dynamic, non-firm LLP layered on top of static limits through
+its Flex Connect pilot, which provides hourly LLPs communicated daily.
+• SCE:
+o Offering static, firm LLPs and FSC through the Localized Autonomous LCMS
+pilot, typically a 6-value LLP with three seasons and two time periods - restricted
+and unrestricted.
+o SCE is working to offer a dynamic, non-firm LLP through a Communications-
+Based LCMS, but still requires additional DERMS capabilities to be implemented
+before rolling this out to customers.
+• SDG&E: Does not offer any FSCs at this time.
+VGIC believes that it is appropriate for the utilities to move forward with FSC implementation at
+different paces if they have different technical capabilities. For example, PG&E should continue
+to move forward with the implementation of dynamic LLPs through its Flex Connect pilot, even
+if the other IOUs do not currently have the technical capability to offer this.
+That said, VGIC strongly urges the Commission and IOUs to coordinate on standardizing FSC
+offerings wherever feasible. At a minimum, the following elements should be aligned:
+• Universal Static, Firm LLP Offerings: All IOUs should offer a basic, static, firm LLP
+option with a simple value structure. PG&E and SCE already provide this, and a
+comparable offering should be introduced in SDG&E territory.
+5
+
+• Customer Agreements: Forms and participation agreements for FSCs should be
+consistent across utilities. SCE’s Form 16-332 provides a template, and VGIC assumes
+PG&E has a similar agreement associated with its Load Limit Letters and Flex Connect
+pilot. Standardizing these forms will improve transparency and facilitate participation for
+customers operating in multiple IOU territories.
+• Terms for Modifying Firm Limits: SCE’s current LCMS pilot allows the utility to
+modify firm limits at its sole discretion, and it is unclear if PG&E has similar terms in its
+FSC agreements or Load Limit Letters. This practice raises reliability concerns for
+customers, especially EV fleet operators, who depend on assured import capabilities. VGIC
+agrees with IREC that the ability to modify static, firm LLPs should be limited to clearly
+defined, transparent circumstances.3 These parameters should be included in FSC
+agreements and standardized across all IOUs.
+• Capacity Allocation Methodology Across Multiple Customers: While initial
+implementations from both PG&E and SCE have applied to a single customer on a given
+circuit, VGIC recommends the Commission approve a consistent methodology across all
+investor-owned utilities for allocating available electrical capacity on a circuit across
+multiple customers. Some example methodologies include “first come, first served” and
+clustering sites based on the timing of the load request. Methodologies could also be
+informed by those used in other jurisdictions and for other technologies, for example,
+distributed generation.
+• Utility Reporting Requirements: D.24-09-020 requires utilities to answer the following
+questions, on a per site/project basis: “If full energization of the applicant’s site was not
+3 IREC Opening Comments at 5.
+6
+
+feasible in a timely manner, explain whether any load management or flexible service
+options were installed or utilized to provide the applicant with timely service” and “the
+amount of load (kW) that was provided to the applicant using flexible service options, the
+remaining (or total) load requested by the applicant, and an estimate for when full service
+will be provided to the applicant.” While this reporting will be informative for parties to
+understand the effectiveness of FSC and develop policies accordingly, VGIC details in
+Section III below additional reporting elements that should be applied consistently across
+all three large investor-owned utilities.
+As SCE and SDG&E move toward offering dynamic FSCs and non-firm import limits, the
+Commission and IOUs should also promote alignment in dynamic FSC structures,
+communications protocols, and enrollment processes.
+III. ADDITIONAL REPORTING IS NEEDED ON FLEXIBLE SERVICE
+CONNECTIONS.
+VGIC commends the Commission for establishing reporting requirements related to FSC
+in D.24-09-020. Specifically, questions #25 and #26 of the Energization Target Reporting
+Template Requirements seek to understand, on a per-site/project basis, whether any load
+management or FSC was utilized and the amount of energized load (kW) relative to requested
+load. While the IOUs’ inaugural energization target reports have not yet been released, VGIC is
+aware of recent updates in a handful of one-off documents, like the Bridging Strategies
+Compliance Reports and PG&E’s OpFlex Pilot Report.
+To improve transparency and inform future program design, VGIC reiterates its
+recommendation that the Commission require additional reporting on FSC participation, for
+7
+
+example, by amending the Energization Target Reporting Template Requirements instituted in
+D.24-09-020. Key per-site/project data points that are absent include:
+• Whether the site has also filed a Rule 21 interconnection application request (e.g.,
+for energy storage systems) and, if so, the anonymized Rule 21 project ID # that
+corresponds to the quarterly Rule 21 report required in D.20-09-035 Ordering
+Paragraph (“OP”) 22.
+• Whether FSC was:
+o Proposed by the utility (i.e., following utility assessment / TE advisory
+services consultation)
+o Accepted by the customer (i.e., following utility recommendation)
+o Proposed by the customer (i.e., following customer/vendor assessment of
+Integration Capacity Analysis or “ICA”)
+o Accepted by the utility (i.e., following customer request)
+• For sites that move forward with FSC:
+o The type of FSC enabling technology used (e.g., power control systems,
+battery energy storage systems, customer generation, traditional controls
+like protective relays, etc.)
+o Whether static or dynamic FSC was implemented
+▪ If static FSC was implemented, the type of FSC schedule
+implemented (e.g., single-value, 4-/6-value, 288-value LLP etc.)
+o How much leftover headroom capacity is available on the circuit (kW)
+▪ VGIC expects many near-term, bridge FSCs to use all available
+capacity, but in cases where FSCs do not use all available capacity,
+8
+
+the IOUs should report on how much capacity is left over for other
+potential customers.
+While VGIC recommends this reporting be integrated into the required energization
+timeline reporting, other venues for this reporting, if the Commission prefers, could include the
+quarterly Rule 21 interconnection timeline reports required by D.20-09-035 Ordering Paragraph
+(“OP”) 22, the semi-annual reports on Vehicle-Grid Integration Strategies per D.20-12-029, or the
+annual Electric Vehicle Charging Infrastructure Cost Report. VGIC emphasizes that this
+recommendation is not intended to add unnecessary reporting burdens, but rather to ensure the
+availability of essential information that will guide effective FSC policy development moving
+forward. For example, this data can help answer the following questions:
+• How many customers are utilities approaching with opportunistic FSC options?
+• How many customers elect FSC pathways, and which ones are most effective in
+accelerating energization timelines? (e.g., static single-value, 4-/6-value, 288-value
+limits? Dynamic load control?)
+• How many customers elect FSC enabling technologies, and which ones are most
+effective in accelerating energization timelines? (e.g., power control systems,
+protective relays, etc.)?
+• What types of FSC pathways and technologies are most common?
+• How does the customer election of flexible service pathways and technologies
+impact energization timelines? How does this differ by FSC pathway and
+enabling technology type?
+9
+
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the Ruling. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: March 27, 2025
+10

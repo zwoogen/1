@@ -1,0 +1,475 @@
+August 4, 2021
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle-Grid Integration Council to Advice Letter 4542-E of
+Southern California Edison
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 4542-E of Southern
+California Edison Company (“SCE”), Request for Approval of Proposed Vehicle Grid Integration
+Pilots (“Advice Letter”), submitted on July 15, 2021.
+I. INTRODUCTION.
+With the unanimous approval of Decision (“D.”) 20-12-029 on December 17, 2020, VGIC
+commended the Commission for implementing vehicle-grid integration (“VGI”) strategies pursuant
+to SB 676 and other VGI strategies deemed reasonable by the Commission. D. 20-12-029 (the “VGI
+Decision”) also strove to implement some of the primary recommendations and outcomes of the
+lengthy and resource-intensive VGI Working Group process, which produced a Final Report of the
+California Joint Agencies Vehicle-Grid Integration Working Group, as well as subsequent formal
+party comments on VGI issues. VGIC was generally pleased to see party recommendations
+referenced and adopted in D.20-12-029. VGIC was encouraged by Ordering Paragraphs (“OPs”) 13,
+14, and 15 directing each investor-owned utility (“IOU”) to develop VGI pilots with stakeholder
+input.
+Subsequently, each IOU, including SCE, presented high-level plans for VGI pilots pursuant
+to OP 14 during the March 16, 2021 VGI workshop. SCE sought feedback on its pilot concepts
+through that workshop discussion and subsequent calls with stakeholders, including several with
+VGIC. On June 4, 2021, a second VGI pilots workshop was held to share updated pilot concepts
+with additional detail, and feedback was solicited via an online survey. Stakeholders supported the
+timely identification of gaps in each pilot concept and recommended alternative approaches that
+may better support the goals of D. 20-12-029. VGIC appreciates the IOUs’ good faith efforts and
+flexibility during the workshop process and development of the proposals in their Advice Letters.
+1
+
+August 4, 2021
+Page 2 of 13
+In reviewing SCE’s Advice Letter, VGIC believes SCE’s proposed VGI pilots represent a
+significant step toward more widespread VGI products and services which can benefit both EV and
+non-EV customers alike. It is also an encouraging reflection of stakeholder feedback provided over
+the last several years. VGIC is pleased to see that SCE remains open to various business models –
+an appropriate approach given the relatively nascent state of the market. Furthermore, the Advice
+Letter details proposals that we believe are necessary and not duplicative of other pilots and
+programs. The proposed VGI pilots are roughly consistent with the preliminary details shared
+previously by SCE.
+Based on these factors, VGIC largely supports the Advice Letter as filed and believes it is
+generally aligned with the Commission’s intent per OPs 13, 14, and 15. Moreover, these pilots are
+an important stepping stone toward the suite of full-scale VGI programs needed to cost-effectively
+decarbonize our economy as envisioned and required by Executive Order N-79-20, SB 350, ARB’s
+in-progress 2022 Climate Change Scoping Plan, and SB 100. However, in this response, VGIC
+highlights several critical areas that could benefit from additional clarifications or revisions before
+final implementation by SCE. VGIC’s primary concern is that the proposed VGI pilots, especially
+the Residential VGI pilot, would be used as an excuse to delay concurrent and parallel efforts to
+advance EV participation in demand response and resource adequacy programs until after the pilot
+is completed. Instead, we believe that the proposed VGI pilots can and should be pursued now, even
+while concurrent efforts seek to address remaining barriers in the demand response and resource
+adequacy programs. To this end, we strongly recommend that each pilot should include regular
+progress reports (e.g., every six months) that both provide preliminary findings and identify near
+term opportunities to scale each pilot effort, even prior to the pilot’s conclusion. In addition, VGIC
+offers the following recommendations and conclusions:
+ The unallocated portions of the previously authorized VGI pilot budget should be applied to
+1) support an independent evaluator analysis of the pilot results on behalf of the Commission,
+and/or 2) to supplement PG&E’s proposed pilot program activities at an increased scale.
+ The proposed Residential VGI Pilot can and should be additive to (and not duplicative of)
+existing demand response programs implemented by SCE or currently available to EV
+customers. VGIC believes this is SCE’s intent and additional clarifications in the Advice
+Letter can help ensure this.
+ The proposed Residential VGI Pilot should be approved expeditiously to help mitigate
+California’s pressing near- and mid-term reliability concerns, but should not preclude
+additional efforts to advance residential VGI before the conclusion of the pilot, for example
+through demand response or resource adequacy.
+ The proposed Residential VGI Pilot timeline should remain flexible to allow for the potential
+incorporation of this approach into the upcoming demand response program cycle (including
+potential updates prior to the pilot’s completion).
+2
+
+August 4, 2021
+Page 3 of 13
+ The proposed Residential VGI Pilot should be updated to include a subset of customers for
+V2B (or V2G) configurations to address a gap SCE identified in its recent Low Carbon Fuel
+Standard Holdback Credit Revenue Implementation Plan Advice Letter 4518-E.
+ The proposed Medium Duty / Heavy Duty Pilot should allow pilot participants to choose an
+infrastructure ownership option, rather than presupposing that the participants would prefer
+utility-owned infrastructure.
+ SCE should remain agnostic toward technology, standards, and business models.
+ SCE should clarify that these VGI Pilots will not be implemented as part of Charge Ready
+2, and therefore would not be subject to the same requirements that apply to participants of
+CR2 programs (e.g., separate service drop for the EV load).
+ The Advice Letter appears to mistakenly describe the Medium Duty / Heavy Duty Pilot by
+reusing language from the Residential VGI Pilot.
+VGIC believes these issues can be resolved through minor revisions to SCE’s Advice Letter and that
+most of the contents of the AL are ready for Commission approval. In considering SCE’s proposed
+approach, it is important for the Commission to recognize that the proposed pilots are not intended
+to demonstrate the technical readiness of a specific VGI technologies. Many of the technical issues
+are well understood. Instead, they are geared towards piloting programmatic approaches for
+harnessing VGI technologies, including experimenting with customer incentive levels, marketing,
+education, outreach, and acquisition. The VGI pilots are notably an opportunity to explore industry
+coordination and control architecture through the simultaneous advancement of different business
+models for industry stakeholders, including technology providers, aggregators, service providers,
+and other vendors. With this in mind, VGIC stresses the criticality of ensuring any data and
+takeaways from the VGI pilots are accurately and fairly represented in interim and final reporting.
+VGIC thus respectfully requests that implementation of VGI pilots not be unduly delayed
+due to the issues raised herein. VGIC offers its time and resources to Energy Division staff,
+Commissioners, SCE, and other stakeholders to support addressing each issue in a timely manner.
+II. DISCUSSION.
+A. The unallocated portions of the previously authorized VGI pilot budget should be
+applied to 1) support an independent evaluator analysis of the pilot results on behalf
+of the Commission, and/or 2) to supplement PG&E’s proposed pilot program
+activities at an increased scale.
+In reviewing the Advice Letter and PG&E’s concurrent Advice Letter 6259-E Request for
+Approval of PG&E’s VGI Pilots in Compliance with Decision 20-12-029, VGIC notes the total
+3
+
+August 4, 2021
+Page 4 of 13
+requested budget from the two IOUs is $28.7 million. This is $6.3 million less than the $35 million
+authorized in OP 14 of the VGI Decision and is primarily the result of SDG&E’s choice to not
+submit an Advice Letter. During the development of these proposed pilots, VGIC expressed
+concerns over SDG&E’s preliminary pilot concept and recommended that the portion of funds
+assumed for SDG&E1 be repurposed. While SDG&E did follow our suggestion to not move forward
+with its pilot concept, the use of the remaining $6.3 million in authorized pilot funds is still yet to
+be determined.
+VGIC recommends two potential uses for this funding. First, a portion of these funds could
+be used to support an independent consultant to evaluate the VGI pilots on behalf of the
+Commission. Second, the funding could be used to supplement SCE’s current proposals to ensure
+they achieve sufficient scale to be meaningful. Both of these options are described below:
+1) Independent Evaluation of VGI Pilots
+Both SCE’s Advice Letter and PG&E’s concurrent Advice Letter 6259-E explain that each
+VGI pilot will be reported on annually through the VGI reporting required by OP 1 of D.20-12-029,
+and final reports on each VGI pilot will be produced upon pilot completion. The SCE Advice Letter
+explains the need to collect data to inform cost-benefit analyses and highlights this as a primary
+objective for each pilot. SCE notes “to determine net value as a metric, SCE will use the framework
+developed by the VGIWG,” referencing the 2019-2020 VGI Working Group.2 The 2019-2020 VGI
+Working Group effort was a significant stakeholder effort that utilized a rudimentary framework to
+roughly assess relative customer costs across VGI use cases, and separately assess system benefits
+across VGI use cases. It is important to note that the framework did not accomplish any of the
+following: (1) directly compare costs and benefits, (2) consider utility program costs of promoting
+VGI use cases, and (3) consider benefits across various stakeholders. The VGI WG Final Report
+critically states:
+“Since the scoring of use case costs and the ease and risk of implementation was relative,
+meaning that costs could not be compared with benefits, the Working Group was unable to
+arrive at any quantitative assessment of “net value”.” 3
+As such, VGIC requests that SCE provide more detail on if and how it intends to modify this
+framework to achieve an assessment of “net value.” Furthermore, the informal framework utilized
+by VGI WG participants assessed benefits and costs, but it is unclear from the Final Report if this
+is from the perspective of a customer, the grid, the program administrator, etc. VGIC believes that
+1 D. 20-12-029, OP 14 states “The large electrical corporations shall identify any non-ratepayer potential funding
+sources and shall not request, in their combined applications, more than $35 million.” In the March 16, 2021 and June
+4, 2021 workshops, each IOU proposed VGI pilot budgets roughly proportionate to their load share. However, it is
+VGIC’s understanding that this was the preliminary assumed use and that funding need not necessarily be allocated
+according to load share.
+2 Advice Letter Appendix A 31, Appendix B at 25, and Appendix C at 26.
+3 Final Report of the California Joint Agencies Vehicle-Grid Integration Working Group. June 30, 2020.
+https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf at 27.
+4
+
+August 4, 2021
+Page 5 of 13
+customers should be able to make their own assessments on their costs and benefits, and that the
+SCE may not be well situated to fully understand the full range of customer costs and benefits,
+which may be hard to quantify. VGIC strongly recommends that the focus of cost-benefit analysis
+focus primarily on the cost-benefit ratio of the piloted program itself and the net benefit it can
+provide to the grid and ratepayers.
+Overall, VGIC is generally supportive of these data collection efforts and agrees that in the
+long-term, full-scale programs should demonstrate reasonable cost-effectiveness. As such, the
+results of the VGI pilots are of great significance to VGI stakeholders and indeed could impact the
+future availability of VGI as a critical tool for both managing costs and enhancing the reliability of
+California’s energy system.
+The IOUs have expressed plans to coordinate on the development of an RFP for a third-party
+evaluator to assess IOUs’ VGI efforts pursuant to OP 23. While this appears to be a sensible
+approach, in addition to this, VGIC strongly recommends that the CPUC hire its own consultant to
+serve as an independent evaluator on behalf of other non-utility stakeholders. This would be similar
+in nature to how the Commission has approached the Distribution Investment Deferral Framework
+process.4 A share of the unallocated portions of the $35 million in authorized VGI pilot funding
+could be used for this purpose. Furthermore, VGIC recommends the third-party evaluation process
+include a Technical Review Committee that could help oversee the evaluation process conducted by
+the IOUs’ evaluator. This Committee could be open to participation by the IOUs, the CPUC’s hired
+consultant, and other key industry stakeholders.
+This is especially critical with regards to any cost-benefit analysis done as part of this
+evaluation. In the event that the IOUs’ evaluator determines that a pilot is not cost-effective or worth
+scaling into a larger program, then it is critical that other perspectives be included in the process.
+This is necessary to (a) verify the appropriateness of the evaluator’s methodology and findings, (b)
+ensure appropriate context is provided on any limitations of the pilot as they were executed, and (c)
+ensure the evaluation fully captures steps that could improve future cost effectiveness.
+This Technical Review Committee structure would also have the added benefit of providing
+a forum to share preliminary data and technical information prior to the completion of each pilot,
+thereby creating an opportunity to inform other policy developments.5 This is especially critical as
+VGIC’s primary concern is that the proposed VGI pilots may delay concurrent efforts to advance
+VGI. In party comments on Implementation of VGI Strategies and SB 676, several parties cautioned
+about the risks of being trapped in “pilot valley.” Additional VGI efforts, including increased EV
+participation in demand response programs, unlocking resource adequacy value streams for EVs,
+4 As part of the Distribution Investment Deferral Framework, the three major IOUs produce a Grid Needs Assessment
+(GNA) and a Distribution Deferral Opportunity Report (DDOR). An Independent Evaluator has access to the relevant
+grid data and runs their own simulations to validate the IOUs’ findings and provide additional feedback for the IOUs
+and non-utility stakeholders. See the Distribution Resource Planning proceeding R. 14-08-013.
+5 For example, preliminary results from the VGI pilots could critically inform the development of transportation
+electrification plans, EV rate design, demand response applications, high DER OIR, microgrids and resiliency
+proceeding, streamlining interconnection of DERs proceeding, SGIP, NEM, and other DER policies.
+5
+
+August 4, 2021
+Page 6 of 13
+and creating targeted programs to support V2G must not be put on hold until after the pilot is
+completed. VGIC strongly recommends the CPUC’s hired consultant and Technical Review
+Committee ensure preliminary data and technical information is shared with relevant stakeholders
+contributing to these other policy development efforts.
+2) Supplemental funding for PG&E’s proposed VGI Pilots
+In addition to supporting the evaluation process, some of the remaining funds could be used
+to supplement PG&E’s proposed pilot budgets, thereby increasing the scale and level of effort that
+can be supported. VGIC believes that PG&E’s pilots are ambitious in the sense that they each
+attempt to tackle multiple objectives using a limited budget. Thus, additional funding may be useful
+to ensure that all of these objectives are met.
+B. The proposed Residential VGI Pilot is additive to and not duplicative of existing
+demand response programs implemented by SCE or currently available to EV
+customers.
+VGIC supports SCE’s proposed Residential V1G demand response pilot program. In doing so,
+VGIC is cognizant that there are other existing utility-administered demand response constructs that
+may be able to support EV participation, such as the Capacity Bidding Program and the Demand
+Response Auction Mechanism. As such, we understand that there may be some concern that SCE’s
+proposal is somehow duplicative of or would “crowd out” other existing participation options. While
+VGIC is wary of these concerns, we believe SCE’s proposal is sufficiently distinct from existing
+DR options that it warrants approval by the Commission at this time. There are several reasons why
+this is true. First, EV participation in existing demand response has been limited to date, suggesting
+that the existing DR constructs are not necessarily conducive to meaningful participation. Second,
+traditional DR models are generally focused on commercial and industrial building loads, whereas
+residential EVs represent a fundamentally different underlying load and customer type with unique
+features. Among these unique features are the ability to provide V2B and V2G capabilities, which
+most traditional DR resources cannot. SCE has expressed some interest in considering V2B and
+V2G as a subset of the Residential pilot. Third, within the traditional DR framework, there is still a
+significant gap in knowledge regarding EV baseline loads and unresolved issues regarding
+submetering protocols. Resolving both of these issues will be necessary in order for EVs to
+meaningfully participate in traditional DR frameworks, whereas the proposed pilots could present a
+near term pathway to allowing this participation. Fourth, VGIC supports an approach to conducting
+these VGI pilots such that they can be seamlessly “on-ramped” into utility DR portfolios. For
+example, we are hopeful that SCE can develop this pilot into a scaled up VGI program in its 2023-
+2027 DR portfolio, or that preliminary findings from the pilot can be leveraged to modify existing
+DR pathways to expand participation of EVs. Fifth, in light of Governor Newsom’s July 30, 2021
+Proclamation of a State of Emergency, it appears that there is broad support for new approaches to
+6
+
+August 4, 2021
+Page 7 of 13
+supporting California’s reliability challenges.6 Rejecting a promising DR option that has substantial
+momentum and could significantly bolster grid reliability seems unwise at this time.
+
+C. The proposed Residential VGI Pilot should be approved expeditiously to help
+mitigate California’s pressing near- and mid-term reliability concerns, but should
+not preclude additional efforts to advance residential VGI before the conclusion of
+the pilot, for example through demand response or resource adequacy.
+The proposed Residential VGI Pilot is a promising candidate to be scaled to full program
+implementation in the near-term. While existing pathways do exist for EV customers to participate
+in utility demand response (“DR”) programs, participation is currently limited because the unique
+needs of EV customers have not yet informed updates to these DR pathways. VGIC believes ironing
+out the unique attributes of large-scale VGI through a pilot is a prudent and necessary step to
+advancing large-scale VGI. Specifically, the pilot aims to resolve baselining issues that have
+surfaced in the past, as EV load is unlike traditional end-use electric loads. EV load can be peaky
+and relatively large (e.g., a single EV can double a residential customer’s load), yet inherently
+flexible without considerable incremental investments in retrofits or new equipment (e.g., especially
+compared to cooling and industrial loads). Therefore, it is important for baselines to be established
+for the myriad of VGI customer types to unlock VGI to support grid reliability.
+Furthermore, the marketing of VGI to mass-scale customers is an under-explored domain in
+California and SCE’s anticipated 8,000 customer target would offer a strong and diverse customer
+base across which to pilot ME&O strategies. Specifically, various types of arrangements with third-
+party providers -- including automotive OEMs who are relative newcomers to the power sector --
+should be explored, including using vehicle telematics and EVSE submetering to coordinate on
+charging signals, user interface, and settlement.
+VGIC notes that EVs can also be used in bidirectional configuration under existing
+interconnection Rule 217, an application which currently has no feasible compensation pathway
+under existing DR or other pathways.8 These bidirectional configurations, which could be leveraged
+to provide V2H/V2B backup power, bill management, or V2G value streams, should be supported
+6 Governor Gavin Newsom, Executive Department, State of California. Proclamation of a State of Emergency. July 30,
+2021. https://www.gov.ca.gov/wp-content/uploads/2021/07/Energy-Emergency-Proc-7-30-21.pdf
+7 Bidirectional EV supply equipment can interconnect under Rule 21. The IOUs have also developed a pathway for
+V2G Alternating Current (“V2G AC”) pilots to interconnect.
+8 SCE and PG&E have indicated through supplementary advice letters that they intend to enroll Rule 21 exporting
+DERs in the new Emergency Load Reduction Program. However, it is unlikely that the infrequent nature of ELRP
+events and the low ELRP compensation rate would meaningfully support a business case for V2G configurations.
+7
+
+August 4, 2021
+Page 8 of 13
+to a limited extent through SCE’s proposed pilot.9 VGIC details this recommendation further in
+Section II.E below.
+Given the incoming wave of VGI technology deployment, it is important that IOUs, VGI
+providers, and other stakeholders use SCE’s proposed Residential VGI pilot as a forum to surface
+and resolve key issues. The proposed VGI pilot framework is ideal for this learning process, which
+has garnered significant attention and investment from the EV stakeholder community. Any delay
+of this approach could present a setback for mass-market deployment of VGI solutions for several
+years.
+Furthermore, California is facing immediate reliability concerns in the face of increased
+extreme weather events and planned fossil fuel generating capacity retirements. The $8.04 million
+Residential VGI pilot can provide critical load reduction from ever-growing EV load to help
+mitigate summer peaks. VGIC believes the proposed pilot constitutes a prudent approach to
+advancing VGI and failing to approve such a pilot would be a risky strategy at a time when
+California needs an all-of-the-above approach to reign in reliability concerns.
+With this in mind, VGIC reiterates that the Residential VGI Pilot implementation should not
+preclude additional efforts to advance residential VGI before the conclusion of the pilot, for example
+through demand response or resource adequacy policy forums. To the extent an all-of-the-above
+approach is needed – as indicated by Governor’s Newsom July 30th Emergency Proclamation –
+SCE, the Commission, Energy Division staff, and all other EV stakeholders should continue to
+advance the participation of EVs in demand response programs and other VGI strategies concurrent
+with pilot implementation. The VGI pilots should be viewed as a source of data to inform policy
+development, rather than a clock by which stakeholders must sit idly while awaiting final results to
+further advance VGI.
+D. The proposed Residential VGI Pilot implementation timeline should remain flexible
+to allow for the potential incorporation of this approach into the upcoming demand
+response program cycle .
+VGIC supports SCE’s proposed pilot planning and execution timeline because it closely
+tracks the timeline for the next DR application cycle. Key issues should be resolved through this
+pilot in advance of full scale program implementation. Moreover, VGIC supports the ultimate ramp-
+up of this pilot in a full-scale DR program which we anticipate could included in the 2023-2027 DR
+cycle. However, we also recognize the possibility that the development and implementation of a
+9 This depends on the results of the proposed RFI, but VGIC believes it is likely to be found cost-effective on a
+programmatic level.
+8
+
+August 4, 2021
+Page 9 of 13
+full-scale DR program would not be possible until after SCE has filed its DR portfolio application
+in November 2021. As such, we encourage SCE and the Commission to consider options for “on-
+ramping” EV related DR programs (such as those similar to SCE’s pilot) after the initial application
+has been filed.
+E. The proposed Residential VGI Pilot should include a subset of customers with
+V2B/V2G configurations. This could also compensate for gaps in the recent LCFS
+Holdback Credit Revenue Implementation Plan Advice Letter 4518-E.
+VGIC commends SCE for proposing a large-scale pilot focused on considering multiple
+aggregator business models, technologies, control architectures, and value stacking, and that directs
+a large majority of funds to experimental customer incentives. VGIC believes that enabling
+bidirectional VGI10 offers a clear value stacking opportunity, and notes that while V1G price signals
+have been tested with customers before, for example via SDG&E’s PYD VGI Rate, a bidirectional
+price signal has never been offered to EV customers in California.11 VGIC strongly recommends
+that SCE’s implementation of the Residential VGI pilot target a subset of customers (e.g., 500
+customers) for bidirectional configurations. This will allow for the direct comparison of pilot
+performance (both resource availability and customer acquisition/experience) between V1G and
+bidirectional customers.
+By way of background, SCE recently filed its Low Carbon Fuel Standard (LCFS) holdback
+credit revenue implementation plan Advice Letter 4518-E, which explains that mid-term resiliency
+projects using V2B or V2G activities to leverage EVs as a resiliency energy source is a “longer-term
+opportunity.” 12 In Advice Letter 4518-E SCE states, “As part of the recent VGI decision, the IOUs
+will be proposing pilots and studies to help inform some of the questions in [the V2B and V2G]
+space and may consider utilizing LCFS holdback credit proceeds for appropriate activities.” 13 VGIC
+10 Referred to as V2B, V2H, V2X, V2M, or V2G depending on the configuration.
+11 See, for example, Power Your Drive Research Report. April 16, 2021.
+https://www.sdge.com/sites/default/files/regulatory/SDG&E%20FINAL%20Power%20Your%20Drive%20Research
+%20Report%20April%202021.pdf. Note SCE and PG&E have indicated through supplementary advice letters that
+they intend to enroll Rule 21 exporting DERs in the new Emergency Load Reduction Program. However, it is unlikely
+that the infrequent nature of ELRP events and the low ELRP compensation rate would meaningfully support a
+business case for V2G configurations.
+12 Southern California Edison Company’s Request for an Exemption to Public Utilities Code Section 851 and
+Implementation Plan for Programs and Projects Funded with Low Carbon Fuel Standard Holdback Residential Base
+Charging Credit and Electric Forklift Credit Proceeds. June 15, 2021. https://library.sce.com/content/dam/sce-
+doclib/public/regulatory/filings/pending/electric/ELECTRIC_4518-E.pdf at 68.
+13 Southern California Edison Company’s Request for an Exemption to Public Utilities Code Section 851 and
+Implementation Plan for Programs and Projects Funded with Low Carbon Fuel Standard Holdback Residential Base
+Charging Credit and Electric Forklift Credit Proceeds. June 15, 2021. https://library.sce.com/content/dam/sce-
+doclib/public/regulatory/filings/pending/electric/ELECTRIC_4518-E.pdf at 68.
+9
+
+August 4, 2021
+Page 10 of 13
+submitted a response on July 5, 2021, contesting the assertion that V2B and V2G activities are
+“longer-term,” and recommending that SCE accelerate the use of LCFS holdback credit revenue for
+V2B and V2G activities,14 rather than place unspent parts of the 20% annual LFS holdback proceeds
+into a reserve fund for later use.15 On July 13, 2021, SCE circulated its Reply to Party Responses to
+Advice Letter 4518-E.16 In Reply to VGIC’s recommendation that LCFS holdback credit revenue
+be used to support a more expansive portfolio of V2B deployments in the immediate future, SCE
+indicated they would direct LCFS holdback credit revenue to support VGI pilots.17 This is confirmed
+in its VGI Pilots Advice Letter, as SCE states:
+“SCE will use its LCFS holdback credit revenues, if available, to help SCE offset relevant
+VGI pilot costs that SCE would otherwise seek to recover from customers. SCE will not
+recover from customers any of the costs covered by its LCFS holdback credit revenues.” 18
+While SCE plainly addresses the use of LCFS holdback credit revenue to offset customer costs, it
+does not explain specifically how the LCFS holdback credit revenues would meaningfully support
+expanded piloting of bidirectional applications in the present Advice Letter addressing VGI Pilots.
+VGIC believes use of both VGI pilot funds and LCFS holdback revenue to support V2B applications
+is consistent with OP 1 of D. 20-12-027 (the “LCFS Holdback Revenue Decision”) and the
+Commission’s adoption of backup power as a VGI strategy. As such, we recommend that the SCE
+VGI Pilot proposal be revised to sufficiently address how LCFS holdback credit revenues – beyond
+those specified in Advice Letter 4518-E – could be used to supplement SCE’s V2B pilot proposals
+in support of resiliency.
+SCE’s VGI Pilots Advice Letter does contain proposals for MD/HD and DER VGI Pilots
+that leverage bidirectional VGI, however, the target customer segments, pilot objectives, and
+proposed budget for these pilots differ from the proposed Residential VGI Pilot. One solution to
+addressing some of the current gaps in SCE’s proposal would be to apply LCFS resilience funding
+to supplement the residential DR pilot such that V2B solutions were included as a subset of the
+overall pilot. It would be a missed opportunity if the incentive structures, customer ME&O, and
+other program design set to be piloted are limited to V1G applications. VGIC recommends that SCE
+take steps to clarify its intent to incorporate bidirectionality in the Residential VGI pilot, including
+14 Note Advice Letter 4518-E does propose to provide limited funding for a V2B project with Baldwin Park Unified
+School District project. See Advice Letter 4518-E at 67.
+15 Response of the Vehicle-Grid Integration Council to Advice Letter 4518-E of Southern California Edison. July 5,
+2021.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/60e5c5ce89a2b31fee8890f0/1625671118584/202
+1-07-05+VGIC%27s+Response+to+SCE+LCFS+Holdback+Implementation+Plan.pdf
+16 Reply to Party Response to Advice 4518-E, Southern California Edison Company’s Request for an Exemption to
+Public Utilities Code Section 851 and Implementation Plan for Programs and Projects Funded with Low Carbon Fuel
+Standard Holdback Residential Base Charging Credit and Electric Forklift Credit Proceeds. July 13, 2021.
+17 Id. at 3.
+18 Advice Letter Appendix A at 21, Appendix B at 14, and Appendix C at 15.
+10
+
+August 4, 2021
+Page 11 of 13
+replacing references to the “V1G Pilot” with the more configuration-agnostic “Residential VGI
+Pilot” name.19
+F. The proposed MD/HD Pilot should allow pilot participants to choose an
+infrastructure ownership option, rather than presupposing that the participants
+would prefer utility-owned infrastructure.
+VGIC is generally supportive of the proposed MD/HD pilot and its targeting of non-transit
+and non-school bus MD/HD operators. In the Pilot Proposal section on IOU ownership of
+infrastructure, SCE proposes to own the infrastructure from the service meter to the EV chargers
+and from the battery to the building to provide resiliency services. The Advice Letter notes:
+“Utility-ownership is important to overcome potential participation barriers for customers,
+minimizing the effort need by them on labor such as developing infrastructure requirements,
+searching for contractors, negotiations, and contract development. As a one-stop-shop for
+these services, it is anticipated that it will be easier to find participants in the MD/HD Pilot.”
+20
+VGIC believes that it is important to remove barriers for customers, but recommends SCE modify
+the proposed MD/HD Pilot to allow pilot participants to choose an infrastructure ownership option,
+rather than presupposing that the participants would prefer utility-owned infrastructure. Vehicle duty
+cycles, vehicle dwell times, building load, and other customer needs vary between different
+customer types, and perhaps more so across different commercial customers in the MD/HD sector.
+Therefore, VGIC recommends that a better approach to make it easier for SCE to find participants
+is to provide customers with various options for infrastructure ownership, ranging from fully
+customer-owned, to partially utility-owned, to fully utility-owned.
+G. SCE should remain agnostic toward technology, standards, and business models.
+In Section IV(A)(iii) of each pilot,21 SCE lists the technologies to be used. VGIC believes
+that SCE should use a range of pathways and technologies that are available in the EV market, not
+all of which are listed in the Advice Letter. VGIC recommends SCE remain agnostic toward
+technology, standards, and business models in recognition of the nascent state of the VGI market,
+and the need to simultaneously explore different communication and control architectures.
+19 See, for example, Advice Letter at 17 for an instance when both titles are used to describe the Residential VGI Pilot.
+20 MD/HD Pilot at page 15.
+21 Advice Letter Appendix A at 12, Appendix B at 8, and Appendix C at 9.
+11
+
+August 4, 2021
+Page 12 of 13
+H. SCE should clarify that the proposed VGI pilots will not be implemented as part of
+Charge Ready 2, and therefore would not be subject to the requirement that each
+customer receive a separate service drop for EV load.
+The Advice Letter suggests but does not explicitly state that the VGI pilots will be
+implemented and marketed to customers as a standalone effort. VGIC respectfully request SCE
+confirm this is the case, and specifically clarify that the proposed VGI pilots will not be implemented
+as part of Charge Ready 2. VGIC is concerned that, if implemented as part of Charge Ready 2, the
+VGI pilots would be subject to the provisions of Charge Ready 2 that place EV load on a separate
+service drop, which would significantly hinder the ability to leverage these EVs for VGI
+applications, thereby undercutting the core purpose of the VGI pilots. As such, VGIC recommends
+SCE clarify that the proposed VGI pilots will not be implemented as part of Charge Ready 2, and
+therefore would not be subject to the requirement that each customer receive a separate service drop
+for EV load.
+I. The Advice Letter appears to mistakenly describe the MD/HD Pilot by reusing
+language from the Residential VGI Pilot.
+VGIC appreciates SCE’s detailed Advice Letter and overall adherence to the Energy
+Division’s standardized advice letter template. However, we note that there appears to be several
+sections of the MD/HD Pilot description where SCE may have inadvertently copied language from
+the Residential VGI Pilot. For example, the Timeline sections of each pilot appear to be identical.
+In other instances, such as the “definitions for budget items” for the MD/HD pilot, SCE lists costs
+for aggregators. However, the proposed MD/HD pilot does not explain how aggregators would be
+used. VGIC recommends SCE closely review the document against its internal proposal and address
+these copy errors.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to SCE’s Advice Letter. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+12
+
+August 4, 2021
+Page 13 of 13
+cc: Shinjini C. Menon, SCE (AdviceTariffManager@sce.com)
+Tara S. Kaushik c/o Karyn Gansecki (Karyn.Gansecki@sce.com)
+Service list R.18-12-006
+13

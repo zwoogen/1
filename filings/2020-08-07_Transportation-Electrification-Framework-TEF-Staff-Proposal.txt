@@ -1,0 +1,276 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 7 AND 8)
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: August 7, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 7 AND 8)
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Adding Staff Proposal for a Draft
+Transportation Electrification Framework to the Record and Inviting Party Comments
+(“Ruling”) issued by Administrative Law Judge (“ALJ”) Patrick Doherty on February 3, 2020.
+Pursuant to Email Granting Request for Extension of Time to Submit Comments on Sections 7
+and 8 of the Transportation Electrification Framework issued by ALJ Sasha Goldberg on July 2,
+2020, VGIC timely files these reply comments on Section 8 of the Draft Transportation
+Electrification Framework (“Draft TEF”) on August 7, 2020.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+1
+
+II. REPLY COMMENTS ON DRAFT TEF SECTION 8: TECHNOLOGY AND
+STANDARDS.
+A. Several parties agree with VGIC’s position to not require all ratepayer funded EVSE
+meet ISO 15118
+In opening comments, several parties stated that it is premature to set a specific mandated
+communication protocol for all investor-owned utility (“IOU”) EV supply equipment (“EVSE”).
+1 VGIC reiterates that the Draft TEF’s proposed requirement that all IOU EVSE meet a specific
+communication protocol is in conflict with the Commission’s near-term objective to “enhance
+market coordination of IOU investments” and “bolster market confidence and encourage third-
+party investment in transportation electrification (“TE”).2 VGIC believes the Commission should
+instead focus on authorizing rates and market structures that foster an open marketplace for VGI
+services and lead us toward the goals set forth in SB 350. As California continues its transition to
+a high-EV transportation and electricity system, customers must be able to elect the VGI service
+that best fits their needs, and the availability of a diverse array of communication protocols is
+needed to support this customer choice.
+In opening comments, Peninsula Clean Energy (“PCE”) recommended EV-based VGI be
+addressed in IOU TE Plans (“TEP”) due to the proliferation of L1 charging in multi-unit
+dwellings. VGIC supports PCE’s recommendation to “evaluate opportunities to further develop
+EV-based VGI, including data sharing and data standardization between OEM and LSEs.” 3
+1 See, for example, ChargePoint, Inc. Comments on Draft TEF (Sections 7 and 8) at 7, EVBOX at 3, EVgo at 2,
+Natural Resources Defense Council et al. at 2, Southern California Edison at 4, San Diego Gas & Electric at 6,
+Pacific Gas & Electric at 5, and Tesla at 4.
+2 Order Instituting Rulemaking to Continue the Development of Rates and Infrastructure for Vehicle Electrification
+(“DRIVE OIR”) at 9. https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M252/K025/252025566.PDF
+3 Opening Comments of PCE on Sections 7 & 8 of the Draft TEF at 3.
+2
+
+VGIC believes that further development of EV-based VGI opportunities is important to continue
+to expand the diverse toolkit of VGI pathways, thereby making available different pathways that
+may be best fit for a given VGI use case. As detailed in previous comments on the TEF, VGIC
+recommends the Commission explore potential pathways of data collection that engage relevant
+market participants. If these data collection pathways are pursued, the Commission should also
+consider compensation mechanisms for the data collection and transmission services provided. 4
+In opening comments, Southern California Edison (“SCE”) detailed how IEEE 2030.5
+may be a lower-cost approach. While VGIC believes that IEEE 2030.5 may be the best fit
+protocol for some VGI use cases, we oppose designating a specific communication standard for
+all IOU EVSE, whether that standard is ISO 15118, IEEE 2030.5, or another protocol. As stated
+in opening comments, VGIC recommends the Commission instead explore levers to promote
+VGI strategies through the TEF and beyond that are based on incentivizing the adoption and use
+of VGI functionalities and use cases, such as the 320 identified in the VGI Working Group Final
+Report as “able to provide value now.” 5 Notably, ISO 15118 is not yet complete for bi-
+directional applications. Requiring ISO 15118 would therefore prevent V2G applications from
+providing value now.
+B. VGIC agrees with SCE’s forecasting approach that differentiates “base case, load-only
+EVs” from “VGI-enabled EVs”; however VGIC recommends including V1G in the
+latter category
+In opening comments, SCE describes two types of EVs: vehicle-to-grid (“V2G”) EVs
+and load-only EVs. SCE lists factors that inform its hourly EV load forecast, including customer
+4 Comments of VGIC on TEF Sections 3.4 and 11.3 (May 11, 2020) at 16.
+5 See VGI WG Final Report, filed in R.18-12-006 on June 30, 2020 at 8. https://gridworks.org/wp-
+content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf
+3
+
+EV charging behavior, future flexible charging programs, TOU rate structure, and duration of
+charging. SCE then states, “V2G EVs can be used for shifting customer hourly demand and as a
+storage system.” 6
+VGIC believes added nuance around the various types of EVs is needed to frame VGI
+capabilities more accurately and represent the full spectrum of opportunities to leverage EV
+technology. There is a key distinction between forecasted “base case” EV load that assumes
+baseline customer charging behavior, potentially including a level of responsiveness to TOU rate
+structures, and VGI resources that can be provided, procured, and/or incentivized in addition to
+base case charging. V1G opportunities – or flexible charging – should be viewed as an additional
+layer of capabilities that merits separate consideration as a resource in utility planning processes,
+rather than being viewed only as additional load.
+Another important, though rather straightforward, factor that should be acknowledged is
+that V1G resources do not require V2G capabilities. While EVs can provide both V1G flexibility
+and V2G bi-directionality, they could also provide only V1G flexibility. For example, a customer
+may elect a flexible charging solution in response to a dynamic VGI rate, such as SDG&E Power
+Your Drive VGI Pilot rate, however the customer does not need to have V2G-capable
+technologies to capture V1G value streams. As such, VGIC reiterates and further clarifies its
+opening comments that grid-connected EVs generally fall into three classifications: [1] base case
+load-only EVs, [2] V1G resources (flexible, but not bi-directional), [3] V2G resources (flexible
+and bi-directional). Base-case load-only EVs should be treated as load modifiers, as they are in
+6 SCE Opening Comments on Safety, Technology, and Standards at 7.
+4
+
+SCE’s described process. V1G and V2G resources, however, should be treated as resources in
+planning and procurement processes, as they can provide flexible grid support.
+SCE also states, “it is unknown when (or if) other EV manufacturers will produce light-
+duty vehicles [“LDV”] capable of V2G in the future.” 7 As the unified voice of automotive
+original equipment manufacturers (“OEMs”) engaged in VGI issues, VGIC can positively attest
+that auto OEMs do intend to produce V2G-capable light-duty vehicles. In our comments on the
+V2G Alternating Current (“AC”) Interconnection Subgroup Report, VGIC confirmed that some
+OEMs have product plans that include full V2G services within a five year time horizon. In those
+same comments we also highlighted the importance of regulatory certainty and well-defined
+interconnection pathways, which are needed to signal to OEMs that they should continue their
+product plans for V2G LDV.8 In an effort to keep Energy Division staff updated on the progress
+of ongoing standards development work, VGIC is attaching a brief update on work underway at
+SAE to address updates to standards supporting VGI preparedness.
+C. VGIC agrees with the Joint Comments of Enel X and Nuvve, and disagrees with
+SDG&E’s comments on Rule 15/16 exemption and right-sized infrastructure
+VGIC strongly supports the recommendation made in the Joint Comments and attached
+policy brief submitted by Enel X North America, Inc. (“Enel X”) and Nuvve Corporation
+(“Nuvve”) for a standardized, tariff-based process for how customers, site hosts, and developers
+can apply to interconnect new EV charging load.9 VGIC agrees that customers should be able to
+elect an eligible behind-the-meter load management technology to avoid primary and/or
+7 Id. at 6.
+8 Comments of VGIC on Vehicle-to-Grid Alternating Current Interconnection Subgroup Report (January 6, 2020) at
+3.
+9 Joint Comments of Enel X North America, Inc. and Nuvve Corporation on Draft TEF Pertaining to Safety,
+Technology, and Standards at 2.
+5
+
+secondary upgrades, and receive commensurate benefits for doing so. In contrast, SDG&E stated
+the following in their opening comments:
+“for safety reasons, infrastructure must be sized according to the maximum possible load
+behind the meter for the electric service in question. Installing chargers with the potential
+to exceed the rating of a customer panel or transformer poses a safety risk even with load
+management software to limit maximum load, since software can fail or be overridden.”
+10
+VGIC understands and appreciates the significance of ensuring safety and maintaining reliability.
+However, it is not clear that using valid load management software in compliance with what
+SDG&E refers to as “applicable safety codes” would pose safety risks.11 As mentioned by Enel
+X and Nuvve, several other jurisdictions have safely implemented this load management solution
+approach.12 VGIC believes there is no fundamental reason why California should not adopt a
+similar approach, which could achieve the same level of safety performance that SDG&E is
+seeking. One clear example of this is in Hawaii where customers can choose a load management
+option. The mechanics of the Hawaii Electric Company (“HECO”) Rules that allow this are
+captured in the attachment to Enel X and Nuvve’s opening comments referenced above.
+An analogous concept also exists in transmission planning, where physical transmission
+capacity exceeds the rated capacity and system operators keep transmission line loading levels
+below these rated values even if they could physically exceed them. The transmission backbone
+of the electric grid maintains this paradigm at voltages that are orders of magnitude greater
+without negative safety or reliability implications. SDG&E’s claim that “software can fail or be
+10 SDG&E Opening Comments on the TEF: Safety (Section 7) and Technology and Standards (Section 8) at 3.
+11 Ibid.
+12 Joint Comments of Enel X North America, Inc. and Nuvve Corporation on Draft TEF Pertaining to Safety,
+Technology, and Standards Attachment at 1.
+6
+
+overridden” is just as applicable in that case as it is to distribution connected facilities, and yet it
+is standard practice within the industry.
+VGIC also notes that the IOUs have a financial incentive to maximize distribution system
+upgrades related to TE as a source of new capital investments. However, this may not always be
+in the best interest of customers, including both EV customers and other customers who end up
+paying for these upgrades. While in some cases there may be legitimate safety and reliability
+concerns that require certain upgrades, it is important for the Commission to differentiate
+between those legitimate concerns and others that may stem from an outdated mode of
+distribution planning that excludes load management options as a means to safely reduce costs
+for EV customers and ratepayers. VGIC notes that the approach taken in Hawaii stemmed in part
+from the Hawaii Public Utilities Commission’s efforts to reform utility incentive structures to
+reduce overall system costs and maximize ratepayer benefits.
+VGIC therefore urges the Commission to direct IOUs to develop a tariff that enables
+customer choice of load management solutions to ensure site capacity, as measured at the Point
+of Common Coupling, stays within certain limits and reduces the magnitude of necessary
+distribution system upgrades.
+Additional considerations for implementing tariff-based solutions that promote VGI capabilities
+through load management
+The method for implementing a tariff-based solution as VGIC and others have described in
+opening comments could include a few possible approaches, which we have detailed below. The
+first two approaches are applicable under a scenario where the Rule 15/16 exemption for
+7
+
+residential customers continues as is, while the third would be applicable under a future scenario
+where there is no longer an exemption (or to commercial customers that do not receive an
+exemption). Note that VGIC does not support removal of the Rule 15/16 exemption at this time
+but recognizes that this could be a possibility in the future. VGIC believes these could be
+applicable to both EVSE equipment with active load management, as well as EVs with
+equivalent capabilities.
+1. Upfront rebate: EVSE and/or EV customers that include a valid load-management
+approach may be eligible for an upfront rebate that is commensurate with the cost of the
+distribution system upgrades avoided through the load management system. For example,
+if the installation of a new charging port normally required $14,000 in make-ready
+equipment, but the load management system allowed the make-ready equipment costs to
+be reduced by 20%, then the rebate would be $2,800. This rebate could be treated as a
+utility operating expense and would reflect the avoided overnight capital costs, which
+benefits all customers.
+2. Retail rate discount: In lieu of an upfront payment, another option would be to apply a
+retail rate discount to all charging costs at locations where a load-management system has
+reduced the size of distribution system upgrades. For example, assuming the above
+scenario with $2,800 in avoided costs, a discount of $0.14/kWh could be applied
+(assumes 2000 kWh/yr in charging load, and 10-year EVSE life). For both this retail rate
+discount option, as well the rebate option above, a revenue sharing scheme could also be
+considered, whereby a greater share of the avoided distribution system costs are passed
+along to all ratepayers, rather than to solely the EVSE or EV provider.
+8
+
+3. Interconnection study options: Finally, if at some point in the future the Rule 15/16
+exemption is no longer in effect, customers should have the option to elect
+interconnection either with or without load-management. Under this approach, if an
+interconnection study is performed, it should by default include a sensitivity analysis
+where a load management option is assumed, and any interconnection costs identified in
+the study would be reduced accordingly. The interconnection customer would then have a
+choice of which option to pursue, so long as they employ a qualified load-management
+system that achieves reduced charging loads equal to (or less than) the study.
+While VGIC supports these options, we also recognize that there must be certain restrictions and
+qualifications in place for determining a valid load-management approach. This is necessary to
+preserve safety and reliability of the distribution grid. We recommend that qualifications for
+minimum capabilities apply to any active load-management approach in order to be eligible for
+the options described above. For example, load management solutions could be required to meet
+an applicable set of technical codes and standards for safety and reliability.
+Finally, VGIC points out that the load-management approaches described in this section
+are consistent with several of the recommendations including in the VGI Working Group report,
+including recommendations 2.04, 2.17, and 2.18 all of which had strong or good agreement
+among participating stakeholders.
+III. SUMMARY OF RECOMMENDATIONS.
+In responding to opening comments on Section 8, VGIC proposes several recommendations,
+which can be summarized as follows:
+9
+
+ VGIC agrees with several parties that it is premature to mandate a specific
+communication protocol. Instead, the Commission should focus on creating rates,
+programs, and incentives to promote VGI functionalities.
+ EVs generally fall into three classifications: [1] base-case load-only EVs, [2] V1G
+resources (flexible, but not bi-directional), and [3] V2G resources (flexible and bi-
+directional). Base-case load-only EVs should be treated as load modifiers. V1G and
+V2G resources should be treated as resources in IOU planning and procurement
+processes.
+ Auto OEMs do intend to produce LDV capable of V2G, but need regulatory certainty
+to support V2G product development. See Attachment A for an update on VGI
+standard development at SAE.
+ VGIC agrees with parties recommending a tariff-based solution to promote load
+management solutions. VGIC provides several considerations for implementing these
+tariff-based solutions, including rebates, retail rate discounts, and pathways within the
+interconnection process.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the Technology and
+Standards sections of the Draft TEF. We look forward to further collaboration with the
+Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: August 7, 2020
+10

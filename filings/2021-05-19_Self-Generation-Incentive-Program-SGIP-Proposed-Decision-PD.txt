@@ -1,0 +1,150 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Policies, Rulemaking 20-05-012
+Procedures and Rules for the Self-Generation (Filed May 28, 2020)
+Incentive Program and Related Issues.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION REVISING SELF-GENERATION
+INCENTIVE PROGRAM RENEWABLE GENERATION TECHNOLOGY
+PROGRAM REQUIREMENTS AND OTHER MATTERS
+Edward Burgess
+Policy Director
+Zach Woogen
+Policy Specialist
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+May 19, 2021
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Policies, Rulemaking 20-05-012
+Procedures and Rules for the Self-Generation (Filed May 28, 2020)
+Incentive Program and Related Issues
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION REVISING SELF-GENERATION
+INCENTIVE PROGRAM RENEWABLE GENERATION TECHNOLOGY
+PROGRAM REQUIREMENTS AND OTHER MATTERS
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1 hereby submits
+these comments on behalf of its members to the Proposed Decision Revising Self-Generation
+Incentive Program Renewable Generation Technology Program Requirements and Other Matters
+(“Proposed Decision”) issued by Commissioner Rechtschaffen on April 29, 2021.
+I. OVERVIEW OF VGIC.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation and
+electric sectors by ensuring the value from EV deployments and flexible EV charging and
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Enel X North America, Inc.,
+Fermata, LLC., Ford Motor Company, General Motors Company, Nissan North America, Inc., Nuvve Corporation,
+Stellantis, The Mobility House, Toyota Motor North America, Inc., and Ossiaco, Inc. The views expressed in these
+Comments are those of VGIC, and do not necessarily reflect the views of all of the individual VGIC member
+companies or supporters. (https://www.vgicouncil.org/).
+2
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+II. COMMENTS RELATING TO EV/EVSE IN SGIP.
+A. Bidirectional EV/EVSE technology is commercially available today and deployed in
+California.
+VGIC would like to emphasize that bidirectional EV/EVSE is already a commercially
+available technology configuration. V2G-capable vehicles on California’s roads today include
+26,000 Nissan LEAFs, over 2,000 Mitsubishi EVs (including the i-MiEV and Outlander PHEV),
+and over 100 Blue Bird electric school buses, together totaling almost 900 MWh of energy
+storage capacity.2 Several EVSE manufacturers sell bidirectional chargers that fit these vehicles,
+and there exists a clear interconnection pathway as clarified in Decision (“D.”) 20-09-035.3
+There is a critical need to leverage these potential bidirectional EV/EVSE for the benefit of
+California’s customers, grid, and decarbonization goals, and VGIC respectfully urges the
+Commission to continue and accelerate, where possible, the incorporation of bidirectional
+EV/EVSE applications into California’s DER toolkit.
+B. California risks falling behind the curve on promoting bidirectional charging just as
+the need for customer-sited backup power grows.
+2 Comments of the Vehicle-Grid Integration Council on the Proposed Decision Directing Pacific Gas and Electric
+Company, Southern California Edison Company, and San Diego Gas & Electric Company to Take Actions to Prepare
+for Potential Extreme Weather in the Summers of 2021 and 2022 filed March 15, 2021 in R.20-11-003.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M370/K905/370905757.PDF
+3 See Decision Adopting Recommendations from Working Groups Two, Three, and Subgroup D.20-09-035 in R.17-
+07-007 Ordering Paragraphs 39, 40, and 41 at 218-219.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M347/K953/347953769.PDF
+3
+
+Experts have detailed that California’s fire season is becoming more disruptive each year,
+and PSPS events may even become a year-round phenomenon.4 Meanwhile, the use of EVs as
+backup power is growing around the country, and California risk falling behind other states as it
+passes on the opportunity to provide funding support for this critical use case. Currently, there
+are no direct incentives for bidirectional EVs/EVSE or make-ready funding dedicated to
+installing bidirectional EVSE. Bidirectional EVSE are not currently eligible for CALeVIP
+incentives, and EV discharging is not compensated under existing demand response programs.
+Additionally, VGIC believes bidirectional EV/EVSE deployment can also support
+California’s equity goals, including those central to SGIP. The use of bidirectional EV/EVSE to
+provide backup power is a cost-effective solution and supports energy equity goals by providing
+a lower cost and higher energy storage capacity alternative to the existing fleet of stationary
+energy storage used to provide backup power.
+C. The Commission should continue to explore incentive programs for VGI, including in
+R.18-12-006 (“DRIVE OIR”).
+The Proposed Decision declines to establish SGIP budget categories or incentives for
+bidirectional EV/EVSE due to limited SGIP program funding as well as the recent allocation of
+$35 million for VGI Pilots as part of the DRIVE OIR.5 VGIC appreciates the Commission’s
+authorization of the VGI Pilot funds in DRIVE OIR as a strategy to maximize VGI pursuant to
+SB 676 (Bradford, 2019). At the time that VGIC submitted its comments on SGIP eligibility for
+4 https://www.latimes.com/california/story/2021-05-17/palisades-fire-and-evacuations
+5 Proposed Decision at 78-82 and 91.
+4
+
+EV/EVSE, it was unclear if and when any funding might become available for VGI at all.6
+However, given the Proposed Decision’s determination to not make bi-directional EV/EVSE
+eligible for SGIP funding, VGIC respectfully requests stronger clarification from the
+Commission that the DRIVE OIR will in fact be the primary venue for any future consideration
+of direct incentives or other funding support specifically for VGI. VGIC believes this will aid
+stakeholders in focusing their efforts on the appropriate venue. VGIC looks forward to working
+with the Commission and other stakeholders to ensure that the VGI Pilots authorized in the
+DRIVE OIR are successful and achieve full-scale program implementation.
+EV technology is a distributed energy resource (“DER”), as codified in PUC 769, and the
+Commission previously clarified in D.20-09-035 that V2G systems are energy storage.7 As such,
+VGIC urges the Proposed Decision be revised to accurately reflect this finding and specify that –
+although the Commission has determined V2G is energy storage – it is not an eligible form of
+energy storage for the purposes of SGIP. VGIC believes this potential inconsistency and absence
+of a level playing field was clearly demonstrated in the record of this proceeding and should be
+reflected in revisions to the Proposed Decision. Additionally, to the extent that funding for V2G
+is provided through the VGI Pilots, the Commission should ensure going forward that it is not
+being placed at any sort of disadvantage relative to stationary storage systems.
+6 VGIC submitted Joint Comments of the VGIC and BMW of North America to the Assigned Commissioner’s Scoping
+Memo and Ruling on September 16, 2020 and subsequent Reply Comments of the VGIC to the Assigned
+Commissioner’s Scoping Memo and Ruling on October 23, 2020. The Commission issued the Proposed Decision
+Concerning Implementation of Senate Bill 676 and Vehicle-to-Grid Integration Strategies on November 13, 2020
+and later adopted Decision 20-12-029 Concerning Implementation of Senate Bill 676 and Vehicle-Grid Integration
+Strategies on December 17, 2020.
+7 See Public Utilities Code 769 (a)
+https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PUC&sectionNum=769 and Decision
+Adopting Recommendations from Working Groups Two, Three, and Subgroup D.20-09-035 in R.17-07-007 Ordering
+Paragraphs 39, 40, and 41 at 218-219.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M347/K953/347953769.PDF
+5
+
+D. VGI should be eligible for panel upgrade incentives, similar to those offered to heat
+pump water heaters.
+The April 16, 2021 Administrative Law Judge’s Ruling in the SGIP proceeding proposed
+to provide incentives of $2,800-$3,600 for electrical panel upgrades required by heat pump water
+heater installations. VGIC believes that for future considerations, similar incentive eligibility
+should be offered to panel upgrades for VGI system installations at the customer’s premise.
+Considering the higher-power EVSE coming to the market in the next few years, such incentives
+would substantially ease the consumer adoption hurdle for EVs in general as well as expand
+customer access to VGI technologies that provide grid benefits.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments to the SGIP Proposed
+Decision. We look forward to further collaboration with the Commission and stakeholders on
+this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: May 19, 2021
+6

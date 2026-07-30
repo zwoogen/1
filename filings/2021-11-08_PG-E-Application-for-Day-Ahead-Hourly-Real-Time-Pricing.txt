@@ -1,0 +1,114 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL ON PROPOSED
+DECISION AUTHORIZING PACIFIC GAS AND ELECTRIC COMPANY TO
+IMPLEMENT AN OPTIONAL DAY-AHEAD REAL TIME RATE FOR COMMERCIAL
+ELECTRIC VEHICLE CUSTOMERS
+Ed Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+Vehicle Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, CA 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+November 8, 2021
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL ON PROPOSED
+DECISION AUTHORIZING PACIFIC GAS AND ELECTRIC COMPANY TO
+IMPLEMENT AN OPTIONAL DAY-AHEAD REAL TIME RATE FOR COMMERCIAL
+ELECTRIC VEHICLE CUSTOMERS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (“VGIC”) hereby submits
+these comments on the Proposed Decision Authorizing Pacific Gas and Electric Company
+(“PG&E”) to Implement an Optional Day-Ahead Real Time Rate (“DAHRTP”) for Commercial
+Electric Vehicle Customers, issued on October 18, 2021.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric gird.
+VGIC is generally supportive of the Proposed Decision (“PD”) authorizing PG&E to
+implement an optional day-ahead real time rate for commercial electric vehicle customers. VGIC
+2
+
+is especially encouraged by the Commission’s determination to offer the rate as an option to all
+eligible customers, rather than a limited pilot. Additionally, VGIC commends the Commission for
+determining that – once a submetering protocol is approved – a separate meter shall no longer be
+required to take service on any BEV rate, including the optional DAHRTP rate. With this in mind,
+VGIC offers several key recommendations in these comments related to the treatment of the V2G
+export compensation issue within this PD.
+II. THE PD SHOULD DETAIL A PROCESS FOR V2G COMPENSATION TO BE
+CONSIDERED IN PHASE 2 OF THIS APPLICATION.
+In opening briefs, Enel X argues that the Commission’s decision in this case should “take
+into account the possibility that the Commission may authorize, sometime prior to pilot launch or
+over the course of the pilot, export compensation pathways for non-NEM, behind-the-meter
+resources.”1 However, the PD does not address the issue of export compensation for non-NEM,
+behind-the-meter resources (e.g., V2G/V2X/V2B resources). VGIC believes that offering
+compensation for V2G operation could meaningfully support EV customers, accelerate TE more
+broadly, and help to manage costs incurred by non-EV customers. V2G compensation was one of
+the key recommendations in the VGI WG final report,2 and product announcements that have
+occurred since PG&E’s application indicate a higher likelihood that V2G capabilities will be
+deployed at PG&E BEV-eligible customer sites in the near future. Advancements in the process
+for V2G interconnection have also been made, as the Commission recently approved the landmark
+Resolution E-5165, which streamlines interconnection for V2G resources.
+1 Enel X, Opening Brief at 34.
+2 Final Report of the California Joint Agencies Vehicle-Grid Integration Working Group. June 30, 2020.
+https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf
+3
+
+In Reply Briefs, VGIC extensively detailed why consideration for this issue is necessary and
+warranted at this time.3 Specifically, VGIC noted that:
+ There is a very real possibility, given interconnection rules and available or announced
+products that a non-NEM customer taking service under the DAHRTP may seek to export
+power to the grid.
+ The Application is deficient in that it does not detail what compensation (if any) would be
+offered to exports from non-NEM customers or why exports from non-NEM customers
+should be treated differently from exports from NEM customers.
+ Encouraging V2G operation can benefit grid reliability.
+ Other venues for addressing V2G exports may not proceed in a timely enough manner to
+provide fair compensation for near-term V2G opportunities.
+As written, the PD is silent on these issues. This could have the unintended consequence of
+discouraging near-term investments in V2G capable technologies among commercial EV
+customers since there is no clear pathway towards establishing a relevant price signal. As such,
+VGIC recommends that the Commission revise the PD to require PG&E to file a supplement to its
+application that specifically addresses export compensation for non-NEM customers, and that a
+subsequent stakeholder engagement process be scoped into Phase 2 of this application.
+III. AT A MINIMUM, THE PD SHOULD ACKNOWLEDGE THE ARGUMENTS
+RELATED TO V2G EXPORTS AND INDICATE THE PROCEEDING IN
+WHICH THE COMMISSION PLANS TO ADDRESS V2G RATE DESIGN.
+At this time, VGIC is unclear as to why exports for non-NEM customers taking service
+under the new optional DAHRTP rate cannot be considered by the Commission and addressed by
+stakeholders in Phase 2 of this proceeding. However, if the Commission deems that authorization
+of V2G export rates should be considered through some other existing or future proceeding, VGIC
+respectfully requests that the Commission clarify which proceeding will serve as the forum to
+consider these issues. This clarity is critically needed to guide stakeholders and signal to the
+3 VGIC, Reply Brief at 3.
+4
+
+industry that the Commission indeed intends to follow through on its finding in D.20-12-029 that
+“the exploration of such a [credit-for-export] scheme should be pursued.”4
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+November 8, 2021
+4 D.20-12-029 at 32.
+5

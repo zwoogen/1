@@ -1,0 +1,136 @@
+May 30, 2023
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission Regarding Electric Vehicle
+Supply Equipment and Infrastructure
+Reply Comments the Vehicle-Grid Integration Council (VGIC)
+on the Make-Ready Program Mid-Point Review Staff Whitepaper
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) member-based association
+committed to advancing the role of electric vehicles (EVs) and vehicle-grid integration (VGI)
+through policy development, education, outreach, and research. VGIC supports the transition to
+decarbonized transportation and electric sectors by ensuring the value from EV deployments and
+flexible EV charging and discharging is recognized and compensated to achieve a more reliable,
+affordable, and efficient electric grid. VGIC appreciates the opportunity to provide these reply
+comments on Staff’s Make-Ready Program Midpoint Review and Recommendations
+Whitepaper.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, bp pulse,
+Customized Energy Solutions, dcbel, Enel X North America, Inc., Enphase Energy, Fermata Energy, FlexCharging,
+FLO EV Charging, Ford Motor Company, FreeWire Technologies, Inc., General Motors, GridWiz, Hoosier Energy,
+Innovation Core SEI, IoTecha, Kaluza, Kitu Systems, Ninedot Energy, Nissan Group of North America, Nuvve
+Holding Corporation, Peak Power, Qcells, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, The
+Mobility House, Toyota Motor North America, Inc., Utilidata, Veloce Energy, Inc., Wallbox USA Inc., and
+WeaveGrid. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of
+all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+Incentives for Cost-Reducing Advanced Technologies
+Along with VGIC, several parties expressed support for Staff’s proposal to extend make-
+ready incentives to cost-reducing advanced technologies such as battery storage.2 In addition, a
+simple, streamlined process to determine the incentive eligibility and amount that site hosts can
+expect to receive will be critical for the deployment of advanced technologies that can help
+reduce the grid and ratepayer costs associated with make-ready infrastructure. Several parties
+recommended that the Commission avoid requiring site-specific cost-benefit analysis to
+determine eligibility for such incentives. Rather, a standardized method, such as a set dollar per
+kW reduced, could help provide simplicity and predictability, enabling site hosts and technology
+providers to determine the most cost-effective technology for their needs and accurately assess
+the financial viability of projects.
+Earthjustice and Sierra Club recommended that site hosts be required to quantify the cost
+and potential cost savings of the advanced technology and to size incentives for each site only to
+overcome the upfront cost barrier but not provide windfalls to the site host.3 While VGIC
+supports Earthjustice and Sierra Club’s intent to ensure that the deployment of advanced
+technologies provides grid and ratepayer benefits and avoids providing excessive subsidies to
+site hosts, VGIC believes this proposal would place a significant burden on site hosts, delay
+installation timelines, and discourage the deployment of these advanced technologies. Instead,
+the net benefits to the grid and ratepayers should be demonstrated at the portfolio level rather
+than at individual sites. As long as the total amount of incentives paid out to all site hosts for
+advanced technologies results in cost savings on aggregate, then the incentives will have yielded
+benefits to the grid and ratepayers. As the use and understanding of these advanced technologies
+mature such that customers can more easily quantify benefits and costs, VGIC believes
+2 See comments from PowerFlex (pg. 3), NY-BEST (pg. 2-3), Advanced Energy United & ACE NY (pg. 11), Joint
+Utilities (pg. 24), the City of New York (pg. 21), FreeWire (pg. 3), EnergyHub (pg. 4), and SWTCH (pg. 4-5).
+3 See Earthjustice & Sierra Club comments (pg. 4-5).
+2
+
+Earthjustice and Sierra Club’s recommendation should be revisited to ensure the long-term
+sustainability of this offering.
+The Commission should also adopt a broad and comprehensive definition of “advanced
+technologies.” The Staff Whitepaper points to “battery paired solutions” as an approach that can
+“reduce peak demand of chargers and lower make-ready cost.” However, as mentioned in
+VGIC’s initial comments, Automated Load Management (“ALM”) solutions, which refer to the
+same technologies Staff calls “cost-reducing advanced technologies,” include a range of
+software- and hardware-based approaches. In addition to co-located or integrated storage, these
+include power sharing, rectifier cabinets, and other solutions, all of which can reduce the peak
+demand of chargers at a given site and, in turn, lower make-ready costs. Any solution that can
+achieve the same objectives should be eligible for make-ready incentives. Several parties
+commented on the need for incentives to be technology-agnostic to include all possible
+approaches to demand management.4
+Similarly, Staff’s discussion of power sharing and questions regarding potential
+asymmetrical incentives for customer-side and utility-side make-ready should also apply to the
+wide range of ALM technologies and approaches. VGIC supports funding a higher capacity on
+the customer-side to encourage ALM adoption but agrees with other parties that there should not
+be a minimum utility-to-customer-side ratio.5 Flexibility is important to accommodate the unique
+charging and load management needs of each charging site.
+Stakeholder Processes to Address Barriers to VGI
+There is strong support among stakeholders for Staff’s proposal to address
+interconnection and other barriers to VGI through additional stakeholder processes.6 However,
+parties also agree with VGIC that the Technical Standards Working Group (TSWG) may not be
+4 See comments from PowerFlex (pg. 3), Advanced Energy United & ACE NY (pg. 11), SWTCH (pg. 4-5).
+5 See comments from PowerFlex (pg. 4), Advanced Energy United & ACY NY (pg. 13-14)
+6 See comments from the City of New York (pg. 12-13), NY-BEST (pg. 3-4), Alliance for Transportation
+Electrification (pg. 10), Joint Utilities (pg. 25), and Nuvve (pg. 2-3).
+3
+
+the most appropriate venue for this effort. Similar to what VGIC proposed in initial comments,
+Nuvve and NY-BEST also recommended that most VGI-related issues be addressed by the VGI
+Working Group (VGI WG).7 However, Nuvve and NY-BEST also recommended that the topic
+of interconnection specifically be addressed in the Interconnection Technical Working Group
+(ITWG), which already addresses both load and exports for stationary battery storage.8
+Additionally, Fermata Energy highlighted that stakeholders are already engaging the ITWG
+regarding technical standards for V2X interconnection.9 VGIC agrees with Nuvve and NY-BEST
+that the interconnection process for unidirectional and bidirectional EVSE should be addressed in
+a coordinated manner rather than being bifurcated into different working group processes, which
+could potentially result in disjointed and conflicting rules. Given its ongoing work on similar
+issues, the ITWG should be the venue for further work on EVSE interconnection. The VGI WG
+should address other VGI-related issues such as customer education, demand response
+participation, resiliency use cases, and other incentives, pilots, or programs. The TSWG should
+continue to focus on its current effort on EV and EVSE metering accuracy testing.
+Support for Bidirectional Charging
+Along with VGIC, several parties voiced support for Staff’s proposal to update all the
+Joint Utilities’ VDER tariffs to extend eligibility for compensation to vehicle-to-grid (“V2G”)
+exports.10 As discussed in VGIC’s initial comments, additional steps are necessary to help spur
+the bidirectional charging market in New York. For example, opening comments demonstrated
+strong support among V2G stakeholders for a temporary waiver of UL 1741-SB requirements for
+V2G DC EVSE.11 VGIC also supports Nuvve’s recommendation that the Joint Utilities develop
+a V2G VDER calculator to help fleet customers considering investments in bidirectional
+charging estimate potential revenues from VDER, similar to the existing VDER calculators for
+7 See comments from NY-BEST (pg. 4) and Nuvve (pg. 1-2).
+8 See comments from NY-BEST (pg. 5) and Nuvve (pg. 2-3).
+9 See Fermata Energy comments (pg. 2)
+10 See comments from NY-BEST (pg. 4), Advanced Energy United & ACE NY (pg. 12), EnergyHub (pg. 5), Nuvve
+(pg. 2), and Fermata Energy (pg. 1-2).
+11 See comments from NY-BEST (pg. 4), Nuvve (pg. 3), and Fermata Energy (pg. 2-3).
+4
+
+solar and stationary battery storage.12 The V2G VDER calculator can then be included as part of
+the Joint Utilities’ Fleet Assessment Services, as recommended by Fermata Energy.13
+Additionally, VGIC agrees with the City of New York that bidirectional charging should be
+considered an “advanced technology” and, therefore, eligible for make-ready incentives.14
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Commission, the Joint Utilities, and other stakeholders to ensure the success of
+New York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+vgicregulatory@vgicouncil.org
++1 (941) 266-0017
+www.vgicouncil.org
+12 See Nuvve comments (pg. 2).
+13 See Fermata Energy comments (pg. 3).
+14 See the City of New York comments (pg. 20-21).
+5

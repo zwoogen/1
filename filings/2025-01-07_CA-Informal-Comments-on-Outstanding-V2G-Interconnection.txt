@@ -1,0 +1,262 @@
+January 7, 2025
+To: Energy Division Rule 21 staff
+Subject: Informal Comments of the Vehicle-Grid Integration Council on 2024 Q4
+Interconnection Discussion Forum Regarding “Outstanding Topics” and Forthcoming
+Rule 21 Proceeding Scope
+I. Introduction.
+The Vehicle-Grid Integration Council (“VGIC”) appreciates the opportunity to provide these
+informal comments on key topics related to the interconnection of vehicle-to-grid (“V2G”)
+systems and associated processes under Rule 21. Below, we outline several areas where we believe
+improvements could significantly enhance the efficiency and clarity of interconnection procedures,
+ultimately supporting California's ambitious clean energy and transportation goals, including
+Senate Bill 676, which directs the Commission to maximize the use of feasible and cost-effective
+VGI.
+II. Interconnection Application Form and Portal Updates to Allow Applicants to
+Indicate a Site as V2G.
+To avoid confusion and delay, it is critical that each investor-owned utility’s (“IOU”)
+interconnection application forms and online portal, if available, allow applicants to clearly
+identify whether an energy storage system is a V2G system. This update, detailed although
+ultimately not directed in Decision (D.) 20-09-035 Issue 23f, is now more relevant as V2G
+interconnection requests have increased in the five years since the Working Group Three report
+was submitted. Furthermore, applicants should be able to specify the technology type (V2G AC
+or V2G DC), as it can expedite utility review and support the recommended reporting detailed in
+section VI below.
+Notably, PG&E has made and maintained this update to its forms, which demonstrates that such
+updates are feasible and effective.1 In contrast, SCE and SDG&E have not implemented similar
+updates, which VGIC members report resulting in confusion and delays.2 The lack of appropriate
+forms also risks applications being routed out of Rule 21, for example, to a make-ready program
+or tariff (i.e., Rule 29/45).
+1 PG&E Electric Form No. 79-1174-03. Attachment H. Section AB.
+https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_FORMS_79-1174-03H.pdf
+2 See SCE Electric Form 14-918. Question 3.b. https://www.sce.com/sites/default/files/custom-
+files/PDF_Files/ELECTRIC_FORM_14-918_PDF%20fillable.pdf and SDG&E Electric Form 142-05201
+https://tariffsprd.sdge.com/view/tariff/?utilId=SDGE&bookId=ELEC&tarfKey=730
+1
+
+VGIC recommends this outstanding issue be scoped into the upcoming Rule 21 proceeding.
+Consistent, standardized processes are essential to enable V2G project development and avoid
+unnecessary delays.
+III. Incorporate UL QIKP Certification Program as One Permanent Pathway for V2G
+AC Interconnection.
+This item is referenced in issue #3 of List of Potentially Outstanding or Important
+Interconnection Topics from Past IDFs, Proceedings, and Other Completed or Ongoing
+Interconnection Discussions. VGIC recommends the upcoming Rule 21 proceeding seek to
+expedite the incorporation of the UL QIKP certification program for V2G AC systems as one
+available permanent interconnection pathway for V2G AC applicants. This could occur through
+a dedicated track in the Rule 21 proceeding, a dedicated reconvening of the V2G AC subgroup,
+or some other pathway. The UL QIKP certification pathway evaluates both the core UL 1741/UL
+9741 safety requirements and the grid-interactive requirements found in UL 1741 SA and SB.
+Timely incorporation into Rule 21 would immediately streamline interconnection for V2G
+AC projects, which can significantly increase the availability of distributed V2G-capable
+systems supporting California’s urgent ratepayer affordability, system reliability, and statewide
+climate goals.
+Given these recent developments, as well as the highly self-contained nature of the issue relative
+to all other outstanding IDF/Rule 21 issues, VGIC strongly urges this issue be taken up in a near-
+term, dedicated effort to focus party efforts and streamline the incorporation of UL QIKP, rather
+than defer near-term action. Critically, action to incorporate UL QIKP pathway should not
+be dependent on the completion of UL 1741 SC, which is a separate standard. VGIC sees
+no reason to wait until UL 1741 SC is published to consider the UL QIKP pathway, as
+these pathways are not mutually exclusive but rather complementary.
+Given the experience of VGIC, UL, utilities, and other participants in the recent Maryland
+docket incorporating a UL QIKP pathway for V2G AC interconnection (detailed below), we
+believe it is possible to efficiently address this issue in its own effort (either a dedicated track of
+the forthcoming Rule 21 proceeding, a dedicated reconvening of the V2G AC technical subgroup
+that is unrelated to the completion of UL 1741 SC, or some other dedicated effort). In turn,
+supporting V2G AC interconnection can unlock anywhere from 820 MWh3 (i.e., only from
+currently-registered Tesla Cybertrucks in the state) to 150,000 MWhs4 (from all on-road
+California EVs) of latent technical energy storage capacity. This untapped network of distributed
+energy storage customers could enroll in emergency reliability programs, cost-based export rate
+designs, and dynamic rate pilots which are intended to support the Commission’s critical
+3 Assumes an average 123 kWh Tesla Cybertruck battery size and 6,670 total Tesla Cybertrucks registered in
+California through Q3 2024. See California Energy Commission (2025). New_ZEV_Sales_Last_update_11-19-
+2024_ada.xlsx. ZEV and Infrastructure Stats Data. Data last updated September 30, 2024. Retrieved January 6, 2025
+from https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+4 Assumes an average 71.4 kWh battery size and 2,113,135 EVs sold in California. See https://ev-
+database.org/cheatsheet/useable-battery-capacity-electric-car and https://www.veloz.org/ev-market-report/
+2
+
+affordability, reliability, and decarbonization goals. If even a very modest 0.25% of this total
+energy storage capacity from currently-registered Tesla Cybertrucks was made available for
+V2G activities, it would represent an immediate 400% increase in participating V2G kWh in
+California, thereby significantly supporting market development and ensuring widespread V2G
+can indeed support the grid in the long run, as envisioned by Senate Bill 676 (Bradford, 2019).5
+In terms of instantaneous available power, enabling the fleet of already-registered Tesla
+Cybertrucks to export to California’s grid would represent 76 MW of instantaneous available
+export capability.6 VGIC is concerned that the Commission may forego these significant values
+and the ratepayer benefits they bring if we defer consideration of the UL QIKP pathway until UL
+1741 SC is complete.
+As referenced above, there has been a recent regulatory precedent related to UL 1741 QIKP.
+Maryland’s Public Service Commission recently indicated its approval of UL QIKP as one of
+two permanent interconnection pathway options for V2G AC systems, citing its strong technical
+foundation.7 Specifically, the Commission documents note the following three reasons to offer
+the UL QIKP V2G AC pathway as an alternative to the UL 1741 SC/SAE J3072 approach:
+1. “A core component of UL 1741 SC is that it enables the EVSE to authorize the
+EV to discharge based on the vehicle’s compliance to SAE J3072. This is
+important in cases where several V2G capable vehicles may be plugging into the
+EVSE, and the EVSE needs to perform this check. However, in cases where only
+one V2G capable vehicle will be plugging into the EVSE (e.g., a single-family
+residential setting), the UL QIKP certification pathway is sufficient to ensure grid
+interconnection/performance certification. In summary, QIKP works for a single
+installation site with a single defined EV.
+2. While the Workgroup supports the incorporation of UL 1741 SC as an option for
+V2G AC systems within these regulations, the UL 1741 SC working group has
+not yet published the standard and has pushed back publication a few times.
+Allowing for the QIKP pathway creates a hedge against further delays to UL 1741
+SC, and enables Maryland to achieve the vision set forth in the DRIVE Act
+3. Original Equipment Manufacturers (OEMs) of V2G systems may choose different
+pathways. As long as those pathways can ensure safety and reliability through UL
+5 The two largest interconnected V2G sites in California are the Oakland and Cajon Valley school bus depots. The
+Oakland site uses 74 141-kWh BYD/RIDE Type A buses and the Cajon Valley uses six Lion Type C, which we will
+assume have the smallest battery capacity of 126 kWh. The available capacity from these sites totals 11 MWh.
+Assuming a 5% availability rate, this yields 0.5 MWh of available energy storage capacity. With 820 MWh available
+Tesla Cybetruck energy storage capacity at a 5% availability rate and a 5% customer participation rate, this
+represents a 367% increase.
+6 Assumes 11.5 kW V2G charging. https://www.tesla.com/powershare.
+7 See: Maryland Public Service Commission. Notice Initiating a Rulemaking, Opportunity to Comment, and
+Rulemaking Session. RM 87. https://webpscxb.psc.state.md.us/DMS/rm/rm87. Proposed Regulations (RM87):
+PC44 Interconnection Workgroup: V2G Regulation Proposal. October 30, 2024. Page 5-6. See also Commission
+approval of RM 87. https://www.youtube.com/watch?v=Ojh98h_81ZA&t=410s at 5:49. Note final adoption is not
+anticipated until May 1, 2025.
+3
+
+certification, including both the fire/shock safety evaluation and the grid
+interconnection/performance functionality, then these pathways should be open to
+OEMs. This is particularly important while the V2G system market is still
+relatively nascent. We must ensure the core safety and reliability of the grid,
+which both pathways accomplish, while not being too prescriptive over the path
+that OEMs take.”8
+Utility and industry stakeholders have been briefed on the UL QIKP pathway for V2G AC
+systems, including at the December 7, 2023 Smart Inverer Working Group and subsequent
+meetings, and there exists growing support for this approach.
+While early bidirectional charging products were based on a V2X DC configuration, more recent
+bidirectional charging solutions, including offerings from Tesla and Lucid, leverage a V2X AC
+configuration. Given the prevalence and continued growth of these systems, it is reasonable to
+address adoption of this pathway at this time.
+Critically, adopting the UL QIKP pathway into Rule 21 via either (a) an immediate,
+separate track in the forthcoming Rule 21 proceeding, (b) an immediate reconvening of the
+V2G AC subgroup, or (c) some other pathway to immediately consider these revisions to
+Rule 21 shall not preclude progress on other likely viable V2G AC interconnection
+pathways standards, namely UL 1741 SC. Instead, it provides immediate optionality for
+developers while maintaining the core, rigorous safety and interoperability certification
+requirements needed to ensure safety and reliability on the grid.
+With this in mind, VGIC strongly urges ED staff to consider the following scoping question for
+the new Rule 21 proceeding to address these deficiencies and resolve this important outstanding
+issue:
+• “Should Rule 21 be updated in the immediate term, through either (a) a dedicated track of
+this proceeding, (b) a dedicated effort within the V2G AC subgroup, or (c) some other
+near-term approach to incorporate UL QIKP as a means of interconnecting V2G AC
+systems? Why or why not?
+o If so, what specific changes are needed to Rule 21 to allow this certification
+pathway to be utilized?”
+Additionally, should UL 1741 SC be published prior to finalizing the new Rule 21 proceeding
+scope, and to ensure equitable treatment for both V2G AC standards pathways, the Commission
+may seek to pose the following related question to parties:
+• “Should Rule 21 be updated in the immediate term, through either (a) a dedicated track of
+this proceeding, (b) a dedicated effort within the V2G AC subgroup, or (c) some other
+8 Maryland Public Service Commission. Notice Initiating a Rulemaking, Opportunity to Comment, and Rulemaking
+Session. RM 87. https://webpscxb.psc.state.md.us/DMS/rm/rm87. Proposed Regulations (RM87): PC44
+Interconnection Workgroup: V2G Regulation Proposal. October 30, 2024. Page 5. Footnote 14.
+4
+
+near-term approach to incorporate UL 1741 SC as a means of interconnecting V2G AC
+systems? Why or why not?
+o If so, what specific changes are needed to Rule 21 to allow this certification
+pathway to be utilized?”
+IV. Reassess Application Fees for Non-NEM and Non-NBT Exporting Systems.
+VGIC is concerned that interconnection fees for non-NEM and non-NBT exporting systems are
+disproportionately high and not reflective of actual utility costs. This is an outstanding issue from
+the previous Rule 21 proceeding R.17-07-007: “Should the Commission revise the application
+fee for non-net energy metering systems? How should the Commission determine what the
+revised fee should be?”9 The topic is also detailed in issue #5 of List of Potentially Outstanding
+or Important Interconnection Topics from Past IDFs, Proceedings, and Other Completed or
+Ongoing Interconnection Discussions.
+Notably, these fees significantly exceed those charged by utilities in other states, as demonstrated
+below in Attachment A. Additionally, these fees have an outsized impact on V2G systems,
+which have relatively lower upfront costs compared to stationary energy storage systems, rooftop
+solar PV, or other DERs interconnecting under Rule 21. For example, where the most significant
+share of the total upfront costs for a stationary battery energy storage system is the battery itself,
+this is not one of these costs in enabling a V2G system, as the vehicle battery has already been
+purchased for its primary transportation use case. As a result, the $800 interconnection
+application fee comprises one of the most significant upfront costs for V2G systems and, in turn,
+one of the largest barriers to widespread V2G.
+We recommend this outstanding issue from R.17-07-007 be addressed in the first phase of the
+forthcoming Rule 21 proceeding to ensure the fees are reasonable for V2G customers. Reducing
+these fees would remove a significant barrier for smaller V2G projects, in particular.
+V. Align Rule 21 with the CEC’s DSGS Option 3.
+The CEC’s Demand Side Grid Support (“DSGS”) Option 3 provides a critical revenue
+opportunity for V2G resources, with potential earnings of $100/kW-summer or more. However,
+the current UL 1741 SB requirement in Rule 21 prevents many V2G systems from participating,
+even though the CEC explicitly states UL 1741 SB listing is not required for DSGS Option 3
+Battery Virtual Power Plants.
+VGIC strongly urges this issue be resolved to unlock emergency reliability resources in response
+to the high-revenue V2G opportunity, as is the intention of CEC DSGS Option 3.
+VI. Standardize Reporting of V2G Projects in Quarterly Rule 21 Timeline Filings.
+9 Assigned Commissioner’s Second Amended Scoping Memo and Ruling for Phase II of Proceeding. May 12, 2021.
+http://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M384/K265/384265152.PDF. Page 10. Issue 9.
+5
+
+This outstanding item is related to the items detailed in issue #2 on the List of Potentially
+Outstanding or Important Interconnection Topics from Past IDFs, Proceedings, and Other
+Completed or Ongoing Interconnection Discussions. Decision 20-09-035 OP 22 mandates
+quarterly reporting on interconnection timelines, yet the lack of consistency in how V2G projects
+are categorized undermines the utility of these reports and the learnings used to inform broader
+program, policy, and tariff development at the CPUC.
+PG&E’s reporting does include detailed classifications, such as “Storage – EV” (presumably,
+V2G AC) and “Storage – EVSE” (presumably, V2G DC). This provides a model for
+transparency and supports key learnings to inform the development of CPUC initiatives.
+However, SCE and SDG&E quarterly timeline reporting fails to distinguish V2G technology
+types within the “energy storage” category, despite evidence of V2G interconnection activity in
+their territories (e.g., Cajon Valley School District in SDG&E territory). VGIC suspects that
+improvements made in response to the forms/portal update issue detailed above in section II
+would directly support this standardized reporting.
+All IOUs should be required to uniformly categorize V2G projects in their reports. This will
+enable stakeholders to identify critical bottlenecks in the interconnection process and address
+them effectively, ensuring all technology types are treated equitably.
+VII. Address Counterproductive Disconnect Requirements During Undervoltage Events.
+This item is related to issues #3 and #7 in the List of Potentially Outstanding or Important
+Interconnection Topics from Past IDFs, Proceedings, and Other Completed or Ongoing
+Interconnection Discussions. As VGIC understands it, under current Rule 21 requirements,
+exporting devices must disconnect during undervoltage events. This approach is
+counterproductive, as it exacerbates grid instability rather than mitigating it. By staying
+connected, V2G systems could support local voltage levels and enhance grid resilience.
+VGIC recommends revisiting this requirement to align with grid reliability objectives and enable
+V2G resources to contribute positively during undervoltage events.
+VIII. Define a Timeline or Roadmap for Transitioning to Virtual Inspection and
+Notification-Only Approaches.
+This item is related to issues #2 in the List of Potentially Outstanding or Important
+Interconnection Topics from Past IDFs, Proceedings, and Other Completed or Ongoing
+Interconnection Discussions. Virtual inspections and notification-only approaches both offer cost
+and time improvements over traditional site inspection processes, especially for smaller V2G
+projects. Establishing a clear timeline and milestones for this transition will streamline
+interconnection processes and reduce burdens on applicants.
+Currently, all three utilities leverage virtual inspections to a certain extent to streamline
+interconnection. However, field inspections are still required typically for projects using relays,
+AC disconnects, NGOMs, and variances from Rule 21. Meanwhile, the currently-approved
+6
+
+notification-only pilot is available through September 2025, and is only open to non-export
+standalone storage or solar-plus-storage projects less than 30 kVA capacity.10
+VGIC acknowledges that the V2G market may not yet be mature enough to leverage these
+approaches. However, we recommend the new scope of the proceeding consider establishing
+certain milestones or explicit timelines for when both issues should be taken up. Presumably,
+virtual inspections would be applied to V2G in the near term, whereas notification-only may be a
+more mid- to long-term endeavor. VGIC advises against subjecting these issues to the organic
+cycles of scoping new Rule 21 issues – as evident in Phase II of R.17-07-007, unexpected events
+can lead to delays of 4-5 years, even for already scoped, time-sensitive matters. Instead, VGIC
+recommends the new proceeding consider what milestones (e.g., a certain number of
+deployments) or timelines (e.g., a certain date for implementation) are appropriate to implement
+virtual inspection and, subsequently, notification-only approaches.
+IX. Conclusion
+VGIC appreciates the opportunity to submit these informal comments to the CPUC Energy
+Division staff on outstanding or important interconnection topics. We look forward to further
+collaboration with ED staff and other stakeholders on this important initiative.
+Respectfully submitted,
+Zach Woogen
+/s/ Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+10 https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M528/K052/528052750.PDF
+7

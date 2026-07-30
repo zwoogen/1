@@ -1,0 +1,185 @@
+May 14, 2024
+Comments of the Vehicle-Grid Integration Council
+on ComEd BE Pilots
+I. INTRODUCTION.
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) nonprofit member-based
+association focused on accelerating the role of smart electric vehicle (EV) charging and
+discharging (i.e., vehicle-grid integration or “VGI”) through policy development, education,
+outreach, and research. Scaling VGI is an essential part of transportation electrification and
+supports the following key goals:
+• Benefit EV drivers and fleet owners by reducing the total cost of ownership and
+providing additional value streams like backup power.
+• Decarbonize the transportation sector by accelerating EV adoption through
+additional benefits to EV drivers and fleet owners.
+• Support the evolving electric grid by providing essential grid services as variable
+energy generation and distributed energy resource penetration increases.
+• Increase affordability by right-sizing infrastructure investments and placing
+downward pressure on rates, in turn reducing electricity bills for all customers.
+• Improve community resiliency and security by utilizing EVs to provide emergency
+power during planned and unplanned grid outages.
+• Foster economic activity by catalyzing innovation, competition, and market
+transformation.
+With the proper utility and regulatory support and coordination, these goals can be
+achieved, and individual EV drivers and EV fleets in Illinois can play a critical role in the
+acceleration of both transportation electrification and grid decarbonization. Our vision for VGI
+encompasses the following key elements:
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Fermata Energy,
+Ford Motor Company, General Motors, Nissan Group of North America, Bidirectional Energy, Customized Energy
+Solutions, dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy, FreeWire Technologies, Inc., GridWiz,
+Kaluza, Landis + Gyr, Leapfrog Power, Inc., Nuvve Holding Corporation, Peak Power, PowerFlex, Qcells, Stellantis
+N.V., Sumitomo Electric, The Mobility House, Toyota Motor North America, Inc., WeaveGrid, Hoosier Energy,
+Peninsula Clean Energy, and Sacramento Municipal Utility District. The views expressed in these Comments are
+those of VGIC, and do not necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/)
+1
+
+• Ensure customer mobility needs are satisfied: Drivers and fleets can support the grid
+without compromising mobility needs.
+• Managed charging will benefit EV drivers and fleet operators: Drivers and fleets in
+Illinois will be provided a menu of opportunities to align charging with the times of day
+when electricity prices are low, reducing EV and fleet operating costs by as much as 50%
+compared to unmanaged charging. Lowering the total ownership cost of EV ownership will
+accelerate overall EV adoption by drivers and fleet managers in Illinois. Furthermore,
+managed charging reduces the need for expensive distribution system upgrades.
+• EVs provide reliable emergency power during blackouts: During extreme weather
+blackouts or other power outages, EV drivers and fleets can utilize bidirectional charging
+capabilities to send energy to a home, building, or microgrid, serving as a generator and
+providing safe emissions-free backup power for households and communities.
+• VGI strategies right-size charging infrastructure investments and accelerates
+deployment: Smarter management of EV charging will help maximize the impact of utility
+infrastructure investments, which encourages wider access to EV charging.
+• VGI enables EVs to provide valuable services to the grid and generate revenue: V2X
+(vehicle-to-everything bidirectional charging) enables EVs to both charge and feed power
+back to the grid, providing grid services such as demand response, peak shaving, frequency
+regulation, and more. A number of utilities across the US have implemented programs that
+provide compensation for these valuable grid services.
+VGIC commends ComEd for hosting the BE Plan 2 Stakeholder Collaboration Sessions and
+appreciates the opportunity to provide feedback on ComEd’s proposed BE Plan pilots.2 VGIC
+offers the recommendations below to support ComEd as it executes the proposed pilots and
+continues developing BE Plan 2.
+II. DISCUSSION
+a. VGIC supports ComEd’s proposed pilots and advises against relitigating the
+findings in Final Order 22-0432.
+On March 23, 2023, the Illinois Commerce Commission (“Commission”) issued Final
+Order 22-0432 in ComEd’s Beneficial Electrification Plan (“BE Plan”), requiring ComEd to
+2 ComEd BE Plan 2 Stakeholder Collaboration Session 1. Beneficial Electrification (BE) Plan 2: Stakeholder
+Collaboration – Session 1, April 10, 2024; ComEd BE Plan 2 Stakeholder Collaboration Session 2. Beneficial
+Electrification (BE) Plan 2: Stakeholder Collaboration – Session 2, April 17, 2024.
+2
+
+implement eight pilots (“BE Pilots”) as part of their BE Plan.3 As such, ComEd filed its BE Plan
+Compliance Filing in May 2023, which outlined the eight planned BE Pilots developed based on
+stakeholder ideas and Commission directives. ComEd’s BE Pilots included the following eight
+pilots: (1) School Bus Vehicle-to-Grid, (2) Residential Optimized Charging, (3) Curbside
+Charging, (4) Ridesharing (or other pilot program aimed at providing EV access to low-income
+and EJ/R3 customers for whom car ownership is not an option); (5) Backup Power Capabilities,
+(6) EV EMS, (7) Submetering, and (8) Air Quality Mapping Pilot. 4
+VGIC commends ComEd’s efforts in developing the BE Pilots, which represent important
+steps forward for Illinois’ ability to leverage VGI technologies. Despite the Commission’s prior
+approval and explicit direction for the eight BE Pilots and ComEd’s attempted compliance with
+this directive, participants in the recent BE Plan 2 stakeholder workshops questioned the
+effectiveness of ComEd’s proposed pilot plans. While VGIC believes it is unfortunate that these
+pilots have not yet launched in the 14 months since the Final Order, VGIC recommends ComEd
+continue its efforts to establish all eight BE Pilots as directed by the Commission’s Final
+Order. The BE Pilots should not be subject to cancellation or significant alteration, as that would
+undermine the Commission’s intent and the state’s clean energy goals.
+Moreover, as detailed below, these pilots will yield important lessons that will inform the
+scale-up to mass-market, territory-wide customer offerings that will play a central role in ComEd’s
+grid of the future. ComEd has an important opportunity to lay a foundation for widespread success
+in BE Plan 2 and beyond by continuing with the proposed BE Pilots.
+b. ComEd should execute and assess the BE Pilots through an intentional lens of
+scalability.
+VGIC reiterates that ComEd should move forward with proposed pilots and not cancel or
+reduce the scale of any proposed pilots; however, we recommend the following improvement to
+pilot execution. While findings related to technology demonstration are generally valuable, the
+implementation and assessment of the BE Pilots must include a clear roadmap from small-scale
+pilots to large-scale programs. Specifically, VGIC recommends ComEd develop a Roadmap to
+Scale for each pilot that includes the following key elements:
+3 Illinois Commerce Commission Final Order 22-0432, Petition for Approval of Beneficial Electrification Plan under
+the Electric Vehicle Act, 20 ILCS627/45 and New EV Charging Delivery Classes under the Public Utilities Act, Article
+IX. March 23, 2023. See: https://www.icc.illinois.gov/docket/P2022-0432/documents/349478/files/610872.pdf
+4 ComEd Beneficial Electrification Plan Compliance Filing, Pg. 42.
+See: https://www.icc.illinois.gov/docket/P2022-0432/documents/338224/files/589765.pdf
+3
+
+• Identification of customer engagement, marketing, education, and outreach
+strategies tested in the BE Pilots that should be preserved in a scale-up to mass-
+market program.
+• Needs assessment for large-scale integrations with third-party technology providers
+and viable partnership structures.
+• Results of customer incentive tests (e.g., monthly vs yearly payments) and
+identifying the share of upfront vs performance-based incentives that yield the
+desired customer behavior and/or automated technology response.
+• Identification of internal utility operational and process improvements needed to
+achieve mass-market implementation.
+Example learnings that can inform an on-ramp from small-scale pilot to large-scale
+program include integrating flexible service connection (i.e., “EV EMS”) into the new load request
+process for sites with exceptionally long energization timelines, streamlining the interconnection
+process for vehicle-to-grid (“V2G”) charging equipment, improving customer interconnection
+portals and forms, rate design experiments for vehicle-to-everything (“V2X”) bidirectional
+charging use cases, and customer access to make-ready funding for sites where BE Pilot
+technologies are used.
+VGIC notes similar pilots across the US have successfully evolved into larger-scale
+initiatives. For example, in California, Pacific Gas & Electric’s (“PG&E”) tested and demonstrated
+the capabilities of bidirectional charging technology from various manufacturers and third-party
+service providers in its V2X Pilots – Phase 1, as is highlighted in PG&E’s most recent VGI annual
+report.5 PG&E is now slated to launch a larger-scale “V2X Pilots – Phase 2,” which aims to enroll
+more customers and experiment with additional incentive mechanisms. Furthermore, V2G school
+bus pilots supported by San Diego Gas & Electric (“SDG&E”) later evolved into commercial
+deployments enrolled in California’s large-scale voluntary emergency demand response program,
+the Emergency Load Reduction Program.6 Lastly, Consolidated Edison’s residential managed
+charging program, Smart Charge NY, began as a small-scale pilot and has now evolved into a
+mass-market program available to all residential EV customers.7
+5 PG&E, Vehicle Grid Integration Report by Pacific Gas and Electric Company (U 39 E). March 15, 2023. See:
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M503/K589/503589008.PDF
+6 Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial Application of Vehicle-to-Grid
+Technology in Electric School Bus Partnership with Nuvve and Illinois School Districts. March 23, 2021.
+https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/
+7 https://www.coned.com/en/save-money/rebates-incentives-tax-credits/rebates-incentives-tax-credits-for-
+residential-customers/electric-vehicle-rewards
+4
+
+With this in mind, VGIC recommends that ComEd not only proceed with the proposed
+BE Pilots, but also adopt an explicit focus on charting a path toward large-scale programs,
+including identifying necessary steps to support (1) customer engagement, (2) third-party
+provider integration, (3) incentive and compensation design, and (4) operational
+enhancements. While adequate demonstration of VGI technology capabilities is important,
+ComEd must also pilot programmatic design elements and implementation strategies that can
+effectively and efficiently evolve into mass-market program offerings in the near future.
+c. The Backup Power Capabilities Pilot should proceed but be enhanced to support
+customers and match the current stage of market development for backup power
+solutions.
+ComEd proposed the eight pilots discussed above in its compliance filing “to unlock the
+full potential of beneficial electrification.”8 VGIC agrees that ComEd will be unlocking significant
+potential from beneficial electrification, including transportation electrification, via the BE Pilots.
+As workshop participants noted, ComEd’s approach must coincide with current EV technological
+advancements, including market developments since the pilots were litigated in 2022 and 2023.
+Specifically, workshop participants inquired about the need for a Backup Power Capabilities pilot
+given the commercially-availability of vehicle-to-building (“V2B”) backup power solutions.
+While VGIC maintains that none of the eight Commission-directed BE Pilots should be canceled
+or significantly altered, we do recognize that the market for these V2B backup power solutions has
+evolved considerably since 2022, and with it, the pilot may also need to evolve. With this in mind,
+rather than limiting the Backup Power Capabilities pilot to “study mobility requirements,
+bidirectional EV charging stations, and the performance of EVs as backup power sources,”9 VGIC
+recommends ComEd prioritize (1) customer marketing, education, and outreach for V2B
+backup power solutions and (2) upfront incentive mechanisms to support equipment
+adoption of V2B backup power solutions. This would allow ComEd to execute on the
+Commission-approved pilot while ensuring its efforts appropriately match the current stage of
+V2B market development.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on ComEd’s proposed BE
+Pilots. We look forward to further collaboration with ComEd and other stakeholders in Illinois on
+this important initiative.
+8 Ibid.
+9 Ibid. Pg. 43.
+5
+
+Respectfully submitted,
+Zach Woogen
+/s/ Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+6

@@ -1,0 +1,2130 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric
+Company (U39M) for Approval of its Application No. 20-10-011
+Proposal for a Day-Ahead Real Time Rate and (Filed October 23, 2020)
+Pilot to Evaluate Customer Understanding and
+Supporting Technology
+U 39 M
+JOINT MOTION OF THE PUBLIC ADVOCATES OFFICE AT THE
+CALIFORNIA PUBLIC UTILITIES COMMISSION, VEHICLE GRID
+INTEGRATION COUNCIL, ELECTRIFY AMERICA, LLC, AND PACIFIC
+GAS AND ELECTRIC COMPANY (U 39 E), FOR ADOPTION OF JOINT
+SETTLEMENT AGREEMENT IN PG&E’S DAY AHEAD REAL TIME
+PRICING COMMERCIAL ELECTRIC VEHICLE PROCEEDING ON NON-
+NEM EXPORT COMPENSATION PILOT
+GAIL L. SLOCUM
+BENJAMIN ELLIS
+SHIRLEY A. WOO
+Pacific Gas and Electric Company
+77 Beale Street, B30A
+San Francisco, CA 94105
+Telephone:(415) 515-2892
+Facsimile: (415) 973-0516
+E-Mail: Gail.Slocum@pge.com
+Attorneys for
+PACIFIC GAS AND ELECTRIC COMPANY
+Dated: June 17, 2022
+
+TABLE OF CONTENTS
+Page(s)
+I. INTRODUCTION ............................................................................................................. 1
+II. BACKGROUND ............................................................................................................... 4
+A. Procedural History ................................................................................................. 4
+B. Additional Procedural History on Uncontested MGCC Study .............................. 6
+III. THE SETTLEMENT AGREEMENT IS REASONABLE IN LIGHT OF THE
+ENTIRE RECORD, CONSISTENT WITH LAW, AND IN THE PUBLIC
+INTEREST ......................................................................................................................... 8
+A. Summary of Settlement Terms ............................................................................ 10
+1. Eligibility ................................................................................................. 10
+2. Duration ................................................................................................... 10
+3. Enrollment................................................................................................ 11
+4. RTP Pricing Dissemination...................................................................... 11
+5. Rate Rider Design to include MEC and MGCC and Exclude RNA........ 11
+6. Revenue Neutral Adder (RNA) ............................................................... 12
+7. Limited Early Participation Customer Incentives .................................... 12
+8. Incentive Cost Controls............................................................................ 13
+9. Dual Participation .................................................................................... 13
+10. Reporting Metrics, Measurement and Evaluation ................................... 14
+11. Rule 21 Process Changes are Out of Scope ............................................. 14
+12. Cost Recovery of Pilot Costs in Rates ..................................................... 17
+13. Information Technology Billing Systems Changes and Timing.............. 18
+B. The Settlement Agreement is Reasonable in Light of the Record as a
+Whole ................................................................................................................... 19
+C. The Settlement Agreement is Consistent with Law ............................................. 24
+1. The Settlement Agreement is Reasonable and Should be Adopted
+without Modification ............................................................................... 25
+IV. THE SETTLING PARTIES HAVE COMPLIED WITH THE REQUIREMENTS
+OF RULE 12.1(B) ............................................................................................................ 26
+V. REQUESTED FINDINGS............................................................................................... 27
+VI. CONCLUSION ................................................................................................................ 28
+-i-
+
+TABLE OF AUTHORITIES
+Page(s)
+CALIFORNIA AUTHORITIES
+California Public Utilities Commission
+Decisions
+Decision 90-08-068, 1990 Cal. PUC LEXIS 1471 .................................................................2
+Decision 92-12-019, 46 CPUC2d 538, 1992 Cal. PUC LEXIS 867.......................................2
+Decision 06-06-014 .................................................................................................................9
+Decision 07-05-060 .................................................................................................................9
+Decision 10-06-015 ...............................................................................................................24
+Decision 11-05-018 ...........................................................................................................9, 26
+Decision 15-07-001 ...............................................................................................................24
+Decision 21-11-017 ...................................................................................................11, 14, 25
+Rulemaking
+Rulemaking 17-07-007 .........................................................................................................15
+Rulemaking 20-11-003 .........................................................................................................14
+Rulemaking 21-06-017 ...........................................................................................................3
+Tariffs
+PG&E Electric Rule 21 ...................................................................................................14, 15
+Rules of Practice and Procedure
+Article 12 ................................................................................................................................1
+Rule 1.8 .................................................................................................................................28
+Rule 1.8(d) ..............................................................................................................................1
+Rule 12.1 .................................................................................................................................9
+Rule 12.1(a).............................................................................................................................2
+Rule 12.1(b) ..........................................................................................................................26
+Rule 12.6 .........................................................................................................................20, 23
+-ii-
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric
+Company (U39M) for Approval of its
+Proposal for a Day-Ahead Real Time Rate and Application No. 20-10-011
+Pilot to Evaluate Customer Understanding and (Filed October 23, 2020)
+Supporting Technology
+U 39 M
+JOINT MOTION OF THE PUBLIC OFFICE AT THE CALIFORNIA PUBLIC
+UTILITIES COMMISSION, VEHICLE GRID INTEGRATION COUNCIL,
+ELECTRIFY AMERICA, LLC, AND PACIFIC GAS AND ELECTRIC
+COMPANY (U 39 E), FOR ADOPTION OF JOINT SETTLEMENT
+AGREEMENT IN PG&E’S DAY AHEAD REAL TIME PRICING
+COMMERCIAL ELECTRIC VEHICLE PROCEEDING ON NON-NEM
+EXPORT COMPENSATION PILOT
+I. INTRODUCTION
+In accordance with Article 12 of the Rules of Practice and Procedure of the Public
+Utilities Commission of the State of California (the “Commission” or “CPUC”), the Public
+Advocates Office at the California Public Utilities Commission (“Cal Advocates”), the Vehicle
+Grid Integration Council (“VGIC”), Electrify America, LLC, and Pacific Gas and Electric
+Company (“PG&E”) submit this joint motion in Application (“A.”) 20-10-011, to respectfully
+request Commission approval of the Settlement Agreement (“SA”) attached hereto as
+Attachment A.1/ 2/ The SA resolves all of the issues included within the scope of this track of the
+1/ Pursuant to Rule 1.8(d), the above-listed Settling Parties have authorized counsel for PG&E to
+submit this motion on their behalf.
+2/ The one other party that called into some of the settlement conferences to monitor them, ENEL X
+North America, Inc., did not serve testimony on these issues or substantively participate
+settlement discussions, has been provided with the Settlement Agreement (“SA”) and has
+indicated they have no objection to it. Although none of the other five parties on the service list
+for the prior phase of this proceeding submitted any testimony or participated in the publicly
+noticed settlement conference, the sponsoring Settling Parties fairly reflect the range of affected
+interests. Therefore, the SA satisfies the Commission’s criteria for being considered an all-party
+
+above-referenced proceeding related to Day-ahead Real-time Pricing (“DAHRTP”) Commercial
+Electric Vehicle (“CEV”) Non-Net Energy Metering (“Non-NEM”) Export Compensation.
+As discussed in greater detail below, the SA specifies the Settling Parties’ agreement
+regarding: the DAHRTP CEV Non-NEM Export Pilot’s (“Non-NEM Export Rate Pilot” or “the
+Pilot”) eligibility and enrollment, pilot duration, interim evaluation and Advice Letter process
+after year one and year two of Pilot operation, final evaluation and Advice Letter process, non-
+NEM export compensation rider rate design (relative to the underlying DAHRTP CEV rate), use
+of Energy Cost (“MEC”) and Marginal Generation Capacity Cost (“MGCC”), exclusion of the
+revenue neutral adder (“RNA”) for this rate rider, limited customer incentives for early
+participation, dual participation between real-time pricing (“RTP”) and other dynamic
+rates/demand response programs, reporting metrics, and measurement and evaluation (“M&E”)
+reports (interim and final). The SA also addresses additional terms for information technology
+billing systems changes and timing, as well as Appendix A to the SA, the Comparison Exhibit
+showing the parties’ pre-settlement positions, as required by Rule 12.1(a) of the Rules of Practice
+and Procedure of the CPUC.
+The Settling Parties are pleased that their compressed, intensive negotiations during eight
+all-party sessions over the past month and a half have successfully resulted in the attached SA,
+which they are proud to now be presenting to the Commission for its approval, without
+modification. The SA resulted from earnest, good faith negotiations, which included hard-fought
+exchanges that ultimately resulted in the SA’s carefully balanced compromises. Many novel and
+quite complex issues were raised relating to non-NEM export compensation for customers who
+opt-in to the Non-NEM Export Rate Pilot. Specifically, the process of developing this Pilot rate
+rider was made more difficult because the necessary underlying technologies and management
+methods relating to Vehicle-to-Grid exports from electric vehicles is still at a relatively early
+stage of development and market adoption. Although the Commission only approved PG&E’s
+settlement. (See D.92-12-019, 46 CPUC2d 538, 1992 Cal. PUC LEXIS 867, p. *9 and
+D.90-08-068, 1990 Cal. PUC LEXIS 1471, pp. *41-*42 and *49.)
+-2-
+
+underlying DAHRTP CEV rate relatively recently (in Decision (“D.”) 21-11-017), the parties
+were able, in this second phase, to agree on an approach for testing an interim non-NEM export
+rate rider in this Pilot, even as explorations of a potential alternative market participation
+approach proceed in parallel over the coming years, ideally on a holistic basis through the
+CPUC’s High DER proceeding.3/
+During negotiations, the Settling Parties also carefully considered concerns about
+attracting eligible Non-NEM DAHRTP CEV customers to both the underlying rate and the non-
+NEM export compensation rate rider recommended for testing through this Pilot. Concerns
+about the inability at this time to satisfy the CPUC’s dual participation rules and avoid double
+compensation were addressed through prohibiting the dual participation at this time, agreeing to
+limited early participation incentives based on a reasonable proxy for the differential between
+this program and the ELRP incentives, and PG&E’s commitment to continue to seek solutions
+that might allow dual participation in the further future if a means for satisfying the CPUC’s dual
+participation rules against double compensation. Balancing these and other factors were all part
+of the Settling Parties’ spring 2022 negotiations, through which they hammered out a balanced
+and reasonable approach to this Pilot. The resulting Pilot program jointly recommended in this
+SA is designed to gather important information that should be useful to inform CPUC
+proceedings in the longer-term about non-NEM export compensation for the DAHRTP CEV rate
+as well as other dynamic pricing efforts (including other RTP rates).
+The SA is a comprehensive, integrated and unified package that resolves all the issues in
+this follow-on track of PG&E’s DAHRTP CEV Proceeding, reached among all parties who were
+actively and regularly involved in the substantive non-NEM export compensation settlement
+discussions held during this phase of A.20-10-011.4/ The SA’s outcomes fall within the various
+positions of the parties, and were based on carefully considered trade-offs that, when combined
+3/ The High DER Proceeding is ongoing, through CPUC docket number Rulemaking (“R.”) 21-06-
+017.
+4/ See Footnote 2, supra.
+-3-
+
+into this overall integrated package, result in a sound plan for this Non-NEM Export Rate Pilot.
+The Settling Parties also agree that there may be additional value associated with customers
+exporting to the grid, such as (but not limited to) MEC aggregated at the sub-LAP level, local
+Resource Adequacy (“RA”) (beyond what is currently represented by the MGCC) or distribution
+investment deferral, for which there is no current mechanism to value or capture. The Settling
+Parties further agree that valuing the benefits and costs as well as determining the mechanisms
+for capturing those benefits and costs are outside of the scope of this proceeding and should be
+handled in their respective proceedings (e.g., the RA proceeding for RA value, the Distribution
+Investment Deferral Framework (“DIDF”) for local distribution deferral value, and the DRIVE
+Order Instituting Rulemaking (“OIR”) for related value assessments). If the CPUC determines
+through another such proceeding that there is additional value of customer export beyond what is
+currently represented by PG&E’s adopted MGCC and MEC, the Settling Parties agree that
+whether compensation for EV export under this Pilot’s rate rider should be adjusted to include
+such additional value, as well as whether other tariff adjustments are necessary to qualify for the
+additional value (e.g., include an additional performance requirement to qualify for RA value)
+should be addressed in an appropriate proceeding, which may include reopening this proceeding
+if the Commission deems that appropriate.
+The Settling Parties believe that the SA fairly balances the various interests affected in
+this proceeding. The SA satisfies the criteria for Commission approval in that it is reasonable in
+light of the record as a whole, consistent with law, and in the public interest. Accordingly, the
+Settling Parties respectfully urge adoption of the SA in its entirety, without any modification.
+II. BACKGROUND
+A. Procedural History
+The non-NEM export compensation issues being considered in Phase 2 of PG&E’s
+above-captioned DAHRTP CEV proceeding, follow litigation and a Commission decision
+adopting the underlying CEV RTP rate (D.21-11-017). The prior procedural history in A.20-10-
+-4-
+
+011 was set forth in Section 1 (pages 3-6) of the Commission’s recent DAHRTP CEV decision
+(D.21-11-017).
+The following summarizes the additional procedural history for the second phase of
+A.20-10-011:
+In a Second Amended Scoping Memo and Ruling dated December 17, 2021, the
+Assigned Commissioner set a deadline for filing the MGCC Study of January 18, 2022, with
+hearings on MGCC and non-NEM export compensation issues initially scheduled for April 19 to
+22, 2022. On January 6, 2022, PG&E filed a Motion for Ruling Revising the Schedulefor the
+MGCC Study and Testimony, as well as a Motion to Shorten Time for Responses. On January
+10, 2022, PG&E filed an additional Motion for Ruling Revising the Schedule for Non-NEM,
+Behind-The-Meter Export Compensation Supplement and Testimony along with a Motion to
+Shorten Time for Responses. That Motion was granted by an ALJ Ruling revising the schedule
+on January 14, 2022, after which PG&E timely served its supplemental testimony on March 24,
+2022. This was followed by service of direct and then rebuttal testimony by all interested
+parties; specifically, PG&E and VGIC served direct testimony on April 13, 2022, and then
+rebuttal testimony was served by PG&E, VGIC, Cal Advocates and Electrify America on
+April 29, 2022.
+Meanwhile, on April 13, 2022, Cal Advocates, ENEL X, the Small Business Users
+Association (“SBUA”) and PG&E filed a Motion to Submit Stipulation on MGCC in Lieu of
+Testimony, as the MGCC Study recommendations were collaboratively developed and are
+uncontested. (See separate MGCC-related Procedural History section, below).
+On April 22, 2022, PG&E timely filed a Motion for Evidentiary Hearings.
+On May 6, 2022, Assigned ALJ Doherty issued an email Ruling confirming that updated
+dates for evidentiary hearing dates would be reserved for June 21 through 22, 2022, on non-
+NEM export compensation issues, as MGCC issues are uncontested. On May 12, 2022, ALJ
+Doherty noticed a prehearing Status Conference which was duly held on June 10, 2022, at 1 p.m.
+These hearings must be held remotely to support the health and safety of all participants given
+-5-
+
+the continuing COVID-19 pandemic including a recent surge caused by highly transmissible
+variants.
+Informal settlement discussions began on April 27, 2022, just before the parties served
+their rebuttal testimony. PG&E filed a Notice of Settlement Conference on May 18, 2022, to
+formally convene an all-party conference call that was held on May 27, 2022. As of June 15,
+2022, a total of eight settlement meetings had been held involving all the active parties.
+Additional discussions were held for subgroups to address ad hoc topics, with results reported
+back to all active participants during the main settlement meetings.5/ The four Settling Parties
+participated in all the main settlement meetings. The attorney for ENEL X North America also
+listened into the beginning of the May 27, 2022, formally noticed Settlement Conference, but
+indicated that ENEL X would be merely monitoring this track of the proceeding and did not
+intend to actively participate in settlement discussions.
+B. Additional Procedural History on Uncontested MGCC Study
+As mentioned above, in this track of the DAHRTP CEV proceeding, the CPUC also
+ordered PG&E to conduct and serve an MGCC Study. For the convenience of the CPUC, the
+parties supporting this Joint Motion wanted to also provide the related Procedural History of the
+MGCC Study issues here as well.
+The December 17, 2021, Amended Scoping Memo established that, based on this MGCC
+Study, opening and then rebuttal testimony would be submitted, to be followed by hearings, if
+necessary, and briefing, if necessary, to support a Commission decision. On January 6, 2022,
+PG&E filed, and the CPUC granted, a motion in A.20-10-011 to extend the procedural dates for
+the MGCC study and related recommendations by eight weeks.
+5/ Ad hoc topics included a potential early participation incentive as well as concerns related to
+Rule 21 interconnection agreements that are not currently “two-way” (i.e., that allow the
+customer to not only receive energy, but also export energy back to the grid).
+-6-
+
+Pursuant to the Joint Stipulation between Cal Advocates, Small Business Utility
+Advocates (SBUA) and PG&E regarding its scope and approach,6/ an MGCC study was
+completed and then filed with the CPUC on March 15, 2022 (with a corrected version filed with
+the CPUC on March 17, 2022), to determine the structure for not only the MGCC component for
+the purpose of the rate rider in this Phase 2 DAHRTP CEV proceeding (A.20-10-011), but also
+for the rates recommended in PG&E”s General Rate Case (GRC) Phase II’s Stage 1 RTP Pilots7/
+recommended in an all-party Settlement filed on January 14, 2022 being considered for adoption
+in A.19-11-019. Although the Joint Stipulation in Exhibit 20 had called for the MGCC study
+results to be received into record for this CEV proceeding, the MGCC issues it studied are
+identical for A.20-10-011 and A.19-11-019, such that there should be only one resulting
+approach for MGCCs to be used consistently in those two, and any other relevant CPUC
+proceedings for PG&E.
+The MGCC component should be cost-based and identical for whatever customer classes
+receive RTP rate options. Thus, Administrative Law Judge Sisto established a process by which
+the identical remaining MGCC study issues would be considered under a single procedural
+schedule within A.19-11-019, for use in the pending decision on the RTP track of GRC Phase II
+in A.19-11-019. By doing so, the CPUC avoided duplicative parallel consideration of the
+identical MGCC Study issues thus ensuring efficient use of the parties' and the Commission's
+scarce resources.as well as ensuring consistency in the Commission's treatment of MGCC issues
+across PG&E's various pending rate proceedings. The DAHRTP CEV MGCC study results and
+related testimony are also being received into the record of PG&E’s 2020 GRC Phase II
+proceeding (A.19-11-019), to allow for a consistent resolution of these MGCC issues in both that
+6/ That Stipulation was received into evidence as Exhibit 20 in the main DAHRTPCEV proceeding,
+A.20-10-011.
+7/ In PG&E's Rebuttal Testimony in the RTP track of A.19-11-019, the GRC Phase II RTP Pilots
+were defined as the "Stage 1 Pilots" and now include RTP Pilots for customers eligible for one
+residential rate, E-ELEC, one small business rate, B-6, and one large commercial and industrial
+rate, B-20 (pending adoption of the all-party Settlement Agreement filed in A.19-11-109
+track on January 14, 2022), A.19-11-019, Exhibit PG&E-RTP-2, p. 1-1.
+-7-
+
+proceeding and this DAHRTP proceeding. These MGCC Study issues are identical and should
+be consistently applied in both proceedings.
+Through the process established by ALJ Sisto, all interested parties were able to
+participate collaboratively in creating the MGCC study, to the extent they wished, and no party
+contested the MGCC Study parties’ joint recommendations based on the uncontested MGCC
+Study.8/
+The Settling Parties agreed that time is of the essence for Commission action to resolve
+the uncontested issues addressed in the MGCC study, because the final, detailed MGCC
+methodology is needed for inclusion in the RTP rates under both A.20-10-011 and A.19-11-019.
+The Assigned ALJ ruled on April 29, 2022, that no hearings were necessary on the MGCC Study
+recommendation, as there are no contested issues of fact arising out of the MGCC study.9/
+Settling Parties requested that a decision on the MGCC Study be issued as much before the end
+of the third quarter of 2022 as possible, to ensure that the currently planned October 1, 2023,
+launch date for the DAHRTP CEV rate and this Non-NEM Export Rate Pilot to remain viable. If
+necessary, the Settling Parties respectfully request that the assigned ALJ consider bifurcating the
+uncontested MGCC Study issues to ensure a prompter CPUC decision on that issue, if there
+might be any concern that a proposed decision on the contested Non-NEM Export Rate Pilot
+issues addressed in this Settlement might not be issued before the end of Q3 2022.
+III. THE SETTLEMENT AGREEMENT IS REASONABLE IN LIGHT OF THE
+ENTIRE RECORD, CONSISTENT WITH LAW, AND IN THE PUBLIC
+INTEREST
+The Commission has acknowledged “California’s strong public policy favoring
+settlements,” pointing out that “[t]his policy supports many worthwhile goals, such as reducing
+litigation expenses, conserving scarce resources of parties and the Commission, and allowing
+8/ A.19-11-019, Exhibit PG&E-RTP-8, Stipulation Supporting Marginal Generation Capacity Cost
+Pricing Formula for PG&E’s Day-Ahead Hourly Real Time Pricing (DAHRTP) Rates, Report to
+Parties in California Public Utility Commission Dockets A.20-10-011 and A.19-11-019.
+9/ E-mail Ruling Granting Motion for Evidentiary Hearing (Apr. 29, 2022), p. 3.
+-8-
+
+parties to reduce the risk that litigation will produce unacceptable results.”10/ The Commission’s
+policy of favoring the settlement of disputes “supports many goals, including reducing the
+expense of litigation, conserving scarce Commission resources, and allowing parties to reduce
+the risk that litigation might produce unacceptable results.”11/ In evaluating a proposed
+settlement, the Commission will apply the test set forth in Rule 12.1, which requires that the
+settlement: (1) be reasonable in light of the whole record, (2) be consistent with law, and (3)
+serve the public interest. The Commission takes a holistic approach to considering proposed
+settlements, weighing the entire agreement as a whole, rather than assessing just its individual
+parts:
+In assessing settlements we consider individual settlement
+provisions but, in light of strong public policy favoring settlements,
+we do not base our conclusion on whether any single provision is
+the optimal result. Rather, we determine whether the settlement
+as a whole produces a just and reasonable outcome.12/
+As discussed below, the SA fully meets the criteria set forth in Rule 12.1. The SA
+reflects a compromise among parties of diverse interests and positions, that fairly reflect the
+affected interests. It falls within the range of possible outcomes presented by parties to the
+proceeding (as shown in the Comparison Exhibit attached hereto as Exhibit A) and is a
+reasonable and workable solution to the challenges surrounding the contested issues relating to
+non-NEM export compensation as presented in this track of the DAHRTP CEV proceeding. The
+SA is an indivisible package of compromises, on key issues, and is reasonable in light of the
+whole record, consistent with the law, and serves the public interest. Accordingly, the
+Commission should adopt the SA without modification or alteration.13/
+10/ D.11-05-018, p. 16.
+11/ D.07-05-060, p. 6.
+12/ D.11-05-018, p. 16 (emphasis added).
+13/ D.06-06-014, p. 12.
+-9-
+
+A. Summary of Settlement Terms
+The Settling Parties seek Commission approval of the terms set forth in the attached
+Settlement Agreement.14/ The key terms of the SA are summarized below:
+1. Eligibility
+PG&E’s bundled non-NEM customers who are eligible for the DAHRTP CEV rate may
+also participate in this Non-NEM Export Rate Pilot on an opt-in basis. Participation by
+unbundled customers will depend on whether the decision-making body for any of the Load
+Serving Entities (“LSE”, including Community Choice Aggregators (“CCA”)) affirmatively
+decide to mirror the DAHRTP CEV rate and participate in this Non-NEM Export Rate Pilot.
+The Settling Parties hope that at least one or two of the twelve CCAs currently operating within
+PG&E’s service territory will decide to mirror the DAHRTP CEV rate and participate in this
+Non-NEM Export Rate Pilot. PG&E agrees to work with its twelve CCAs to seek agreement
+from one or two of them to do so, if possible. The Settling Parties recognize that CCAs and
+ESPs may impose other program parameters and/or eligibility requirements for their customers
+to participate in the Non-NEM Export Rate Pilot.
+2. Duration
+The duration of the Non-NEM Export Rate Pilot shall be 36 months after the launch date
+for the new non-NEM export rate rider, unless the rate rider being studied in this Pilot is
+extended by the CPUC based on the final Report Advice Letter. The underlying (non-export)
+DAHRTP CEV rate and Non-NEM Export Rate Pilot are currently expected to become available
+to eligible customers in or about October 2023. This target schedule is subject to change
+depending on the terms of the Final Decision in this proceeding, as well as demands of other
+PG&E Information Technology (IT) projects.
+The Settling Parties agree that two measurement and evaluation studies shall be
+conducted on the results of this Non-NEM Export Rate Pilot: (l) an Interim Evaluation to be
+14/ In the event of an inconsistency or a conflict between a term in the SA and a term described in
+this Motion’s “summary” section, Settling Parties intend for the term in the SA to prevail.
+-10-
+
+conducted after 12 months of data has been collected for this Pilot; and (2) a Final Evaluation—
+to be conducted after 24 months of data is available from the operations of this Pilot.
+3. Enrollment
+PG&E shall make its best efforts to program and make available for enrollment this Non-
+NEM Export Rate Pilot by October 1, 2023. Eligible customers may enroll in this Pilot rates at
+any time during the 36-month Pilot duration (i.e., participants do not have to enroll on or before
+the date the underlying DAHRTP CEV rate is launched but may opt to enroll at any time during
+this Pilot’s 36-month period). Initially, non-NEM CEV customers who are exporting electricity
+will only have the option of participating in this Pilot at the time it is adopted. However, at a
+future time, there may be alternative, CPUC-approved non-NEM export compensation. Settling
+Parties agree that, consistent with Rule 12, any Pilot participant who de-enrolls from the non-
+NEM export rate and enrolls in another non-NEM export rate will not be eligible to re-enroll
+until at least 12 months have elapsed since their prior de-enrollment from this Non-NEM Export
+Rate Pilot. The Setting Parties agree that a customer's initial enrollment in the Non-NEM Export
+Rate Pilot shall not be considered a rate change for purposes of Rule 12 (i.e., if the customer
+enrolls in the Non-NEM Export Rate Pilot from another rate even though the enrollment on the
+prior rate occurred within 12 months).
+4. RTP Pricing Dissemination
+A Pricing Tool and Communication Platform15/ will be provided as proposed in PG&E’s
+testimony.16/ In addition, pricing will be disseminated to the CEC’s MIDAS Platform, when it
+becomes available.
+5. Rate Rider Design to include MEC and MGCC and Exclude RNA
+The non-NEM export compensation retail rate rider (Non-NEM Export Rate) should not
+include any rate components besides generation at this time.
+15/ This Pricing Tool and Communication Platform were approved in D.21-11-017.
+16/ PG&E Rebuttal Testimony, pp. 4-4 and 4-5; A.19-11-019, Exhibit PG&E-RTP-1, pp. 5-16 to 5-
+19.
+-11-
+
+The generation component to be used in this Pilot’s rate rider for non-NEM export
+compensation will include: (1) a Marginal Energy Charge, and (2) a Marginal Generation
+Capacity Cost. However, this Pilot shall not include a Revenue Neutral Adder (“RNA”) as
+detailed in the Settlement Agreement. The Settling Parties agree the MGCC component should
+be cost-based. Therefore, the MGCC issues subject to the MGCC Study being performed in
+compliance with D.21-11-017 (in A.20-10-011) should only be decided once by the
+Commission, to ensure consistency across all MGCC rate elements, including those arising from
+A.20-10-011 and A.19-11-019.
+6. Revenue Neutral Adder (RNA)
+The RNA is an additional rate component in the DAHRTP-CEV rate, on top of the MEC
+and MGCC components, which is designed to make the forecasted annual generation revenue
+collected under the underlying DAHRTP rates revenue neutral to the base schedules. The
+Settling Parties agree that, for purposes of this Non-NEM Export Rate, however, the RNA
+should not be included in the export rate.
+7. Limited Early Participation Customer Incentives
+Participants in this Pilot will be eligible for an incentive payment based on the size of the
+Electric Vehicle Service Equipment (“EVSE”) and type of vehicle served (i.e., school buses will
+be eligible for an incentive adder), and subject to the budget cap for the incentive.
+Limited ratepayer-funded early participation incentives shall be tested, as described in
+Appendix B, Attachment 1, the Declaration of Erica Brown. Specifically, the following
+incentives shall be tested for eligible participants, with caps to control total costs:
+Table 1:
+DAHTRP CEV Non-NEM Export Compensation Pilot Upfront
+Incentive by EVSE Size
+EVSE Size Base EVSE School Bus School Bus EVSE
+Incentive Adder Incentive
+100 kW or $1,800 $1,350 $3,150
+lower
+Greater than $3,750 $2,810 $6,560
+100 kW
+-12-
+
+8. Incentive Cost Controls
+The ratepayer funded limited early participation incentives for this Pilot will only be
+made available to participants enrolled within the first 12 months of the Pilot. Participants will
+receive the incentive in two installments, with the first payment of 70 percent of the total
+incentive amount after the participant’s enrollment has been accepted and installation of eligible
+equipment and availability of funding has been verified, and the second payment of the
+remaining 30 percent after 12 months of the participant’s enrollment and participation in the
+Pilot. Participants who receive an upfront incentive payment must remain on the rate for a
+minimum of 12 months in order to receive the second installment. This feature aims to ensure
+that participants remain within the Pilot long enough to gather relevant data (i.e., export data for
+at least one full year, including at least one summer season). The total amount of ratepayer
+funded early participation incentives shall not exceed $250,000. The ratepayer funded incentives
+for this Pilot are available only to participants who enroll in the Pilot within the first 12 months
+after the Pilot begins and shall cease once the ratepayer total incentive cap of $250,000 is
+reached. To ensure a diversity of participants and a priority on understanding the charge and
+discharge behavior of EVs, the budget allocated to EVSEs serving school buses will be limited to
+25 percent of the total budget, and the budget allocated to EVSEs with storage onsite will be
+similarly limited to 25 percent of the total budget.
+9. Dual Participation
+Dual participation is prohibited between this Pilot rate rider and load management
+approaches or demand response (DR) programs that are dispatched, or otherwise based, on day-
+ahead price signals or have energy-based payments (including ELRP, CESP, PDP, DRAM, and
+CBP). Also, the Stage 1 RTP Pilot RTP rates and programs recommended to the CPUC in a
+January 2022 all-party settlement, did not allow Dual Participation between the Stage 1 Pilot
+-13-
+
+RTP rates and programs that are dispatched based on day-of conditions such as the Base
+Interruptible Program (BIP), or that have day-of options such as ELRP.17/
+The Settling Parties agree that the initial operations of this Pilot should be consistent with
+that settlement. However, as described further below, the Settling Parties agree that the issue of
+Dual Participation between day-ahead RTP rates and day-of Demand Response programs will be
+re-considered in the Interim Evaluation Report. If PG&E determines it is able to mitigate some
+of the technical difficulties in doing so, PG&E will submit a Tier 2 advice letter requesting
+CPUC approval to permit limited dual participation on the day-of option for ELRP and this Pilot
+to further evaluate impacts, including: (l) isolating ex-post and ex-ante ELRP RTP load impacts
+from dually participating customers so they can be correctly attributed to each program, and (2)
+avoiding double compensation.
+The Settling Parties agree that this settlement does not modify the previously approved
+dual participation of customers providing ancillary services to the CAISO.18/
+10. Reporting Metrics, Measurement and Evaluation
+PG&E shall engage qualified vendors to perform two measurement and evaluation
+studies that shall be presented as: (1) an Interim Evaluation Report to be completed
+approximately 18 months after the Pilot is launched, based on the available data from the first 12
+months’ operations of the Pilot, and (2) a Final Evaluation Report, based on the full 24 months of
+Pilot operations (whether extended or not).
+11. Rule 21 Process Changes are Out of Scope
+In its Rebuttal Testimony, VGIC correctly stated that PG&E’s Electric Rule 21 tariff
+“governs interconnection for DERs, and specifically requires that Rule 21 interconnected DERs
+17/ The Emergency Load Reduction Program (ELRP) is a five-year pilot program administered by
+PG&E that offers participants financial incentives to reduce energy usage during times of high
+grid stress and emergencies, with the goal of avoiding rotating outages while minimizing costs to
+customers. The Commission ordered the Investor-Owned Utilities to administer ELRP in
+Rulemaking (R.) 20-11-003.
+18/ D.21-11-017.
+-14-
+
+(i.e., inverters) meet certain conditions intended to ensure safety and reliability.”19/ PG&E and
+the Settling Parties agree that in order to participate in this Pilot, participants must engage the
+Rule 21 process to ensure that any export onto the grid, and/or load taken from the grid to
+support the Pilot infrastructure, is able to be accomplished safely and reliably.
+Relatedly, in subsequent discussions, Electrify America expressed concern that, for sites
+that had previously engaged and received approval for Rule 21 non-export interconnection
+applications, this Pilot would necessitate participants to begin the Rule 21 process anew to
+receive approval for export interconnection, resulting in the production of load studies which had
+been previously approved; thereby, incurring additional costs to produce the same study.
+Because of this, Electrify America questioned whether it might be possible to “modify” an
+existing and approved Rule 21 non-export interconnection application to only address the export
+portion of a new project.
+The current language of the Rule 21 tariff does not allow “modifications” of an existing,
+approved Rule 21 application where there are material changes to the load or export needs of an
+interconnection.20/ In fact, Rule 21 has sections and processes separately addressing export and
+non-export interconnection projects.21/ Therefore, where a site that is now seeking to export onto
+the grid after receiving Rule 21 approval for a non-export interconnection, that site must
+resubmit a new Rule 21 application and reengage the entire process. To engage Electrify
+America’s request to “modify” an existing, approved Rule 21 non-export application would
+necessitate a formal change to the language of the Rule 21 tariff—a change that is outside the
+scope of this proceeding and would need to be addressed in the ongoing Rule 21 proceeding
+(Rulemaking (“R.”) 17-07-007).
+19/ VGIC Rebuttal Testimony, p. 4.
+20/ PG&E Electric Rule 21, Sheet 97.
+21/ See for example The Rule 21 Screen I in the Technical Framework requires an assessment of
+whether exports are anticipated, and Sections M on inadvertent export, limited export and non-
+export.
+-15-
+
+That said, through internal discussions at PG&E, PG&E determined that, for an existing
+approved Rule 21 non-export application that has already received permission to operate from
+PG&E, it may still be possible to apply previously used study results in assessing the “new” Rule
+21 export application for the same project to avoid duplicative costs. In other words, for those
+potential Pilot participant sites operating under an existing Rule 21 non-export interconnection
+agreement, the participant may be able to reuse the load studies22/ that were conducted and
+reviewed in the original application, rather than having to repeat the same load studies in the
+resubmitted Rule 21 export application. Therefore, where there is no material change to the load
+needs at the site, the Pilot participant may be able to resubmit the following load studies: 1)
+Initial Load Study; 2) Supplemental Load Study (if available);23/ and, 3) System Impact Study (if
+available).24/ This would mean that a potential Pilot participant would potentially primarily be
+responsible for the cost and preparation of export studies during the new Rule 21 export
+application, including: 1) Initial Export Study; 2) Supplemental Export Study (if necessary); and,
+3) System Impact Study (if not previously conducted, and if necessary).
+By reusing these load studies, the Pilot participant may be able to avoid duplicating
+previous efforts in preparing and submitting studies, thereby potentially avoiding some costs and
+possibly resulting in a faster review of the Rule 21 export application resubmitted as export.
+However, Settling Parties agree that each project will require evaluation on a case-by-case basis
+22/ So long as the load needed for the site remains the same and will not experience a material
+change to its load, thereby necessitating the need for new, updated load studies.
+23/ Depending on the load needs, location, and/or simplicity of the site, a Supplemental Load Study
+may not have been necessary; therefore, a Supplemental Load Study may have not been
+conducted and reviewed during the original Rule 21 one-way, non-export application process.
+Thus, if during the review of the resubmitted Rule 21 export application it is determined that a
+Supplemental Load Study is necessary when one was not previously conducted/reviewed, the
+participant must pay for this additional study in order to abide by the requirements of Rule 21.
+24/ Similar to the Supplemental Load Study, depending on the load needs, location, and/or simplicity
+of the site, a System Impact Study may have not been conducted and reviewed during the original
+Rule 21 one-way, non-export application process. Thus, if during the review of the resubmitted
+Rule 21 export application it is determined that a System Impact Study is necessary when one
+was not previously conducted/reviewed, the participant must pay for this additional study in order
+to abide by the requirements of Rule 21 to participate in this Pilot.
+-16-
+
+and PG&E agrees to consider the applicability of previously executed studies. Further, it is
+understood that facts and circumstances may have changed so as to render the studies inadequate
+pursuant to the requirements of Rule 21. The use of a previously conducted study will depend
+upon the specific details of that project and changes to the grid since the original application and
+there is no agreement among the Settling Parties at this time on whether a previously executed
+study satisfies the particular requirements for a Rule 21 application to be submitted.
+12. Cost Recovery of Pilot Costs in Rates
+All development, implementation, incentives, and operating costs for this Pilot, will be
+through electric distribution rates, as adopted in D.21-11-017, using PG&E's standard
+distribution allocation factors from all customers. These costs will be tracked in the Dynamic
+and Real Time Pricing Memorandum Account (DRTPMA) for recovery in a future application
+and testimony. PG&E agrees to separately track four categories of costs within DRTPMA:
+a. The costs for the Stage 1 Pilots approved (pending) in A.19-11-
+019 (not including costs in d. below);
+b. The costs for the separate customer research study for
+residential, agricultural and small commercial customers
+approved (pending) in A.19-11-019;
+c. DAHRTP-CEV rate program costs approved in D.21-11-017
+and the DAHRTP CEV Non-NEM Export Rate Pilot per the
+final decision in this proceeding (not including costs in d.
+below); and
+d. Joint costs between the Stage 1 Pilots and the DAHRTP-CEV
+rate program and the DAHRTP-CEV Non-NEM Export Rate
+Pilot (e.g., joint costs for the Customer Enablement Platform
+and billing) (not including costs in a., b. or c. immediately
+above).
+PG&E will record in the DRTPMA the actual costs it incurs pursuant to the
+Commission's orders for Dynamic and RTP Pilots and the separate customer research in
+A.19-11-019, the DAHRTP-CEV rate program in D.21-11-017, and this Non-NEM Export Rate
+Pilot, per the final decision expected to be issued in this proceeding. All recorded costs will be
+subject to reasonableness review, either through a single application or through a proposal and
+testimony PG&E will submit in the future for cost recovery. PG&E will record costs in the
+-17-
+
+DRTPMA consistent with how costs have been recorded in its Residential Rate Reform
+Memorandum Account (RRRMA). PG&E can recover the costs recorded to the DRTPMA only
+after the Commission finds that PG&E has demonstrated in the separate application or testimony
+that its expenditures were incremental, verifiable, and reasonable, and consistent with the
+requirements resulting from A.19-11-019 or D.21-11-017, as well as consistent with any other
+relevant Commission rulings and approvals (including, without limitation, plans and activities
+submitted by PG&E and approved through advice filings discussed elsewhere herein).
+13. Information Technology Billing Systems Changes and Timing
+PG&E commits to implementing, as soon as practicable, whatever structural changes to
+PG&E’s systems may be necessary to conduct the Pilot agreed upon in this Settlement, including
+associated external systems for which PG&E is responsible and has control. PG&E advises, and
+the Settling Parties acknowledge, that to achieve PG&E’s goal of timely usability of the systems
+involved and necessary employee training, any proposed timeline may be modified. The Settling
+Parties agree that this Settlement shall not preclude any party’s right to solicit action from the
+Commission to address unreasonable delays in implementation of the structural changes to
+PG&E systems necessary for this Pilot. Prior to contacting the Commission regarding concerns
+about the timing of PG&E’s implementation of the rate changes, the Settling Parties agree to
+meet and confer with PG&E on the status of Pilot implementation, discuss options for resolution
+and allow PG&E a reasonable time to pursue any viable alternative option.
+The Settlement Agreement sets forth the target date for PG&E to make best efforts to
+program and make available for enrollment the agreed upon rate rider Pilot agreed to here as well
+as the underlying DAHRTP CEV rate adopted in D.21-11-017 by October 2023, but if the
+Commission approves something different from the integrated comprehensive Settlement
+Agreement’s provisions for this Pilot, the launch date for Pilot rate roll-out may take additional
+time beyond October 2023 and may require a revised budget forecast.
+-18-
+
+B. The Settlement Agreement is Reasonable in Light of the Record as a Whole
+The Settling Parties participated in comprehensive and in-depth settlement negotiations,
+with the goal of developing compromise positions that would permit resolution of the disputed
+non-NEM export compensation issues in this second phase of PG&E’s DAHRTP CEV
+proceeding. The Settlement Agreement is a product of those intensive settlement efforts. The
+specific outcomes on the issues covered by the Settlement Agreement are within the range of
+positions and outcomes presented by the parties in the instant proceeding, as discussed below
+and summarized in Appendix 1 to the SA.
+The Settling Parties are pleased that they have been able to reach agreement on all issues
+regarding non-NEM export compensation in this track of PG&E’s DAHRTP CEV proceeding.
+As shown in the Comparison Exhibit, some issues were uncontested.
+Perhaps the most difficult key contested matters that the Settling Parties were able to
+successfully resolve were the related issues of: (1) whether an interim retail rate approach is
+needed as a bridge to allow longer-term exploration of a potential, alternative future market-
+based approach, and if so, (2) how should any interim retail rate rider be designed and what other
+terms and conditions should be included in this interim rate Pilot to ensure it is as successful as
+possible in gaining early learnings. The Settling Parties concluded that the answer to the first
+question was, at this time, “yes.” As for the second question, the Settling Parties recommend
+CPUC adoption of a 36-month retail rate rider to provide non-NEM customers taking service on
+the new DAHRTP CEV rate with cost-based export compensation, with a transparent, separate
+limited early participation incentive to encourage interested customers to move forward quickly
+to join this Pilot, and stay on it for at least one year, so the Pilot can gather important early
+learnings like Pilot customers’ receptivity and response (specifically through their exporting
+behavior) under the DAHRTP real time prices. The Settling Parties also agreed that the total
+Pilot incentive budget amount authorized under the SA should be limited to $250,000 to address
+Cal Advocate’s concerns about cost control and impacts on other customers’ rates. The Settling
+Parties also agree that additional program management costs are warranted to administer this
+-19-
+
+Pilot, including the validation, tracking, and payout of incentives. The total estimated budget for
+this Pilot is $1.42 million to $1.52 million.25/ For the reasons discussed herein, the agreed design
+of the interim retail rate rider to be tested in this Pilot will allow Non-NEM DAHRTP CEV
+customers to not only gain whatever benefits they can from RTP pricing, but also be
+compensated for whatever vehicle-to-grid exports they can provide, as an additional income
+stream. It is hoped that this compromise, interim retail rate rider to the DAHRTP CEV rate can
+encourage more commercial customers to switch to EV fleets and to do so more quickly, as well
+as also consider adding vehicle-to-grid enablement technologies to allow their fleets’ “batteries
+on wheels” to be able to feed excess power back onto the grid to help address reliability
+constraints, especially during critical peak times.
+Without waiving the Settling Parties’ Rule 12.6 protections of the confidentiality of the
+give and take of settlement discussions, this Motion provides some agreed explanations of why
+this settlement, the outcomes of which fall between the parties’ positions, is reasonable and in
+the public interest.
+PG&E originally proposed a market participation approach26/ because PG&E believes
+market participation provides the best value to customers and the grid in the long term. A market
+participation framework would also allow for aggregation of customer-generators served by
+different LSEs and, in this way, provides the most flexibility for customers and best
+complements California‘s retail choice landscape. Finally, the market participation pilot
+originally proposed by PG&E would establish needed processes for coordination between and
+among CAISO, the distribution system operator, and the customer-generator to ensure that
+energy delivered by the customer can be accommodated by distribution grid.
+25/ Actual costs above the amounts presented in the SA, if any, may be recorded in the memo
+account and will be subject to future review and litigation in an application or other appropriate
+Commission proceeding.
+26/ PG&E Direct Testimony, pp. 4-8; PG&E Rebuttal Testimony, pp. 1-1 to 1-6.
+-20-
+
+VGIC’s opening testimony27/ instead proposed that this Pilot study a retail rate option,
+based on MECs, MGCCs, and included the RNA as part of export compensation. In response,
+PG&E drafted its rebuttal testimony28/ to provide the CPUC with a cost-based retail rate
+alternative, showing why only MECs and MGCCs should be included, but not the RNA, which
+would result in compensation for these customers going beyond the cost basis and unfairly
+causing cost-shifting to other customers.
+Cal Advocates’ rebuttal testimony29/ largely aligned with PG&E’s concerns that the retail
+rate rider be cost-based without the RNA, and that the total budget for this Pilot be kept
+reasonable to avoid unnecessarily increasing other customers’ rates at a time that affordability of
+electric rates is so vital given current economic pressures on all customers and even more so to
+help ensure customers see the value in adopting higher electric loads to shift away from fossil
+fuel sources, thus helping our State achieve its decarbonization goals to fight the climate crisis.
+Electrify America’s rebuttal testimony30/ concurred with VGIC’s opening testimony, as
+well as raised a new Rule 21 concern regarding duplicative study costs for those sites that had
+previously received Rule 21 one-way, non-export approval.
+Ultimately, PG&E concluded that it would be advantageous for customers to gain
+experience participating in an interim Non-NEM Export Rate Pilot as a bridge to a potential
+future market participation pathway. After reflection, it seemed likely that the exploration and
+design of a market participation approach was a complex undertaking and would likely take
+more time to implement than possible to complete before October 2023. Significantly, PG&E
+was ultimately willing to accept an interim retail rate rider Pilot approach, as a bridge that could
+ensure eligible Non-NEM DAHRTP CEV customers would, by the time the DAHRTP rate
+becomes available, have a means of receiving Export Compensation for whatever Vehicle-to-
+27/ VGIC Opening Testimony, pp. 9-16.
+28/ PG&E Rebuttal Testimony, pp. 3-1 to 3-3.
+29/ Cal Advocates-3, Rebuttal Testimony, pp. 1-8 to 1-9.
+30/ VGIC Answer Testimony of Jigar J. Shah, pp. 3-4.
+-21-
+
+Grid power they can provide during this Pilot’s 36-month period (unless extended after the
+CPUC considers the Advice Letter presenting the Final Measurement and Evaluation Report).
+The 36-month period for this Pilot was selected to allow two years for collection of data
+(importantly, including two summer seasons), followed by adequate time for analysis and
+reporting. The other parties agreed with PG&E that during the 36-month Pilot period, a parallel
+evaluation of the market participation approach should be undertaken, but that this should done
+in a more holistic way that considers all types of exports (not just the relatively smaller kWs
+from CEV vehicle-to-grid exports), such as through the CPUC’s High DER proceeding.
+Rather, the Settling Parties agreed to a set of transparent, limited early participation
+incentives, allocated based on interconnection size and type of fleet:
+Table 1:
+DAHTRP CEV Non-NEM Export Compensation Pilot Upfront Incentive
+by EVSE Size
+EVSE Size Base EVSE School Bus School Bus EVSE Incentive
+Incentive Adder (75%)
+100 kW or $1,800 $1,350 $3,150
+lower
+Greater than $3,750 $2,810 $6,560
+100 kW
+These early participation incentives were added in response to VGIC’s concern that, because
+eligible customers might prefer the certainty of ELRP pricing, but, at this time, cannot dually
+participate in the ELRP program given CPUC dual participation rules against double recoveries.
+This incentive has been tailored to provide a ratepayer-funded initial financial incentive designed
+to cover a reasonable estimate of their likely ELRP opportunity cost, with special carve-outs for
+Direct Current Fast EV Charging Stations that were of concern to Electrify America, as well as
+and enhanced incentive level to more strongly encourage School Bus EV fleets to participate,
+which both PG&E and VGIC have identified as an important target group for participation. The
+parties have also agreed to work together to seek potential non-ratepayer sources of funding,
+such as from the State’s General Fund, if potential further encouragement for non-NEM
+-22-
+
+customer vehicle-to-grid enablement is needed, above and beyond this Pilot’s agreed limited
+early participation incentive.
+The SA’s rate design recommendations are also reasonable in light of the record as a
+whole. All the Settling Parties support this Non-NEM Export Rate rider being based, as this
+time, solely on adopted MECs and MGCCs, but that it would result in an inappropriate cost-shift
+to non-participating customers if the RNA were not excluded (as explained in Cal Advocates’31/
+and PG&E’s testimony32/).
+The Settling Parties recognize that the Commission may have additional questions about
+this Settlement Agreement. Although the Settling Parties are willing provide a representative
+panel of witnesses to appear during remote hearings on June 22, 2023, to testify in support of the
+Settlement, it can be challenging for such witnesses to, in real time, craft answers to questions in
+a manner that do not violate the Commission’s confidentiality requirements under Rule 12.6.
+This is made even more difficult because of the narrow window of time between the finalization
+and filing of this Settlement and the onset of hearings. Therefore, as an alternative, the Settling
+Parties recommend the Commission instead consider issuing a list of written questions to which
+the Settling Parties could jointly respond in writing, given enough time to do so as a group. Such
+joint written responses could perhaps be received as a late-filed exhibit, if necessary, as the
+Commission did to receive joint responses to Commission questions about the revenue allocation
+settlement submitted during the April 2021 evidentiary hearings in a prior track of this GRC
+Phase 2 proceeding. In any event, the Settling Parties are committed to responding in whatever
+ways the Administrative Law Judge and the Commission believe would be most appropriate and
+efficient to provide the Commission with answers to whatever questions it may want addressed
+to provide whatever further support it feels it needs as it assesses whether this Settlement is
+reasonable in light of the record, consistent with law, and in the public interest.
+31/ Cal Advocates-3, Rebuttal Testimony, pp. 1-8 to 1-9.
+32/ PG&E Rebuttal Testimony, pp. 3-2 to 3-3.
+-23-
+
+C. The Settlement Agreement is Consistent with Law
+The Settling Parties believe that the Settlement Agreement is fully consistent with
+relevant statutes, Commission decisions, and public policy, including the Rate Design Principles
+adopted by the Commission in D.15-07-001. In particular, implementation of the SA terms will
+ensure the Pilot’s rate rider is aligned with the Commission’s cost-of-service,33/ affordability,34/
+and customer acceptance.35/ The Settlement Agreement is in the Public Interest
+The Commission has determined that the “public interest” criterion is satisfied by a
+settlement that “commands broad support among participants fairly reflective of the affected
+interests” and “does not contain terms which contravene statutory provisions or prior
+Commission decisions.”36/ Here, all the active parties on non-NEM export compensation issues
+in this second phase of the DAHRTP CEV proceeding have either joined this Motion (and signed
+the attached Settlement Agreement indicating that they believe the Settlement Agreement
+represents a reasonable compromise of their respective positions) or affirmatively indicated that
+they do not oppose it. The Settling Parties are knowledgeable and experienced regarding the
+issues in this proceeding and, in agreeing to the SA, have applied their collective experience to
+produce appropriate, well-conceived recommendations. The Settling Parties have vigorously
+negotiated and succeeded in achieving a settlement that they believe balances the various
+interests affected in this second phase of PG&E’s DAHRTP CEV proceeding. In addition, as
+noted above, the Settling Parties do not believe that the SA contains terms that would contravene
+statutory provisions or prior Commission decisions. Finally, the SA limits potential under-
+collection and cross-subsidization concerns while allowing a limited Pilot to proceed to gather
+key early learnings and hopefully deliver some initial GHG reduction benefits as well as
+generation cost savings, and potentially added exports that can help address system reliability
+33/ See D.15-07-001, p. 264 (RDPs #2, #3, #7, #8, #9).
+34/ See Id. (RDP #1).
+35/ See Id. (RDP #6).
+36/ D.10-06-015, p. 11.
+-24-
+
+concerns especially at critical peak times – all of which are in the public interest. The limitations
+on this Pilot result in a reasonable initial test on appropriate customers, with reasonable, capped
+early participation incentives that minimize incremental additional costs.
+The rate design for the Pilot rate rider focuses on Marginal Generation Costs, which are
+composed of MEC and MGCC, both of which were approved in D.21-11-017. The Settling
+Parties agreed that is important to incentivize customers to export at the appropriate time while
+also ensuring that the compensation is not greater than the cost savings to PG&E. The
+Settlement Agreement’s approach will send a capacity price signal in addition to the market
+energy price especially when the grid is most stressed, in an effort to incent customers to export
+in those hours, which should help keep rates lower for all customers.
+The Settling Parties expect candidates for participation in the Pilot include but are not
+limited to delivery vehicle fleets, school buses, and charging infrastructure with storage facilities
+onsite, and have designed the incentive structure to ensure learnings from a variety of customer
+types. Specifically, we propose additional incentives for school buses in recognition of concerns
+about make-ready funding available to school districts as well as potential benefits of school
+buses that will not be used for transportation for a portion of the high load months. The Settling
+Parties also agreed to some limitations on the incentives available for charging infrastructure
+with storage onsite to ensure sufficient learnings from EV exports.
+For all these reasons, the public interest criterion is satisfied. As stated above, if the
+Commission has additional questions, key experts from the Settling Parties are willing appear as
+a panel during hearings and/or provide jointly agreed written answers to any written questions
+the Commission might have.
+1. The Settlement Agreement is Reasonable and Should be Adopted
+without Modification
+The Settling Parties view the proposed SA as an integrated and cohesive resolution of all
+the issues in this track of the DAHRTP CEV proceeding. The various provisions of the
+Settlement Agreement reflect specific compromises among a wide range of litigation positions
+-25-
+
+presented by parties. The Settling Parties had differing interests that are fairly representative of
+those who will be affected by adoption of this proposal. Although each provision of the SA is
+discussed separately in the summary above, the SA is presented as a whole, and each provision
+of the SA is dependent on the other provisions; in some instances, the proposed outcome reflects
+a party’s concession on one issue in consideration for the outcome provided on a different issue.
+Modification of any one part of this integrated SA would harm the carefully balanced
+compromises achieved among the Settling Parties, who represent a wide range of interests.
+Indeed, the SA expressly provides that adoption of only a portion of the SA would free the
+Settling Parties from their settlement obligations.37/ Accordingly, in keeping with long-standing
+Commission precedent in favor of consideration of “whether the settlement as a whole produces
+a just and reasonable outcome,”38/ the Commission should consider and approve this SA as a
+whole, without any alteration or modification.
+IV. THE SETTLING PARTIES HAVE COMPLIED WITH THE REQUIREMENTS
+OF RULE 12.1(B)
+Settlement discussions in this track of the DAHRTP CEV proceeding began almost two
+months ago, first informally and then pursuant to a formal notice of settlement conference
+provided by PG&E to the service list under Rule 12.1(b), on May 18, 2022. Settlement initially
+arose somewhat before rebuttal testimony had been filed, with only a couple weeks until the
+originally scheduled evidentiary hearing dates. The ALJ agreed to move hearings to June 21-22,
+2022, to allow adequate time for settlement talks to conclude. Discussions during eight larger
+group settlement meetings, as well as related ad hoc subgroup meetings and other
+communications among the parties, resulted in agreement on the terms and conditions in the SA.
+On June 13, 2022, PG&E sent out an email attaching the proposed Settlement to ENEL X, as it
+had indicated an interest in monitoring this settlement without actively participating in
+substantive negotiations; ENEL X indicated that they do not oppose this Settlement.
+37/ Settlement Agreement, Section III.
+38/ D.11-05-018, p. 16 (emphasis added).
+-26-
+
+V. REQUESTED FINDINGS
+Based on this Joint Motion, the SA attached hereto, and the record in this proceeding, the
+Settling Parties respectfully request that the Commission make the following findings:
+• The Settlement Agreement is reasonable in light of the whole record,
+consistent with the law, and in the public interest.
+• The Settlement Agreement should be adopted in its entirety with no
+modifications.
+• If the CPUC determines through another proceeding that there is additional
+value of customer export beyond what is currently represented by PG&E’s
+adopted MGCC and MEC, the Settling Parties agree that whether
+compensation for EV export under this Pilot tariff should be adjusted to
+include such additional value, as well as whether other tariff adjustments are
+necessary to qualify for the additional value (e.g., include an additional
+performance requirement to qualify for RA value) should be addressed in an
+appropriate proceeding, which may include reopening this proceeding if the
+Commission deems that appropriate.
+• The Settling Parties have also authorized PG&E to file a parallel motion
+asking the CPUC to receive into evidence the description of Limited Early
+Participation Incentive presented in Appendix B Attachment 1, the Declaration
+of Erica Brown. This description has been reviewed and signed off on by the
+parties supporting this Joint Motion. The terms of the agreed early
+participation incentive may be jointly sponsored by any Settlement Panel the
+CPUC may wish to have appear at hearings, and/or through written responses
+to questions if the CPUC should desire any further testimony about the agreed
+incentive feature of this Pilot. The CPUC should find this added incentive
+provision to be reasonable because, among other things, it will provide Non-
+NEM DAHRTP CEV customers with added early encouragement to join the
+Pilot during its first year of operation and stay on the Pilot’s rate rider for at
+least a full year. At the same time, it also controls costs to other ratepayers by
+making these incentives available only to participants who enroll in the Pilot
+within the first 12 months after the Pilot begins as well as ending these
+incentives once the ratepayer total incentive cap of $250,000 is reached.
+• In addition, the Settling Parties have further authorized PG&E to file another
+parallel motion asking the CPUC to receive into evidence Appendix B,
+Attachment 2, the Declaration of PG&E’s Anh Dong. Ms. Dong’s declaration
+presents the incremental costs of adding a limited early participation incentive
+to this Pilot, clarifies the costs for Pilot, and sets out the Pilot schedule, as
+agreed in the Settlement. Ms. Browns’ Declaration addresses the basis for and
+other features of the limited early participation incentive, such as the reasons
+for its provision of a higher incentive for School Bus fleets that participate in
+this Pilot. All Settling Parties reviewed these Declarations before signing the
+Settlement, and recommend the Commission grant each of the separate
+Motions requesting that they be received into evidence.
+-27-
+
+VI. CONCLUSION
+As demonstrated herein, the SA is reasonable in light of the entire record, is consistent
+with law, and promotes the public interest. Accordingly, the Settling Parties respectfully request
+that the Commission expeditiously approve the Settlement Agreement without modification and
+make the findings set forth in Section V of this motion.
+All the Settling Parties have reviewed and authorized PG&E to file, on their behalf, this
+Joint Motion and Settlement Agreement on behalf of all the Settling Parties per Rule 1.8 of the
+Commission’s Rules of Practice and Procedure.
+-28-
+
+Respectfully, this 17th day of June, 2022.
+Respectfully submitted,
+GAIL L. SLOCUM
+SHIRLEY A. WOO
+BENJAMIN ELLIS
+By: /s/ Gail L. Slocum
+GAIL L. SLOCUM
+Pacific Gas and Electric Company
+77 Beale Street
+San Francisco, CA 94105
+Telephone: (415) 515-2892
+Facsimile: (415) 973-0516
+E-Mail: Gail.Slocum@pge.com
+Attorneys for
+PACIFIC GAS AND ELECTRIC COMPANY
+Dated: June 17, 2022
+-29-
+
+APPENDIX A
+Settlement Agreement, including
+Attachment 1 - Comparison Exhibit
+
+SETTLEMENT AGREEMENT ON EXPORT COMPENSATION RATE
+PILOT FOR NON-NEM PARTICIPANTS IN PG&E'S DAY-AHEAD
+REAL TIME PRICING COMMERCIAL ELECTRIC VEHICLE RATE
+IN APPLICATION 20-10-011
+I. INTRODUCTION
+In accordance with Article 12 of the Rule of Practice and Procedure of the California
+Public Utilities Commission (“CPUC” or “Commission”), the parties to this Settlement
+Agreement listed below in Section II (“Settling Parties”), agree on a mutually acceptable
+outcome to all of the contested issues in this phase of above-captioned Application (“A.”) 20-10-
+011 related to Day-ahead Real-time Pricing (“DAHRTP”) Commercial Electric Vehicle (“CEV”)
+Non-Net Energy Metering (“Non-NEM”) Export Compensation, and respectfully recommend the
+CPUC adopt without modification their agreed Export Compensation Rate Pilot for Non-NEM
+Customers Participating on PG&E’s DAHRTP Rate for CEVs (“Non-NEM Export Rate Pilot” or
+“the Pilot”). The Settling Parties further agree that the CPUC should also evaluate a potential
+future market participation approach to export compensation on a holistic basis in its High
+Distributed Energy Resource (“DER”) proceeding, as a possible longer-term alternative to the
+retail rate rider being piloted here. The Settling Parties represent that this Settlement Agreement
+resolves all non-NEM export compensation issues within the scope of this phase of the DAHRTP
+CEV proceeding (A.20-10-011). The details of this Settlement Agreement are set forth herein.
+The testimony served by the parties active in this track of the DAHRTP CEV Proceeding
+advanced differing views on certain aspects of the remaining scoped issues, including regarding
+the Pilot on export compensation for non-NEM customers.1 In compliance with Rule 12.l(a) of
+1
+As described in PG&E's Rebuttal Testimony, future changes to the rate to be tested in this 36-month
+pilot can be informed by the results of this Pilot, as well as by the underlying Commercial Electric
+AppA-33
+
+the Commission's Rules of Practice and Procedure, the parties' positions in testimony are shown
+in the Comparison Exhibit attached hereto as Appendix A, Attachment 1. The active parties
+have debated their positions at length through eight in-depth settlement conferences among all
+active parties and have bargained earnestly and in good faith to reach a reasonable compromise
+concerning the DAHRTP non-NEM export compensation issues pending in this proceeding
+including the proposed retail rate Pilot that PG&E plans to launch in October 2023. This
+Settlement Agreement is the product of their detailed, arm's length-negotiations on various
+disputed issues. These negotiations considered the interests of all active parties on the contested
+issues being considered in this phase of the DAHRTP CEV proceeding (A.20-10-011). The
+resulting Settlement Agreement addresses and resolves each of these issues in a fair and balanced
+manner.
+The Settling Parties reached this Settlement Agreement by mutually accepting
+concessions and trade-offs among themselves. Thus, the various elements and sections of this
+Settlement Agreement are closely interrelated and should not be altered, as the Settling Parties
+intend that the Settlement Agreement be treated as a package solution that strives to carefully
+balance and align the interests of each party. Accordingly, the Settling Parties respectfully
+request that the Commission approve each and every aspect of this Settlement Agreement
+without modification. Any material change to the Settlement Agreement shall render it null and.
+void, unless all Settling Parties agree in writing to such changes.
+II. SETTLING PARTIES
+The Settling Parties are as follows:
+• Pacific Gas and Electric Company (“PG&E”);
+Vehicle Real Time Pricing rate (“DAHRTP CEV Rate”) adopted in Decision (“D.”) 21-11-017, and
+other utilities' RTP pilots or export compensation efforts for Non-NEM customers that may be
+developed in their General Rate Case (“GRC”) Phase Il proceedings or through other CPUC
+proceedings.
+AppA-34
+
+• Public Advocates Office at the California Public Utilities Commission
+(“Cal Advocates”);
+• Vehicle Grid Integration Council (“VGIC”); and,
+• Electrify America, LLC.2
+III. RTP SETTLEMENT CONDITIONS
+This Settlement Agreement resolves the issues raised by the Settling Parties in this phase
+of A.20-10-011 on an export compensation pilot for Non-NEM DAHRTP participants, subject to
+the conditions set forth below:
+1. This Non-NEM Export Rate Pilot Settlement Agreement embodies the entire
+understanding and agreement of the Settling Parties with respect to the matters described
+herein, and it supersedes prior oral or written agreements, principles, negotiations,
+statements, representations, or understandings among the Settling Parties with respect to
+those matters.
+2. This Settlement Agreement represents a negotiated compromise among the Settling
+Parties’ respective litigation positions on the matters described; the Settling Parties have
+assented to the terms of this Settlement Agreement only to arrive at the terms embodied
+herein. Nothing contained in this Settlement Agreement should be considered an
+admission of, acceptance of, agreement to, or endorsement of any disputed fact, principle,
+2
+While there are six other parties on the service list created during the prior phase of A.20-10-011,
+none of them chose to serve testimony on any of the non-NEM export compensation issues addressed in
+this Settlement Agreement. Of these, five did not participate at all in settlement discussions in this phase:
+East Bay Community Energy (EBCE) and Peninsula Clean Energy Authority (PCE), Small Business
+Utility Advocates_(SBUA), Environmental Defense Fund (EDF), and Chargepoint, Inc. The sixth, ENEL
+X North America, (ENEL X) served no testimony but initially called in to the formally noticed Settlement
+Conference on May 27, 2022, with a quick procedural question but then indicated they did not currently
+have plans to substantively participate in this phase of the proceeding, which they would only be
+monitoring. ENEL X did not participate in any subsequent settlement conferences. ENEL X has
+subsequently reviewed this Settlement and indicated it does not oppose CPUC adoption.
+AppA-35
+
+or position previously presented by any of the Settling Parties on these matters in this
+proceeding.
+3. This Settlement Agreement does not constitute and should not be used as a precedent
+regarding any principle or issue litigated in this proceeding or in any future proceeding.
+4. The Settling Parties agree that this Settlement Agreement is reasonable, in light of the
+testimony submitted, consistent with law, and in the public interest.
+5. The Settling Parties agree that the language in all provisions of this Settlement
+Agreement shall be construed according to its fair meaning and not for or against any
+Settling Party based on whether that Settling Party or its counsel or advocate drafted the
+provision.
+6. The Settling Parties agree that the Settlement Agreement addresses all contested issues
+regarding the proposals pending in this track of the DAHRTP CEV proceeding on the
+design of a Non-NEM Export Rate Pilot.
+7. This RTP Settlement Agreement may be amended or changed only by a written
+agreement signed by all the Settling Parties.
+8. The Settling Parties shall jointly request Commission approval of this Settlement
+Agreement and shall actively support its prompt approval. Active support shall include
+written and oral testimony if testimony is required, briefing if briefing is required,
+comments and reply comments on the proposed decision, advocacy to the Commissioners
+and their advisors as needed, and other appropriate means necessary to obtain the
+requested approval.
+9. The Settling Parties intend that the terms of this Settlement Agreement are to be
+interpreted and treated as a unified integrated agreement to the degree applicable to this
+track of the DAHRTP CEV proceeding. In the event the Commission rejects or modifies
+AppA-36
+
+any portion of this Settlement Agreement, the Settling Parties reserve their rights under
+Commission Rules 12.4 and 12.6.
+IV. PROCEDURAL AND SETTLEMENT HISTORY
+The procedural history of PG&E's DAHRTP CEV proceeding, from the date the
+application was filed in October 2020 through November 2021, appears in Section 1 (pages 3-6)
+of the Commission’s decision on the issues scoped for the main track of the DAHRTP CEV
+proceeding, Decision (“D.”) 21-11-017, and is incorporated herein by reference.
+The following summarizes the additional procedural history for Phase 2 of A.20-10-011,
+to which this Settlement relates:
+In a Second Amended Scoping Memo and Ruling dated December 17, 2021, the
+Assigned Commissioner set a deadline for filing the Marginal Generation Capacity Cost
+(“MGCC”) Study of January 18, 2022, with hearings on MGCC and non-NEM export
+compensation issues initially scheduled for April 19 to 22, 2022. On January 6, 2022, PG&E
+filed a Motion for Ruling Revising the Schedulefor the MGCC Study and Testimony, as well as
+a Motion to Shorten Time for Responses. On January 10, 2022, PG&E filed an additional
+Motion for Ruling Revising the Schedule for Non-NEM, Behind-The-Meter Export
+Compensation Supplement and Testimony along with a Motion to Shorten Time for Responses.
+That Motion was granted by an ALJ Ruling revising the schedule on January 14, 2022, after
+which PG&E timely served its supplemental testimony on March 24, 2022. This was followed
+by service of direct and then rebuttal testimony by all interested parties; specifically, PG&E and
+VGIC served direct testimony on April 13, 2022, and then rebuttal testimony was served by
+PG&E, VGIC, Cal Advocates and Electrify America on April 29, 2022.
+Meanwhile, on April 13, 2022, Cal Advocates, ENEL X, the Small Business Utility
+Advocates (SBUA) and PG&E filed a Motion to Submit Stipulation on MGCC in Lieu of
+AppA-37
+
+Testimony, as the MGCC Study recommendations were collaboratively developed and are
+uncontested.
+On April 22, 2022, PG&E timely filed a Motion for Evidentiary Hearings.
+On May 6, 2022, Assigned ALJ Doherty issued an email Ruling confirming that updated
+dates for evidentiary hearing dates would be reserved for June 21 through 22, 2022, on Non-
+NEM Export Compensation issues, as MGCC issues are uncontested. On May 12, 2022, ALJ
+Doherty noticed a prehearing Status Conference which was duly held on June 10, 2022, at 1 p.m.
+These hearings must be held remotely to support the health and safety of all participants given
+the continuing COVID-19 pandemic including a recent surge caused by the highly transmissible
+Omicron and other variants.
+Informal settlement discussions began on April 27, 2022, just before the parties served
+their rebuttal testimony. PG&E filed a Notice of Settlement Conference on May 18, 2022, to
+formally convene an all-party conference call that was held on May 27, 2022. As of June 16,
+2022, a total of eight settlement meetings had been held involving all the active parties.
+Additional discussions were held by subgroups to address ad hoc topics, with results reported
+back to all active participants during the main settlement meetings.3 The four Settling Parties
+participated in all the main settlement meetings. The attorney for ENEL X North America also
+listened into the beginning of the May 27, 2022, formally noticed Settlement Conference, but
+indicated that ENEL X would be merely monitoring this track of the proceeding and did not
+intend to actively participate in settlement discussions.
+3
+Ad hoc topics included potential early participation incentives, as well as concerns related to Rule 21
+interconnection agreements that are not currently “two-way” (i.e., that allow the BEV customer to
+not only receive but also export energy to the grid).
+AppA-38
+
+V. SETTLEMENT TERMS
+A. General Terms
+Considering and both recognizing and compromising the litigation positions taken by the
+individual parties, the Settling Parties unanimously agree to a 36-month Pilot to test an agreed
+non-NEM export rate rider for CEV customers taking service on the underlying DAHRTP CEV
+rate previously adopted in A.20-10-011, with Pilot design features as set forth in this Settlement
+Agreement. The agreed Pilot design includes provisions for reporting of results and making
+recommendations intended to inform a later CPUC decision as to whether to extend this Pilot
+beyond its initial term. The Settling Parties agree that if, at the time the Final Report is filed, no
+other alternative for Non-NEM export compensation is as yet available to these Pilot customers,
+and if the Pilot study demonstrates that this rate program has been cost-effective, then
+continuation of this Pilot through extension beyond the initial 36-month period would be
+recommended at that time.4
+The Settling Parties agree that this Pilot will provide eligible customers on the underlying
+DAHRTP CEV rate with a rider5 that provides Pilot participants with cost-based export
+compensation, intended to start in October 2023, while CPUC and interested parties also explore
+a potential, alternative market participation approach in a holistic manner, over the longer-term,
+through the CPUC’s high DER proceeding.
+The Settling Parties agree that this Non-NEM Export Rate Pilot intends to accomplish
+three things:
+4 The Settling Parties use of the term “cost-effective” here is in its generic sense and should not be interpreted to
+indicate any particular agreement as to what criteria should be used to determine cost effectiveness for purposes of
+evaluation of this Pilot.
+5 A rate rider is a supplemental rate schedule that appends or modifies an underlying rate schedule. Under a rate
+rider structure, eligible customers who enroll in this Pilot will receive export compensation while remaining on the
+existing, already-adopted underlying DAHRTP CEV import rate. Making this new export rate a rider eliminates the
+need to build separate two rate structures for the underlying DAHRTP CEV import rate – one with Non-NEM
+export compensation and one without export compensation.
+AppA-39
+
+1. To provide learnings about how CEVs respond to day-ahead price signals and how that
+affects export behavior;
+2. To provide opportunities for customers to reduce their electric costs beyond the benefits
+of the underlying DAHRTP CEV rate itself; and
+3. To support grid reliability and decarbonization goals.
+The Settling Parties further agree that this Pilot should: (1) test the hourly non-NEM real-
+time pricing (“RTP”) export compensation rate design to assess customer interest in and barriers
+to participating on such a rate; and (2) accurately measure the load reduction and load-shifting,
+and export behavior, and the associated impacts on greenhouse gas emissions, achieved through
+customers’ participation on this Pilot rate rider; (3) test whether the exports compensated through
+this Pilot provide a meaningful contribution to addressing California’s emergency reliability
+needs; (4) test whether and to what degree this non-NEM export rate might help minimize power
+costs to ratepayers by aligning not only electric vehicle (“EV”) charging but also EV discharging
+with real time grid conditions. While there is no plan to study the following as part of this rate
+Pilot, the Settling Parties also assume the Pilot may beneficially encourage: (a) development of
+emerging EV and Electric Vehicle Supply Equipment (“EVSE”) technologies with bidirectional
+capabilities, and (b) reductions to eligible customers’ total cost of CEV ownership by offering a
+supplemental revenue stream that is cost-based. The rate and program design for the Settlement
+Agreement’s Non-NEM Export Rate Pilot proposal are reasonable in light of the entire record in
+this proceeding, consistent with law, and reflect a fair and balanced compromise of the Setting
+Parties’ proposals relating to the issues included in this Settlement Agreement that is in the
+public interest.
+Each Settling Party agrees that all testimony served prior to the date of this Settlement
+Agreement, addressing the issues resolved by this Settlement Agreement, should be admitted
+AppA-40
+
+into evidence without cross-examination by the Settling Parties. Since this Settlement
+Agreement includes a limited early participation incentive feature, and associated costs, that
+were not explicitly addressed in any party’s testimony prior to the date of this Settlement
+Agreement, PG&E has prepared, and the Settling Parties have reviewed and support admission
+into evidence of: (1) the Declaration of Witness Erica Brown describing the incentive and (2) the
+Declaration of Witness Anh Dong setting forth the incentive-related costs that are incremental to
+the rough cost estimates for a retail rate pilot as set forth PG&E's April 29, 2022, rebuttal
+testimony, Chapter 4, pages 4-4 through 4-5. (These two declarations, which are attached as
+Appendix B, Attachments 1 and 2, are being concurrently filed under a PG&E Motion asking
+that they be received into evidence). The estimated additional costs and terms of the limited
+early participation incentive agreed to in this Settlement are also itemized below in
+Section V.B.x.b. of this Settlement Agreement, as well as being detailed in the Declaration of
+Anh Dong presented in Appendix B and Attachment 2, attached hereto.
+The Settling Parties agree that, subject to the confidentiality restrictions under Rule 12.6,
+they shall make witnesses available to answer any questions the Commission may have about
+this Settlement Agreement, either: (1) as part of a Settlement Panel to appear at a mutually
+agreeable time during the scheduled remote evidentiary hearings, if the Commission so desires,
+and/or (2) by jointly preparing written responses to written questions from the Commission, for
+submission into the record at hearings or as a late-filed exhibit if it cannot be finalized before the
+close of evidentiary hearings on June 22, 2022.
+As described below in Section V.B., the Settling Parties agree to the elements and
+parameters of the Non-NEM Export Rate Pilot agreed to herein, as well as related agreements to
+pursue, in the longer-term, a potential alternate market participation approach in the CPUC’s
+High DER proceeding.
+AppA-41
+
+B. Uncontested and Settled Issues
+i. Design of Non-NEM Export Compensation Pilot Rate Rider
+The Settling Parties agree that the following uncontested proposals are reasonable and
+should be adopted:
+• The Non-NEM export compensation retail rate rider (“Non-NEM Export Rate”) should
+not include any rate components besides generation at this time.
+• The Non-NEM Export Rate should include the Marginal Energy Cost (“MEC”) and
+MGCC, including line losses for both, that was approved in D.21-11-017.
+The Settling Parties also identified the following contested issues in this proceeding:
+• Whether this export rate should be allowed to be applicable to all BEV customers, even
+those not on the DAHRTP-CEV rate (as proposed by Cal Advocates, with PG&E
+opposed, with VGIC unopposed).
+• Whether revenue neutral adder (“RNA”) should be included in the generation
+compensation (as proposed by VGIC; with Cal Advocates and PG&E opposing
+inclusion).
+• Whether dual participation can be permitted for this Pilot consistent with the CPUC’s
+dual participation rules and decisions.
+This Non-NEM Export Rate Pilot Settlement Agreement, reached by the Settling Parties,
+disposes of all such contested issues, through a carefully balanced, integrated compromise, in the
+manner set forth below:
+ii. Scope
+The Settling Parties agree that the issue of whether export compensation for other BEV
+customers, including those on underlying rates other than the DAHRTP CEV rate which is the
+AppA-42
+
+sole subject of this docket, is beyond the scope of this second phase of the A.20-10-011
+proceeding. The Settling Parties further note that any such future CPUC consideration of other
+potential export compensations rates, in other CPUC dockets, should benefit by having available
+both Reports to the CPUC on this Non-NEM Export Rate Pilot’s results.
+iii. Eligibility
+The Settling Parties agree to the following eligibility requirements:
+1. This Non-NEM Export Rate Pilot shall only be applicable to Bundled non-NEM
+customers taking service on PG&E’s DAHRTP CEV rate option approved in D.21-11-
+017. The Settling Parties further agree that participation in the rate approved for this
+Non-NEM Export Rate Pilot will be solely at the eligible customers' option.
+2. In agreeing that only non-NEM customers on the DAHRTP CEV consumption rate shall
+be eligible for this Pilot at this time, the Settling Parties agree that there could be
+undesirable consequences, in some instances, if customers were given access to an export
+rate that could exceed their consumption rate in the same hour.
+Although there may eventually be a desire to have export compensation for Non-
+NEM EV customers on time-of-use (“TOU”) or other non-CEV RTP rates, the Settling
+Parties agree that an export compensation mechanism for EV customers not taking
+service on the DAHRTP CEV compensation rate is outside the scope of this proceeding
+and would need to be developed in the future (either as a later phase of this proceeding or
+in another CPUC rate design proceeding). A major reason the CPUC does not have an
+adequate record before it in this proceeding to apply this rate rider Pilot to any EV
+customers beyond Bundled customers on the DAHRTP CEV rate is that compensation
+mechanisms for other EV customers may differ from the rate design approach used for
+the DAHRTP CEV rate.
+AppA-43
+
+3. As detailed below in Section V.B.x.a., eligibility for receipt of an early participation
+incentive for this Pilot shall only be afforded to participants who enroll in the Pilot within
+the first 12 months after the Pilot begins, and shall cease once the ratepayer total
+incentive cap of $250,000 is reached, whichever comes sooner. However, any customer
+eligible for the DAHRTP CEV rate may still enroll in this Pilot even if the cap on the
+agreed early participation incentives has been reached, or the applicable period for
+getting the incentive has elapsed, whichever happens first.
+4. Participation by any otherwise eligible Unbundled service Non-NEM customer will
+depend on whether the decision- making body for their Load Serving Entity (“LSE”)
+(e.g., Community Choice Aggregation (“CCA”) or Direct Access (“DA”) Energy Service
+Provider (“ESP”)) has decided to participate in PG&E’s DAHRTP CEV rate, as well as
+this Non-NEM Export Rate Pilot. The Settling Parties hope that at least one of the twelve
+CCAs within PG&E’s service territory will decide to mirror the DAHRTP CEV rate and
+also decide to participate in this Non-NEM Export Rate Pilot.
+This does not preclude this Non-NEM Export Rate Pilot from being modified to include
+other components at a later date, either in this proceeding or in another CPUC rate design
+proceeding.
+Limiting eligibility for this Pilot only to Bundled non-NEM customers on the DAHRTP
+CEV rate, by definition, means that a customer taking NEM service on the underlying DAHRTP
+CEV rate shall not be eligible to participate in this Non-NEM Export Rate Pilot, as such
+customers already receive export compensation through the terms of their NEM rate. Therefore,
+all NEM and NEM sub-tariff customers are excluded from eligibility for this Pilot, including:
+• All customers on PG&E’s NEM 1.0 or 2.0 tariffs including NEMS, NEMEXP,
+NEMEXP-M, NEM-PS and NEM-MT.
+AppA-44
+
+• Customers who are on VNEM and NEMA shall also not be eligible for this Non-NEM
+Export Rate Pilot.
+• Customers who will be on the NEM “Successor Tariff” being developed in Rulemaking
+(“R.”) 20-08-020.
+iii. Revenue Neutral Adder Not Included in Non-NEM Export Rate Pilot
+The Settling Parties agree that, for initial implementation, the Revenue Neutral Adder
+(“RNA”) rate component in the adopted DAHRTP CEV rate should be excluded from the Non-
+NEM Export Rate Pilot, to ensure that its rate rider is cost-based and does not overvalue
+exports.6 In doing so, the Settling Parties agree in principle with the arguments made in
+Cal Advocates’ and PG&E’s rebuttal testimony that the RNA represents fixed utility costs that
+are not reduced when customers export to the grid.
+The Settling Parties agree that there may be additional value associated with customers
+exporting to the grid, such as (but not limited to) MEC aggregated at the sub-LAP level, local
+Resource Adequacy (“RA”) (beyond what is currently represented by the MGCC) or distribution
+investment deferral, for which there is no current mechanism to value or capture. The Settling
+Parties further agree that valuing the benefits and costs as well as determining the mechanisms
+for capturing those benefits and costs are outside of the scope of this proceeding and should be
+handled in their respective proceedings (e.g., the RA proceeding for RA value, the Distribution
+Investment Deferral Framework (“DIDF”) for local distribution deferral value, and the DRIVE
+Order Instituting Rulemaking (“OIR”) for related value assessments). If the CPUC determines
+through another such proceeding that there is additional value of customer export beyond what is
+currently represented by PG&E’s adopted MGCC and MEC, the Settling Parties agree that
+6 Similar to the DAHRTP CEV consumption rate, customers receiving non-NEM export compensation under
+this rate rider Pilot will have their generation export compensation vary by hour, tracking with the hourly MEC and
+MGCC generation rates even if the price is negative (which would result in a generation-related charge and not a
+credit).
+AppA-45
+
+whether compensation for EV export under this pilot tariff should be adjusted to include such
+additional value, as well as whether other tariff adjustments are necessary to qualify for the
+additional value (e.g., include an additional performance requirement to qualify for RA value)
+should be addressed in an appropriate proceeding, which may include reopening this proceeding,
+should the Commission deem that appropriate.
+Although the PG&E VGI Pilots approved in Resolution (“Res.”) E5192 contemplate a
+distribution export compensation value, there has not been a cost-based analysis to design a
+proper distribution export rate. The Settling Parties agree that a cost-based analysis would be
+required to be in evidence before the CPUC could consider such a recommendation for this rate
+and such an analysis is unlikely to be completed before this Pilot’s rate needs to be developed for
+the targeted 2023 launch.
+The Settling Parties agree to the following eligibility terms for Unbundled service
+customers served by CCAs or ESPs (i.e., DA providers), on the eligible DAHRTP CEV rate
+schedule:
+1. Unbundled service customers who opt into the eligible DAHRTP CEV rate schedule can
+participate in the Non-NEM Export Rate Pilot if their CCA or ESP elects to participate
+and offers the DAHRTP CEV rate for its generation energy rate component.
+2. The Settling Parties recognize that CCAs and ESPs may impose other eligibility
+requirements for their customers to participate in this Non-NEM Export Rate Pilot.
+iv. Duration
+The Settling Parties agree that the duration of this Non-NEM Export Rate Pilot shall be
+36 months after the launch date for this new rate rider, unless extended by the CPUC based on
+the final Pilot Report Advice Letter and recommendations (discussed herein). As further detailed
+below in Section V.B.xi., the Settling Parties agree that two measurement and evaluation studies
+AppA-46
+
+shall be conducted, covering this Non-NEM Export Rate Pilot results: (l) an Interim Evaluation
+to be conducted after 12 months of data has been collected for this Pilot; and (2) a Final
+Evaluation to be conducted after 24 months of data is available from the operations of this Pilot.
+The Non-NEM Export Rate Pilot will run for approximately 36 months, starting at the
+same time as the underlying (non-export) DAHRTP CEV rate, currently expected to be in or
+about October 2023. This target schedule is subject to change depending on the terms of the
+Final Decision in this proceeding, as well as the demands of other PG&E Information
+Technology (IT) projects.
+l) Summary of lnterim Evaluation Report and AL: As detailed below in Section V.B.xi.,
+the Settling Parties agree that PG&E shall file a Tier 2 AL (Tier 2 Interim Evaluation
+Report AL), expected to be approximately 18 months after the launch of this Pilot as
+well as the launch of the underlying DAHRTP CEV rate. PG&E will evaluate Dual
+Participation between the DAHRTP-CEV rates and Emergency Load Reduction
+Program (“ELRP”) in this Interim Evaluation Report, presuming the data available at
+that time is adequate. If PG&E determines at that time it is able to mitigate some of the
+technical difficulties (described in the Dual Participation section of this Agreement,
+detailed below in Section V.B.ix., PG&E will submit a Tier 2 advice letter requesting to
+permit limited dual participation on ELRP and the rate rider.
+2) Summary of Final Evaluation Report and AL: Due to the rapidly evolving nature of the
+VGI market, the Settling Parties agree that:
+• A recommendation in the first interim report (after 12 months of data) appears to
+be premature;
+• A recommendation in year 2 (after summer 2025), with additional time to see
+increased levels of adoption of this pilot rate, is more appropriate as it allows for
+collection of customer usage response data for two summer seasons; and
+AppA-47
+
+• In the second-year evaluation report (i.e., filed at the 30-month mark), PG&E will
+make a recommendation as to whether the CPUC should either (1) extend this rate
+rider beyond 36 months to continue to compensate Non-NEM Export Pilot
+customers with the retail rate rider, either as originally approved or with minor
+recommended modifications, or (2) end the Non-NEM Export Rate Pilot and
+replace its rate rider approach with either a market integrated approach or another
+retail rate-related approach, which would be subject to review in an appropriate
+Commission proceeding. This recommendation will be developed by PG&E
+which will consider any factors that may have caused limited participation outside
+of the export compensation rate itself (e.g., interconnection delays). PG&E will
+share the results of the study and recommendation with Settling Parties who may
+comment on the study and recommendation.
+v. Enrollment
+The Settling Parties agree to the following as it relates to enrollment:
+1. Enrollment by customers in the Non-NEM Export Rate Pilot described above in
+Sections V.B.i. through V.B.iii.
+2. Limited early participation incentives to be provided to qualified participants are
+described below in Section V.B.x.
+3. The Settling Parties agree that all aspects the Non-NEM Export Rate Pilot are optional
+and are subject to Electric Rule 12 (Rule 12), which prohibits customers from requesting
+more than one rate schedule change in any twelve-month period. Currently, non-NEM
+CEV customers who are exporting electricity will only have the option of participating in
+this Pilot at the time it is adopted to obtain export compensation, because there are
+currently no other non-NEM CEV export rates. However, Rule 12 should apply to
+AppA-48
+
+foreclose customers from moving off and on the Non-NEM Export Rate from season to
+season, as well as moving between different export compensation mechanisms. The
+Settling Parties agree that a customer's initial enrollment in the Non-NEM Export Rate
+shall not be considered a rate change for purposes of Rule 12 (i.e., if the customer enrolls
+on the Non-NEM Export Rate from another rate even though the enrollment on the prior
+rate occurred within 12 months). Nothing in this clause affects the application of Rule 12
+to customer enrollment and de-enrollment in the underlying Schedule BEV DAHRTP
+rate.
+4. To be eligible to receive a ratepayer-funded early participation incentive, Non-NEM
+Export Rate Pilot participants must enroll in this Pilot within 12 months of the Pilot’s
+launch and must remain in the Pilot for at least 12 months to receive the full incentive
+payment.
+5. The Settling Parties agree that PG&E shall make its best efforts to program this Pilot’s
+Non-NEM Export Rate to be available for enrollment by October 1, 2023. The
+Non-NEM Export Rate will remain available for the Pilot’s 36-month period, unless
+extended by the Commission when it acts on the Final Evaluation Report AL, as
+described above in Section V.B.iv.
+6. The Settling Parties agree that eligible customers may enroll in the Non-NEM Export
+Rate Pilot any time during the Pilot’s 36-month period. Participants will not be required
+to enroll at or before the time this Pilot rate is launched, but may enroll by opting into the
+DAHRTP CEV rate, as well as this Non-NEM Export Rate at any time during Pilot’s
+36-month period.
+AppA-49
+
+vi. Non-NEM Export Rate Rider Pricing
+a. MEC
+The Settling Parties agree that the MEC for the Non-NEM Export Rate Pilot will use the
+day-ahead hourly price from the California Independent System Operator (“CAISO”) Day Ahead
+Market (“DAM”), adjusted for energy line losses determined at the PG&E Default Load
+Aggregation Point (“DLAP”) as approved by the Commission in D.21-11-017. The issue of
+MEC methodology and development was uncontested in the parties’ testimony.
+b. MGCC
+The Settling Parties agree that the MGCC component for the Non-NEM Export Rate
+Pilot will be an hourly RTP generation component that recovers, on an average forecasted basis
+over the course of' a year, the annual MGCC determined in the main track of PG&E’s 2020 GRC
+Phase II proceeding, plus a capacity loss factor and a Planning Reserve Margin (“PRM”) factor.
+The specific calculation of that MGCC component cannot be determined until after the CPUC
+issues a decision on the joint parties’ uncontested recommendations in the Joint MGCC Study.
+c. Revenue Neutral Adder (“RNA”)
+The Settling Parties agree to the following definition: the RNA is an additional rate
+component on top of the Energy and Capacity components that is designed to make the
+forecasted annual generation revenue, collected on the DAHRTP CEV rate, revenue neutral to
+the forecasted annual generation component of the base BEV rate schedule to which this Pilot
+rate rider applies. The Settling Parties agree that while the underlying DAHRTP CEV rate
+includes an RNA, the Non-NEM Export Rate Pilot should not include the RNA.
+vii. Pricing Dissemination
+Because the same components that make up the CEV DAHRTP prices make up the
+components for the Non-NEM Export Rate Pilot’s prices, in the interest of saving ratepayer
+money and not building redundant systems, the Settling Parties agree that PG&E will leverage
+AppA-50
+
+the billing system and the Pricing Tool and Communications Platform approved in D.21-11-017.
+The cost estimates shown in Table 2 are the incremental costs necessary in the Non-NEM Export
+Rate Pilot to modify these systems to send out the price signals and bill for export compensation
+to customers participating in this Pilot.
+viii. Revenue Requirement Changes Between GRCs
+The Settling Parties agree that revenue requirement changes between GRCs will affect
+only the RNA in the DAHRTP CEV rate and not the methodologies for calculating the MEC and
+MGCC components. Therefore, the export compensation for the Non-NEM Export Rate Pilot is
+not anticipated to change until PG&E’s next GRC Phase II.
+ix. Dual Participation
+The Settling Parties agree that dual participation shall be prohibited between this Pilot’s
+Non-NEM Export Rate and load management approaches or DR programs that are dispatched or
+otherwise based on day-ahead price signals or have energy-based payments (including ELRP,
+CESP, PDP, DRAM, and CBP). Dual Participation is also not allowed between this Non-NEM
+Export Rate Pilot and programs that are dispatched based on day-of conditions such as BIP, or
+that have day-of options, such as ELRP.
+The Settling Parties agree that the issue of Dual Participation between day-ahead RTP
+rates and day-of Demand Response programs will be considered in the Interim Evaluation
+Report. PG&E will share the results of the study and recommendations with the Settling Parties,
+who may comment on the study and recommendation. If PG&E determines it is able to mitigate
+some of the technical difficulties in doing so, PG&E will submit a Tier 2 advice letter requesting
+CPUC approval to permit limited dual participation on the day-of option for ELRP and this Pilot
+to further evaluate impacts, including: (l) isolating ex-post and ex-ante ELRP RTP load impacts
+from dually participating customers so they can be correctly attributed to each program, and (2)
+avoiding double compensation.
+AppA-51
+
+This settlement does not modify the previously approved dual participation of customers
+providing ancillary services to the CAISO.7
+x. Early Participation Incentives for Eligible Customers in the DAHRTP
+CEV Non-NEM Export Rate Pilot Rate
+Due to the nascency of vehicle to grid applications and the costs to “first movers”
+participating in this Pilot, the Settling Parties agree that a limited, one-time incentive should be
+provided to eligible customers who enroll and participate in the Non-NEM Export Rate Pilot.
+The Settling Parties agree that the underlying export rate should have a cost-based design,
+which, at the outset of this Pilot, shall solely use MEC and MGCCs, including line losses for
+both, as approved in D.21-11-016. (See RNA section of this Agreement in Section V.B.vi.c.
+above.)
+a. Limited Early Participation Incentive
+The Settling Parties agree that the limited, one-time early participation incentive shall
+vary by EVSE size as shown in Table 1.
+Table 1:
+Non-NEM Export Rate Pilot Upfront Incentive
+by EVSE Size
+EVSE Base EVSE School Bus School Bus EVSE Incentive
+Size Incentive Adder (75%)
+100 kW $1,800 $1,350 $3,150
+or
+lower
+Greater $3,750 $2,810 $6,560
+than
+100 kW
+Participants in the Pilot will receive compensation for all energy exported to the grid
+based on the methodology adopted for the MEC and MGCC rate elements. However, because
+compensation is based on real-time grid conditions and because participants lack experience with
+7 D.21-11-017.
+AppA-52
+
+forecasting revenues associated with this new rate, the Settling Parties agreed that it would be
+reasonable to provide participants with an upfront payment. The incentive was designed to
+provide a similar level of certainty that participants in the Commission-approved ELRP will
+receive.
+The methodology for calculating the Pilot incentive is as follows:
+• The difference in ELRP compensation and compensation during the top 60 forecasted
+hours under the DAHRTP rate times EVSE size times minimum guaranteed paid ELRP
+hours.
+• The top 60 forecasted DAHRTP hours from the last five years equal $0.99/kWh.
+• The two sizes assumed are the currently approved EVSE sizes – 60 kW and 125 kW.
+• ELRP is guaranteed to be called between 30 and 60 hours, although it was only called
+for 14 hours in 2021.
+• 100 kW or lower Incentive = ($2/kWh - $1/kWh) * 60 kW * 30 hours = $1,800.
+• Greater than 100 kW Incentive = ($2/kWh - $1/kWh) * 125 kW * 30 hours = $3,750.
+In addition, the Settling Parties agree that it is appropriate to include a modified
+calculation of the Early Participation Incentive specifically for school buses. This school bus
+modification is based on the same approach outlined above but would include an additional +75
+percent “adder” component.
+Notwithstanding the design of the Pilot, the Settling Parties agree that basing the
+incentive methodology on the ELRP compensation design is not an endorsement of that design
+and, specifically, does not mean that energy generated during hours in which ELRP is called is
+worth $2/kWh.
+AppA-53
+
+b. Budget
+The Settling Parties agree that the limited, ratepayer-funded early participation incentive
+shall be capped at a total of $250,000 dollars, to limit the cost-shift impacts on non-participants
+(see overall Pilot budget provided in Table 2). Up to 25 percent of the total incentive budget will
+be reserved for EVSEs for school buses. This would support between nine and 19 EVSEs for
+school buses and between 50 and 104 non-school bus EVSEs, with each EVSE possibly serving
+multiple vehicles. Participants in the Pilot may have storage onsite; however, because the aim of
+this Pilot is to understand how CEVs respond to day-ahead price signals, 75 percent of the total
+incentive budget will be reserved for EVSEs without associated storage (including EVSEs
+serving school buses). EVSEs with storage onsite will be eligible for up to 25 percent of the
+incentive budget. However, in all cases, Pilot participants must attest when enrolling in the Pilot
+that they have enough vehicle storage capacity (and/or onsite storage capacity for EVSEs in the
+25 percent onsite storage segment) available to be able to maintain the EVSE’s maximum export
+for at least one hour at some point throughout a typical day to be eligible for the incentive.
+The Settling Parties agree to work together to see if an alternate source of non-ratepayer
+funding can be secured in the future, such as from the State’s General Fund. Such funding could
+potentially be used to offset the costs to non-participants of this Pilot’s early participation
+incentive, increase the Settlement’s agreed incentives for participants, offset participant start-up
+costs, or some combination, to be determined by agreement of parties at the time such alternate,
+non-ratepayer funding is secured. If an alternate source of non-ratepayer funding is timely
+secured to provide a larger incentive budget, Settling Parties agree that, because the terms and
+conditions on any such outside funding are currently unknown, the parties would work together
+to make a proposal to the CPUC regarding any early participation incentive modifications that
+might appear warranted at that time. If possible, the Settling Parties will strive to maintain the
+AppA-54
+
+above-agreed caps on percentages of incentive budget for EVSEs with storage and EVSEs for
+school buses should be maintained.
+The total incremental budget for this Pilot is estimated to be $1.42 to 1.52 million, as
+detailed in Table 2, below. PG&E provides the following information on certain elements of
+costs for this Pilot. These estimates of incremental cost may not be comprehensive in that other
+costs might not be comprehensive in that other costs might emerge as being necessary for
+operating this Pilot.
+Table 2: DAHRTP CEV Non-NEM Export Pilot
+Line Task Estimated Cost to Ratepayers
+No.
+1 Pricing Engine / Pricing Tool $360,000
+2 Billing System / Engine $400,000 - $500,000
+3 Marketing and Acquisition / Marketing $60,000
+Education and Outreach
+4 Measurement & Evaluation $200,000
+5 Incentives $250,000
+6 Incremental program management $150,000
+7 Total $1.42 million-$1.52 million
+c. Cost Controls
+The Settling Parties agree that participation incentives will only be made available to
+participants enrolled within the first 12 months of the Pilot. Participants who receive an
+incentive payment must remain on the rate for a minimum of 12 months, though ideally
+participants who receive the incentive would remain on the Pilot for its entire duration. To
+motivate participants to remain on the rate for at least 12 months, the early participation
+AppA-55
+
+incentive would be paid in two installments, with the first payment of 70 percent of the total
+incentive amount after the participant’s enrollment has been accepted and installation of eligible
+equipment and availability of funding has been verified, and the second payment of the
+remaining 30 percent after 12 months of the participant’s enrollment and participation in the
+Pilot.
+It is important to only offer the early participation incentives for a limited time because it
+will assess whether customer export behavior, load impact and other behavior differed between
+customers who received an incentive compared to those who did not. Similarly, it is important to
+study the unenrollment of customers who received an incentive compared to those who did not.
+xi. Reporting Metrics Measurement and Evaluation (Interim and Final)
+As discussed above in Section V.B.iv., on Measurement and Evaluation Reporting, the
+Settling Parties agree that:
+• The Non-NEM Export Rate Pilot will run for approximately 36 months, starting at the
+same time as the non-export DAHRTP pilot, on or about October 2023, unless extended
+by the CPUC after the Final Report. The targeted October 2023 Pilot launch schedule is
+subject to change depending on Final Decision and other IT projects.
+• PG&E will prepare two evaluation reports, the first will be begun after 12 months of data
+collection and the second after 24 months of data collection, on the same timeline as the
+Non-NEM Export Rate Pilot. Measurement and Evaluation (“M&E”) activities and
+reporting shall be completed six months following data collection. Thus, PG&E expects
+to submit its annual evaluation reports 18 and 30 months after implementing this pilot
+rate. (details of the evaluation are presented in the next section.)
+• As stated in the Dual Participation section of this Settlement, PG&E will evaluate Dual
+Participation between the DAHRTP CEV rates and ELRP in the Interim Evaluation
+Report, to be published approximately 18 months after the Pilot begins, presuming the
+AppA-56
+
+data available at that time is adequate. If PG&E determines at that time it is able to
+mitigate some of the technical difficulties described above (Dual Participation section),
+PG&E will submit a Tier 2 advice letter requesting to permit limited dual participation on
+ELRP and the DAHRTP CEV.
+• In the second-year evaluation report (i.e., filed at the 30-month mark), PG&E will make a
+recommendation as to whether to continue to extend the Pilot and compensate Non-NEM
+CEV exports as a retail rate as-is, with minor modifications, or end this Pilot rate rider
+and replace it with the market integrated approach or another retail rate approach. The
+Settling Parties agree that:
+– A recommendation in the first interim report (after 12 months of data) appears to
+be premature; and
+– A recommendation in year 2 (after summer 2025), with additional time to see
+increased levels of adoption of this pilot rate, is more appropriate as it allows for
+collection of customer usage response data for two summer seasons.
+• PG&E shall request Commission action on such Tier 2 advice letter within 90 days of
+submittal, if possible. However, if the Commission has not acted on that advice letter
+within 120 days, the Settling Parties agree that PG&E will notify the Commission and all
+Parties that the Pilot rates will be extended an additional 90 days beyond the Pilots’
+36-month duration, which is approximately eight months after the second-year evaluation
+report. A detailed timeline is presented below:
+AppA-57
+
+TABLE 2: DETAILED TIMELINE
+Date
+CEV DAHRTP Non-NEM Export Compensation 10/1/2023
+rate rider Pilot Begins
+Pilot End Date 9/30/2026
+PG&E Plans to Notify Customers Pilot Ending 8/1/2026
+(Based on Original Date)
+Year 2 Evaluation Report & Recommendation 3/31/2026
+CPUC Acts on Evaluation Report 7/29/2026
+If CPUC has not acted:
+PG&E Notifies CPUC of Pilot Extension 7/30/2026
+90-day Extension to Pilot or New Pilot End Date 12/29/2026
+PG&E Notifies Customer of New Pilot End Date 8/29/2026
+xii. Evaluation Criteria
+• PG&E has already filed an advice letter (Advice Letter 6587-E) at the CPUC which
+describes the M&E plan for PG&E’s commercial electric vehicle day-ahead, hourly
+real-time pricing (DAHRTP CEV) rate.
+• PG&E conducted a public workshop on March 24, 2022, to discuss and solicit feedback
+on its proposed DAHRTP CEV M&E plan.
+– Public Advocates, VGIC, and Electrify America participated in this workshop.
+Other participants include SBUA and Enel X.
+– The filed AL included feedback from workshop participants.
+• The Settling Parties agree that PG&E shall increase the scope of AL 6587-E to study the
+Non-NEM Export Rate concurrently, as proposed by Cal Advocates.
+• However, the Measurement and Evaluation study for this Non-NEM Export Rate Pilot
+shall exclude the following items outlined in AL 6587-E:
+– Infrastructure and automation costs;
+– Customer satisfaction, drivers/barriers for adoption, and motivation for future
+investment; and
+AppA-58
+
+– These parameters and other technical considerations are being studied with more
+use cases (such as back-up power) in the VGI pilots approved by Res.E-5192
+Therefore, the evaluation report for the Non-NEM Export Rate Pilot will not
+re-study those parameters, but will instead, reference the results from the
+underlying DAHRTP CEV rate.
+To facilitate review, the following table summarizes the evaluation parameters from
+AL 6587-E:
+TABLE 3: SUMMARY OF EVALUATION PARAMETERS
+DAHRTP-CEV Non-NEM CEV Export Rate
+AL 6587-E Rider Pilot
+Load Impact X X
+Negative Generation Rate Impacts X (year 1 only) X
+Bill Impact X X
+Infrastructure and Automation Costs X References VGI Pilot
+System Benefits X X
+Dual Participation X X
+Customer Satisfaction, Drivers/Barriers for X References VGI Pilot
+Adoption, and Motivation for Future
+Cost Shift and Revenue Over-Under Collection X X
+Feasibility of Market-Integrated Approach TBD based on progress of
+High DER proceeding
+xiii. Other Measurement and Evaluation Terms
+1. PG&E will engage qualified vendors to conduct the interim and final measurement and
+evaluation studies.
+2. If any other Load Serving Entities choose to offer programs or tariffs to Unbundled
+service customers based on rates produced by this Non-NEM Export Rate Pilot, PG&E
+will make its best efforts to include the results of customer participation in those
+programs and tariffs in the interim and final evaluations.
+2. PG&E will endeavor to share Pilot results and recommendations with the Settling Parties
+AppA-59
+
+before filing the second-year evaluation report.
+xiv. Cost Recovery Mechanism for the Non-NEM Export Rate Pilot
+The Settling Parties further agree that the costs of development, implementation,
+incentives, and operations of this Non-NEM Export Rate Pilot are incremental to those adopted
+in D.21-11-017 for the DAHRTP CEV Opt-in Rate for imports.8 Therefore, these costs will be
+tracked together in the same sub-account of the Dynamic and Real Time Pricing Memorandum
+Account (DRTPMA) for recovery in a future application and testimony.9 The costs in this
+DRTPMA sub-account for the Opt-in Rate and Export Pilot will be recovered through electric
+distribution rates, as adopted in D.21-11-017, using PG&E's standard distribution allocation
+factors from all customer classes.10
+PG&E will record in the DRTPMA the actual costs it incurs pursuant to the
+Commission’s orders for the DAHRTP CEV Opt-in Rate authorized in D.21-11-017, and in the
+forthcoming decision in the 2020 GRC Phase II (A.19-11-019 RTP Track) regarding the Stage 1
+Pilots and customer research. As detailed in the A.19-11-019 RTP Track Joint Party Settlement
+Agreement, all costs recorded to the DRTPMA will be subject to reasonableness review, either
+through a future single application or proposal and testimony requesting cost recovery submitted
+by PG&E. PG&E agrees to record costs in the DRTPMA consistent with how costs have been
+recorded in its Residential Rate Reform Memorandum Account (“RRRMA”) established in
+8
+PG&E Rebuttal Testimony, pp. 4-3 to 4-5.
+9
+In the pending GRC Phase II RTP Track Settlement Agreement, the parties have already agreed that
+the costs for the GRC Phase II Stage 1 RTP Pilots will also be recorded in DRTPMA. Given the
+need to track the DAHRTP CEV Opt-in Rate’s along with the Non-NEM Export Rate Pilot’s costs
+separately from the GRC Phase II Stage 1 RTP Pilot costs, there will be two different subaccounts:
+(1) for the DAHRTP-CEV Opt-in Rate and Non-NEM Retail Export Pilot), and (2) for the GRC
+Phase II Stage 1 RTP Pilots.
+10
+In the GRC Phase II Settlement Agreement, parties agreed that the costs for the GRC Phase II
+Stage 1 RTP Pilots will be recovered slightly differently than the DAHRTP CEV opt-in rate costs, in
+distribution rates from all customers, allocated by the Equal Percent of Total revenue (EPT)
+allocation method. A.19-11-019, Settlement Agreement in PG&E’s 2020 GRC Phase II on Real
+Time Pricing Issues Including Stage 1 Pilots, pp. 26-27.
+AppA-60
+
+D.15-07-001 for the implementation of residential default time of use rates. PG&E can recover
+the costs recorded to the DRTPMA only after the Commission finds that PG&E has
+demonstrated in the separate application or testimony that its expenditures were incremental,
+verifiable, and reasonable, and consistent with the requirements resulting from A.19-11-010 or
+D.21-11-017, as well as consistent with other relevant Commission rulings and approvals
+(including, without limitation, plans and activities submitted by PG&E approved through advice
+filings discussed elsewhere herein).
+The cost estimate for this Non-NEM Export Rate Pilot is separate from any expenditures
+that would be needed for the Wholesale Market-Integrated Pilot that was proposed by PG&E in
+supplemental testimony and addressed in rebuttal. If the Wholesale Market-Integrated Pilot
+activities were to move forward, PG&E would need to develop cost estimates for those activities
+and may request different accounting treatment (e.g., balancing account).
+xv. Generation Revenue Over-collection and Under-collection (Revenue
+Requirement Recovery and Avoiding Double Counting)
+The Settling Parties acknowledge that tracking generation costs and revenues associated
+with the RTP rate is extremely complicated and involves several PG&E balancing accounts.
+Therefore, the Settling Parties agree that the best course of action for the Non-NEM Export Rates
+is to track and study generation costs and generation revenues over the course of the Non-NEM
+Export Rates, with no predefined mitigation or revenue recovery procedure.
+PG&E will study generation revenue over-collection and under-collection during the
+Pilot period, setting out metrics in the Measurement and Evaluation study described above in
+Section V.B.xi. PG&E's generation revenue over-collection and under-collection study will
+attempt to differentiate between structural effects (i.e., due solely to enrollment and
+disenrollment) and rate-related changes in customer energy use. PG&E will track each Pilot
+customer’s load profiles both before and after they began participating in the Pilot rate and
+compare them to performance under non-RTP time-of-use (“TOU”) rates, as well as the
+AppA-61
+
+aggregate load of customers not -participating in this Pilot. PG&E will identify those elements
+of the Energy Resource Recovery Account (“ERRA”) balancing account that may not be
+attributable to an RTP rate and will measure possible double counting of annual energy and
+capacity costs in the Pilot rate.
+If the study results indicate material and systemic generation revenue over-collection or
+under-collection, PG&E and/or other Settling Parties may file a proposal to modify the Non-
+NEM Export Rates either during the Pilot, or after its conclusion.
+xvi. Information Technology Billing Systems Changes and Timing
+PG&E commits to implementing, as soon as practicable, whatever structural changes to
+PG&E's systems may be necessary to conduct the Pilot agreed upon in this Settlement, including
+associated external systems for which PG&E is responsible. PG&E advises, and the Settling
+Parties acknowledge, that to achieve PG&E's goal of timely usability of the systems involved
+and necessary employee training, any proposed timeline may be modified. The Settling Parties
+agree that this Settlement Agreement shall not preclude any party's right to solicit action from the
+Commission to address unreasonable delays in implementation of the structural changes to
+PG&E systems necessary for the Pilot. Prior to contacting the Commission regarding concerns
+about the timing of PG&E's implementation of this Pilot rate rider, the Settling Parties agree to
+meet and confer with PG&E on the status of the Pilot’s implementation, discuss options for
+resolution, and allow PG&E a reasonable time to pursue any viable alternative option.
+AppA-62
+
+Section V.B.iv., above sets forth the target date for PG&E to make best efforts to
+program and make available for enrollment the agreed upon Non-NEM Export Rate Pilot retail
+rates by October 2023, but if the Commission approves something other than what is included in
+this Settlement Agreement, roll-out of this Pilot rate rider may take additional time beyond
+October 2023, and may require revised cost and timing estimates.
+xvii. Statement Regarding Rule 21 Issues
+The Settling Parties agree that PG&E Electric Rule 21 process changes are beyond the
+scope of this proceeding; therefore, implementation of the Non-NEM Export Rate Pilot shall
+abide by the current requirements of PG&E Electric Rule 21. Further, PG&E will work with
+customers eligible for this Pilot, who submit new Rule 21 export applications for sites with
+existing Rule 21 one-way, non-export agreements, to consider the customer’s prior site-specific
+studies that may be reused to avoid duplicative costs. Use of the studies may be allowed
+pursuant to the requirements of Rule 21 based on consideration of then-current conditions and
+factors.
+VI. APPENDICES TO SETTLEMENT
+The following lists reference the documents that are being included as appendices and
+attachments to this Settlement Agreement:
+• Appendix A:
+– Attachment 1 – Comparison Exhibit;
+• Appendix B:
+– Attachment 1 – Declaration of Erica Brown in Support of PG&E’s DAHRTP
+CEV Non-NEM Export Pilot Settlement’s Early Participation Incentive proposal;
+and
+AppA-63
+
+– Attachment 2 – Declaration of Anh Dong in Support of of PG&E’s DAHRTP
+CEV Non-NEM Export Compensation for Non-NEM Participants – Updated
+Incremental Pilot Cost Estimates and Schedule.
+VII. SETTLEMENT EXECUTION
+This Non-NEM Export Rate Pilot Settlement Agreement may be executed in separate
+counterparts by different Settling Parties hereto and all so executed will be binding and have the
+same effect as if all the Settling Parties had signed one and the same document. Each such
+counterpart will be deemed to be an original, but all of which together shall constitute one and
+the same instrument, notwithstanding that the signatures of all the Settling Parties do not appear
+on the same page of the RTP Settlement Agreement. This Settlement shall become effective
+among the Settling Parties on the date the last Settling Party executes this Settlement Agreement,
+as indicated below. In witness whereof and intending to be legally bound by the Terms and
+Conditions of this Non-NEM Export Rate Settlement Agreement as stated above, the Settling
+Parties duly execute this RTP Settlement Agreement on behalf of the Settling Parties that they
+represent, as follows:
+AppA-64
+
+The undersigned represent that they are authorized to sign on behalf of the Party represented,
+for the purposes of this Non-NEM Export RatePilot Settlement Agreement.
+Pacific Gas andElectric Company (PG&E)
+By:
+Title: Executive Vice President, Corporate Affairs
+Date: June 17, 2022
+AppA-66
+
+The undersigned represent that they are authorized to sign on behalf of the Party represented, for the purposes of this Non-NEM Export
+Rate Pilot Settlement Agreement.
+Vehicle Grid Integration Council (VGIC)
+By: Edward Burgess
+Title: Senior Policy Director
+Date: June 17, 2022
+AppA-67
+d
+
+The undersigned represent that they are authorized to sign on behalf of the Party represented, for
+the purposes of this Non-NEM Export Rate Pilot Settlement Agreement.
+ELECTRIFY AMERICA, LLC
+By: __Bob Sweetin______________________
+Title: __Counsel, Electrify America_____________
+AppA-68
+d
+
+APPENDIX A
+ATTACHMENT A
+
+APPENDIX A, ATTACHMENT 1
+PACIFIC GAS AND ELECTRIC COMPANY
+-DAHRTP CEV Non-NEM EXPORT COMPENSATION PILOT SETTLEMENT AGREEMENT COMPARISON EXHIBIT SHOWING PARTIES'
+PRE-SETTLEMENT POSITIONS
+AppA-AtchA-1
+d
+
+APPENDIX A, ATTACHMENT A
+PACIFIC GAS AND ELECTRIC COMPANY
+PG&E’S DAY AHEAD REAL TIME PRICING COMMERCIAL ELECTRIC VEHICLE PROCEEDING (A.20-10-011) SETTLEMENT AGREEMENT COMPARISON EXHIBIT
+SHOWING PARTIES’ PRE-SETTLEMENT POSITION ON EXPORT COMPENSATION FOR NON-NEM PARTICIPANTS
+Line
+No. Issues PG&E Testimony Cal Advocates Testimony Electrify America Testimony VGIC Testimony
+1 Whether PG&E’s proposal for a As presented in PG&E Opposed, Opposed, Opposed,
+Market Participation Approach is Supplemental Testimony (3/24/22) Cal Advocates-3, Rebuttal Electrify America Answer VGIC Direct Testimony
+reasonable pp. 1-2 to 1-11, 2-1 to 2-5, 3-1 to 3-3 Testimony (4/29/22) pp. 1-1, 1-3 Testimony (4/29/22) p. 3 (4/13/22) pp. 3-7, 9-16
+PG&E Direct Testimony (4/13/22) to 1-6 VGIC Rebuttal Testimony
+pp. 3-6 (4/29/22) pp. 3-4, 8-12
+PG&E Rebuttal Testimony (4/29/22)
+pp. 1-1 to 1-6
+2 Whether PG&E’s proposal for a Cost As presented in PG&E Direct Opposed,
+Recovery Mechanism for a Rate Testimony (4/13/22) pp. 8-10. Cal Advocates-3, Rebuttal
+Option is reasonable Testimony (4/29/22) pp. 1-1 to 1-
+2; 1-19 to 1-22
+3 Whether a Revenue Neutral Adder As presented in PG&E Rebuttal Unopposed, Opposed,
+Inclusion in Rate and Rate Eligibility Testimony (4/29/22) pp. 1-3 to 1-5, Cal Advocates-3, Rebuttal VGIC Rebuttal Testimony
+is reasonable 3-2 to 3-3 Testimony (4/29/22) pp. 1-8 to 1- (4/29/22) pp. 9-10
+9
+4 Whether prohibition of Dual As presented in PG&E Rebuttal Unopposed, Opposed,
+Participation for Rate Participants is Testimony (4/29/22) pp. 2-1 to 2-4 Cal Advocates-3, Rebuttal VGIC Direct Testimony
+reasonable Testimony (4/29/22) pp. 1-2, 1-14 (4/13/22) pp. 7-8, 13-14
+to 1-18 VGIC Rebuttal Testimony
+(4/29/22) pp. 10-11
+5 Whether a Rate Cutoff and Pilot As presented in PG&E Direct Cal Advocates-3, Rebuttal
+Designation is reasonable Testimony (4/12/22) pp. 2-5 Testimony (4/29/22) pp. 1-1, 1-6
+PG&E Rebuttal Testimony (4/29/22) to 1-8 and 1-22
+pp. 1-2 to 1-5
+6 Whether the Sufficiency of Rule 21 As presented in PG&E Opposed, Opposed,
+Use is reasonable Supplemental Testimony (3/24/22) Electrify America Answer VGIC Direct Testimony
+pp. 1-9 to 1-10 Testimony (4/29/22) pp. 2-4 (4/13/22) pp. 15-17
+VGIC Rebuttal Testimony
+(4/29/22) pp. 4-5, 7
+
+APPENDIX A, ATTACHMENT A
+PACIFIC GAS AND ELECTRIC COMPANY
+PG&E’S DAY AHEAD REAL TIME PRICING COMMERCIAL ELECTRIC VEHICLE PROCEEDING (A.20-10-011) SETTLEMENT AGREEEMENT COMPARISON EXHIBIT
+SHOWING PARTIES’ PRE-SETTLEMENT POSITIONS ON EXPORT COMPENSATION FOR NON-NEM PARTICIPANTS
+7 Whether Participation Incentives for As presented in Exhibits PG&E-27
+Rate Participants is reasonable and PG&E-31
+
+APPENDIX B
+Attachment 1
+Declaration of Erica Brown in Support of PG&E’s
+DAHRTP CEV Non-NEM Export Pilot Settlement’s Early
+Participation Incentive Proposal
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Application No. A.20-10-011
+Company for Approval of its Proposal for a (Filed October 23, 2022)
+Day-Ahead Real Time and Pilot to Evaluate
+Customer Understanding and Supporting
+Technology (U 39 E)
+DECLARATION OF ERICA BROWN IN SUPPORT OF
+PACIFIC GAS AND ELECTRIC COMPANY’S (U 39 E)
+DAHRTP CEV NON-NEM EXPORT PILOT
+SETTLEMENT’S LIMITED EARLY PARTICIPATION
+INCENTIVE
+I, Erica Brown, declare under penalty of perjury under the laws of the State of California
+that the following is true and correct to the best of my knowledge and belief:
+1. I am a Director in the Energy Policy & Procurement department. My responsibilities
+include developing and analyzing policy proposals on issues that impact energy procurement.
+2. PG&E and Settling Parties1 have reached a mutually acceptable outcome on the
+program design issues as presented in this phase of Application (A.) 20-10-011 of Pacific Gas
+and Electric Company (PG&E) for Approval of its Proposals for a Day Ahead Real Time and
+Pilot to Evaluate Customer Understanding and Supporting Technology (DAHRTP), for
+Commercial Electric Vehicles (CEV). This Settlement Agreement includes a Non-NEM export
+compensation rate rider Pilot, that will be available for non-residential customers who take
+service on the CEV DAHRTP rate.
+3. I am responsible for developing the limited early participation incentive that the
+Settling Parties agreed should be available to eligible participants in the DAHRTP CEV non-
+NEM export rate rider Pilot, which PG&E now supports, as set forth below.
+1 Pacific Gas and Electric Company (PG&E), Public Advocates Office at the California Public Utilities
+Commission (Cal Advocates), Vehicle Grid Integration Council (VGIC), and Electrify America, LLC.
+- 1 -
+
+4. The Day-ahead Real-time Pricing (DAHRTP) Commercial Electric Vehicle (CEV)
+Non-NEM Export Pilot (“Pilot” or “the Pilot”) intends to accomplish three things:
+a. To provide learnings about how CEVs respond to day-ahead price signals;
+b. To provide opportunities for customers to reduce their electric fueling costs
+beyond the benefits of the DAHRTP-CEV rate itself; and
+c. To support grid reliability and decarbonization goals.
+Due to the nascency of vehicle to grid applications and the costs to “first movers”
+participating in this Pilot, a limited, one-time incentive is appropriate for eligible customers who
+enroll and participate in the DAHRTP-CEV Non-NEM Export Compensation Pilot.
+4. The ratepayer funded one-time early participation incentives proposed to be made
+available to eligible participants in the CEV DAHRTP non-NEM export pilot is outlined in Table
+1, below, subject to a total incentive budget of $250,000. These ratepayer funded early
+participation incentives for this Pilot shall cease when the total cap of $250,000 is reached.
+Table 1: DAHTRP CEV Non-NEM Export Compensation Pilot Upfront Incentive by EVSE Size
+EVSE Size Base EVSE School Bus School Bus EVSE Incentive
+Incentive Adder
+100 kW or lower $1,800 $1,350 $3,150
+Greater than 100 kW $3,750 $2,810 $6,560
+5. Participants in the Pilot will receive compensation for energy exported to the grid.
+However, because compensation is based on real-time grid conditions and because participants
+lack experience with forecasting revenues associated with this new rate, it would be reasonable
+to provide participants with an upfront payment. The ratepayer funded early participation
+incentives the Settling Parties propose be made available to eligible participants is intended to
+encourage participation by guaranteeing that some or all of participants’ upfront costs will be
+recovered. Providing an upfront early participation incentive recognizes that participants may
+otherwise be reluctant to participate because the underlying non-NEM export compensation rate
+has not yet been implemented and, therefore, revenues from providing export would be difficult
+- 2 -
+
+for customers to forecast. Eligible EVSEs may be reluctant to invest in the necessary
+technology, software, and/or processes to participate in the DAHRTP CEV Non-NEM export
+compensation Pilot if they are not confident that they will be able to recoup their costs with the
+export revenues generated. The incentive offered to EVSEs exclusively serving school buses
+would be higher in recognition of the issues the Vehicle to Grid Integration Council (VGIC) has
+raised around “make ready” funding availability to school sites and because the seasonal nature
+of school bus usage may be uniquely well suited to providing generation during a portion of the
+peak usage months.
+6. The total incentive amounts were calculated by forecasting the revenue that an EVSE
+could expect if the owner participated in the Emergency Load Reduction Program (ELRP)
+approved in R.20-11-003, which is designed in a way to provide those participants some early
+certainty about revenues. The methodology used was as follows:
+• The difference in ELRP compensation and compensation during the top 60 forecasted
+hours under the DAHRTP rate times EVSE size times minimum guaranteed paid in
+ELRP hours.2
+• The top 60 forecasted DAHRTP hours from the last five years equal $0.99/kWh which
+we have rounded to $1/kWh for the purpose of this calculation.
+• The two sizes assumed are the currently approved EVSE sizes: 60 kW and 125 kW.
+• ELRP is guaranteed to be called between 30 and 60 hours, although it was only called
+for 14 hours in 2021.
+• 100 kW or lower Incentive = ($2/kWh - $1/kWh) * 60 kW * 30 hours = $1,800
+• Greater than 100 kW Incentive = ($2/kWh - $1/kWh) * 125 kW * 30 hours = $3,750
+• In addition, it is appropriate to include a modified calculation of the Participation
+Incentive specifically for school buses. This modification is based on the same
+2 Notwithstanding the design of the pilot, basing the incentive methodology on the ELRP compensation design is
+not an endorsement of that design and, specifically, does not mean that energy generated during hours in which
+ELRP is called is worth $2/kWh.
+- 3 -
+
+approach outlined above but would include an additional +75 percent “adder”
+component.
+The incentive will be paid in two installments: 70 percent upfront and 30 percent after
+12-months of participation. Participants who receive the 70 percent upfront incentive payment
+must remain on the rate for a minimum of 12 months in order to receive the second installment
+of 30 percent. This feature aims to ensure that participants remain within the Pilot long enough
+to gather relevant data (i.e., export data for at least one full year, including at least one summer
+season). It is important to only offer the incentives for a limited time because it will assess
+whether customer behavior and load impact differed between customers who received an
+incentive compared to those who did not. Similarly, it is important to study the unenrollment of
+customers who received an incentive compared to those who did not.
+The total ratepayer funded incentive budget is capped at $250,000, with the following
+limitations: (1) no more than 25 percent of the budget can provide incentives for EVSEs with
+storage onsite and (2) no more than 25 percent of the budget can provide the school bus adders.
+These limitations are intended to ensure a diversity of and enough participants in the pilot. The
+cap also limits the cost-shift impacts on non-participants. Up to 25 percent of the total incentive
+budget will be reserved for EVSEs for school buses. This would support between 9 and 19
+EVSEs for school buses, leaving the remaining budget to cover between 50 and 104 non-school
+bus EVSEs (with each EVSE in the Pilot possibly serving multiple commercial electric vehicles).
+Participants in the Pilot may have storage onsite; however, because the aim of this Pilot is to
+understand how DAHRTP CEV customers respond to day-ahead price signals and how that
+relates to their exporting behavior on the Pilot, 75 percent of the total incentive budget will be
+reserved for EVSEs without associated storage (including EVSEs serving school buses). EVSEs
+with storage onsite will be eligible for up to 25 percent of the incentive budget. However, in all
+cases, Pilot participants must attest when enrolling in the Pilot that they have enough vehicle
+storage capacity in the vehicle battery (or onsite storage capacity for EVSEs in the 25 percent
+- 4 -
+
+onsite storage segment) available to be able to maintain the EVSE’s maximum export for at least
+one hour at some point throughout a typical day to be eligible for the incentive.
+7. The incentive raises costs for non-participating customers because it provides
+compensation for participants beyond the value of the energy and capacity provided. This is
+mitigated by an overall pilot incentive cap.
+8. PG&E expects the Settling Parties will work together to see if an alternate source of
+non-ratepayer funding can be secured in the future, such as from the State’s General fund. Such
+funding could be used to offset the costs to non-participants of this Pilot’s early participation
+incentive, increase the Settlement’s agreed incentives for participants, offset participant start-up
+costs, or some combination, to be determined by agreement of parties at the time such alternate,
+non-ratepayer funding is secured. If an alternate source of non-ratepayer funding is timely
+secured to provide a larger incentive budget, Settling Parties agree that because the terms and
+conditions on any such outside funding are currently unknown, the parties would work together
+to make a proposal to the CPUC regarding any early participation incentive modifications that
+might appear warranted at that time. If possible, the Settling Parties will strive to maintain the
+above-agreed caps on percentages of incentive budget for EVSEs with storage and EVSEs for
+school buses should be maintained.
+9. I declare under penalty of perjury under the laws of the State of California that the
+statements made above are true and correct to the best of my knowledge and belief.
+Executed this 17 day of June, 2022 at San Francisco, California
+___ __
+Erica Brown
+Director, Energy Policy Analysis & Design
+- 5 -
+
+APPENDIX B
+Attachment 2
+Declaration of Anh Dong in Support of PG&E’s DAHRTP
+CEV Non-NEM Export Compensation for Non-NEM
+Participation – Updated Incremental Pilot Cost Estimates
+and Schedule
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Application No. A.20-10-011
+Company for Approval of its Proposal for a (Filed October 23, 2020)
+Day-Ahead Real Time and Pilot to Evaluate
+Customer Understanding and Supporting
+Technology (U 39 E)
+DECLARATION OF ANH DONG IN SUPPORT OF
+PACIFIC GAS AND ELECTRIC COMPANY’S (U 39 E)
+DAY-AHEAD REAL TIME PRICING COMMERCIAL
+ELECTRIC VEHICLE PROCEEDING (APPLICATION
+A.20-10-011) ON EXPORT COMPENSATION FOR
+NON-NEM PARTICIPANTS--UPDATED INCREMENTAL
+PILOT COST ESTIMATES AND SCHEDULE
+I, Anh Dong, declare under penalty of perjury under the laws of the State of California
+that the following is true and correct to the best of my knowledge and belief:
+1. I am a Senior Manager in the Pricing Products Department. My responsibilities
+include defining and implementing Information Technology (IT) solutions to build rate plans,
+helping customers better understand and manage their energy use and bills.
+2. PG&E and Settling Parties1 have reached a mutually acceptable outcome on the
+program design issues as presented in this phase of Application (A.) 20-10-011 of Pacific Gas
+and Electric Company (PG&E) for Approval of its Proposals for a Day Ahead Real Time and
+Pilot to Evaluate Customer Understanding and Supporting Technology (DAHRTP), for
+Commercial Electric Vehicles (CEV). This Settlement Agreement includes a Non-NEM export
+compensation Pilot rate rider for eligible customers on the DAHRTP CEV rate.
+3. I am responsible for developing PG&E’s estimated pilot costs shown in PG&E
+rebuttal testimony, Exhibit PG&E-4. I would like to correct an error in Table 4-2 of Exhibit
+1 Pacific Gas and Electric Company (PG&E), Public Advocates Office at the California Public Utilities
+Commission (Cal Advocates), Vehicle Grid Integration Council (VGIC), and Electrify America, LLC.
+- 1 -
+
+PG&E-4, where the total line is incorrect. The corrected total should be $1.02-1.12 million and
+not $1.02 - $1.03 million, bolded in line 5 below:
+TABLE 1
+Line Task Estimated Cost to Ratepayers Estimated Cost to
+No. (from rebuttal) Ratepayers
+1 Pricing Engine / Pricing Tool $360,000 $360,000
+2 Billing System / Engine $400,000 - $500,000 $400,000 - $500,000
+3 Marketing and Acquisition / $60,000 $60,000
+Marketing Education and
+Outreach
+4 Measurement & Evaluation $200,000 $200,000
+5 Total $1.02 million-$1.03 million $1.02 million-$1.12
+million
+4. Incentives for Non-NEM retail rate export compensation are the product of settlement
+and were not proposed in PG&E's opening testimony. Based on Ms. Brown’s declaration of
+June 17, 2022, I have added the cost of incentives and incremental program management costs to
+administer the incentives to my previous Pilot cost estimates in my rebuttal for the Non-NEM
+export compensation for customers on the DAHRTP CEV rate. Incremental program
+management is needed because there are different levels of incentives earmarked for different
+types EVSEs (for example, those without on-site storage, school buses). In addition, because
+incentives will be paid out in two installments, a program manager will also need to track
+customers’ enrollment and ensure payment after the customer has completed one year of
+enrollment. I have not made any other changes to my cost estimates.
+The following four categories of costs will be recorded to the Dynamic and Real Time
+Pricing Memorandum Account (DRTPMA) and are estimated as follows:
+- 2 -
+
+TABLE 2
+Line Task Estimated Cost to Ratepayers Estimated Cost to
+No. (from rebuttal) Ratepayers
+1 Pricing Engine / Pricing Tool $360,000 $360,000
+2 Billing System / Engine $400,000 - $500,000 $400,000 - $500,000
+3 Marketing and Acquisition / $60,000 $60,000
+Marketing Education and
+Outreach
+4 Measurement & Evaluation $200,000 $200,000
+5 Incentives 0 $250,000
+6 Incremental program 0 $150,000
+management
+7 Total $1.02 million-$1.12 million $1.42 million-$1.52
+million
+7. The costs presented in Table 1 here are incremental to the costs approved in PG&E's
+initial DAHRTP CEV Decision (D.21-11-017). All actual costs for the Pilot, including costs that
+have not been estimated in Table 1, will be tracked in the Dynamic and Real Time Pricing
+Memorandum Account (DRTPMA) for recovery in a future application and testimony, and
+recovered pursuant to the Settlement Agreement’s terms as described in Section V. B., Budget.
+These estimates of incremental cost in Table 1 above may not be comprehensive in that other
+costs might later emerge as being necessary and reasonable for operating the Pilot agreed to in
+the Settlement. The above estimates assume adoption of the Settlement Agreement’s Pilot in its
+entirety without modification. All costs will be recovered through electric distribution rates as
+adopted in D.21-11-017 using PG&E's standard distribution allocation factors from all customers
+8. I am responsible for developing PG&E’s estimated schedule contained in this
+declaration for the DAHRTP CEV Non-NEM export rate. The estimated schedule shown below
+is based on the contents of the Settlement Agreement and reflects PG&E’s best current estimate.
+- 3 -
+
+TABLE 2: DETAILED TIMELINE
+Date
+CEV DAHRTP Non-NEM Export Compensation rate 10/1/2023
+rider Pilot Begins
+Pilot End Date 9/30/2026
+PG&E Plans to Notify Customers Pilot Ending (Based 8/1/2026
+on Original Date)
+Year 2 Evaluation Report & Recommendation 3/31/2026
+CPUC Acts on Evaluation Report 7/29/2026
+If CPUC has not acted:
+PG&E Notifies CPUC of Pilot Extension 7/30/2026
+90-day Extension to Pilot or New Pilot End Date 12/29/2026
+PG&E Notifies Customer of New Pilot End Date 8/29/2026
+9. The schedule for the Pilot is the product of settlement and was not proposed in
+PG&E's rebuttal testimony.
+10. The schedule for the Measurement and Evaluation reports are based on PG&E’s
+Advice Letter 6587-E.
+11. I declare under penalty of perjury under the laws of the State of California that the
+statements made above are true and correct to the best of my knowledge and belief.
+Executed this 17th day of June, 2022 at San Francisco, California
+______________________________
+Anh Dong
+Senior Manager, Pricing Products
+- 4 -

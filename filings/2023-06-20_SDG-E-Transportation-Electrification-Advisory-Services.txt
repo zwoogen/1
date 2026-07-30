@@ -1,0 +1,139 @@
+June 20, 2023
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle Grid Integration Council to Advice Letter 4233-E of
+San Diego Gas and Electric Company: Near-Term Priority Proposal for
+Transportation Electrification Advisory Services Program Pursuant to
+Decision 21-07-028
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 4233-E of San Diego
+Gas and Electric Company (“SDG&E”), Near-Term Priority Proposal for Transportation
+Electrification Advisory Services Program Pursuant to Decision 21-07-028 (“Advice Letter”) on
+May 31, 2023.
+VGIC commends SDG&E’s efforts in developing a thoughtful near-term priority proposal
+focused on offering transportation electrification (“TE”) advisory services. VGIC believes more TE
+and fleet advisory services are critical to advancing vehicle-grid integration (“VGI”) and
+transportation decarbonization. As proposed, the TE Advisory Services (“TEAS”) program would
+significantly increase the scope of SDG&E’s relationship with the electric vehicle (“EV”) owner or
+operator. Learning from the last decade of TE infrastructure program applications, VGIC believes
+the Commission must strike a careful balance when defining the role of the investor-owned utility
+(“IOU”) in supporting TE while enabling third-party actors to engage with customers in a
+competitive marketplace. A foundational principle in utility regulation is to avoid or limit monopoly
+firms’ entry into the provision of services that can be provided through competitive markets.
+In the case of the TEAS program, VGIC believes many of SDG&E’s proposed service
+offerings are, in fact, appropriate for IOU implementation. However, VGIC is also concerned that
+well-intentioned customer education efforts, if not implemented in an unbiased and transparent
+manner, could ultimately result in “gatekeeping” that limits customer choice, hinders the market for
+certain VGI solutions, and diminishes opportunities for competitive TE offerings from emerging.
+With this in mind, VGIC provides additional context for the Commission’s consideration and
+recommends that the Commission approve the Advice Letter with the below modifications.
+1
+
+June 20, 2023
+Page 2 of 4
+I. TO REMAIN CONSISTENT WITH RECENT COMMISSION GUIDANCE,
+SDG&E SHOULD CLARIFY THAT ELIGIBLE AUTOMATED LOAD
+MANAGEMENT SOLUTIONS INCLUDE BOTH SOFTWARE-BASED
+SOLUTIONS AND CO-LOCATED ENERGY STORAGE TECHNOLOGIES.
+The Advice Letter states that “The TEAS program will offer customized advisory services, planning,
+education, and support to help customers take advantage of opportunities to electrify their fleet, as
+well as to educate customers and operating costs, EVSE operation and maintenance, and ALM
+strategies.”1 VGIC supports increased education and implementation of ALM, including both
+software solutions optimizing power sharing across multiple chargers at a single point of connection
+and co-located or integrated energy storage solutions. In either case, the goal is to avoid or defer
+distribution capacity upgrades if a customer configures the solution to limit the site’s maximum
+demand. Thus, both types of ALM solutions should be communicated to customers.
+The Commission recently directed Pacific Gas and Electric Company (“PG&E”) to “not prohibit
+the use of BTM storage or other hardware as acceptable ALM or load management solutions, as this
+is an unnecessary constraint.”2 Although SDG&E’s Advice Letter does not preclude any specific
+type of ALM technology from eligibility, it also does not explicitly define which ALM solutions
+will be presented to customers. VGIC recommends SDG&E ensures customers receive education
+about both software-based ALM (i.e., power sharing across multiple EV supply equipment or
+“EVSE”) and hardware-based ALM (i.e., co-located and integrated energy storage) to promote
+consistency with the Commission’s recent guidance on ALM.
+II. TO REMAIN CONSISTENT WITH GUIDANCE IN DECISIONS 20-12-029 AND
+22-12-054, THE COMMISSION SHOULD DIRECT SDG&E TO DEVELOP A
+TECHNOLOGY-NEUTRAL STANDARD METHODOLOGY FOR ALM SITE
+ASSESSMENT.
+The TEAS program presents an opportunity for SDG&E to not only educate customers on ALM
+solutions, but also conduct site assessments to recommend ALM solutions to a customer when it
+would be most beneficial to save on infrastructure costs while still meeting customer mobility needs.
+The landmark December 2020 VGI Strategies and SB 676 Implementation decision (D.20-12-029)
+directed utilities “in all of its future applications for TE programs” to “describe its standard
+evaluation criteria to determine host sites where ALM would benefit ratepayers by reducing costs
+while meeting host site needs for electric vehicle charging.”3
+1 Advice Letter at 15.
+2 Decision Authorizing PG&E’s Electric Vehicle Charge 2 Program. Decision 22-12-054. December 19, 2022.
+Page 54.
+3 Decision Concerning Implementation of Senate Bill 676 and VGI Strategies. Decision 20-12-029. December
+21, 2020. Ordering Paragraph 5. Page 79.
+2
+
+June 20, 2023
+Page 3 of 4
+EV service providers (e.g., EV fleet management companies) already conduct these assessments
+with their customers. Through the TEAS program, SDG&E could augment these assessments with
+data related to utility-side infrastructure. VGIC recommends that the Commission direct SDG&E to
+develop and incorporate a technology-neutral standard methodology for ALM site assessment for
+implementation in the TEAS program. As part of this site assessment, SDG&E can calculate avoided
+costs determining the value of avoiding or deferring an infrastructure upgrade. To the extent TEAS
+participants are also receiving make-ready incentives or other ratepayer-funded charging equipment
+rebates, the ALM site assessment should weigh the benefits and costs of different ALM solutions.
+Ultimately, the customer must be given the opportunity to decide whether to implement an ALM
+solution in exchange for cost reductions or non-monetary benefits (i.e., backup power through a co-
+located energy storage system). If a site host decides to elect an ALM solution, they must also be
+free to choose which customer-side ALM technology they would like to install and use.
+III. THE COMMISSION SHOULD CONSIDER STRATEGIES TO MEASURE AND
+MONITOR ANY POTENTIAL NEGATIVE IMPACTS THE TEAS PROGRAM
+MAY HAVE ON SENATE BILL 676 VGI STRATEGY IMPLEMENTATION.
+VGIC recognizes that certain elements of SDG&E’s proposal may represent core competency areas
+for an IOU. For example, the “Site review and analysis” offering relies on SDG&E’s “years of
+experience and expertise.”4 However, given that this is a relatively nascent industry, VGIC questions
+whether more safeguards or monitoring should be used to facilitate SDG&E’s proposed expanded
+role in the TE advisory market. It is important to avoid compromising the formation of innovative
+new competitive offerings and limiting customer choice. VGIC’s primary concern is that SDG&E’s
+well-intentioned implementation may inadvertently hinder VGI market development through
+misinformation or the imposition of unnecessary constraints. For example, Section I above flags one
+area where SDG&E could limit the market for VGI solutions via improper customer education.
+Lastly, VGIC has been informed by site developers and EV service providers of mixed signals from
+utilities over whether ALM solutions are permitted for use in their territories and which solutions
+would be deemed eligible to defer or avoid an infrastructure upgrade.
+VGI represents a relatively new and complex set of solutions. Customer experience, EV load
+management, and using EVs as critical grid resources may be put at risk without sufficient oversight
+and guardrails for IOU implementation. VGIC believes the Commission should consider strategies
+to remain keenly informed about any potential negative impact the TEAS program may have on
+Senate Bill 676 VGI strategies implementation and the VGI market. Specifically, the annual VGI
+Forum, as established by the recent Decision on Transportation Electrification Policy and
+Investment,5 should expressly consider whether the TEAS program – and any future IOU-
+implemented TE advisory service offerings – present any barriers to VGI market development and
+achieving the VGI strategies adopted in the 2020 SB 676 Implementation and VGI Strategies
+4 Advice Letter at 27.
+5 Decision on Transportation Electrification Policy and Investment. Decision 22-11-040. November 21, 2022.
+Ordering Paragraph 11 at pg 231.
+3
+
+June 20, 2023
+Page 4 of 4
+Decision.6 We also encourage the Commission to consider how best to allow ALM solution
+providers to engage with customers directly in concert with SDG&E’s TEAS program
+implementation. At a minimum, SDG&E should consult VGI industry stakeholders and service
+providers, particularly providers of V2X solutions and other new technologies, about best practices
+for site evaluation, installation, customer education, and interconnection. This is a nascent but
+growing field, and the industry stakeholders and service providers have the most experience
+deploying real-world installations and implementing these customer solutions.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to the Advice Letter and looks
+forward to collaborating with the Commission and stakeholders in this proceeding.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE GRID INTEGRATION COUNCIL
+cc: Greg Anderson Regulatory Tariff Manager (SDGETariffs@sdge.com)
+Service list R.18-12-006
+6 Decision Concerning Implementation of Senate Bill 676 and Vehicle-Grid Integration Strategies. Decision
+20-12-029. December 21, 2020.
+4

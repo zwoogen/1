@@ -1,0 +1,87 @@
+October 14, 2024
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+RE: Response of the Vehicle Grid Integration Council to Pacific Gas and Electric Advice
+Letter 7378-E: PG&E’s Request for Extension of Time for PG&E’s Vehicle-to-Everything
+Pilot #3 (V2X Microgrid Pilot)
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 7378-E of Pacific
+Gas and Electric Company (“PG&E”), PG&E’s Request for Extension of Time for PG&E’s
+Vehicle-to-Everything Pilot #3 (V2X Microgrid Pilot) (“Advice Letter”) on September 24, 2024.
+VGIC commends PG&E’s efforts to advance vehicle-grid integration (“VGI”) in its service
+territory by conducting these VGI pilots and providing learnings on how to best integrate electric
+vehicles (“EVs”) into the grid and leverage bidirectional charging capabilities. California
+continues to face outage risks due to extreme weather, and resiliency solutions remain a priority.
+PG&E’s VGI pilots are all critical to support customer resiliency, and Pilot #3 is certainly no
+exception.
+Generally, VGIC supports PG&E’s extension request for Phase 1 and Phase 2 of the V2X
+Microgrid pilot. However, VGIC urges PG&E and the Commission to prioritize these pilots and
+VGI efforts, as ongoing delays are preventing California from fully leveraging EVs for grid
+integration.
+I. VGIC SUPPORTS PG&E’S EXTENSION REQUESTS FOR THE V2X
+MICROGRID PILOT, INCLUDING THE EXTENSION OF PHASE 2 TO 2028.
+The V2X Microgrid Pilot includes the most complex projects of the three VGI pilots
+approved in Resolution E-5192, given the individuality of each community microgrid. The V2X
+Microgrid Pilot is not only a pilot of V2X technologies, but a part of the broader piloting of
+community microgrids. The delays being faced in the establishment of the Redwood Coast Airport
+Microgrid is an example of the difficulties in constructing multi-customer microgrids. Given the
+1
+
+circumstances explained by PG&E surrounding funding delays and additional engineering work
+needed, the extension for Phase 1 should be granted.
+VGIC supports PG&E’s proposal to extend Phase 2 of the pilot until April 2028 or until
+the pilot budget is fully utilized. It is clear that the original vision of completing Phase 2 in 12
+months is challenging. As discussed above, community microgrids take significant time to
+develop. At the same time, V2X resources can play an important role in providing energy storage
+during extended outages. PG&E’s request to extend the pilot until 2028 will allow additional
+community microgrids to come online and will allow the pilot to be successful. Without the
+extension, Phase 2 of the pilot is unlikely to move forward successfully.
+II. PG&E AND THE COMMISSION SHOULD GENERALLY PRIORITIZE VGI
+PILOTS AND EXPANSION OF VGI SOLUTIONS.
+Senate Bill (“SB”) 676, which directs the Commission to “establish strategies to maximize
+the use of feasible and cost-effective EV integration into the electric grid by January 1, 2030,” was
+passed in 2019. The Commission adopted Decision 20-12-029 to meet the directives of SB 676 in
+2020. Yet, in 2024, VGI programs remain exceptionally limited in scope and scale. VGIC
+understands the efforts the utilities have put in to implement VGI programs, and PG&E’s pilots,
+in particular, are some of the most comprehensive. However, the Commission must work to
+accelerate the adoption of VGI solutions, particularly given major, pressing concerns about
+customer energy affordability. Ensuring that EVs consume energy at optimal times, while
+minimizing the need for new generation, transmission, and distribution infrastructure, is key to
+managing electric rates and enabling broader electrification.
+Resolution E-5192 approving three VGI pilots for PG&E envisioned all three approved
+pilots concluding in 2024. Instead, the first 2 V2X pilots did not launch until 2024, and the third
+pilot discussed in this Advice Letter has not yet commenced. This has been due to a variety of
+factors, but manageable elements of extensions and regulatory approvals should be improved. For
+example, there was nearly a 22-month gap between PG&E’s submission of Advice Letter 6694-E
+on real-time pricing for the V2X residential and commercial pilots and its approval by Resolution
+E-5326.1 The instant Advice Letter has also been part of a duplicative regulatory process, with
+PG&E originally requesting this relief via a Request for Extension. This was the incorrect
+procedural pathway, so the Commission then directed PG&E to file this Advice Letter to extend
+the V2X Microgrid Pilot.2
+1 PG&E Advice Letter 6694-E was filed on September 2, 2022. Resolution E-5326 was approved on July 11, 2024.
+2 See the Commission’s Letter “RE: Request for Extension of Time for Vehicle-Grid Integration Microgrid Pilot
+Approved in Resolution E-5192” sent June 27, 2024.
+2
+
+VGIC strongly urges PG&E and the Commission to prioritize these pilots to ensure their
+success. Streamlining any potential regulatory process and reducing delays will be critical to
+maintaining momentum and capitalizing on lessons learned, including navigating the on-ramp
+from pilot to full-scale, mass-market program development. These VGI pilots will inform
+significant portions of California’s VGI strategy and the use of bidirectional charging equipment
+going forward. A focus on timely implementation will help California achieve its VGI goals and,
+critically, ensure that customers can benefit from improved grid reliability, resiliency, and cost
+savings.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to the Advice Letter and looks
+forward to collaborating with the Energy Division and stakeholders on this important initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council (VGIC)
+cc: Sidney Bob Dietz II, PG&E, c/o Megan Lawson (PGETariffs@pge.com)
+Service lists: R.18-12-006 and R.23-12-008
+3

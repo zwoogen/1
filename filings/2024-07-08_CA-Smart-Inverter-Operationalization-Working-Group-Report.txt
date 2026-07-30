@@ -1,0 +1,501 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING PROVIDING TWO WORKING GROUP
+REPORTS AND DIRECTING RESPONSES TO QUESTIONS ON REPORTS
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: July 8, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING PROVIDING TWO WORKING GROUP
+REPORTS AND DIRECTING RESPONSES TO QUESTIONS ON REPORTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Providing Two Working Group Reports
+and Directing Responses to Questions on Reports (“Ruling”), filed May 29, 2024, as modified by
+the Administrative Law Judges’ Ruling Providing Uncorrupted Attachments, filed June 3, 2024,
+and the Email Ruling Partially Granting Extension of Time for Comments, filed June 11, 2024.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+EVs and vehicle-grid integration (“VGI”) through policy development, education, outreach, and
+research. VGIC appreciates the work of all the stakeholders in the Smart Inverter
+Operationalization Working Group (“SIOWG”). These reports provide stakeholders with a
+comprehensive view of the working groups and many important takeaways for the Commission to
+consider in the next stage of this proceeding and beyond. California is in the middle of several
+paradigm shifts related to our electric system, with the interconnection of many distributed energy
+resources (“DERs”) being one of them. While DERs have traditionally been thought of as customer
+generation systems, dynamic loads are also important DERs that can be leveraged for grid benefits.
+2
+
+There are also resources that can provide both dynamic load and exports, such as electric vehicles
+(“EVs”) with bidirectional charging capabilities (“V2X”). However, overall, the distribution
+system does not have sufficient capacity to accommodate current requests to connect EV charging
+load and given regulatory requirements placed on automakers and fleet operators from the
+California Air Resources Board (“CARB”), EV charging load is only expected to increase. To
+accommodate this load, the Commission must change many aspects of current grid planning and
+energization processes.
+Updating energization, interconnection, and grid planning practices to allow flexible
+DERs, both load and generation, to connect to the grid is critical not only to facilitate DER
+deployment, but also to support the grid. Therefore, VGIC agrees with the SIOWG Report that
+utilizing DERs to unlock “operational flexibility”, or “the ability of the DSOs [...] to flexibly
+optimize the use of existing capacity, allowing more rapid connections of DER and loads, while
+still maintaining grid safety and reliability,”1 is the highest priority smart inverter
+operationalization use case. The SIOWG Report discusses the implementation of operational
+flexibility and specifically configurations for firm import and export limits and non-firm import
+and export capacity. The Report generally recommends prioritizing implementation of firm and
+non-firm export limits, including the Limited Generation Profiles (“LGP”) already adopted by the
+Commission.2
+However, given the amount of new flexible load that is expected to come online in
+California, VGIC encourages the Commission to begin development of firm and non-firm
+import limits and Limited Load Profiles (“LLP”) as soon as possible. VGIC believes that the
+creation of LLPs with firm import limits that vary over a predetermined schedule, which mirror
+1 Report at i.
+2 Report at iii.
+3
+
+the currently adopted LGPs, should be prioritized strongly by the Commission. A recent motion
+in this proceeding by Enphase Energy, Inc. (“Enphase”) discussed the importance of advancing
+LLPs and pursuing their adoption by the utilities as distribution system operators (“DSO”).3 While
+VGIC and many parties supported the motion, it was denied since “the sub issues Enphase requests
+to address through the proposed scope expansion are already being addressed in this proceeding.”4
+The Commission cited many of the issues as being discussed in the SIOWG report, including the
+development of LLPs and requirements for specific flexible capacity agreements.5
+In these comments, VGIC focuses on answering the questions outlined in the Ruling
+specifically with EV use cases in mind.
+II. THE COMMISSION SHOULD ESTABLISH STANDARD TERMS AND
+DEFINITIONS FOR ELEMENTS OF OPERATIONAL FLEXIBILITY.
+Stakeholders have been discussing the operational flexibility ideas in the SIOWG for a
+while in different contexts at the Commission. However, different stakeholders use different names
+and phrases for the same idea. VGIC has observed discussions around operational flexibility
+discussed in this High DER Order Instituting Rulemaking (“OIR”), where the SIOWG Report
+discusses “Operational Flexibility in DER Interconnection Agreements” or “Limited Load
+Profiles,” but other parties have used phrases including “flexible service connects.” Stakeholders
+have also brought operational flexibility concepts to the Energization OIR (R.24-01-018), which
+has discussed “flexible service connections,” “interim service connections,” “bridge service
+connections,” and “phased energization,” and the Transportation Electrification OIR (R.23-12-
+3 Motion Of Enphase Energy, Inc. to Amend Scoping Ruling and Schedule to Address Optional Flexible Connection
+Agreements and the Underwriters’ Laboratory 3141 Standard for Power Control Systems in Investor-Owned
+Utilities’ Energization Rules
+4 Administrative Law Judges’ Ruling Denying Enphase Motion at 1.
+5 Ibid at 7-8.
+4
+
+008) which has used the phrase “flexible service agreements.” Stakeholders can also use different
+phrases for technologies and technical capabilities, with even the Commission acknowledging that
+discussing “smart inverters” is an out-of-date concept since many technologies outside of inverter-
+based solar and storage can provide the operational flexibility. The SIOWG report therefore
+discusses “any type of distributed energy resource system that can provide the operational
+flexibility described in the use cases.”6 Several major decisions in the DRIVE OIR (R.18-12-006),
+including D.20-12-029 and D.22-11-040, refer to Automated Load Management (“ALM”)
+solutions and EV Energy Management Systems (“EV EMS”) that be used to support operational
+flexibility. Southern California Edison’s Load Control Management Systems (“LCMS”) Pilot does
+not use the above terms, rather utilizing the term LCMS to describe both localized, autonomous
+load control as well as cloud-based, centralized dispatch.
+Given the sheer number of phrases and terms being used for operational flexibility, VGIC
+recommends that the Commission’s Staff Report and subsequent decision on this report include
+standard terms and definitions for use in all proceedings. The current use of terms is confusing and
+is already leading to stakeholders misunderstanding one another and, at a minimum, creates
+duplicative discussions about the same topic using different terminologies, which is inefficient for
+staff, the Commission, and parties. Having standard terms that are used in California to describe
+elements surrounding these operational flexibility parameters will meaningfully help stakeholders
+in California better understand and align with each other.
+In this set of comments, VGIC will use only the terms and definitions included in the
+SIOWG Report.
+III. RULING QUESTIONS: PRIORITIZATION.
+6 Ruling at Footnote 1.
+5
+
+1. The SIOWG Report includes prioritization criteria and stakeholder values that are used to
+inform the prioritization of the business cases and their associated use cases. Prioritization
+criteria are found in Section 3.4.1 on pages 25-26. Stakeholder values are found in Table 1 of
+Section 3.4.1 on pages 26-27.
+a. Are there any additional prioritization criteria and stakeholder values the Commission
+could use to determine which business cases to operationalize and what are they and why?
+VGIC believes that the Commission should include prioritization criteria that extent
+beyond technology and business case readiness, which are heavily valued in the Report.
+Specifically, the Commission should consider how widespread a solution is likely to be used, for
+example the number of customers that could take advantage of the business case. In “Value to
+Ratepayer and Society” criteria, the Commission considers progress towards goals that are largely
+under its own jurisdiction, such as SB 100, but the Commission should also consider how business
+cases can be used to meet the larger transportation electrification mandates of CARB and statewide
+electrification goals generally. Business cases that can help California meet these statewide and
+cross agency mandates and goals should be prioritized.
+b. If yes, based on this prioritization criteria and stakeholder values, which business cases
+and associated use cases are most important for the Commission to prioritize for operation
+and why?
+Based on these additional criteria, VGIC recommends that issues around import limits and
+the development of firm, scheduled LLPs be more heavily prioritized. This would involve
+increasing prioritization of Use Case 4. Import Limits, particularly scheduled import limits, for
+Business Case A: Operational Flexibility in DER Interconnection or Limited Load Profiles.
+IV. RULING QUESTIONS: CONCEPTS OF FIRM EXPORT LIMITS AND NON-
+FIRM EXPORT CAPACITY.
+2. The following questions are for Business Cases A, B, C, and their associated export related use
+cases 1-3 in the report.
+6
+
+a. Business Case A - Operational Flexibility in DER Interconnection- Should Distribution
+System Operators (DSOs) be authorized to set firm and non-firm export limits in the
+interconnection agreement? What criteria should be used to set the non-firm export limits,
+such as expected full export capacity or export capacity after eventual grid upgrades?
+Yes, generally the DSOs should be able to work with customers to set firm and non-firm
+export limits in the interconnection agreement. VGIC believes that firm and non-firm export limits
+can be set both (i) based on temporary or bridge configurations while the distribution system is
+upgraded or (ii) as an ongoing or permanent solution. Criteria for determining limit values and
+how often they should change must be well defined.
+One case that is likely to emerge is the use of non-firm export capacity as a temporary
+bridge solution. For example, customers may be willing to pay for distribution upgrades to fully
+accommodate their DER’s export capabilities, but construction of these upgrades may take time.
+In this case, firm and non-firm export limit values should be revisited once distribution upgrades
+are completed. However, many customers may also want to use a Limited Generation Profile or
+another form of non-firm export capacity on an ongoing basis to avoid paying for grid upgrades.
+b. Business Case B - Operational Flexibility during Abnormal Conditions- Should DSO be
+able to utilize schedule and command capability (automation system) to modify firm export
+limits under abnormal conditions? What criteria should be used for when and how much
+the firm export limits could be modified, such as expected heat waves or planned grid
+reconfigurations?
+Generally, VGIC cautions against DSOs being able to utilize automated command
+capabilities that reduce firm export capacity without explicitly compensating customers for the
+services provided by allowing DSOs to access these devices. There are already provisions in the
+Rule 21 Tariff that allow for automatic disconnections during abnormal conditions to preserve grid
+safety, but Business Case B discusses additional abilities for DSOs to either communicate
+additional abnormal or forecasted abnormal conditions or to directly control devices. While VGIC
+7
+
+understands that this business case may be beneficial for DSOs, when a customer signs an
+interconnection agreement with a firm export capacity, they expect to be able to export to that limit
+across the year. Customers typically receive compensation for exports under tariffs such as the Net
+Billing Tariff (“NBT”), other feed-in-tariffs, or demand response programs. The utilities are
+currently working on V2X pilots and the Commission is working on developing a technology
+neutral export rate option in the Advanced Demand Flexibility OIR. In order to allow the DSOs to
+utilize command capabilities to reduce firm export limits, customers must be compensated for their
+forgone revenue or service. Otherwise, customers are unlikely to agree to such terms and may
+forgo providing exports to the grid at all. VGIC recommends policy discussions surrounding
+proper compensation for customers forgoing exports occur and conclude before the Commission
+implements Business Case B, particularly if DSOs are able to directly limit exports.
+c. Business Case C - Operational Flexibility for Distribution Services under Normal
+Conditions- Should DSOs be authorized to dynamically modify non-firm export limits using
+schedule and/or command capability (automation system) to DER facilities on an ongoing
+basis?
+If customers are guaranteed access to a minimum firm export limit, then VGIC supports
+dynamic signals to encourage DER operations in support of the grid. VGIC does not support DSOs
+using automatic command capability to control devices on a regular basis, but VGIC does support
+Business Case C as explained in the report, “DER operators may voluntarily take actions in
+response to incentives under normal conditions, or even [...] pending abnormal conditions.
+[emphasis added].” 7 DSOs may want to increase non-firm export limits during times of high load,
+such as heatwaves, where distribution capacity exists to accommodate increased exports. For these
+scenarios, VGIC agrees that communication protocols should be developed to allow for this
+7 Report at 46.
+8
+
+capability. In these scenarios, customers are likely to be incentivized to provide these exports for
+additional compensation under tariffs or demand response programs. The Commission should also
+consider whether additional or different forms of compensation are appropriate when different grid
+services are being provided (i.e., an unbundled “value stack”).
+d. Business Case A - Operational Flexibility in DER Interconnection- Should DSOs be
+authorized to set minimum export requirements in the interconnection agreement? What
+criteria (time, duration, amount) should be included?
+VGIC answers this question for vehicle-to-grid (“V2G”) exporting use cases. For V2G
+applications, VGIC does not recommend setting minimum export requirements at this time. EVs
+are purchased, as all vehicles are, for transportation. While grid services can be provided by EVs,
+transportation capabilities will be prioritized by customers. This means that EVs will not always
+be plugged in and it would be unreasonable to have minimum export requirements in V2G
+interconnection agreements at this time.
+e. Business Case B - Operational Flexibility during Abnormal Conditions- Should DSOs
+be able to utilize schedule and command capability (automation system) to modify
+minimum export requirements under abnormal conditions?
+For V2G applications, VGIC does not recommend utilizing command capabilities to instate
+or modify minimum export requirements at this time. As discussed above, serving the grid is not
+the primary role of EVs and transportation capabilities may need to be prioritized. For example, if
+abnormal grid conditions that require additional exports are expected to continue for extended
+periods of time, EVs may have to hold a charge in order to drive later. Establishing or increasing
+a minimum export requirement could worsen the grid condition by requiring the EV to recharge
+at a later time in order to drive.
+9
+
+f. Business Case C - Operational Flexibility for Distribution Services under Normal
+Conditions- Should DSOs be authorized to dynamically modify minimum export
+requirements using schedule and/or command capability (automation system) to DER
+facilities on an ongoing basis?
+Given that VGIC generally opposes creating minimum export requirements for V2G
+applications, VGIC has no additional comment on this question.
+g. If yes to the questions above, what should be the scheduling structure (e.g., Comma
+Separated Value (CSV)), interaction (e.g., acknowledgment and error handling), and
+granularity level (e.g., monthly, weekly, daily, hourly, or others)?
+N/A.
+3. Under what conditions, if any, should an interconnection agreement be updated to modify firm
+export limits and/or non-firm export capacity?
+a. For example, following a distribution circuit capacity upgrade, permanent circuit
+reconfiguration, or when the distribution system's capacity decreases to a level where non-
+firm export capacity is no longer available.
+Generally, VGIC does not believe that firm export limits should be reduced once a
+customer has signed an interconnection agreement for a specific export capability. As discussed
+above, if a DSO wants to reduce a customer's ability to export below the minimum amount agreed
+to in their signed interconnection agreement, compensation for any forgone revenue from those
+exports should be provided. If a distribution circuit is upgraded and can accommodate additional
+exports, then the interconnection agreement could be updated to allow for additional exports
+beyond current limits. The Commission should establish rules and regulations detailing how the
+DSOs would approach customers to increase export limits and how multiple customers with
+limited export capacities on the same circuit would be approached in order to ensure fair access to
+increased capacity. VGIC does not have specific recommendations on how DSOs should fairly
+allocate increased capacity at this time and looks forward to further collaboration with stakeholders
+on the topic.
+10
+
+4. Should firm and non-firm export agreements be extended to DER owners with existing
+interconnection agreements? If so, how?
+VGIC has no comment at this time.
+5. The following questions are for Business Cases A, B, C, and their associated import related Use
+Case 4 in the report. A Business Case and Use Case matrix is available in Appendix A.
+a. Business Case A - Operational Flexibility in DER Limited Load Profiles - Should
+Distribution System Operators (DSOs) be authorized to set firm and non-firm import limits
+in the connection agreement? What criteria should be used to set the non-firm import
+limits, such as overall import needs even if some time periods are constrained by firm
+import limits, or the expected import capacity after eventual grid upgrades?
+Overall, VGIC believes that the Commission should prioritize the establishment of Limited
+Load Profiles (“LLPs”), especially LLPs that create a firm import schedule that varies over
+different hours or seasons. The use of LLPs has the potential to substantially increase
+transportation electrification in California by allowing customers to take advantage of existing
+distribution capacity. As distribution capacity generally increases on the grid, import limits can be
+modified to allow for additional imports.
+The Report recommends focusing on the implementation of the Limited Generation
+Profiles (“LGP”) to allow for scheduled exports. Currently, the LGPs include options for
+customers to choose different firm operational schedules. VGIC recommends that parallel LLPs
+also be developed and implemented as soon as possible to allow for customers to schedule their
+imports. In cases where 24/7 available capacity is less than the planned load for a customer’s site,
+the DSO could study the system under different LLP configurations (i.e., “24- hourly,” “Block,”
+and “18-23-fixed”, or other simpler schedules as discussed below) and provide these options to
+the customer, who could then decide which profile works best for them.
+VGIC also supports the development of non-firm capacity agreements, but as discussed in
+the report, communications and other protocols for communicating non-firm capacity will involve
+11
+
+“testing, and deployment over an estimated 2 to 10 years with pilot projects and a focus on the
+larger DER facilities.”8 Therefore, the Commission should focus on creating a varying schedule
+of firm import limits to begin, leveraging the work that has already been done for the LGPs to
+develop this program on the load side.
+Customers may agree to a permanent LLP import schedule, but VGIC anticipates that many
+customers will want, as a first choice, the distribution system to be upgraded to allow for the site
+to be fully energized at all times. In a “bridge” scenario, the customer would only agree to a
+particular limit during construction, with a new energization agreement being signed after
+upgrades are completed. VGIC recommends that the Commission create a temporary LLP option
+with this scenario in mind.
+b. Business Case B - Operational Flexibility during Abnormal Conditions, Should DSOs
+be able to utilize schedule and command capability (automation) to modify firm import
+limits under abnormal conditions? What criteria should be used for when and how much
+the firm import limits could be modified, such as expected heat waves or planned grid
+reconfigurations?
+VGIC cautions against utilizing DSO command capabilities to limit electricity imports
+below firm import limits established in an interconnection agreement, especially for EVs at this
+time. As discussed above, EVs are primarily used for transportation, and customers may need to
+charge their vehicles during times of grid stress. VGIC fully supports the Commission’s efforts to
+send economic signals to shape charging, including the development of dynamic pricing that
+would allow customers to see more of the real-time costs of their energy. However, the utilities
+maintain their obligation to serve customers, and changing a customer’s import capability without
+significant amounts of notice would severely diminish customer confidence in EVs generally.
+8 Report at iv.
+12
+
+Therefore, VGIC does not believe that the DSOs should be able to modify firm import limits using
+command capabilities at this time.
+Business Case B is distinct from the development of the firm import LLPs discussed above
+because establishing a set profile in the interconnection agreement allows customers to plan their
+imports around pre-defined limits that are agreed to in advance. Additionally, real-time changes to
+non-firm import limits could be developed, but the Commission will have to more thoroughly flesh
+out how much advance notice customers would get, how a DSO would determine how much to
+reduce the import limits of individual customers on a circuit, etc. Therefore, VGIC supports
+continuing discussions on this use case for imports, but the development of firm LLPs should be
+prioritized given the opportunity to leverage recent LGP development work.
+c. Business Case C - Operational Flexibility for Distribution Services under Normal
+Conditions- Should DSOs be authorized to dynamically modify non-firm import limits
+using schedule and/or command capability (automation system) to DER facilities on an
+ongoing basis?
+Similar to our above answer for exports, VGIC considers Business Case C to discuss
+voluntary actions, in this case, to reduce imports. Generally, VGIC supports sending economic
+signals to increase or decrease imports, such as through the development of demand response
+programs, managed charging programs, or dynamic rates. VGIC does not believe that DSOs
+should be able to use command capability to reduce import limits on an ongoing basis without
+compensation commensurate with the values provided to the DSO.
+d. Business Case A - Operational Flexibility in DER Limited Load Profiles - Should DSOs
+be authorized to set minimum import requirements in the interconnection agreement? What
+criteria (time, duration, amount) should be included?
+13
+
+For EV applications, VGIC does not recommend setting minimum import requirements at
+this time. As discussed above, EVs will have to prioritize transportation capabilities and services
+and will not always be charging or discharging. This may mean that there would be times where
+no EVs are stationed and charging, making minimum import requirements difficult to meet.
+e. Business Case B - Operational Flexibility during Abnormal Conditions- Should DSOs
+be able to utilize schedule and command capability (automation system) to modify
+minimum import requirements under abnormal conditions?
+Since VGIC generally does not recommend establishing minimum import requirements,
+we do not have additional comments on this question.
+f. Business Case C - Operational Flexibility for Distribution Services under Normal
+Conditions- Should DSOs be authorized to dynamically modify minimum import
+requirements using schedule and/or command capability (automation system) to DER
+facilities on an ongoing basis?
+Since VGIC generally does not recommend establishing minimum import requirements,
+we do not have additional comments on this question.
+g. If yes to the questions above, what should be the scheduling structure (e.g., CSV),
+interaction (e.g., acknowledgment and error handling), and granularity level (e.g.,
+monthly, weekly, daily, hourly, or others)?
+Generally, VGIC believes that firm, scheduled LLPs should be implemented by the
+Commission before more dynamic scheduling of non-firm capacity is implemented. VGIC does
+not have specific recommendations for the scheduling structure at this time.
+6. Regarding the granularity of hourly scheduling values for Power Import Limiting profiles:
+a. Do you view 288 hourly values spread across three possible configurations (“24-
+hourly,” “Block,” and “18-23-fixed"), as described in Resolution E-5296 regarding
+Limited Generation Profiles, as an adequate symmetrical construct on the load side?
+VGIC supports the use of the three scheduling profiles developed for the LGPs to develop
+Limited Load Profiles (“LLPs”), but we recommend looking at simpler schedules to use as well.
+14
+
+The use of 24 unique values under the three LGP configurations will provide customers with
+different options to consider and will help to maximize the amount of load that can be energized.
+However, for load, customers may prefer to implement a simpler schedule that is easier to manage
+and maintain.
+b. If not, do you believe a different number of hours and structure(s) should be used for
+scheduling Power Import Limiting profiles?
+One structure that VGIC recommends considering for scheduling LLPs is a 4-value
+structure with firm import limits that vary by Winter versus Summer and Peak versus Off-peak
+hours. A 12-value monthly LLP, while inappropriate to maximize value to the grid for exports in
+the LGP, may also be suitable for LLPs, as it’s an easier paradigm to understand and plan around.
+7. Under what conditions, if any, should a Service Agreement be updated to modify firm import
+limits and/or non-firm import capacity?
+a. For example, following a distribution circuit capacity upgrade, permanent circuit
+reconfiguration, or when the distribution system's capacity decreases to a level where non-
+firm import capacity is no longer available.
+The Commission should establish an option for LLPs to be used as a temporary profile that
+can later be updated once distribution upgrades are constructed to accommodate the full load of
+that customer. This scenario is already emerging in California on an ad hoc basis and can be scaled
+immediately to all interested customers. Other conditions, such as the allocation of capacity from
+shared distribution system upgrades that are built years after a customer signed their energization
+agreement, require further discussion.
+8. The report uses the term "Limited Load Profiles" to describe the agreement for energization.
+Are there any suggested alternative terms to describe providing energy and service agreements to
+customers?
+15
+
+VGIC does believe that LLPs as a mirror of the LGPs - specific interconnection agreements
+that provide options of schedules that can be followed with different import limits across the year.
+The Report discusses more direct responses to real-time grid conditions in Business Cases B and
+C that operate to respond to real-time grid conditions. Since those Business Cases may either be
+distinct or layered on top of an LLP profile, those use cases may probably have a distinct name
+that is separate from LGP and LLP. VGIC also reiterates its recommendation that the Commission
+clearly define the various terms related to these concepts, as detailed in Section II above.
+V. RULING QUESTIONS: EV (BUSINESS CASE E).
+10. Regarding any initial efforts to deploy EV charging projects through flexible connection
+agreements:
+a. How many EV charging sites (including capacity), that are either operational or under
+development, are piloting or using a form of flexible connection agreement that relies on
+power import limiting schedules? i. Note: If responses include confidential information,
+please include a redacted and non-redacted version.
+b. For sites as described in 12(a), how is PG&E, SCE, and SDG&E differentiating between
+firm and non-firm levels of energization and / or export from a contractual and operational
+standpoint?
+c. What is the preferred temporal granularity for power import limiting and/or power
+export limiting schedules?
+d. What communication pathways or protocols, if any, are required for the DSOs to
+communicate with and send commands to the EVSE at EV charging sites?
+VGIC has no comment at this time but may provide additional input in reply comments.
+VI. RULING QUESTIONS: REGULATORY ISSUES.
+11. Which regulatory proceedings (existing or new) should address these recommended
+capabilities for generation limiting with non-firm export capacity? (Note: The IOUs’ Rule 21
+tariffs currently address firm export limits).
+VGIC is agnostic to the regulatory venue to address non-firm import and export capacity.
+Overall, VGIC believes that developing these capabilities in this High DER OIR is most efficient.
+At the same time, for exporting resources, this High DER proceeding will have to coordinate with
+16
+
+the Rule 21 proceeding since export interconnection agreements are generally governed by Rule
+21 and, once modified, must be implemented in Rule 21.
+12. Which regulatory proceedings (existing or new) should address these recommended
+capabilities for load limiting with firm import limits and non-firm import capacity?
+VGIC is overall agnostic to the regulatory venue to address LLPs; however, we emphasize
+that the Commission should take this issue up quickly. VGIC believes that this High DER
+proceeding is likely the appropriate venue to develop the LLPs and general flexible service
+connection offerings, given the Report and recent High DER Staff Proposal. On the other hand,
+the Commission has explicitly stated that the energization rulemaking should take up issues
+surrounding customer energization.9 As highlighted by VGIC in both proceedings, the High DER
+proceeding and the Energization proceeding will likely need to be closely coordinated, as once the
+LLPs are developed, energization rules will need to be modified to include them.
+13. What regulatory requirements would need to be defined to provide operational guidelines on
+the fair allocation of non-firm capacity to different DER facilities? What issues would need to be
+resolved?
+VGIC has no comments on fair allocation of capacity at this time.
+14. How should regulations and tariffs for export and import limits be designed for DERs that
+have both load and generation attributes, such as stand-alone battery storage, PVpaired storage,
+and bidirectional EV charging? Should power import and export issues be addressed in separate
+rulemakings working in parallel, or should they be combined into a single rulemaking?
+Overall, VGIC believes that it is most efficient to develop standard tariffs or general
+program parameters for export and import limits in this High DER OIR. These can then be taken
+to different proceedings, including Rule 21 and the Energization OIR, to be implemented in the
+required rules (i.e., Rules 2, 15, 16, 21, and 29/45). VGIC does not believe that technologies need
+9 ADMINISTRATIVE LAW JUDGES’ RULING DENYING ENPHASE MOTION at 1.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M534/K105/534105698.PDF
+17
+
+to be discussed separately, but some nuances may need to be considered for individual
+technologies and the use cases of those technologies (i.e., EV’s primary requirements to provide
+transportation services). Those nuances can also be discussed during the implementation of a tariff
+change in Rule 29/45, which is EV-specific.
+VGIC believes there is value in coordinating discussions for both imports and exports in
+one proceeding. This ensures that technologies that both import and export, such as storage and
+bidirectional EVs, can have both limits directly discussed. Additionally, as shown in the report,
+many of the technical requirements like power control systems, communications protocols, safety
+standards, and DER management systems (“DERMS”) are the same for import and export limits.
+Therefore, it makes sense to discuss both in the same proceeding. Once a program or tariff structure
+is developed, discussions may have to be separated into the Rule 21 and Energization proceedings.
+15. Annex B briefly addresses the handling of unused capacity. What issues do you see related to
+managing customer unused capacity? What, if anything, should the Commission do relative to
+unused capacity? Should this be addressed in the IOUs’ tariffs?
+While the issue of unused or “stranded” capacity is worth considering, it is unclear that
+there is significant unused capacity on the grid today or that this will emerge as an important issue
+in the future. The Report does not highlight unused capacity as a prevalent problem for California
+today. VGIC recommends that additional study be done on the most common ways unused
+capacity emerges and, specifically, if certain customer types or use cases lead to unused capacity
+more often than others. Given the importance of expanding the distribution grid and the additional
+load that is expected throughout California, the Commission should spend its resources addressing
+the more well-defined and beneficial use cases, such as LGP and LLP, described above. In future
+venues, unused capacity can be studied and discussed further.
+18
+
+16. What existing standards (such as technical, safety, testing, and operational) should the
+Commission consider referencing in developing rules and regulations for Business Cases and Use
+Cases in the report? What new standards will be needed to inform CPUC regulation and policy?
+VGIC has no comment at this time but may provide additional input in reply comments.
+VII. RULING QUESTIONS: CYBERSECURITY REQUIREMENTS.
+19. Do you agree with the Commission establishing Paths F, G, and H based on SIO-CS
+prioritization? If yes, why? If not, why not?
+20. Questions related to Path F (Recommend that DSOs use the SIO-CS Phase 1 Primary DER
+Cybersecurity Requirements in the short term as part of their cybersecurity requirements for DER
+facilities):
+21. Questions related to Path G (Initiate the development of Phase 2 DER Cybersecurity
+Requirements based on SIO-CS Phase 1):
+22. Questions related to Path H (Endorse the establishment of testing and certification programs):
+VGIC has no comment at this time but may provide additional input in reply comments.
+VIII. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Working Group
+Reports. We look forward to further collaboration with the Commission and stakeholders on this
+initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: July 8, 2024
+19

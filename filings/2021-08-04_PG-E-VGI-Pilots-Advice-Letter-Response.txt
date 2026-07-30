@@ -1,0 +1,275 @@
+August 4, 2021
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle-Grid Integration Council to Advice Letter 6259-E of
+Pacific Gas and Electric Company
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 6259-E of Pacific
+Gas and Electric Company (“PG&E”), Request for Approval of PG&E’s VGI Pilots in Compliance
+with Decision 20-12-029 (“Advice Letter”), submitted on July 15, 2021.
+I. INTRODUCTION.
+With the unanimous approval of Decision (“D.”) 20-12-029 on December 17, 2020, VGIC
+commended the Commission for implementing vehicle-grid integration (“VGI”) strategies pursuant
+to SB 676 and other VGI strategies deemed reasonable by the Commission. D. 20-12-029 (the “VGI
+Decision”) also strove to implement some of the primary recommendations and outcomes of the
+lengthy and resource-intensive VGI Working Group process, which produced a Final Report of the
+California Joint Agencies Vehicle-Grid Integration Working Group, as well as subsequent formal
+party comments on VGI issues. VGIC was generally pleased to see party recommendations
+referenced and adopted in D.20-12-029. VGIC was encouraged by Ordering Paragraphs (“OPs”) 13,
+14, and 15 directing each investor-owned utility (“IOU”) to develop with stakeholder input VGI
+pilots.
+Subsequently, each IOU, including PG&E, presented high-level plans for VGI pilots
+pursuant to OP 14 during the March 16, 2021 VGI workshop. PG&E sought feedback on its pilot
+concepts through that workshop discussion and subsequent calls with stakeholders. On June 4, 2021,
+a second VGI pilots workshop was held to share updated pilot concepts with additional detail, and
+feedback was solicited via an online survey. Stakeholders supported the timely identification of gaps
+in each pilot concept and recommended alternative approaches that may better support the goals of
+D. 20-12-029. VGIC appreciates the IOUs’ good faith efforts and flexibility during the workshop
+process and development of the proposal in their Advice Letters.
+1
+
+August 4, 2021
+Page 2 of 8
+In reviewing PG&E’s Advice Letter, VGIC believes PG&E’s proposed VGI pilots represent
+a significant step toward more widespread VGI products and services which can benefit both EV
+and non-EV customers alike. It is also an encouraging reflection of stakeholder feedback provided
+over the last few years. VGIC is pleased to see that PG&E remains open to various business models
+– an appropriate approach given the relatively nascent state of the market. Furthermore, the Advice
+Letter details proposals that are necessary and not duplicative of existing pilots. The proposed VGI
+pilots are generally consistent with the preliminary details shared previously by PG&E.
+Based on these factors, VGIC largely supports the Advice Letter as filed and believes it is generally
+aligned with the Commission’s intent per OPs 13, 14, and 15. Moreover, these pilots are an important
+stepping stone toward the suite of full-scale VGI programs needed to achieve the decarbonization
+goals embedded in Executive Order N-79-20, SB 350, ARB’s in-progress 2022 Climate Change
+Scoping Plan, and SB 100. However, in this response VGIC highlights several critical areas that
+could benefit from additional clarifications or revisions before final implementation by PG&E.
+Specifically, VGIC recommends the following:
+ The unallocated portions of the previously authorized VGI pilot budget should be applied to
+1) support an independent analysis of the pilot results on behalf of the Commission, and/or
+2) to supplement PG&E’s proposed pilot program activities at an increased scale.
+ PG&E’s proposed VGI pilots should be approved expeditiously and coordinate on an
+ongoing basis with other policy forums to help mitigate California’s pressing near- and mid-
+term resiliency needs and reliability concerns.
+ VGIC is encouraged by PG&E’s stated goal “to partner with as many technology providers
+as possible.” PG&E should seek to institute a fair and competitive process to leverage pilot
+partners.
+ PG&E should confirm that customers in proposed pilots #3 and #4 may opt-out of events or
+otherwise ensure their transportation needs are met.
+ The proposed V2X LDV Residential and V2X MHDV Commercial pilots may create a gap
+for the V2X LDV commercial market. If not addressed in the implementation of PG&E’s
+proposed VGI pilots, this gap should be considered as programs scale up.
+ V2G Export Compensation should be explored in the VGI Pilots, for example through a
+dynamic export compensation rate modeled after PG&E’s proposed Day Ahead Hourly Real
+Time Pricing rate.
+VGIC believes these issues can be resolved through modest revisions to PG&E’s Advice Letter and
+that most of the contents of the AL are ready for Commission approval. In considering PG&E’s
+proposed approach, it is important for the Commission to recognize that the proposed pilots are not
+2
+
+August 4, 2021
+Page 3 of 8
+intended to demonstrate the technical readiness of a specific VGI technologies. Many of the
+underlying technical issues are now well understood. Instead, PG&E’s proposals are geared towards
+piloting programmatic approaches for harnessing VGI technologies at a larger scale, including
+experimenting with customer incentive levels, marketing, education, outreach, and acquisition. The
+VGI pilots are notably an opportunity to explore coordination across the power and transportation
+sectors, and the control architecture needed to advance different business models for industry
+stakeholders, including technology providers, aggregators, service providers, and other vendors.
+With this in mind, VGIC stresses the criticality of ensuring any data and takeaways from the VGI
+pilots are accurately and fairly represented in interim and final reporting.
+Finally, VGIC thus respectfully requests that implementation of VGI pilots not be unduly
+delayed due to the issues raised herein. VGIC offers its time and resources to Energy Division staff,
+Commissioners, PG&E, and other stakeholders to support addressing each issue in a timely manner.
+II. DISCUSSION.
+A. The unallocated portions of the previously authorized VGI pilot budget should be
+applied to 1) support an independent analysis of the pilot results on behalf of the
+Commission, and/or 2) to supplement PG&E’s proposed pilot program activities at
+an increased scale.
+In reviewing the Advice Letter and SCE’s concurrent Advice Letter 4542-E Request for
+Approval of Proposed Vehicle Grid Integration Pilots, VGIC notes the total requested budget from
+the two IOUs is $28.7 million. This is $6.3 million less than the $35 million authorized in OP 14 of
+the VGI Decision and is primarily the result of SDG&E’s choice to not submit an Advice Letter.
+During the development of these proposed pilots, VGIC expressed concerns over SDG&E’s
+preliminary pilot concept and recommended that the portion of funds assumed for SDG&E1 should
+instead be repurposed. While SDG&E ultimately did follow our suggestion to not move forward
+with its pilot concept, the use of the remaining $6.3 million in authorized pilot funds is yet to be
+determined.
+VGIC recommends two potential uses for this unallocated funding. First, a portion of these
+funds could be used to support an independent consultant to evaluate the VGI pilots on behalf of the
+Commission. Second, the funding could be used to supplement PG&E’s current proposals to ensure
+they achieve sufficient scale to be meaningful. Both of these options are described below:
+1 D. 20-12-029, OP 14 states “The large electrical corporations shall identify any non-ratepayer potential funding
+sources and shall not request, in their combined applications, more than $35 million.” In the March 16, 2021 and June
+4, 2021 workshops, each IOU proposed VGI pilot budgets roughly proportionate to their load share. However, it is
+VGIC’s understanding that this was the preliminary assumed use and that funding need not necessarily be allocated
+according to load share.
+3
+
+August 4, 2021
+Page 4 of 8
+1) Independent Evaluation of VGI Pilots
+Both PG&E’s Advice Letter and SCE’s concurrent Advice Letter 4542-E explain that each VGI pilot
+will be reported on annually through the VGI reporting required by OP 1 of D. 20-12-029, and final
+reports on each VGI pilot will be produced upon pilot completion. The PG&E Advice Letter explains
+the need to collect data to inform cost-benefit analyses and highlights this as a primary objective for
+each pilot. PG&E lists several evaluation metrics for each pilot, including number of customers
+enrolled, customer attrition, influence of incentives on V2X purchasing decisions, incremental
+hardware and software costs of V2X, V2X customer revenue, value of V2X to the grid, benefits of
+each tested V2X application, and total cost of ownership (“TCO”) savings due to V2X. PG&E also
+notes that “before authorizing use of ratepayer funding to cover a long-term program of incentives,
+a detailed cost-effectiveness analysis is prudent in order to quantify the impact on ratepayers,
+utilities, customers and society.” 2
+VGIC is generally supportive of these data collection efforts and agrees that in the long-term, full-
+scale programs should demonstrate reasonable cost-effectiveness. As such, the results of the VGI
+pilots are of great significance to VGI stakeholders and indeed could impact the future availability
+of VGI as a critical tool for both managing costs and enhancing the reliability of California’s energy
+system.
+The IOUs have expressed plans to coordinate on the development of an RFP for a third-party
+evaluator to assess IOUs’ VGI efforts pursuant to OP 23. While this appears to be a sensible
+approach, in addition to this, VGIC strongly recommends that the CPUC hire its own consultant to
+serve as an independent evaluator on behalf of other non-utility stakeholders. This would be similar
+in nature to how the Commission has approached the Distribution Investment Deferral Framework
+process.3 A share of the unallocated portion of the $35 million in authorized VGI pilot funding could
+be used for this purpose. Furthermore, VGIC recommends that the third-party evaluation process
+include a Technical Review Committee that could help oversee the evaluation process conducted
+by the IOUs’ evaluator. This Committee could be open to participation by the IOUs, the CPUC’s
+hired consultant, and other key industry stakeholders.
+This is especially critical with regards to any cost-benefit analysis done as part of this evaluation.
+For example, PG&E states, “If the cost-benefit analysis of bidirectional electric vehicles
+demonstrates benefits for both customers and the electricity grid, PG&E may recommend scaling
+the pilot to a full-scale utility program.” 4 However, in the event that the IOUs’ evaluator determines
+that a pilot is not cost-effective or worth scaling into a larger program, then it is critical that other
+perspectives be included in the process. This is necessary to (a) verify the appropriateness of the
+2 Advice Letter. Section VI Evaluation of each pilot.
+3 As part of the Distribution Investment Deferral Framework, the three major IOUs produce a Grid Needs
+Assessment (GNA) and a Distribution Deferral Opportunity Report (DDOR). An Independent Evaluator has
+access to the relevant grid data and runs their own simulations to validate the IOUs’ findings and provide
+additional feedback for the IOUs and non-utility stakeholders. See the Distribution Resource Planning
+proceeding R. 14-08-013.
+4 Advice Letter. Pilot 1 – Section VI: Evaluation at 31.
+4
+
+August 4, 2021
+Page 5 of 8
+evaluator’s methodology and findings, (b) ensure appropriate context is provided on any limitations
+of the pilots as they were executed, and (c) ensure the evaluation fully captures steps that could
+improve future cost effectiveness.
+This Technical Review Committee structure would also have the added benefit of providing a forum
+to share preliminary data and technical information prior to the completion of each pilot, the thereby
+creating an opportunity to inform other relevant TE policy developments.5
+2) Supplemental funding for PG&E’s proposed VGI Pilots
+In addition to supporting the evaluation process, some of the remaining funds could be used to
+supplement PG&E’s proposed pilot budgets, thereby increasing the scale and level of effort that can
+be supported. VGIC believes that PG&E’s pilots are ambitious in the sense that they each attempt
+to tackle multiple objectives using a limited budget. Thus, additional funding may be useful to
+ensure that all of these objectives are met.
+B. PG&E’s proposed VGI pilots should be approved expeditiously and coordinate on
+an ongoing basis with other policy forums to help mitigate California’s pressing
+near- and mid-term resiliency needs and reliability concerns.
+Each proposed V2X Pilot is a promising candidate to be scaled to full program
+implementation in the near- and mid-term. Existing commercially available products and those that
+are anticipated to be available soon could significantly support both customer resilience by
+providing local backup power and/or system reliability by exporting energy during net load peak
+hours.6 Regarding backup power capabilities, VGIC notes that this is currently being incentivized
+for stationary storage through the SGIP program. However, EVs are likely to be able to provide this
+function at a relatively lower cost since the customer’s purchase of the battery system is already
+embedded into the purchase of an EV which serves another function (i.e. mobility). In addition,
+establishing V2X programs to enhance resiliency can help to reach customers that current SGIP
+funding does not reach or prioritize, thereby enhancing the overall customer acceptance and
+adoption of local resiliency solutions. In these ways, V2X programs intended to support resiliency
+will fill an important gap in the current marketplace, and can do so in the near-term based on product
+availability.
+While IOU programs promoting V2X for resiliency applications will help drive customer
+adoption in the near-term, programs that promote other applications are also critical to supporting
+5 For example, preliminary results from the VGI pilots could critically inform the development of transportation
+electrification plans, EV rate design, demand response portfolio applications, high DER OIR, microgrids and
+resiliency proceeding, streamlining interconnection of DERs proceeding, SGIP, NEM, and other DER
+policies.
+6 Advice Letter at 11.
+5
+
+August 4, 2021
+Page 6 of 8
+the goals of SB 676 and establishing a more robust long-term market for VGI. Some of these
+applications, such as customer self-supply and greenhouse gas emissions benefits can and should
+be supported in the near- and long-term. This would place V2X on a level playing field with
+stationary energy storage, which receives technology incentives to promote customer self-supply
+and greenhouse gas emissions benefits.
+Meanwhile, other V2X applications that support grid reliability, such as V2X exports to
+provide resource adequacy, likely require that more complex policy issues be addressed in the
+near-term to facilitate scale up in the long term. While VGIC is supportive of these applications
+being addressed through PG&E’s proposed VGI pilots, we believe that progress in the relevant
+policy forums should continue in coordination with the VGI pilots, rather than wait for final pilot
+results before moving forward. For example, the resource adequacy (“RA”) proceeding has recently
+seen stakeholder proposals on how to value DER exports within the RA framework. VGIC
+understands there may be outstanding questions related to the establishment of a qualifying
+capacity / export counting methodology as well as deliverability. Meanwhile, the recently issued
+“High DER OIR” (R. 21-06-017) will address critical grid architecture questions that will undoubtedly
+inform the future of VGI resources. The Energy Division’s UNIDE framework proposal is another
+potential policy forum that may progress while the VGI pilots are underway. Given the timing of
+these planned policy developments, VGIC respectfully urges that the Commission expeditiously
+approve PG&E’s VGI pilots and ensure that PG&E and stakeholders coordinate on an ongoing
+basis with other policy forums to help mitigate California’s pressing near- and mid-term resiliency
+needs and reliability concerns.
+C. VGIC is encouraged by PG&E’s stated goal “to partner with as many technology
+providers as possible.” PG&E should seek to institute a fair and competitive process
+to leverage pilot partners.
+VGIC appreciates that PG&E coordinated with potential partners prior to the filing of the
+Advice Letter. We believe this reflects an earnest effort to collaborate with industry partners to
+advance VGI solutions as they exist today. Beyond the vendors that PG&E identifies, there are other
+VGIC members that would be eager to participate. VGIC would be eager to discuss options for how
+to identify and partner with other vendors, and offers itself as a resource to explore further. VGIC
+supports PG&E’s intent to open pilot participation to the widest possible variety of potential
+vendors.
+D. PG&E should confirm that customers in proposed pilots #3 and #4 may opt-out of
+events or otherwise ensure their transportation needs are met.
+6
+
+August 4, 2021
+Page 7 of 8
+PG&E notes that customers in Pilot #1 and Pilot #2 will have the option to opt-out of
+events/participation to ensure their transportation needs are always met. VGIC agrees that customer
+should be offered this choice. However, Pilot #3 and Pilot #4 do not clarify that customers may opt
+out of individual events. VGIC recommends in that PG&E’s implementation of all its proposed VGI
+pilots incorporate this customer perspective and ensure participants have the choice to not participate
+in an event or respond to a signal.
+E. The proposed V2X LDV Residential and V2X MHDV Commercial pilots may
+create a gap for the V2X LDV commercial market. If not addressed in the
+implementation of PG&E’s proposed VGI pilots, this gap should be considered as
+programs scale up.
+As proposed, commercial customers would not be eligible for participation in the V2X
+Residential pilot. Meanwhile, the V2X Commercial pilot is “targeted at spurring the adoption of
+bidirectional medium- and heavy-duty vehicle (“MHDV”) fleets through customer incentives.” 7
+Notably, light-duty vehicles (“LDV”) and LDV fleets that charge at commercial sites would not be
+eligible for either pilot, which could create a potential gap as pilots progress and inform program
+development. If not addressed in this pilot, this gap should be considered as programs scale up.
+F. V2G Export Compensation should be explored in the VGI Pilots, for example
+through a dynamic export compensation rate modeled after PG&E’s proposed Day
+Ahead Hourly Real Time Pricing rate.
+VGIC notes that PG&E does not currently offer a clear pathway for V2G resources to be
+compensated for exported energy, despite the fact that V2G is now technically feasible due to recent
+reforms to the Rule 21 interconnection process.8 Since PG&E is proposing to focus on a variety of
+V2X pilots, VGIC believes that this presents a good opportunity to explore potential V2G
+compensation mechanisms. Among the potential compensation options, VGIC encourages PG&E
+to explore a dynamic export compensation rate similar with PG&E’s recent DAHRTP pricing
+proposal.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to PG&E’s Advice Letter. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+7 Advice Letter at 2.
+8 See Decision 20-09-035 in R. 17-07-007.
+7
+
+August 4, 2021
+Page 8 of 8
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+cc: Sidney Bob Dietz II, PG&E (PGETariffs@pge.com)
+Service list R.18-12-006
+8

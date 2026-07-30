@@ -1,0 +1,159 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA FILED
+01/13/20
+04:59 PM
+Order Instituting Rulemaking to Consider
+Streamlining Interconnection of Distributed
+Rulemaking 17-07-007
+Energy Resources and Improvements to
+(Filed July 13, 2017)
+Rule 21.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+VEHICLE TO GRID ALTERNATING CURRENT INTERCONNECTION SUBGROUP
+REPORT
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRIDINTEGRATIONCOUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941)266-0017
+Email: eburgess@vgicouncil.org
+Dated: January 13, 2020
+1 / 6
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Consider
+Rulemaking 17-07-007
+Streamlining Interconnection of Distributed
+(Filed July 13, 2017)
+Energy Resources and Improvements to Rule 21.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+VEHICLE TO GRID ALTERNATING CURRENT INTERCONNECTION SUBGROUP
+REPORT
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1hereby submits
+its reply to comments on the Vehicle-to-Grid Alternating Current (“V2G AC”) Interconnection
+Technical Sub-Group Final Report (“Final Report”) submitted in Rulemakings 17-07-007 and R.
+18-12-006 on January 6, 2020. Pursuant to Joint Administrative Law Judges’ Ruling Establishing
+Subgroup and Schedule to Develop Proposal on Mobile Inverter Technical Requirements for
+Rule 21 and Noticing Workshop, issued by Administrative Law Judges Kelly A. Hymes, Sasha
+Goldberg, and Patrick Doherty on August 23, 2019, VGIC timely files these reply comments on
+January 13, 2020 in R. 17-07-007 and R. 18-12-006. VGIC also previously filed a motion for
+party status in these proceedings on January 6, 2020.
+I. INTRODUCTION
+1VGIC membercompaniesand supportersincludeAmerican Honda Motor Co.,Inc.,Enel XNorth America, Inc.,
+Fiat Chrysler Automobiles,Ford Motor Company,General Motors Company,and Nuvve Corporation.The views
+expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the individual
+VGICmember companiesorsupporters. (https://www.vgicouncil.org/).
+1
+2 / 6
+
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”)through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid. VGIC appreciates the opportunity to participate in this proceeding to
+inform and shape the development of a pathway to V2G AC interconnection.
+II. REPLY COMMENTS
+Reply to the California Energy Storage Alliance’s (CESA)Comments:
+VGIC generally supports CESA’s comments and provides the following additional response:
+ VGIC is supportive of CESA’s concept of an “initial phase” of V2G interconnections that
+could be pursued under UL 9741 pathway. This pathway was also described in VGIC’s
+initial comments submitted on January 6, 2020. However, VGIC cautions that pursuing such
+a pathway in the near-term should not foreclose other interconnection pathways from being
+pursued over the long-term, including pathways that do not require any third-party testing
+procedures and could instead utilize OEM internal testing procedures.
+ VGIC is supportive of CESA’s recommendation to reconvenethe subgroup once updates to
+the necessary standards (e.g. SAE J3072, UL 9741) have been completed. VGIC believes
+these updates will coincide with the suggested July 2020 timeframe as discussed in the
+December 17, 2019 workshop. However, VGIC is open to some flexibility in the exact date
+ofreconvening the subgroup if there are unforeseen delays in completing updates to the
+2
+3 / 6
+
+necessary standards. VGIC also agrees with CESA that reconvening the subgroup should not
+be contingent on the availability of EV test results.
+ VGIC also supports CESA’s recommendation for the Commission to consider the
+jurisdictional questions regarding internal certification through the OEM testing procedures.
+In its initial comments, VGIC outlines several potential pathways for how this might work to
+satisfy CPUC and IOU needs. For example, one option may be to rely upon governmental
+entities such as the National Highway Traffic Safety Administration (“NHTSA”). To that
+end, VGIC offers to work with stakeholders over next several months to provide more detail
+on how NHTSA’s procedures could work in support of a potential pathway for internal
+testing.
+Reply to Southern California Edison’s (SCE)Comments:
+VGIC offers the following comments in response to SCE’s initial comments:
+ VGIC generally supports SCE’s conceptual timeline outlined on page2 of its comments.
+However, VGIC believes the timeline could be accelerated and recommends that the end
+point for the “initial phase” of V2G AC Implementation could occur as early as the mid-2021
+timeframe (rather than early 2022).
+ VGIC opposes SCE’s requirement for third-party testing. VGIC recognizes that third-party
+testing could be an option if pursued through UL 9741 as described in the Final Report,
+however this should be seen only as one possible pathway rather than an absolute
+requirement. VGIC agrees with SCE that eliminating safety risk is paramount and that third-
+party certification has been a successful way to achieve this for other grid-connected devices
+in the past. However, this approach is not feasible for automobiles, which are subject to a
+3
+4 / 6
+
+morecomplex and sophisticated manufacturing environment2. Furthermore, VGIC believes
+the requirement to use third-party testing is a restrictive approach that undervalues and
+misunderstands the rigor already involved in automotive grade testing. For example, section
+7-D-1 ofthe Final Report details the following aspects of how internal testing currently
+operates:
+“OEMs will validate their product to ensure they can achieve the relevant certification
+o
+by meeting all FMVSS, EPA, and other standards and requirements. This self-
+certification step is typically a continual, 18-month process spanning from the design
+freeze until the beginning of production.” 3
+“The magnitude of effort, internal support resources, and test facilities to perform
+o
+validation and revalidation is significant, as this process occurs as frequently as each
+month during the product development cycle.” 4
+The ability to develop and fully test products internally is also critical to advancing products
+over a short development cycle, and to ensure the security of competitive information during
+product development. Given these factors, VGIC continues to support OEM internal testing
+as a potential pathway for validating the safety and security of interconnected V2G
+equipment. This could include accreditation of OEMs as a Nationally Recognized Testing
+Laboratory (“NRTL”)as suggested by VGIC in its initial comments and by the joint
+comments of SDG&E and PG&E.
+2VGIC agrees with CESA’s statement on page 9 of theirinitialcommentsthat“mobile inverters are wholly
+integrated into the software, firmware, and hardwareof thevehicle, which may play many different functions
+beyond those for smart inverters.”
+3Final Report, p 45
+4Final Report p 46
+4
+5 / 6
+
+Reply to the Joint Comments of San Diego Gas and Electric (SDG&E)and Pacific Gas and
+Electric’s (PG&E)
+VGIC offers the following comments in response to SDG&E and PG&E’s joint initial
+comments:
+ VGIC opposes SDG&E and PG&E’s recommendation for requiring EV test results for UL
+1741 prior to reconvening the subgroup. Such “pre-qualification” testing would require the
+OEMs to incur significant expenditures to prepare application-specific test equipment and
+develop new software, firmware and hardware to meet test specifications, some of which
+may only apply to off-board/stationary equipment that is not applicable to PEVs. Since this
+testing would not be directly linked to an interconnection pathway, such an approach would
+only be practical if there were an external source of funding available to all OEMs to support
+this activity.
+ VGIC supports SDG&E and PG&E’s concept of a potential interconnection pathway
+whereby OEMs become accredited as a NRTL for EV testing. This is very similar to several
+of the pathways presented in VGIC’s initial comments, including number 2 (see page 5 of
+VGIC initial comments) and number 5 (see page 6 of VGIC initial comments).
+Respectfullysubmitted,
+Edward Burgess
+Policy Director
+VEHICLEGRIDINTEGRATIONCOUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941)266-0017
+Email: eburgess@vgicouncil.org
+Date: January 13, 2020
+5
+Powered by TCPDF (www.tcpdf.org)
+6 / 6

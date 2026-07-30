@@ -1,0 +1,314 @@
+February 22, 2022
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Protest of the Vehicle Grid Integration Council to Advice Letter 6485-E of
+Pacific Gas and Electric Company, Advice Letter 4708-E of Southern
+California Edison Company, and Advice Letter 3939-E of San Diego Gas
+and Electric Company
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this Protest to the above-referenced Advice Letter 6485-E of Pacific Gas
+and Electric Company, (“PG&E”), Advice Letter 4708-E of Southern California Edison (“SCE”)
+Company, and Advice Letter 3939-E of San Diego Gas and Electric Company (“SDG&E”),
+Emergency Load Reduction Program Pilot Terms and Conditions of Southern California Edison
+Company, Pacific Gas and Electric Company, and San Diego Gas & Electric Company in
+Compliance With Decisions 21-12-015 and 21-12-069 (“Joint Advice Letter”) submitted on
+January 31, 2022.
+I. INTRODUCTION.
+Decision (“D.”) 21-12-015 details several critical updates to the Emergency Load Reduction
+Program (“ELRP”) pilot, including expanding ELRP to include customer group A.5 for Electric
+Vehicle (“EV”)/Vehicle-Grid Integration (“VGI”) Aggregations. VGIC appreciates the
+Commission’s understanding of the need for a dedicated VGI Aggregation customer group and is
+hopeful that the ELRP can support meaningful EV contributions to Summer reliability. However,
+thoughtful implementation of the direction found in D.21-12-015 is necessary to ensure the
+EV/VGI Aggregation customer group can succeed within the ELRP and help meet the program’s
+goals.
+In light of the imminent May 1, 2022 Group A.5 launch date, timely approval of the program’s
+implementation details, including VGIC’s recommendations provided herein, are especially
+critical to ensure aggregators and customers can support Summer 2022 reliability needs. As such,
+
+February 22, 2022
+Page 2 of 9
+VGIC highly recommends the Commission and Energy Division staff expedite the review and
+resolution process for the Joint Advice Letter.
+In reviewing the Joint Advice Letter, VGIC believes each utility’s proposed Terms and Conditions
+fail to comply fully with the Commission’s direction in D.21-12-015 regarding the use of EVSE
+submetering to determine Incremental Load Reduction (“ILR”) and settlement. Furthermore, the
+Joint Advice Letter includes guidance regarding the interconnection of Vehicle-to-Grid Direct
+Current (“V2G DC”) that conflicts with the guidance found in D.21-12-015. In addition, given the
+extremely short implementation timeline ahead of May 2022, the Joint Advice Letters lack
+sufficient enrollment flexibility that is necessary to facilitate Summer 2022 program participation.
+VGIC thus submits this protest with these deficiencies in mind. However, we believe these
+deficiencies can be remedied through the following changes:
+• EV supply equipment (“EVSE”) submetering protocols should be specified in Group
+A.5’s Terms and Conditions. This should include an option for EV-based measurement.
+• The ability for V2G DC devices certified to UL 1741 – but not smart inverter
+supplements or functions – to continue to operate parallel to the grid after 2024 should
+be reflected in the Group A.5 Terms and Conditions.
+• Group A.5 Terms and Conditions should include flexible enrollment and baselining to
+support meaningful aggregator and customer participation in Summer 2022.
+• Additional clarity is needed in SCE’s Terms and Conditions regarding baseline and
+settlement calculation for Group A.5.
+II. EVSE SUBMETERING PROTOCOLS SHOULD BE SPECIFIED IN GROUP
+A.5’S TERMS AND CONDITIONS
+VGIC reiterates its support for the use of EVSE submeters, and EV-based measurement (e.g., via
+telematics) to determine compensation for ILR. As the Commission clearly stated in D.21-12-015,
+“to determine compensation for Incremental Load Reduction, an EVSE meter, or EVSE sub-meter
+if the EVSE is taking service through the host site meter, may be used.” 1 Despite this guidance,
+the Joint Advice Letter fails to propose a specific pathway to use EVSE submetering to determine
+ILR. Each utility’s proposed Terms and Conditions therefore disregard the Commission guidance,
+1 D.21-12-015 at 41.
+
+February 22, 2022
+Page 3 of 9
+instead proposing that submetering may only be used once the CPUC has approved submetering
+protocols.2 The Commission states in D.21-12-015 that “the EVSE sub-meter must meet applicable
+standards established by the Commission if and when adopted.”3 However, the Decision does not
+expressly prohibit the use of other EVSE sub-metering approaches – even if those are temporary
+in nature – prior to the adoption of a final submetering protocol by the Commission. We are
+disappointed that the utilities seemed to have misinterpreted this guidance as a requirement that no
+EVSE submetering be permitted until applicable standards are established by the Commission.
+Instead, we believe the Commission’s intent was to allow for a more flexible and permissive
+approach that would maximize participation and thus better support of California’s urgent
+reliability needs.
+VGIC supports the Commission’s determination that applicable standards – once established by
+the Commission – should be met by EVSE submeters. However, we reiterate that the utilities also
+have a clear obligation pursuant to D.21-12-015 to offer EVSE submetering to ELRP group A.5
+by the May 1, 2022 launch date, which may occur before the final standards are established by the
+Commission. As such, VGIC protests the Joint Advice Letter and strongly recommends the utilities
+expeditiously develop and file for approval an EVSE submetering pathway for Group A.5,
+including technical requirements and approaches for communicating EVSE submeter data to the
+utility for the purposes of baselining, ILR determination, and settlement. If an EVSE submetering
+protocol is not developed by this Summer, it is difficult to imagine how Group A.5 will see
+meaningful participation and be able to support reliability. This could put a significant amount of
+the 271 MW of VGI related resources at risk of not being able to participate in summer 2022.4
+VGIC understands that there is a pending EV submetering protocol (“EVSMP”) in R.18-12-006,
+however it was developed for a different purpose, and we believe it may be inappropriate to use
+the EVSMP “as is” for all ELRP Group A.5 participants. For instance, the EVSMP was developed
+for use with residential customers, whereas ELRP Group A.5 is open to a broad set of both
+residential and non-residential customers. In addition, the utilities’ proposed EVSMP includes
+extremely high accuracy standards that exceed both the NIST Handbook and industry standards.5
+The utilities state that a very high accuracy standard is necessary to support accurate customer
+2 Joint Advice Letter Attachment A at 15 (PG&E), Attachment D at 16 (SCE), and Attachment F at 10
+(SDG&E).
+3 D.21-12-015 at 41.
+4 See Opening Testimony of Ed Burgess on Behalf of the Vehicle Grid Integration Council (September 1,
+2021) in R.20-11-003 at 17.
+5 See Comments of Chargepoint, Inc. and Enel X North America, Inc. Regarding Final Proposed PEV
+Submetering Protocol (January 11, 2021) in R.18-12-006. Page 2.
+
+February 22, 2022
+Page 4 of 9
+billing and utility cost recovery.6 However, in the case of ELRP, the submetering data would not
+be used for individual customer billing, but rather, it would be used to calculate an aggregator’s
+total ILR across multiple EVSEs. Notably, ELRP Group A.5 is an out-of-market, optional
+emergency demand response pathway that uses an agreement between a utility and VGI aggregator
+to achieve load reductions in an aggregation of EV/VGI resources. VGIC does not believe that
+achieving the reliability goals of ELRP are aided by requiring such high accuracy standards that
+participation is thwarted (and therefore grid reliability is put at risk). A slightly lower standard of
+accuracy may be warranted in support of grid reliability.
+Finally, the Joint Advice Letter mentions the election of submetering must apply to all sites within
+an aggregation, thereby precluding aggregations that contain a mix of EVSE meters and
+submeters.7 It is unclear to VGIC why this provision is needed, and the Joint Advice Letter
+provides no justification for this approach. The establishment of Group A.5 is intended to enable
+broad customer and technology eligibility for EV/VGI aggregations to support VGI market
+development. VGIC is concerned that this requirement may limit total load reduction capabilities
+of EV/VGI aggregations and be counterproductive to the underlying intent of D.21-12-015 in
+establishing A.5 to allow a broad aggregation of different EV customer types. As such, VGIC
+recommends the utilities specify how they will accommodate mixed aggregations of sub-metered
+and separately metered EVSE participants in Group A.5. VGIC notes that the Commission in D.20-
+12-029 authorized the utilities to request up to $35 million in funds for VGI Pilots, yet only $29
+million in pilots were requested. We recommend any unused VGI Pilots funds be used to support
+the development of any necessary tools to facilitate mixed aggregations of sub-metered and
+separately metered EVSE participants.
+III. THE GROUP A.5 SUB-METERING PROTOCOLS SHOULD INCLUDE AN
+OPTION FOR EV-BASED MEASUREMENTS.
+In addition to the EVSE-based measurement options contemplated by the currently pending
+EVSMP, there is also the potential for direct EV-based measurements of ILR via telematics. VGIC
+believes this should also be considered and included as an option within the sub-metering protocol
+developed for Group A.5 participants. VGIC recognizes that this option may not have been
+previously contemplated as the EVSMP was being developed and therefore may raise new
+6 See Final Plug-In Electric Vehicle Submetering Protocol of Southern California Edison Company (U-338-
+E), Pacific Gas and Electric Company (U 39-E), and San Diego Gas & Electric Company (U 902-E)
+(December 21, 2020) in R.18-12-006. Attachment A, Page 4.
+7 Joint Advice Letter Attachment A at 15 (PG&E), Attachment D at 16 (SCE), and Attachment F at 10
+(SDG&E).
+
+February 22, 2022
+Page 5 of 9
+questions or challenges. However, EV-based measurement options represent a technically viable
+pathway for determining ILR and should not be discounted as an option for EVs to participate in
+ELRP. EV-based measurement can capture load reductions for L1 charging, which – although
+typically occurring at a lower charging rate – could comprise a growing source of EV load in
+California, particularly for customer sites unable to install L2 or DCFC chargers due to technical
+or cost constraints. At a bare minimum, VGIC believes the Commission should direct the IOUs to
+develop this option in advance of the 2023 summer season if it cannot be accomplished for the
+2022 season.
+IV. THE GROUP A.5 TERMS AND CONDITIONS SHOULD REFLECT THE
+ABILITY FOR V2G DC DEVICES TO CONTINUE TO OPERATE IN
+PARALLEL TO THE GRID AFTER 2024, EVEN IF THEY ARE ONLY
+CERTIFIED TO UL 1741 (AND NOT CERTIFIED TO THE SMART INVERTER
+SUPPLEMENTS OR FUNCTIONS).
+In recognition of a nascent market, the Commission adopted appropriate flexibility in D.21-12-
+015 to allow EVs to safely discharge to the grid. Specifically, Attachment 2 to D.21-12-015 states:
+“Any DC V2G EVSE that has UL 1741 certification - but not UL 1741 SA certification,
+any subsequent UL 1741 supplement certification required in Rule 21, or Smart Inverter
+Working Group-recommended smart inverter functions - may interconnect initially for the
+purpose of participating in the ELRP, subject to all other Rule 21 interconnection
+requirements.”8
+This provision is a critically important measure that supports the development of California’s V2G
+market and VGI goals pursuant to SB 676. However, in the Joint Advice Letter, PG&E and
+SDG&E both fail to comply with the Commission’s guidance, instead stating:
+“All sites within the VGI aggregation have operational EVSE that has UL 1741 SA
+certification, any subsequent UL 1741 supplement certification as required in Rule 21 or Smart
+Inverter Working Group recommended smart inverter functions and satisfies all other Rule 21
+interconnection requirements." 9
+“Direct Current (DC) V2G EVSE that have UL 1741 certification, but not UL 1741 SA, may
+interconnect initially for the purposes of participating in the ELRP, subject to remaining Rule
+21 interconnection requirements. PG&E/SDG&E reserves the right to terminate this exception
+after the 2024 ELRP season.” 10
+8 D.21-12-015 Attachment 2 at 6.
+9 Joint Advice Letter Attachment A at 9 (PG&E) and Attachment F at 6 (SDG&E).
+10 Joint Advice Letter Attachment A at 9, footnote 4 (PG&E) and Attachment F, footnote 1 (SDG&E).
+
+February 22, 2022
+Page 6 of 9
+There are several revisions the utilities should make to fully comply with D.21-12-015 and reduce
+confusion. First, requiring that all sites within the VGI aggregation must have operational EVSE
+that have UL 1741 certification violates previous Commission guidance on Rule 21 per D.20-09-
+035, which specifically states that only bidirectional EVSE are subject to the referenced UL 1741
+safety standard.11 Since Group A.5 aggregations may consist of “any combination of EVs and
+charging stations,” requiring that all sites within an aggregation, which may include sites with only
+one-way chargers, comply with the Rule 21 standard otherwise applicable only to bidirectional
+chargers conflicts with D.20-09-035. VGIC recommends PG&E and SDG&E specify that only bi-
+directional equipment within an aggregation be certified to the UL 1741 safety standard. In the
+case of unidirectional, charge-only V1G, the Commission found in D.20-09-035 that Rule 21 does
+not apply but Rules 2, 15, and 16 are applicable, and PG&E and SDG&E’s guidance should be
+revised to reflect this finding.12
+Second, the text proposed in PG&E and SDG&E’s Terms and Conditions regarding UL 1741 is
+misleading. The third bullet in Attachment A Section 1.1.5 (PG&E) and fourth bullet in
+Attachment F Section A.5 (SDG&E) both state that EVSE must be certified to “UL 1741 SA and
+any subsequent UL 1741 supplement certification as required in Rule 21 or Smart Inverter
+Working Group recommended smart inverter function.” PG&E and SDG&E offer in footnotes that
+“DC V2G EVSE that have UL 1741 certification, but not UL 1741 SA, may interconnect initially
+for the purposes of participating in ELRP.” To reduce confusion, VGIC recommends that PG&E
+and SDG&E instead adopt the following language in Terms and Conditions for Group A.5, which
+states:
+“Subject to all Rule 21 interconnection requirements, any direct current (DC) V2G electric
+vehicle supply equipment (EVSE) that has UL 1741 certification but not UL 1741 SA
+certification, any subsequent UL 1741 supplement certification required in Rule 21, or Smart
+Inverter Working Group-recommended smart inverter functions may interconnect.” 13
+Third, PG&E and SDG&E state in footnotes that the utilities “reserve the right to terminate this
+exception after the 2024 ELRP season.” This conflicts with D.21-12-015 Attachment 2 which
+states that utilities “may request termination of this interconnection pathway via Tier 2 AL after
+the 2023 ELRP season.” The plain language of the decision does not grant the utilities the right to
+unilaterally terminate this interconnection pathway in 2024, as such a termination would be subject
+to Commission review and approval.
+Lastly, all three utilities state that UL 1741-certified V2G DC EVSE interconnecting without UL
+1741 SA or other smart inverter supplements or functionalities may interconnect initially, but only
+11 D.20-09-035 Finding of Fact 191 at page 194. “Current Rules and practice confirm that, in the case of
+unidirectional charge-only V1G, Rule 21 does not apply but Rules 2, 15, and 16 are applicable.”
+12 Ibid.
+13 Joint Advice Letter Attachment D at 9.
+
+February 22, 2022
+Page 7 of 9
+for the purposes of participating in the ELRP. VGIC believes this language is misleading since it
+omits a key provision of D.21-12-015 that would allow ELRP participants exercising this option
+to remain interconnected even if the option is terminated for subsequent participants:
+“IOUs may request the termination of this interconnection pathway via Tier 2 AL after the
+2024 ELRP season if the market has developed to provide multiple V2G capable EVSEs
+that meet the full smart inverter certification standards required in Rule 21. Termination of
+this pathway would not affect previously interconnected EVSE, and they may continue to
+operate parallel to the grid as per their Interconnection Agreement” (emphasis added) 14
+To reduce confusion, VGIC strongly requests the utilities clarify and explicitly state in the Terms
+and Conditions for Group A.5 that, “future termination of this pathway would not affect previously
+interconnected EVSE, and that these devices may continue to operate parallel to the grid as per
+their Interconnection Agreement.”
+V. GROUP A.5 TERMS AND CONDITIONS SHOULD INCLUDE FLEXIBLE
+ENROLLMENT AND BASELINING TO SUPPORT MEANINGFUL
+AGGREGATOR AND CUSTOMER PARTICIPATION IN SUMMER 2022.
+Given the short timeline for implementation of ELRP Group A.5, VGIC offers three key measures
+to ensure adequate participation in Summer 2022. First, we strongly urge the Energy Division staff
+and Commission to expedite its review and resolution of the Joint Advice Letter and VGIC’s
+recommendations provided herein. Second, we recommend that the utilities allow for flexible
+enrollment beyond April 30, 2022. For example, A V2G DC system seeking interconnection once
+the ELRP V2G DC interconnection pathway is approved with resolution of the Joint Advice Letter
+may not receive permission to operate by April 30, 2022, but may still be able to meaningfully
+start support Summer reliability at a later date in the season (e.g. June or July). VGIC recommends
+the utilities allow for rolling enrollment throughout the summer and pro-rate the 30 hours
+minimum dispatch requirement accordingly. For example, in the case a VGI aggregator cannot
+enroll customers/an aggregation by the April 30, 2022 deadline, the aggregator should be permitted
+to enter into an agreement with the utility at some later point in the summer. If the aggregator
+enters into an agreement on July 31, for example, then the minimum dispatch requirement for the
+remainder of the 2022 season should only be 15 hours, rather than 30 hours. This flexibility is
+particularly important for V2G DC EVSE systems certified to UL 1741 – but not UL 1741 SA –
+which is expressly permitted in D.21-12-015. Despite this clear stated permission, the utilities are
+currently not allowing these types of systems to interconnect and are telling prospective
+participants that the interconnection pathway is not yet available because Joint Advice Letter has
+14 D.21-12-015 Attachment 2 at 6.
+
+February 22, 2022
+Page 8 of 9
+not yet been approved. For these systems, either the interconnection process should be expedited
+to make up for time lost to the Joint Advice Letter resolution process, or flexible enrollment should
+apply to ensure that these systems can still participate in Summer 2022 despite interconnection
+delays.
+Third, VGIC recommends the utilities detail how baselines will be determined for Group A.5
+aggregations/customers that enroll, begin receiving utility service, and/or interconnect V2G
+systems within 10 days of a dispatch signal. VGIC recommends ILR in these cases be determined
+either by using the 10 days after the dispatch event or by allowing the aggregator to submit a
+counterfactual to the utility that would show what load would have looked like in the 10 days
+before the dispatch event.
+Without incorporating enrollment and baseline flexibility into Group A.5, it is possible that VGI
+aggregators will be unable to enroll customers, complete aggregator agreements with utilities, and
+interconnect new systems in the less than three months between now and May 1, 2022, even though
+they might be able to provide meaningful load reduction in the latter part of the summer, when
+acute heat wave events may still occur. To ensure success of the program, flexible enrollment and
+baselining should be permitted for Summer 2022, and the merits of this approach should also be
+considered for Summer 2023 and beyond.
+VI. ADDITIONAL CLARITY IS NEEDED IN SCE’S TERMS AND CONDITIONS
+REGARDING BASELINE AND SETTLEMENT CALCULATION FOR GROUP
+A.5.
+In SCE’s Terms and Conditions Section 3.2.1.6 Baseline and Settlement Calculations for Sub-
+Group A.5, SCE details the use of the “same baseline calculation as Sub-Group A.3 (see Section
+3.2.1.4).” 15 The referenced Section 3.2.1.4 on Sub-Group A.3 states:
+“A Rule 21 Exporting DER customer on a CPP or RTP equivalent tariff, the ELRP baseline
+is deemed to be zero and only exported energy is counted in ILR.
+A Rule 21 Exporting DER customer not on a CPP or RTP equivalent tariff, the ELRP
+baseline for Sub-Group A.1. (see Section 3.2.1.2.) is applied and modified to account for
+exported energy during non-event days and exported energy is counted in ILR.”16
+It is unclear whether SCE intends to apply the Group A.3 baseline and settlement methodology
+only to V2G resources that are exporting or also for V1G resources. In other words, by referring
+15 Joint Advice Letter Attachment D at 16.
+16 Joint Advice Letter Attachment D at 15.
+
+February 22, 2022
+Page 9 of 9
+to Group A.3: Rule 21 Exporting DERs, SCE points to applicable rules for Rule 21 Exporting
+DERs, which could apply to V2G customers that are also Rule 21 exporting DERs, but leaves open
+a gap in explaining how V1G customers’ Incremental Load Reductions will be treated. VGIC
+recommends SCE clarify the baseline and settlement calculation for VGI aggregations such that
+both V1G and V2G aggregations, or a mixed aggregation of V1G and V2G resources, can
+understand the applicable methodology.
+In addition, it is unclear whether SCE is proposing to treat V2G exporting customers on a CPP or
+RTP equivalent tariff as having a baseline of zero. VGIC does not recommend this approach, as
+ILR achieved from the CPP or RTP rates should be incentivized and compensated under ELRP.
+As such, VGIC recommends SCE specify that VGI Aggregator customers will be compensated for
+any ILR achieved below baseline, whether on CPP, RTP, or an otherwise applicable tariff – and
+whether achieving ILR through V1G, V2G, or a combination of both.
+VII. CONCLUSION.
+VGIC appreciates the opportunity to submit this Protest to the Joint Advice Letter. We look
+forward to collaborating with stakeholders on this important initiative.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle Grid Integration Council
+cc: Sidney Bob Dietz II c/o Megan Lawson, PG&E (PGETariffs@pge.com)
+Shinjini C. Menon, SCE (AdviceTariffManager@sce.com)
+Tara S. Kaushik c/o Karyn Gansecki, SCE (Karyn.Gansecki@sce.com)
+Greg Anderson, SDG&E (GAnderson@sdge.com, SDGETariffs@sdge.com)
+Service list of R.20-11-003

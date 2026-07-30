@@ -1,0 +1,143 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGES’ RULING SETTING A WORKSHOP, ADMITTING
+INTO THE RECORD PART 1 OF THE ELECTRIFICATION IMPACTS STUDY AND
+RESEARCH PLAN, AND SEEKING COMMENTS
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+August 7, 2023
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGES’ RULING SETTING A WORKSHOP, ADMITTING
+INTO THE RECORD PART 1 OF THE ELECTRIFICATION IMPACTS STUDY AND
+RESEARCH PLAN, AND SEEKING COMMENTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Administrative Law Judges’ Ruling Setting a Workshop, Admitting
+into the Record Part 1 of the Electrification Impacts Study and Research Plan, and Seeking
+Comments (“EIS Part 1 Ruling”), issued by Administrative Law Judge (“ALJ”) Manisha
+Lakhanpal and Kelly A. Hymes on May 9, 2023.
+I. SEVERAL PARTIES IDENTIFY THE IMPORTANCE OF MODELING
+VARIOUS ELECTRIC VEHICLE CHARGING LOAD SHAPE CASES IN EIS
+PART 2.
+In opening comments, Cal Advocates’ expert overview on the ratepayer risks of over-
+building distribution infrastructure underscores the importance of VGIC’s previous
+recommendation to assess various transportation electrification (“TE”) load shape cases in the
+1
+
+EIS Part 2 Study.1 Pacific Gas and Electric Company’s (“PG&E”) also supports the use of
+different scenarios for electric vehicle ("EV") load, stating "scenarios should assess various
+levels of energy management, for example, unmanaged vehicle charging based on static TOU
+rates vs. Real-Time Pricing rates, dynamic management and vehicle integration. Alternate
+forecast scenarios can also help assess the differing inputs and assumptions that various forecasts
+may include.”2
+VGIC reiterates that baseline EV load management, mid EV load management, high EV
+load management, and high EV load management + EV charger export cases can help the
+Commission and utilities better understand the different potential TE policy-driven load
+outcomes and associated cost impacts.3 Critically, to help mitigate the potential ratepayer burden
+highlighted by Cal Advocates, VGIC recommends the EIS Part 2 Study assess and determine key
+policy recommendations that promote the use of customer solutions that right-size infrastructure
+investments (i.e., according to the low, mid, high, or high+EV export cases).
+II. THE OVERALL VALUE OF SECONDARY DISTRIBUTION INVESTMENT
+DEFERRAL OPPORTUNITIES SHOULD BE DULY CONSIDERED AND
+QUANTIFIED BY THE COMMISSION.
+In opening comments, SDG&E asserts the following:
+“There is no reason to incorporate secondary infrastructure planning in the utilities’
+DPPs. Because secondary infrastructure needs can be determined outside the traditional
+1 Response Of The Public Advocates Office To Opening Comments On Administrative Law Judges’
+Ruling Setting A Workshop, Admitting Into The Record Part 1 Of The Electrification Impacts Study And
+Research Plan, And Seeking Comments, CalAdvocates, pg. 1-3.
+2 Responses To Comments And Questions On The Electrification
+Impacts Study Part 1 By Pacific Gas And Electric Company (U 39 E), pg. 7.
+3 Comments Of The Vehicle-grid Integration Council On Administrative Law Judges’ Ruling Setting A
+Workshop, Admitting Into The Record Part 1 Of The Electrification Impacts Study And Research Plan,
+And Seeking Comments, pg. 3-4.
+2
+
+distribution planning environment, and because solutions for these needs tend to be
+relatively low cost with comparatively short lead-times, there is no benefit in
+incorporating secondary infrastructure planning in the DPP. For the same reasons,
+secondary infrastructure upgrades are unsuitable for deferral by Distributed Energy
+Resources (DERs) through the Distribution Investment Deferral Framework (DIDF).”4
+VGIC acknowledges SDG&E’s concerns and similar reasoning provided by PG&E5
+about including secondary infrastructure planning in the DPP. However, it is also critical to not
+only underplay the importance of secondary distribution deferral opportunities as California
+seeks to achieve its TE goals while managing ratepayer costs.
+VGIC respectfully requests that the Commission consider how best to evaluate these
+secondary distribution needs, which were indicated in the EIS Part 1 Study to be a significant
+share of overall distribution system costs. Regarding quantifying these secondary distribution
+needs and costs, PG&E supports “providing an aggregated estimate range for secondary
+distribution needs and costs, analogous to what was provided in the EIS Part 1 Study.”6 VGIC
+believes this approach helps establish a base justification and overall cost imperative for
+promoting deferral opportunities, yet the Commission must consider more actionable measures
+to unlock secondary distribution deferral opportunities.
+VGIC agrees with SDG&E’s recommendation that these upgrades are “unsuitable for
+deferral by DERs through the DIDF process” (emphasis added) and urges the Commission to
+explore existing processes, other than the DIDF, that can be used to support secondary
+4 San Diego Gas & Electric Company’s (U 902-e) Response To Second Set Of Questions In
+Administrative Law Judge’s Ruling Setting A Workshop, Admitting Into The Record Part 1 Of The
+Electrification Impacts Study And Research Plan, And Seeking Comments, pg. 9.
+5 Responses To Comments And Questions On The Electrification Impacts Study Part 1 By Pacific Gas
+And Electric Company (U 39 E), pg. 5.
+6 Ibid.
+3
+
+distribution deferral by DERs. This can include, for example, utility managed charging
+programs, revisions to TE make-ready and infrastructure funding program design, and flexible
+service connection/interconnection tariffs.
+III. VGIC AGREES THAT A WORKSHOP ON COORDINATING THE EIS PART 2
+STUDY WITH EVOLUTION IN DER ECONOMICS MAY BE NECESSARY TO
+SUPPORT THE HIGH DER OIR GOALS.
+In their Part 1 Study comments, the Utility Consumers’ Action Network (“UCAN”)
+highlighted the need for a workshop in order to “confirm and discuss how Kevala proposes to
+incorporate technology cost curves into the adoption forecasts”.7 As noted by UCAN in their
+comments, the Part 1 Study results are based on “assuming that rates, DER prices, and DER
+payback periods remain constant through the forecast horizon based on 2022 values.”8
+Considering that DERs will play a key role in mitigating the impacts of transportation
+electrification, VGIC believes that it is important to understand how the Commission and Kevala
+staff can incorporate future changes in DER prices and customer rates into the EIS Part 2 Study.
+Given that the implementation of specific policies can lead to a decrease in costs for some
+resources such as DERs, coupled with the fact that the EIS Part 2 Study will develop scenarios
+based on state policy goals, it is essential that the EIS Part 2 Study try to find a way to
+incorporate future changes in DER prices in order to accurately assess how much ratepayer value
+could be created through the deployment of DERs. Failing to incorporate future changes in DER
+prices and customer rates could lead to a missed opportunity when assessing the potential value
+and cost effectiveness of certain DERs (e.g., V2G technologies) and the pivotal role they can
+7 Comments of the Utility Consumers’ Action Network On Administrative Law Judges’ May 9, 2023
+Ruling Setting A Workshop, Admitting Into The Record Part 1 Of The Electrification Impacts Study And
+Research Plan, And Seeking Comments, pg. 1.
+8 Ibid, pg. 3.
+4
+
+play when developing mitigation strategies for transportation electrification impacts. With this
+being said, VGIC agrees with UCAN’s recommendation of convening a workshop to coordinate
+the EIS Part 2 Study with the evolution in DER economics in order to support the High DER
+OIR goals.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the EIS Part 1
+Study. We look forward to further collaboration with the Commission and stakeholders on this
+initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: August 7, 2023
+5

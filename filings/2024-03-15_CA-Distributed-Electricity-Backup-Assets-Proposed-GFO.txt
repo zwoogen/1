@@ -1,0 +1,156 @@
+March 15, 2024
+Email to: docket@energy.ca.gov
+Docket Number: 22-RENEW-01
+Subject: DEBA DER GFO Solicitation Concept
+Re: Comments of the Vehicle Grid Integration Council on the Proposed Draft
+DEBA DER GFO Solicitation Concept
+Dear Sir or Madam:
+The Vehicle Grid Integration Council (“VGIC”) appreciates the opportunity to comment on
+the California Energy Commission’s (“CEC”) Proposed Draft Distributed Electricity Backup Assets
+(“DEBA”) Distributed Energy Resources (“DER”) Grant Funding Opportunity (“GFO”)
+Solicitation Concept (“Draft DEBA GFO”). VGIC commends the CEC for its efforts to bolster grid
+reliability in the face of increased risk of extreme weather events.
+I. INTRODUCTION AND SUMMARY.
+The Vehicle Grid Integration Council is a 501(c)(6) membership-based trade association
+focused on accelerating the role of smart electric vehicle (“EV”) charging and discharging through
+policy development, education, outreach, and research. VGIC supports the transition to a
+decarbonized transportation and electric sector by ensuring the value from EV deployments and
+flexible EV charging and discharging is recognized and compensated in support of a more reliable,
+affordable, and efficient electric grid.
+VGIC strongly believes that DEBA is key to deploying equipment capable of unlocking real-
+world load reductions and exports that will meaningfully support the grid during emergencies. To
+accomplish this, the Draft DEBA GFO should be modified as summarized below:
+• The DEBA program should transition toward a third-party-administered block grant
+program offering rather than using a Grant Funding Opportunity (“GFO”) approach to
+project selection and fund distribution.
+• Dual participation should be permitted across multiple Pathways to further support the
+deployment of equipment that will help support the grid during emergencies.
+• CEC should modify the Draft DEBA GFO to include software costs as eligible project
+costs in Group 2.
+• The CEC should consider reducing the minimum aggregation size, which is
+unreasonably high for emerging technologies and will limit the installation of certain
+low-cost, high-benefit emergency resources.
+
+March 15, 2024
+Page 2 of 5
+• To reduce eligibility barriers for V2X equipment, the CEC should clarify it does not
+intend to require UL 1741 SA/SB certification for V2G DC EVSE.
+• The CEC should clarify details related to the Technology Readiness Requirement.
+II. THE DEBA PROGRAM SHOULD TRANSITION TOWARD A THIRD-PARTY-
+ADMINISTERED BLOCK GRANT PROGRAM OFFERING RATHER THAN
+USING A GRANT FUNDING OPPORTUNITY (“GFO”) APPROACH TO
+PROJECT SELECTION AND FUND DISTRIBUTION.
+VGIC generally supports the CEC’s DEBA draft solicitation concept; however, VGIC is
+concerned with the CEC’s choice to use a GFO approach for project selection and fund distribution.
+GFOs are particularly ill-suited for projects involving BTM customer-sited resources, as customer
+acquisition/enrollment cycles may not align well with GFO solicitation timelines. Additionally,
+GFOs are administratively burdensome for developers/aggregators and represent a risky endeavor
+made more uncertain by the aforementioned complexity of customer engagement and BTM
+installation barriers.
+The CEC should consider transitioning to a more effective approach. Specifically, the CEC
+should consider offering a transparent, easily accessible incentive program. Incentive programs
+administered by third parties, like CALeVIP, EnergIIZE, and the Self-Generation Incentive
+Program, offer streamlined, accessible funding for customer-sited projects. In stark contrast, the
+CPUC’s Distribution Infrastructure Deferral Framework (“DIDF”) solicitations, which are open to
+both BTM and IFOM DERs, has yielded little-to-no interest from aggregators/developers
+constructing BTM customer-sited resources. VGIC urges the Commission to transition DEBA to an
+third-party administered block grant program, like CALeVIP or EnergIIZE, rather than using the
+GFO framework. Given how far along the CEC is in designing this first DEBA DERs GFO, and
+given the urgent need to deploy on-call load reduction and supply resources for grid emergencies in
+summer 2024, VGIC understands that this change is unlikely to occur for the initial DEBA DER
+GFO and recommends it be considered for future iterations of DEBA DER program funding.
+III. DUAL PARTICIPATION SHOULD BE PERMITTED ACROSS MULTIPLE
+PATHWAYS TO FURTHER SUPPORT THE DEPLOYMENT OF EQUIPMENT
+THAT WILL HELP SUPPORT THE GRID DURING EMERGENCIES.
+Aside from Pathway 4: Daily Dispatch, all other Pathways prohibit dual participation in
+incentive mechanisms that could be “stacked” to support the deployment of resources capable of
+responding to grid emergencies. The DEBA GFO concept notes that funding can cover up to 50%
+
+March 15, 2024
+Page 3 of 5
+of eligible costs for Group 1 and Group 2. For VGI resources requiring relatively high upfront costs,
+this will likely be insufficient to support real-world deployment. To better support project economics
+and ensure DEBA results in meaningful incremental emergency load reduction and export capacity,
+the CEC should consider expanding dual participation for all pathways to include supply-side DR,
+emergency DR programs like DSGS and ELRP, and dynamic rate pilots and export credits such as
+the CalFUSE pilots. VGIC recognizes it is critical to avoid double counting these resources to ensure
+DEBA success can be properly measured and evaluated and to avoid inefficient use of program
+budgets. Notably, the CPUC hosted a workshop on March 1st to address the issue of double
+counting/compensation and to discuss methodologies to implement certain types of dual
+participation. The below graphic demonstrates the methodology developed by PG&E to avoid
+double counting/compensation between dynamic pricing pilots (i.e., CalFUSE rates) and various
+other demand-side management measures:
+VGIC recommends the CEC permit dual participation for other pathways, not just Pathway 4, to
+allow for “value stacking” and ensure DEBA funds can be supplemented to unlock the greatest
+possible amount of incremental emergency capacity.
+IV. THE CEC SHOULD MODIFY THE DRAFT DEBA GFO TO INCLUDE
+SOFTWARE AS ELIGIBLE PROJECT COSTS UNDER GROUP 2.
+As detailed in Section III above, the proposed DEBA DER GFO would support up to 50%
+of eligible project costs for Groups 1 and 2. However, VGIC notes that the list of eligible project
+costs for Group 2 does not include software costs, which – in the case of VGI – can comprise a
+significant share of overall deployment costs. As such, VGIC urges the CEC to include software
+costs as eligible for support within the DEBA DER GFO, as long as awardees are not also receiving
+other CEC support for these software costs, for example, through the CEC’s 2023 REDWDS
+solicitation.
+
+March 15, 2024
+Page 4 of 5
+V. THE CEC SHOULD CONSIDER REDUCING THE MINIMUM AGGREGATION
+SIZE AS IT IS UNREASONABLY HIGH AND WILL RESULT IN UNNECESSARY
+BARRIERS.
+The proposed DEBA DER GFO poses several challenges unique to BTM customer-sited
+resources. One such challenge is detailed above in Section II regarding the GFO model itself.
+Another key challenge is the relatively high minimum aggregation size, which will likely be
+difficult for many developers/aggregators of small customer-sited resources to achieve. As
+envisioned by AB 205, constructing cleaner, more efficient distributed energy assets requires
+promoting the broadest possible set of solutions, many of which will be small, customer-sited
+resources. As such, the CEC should consider reducing the minimum aggregation size, which it is
+also exploring doing in the companion AB 205 program: DSGS.1
+VI. TO REDUCE ELIGIBILITY BARRIERS FOR V2X EQUIPMENT, THE CEC
+SHOULD CLARIFY IT DOES NOT INTEND TO REQUIRE UL 1741 SA/SB
+CERTIFICATION FOR V2G DC EVSE.
+Since vehicle-to-grid (V2G) exports would be encouraged under the above proposal, the
+CEC should consider the interactions between DEBA, Rule 21 smart inverter requirements, and
+available UL-certified bidirectional chargers. There are currently no bidirectional chargers certified
+to UL 1741 SB, which is required by Rule 21 as of August 29, 2023. Based on our discussions with
+manufacturers, UL 1741 SB certification for bidirectional chargers is optimistically about 18 months
+away. As a result, the CPUC has exempted bidirectional chargers participating in ELRP and, by
+extension, PG&E’s VGI Pilots from all UL 1741 SA, SB, and any subsequent smart inverter
+requirements that the CPUC may set. We urge the CEC to coordinate, to the extent feasible, with
+the CPUC to extend this treatment to bidirectional chargers participating in DEBA. Without this
+exemption, many bidirectional EVSE will become stranded assets when they are most needed and
+available to provide grid flexibility services. DEBA represents a significant near-term opportunity
+to demonstrate the potential for VGI to provide grid services at scale and be compensated for doing
+so, particularly for customers of POUs and municipal utilities that are not eligible to participate in
+ELRP Subgroup A.5/VGI Aggregators. We therefore urge the CEC to make note of the current state
+of the bidirectional charger market and waive the UL1741-SB requirement to allow customers with
+UL 1741 and UL1741-SA certified V2G bidirectional chargers to participate in DEBA. Moreover,
+1 March 12, 2024 DSGS Workshop Slides, pg. 20.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=254993&DocumentContentId=90694
+
+March 15, 2024
+Page 5 of 5
+the CEC recently proposed not requiring UL 1741 SB certification for participation in Option 3 of
+DSGS, as detailed in the recent DSGS Workshop.2
+VII. THE CEC SHOULD CLARIFY DETAILS RELATED TO THE TECHNOLOGY
+READINESS REQUIREMENT.
+The CEC should clarify details related to the technology readiness level (“TRL”) 9
+requirement. Based on VGIC’s understanding of the DEBA DER GFO concept, it is unclear whether
+the TRL will be assessed at time of application or deployment. Additionally, it is unclear if the CEC
+or another party would be responsible for assessing the TRL, or if applicants will submit an
+attestation regarding the TRL of their solutions. VGIC respectfully requests the CEC to clarify these
+TRL-related GFO elements in the upcoming GFO.
+VIII. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the workshop and looks
+forward to collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+Vehicle Grid Integration Council
+Albert Tapia
+Policy Analyst
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+2 March 12, 2024 DSGS Workshop Slides, pg. 19.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=254993&DocumentContentId=90694

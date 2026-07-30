@@ -1,0 +1,249 @@
+January 16, 2025
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission Regarding Electric Vehicle
+Supply Equipment and Infrastructure
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on Department of Public Service Staff Modified Proposal for Streamlined V1G Queue
+Management in Electric Vehicle Make-Ready Program and Other Programs
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)6 membership-based advocacy
+group committed to advancing the role of electric vehicles (EV) and vehicle-grid integration (VGI)
+through policy development, education, outreach, and research. VGIC supports the transition to a
+decarbonized transportation and electric sector by ensuring the value from EV deployments and
+flexible EV charging and discharging is recognized and compensated to achieve a more reliable,
+affordable, and efficient electric grid.
+As New York seeks to meet its ambitious climate and clean energy goals, resolving
+interconnection challenges for unidirectional EV charging infrastructure will be critical to enabling
+widespread EV adoption. The updated queue management proposal provides an important
+opportunity to address persistent barriers and align interconnection processes with the rapid
+deployment of EV infrastructure needed to support the state’s decarbonization objectives. The
+current approach to processing utility customer requests for new or upgraded service is not well
+1
+
+suited for the pace and scale of transportation electrification. One reason for this is because of the
+common utility practice to treat EVs as continuous loads, adding up nameplate ratings of all EV
+supply equipment (“EVSE”) on site, and then size the grid connection to that total plus 25%,
+regardless of the customer’s ability to manage load across EVSE (or install on-site generation
+and/or energy storage). While progress has been made to change this practice on the generation
+side using flexible generator/storage interconnection concepts, few efforts have focused on flexible
+service connection.
+VGIC understands that New York utilities do allow flexible service connection on an ad
+hoc basis, with site-specific conversations occurring between utilities and site developers to design
+multi-charger sites that may lead to safely oversubscribing electrical connection in one-off
+demonstrations. Additionally, New York’s Load Management Technology Incentive Program
+(“LMTIP”) directly supports the deployment of technology that could be operationalized to
+support flexible service connections.1 Critically, there exists a lack of clarity among stakeholders
+on next procedural steps to standardize this offering, or even where to address these topics (e.g.,
+EV Interconnection and Infrastructure Working Group (“EVIIWG”), Interconnection Technical
+Working Group, Grid of the Future proceeding, EV make-ready dockets, etc.). VGIC believes the
+primary gap that needs to be addressed is the lack of a scalable approach that provides certainty to
+customers, site developers, and technology providers. Such an approach would likely include the
+design elements recommended throughout these comments.
+1 Joint Utilities of New York. Load Management Technology Incentive Program.
+https://jointutilitiesofny.org/ev/lmtip
+2
+
+VGIC’s comments are informed by its engagement in the EVIIWG, including the
+discussion resulting from its December 2024 presentation,2 its joint comments with the
+Environmental Defense Fund (“EDF”) and Interstate Renewable Energy Council (“IREC”)
+submitted to the EVIIWG administrators on December 10, 2024,3 and a range of leading reports
+and pilot studies on flexible interconnection and advanced planning practices to facilitate
+widespread EV service connection.
+VGIC below offers the following recommended improvements to the modified queue
+management proposal in order to establish a scalable flexible service connection framework for
+EV charging facilities:
+• Establish Two Flexible Service Connection Options.
+• Improve Data Portals and Overall Transparency to Support Flexible Service
+Connections.
+• Detail the Customer Engagement Process for Flexible Service Connections.
+• Establish Robust Data Reporting Requirements.
+2 New York Department of Public Service. Electric Vehicle Infrastructure & Interconnection Working
+Group Meeting. December 13, 2024. Slides 4-14.
+https://dps.ny.gov/system/files/documents/2024/12/eviiwg-december-13-2024-slides.pdf
+3 EDF, IREC, VGIC. Informal Comments on Updated Queue Management Straw Proposal. December 10,
+2024. https://www.vgicouncil.org/s/2024-12-10_Joint-EDF-IREC-VGIC-EVIIWG-Comments.pdf
+3
+
+A. VGIC Recommends the Queue Management Proposal Be Modified to Formally
+Establish Two Flexible Service Connection Options.
+VGIC commends the Commission for establishing the LMTIP, which directly incentivizes
+equipment that can enable flexible service connection.4 While this funding supports the underlying
+technology deployment, a scalable process for enabling flexible service connections has not yet
+been adopted by the Commission. To that end, VGIC recommends the Commission consider
+flexible service connection through four distinct focus areas: (1) grid data access and enabling
+tools, including grid capacity maps and the development of dynamic operating envelopes or
+limited load profiles, (2) process and customer engagement, (3) technical requirements and
+relevant standards for enabling technologies, including power control systems, co-located or
+integrated energy storage, and linear generators, and (4) connection timelines data collection and
+reporting to understand deployment progress, as partially detailed herein. Items (1), (2), and (4)
+are detailed in Sections B, C, and D below, whereas item (3) is largely addressed through the
+existing LMTIP and, as a result, VGIC will not address it in these comments. VGIC details below
+the intended outcome of such a holistic process: the types of flexible service connection.
+i. Static Import Limits/Schedules: VGIC recommends the Commission modify the EV
+queue management proposal to establish clear pathways for the use of static load limits,
+including both single-value import limits and multi-value import schedules (e.g., static
+seasonal peak/off-peak values), allowing EV charging stations that would trigger
+upstream upgrades the opportunity to begin operations sooner. This aligns with best
+4 Joint Utilities of New York. Load Management Technology Incentive Program.
+https://jointutilitiesofny.org/ev/lmtip
+4
+
+practices detailed in the Advanced Energy United’s EV Ready Grid Guidebook5, the
+U.S. Department of Energy’s (“U.S. DOE”) Flexible DER & EV Connections report
+from July 2024,6 and the recent Idaho National Laboratory (“INL”) and Pacific
+Northwest National Laboratory (“PNNL”) study on “Approaches for Simplifying and
+Accelerating Timelines to Processing EV Charging Load Requests.7 These limits can
+be implemented as firm limits (i.e., strict service limit) or non-firm limits (i.e., penalties
+for exceeding the limit).
+ii. Dynamic Import Limits/Schedules: VGIC recommends the Commission modify the
+EV queue management proposal to implement dynamic operating envelopes, which
+allow EV charging stations to operate flexibly within capacity constraints that vary
+based on real-time grid conditions. This approach, successfully demonstrated in
+PG&E’s Flexible Service Connection Pilot8 and supported by the U.S. DOE’s Flexible
+DER & EV Connections report from July 2024,9 enables more efficient utilization of
+grid capacity and expedites interconnection timelines.
+5 Advanced Energy United. EV Ready Grid Guidebook. September 23, 2024.
+https://blog.advancedenergyunited.org/reports/evready
+6 U.S. Department of Energy. Flexible DER & EV Connections. July 2024.
+https://www.energy.gov/sites/default/files/2024-08/Flexible DER EV Connections July 2024.pdf
+7 Anand, Dhananjay et al. Idaho National Laboratory. Pacific Northwest National Laboratory. EV
+Charging Infrastructure Energization: An Overview of Approaches for Simplifying and Accelerating
+Timelines to Processing EV Charging Load Service Requests. January 6, 2025.
+https://inldigitallibrary.inl.gov/sites/sti/sti/Sort_151131.pdf
+8 Pacific Gas and Electric Company. PG&E Flex Connect Pilot.
+https://www.pge.com/assets/pge/docs/clean-energy/electric-vehicles/flexible-service-connection-pilot-
+overview.pdf
+9 U.S. Department of Energy. Flexible DER & EV Connections. July 2024.
+https://www.energy.gov/sites/default/files/2024-08/Flexible DER EV Connections July 2024.pdf
+5
+
+B. VGIC Recommends the Commission Modify the Queue Management Proposal to
+Improve Data Portals and Overall Transparency to Support Flexible Service
+Connections.
+To facilitate not only the siting of EV charging facilities but also the election and design
+of flexible service connection, VGIC recommends the Commission direct utilities to maintain and
+improve data portals with feeder- and substation-level hosting capacity maps, enabling developers
+to assess grid constraints and opportunities proactively. The recent INL/PNNL study underscores
+the value of such tools in reducing interconnection delays and uncertainties.10 Given the
+Commission has not yet adopted a scalable framework for flexible service connection, it is not yet
+determined whether flexible service connection opportunities will be presented to the customer by
+the utility (i.e., following utility assessment indicating an exceptionally lengthy energization
+timeline), or whether flexible service connections will originate from customer requests (i.e.,
+following customer/vendor assessment of system capacity through the utilities’ Hosting Capacity
+maps). In either case, VGIC sees benefit in maintaining and improving the utilities’ Hosting
+Capacity maps to a reasonable degree of accuracy and update frequency.
+Additionally, the Commission should direct the utilities to provide reasonably frequent and
+detailed updates to stakeholders on interconnection queue statuses, estimated timelines, and
+identified constraints. This recommendation echoes VGIC’s December 2024 presentation, which
+emphasized the importance of transparency for developers and other stakeholders. This is critical
+to guide policy development. In other words, understanding where certain bottlenecks exist and
+10 Anand, Dhananjay et al. Idaho National Laboratory. Pacific Northwest National Laboratory. EV
+Charging Infrastructure Energization: An Overview of Approaches for Simplifying and Accelerating
+Timelines to Processing EV Charging Load Service Requests. January 6, 2025.
+https://inldigitallibrary.inl.gov/sites/sti/sti/Sort_151131.pdf
+6
+
+how they differ across customer types, charger size, and locations, will help the Commission and
+interested parties improve flexible service connection policy moving forward, in recognition that
+any flexible service connection process or framework adopted by the Commission would be the
+first of its kind.
+C. VGIC Recommends the Commission Modify the Queue Management Proposal to
+Detail the Customer Engagement Process for Flexible Service Connections.
+For utility customer engagement, VGIC considers the following process options to enable
+customer engagement:
+i. Develop tools for customer-led election of flexible service connection, including:
+a. Proactive customer marketing, education and outreach by the utility
+b. Hosting Capacity maps as enablement tool
+c. Utility pre-load assessment, on request
+d. Option for customer election in load request
+ii. Develop tools for utility-led deployment:
+a. Filter applied to all load requests to find candidate sites. E.g., the filter can be a
+certain number of days estimated for energization.
+VGIC recommends the Commission seek feedback on these different tools, either through the
+EVIIWG Interconnection Technical Working Group, any of the open EV make-ready proceedings,
+and/or the Grid of the Future proceeding. At a minimum, VGIC recommends that customers
+receiving exceptionally lengthy energization timeline estimates should be offered
+information from their utility on flexible service connection options. The definition of
+7
+
+“exceptionally lengthy” should be discussed in one of the above-noted Commission proceedings
+or working groups.
+Additionally, VGIC recommends the Commission direct utilities to notify customers when
+a timeline will not be met or is at risk of not being met. The notification should include the category
+of delay, the reason for the delay, the new expected deadline, and, if applicable, flexible service
+connection options. Additionally, for customers that may have pending or missed deadlines in their
+energization or interconnection project requests, VGIC recommends the Commission direct
+utilities to ensure customers whose projects will be or are currently at risk of experiencing
+exceptionally lengthy energization timelines are provided with alternative options to proceed,
+including flexible service connections.
+Regardless of whether the process is initiated by utilities or customers, VGIC strongly
+recommends that certain in-flight site design changes be permitted. While fundamental site design
+specifications, like charge port count, may not be modifiable without re-starting the process, other
+site design specifications that do not require re-setting the queue process should be permitted.
+VGIC recommends the Commission address which specifications can and cannot be changed
+through an active proceeding or working group, such as those listed above. Allowing these system
+design changes during the review and overall energization process will be critical to streamlining
+electrification and grid connection. Customers should also be provided with as much information
+as feasible to design their projects before submitting energization and interconnection requests.
+Ultimately, if a utility’s assessment of a customer service request (i.e., energization or
+interconnection) results in an exceptionally lengthy timeline, customers should be given the
+following options to proceed:
+8
+
+(1) wait for necessary upgrades to be completed
+(2) withdraw customer request and re-design site (i.e., they go “back to the drawing board”)
+or forego electrification project altogether
+(3) elect flexible service connection option(s) based on site characteristics
+D. VGIC Recommends the Queue Management Proposal Be Modified to Establish Data
+Reporting Requirements Related to Flexible Service Connection.
+VGIC recommends the Commission modify the Queue Management Proposal to direct
+utilities to track and publish the characteristics and project milestone dates for each new and
+upgraded electrical service request. This data is critical to understanding the impacts that flexible
+service connection policy, rules, and regulations has on deployments. This reporting should
+include:
+i. Anonymized project identification information.
+ii. Request type (i.e., new or upgrade) and size (kW).
+iii. Days lapsed since the initial request.
+iv. Whether flexible service connection was:
+a. Proposed by the utility (i.e., following utility assessment indicating an
+exceptionally lengthy energization timeline)
+b. Accepted by the customer (i.e., following utility recommendation)
+OR:
+c. Proposed by the customer (i.e., following customer/vendor assessment of
+system capacity through the utilities’ Hosting Capacity maps)
+d. Accepted by the utility (i.e., following customer request).
+9
+
+v. If applicable based on reporting of data point (iv) above:
+a. the type of the accepted flexible service connection (i.e., static or dynamic)
+b. the type of flexible service connection technology in use (e.g., which defined in
+the Load Management Technology Incentive Program11).
+This data will be critical to developing a common, objective, and data-backed
+understanding of progress against New York’s goal for streamlined queue management of
+interconnection requests and new and upgraded electrical load requests. Moreover, this
+information can help identify precisely where common bottlenecks persist and how severe they
+are based on site size to ensure future policy development and investments are reasonable and
+prudent.
+Lastly, VGIC recommends the Commission leverage this data by creating formal
+mechanisms to solicit and incorporate stakeholder feedback into ongoing interconnection process
+improvements. Transparent engagement with this data and the relevant parties will ensure that the
+interconnection framework remains responsive to evolving needs and challenges.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+continuing working with the Commission, Staff, the Joint Utilities, and other stakeholders to
+ensure the success of New York’s transportation electrification efforts.
+Respectfully submitted,
+/s/ Zach Woogen
+11 Joint Utilities of New York. Load Management Technology Incentive Program.
+https://jointutilitiesofny.org/ev/lmtip
+10
+
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: January 16, 2025
+11

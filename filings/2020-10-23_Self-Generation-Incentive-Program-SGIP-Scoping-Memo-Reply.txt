@@ -1,0 +1,293 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Policies, Rulemaking 20-05-012
+Procedures and Rules for the Self-Generation (Filed May 28, 2020)
+Incentive Program and Related Issues
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL TO THE ASSIGNED COMMISSIONER’S SCOPING MEMO
+AND RULING
+Edward Burgess
+Policy Director
+Zach Woogen
+Policy Specialist
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (941) 266-0017
+Email: eburgess@vgicouncil.org
+October 23, 2020
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Policies, Rulemaking 20-05-012
+Procedures and Rules for the Self-Generation (Filed May 28, 2020)
+Incentive Program and Related Issues
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL TO THE ASSIGNED COMMISSIONER’S SCOPING MEMO
+AND RULING
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) 1 hereby submits
+these reply comments on behalf of its members to the Assigned Commissioner’s Scoping Memo
+and Ruling (“Scoping Memo”) issued by Commissioner Rechtschaffen on August 17, 2020.
+Pursuant to the September 17, 2020 assigned Administrative Law Judge Email Ruling authorizing
+an extension of the filing deadline indicated in the August 17, 2020 ACR from October 1, 2020 to
+October 23, 2020, VGIC timely files these reply comments on October 23, 2020.
+I. OVERVIEW OF VGIC.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation and
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California LLC, Enel
+X North America, Inc., Fermata, LLC., Fiat Chrysler Automobiles, Ford Motor Company, General Motors
+Company, Nissan North America, Inc., Nuvve Corporation, The Mobility House, and Toyota Motor North America,
+Inc. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2
+
+electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+II. REPLY TO OPENING COMMENTS RELATING TO EV/EVSE IN SGIP.
+A. There is a critical need to level the playing field for using bidirectional EV/EVSE as an
+energy storage resource.
+In opening comments, several parties responded to Scoping Memo question h with support for
+the consideration of EV/EVSE eligibility in SGIP, and raised important questions that should be
+addressed as a next step.2 However, some parties framed these same important questions as
+reasoning to cease consideration of EV/EVSE eligibility for SGIP funds. VGIC acknowledges
+the questions raised by parties, which primarily relate to: SGIP’s permanency requirement,
+incrementality and avoiding double-funding, relation to EV rates and programs, and commercial
+readiness. VGIC believes each of these factors merit further consideration in this proceeding, but
+that taken together they do not provide adequate reasoning as to why bi-directional EV/EVSE
+resources – a type of energy storage technology – should be excluded entirely from an incentive
+program that aims to deploy energy storage technologies in support of grid benefits, GHG
+emissions reductions, equity, and resiliency.
+The recent August 2020 heat wave blackouts, as well as subsequent heat waves triggering
+CAISO Flex Alerts well into October – when generators go offline for scheduled maintenance –
+underscores the critical need to support the deployment of additional Resource Adequacy (“RA”)
+2 Comments of the California Energy Storage Alliance on the Assigned Commissioner’s Scoping Memo and Ruling
+at 13, The Protect Our Communities Foundation Comments On Questions B – K In Section 3 Of The Assigned
+Commissioner’s Scoping Memo And Ruling at 4, and Comments Of Fermata LLC On The Assigned Commissioner’s
+Scoping Memo And Ruling at 5.
+3
+
+resources, including V2G-capable technologies. While Behind-the-Meter (“BTM”) RA and/or
+emergency reliability services are not available monetization pathways today for V2G today,
+these market products are under development to address California’s urgent grid needs.3
+Expanding SGIP eligibility to include bi-directional systems can help to future-proof California’s
+EV/EVSE fleet by incentivizing new EV/EVSE to be deployed with V2G capabilities included
+as a means to maximize RA resources (versus allowing EV/EVSE to proliferate that are limited
+to only unidirectional capabilities).
+B. SGIP incentives should compensate incremental components of bi-directional EV/EVSE
+to avoid duplicating existing EV/EVSE funds.
+In opening comments, parties noted that EVs and EVSE already receive incentives through other
+sources of funding.4 VGIC notes that some of these other incentives, such as the Federal EV Tax
+Credit, are quickly being phased down. Furthermore, there are no incentives that explicitly
+encourage incremental VGI technologies rather than buying down the initial cost of the vehicle
+itself or charging infrastructure. These opening comments concluded that the Commission should
+only consider the incremental elements of bi-directional EV/EVSE systems as eligible for SGIP
+incentives. VGIC generally agrees with this sentiment and suggest that SGIP for EV/EVSE be
+directed towards offsetting the additional cost (including hardware, software, and customer
+acquisition) for providing bi-directional capabilities on new EV/EVSE. As stated in our opening
+3 As requested by the CPUC in the Resource Adequacy Proceeding Phase 2 decision (D.20-06-031), the CPUC,
+CAISO, and CEC are holding a joint public workshop to consider the potential to provide RA credit to behind-the-
+meter resources on November 24, 2020. Additionally, E-mail Ruling Introducing Distributed Energy Resources
+Tariff Staff Proposal and Directing Comments and Responses to Questions issued October 6, 2020 by ALJ Kelly A.
+Hymes in R.14-10-003 includes a staff recommendation that the “IOUs add an Emergency Dispatch for System
+Reliability Program as a near-term priority for an additional value stream to be added to the Clean Energy Customer
+Incentive” at 56.
+4 See, for example, Comments of the California Energy Storage Alliance on the Assigned Commissioner’s Scoping
+Memo and Ruling at 13, and Comments of the Center for Sustainable Energy in Response to the Assigned
+Commissioner’s Scoping Memo And Ruling at 7.
+4
+
+comments, bi-directional systems do not currently receive direct incentives or support for their
+incremental costs, as existing IOU TE make-ready program funds are not focused on promoting
+and deploying bi-directional technologies.
+C. SGIP incentives for EV/EVSE can be designed to ensure the physical permanency
+requirement is met.
+In opening comments, several parties raise considerations about SGIP’s physical permanency
+requirement is it relates to EV/EVSE eligibility. For example, SDG&E states that “Wheeled
+EV’s by their very nature cannot meet this requirement.”5 In its opening comments, VGIC
+provided several robust recommendations for how to address concerns over the permanence
+requirements.6 Furthermore, while VGIC do not believe that residential customers receiving
+SGIP incentives for VGI are likely to leave the state on a meaningful scale, we believe that there
+are possible safeguards that could help ensure that permanency requirements are met for the vast
+majority of program participants. For example, customer enrollment in a California utility’s
+whole-house EV TOU rate could signal permanency in support of SGIP’s permanency
+requirements, as it would ensure that customer is a utility customer within the state who owns an
+EV. Second, OEMs could theoretically supply GPS data for EV charging events to track how
+many SGIP program participants remain in the state. If there are widespread migrations from
+California by SGIP program participants, these could be addressed by modifying eligibility
+requirements as needed. In addition to these, VGIC note that other EV-related programs
+implemented by the IOUs, such as the LCFS rebate, do not have permanency requirements.
+Thus, some flexibility on this issue appears warranted based on past precedent.
+5 Opening Comments of San Diego Gas & Electric Company (U 902-E) on Questions “B Through K” of Assigned
+Commissioner’s Scoping Memo and Ruling at 5.
+6 Joint Comments of the Vehicle-Grid Integration Council and BMW of North America, LLC to the Assigned
+Commissioner’s Scoping Memo and Ruling at 13-15
+5
+
+D. VGIC is concerned by SCE’s suggestion that costs and benefits must be evaluated prior
+to SGIP implementation or that the VGI WG must be reconvened first.
+In their opening comments, SCE stated that “SCE believes that SGIP incentives could facilitate
+the use of electric vehicle (EV) energy storage systems to reduce grid stress. However, the
+potential benefits and costs are unknown.”7 VGIC believes that a precise determination of costs
+and benefits should not be an impediment to pursuing EV energy storage systems within SGIP in
+the near term. It is worth noting that an a priori evaluation or determination of cost-effectiveness
+has not been a requirement for SGIP program support in the past. For example, the 2015 SGIP
+Program Cost Effectiveness Study revealed that many of the technologies being supported by
+SGIP, including advanced energy storage, had benefit-cost ratios of <1.0 under a Societal Total
+Resource Cost test.8 More recently, the 2019 SGIP Energy Storage Market Assessment and Cost-
+Effectiveness Report stated that the “the potential cost-effectiveness of behind the meter storage
+is highly variable and sensitive to the parameters and use cases tested.”9 That said, the report also
+showed that many of the EV-TOU rates and EV-specific use cases, actually tended to increase
+cost-effectiveness. For example: “Under the residential EV-TOU rates analyzed, residential PCT
+ratios increase significantly relative to the TOU rates analyzed.”10
+Additionally, in contrast to SCE, VGIC does not think it is necessary to reconvene the VGI WG
+to move forward with next steps for including VGI resources within SGIP. VGIC does support
+7 Opening Comments of Southern California Edison Company (U 338-E) on Questions (B)-(K) in Section 3 of the
+Assigned Commissioner’s Scoping Memo and Ruling at 8.
+8 2015 Self-Generation Incentive Program Cost Effectiveness Study: Final Report prepared by Itron (October 5,
+2015) https://www.cpuc.ca.gov/WorkArea/DownloadAsset.aspx?id=7889 at 1-6.
+9 2019 SGIP Energy Storage Market Assessment and Cost-Effectiveness Report prepared by Itron (December 3,
+2019) https://www.cpuc.ca.gov/WorkArea/DownloadAsset.aspx?id=6442463457
+10 Ibid at 1-7.
+6
+
+several parties’ opening comments11, including its own, recommending for the Commission to
+convene stakeholders to explore the details of EV/EVSE in SGIP, however we do not believe the
+VGI WG is the appropriate venue for this convening due to its scope, composition, and the fact
+that it ended in July. Additionally, VGIC believes the inclusion of VGI resources within SGIP
+could be a valuable step to gain more insight into VGI costs and benefits that could inform any
+future reconvening of the VGI WG. VGIC does not believe the specific use cases need to be
+identified in advance. This would match the way that stationary storage is currently treated under
+SGIP whereby participants can dispatch their storage resources for a variety of purposes so long
+as they meet a limited set of performance requirements (i.e. cycling and GHG reduction).
+E. VGIC agrees with PG&E’s opening comments that SGIP should be coordinated with
+other EV programs being addressed in the DRIVE OIR. This does not mean that certain
+EV-related incentives (e.g. SGIP) cannot be implemented outside of the DRIVE OIR.
+In opening comments, PG&E states “PG&E believes any and all EV issues (e.g. EV energy storage
+systems and EVSE) should be considered exclusively in R.18-12-006, as this proceeding covers
+all transportation electrification-related matters.”12 VGIC believes that it is reasonable to address
+certain EV-related issues outside of – but in coordination with – R.18-12-006 (“DRIVE OIR”).
+This is consistent with the recommendation for a VGI Portfolio, proposed by VGIC et al. in DRIVE
+OIR.13 A VGI Portfolio would represent a comprehensive suite of VGI policies, with some
+portfolio elements (e.g., rates) contained within DRIVE OIR, while other elements are referenced
+in the portfolio but contained in other proceedings. Furthermore, VGIC notes that certain EV-
+11 See, for example, Comments of the California Energy Storage Alliance on the Assigned Commissioner’s Scoping
+Memo and Ruling and Comments of Fermata LLC on the Assigned Commissioner’s Scoping Memo and Ruling.
+12 Comments of Pacific Gas and Electric Company (U 39 E) on Questions “B-K” of Assigned Commissioner’s
+Scoping Memo and Ruling at 9.
+13 Joint Comments of the Vehicle-Grid Integration Council, Enel X North America, Inc., Advanced Energy Economy,
+California Energy Storage Alliance, Chargepoint, Inc., Environmental Defense Fund, Greenlots, Natural Resources
+Defense Council, and Siemens on Email Ruling Seeking Party Comment on Vehicle-Grid Integration Issues filed
+August 17, 2020 in R.18-12-006.
+7
+
+related issues are actively being addressed in proceedings outside of the DRIVE OIR that may be
+more appropriate on a case-by-case basis. For example, a recent Energy Division Staff proposal in
+R.19-09-009 recommends the Commission authorize utility pilot programs for the intentional
+islanding of customers so they can use DERs, namely EVs, as backup power. VGIC notes that the
+pilot program proposed in the R.19-09-009 may relate to similar resiliency applications promoted
+through SGIP, but that the two proceedings address clearly distinct aspects of using VGI resources
+for resiliency purposes. While an upcoming R.19-09-009 Track II Decision could authorize
+funding for a pilot program to explore the technical and customer considerations of using
+intentional islanding to enable EV backup power, the instant SGIP eligibility questions h-k address
+how to level the playing field for bi-directional EV/EVSE as a type of energy storage. Although
+related, VGIC believes these are two distinct issues.
+VGIC generally agree with PG&E’s comments that any SGIP incentives provided to EVs/EVSE
+should not be duplicative to those being provided elsewhere. This is consistent with Joint
+Commenter’s opening comments, which suggested that any SGIP program to support EVs/EVSE
+should be well-coordinated with activities occurring through the Transportation Electrification
+Framework.
+Despite these concerns about overlapping programs, VGIC believe it is still beneficial to pursue
+EV/EVSE-related incentives through SGIP now as a means to make tangible progress on
+developing the VGI market. This is even more true due to the very uncertain timing (let alone the
+existence of) possible VGI-related incentives through the TEF.
+VGIC also recognizes some of the concerns raised regarding how the SGIP incentives might be
+structured vis a vis any VGI-related incentives developed through TEF or other proceedings.
+8
+
+Furthermore, it is imperative that any VGI-related incentives are workable for EV/EVSE owners,
+and address unique challenges that may not exist for standalone storage. As such, VGIC
+reiterates its recommendation that the Commission convene a workshop, although not the VGI
+WG, to address any SGIP Handbook changes and incentive structure modifications that might be
+necessary for EV/EVSE. VGIC believes the following topics could included in a workshop
+agenda: (1) incentive design, (2) eligibility requirements (including permanency considerations),
+(3) SGIP Handbook changes, (4) data collection, and (5) coordination with DRIVE OIR
+programs/processes.
+F. SGIP incentives can help accelerate bi-directional EV/EVSE out of its relative nascency.
+In opening comments, CSE states, “not all EV models have the functionality to provide
+bidirectional flow that is necessary to provide meaningful benefits as required by SGIP.”14 VGIC
+notes that the relative nascency of the bi-directional charging market demonstrates why SGIP
+incentives can provide meaningful support for the deployment of bi-directionally capable
+technology. Furthermore, TURN states that “[V2G] capabilities are not yet commercially
+available. Funding such technologies from SGIP thus violates the statutory goal of the program to
+fund ‘commercially available’ technologies.”15 VGIC believes this is an inaccurate statement, as
+several vehicle OEMs and EVSE providers currently offer commercially-available and certified
+bi-directional technologies, and more models will become available in the near-term.16
+14 Comments of the Center for Sustainable Energy in Response to the Assigned Commissioner’s Scoping Memo and
+Ruling at 5.
+15 Comments of The Utility Reform Network On Questions (B) Through (K) in Section 3 of the Assigned
+Commissioner’s Scoping Memo and Ruling of August 17, 2020 at 8.
+16 See, for example, ABB https://cleantechnica.com/2020/10/14/11-kw-bi-directional-abb-chargers-coming-to-
+france-uk-germany-italy-belgium/, Audi https://electrek.co/2020/07/24/audi-bi-directional-charging-electric-cars-
+store-solar-energy/, Blue Bird https://www.electrive.com/2020/09/16/v2g-charging-with-electric-school-buses-in-
+the-usa/, Coritech https://coritech.com/v2g-architecture, Daimler https://www.axios.com/electric-school-buses-
+9
+
+G. Implementing SGIP for EVs does not depend upon further resolution V2G
+interconnection issues
+In opening comments, SDG&E states:
+“the Commission, the automotive industry, national standards development
+organizations, and the utilities have been unable to develop a pathway for V2G
+alternating current (AC) interconnections, since these systems are currently unable to
+comply with UL 1741 to ensure safety and reliability.”17
+VGIC disagrees with this characterization. The Commission’s recent decision on Rule 21 (D.20-
+09-035) clearly outlined a pathway for V2G AC interconnections at least for a limited set of pilot
+programs. Additionally, as detailed in Comments of the Vehicle-Grid Integration Council on
+Vehicle to Grid Alternating Current Interconnection Subgroup Report,18 there may be other
+viable interconnection pathways for V2G AC outside of UL 1741. Although this may require
+further modifications to Rule 21, and the Commission has directed the V2G AC Subgroup
+addressing these issues to reconvene once further progress has been made to develop standards,
+including those proposed by the automotive industry that would likely not directly reference UL
+vehicle-to-grid-power-19f7b6b1-662b-4501-a96e-dcf3fd57a886.html, Delta https://www.prnewswire.com/news-
+releases/brandenburgische-technische-universitat-and-delta-pave-the-way-for-a-future-smart-grid-for-emobility-
+301154128.html, Fermata https://www.greencarcongress.com/2020/09/20200920-fermata.html, Lucid Motors
+https://www.autoblog.com/2020/08/19/lucid-air-ev-charging-v2g-300kw-900v-electrify-america/, Mitsubishi
+https://www.theverge.com/2019/3/6/18252883/mitsubishi-dando-drive-home-power-battery-electric-car-plug-in-
+hybrid, Nissan https://cleantechnica.com/2018/11/29/nissan-using-vehicle-to-grid-technology-to-power-us-
+operations/, Nuvve https://www.prnewswire.com/news-releases/how-nuvves-vehicle-to-grid-v2g-technology-and-
+electric-school-buses-can-help-curb-power-blackouts-301117324.html, Ossiaco
+https://cleantechnica.com/2020/08/02/ossiaco-has-built-the-one-home-solar-inverter-to-rule-them-all/, OVO
+https://www.current-news.co.uk/news/ovo-claims-world-first-install-of-domestic-v2g-charger, PRE http://www.pr-
+electronics.nl/en/news/58/pre-power-developers-leader-in-v2g-charger-modules/, Proterra
+https://www.raconteur.net/infrastructure/v2g-school-buses/, Rhombus Energy Solutions
+https://www.prweb.com/releases/rhombus_energy_solutions_announces_ul_1741sa_certification_for_its_ac_dc_hig
+h_power_conditioning_systems_for_fleet_electric_vehicles/prweb17308158.htm, and Wallbox
+https://electrek.co/2020/01/06/wallbox-quasar-tesla-nissan/.
+17 Opening Comments of San Diego Gas & Electric Company (U 902-E) on Questions “B Through K” of Assigned
+Commissioner’s Scoping Memo and Ruling at 4.
+18 Comments of the Vehicle-Grid Integration Council on Vehicle to Grid Alternating Current Interconnection
+Subgroup Report filed in R.17-07-007 on January 6, 2020.
+10
+
+1741. Furthermore, certain non-exporting bi-directional applications, such as those that have
+been proven in microgrids or customer premises, may not require interconnection at all. 19
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments to the SGIP Scoping
+Memo on EV/EVSE eligibility. We look forward to further collaboration with the Commission
+and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: October 23, 2020
+19 See, for example, CEC-backed Nuvve INVENT Project on the UC San Diego Microgrid, and Comments of
+Fermata LLC on the Assigned Commissioner’s Scoping Memo and Ruling.
+11

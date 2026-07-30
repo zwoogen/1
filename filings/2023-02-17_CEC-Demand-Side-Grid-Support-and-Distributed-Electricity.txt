@@ -1,0 +1,214 @@
+February 17, 2023
+Email to: docket@energy.ca.gov
+Docket Number: 22-RENEW-01
+Subject: Lead Commissioner Workshop on Demand Side Grid Support Program and Distributed
+Electricity Backup Assets Program
+Re: Comments of the Vehicle Grid Integration Council on Demand Side Grid
+Support and Distributed Electricity Backup Assets Program Workshop
+Dear Sir or Madam:
+The Vehicle Grid Integration Council (“VGIC”) appreciates the opportunity to comment on
+the Lead Commissioner Workshop on the Demand Side Grid Support (“DSGS”) Program and
+Distributed Electricity Backup Assets (“DEBA”) Program Workshop (“Workshop”) held on January
+27, 2023. VGIC commends the California Energy Commission (“CEC”) for its efforts to bolster
+grid reliability in the face of increased risk of extreme weather events.
+I. INTRODUCTION AND SUMMARY.
+The Vehicle Grid Integration Council is a 501(c)(6) membership-based trade association
+representing over 30 companies focused on accelerating the role of smart electric vehicle (“EV”)
+charging and discharging through policy development, education, outreach, and research. VGIC
+supports the transition to a decarbonized transportation and electric sector by ensuring the value
+from EV deployments and flexible EV charging and discharging is recognized and compensated in
+support of a more reliable, affordable, and efficient electric grid.
+VGIC strongly believes the DEBA and DSGS programs are needed to unlock real-world
+load reductions and exports that will meaningfully support grid reliability. To accomplish these
+goals, each program must fill key gaps in policy and funding support. With this in mind, VGIC
+offers the below overarching recommendations to the CEC:
+ DEBA program should transition toward a $1,000/kW incentive program rather than
+using a Grant Funding Opportunity (“GFO”) approach to project selection and fund
+distribution.
+ DEBA eligibility should include both bidirectional EV chargers and storage-backed
+managed charging.
+ DSGS aggregators should be able to enroll directly in the program rather than going
+through a load-serving entity (“LSE”).
+
+February 17, 2023
+Page 2 of 6
+ CEC should establish a pathway to participating in DSGS using both EV charger
+submetering and onboard vehicle telematics.
+ DSGS Option 3 should include an out-of-market participation pathway that eliminates
+baselining.
+II. DEBA PROGRAM SHOULD TRANSITION TOWARD A $1,000/KW INCENTIVE
+PROGRAM RATHER THAN USING A GRANT FUNDING OPPORTUNITY
+(“GFO”) APPROACH TO PROJECT SELECTION AND FUND DISTRIBUTION.
+Despite the rapid expansion of available products and the potential grid capacity that could
+be unlocked by EVs, the deployment of bidirectional charging equipment, storage-backed managed
+charging configurations, and other VGI solutions remain nascent due partially to the higher upfront
+installation costs relative to non-VGI charging solutions. Because these solutions are new, they do
+not fall neatly into existing incentive programs for EV chargers or energy storage. This presents a
+clear policy gap and bottleneck for the bidirectional charging market. VGIC understands the CEC’s
+intent to quickly distribute an initial round of funding to DERs and acknowledges that a GFO offers
+an existing framework that is relatively easy to implement for the CEC and its staff. However, VGIC
+believes the DEBA program would be far more effective if structured as a standard incentive
+program offering that maximizes transparency and certainty for participants while minimizing their
+administrative burden.
+The CEC should offer a transparent $1,000/kW incentive to support constructing these
+critical distributed grid resources. This would send a clear market signal to vehicle and charger
+manufacturers that have not yet begun offering bidirectional charging and other VGI products to do
+so, thereby expanding customer choice and placing downward pressure on the future costs of this
+equipment. While cost data for the purchase and installation of today’s bidirectional charging
+equipment is limited, VGIC reiterates its recommendation for a flat $1,000/kW bidirectional and
+storage-backed charging equipment incentive to unlock new gigawatt-scale distributed energy
+storage capacity that will be embedded in California’s on-road EVs in the coming years. The CEC
+should establish a MW goal for the deployment of bidirectional charging infrastructure. If
+deployments do not track the goal, incentives could be adjusted to provide the necessary level of
+investment in bidirectional charging infrastructure.
+To reduce administrative burden, VGIC recommends the flat $1,000/kW incentive be made
+available on a rolling basis to aggregators for aggregations greater than 25 kW, rather than to
+individual projects.1 Additionally, the incentive should accommodate the addition of customers that
+enter the aggregation later. Furthermore, the minimum aggregation size should be 25 kW, to align
+with the Emergency Load Reduction Program’s (“ELRP”) Vehicle Grid Integration (“VGI”)
+Aggregation Pilot. This alignment is important, given that VGIC anticipates many customers that
+receive DEBA funds will participate in ELRP to provide emergency capacity.
+1 The 25 kW minimum aggregation size aligns with the Emergency Load Reduction Program’s VGI Pilot.
+
+February 17, 2023
+Page 3 of 6
+Given the lack of interoperability today between EVs and bidirectional charging stations, an
+incentive for a bidirectional charging station may not guarantee pairing with a bidirectionally
+capable EV and, thus, the inability to provide on-call emergency grid services. The recipient of the
+incentive should be required to attest that they will pair the bidirectional charging station with
+compatible V2X-enabled EVs and participate in one ELRP, DSGS, or another program deemed
+eligible for DEBA incentives. Note, this does not preclude other requirements that bidirectional
+charging stations are standards-ready (e.g., ISO 15118-20) to be prepared for the future with more
+robust V2X interoperability in the not-too-distant future.
+Lastly, VGIC notes that bidirectional chargers and associated equipment, like automated
+transfer switches and meter-socket-based devices, could be used to safely island a customer’s load
+from the grid to establish a microgrid. The creation of this microgrid could in turn support the grid
+during extreme heat events or other tight reliability conditions by reducing load on the grid.
+Therefore, in addition to V2G export solutions, these islanding configurations should also be eligible
+for the simple $1,000/kW incentive.
+III. DEBA ELIGIBILITY SHOULD INCLUDE BOTH BIDIRECTIONAL EV
+CHARGING AND STORAGE-BACKED MANAGED CHARGING EQUIPMENT.
+VGIC appreciates the CEC’s inclusion of VGI resources in its proposed DEBA eligibility.
+However, VGIC encourages the CEC to also consider the attributes of storage-backed managed
+charging. Storage-backed managed charging utilizes stationary energy storage co-located or
+integrated with an EV charger to buffer charging sessions and flatten a site’s peak load. This
+approach is currently in use at public Direct Current Fast Charger (“DCFC”) sites as well as fleet
+depots which otherwise may have had limited ability to reduce peak demand given the expectations
+of those drivers and fleets. While public DCFC is not typically considered a candidate use case for
+managed charging, utilizing a co-located or integrated stationary energy storage system can
+transform these sites into more flexible load management assets. Moreover, this storage-backed
+configuration can also support charger reliability and uptime by providing backup power during grid
+outages. Lastly, these sites can significantly reduce costs for grid upgrades in some cases, for
+example by deferring or avoiding transformer and other secondary distribution system upgrades,
+which in turn helps protect utility ratepayers from the rising costs of transportation electrification
+related utility infrastructure. Example commercial implementations of this configuration include
+recent installations from Electrify America2 and FreeWire Technologies3.
+Despite these many benefits, this configuration is not currently promoted or incentivized
+through CEC or utility programs and is under-deployed in California. VGIC believes adoption has
+been hampered due to the lack of promotion or incentive to elect these options, despite their apparent
+benefits. Namely, utility-side infrastructure upgrade costs are typically socialized to all ratepayers,
+leaving no reason for customers to choose these systems that can reduce system cost, help manage
+load, provide benefits such as site backup power, and alleviate congestion in backlogged utility
+2 See https://media.electrifyamerica.com/en-us/releases/199
+3 See https://insideevs.com/news/613621/chevron-texaco-stations-freewire-chargers/
+
+February 17, 2023
+Page 4 of 6
+service connection queues. VGIC believes that DEBA is an appropriate program to address this gap
+and recommends that storage-backed managed charging (“V1G”)be eligible to receive the same
+DEBA incentive open to V2B and V2G charging equipment, given its similar costs, use cases, and
+customers.
+IV. DSGS AGGREGATORS SHOULD BE ABLE TO ENROLL DIRECTLY IN THE
+PROGRAM RATHER THAN GOING THROUGH A LOAD-SERVING ENTITY
+(“LSE”).
+During the January 27th Workshop, CEC staff shared a proposal to allow third-party
+aggregators to enroll directly with the DSGS Program Administrator (either the CEC or another
+PA). VGIC strongly supports this approach and believes DSGS aggregators can be instrumental in
+maximizing the load reductions and DER exports unlocked through the program. Like ELRP or
+other DER aggregator programs around the country, DSGs aggregators would be responsible for
+enrolling customers and dispatching resources in response to an event or price signal.
+Critically, DSGS is a taxpayer-funded CEC program, not a ratepayer-funded LSE program.
+As such, VGIC strongly recommends the program be administered on a statewide basis, such that
+DSGS Aggregators can enroll directly in the program rather than going through a LSE. One risk of
+leaving it up to the LSE to offer DSGS is that publicly-owned utilities and other LSEs may be too
+busy with their own internal goals and mandates to take on the additional workload required to offer
+DSGS to their customers. Notably, CEC uses a statewide approach with third-party Program
+Administrators for many other impactful programs, including CALeVIP and EnergIIZE. This
+approach could also facilitate inter-territory aggregation, which could provide additional flexibility
+and, in turn, further bolster reliability.
+V. CEC SHOULD ESTABLISH A PATHWAY TO PARTICIPATING IN DSGS USING
+BOTH EV CHARGER SUBMETERING AND ONBOARD VEHICLE
+TELEMATICS.
+While bidirectional charging holds great promise as a grid resource, VGIC urges the CEC to
+consider the “low-hanging fruit” of unlocking greater load shift participation from EVs. VGIC
+estimates another 250,000 EVs will be sold in the state by summer 2023, on top of the 1 million
+already on California’s roads.4 Assuming an average charging load of only 5 kW per vehicle, this
+represents a total technical potential of 6,250 MW in instantaneous load that could theoretically be
+reduced via V1G. Obviously, the practical potential is only a small fraction of that since not all of
+those devices will be charging during the critical net peak load hours of 6-9pm, and not all EV
+owners will choose to participate in V1G activities. However, VGIC estimates that even under a
+more reasonable participation rate of 5%, approximately 312 MW of net peak load reduction from
+V1G might be achievable by the end of summer 2023.
+4 CEC ZEV Sales Dashboard.
+
+February 17, 2023
+Page 5 of 6
+Historically, customers with certain smart chargers have been able to participate in
+California’s limited portfolio of smart charging pilots and programs. In December 2021, the
+California Public Utilities Commission (“CPUC”) adopted Decision (“D.”) 21-12-015, which
+established the EV/VGI Aggregation subgroup within the ELRP and, critically, detailed EVSE
+submetering as an acceptable pathway to measure Incremental Load Reductions (“ILR”). In August
+2022, the CPUC issued D.22-08-024 adopting an EVSE Submetering Protocol following nearly a
+decade of testing and developing a robust record on the matter. This landmark decision establishes
+standards for EVSE submetering data accuracy and testing to enable the widespread use of EVSE
+submeters for billing purposes among California’s investor-owned utilities. With this in mind, VGIC
+strongly recommends that the CEC follow suit by enabling customers to participate in DSGS using
+EVSE submeters.
+Meanwhile, the underlying tech needed to facilitate even greater participation in load shift
+programs and rates is embedded in most EVs themselves via the onboard vehicle telematics
+capabilities. Telematics-based pilots are increasing in number, for example, Sacramento Municipal
+Utility District’s (“SMUD”) recently announced BMW/Ford/GM pilot, PG&E’s evPulse program,
+and PG&E’s BMW ChargeForward pilot. However, the largest VGI pilot, ELRP, remains closed to
+telematics-based load management, and no mass-market (i.e., non-pilot) VGI program utilizing
+vehicle telematics have been proposed or established in California. By unlocking both smart
+chargers and vehicle telematics participation pathways for DSGS, the CEC can address a critical
+“missing link” in its load reduction capabilities.
+VI. DSGS OPTION 3 SHOULD INCLUDE AN OUT-OF-MARKET PARTICIPATION
+PATHWAY THAT ELIMINATES BASELINING.
+VGIC strongly supports the inclusion of DSGS’s Option 3 payment option, which provides
+capacity payments for committed DSGS capacity. However, the CEC’s current DSGS guidelines
+require resources in Option 3 to enroll in the CAISO market as a Proxy Demand Response
+(“PDR”) resource. As other parties have highlighted, such as the California Solar and Storage
+Association ("CALSSA"), PDR does not compensate resources for any exported energy.5
+Additionally, the logistics of enrolling in the wholesale market, such as the share-my-data process,
+have also posed barriers, as highlighted by Sunrun and Leap. 6 VGIC believes that the CEC can
+bolster participation in DSGS by including an out-of-market participation pathway for Option 3,
+with dispatch triggers being based on wholesale market prices without the need for market
+enrollment.
+5 CALSSA DEBA DSGS program design proposal submitted on January 20, 2023 in CEC Docket No. 22-RENEW-01
+at 1.
+6 Sunrun and Leap Proposal - DER Program Design submitted on January 26, 2023 in in CEC Docket No. 22-RENEW-
+01 at 3.
+
+February 17, 2023
+Page 6 of 6
+VGIC also agrees with CALSSA’s proposal to eliminate baselining for these resources,
+which will help to streamline program compensation and administration.7 As highlighted by the
+CEC at the Workshop, payments to customers for 2022 DSGS events have yet to occur, and
+removing the complexities surrounding baselining would likely help to streamline program
+administration and payment. Lastly, the omission of baselines removes perverse incentives to not
+dispatch resources on non-event days in order to create an optimal baseline.8
+VII. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the workshop and looks
+forward to collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle Grid Integration Council
+Zach Woogen
+Senior Policy Manager
+Vehicle Grid Integration Council
+7 CALSSA DEBA DSGS program design proposal submitted on January 20, 2023 in CEC Docket No. 22-RENEW-01
+at 8-9.
+8 Ibid.

@@ -1,0 +1,722 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+RESPONSE OF THE VEHICLE-GRID INTEGRATION COUNCIL TO PACIFIC GAS
+AND ELECTRIC’S PETITION FOR MODIFICATION OF D. 21-11-017
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+(279) 895-7855
+vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+(818) 264-6437
+grace@caliberstrat.com
+March 7, 2025
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL TO PACIFIC GAS
+AND ELECTRIC’S PETITION FOR MODIFICATION OF D. 21-11-017
+Pursuant to Rule 16.4(f) of the Rules of Practice and Procedure of the California Public
+Utilities Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) responds
+to Pacific Gas and Electric’s (“PG&E”) Petition for Modification of D.21-11-017, filed on
+February 5, 2025.
+I. INTRODUCTION.
+VGIC is disappointed by PG&E’s Petition for Modification (“PFM”) to terminate
+implementation efforts of its Day-Ahead Hourly Real-Time Pricing Business Electric Vehicle
+(“DAHRTP-BEV”) rate and associated export compensation pilot for non-Net Energy Metering
+(“NEM”) customers. In its below response, VGIC details an alternative path forward in recognition
+of the concerns raised by PG&E and the present landscape of dynamic and export rate
+opportunities available to commercial electric vehicle (“EV”) charging customers that aim to
+support the grid and lower their total cost of ownership.
+The final DAHRTP-BEV rate represents groundbreaking progress in the landscape of real-
+time pricing (“RTP”) rates and commercial electric vehicle (“EV”) managed charging. DAHRTP-
+BEV was approved not as merely another pilot, as initially proposed by PG&E. Instead, the
+Commission unanimously and decisively directed PG&E to implement DAHRTP-BEV as a full-
+2
+
+scale optional real-time pricing (“RTP”) rate, the first of its kind in the nation. When approved,
+D.21-11-017 and the associated D.22-10-024 sent a powerful, unwavering signal to customers and
+solution providers seeking opportunities to manage commercial EV charging load and implement
+vehicle-to-grid (“V2G”) export: California is committed to unlocking the benefits of this
+technology. Acting on this regulatory certainty and finality, commercial EV charging site hosts,
+EV fleets, project developers and financing entities, and technology providers mobilized in
+preparation for the anticipated October 2023 launch of DAHRTP-BEV and the associated non-
+NEM export pilot. In the months and years that followed, PG&E unexpectedly delayed
+implementation first by six months, then by a year, and then by two years, and has now filed the
+PFM to request approval to terminate implementation efforts entirely. Meanwhile, California
+ratepayers are in dire need of cost relief and the grid demands new sources of low-cost load
+flexibility to support reliability during emergencies. With a majority of EV charging use cases
+characterized by long dwell times that bring inherent load flexibility and the potential for power
+export, VGIC views ending DAHRTP-BEV and the associated export pilot before it begins as a
+significant misalignment between the needs of California ratepayers and the opportunity presented
+by the fast growing network of connected, flexible commercial EV charging sites. DAHRTP-BEV
+exists within an increasingly small set of strategies that customers and EV service providers
+(“EVSP”) can use in California to unlock net peak load reductions and alleviate distribution system
+constraints, and, in turn, mitigate further upward pressure on rates.
+Approving the PFM as filed would eliminate the benefits of DAHRTP-BEV and the
+associated export pilot without parties having had the chance to collect evidence to understand the
+scale of these benefits. Furthermore, approving the PFM would also severely undermine the
+3
+
+regulatory certainty typically broadcast from Commission decisions and inhibit market
+development for emerging solutions that can yield substantial net benefit for California ratepayers.
+With this in mind, VGIC acknowledges that several of the implementation challenges
+PG&E cites in its PFM do present barriers to launching DAHRTP-BEV and the associated export
+pilot as envisioned. In its below response, VGIC offers a reasonable, no-regrets path forward that
+we believe achieves a compromise between PG&E’s cited concerns over implementing DAHRTP-
+BEV as directed, the existing ratepayer cost pressures top of mind for customers, the Public
+Advocate’s Office, and the Commission, and the imperative to support the growth of a robust, self-
+sustaining managed and integrated EV charging market that yields net benefits for all parties
+involved. Specifically, VGIC offers the following comments in response to PG&E’s PFM:
+• The Commission should deny the PFM as filed because the requested relief is
+insufficiently supported by the record in the proceeding or other matters officially
+noticed.
+o The PFM erroneously asserts Commission direction on RTP rates.
+o The PFM would result in discriminatory treatment toward certain customers.
+o The PFM contains unsupported claims regarding the prioritization of billing
+system updates.
+o The PFM violates Commission Rules by seeking to modify two Commission
+decisions through a single PFM.
+o The PFM misrepresents the state of PG&E’s Vehicle-Grid Integration (“VGI”)
+Pilots.
+o The PFM misrepresents BEV Parties’ positions.
+• The Commission should deny the PFM as filed because the requested relief undermines
+the Commission’s objectives and principles and would materially harm PG&E
+ratepayers.
+o The PFM would materially harm customers and solution providers working to
+unlock load flexibility and exports to support California’s grid.
+o The Commission has staked the future of load flexibility and distributed exports
+on a single strategy, CalFUSE, for which available data suggests there is little
+customer and vendor interest and limited load shift results.
+4
+
+o Over-relying on a single approach is at odds with established energy planning
+principles of resource diversity and supplier diversity, strategies intended to
+mitigate risk.
+o Approving the PFM would send a strong signal that regulated utilities can
+successfully delay and then terminate implementation efforts for Commission
+orders they do not wish to comply with.
+• VGIC proposes Alternative Proposed Modifications for the Commission’s consideration.
+o The Commission should direct PG&E to leverage its already completed work on
+dynamic distribution components to promote compliance with the California
+Energy Commission’s Load Management Standard.
+o The Commission should direct PG&E to enable shadow billing for initial
+DAHRTP-BEV implementation.
+o The Commission should authorize budget transfer within the already approved
+DAHRTP-BEV funds to support the Alternative Proposed Modifications.
+II. THE COMMISSION SHOULD DENY THE PFM AS FILED BECAUSE THE
+REQUESTED RELIEF IS INSUFFICIENTLY SUPPORTED BY THE
+RECORD IN THE PROCEEDING OR OTHER MATTERS OFFICIALLY
+NOTICED.
+a. The PFM erroneously asserts Commission direction on RTP rates.
+In the PFM, PG&E asserts that “the rate structure authorized in D.21-11-017
+has become outdated in that it does not meet the current guidance in the Energy
+Division CalFUSE guidance framework (CalFUSE or CalFUSE framework)…”1
+VGIC disagrees that this offers support for the requested relief as the Energy Division’s
+CalFUSE framework is not equivalent to Commission direction. Notably, the
+Commission has not directed PG&E to adopt the CalFUSE framework for business EV
+(“BEV”) customers. In fact, the only Commission guidance on this matter is found in
+D.24-01-032, in which the Commission denies PG&E’s request to implement the
+CalFUSE framework for BEV customers, an occurrence detailed by PG&E in the
+1 PFM at 2.
+5
+
+PFM.2 VGIC believes the PFM conflates Energy Division guidance with Commission
+direction and, as a result, the Commission should disregard the use of the CalFUSE
+framework’s existence as evidence to support the PFM’s request.
+b. The PFM would result in discriminatory treatment toward certain customers.
+The PFM critically fails to consider the impacts that terminating DAHRTP-
+BEV implementation and the associated non-NEM export pilot would have on certain
+BEV customers. While PG&E notes that both bidirectional and unidirectional charging
+BEV customers are currently eligible to participate in PG&E’s VGI RTP rate
+implemented through its vehicle-to-everything (“V2X”) Pilots, these pilots have
+several restrictions that differentiate the opportunity from DAHRTP-BEV and the
+associated non-NEM export pilot. First, the V2X Pilots are operating under budget
+limitations, including for program administration and equipment rebates, which will
+likely mean the V2X Pilot will, at some point, come to an end. Specifically, PG&E’s
+website notes there are only incentives remaining for 126 chargers.3 Second, PG&E’s
+V2X Pilots restricts the customer pool by imposing an additional requirement for
+customers: they must participate through a PG&E-approved Automated Service
+Provider (“ASP”). In contrast, DAHRTP-BEV does not require enrollment through a
+PG&E-approved ASP. Third, for bidirectional charging customers, only customers
+with equipment listed on the “Eligible Product List for the V2X Commercial Pilot”
+may participate in the V2X Pilot. PG&E’s website notes there are only three eligible
+vehicles and four eligible chargers for the V2X Commercial Pilot.4 Meanwhile, VGIC
+2 PFM at 13-14.
+3 PG&E. Vehicle-to-Everything (V2X) pilot program. https://www.pge.com/en/clean-energy/electric-
+vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-v2x-pilot-programs.html. (Accessed March 7,
+2025).
+4 Ibid.
+6
+
+notes that all school buses sold in California under the California Air Resources
+Board’s (“CARB”) Hybrid and Zero-Emission Truck and Bus Voucher Incentive
+Project (“HVIP”) or Zero-Emission School Bus and Infrastructure (“ZESBI”)
+programs must be capable of bidirectional charging.5 As for available chargers, VGIC
+notes that other manufacturers, including Fermata Energy, InCharge, Heliox, Ford
+Motor Company, GM Energy, Tesla, dcbel, and Wallbox offer bidirectional capable
+charging equipment that can interconnect under Rule 21 or via non-Rule 21 temporary
+interconnection pilots.6 While some of these chargers are currently marketed toward
+residential customers, VGIC anticipates a share of residential chargers may soon be
+used to support light-duty fleet V2G.
+These three restrictions results in discriminatory treatment toward BEV
+customers that do not wish to participate in the VGI RTP over concerns that the pilot
+may soon exhaust authorized funds or the inability to procure equipment eligible for
+the V2X Pilots. VGIC recommends the Commission consider the impacts the PFM
+would have on these customers.
+c. The PFM contains unsupported claims regarding the prioritization of billing
+system updates.
+The PFM details that one of the three developments that have taken place since
+the Commission approved the DAHRTP-BEV rate as follows:
+“delays in PG&E’s billing system upgrade are preventing PG&E from
+implementing DAHRTP BEV in the new Billing Cloud Service (BCS)
+system when it launches, without causing further delays in the
+5 See CARB. Implementation Manual for the Hybrid and Zero-Emission Truck and Bus Voucher Incentive Project.
+https://californiahvip.org/wp-content/uploads/2024/10/FY23-24-HVIP-Implementation-Manual-103124.pdf.
+October 31, 2024; CARB Implementation Manual Appendix G: Zero Emission School Bus & Infrastructure
+Incentives. https://californiahvip.org/wp-content/uploads/2024/04/Final-FY23-24-ZESBI-Implementation-
+Manual.pdf. April 30, 2024.
+6 A.24-03-019. Direct Testimony of Zach Woogen on Behalf of the Vehicle-Grid Integration Council. January 8.
+2025. Pages 6-10. https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7930/553184229.pdf
+7
+
+implementation of other rates that the Commission has approved that
+PG&E believes are of higher priority than DAHRTP BEV.”7
+Furthermore, the Deceleration of Emily Bartman notes that the Net Billing Tariff
+(NBT) and the Residential Income Graduated Fixed Charge “have a much greater
+potential to impact affordability, as NBT will reduce cost-shift and the residential fixed
+charge will reduce bills for low income customers.”8 The Declaration
+includes a referencing detailing that NBT implementation should occur by June 2024
+and Residential Fixed Charges should be implemented by March 31, 2026. These dates
+were determined by Decisions authorized in December 2022 and May 2024,
+respectively. In contrast, DAHRTP-BEV implementation was authorized in November
+2021 and slated for October 2023 launch. This timeline predates both NBT and
+Residential Fixed Charges decisions and target implementation dates.
+The existing timelines suggest a “first come, first serve” approach that would
+position DAHRTP-BEV for timelier implementation. Given the Commission has not
+issued direction detailing the relative prioritization of these initiatives, PG&E’s
+argument based on its internal assessment on the relative importance of these initiatives
+should be disregarded as support for the PFM.
+With that in mind, VGIC strongly urges the Commission to adopt a
+prioritization to guide PG&E’s initiatives, which may be a “first come, first serve”
+approach, or may be based on analysis of potential ratepayer benefit, ability to achieve
+state goals, or other Commission objectives.
+7 PFM at 1.
+8 Declaration of Emily Bartman at 3.
+8
+
+d. The PFM violates Commission Rules by seeking to modify two Commission
+decisions through a single PFM.
+Through the PFM, PG&E petitions to modify not only D.21-11-017, but also
+notes the following:
+“Because the non-NEM export compensation pilot authorized by D.22-
+10-024 is dependent on the underlying DAHRTP BEV rate authorized
+by D.21-11-017, eliminating the DAHRTP BEV rate would also moot
+the non-NEM export pilot.”9
+VGIC appreciates PG&E’s acknowledgement that modification of D.21-11-017 would
+materially impact the Commission direction adopted in D.22-10-024, making the latter
+“moot.” Section VIII of the PFM reiterates that “With the elimination of DAHRTP
+BEV as an optional rate, the export compensation pilot authorized by D.22-10-024
+would become moot and could not be implemented, as that pilot depends on the
+DAHRTP BEV rate.”10 Notably, Commission Rule 16.4(a) details that “A petition for
+modification asks the Commission to make changes to an issued decision” (emphasis
+added).11 PG&E does not cite authorities or precedent to support its request to modify
+two Commission decisions, one explicitly and one implicitly, through a single PFM.
+The Commission should make an appropriate determination on the PFM considering
+this potential violation of Commission Rule 16.4(a).
+Additionally, since D.22-10-024 was issued in October 2022 and the PFM was
+filed on February 5, 2025, PG&E has failed to comply with Rule 16.4(d). Although
+9 PFM at 3.
+10 PFM at 26.
+11 CPUC Rules of Practice and Procedure. Rule 16.4(a). https://www.cpuc.ca.gov/-/media/cpuc-
+website/divisions/administrative-law-judge-division/documents/rules-of-practice-and-procedure-may-2021.pdf
+9
+
+PG&E offers justification for filing the PFM more than one year after the effective date
+of D.21-11-017, it does not provide this justification in reference to D.22-10-024.
+e. The PFM misrepresents the state of PG&E’s Vehicle-Grid Integration (“VGI”)
+Pilots.
+PG&E argues that Phase 2 of the VGI Pilots offers an adequate near-term
+alternative to DAHRTP-BEV implementation for both unidirectional and bidirectional
+charging customers. However, as detailed above in section II.b., the PFM critically fails
+to note that the V2X Pilots are operating under budget limitations, including for
+program administration and equipment rebates, which will likely mean the V2X Pilot
+will, at some point soon, come to an end. Specifically, PG&E’s website notes there are
+only incentives remaining for 126 chargers.12 Given the mounting ratepayer
+affordability crisis (i.e., 47% residential electricity rate increase from 2019 through
+202313) and Executive Order N-5-24 on the rate crisis,14 directing the Commission to
+do everything in its power to address it, VGIC acknowledges and accepts the high
+likelihood that PG&E’s V2X Pilots will not receive additional funding beyond what
+has already been authorized. With this in mind, while the V2X Pilots provide an
+existing pathway for BEV customer participation in RTP, VGIC believes PG&E has
+misrepresented the reliability and sustainability of this interim solution and, as such,
+the argument that V2X Pilots provides an adequate alternative for DAHRTP-BEV
+should be disregarded by the Commission.
+12 PG&E. Vehicle-to-Everything (V2X) pilot program. https://www.pge.com/en/clean-energy/electric-
+vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-v2x-pilot-programs.html. (Accessed March 7,
+2025).
+13 Legislative Analyst’s Office. Assessing California’s Climate Policies – Residential Electricity Rates in California.
+January 7, 2025. https://lao.ca.gov/Publications/Report/4950
+14 Governor Gavin Newsom. Executive Order N-5-24. October 30, 2024. https://www.gov.ca.gov/wp-
+content/uploads/2024/10/energy-EO-10-30-24.pdf
+10
+
+f. The PFM misrepresents BEV Parties’ positions.
+VGIC commends PG&E and the other BEV parties for the consistently
+constructive and good faith collaboration that has underpinned D.21-11-017, D.22-10-
+024, and the proactive engagement since Q4 2023 as detailed in Declaration of Oriana
+Tell. All relevant parties have engaged in creative problem solving and sought
+customer-centric solutions in the face of ever-changing dynamics and challenges. That
+said, to ensure a factually correct record, VGIC notes that PG&E’s claim that “The
+BEV parties, however, reserved their positions,” in reference to the required relief
+discussed in 2024.15 VGIC shared its position on the potential PFM relief request in a
+detailed response circulated to BEV parties on October 17, 2024. The position
+document is included as Attachment B at the bottom of this response.
+III. THE COMMISSION SHOULD DENY THE PFM AS FILED BECAUSE THE
+REQUESTED RELIEF UNDERMINES THE COMMISSION’S OBJECTIVES
+AND PRINCIPLES AND WOULD MATERIALLY HARM PG&E
+RATEPAYERS.
+a. The PFM would materially harm customers and solution providers working
+to unlock load flexibility and exports to support California’s grid.
+Approving the PFM as filed would limit opportunities for prospective
+customers to the VGI RTP rate implemented through PG&E’s V2X Pilot. As detailed
+above in section II.b., this restricts the customer pool by imposing an additional
+requirement for customers that do not wish to participate through a PG&E-approved
+ASP. Additionally, for bidirectional charging customers, only customers with
+equipment listed on the “Eligible Product List for the V2X Commercial Pilot” may
+participate in the V2X Pilot, despite the availability of several additional vehicles and
+chargers that are currently capable of offering bidirectional charging services.
+15 PFM at 12. See also Declaration of Oriana Tiell, paragraph 13.
+11
+
+Additionally, as detailed immediately below, the PFM would effectively limit
+opportunities for dynamic load flexibility and V2G export to the CalFUSE framework,
+which faces critical headwinds including (1) the fundamental rate design and (2) the
+immense education gap for both solution providers and customers.
+b. The Commission has staked the future of load flexibility and distributed
+exports on a single strategy, CalFUSE, for which available data suggests there
+is little customer and vendor interest and limited load shift results.
+To be clear, VGIC supports the CalFUSE framework. It offers a hybrid
+dynamic pricing and demand response approach that has the potential to unlock load
+flexibility from certain customers and technologies. However, VGIC is concerned over
+the Commission’s overreliance on the CalFUSE framework as the only strategy for
+unlocking load flexibility and V2G exports. VGIC notes two anecdotal data points that
+challenge CalFUSE’s ability to reach all available customers interested in providing
+demand flexibility and/or V2G exports, and we cite two other data points that further
+highlights the design challenges inherent to the current CalFUSE framework.
+First, the presence of the subscription component severely mutes the volatility of
+the real-time grid conditions, which fundamentally challenges the prospect of
+responding to real-time grid conditions. In practice, the subscription component,
+“frontloads” much of the value of participation into the first year of participation,
+especially for new V2G customers that are demonstrating combined load reduction and
+exports that far exceed the average EV customer baseline that would be applied. In the
+following years, the opportunity to save money is much smaller due to the presence of
+the baseline. In contrast, the DAHRTP BEV approach provides consistent opportunities
+to optimize charging and, for non-NEM export pilot participants, discharging around
+real-time grid conditions.
+12
+
+Second, the CalFUSE framework, in large part due to the subscription component
+and its scaling factors, presents an education gap for third-party providers and
+customers alike. VGIC makes no assertions that CalFUSE is too complex for all
+customers and vendors to understand, and we believe such an assertion would be
+paternalistic and would underestimate the intelligence of these individuals. However,
+we are concerned that the pace of the customer journey and the limited amount of time
+customers spend thinking about electricity is fundamentally at odds with the lengthy,
+complicated explanations required to explain the CalFUSE framework, including the
+exceptionally complex subscription component and its scaling factors.
+VGIC notes that PG&E’s VGI RTP has 65 customers (SAIDs) enrolled as of
+December 1, 2024.16 PG&E does not disclose what share of these customers are
+residential or BEV, nor do they disclose what share are bidirectional (and receiving
+additional rebates to participate through the V2X Pilot upfront rebates) or
+unidirectional. If we were to assume all 65 VGI RTP customers are BEV customers,
+and consider that PG&E has 937 total BEV customers, the enrollment rate is just under
+7%. Considering very few commercial EV charging stations are non-networked, and
+that customers “can’t lose” due to the V2X Pilots offering only credits for performance
+and no penalties if customers perform worse than the OAT, VGIC believes this
+enrollment rate is very far below its potential.
+Additionally, VGIC notes that initial data from Southern California Edison’s
+(“SCE”) CalFUSE Dynamic Rate Pilot, the only CalFUSE implementation open to EV
+customers that has completed robust evaluation, indicate that the structure has yet to
+16 Declaration of Oriana Tiell at paragraph 14.
+13
+
+create significant load shifting. SCE’s recent final evaluation report notes that in the
+pilot, “the majority of the customers (14 out of 22) did not show evidence of a lower
+peak usage share,” and any peak load reduction that was achieved was likely due to
+external factors.17 This is very likely in part due to the subscription charges, which
+limits customers’ exposure to the real-time prices. For customers that already have
+relatively low energy consumption baselines, there weren’t many opportunities to
+capture meaningful bill savings. During high priced hours and days, customers did not
+face high real-time prices unless they consumed more than their subscription amount.
+Taken together, this evidence suggests that the CalFUSE framework, though
+promising, is not well suited for all customers as it can fall apart due to a lack of
+education opportunities, the limited value due to the subscription component, and the
+apparent limits on resulting load shift, as suggested in the third-party analysis
+conducted on SCE’s Dynamic Rate Pilot. DAHRTP BEV provides a meaningful
+alternative to CalFUSE and allows customers, PG&E, and all stakeholders to learn
+about how customers respond to more exposure to RTP signals. By being exposed to
+more meaningful price signals, DAHRTP customers will be further incentivized to shift
+their load and export to lower priced hours or days, and VGIC anticipates that more
+significant load shifting and power export is likely under this structure. This is
+especially true for commercial BEV customers that face very high electricity costs for
+their EV charging, as these customers are more likely to be working with third party
+solution providers, which may include PG&E-approved ASPs but may include other
+sophisticated algorithm-based technologies, that are working to optimize BEV
+17 SCE. Final Evaluation Report for Southern California Edison’s Dynamic Rate Pilot. Circulated February 28,
+2025 to service lists of R.20-11-003 and R.22-07-005.
+14
+
+charging using software tools. If these customers are able to better capture bill savings
+and avoid high prices, they will be more inclined to take that option.
+It is also important that the Commission pursue a wide variety of load shifting
+strategies for EVs at this time because charging needs are so diverse, especially for
+non-residential customers. These customers will have very different power needs for
+their EVSE, from less than 50 kW to over 1,000 kW, and different charging schedules,
+with some vehicle remaining parked for significant amounts of time while others need
+fast charging to be able to continue driving along a route. Given the considerable
+diversity of charging needs across consumers, it will be most beneficial for customers
+to be given a wide range of charging schedules, rates, and tools to manage charging to
+find what best fits their specific needs and internal cost-benefit calculations. Offering
+a variety of options can enhance public acceptability and feasibility by tailoring
+approaches to the diverse needs of customers and stakeholders. DAHRTP is an
+important option to pursue as part of that flexibility.
+c. Over-relying on a single approach is at odds with established energy planning
+principles of resource diversity and supplier diversity, strategies intended to
+mitigate risk.
+Offering both CalFUSE and DAHRTP BEV options to customers is consistent
+with California’s well-established approach to resource diversity and supplier diversity.
+Just as the Commission orders and authorizes the utilities to construct or contract with
+a range of centralized electric generation resources, including onshore and offshore
+wind, utility-scale solar, and utility-scale energy storage, the Commission must
+promote resource diversity in its distributed energy resources. Similarly, just as utilities
+rely on a range of suppliers for its service vehicles, equipment, and technology
+15
+
+providers, utilities must promote supplier diversity as it sources demand side flexibility
+and distributed energy resource exports. These diversification strategies mitigate risk
+and, especially in a challenging business environment for startups and emerging
+technologies, provides protections against any individual actors exercising market
+power and resilience against solution providers going out of business, leaving behind
+stranded assets.
+Additionally, the over-reliance on CalFUSE carries a risk of “path dependence”
+– the influence of past decisions on future outcomes, hindering the implementation of
+alternative solutions. In the case of VGI customers, VGIC is concerned that relying too
+heavily on a single dynamic rate approach for all customers, as PG&E implies in its
+PFM to be the CalFUSE framework, would lock in a specific future that may not, in
+fact, be in the best interest of ratepayers. Notably, Cal Advocates has published findings
+suggesting that optimized VGI implementation can reduce electrification-driven
+distribution system costs from the Commission’s estimated $50 billion through 2035
+down to $22.7 billion.18 Given the magnitude of these numbers, the stakes are
+incredibly high, especially for low-income and other vulnerable California ratepayers
+already feeling an outsized energy cost burden. However, to achieve the reductions
+modeled by Cal Advocates, IOUs will need to engage EV customers at a significant
+enough scale for these optimized load shapes to have a beneficial impact on the total
+required distribution system upgrades. VGIC is concerned that pursuing only the
+CalFUSE framework, risks a gamble with path dependence, wherein PG&E would be
+18 See CPUC Electrification Impacts Study Part 1:
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M508/K423/508423247.PDF and Cal Advocates DGEM 2.0
+Preliminary Results, October 21, 2024. https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-
+website/files/press-room/reports-and-analyses/241024-public-advocates-office-dgem-20-preliminary-results.pdf
+16
+
+“locked in” to offering only CalFUSE RTP rates, with no opportunity to understand
+EV customer interest in the DAHRTP BEV rate design until it is too late to avoid the
+upgrades forecasted by 2035 and the resulting ratepayer costs of up to $50 billion.
+d. Approving the PFM would send a strong signal that regulated utilities can
+successfully delay and then terminate implementation efforts for Commission
+orders they do not wish to comply with.
+As detailed in section I above, PG&E had planned to launch DAHRTP in
+October 2023 and later received approval for several extension request. The PFM
+details PG&E’s assessment that they would be unable to implement DAHRTP until the
+completion of billing system upgrades in 2029. VGIC is concerned over the signal that
+this level of delay and resulting PFM sends to regulated entities and all stakeholders
+regarding other existing and future Commission orders.
+If the Commission grants the PFM to cancel DAHRTP implementation, it will
+send a clear signal that Commission-regulated entities can elect to effectively nullify
+regulatory decisions through continued delays. Such a standard will erode confidence
+in the Commission’s ability to regulate utilities effectively. Stakeholders and customers
+depend on the Commission to uphold its decisions and ensure timely execution of
+critical programs. This is particularly true for programs aiming to tap into emerging
+technologies and unlock a broader commercial ecosystem that will provide services to
+California for years and decades to come, such as the VGI market. If utilities observe
+that Commission orders can be sidestepped by citing system limitations or technical
+constraints, it will undermine the Commission’s credibility and deter future policy
+progress. Moreover, this delay undermines the integrity of the public engagement
+process. The optional DAHRTP BEV rate and associated non-NEM export pilot were
+17
+
+the results of extensive productive and good-faith stakeholder discussions, and, by
+allowing PG&E to avoid implementation, stakeholders who invested time and
+resources in shaping this policy will find it difficult to justify future investments in
+Commission initiatives.
+To maintain trust in the Commission’s decision-making process, the
+Commission should deny PG&E’s PFM as filed and instead adopt the Alternative
+Proposed Modifications detailed below.
+IV. VGIC PROPOSES ALTERNATIVE PROPOSED MODIFICATIONS FOR THE
+COMMISSION’S CONSIDERATION.
+VGIC offers below three straightforward Alternative Proposed Modifications to the
+DAHRTP BEV approach that addresses PG&E’s three primary reasons for
+submitting the PFM. We respectfully request the Commission consider these
+Alternative Proposed Modifications and offer our team as a resource to discuss each
+with the Commission, Energy Division staff, PG&E, and other parties. VGIC offers
+specific redlines to D.21-11-017 Ordering Paragraphs in Attachment A below its
+response.
+a. The Commission should direct PG&E to leverage its already completed work
+on dynamic distribution components to promote compliance with the
+California Energy Commission’s Load Management Standard.
+PG&E notes throughout the PFM that the DAHRTP-BEV rate and
+associated export compensation pilot would not comply with the CEC’s LMS due
+to the absence of a dynamic distribution component. VGIC strongly recommends
+PG&E include a dynamic distribution component in the DAHRTP-BEV rate and
+export compensation pilot and, fortunately, PG&E has already completed the
+work to develop both a dynamic distribution rate methodology and
+18
+
+communication platform. Through its Hourly Flex Pricing pilot and VGI RTP
+rate pilot, PG&E currently published hourly distribution price signals based on
+marginal distribution system costs for each customer’s representative circuit. With
+this in mind, VGIC views a strong opportunity to simply adopt this dynamic
+distribution component into DAHRTP-BEV, thereby putting PG&E in compliance
+with the CEC LMS and enabling DAHRTP-BEV to represent a more complete
+value stack for customers and third-party solution providers.
+b. The Commission should direct PG&E to enable shadow billing for initial
+DAHRTP-BEV implementation.
+The PFM and associated Declarations note that PG&E explored
+implementing shadow billing for DAHRTP-BEV and determined that it was not
+feasible. While VGIC appreciates that implementing DAHRTP-BEV through a
+shadow bill presents a challenge, we find PG&E’s argument as to why this is
+infeasible to be incomplete. The Declaration of Andrew Au states the following:
+“The DAHRTP BEV opt-in rate approved in D.21-11-017 cannot be shadow
+billed because it can produce RTP revenues that exceed the non-RTP BEV
+tariff OAT revenues. Shadow billing for the CalFUSE expanded pilots and
+VGI pilot was approved as a credit only program, i.e., no additional customer
+payments if their shadow RTP bill is higher than their otherwise applicable
+tariff (OAT) bill.”19
+VGIC does not dispute that the shadow billing approach for the CalFUSE expanded
+pilots and the associated VGI pilot was approved as a credit-only program.
+However, the Commission has not adopted a definition of “shadow billing” that
+precludes its use outside of CalFUSE in a manner other than “credit-only,” nor has
+PG&E detailed why, on a practical level, only credits can be issued through shadow
+19 Declaration of Andrew Au at paragraph 6.
+19
+
+billing. With this in mind, VGIC acknowledges that shadow billing for DAHRTP-
+BEV would not be identical to the shadow billing approach for CalFUSE. However,
+VGIC believes PG&E holds the expertise and capability to adapt shadow billing to
+be useful beyond the credit-only approach and, in turn, support DAHRTP-BEV. As
+such, VGIC urges the Commission to consider directing shadow billing be used to
+implement DAHRTP-BEV, albeit through a modified shadow billing methodology
+from what is in place for CalFUSE pilots limited to a credit-only approach.
+c. The Commission should authorize budget transfer within the already
+approved DAHRTP-BEV funds to support the Alternative Proposed
+Modifications.
+To support the modification recommended in the above, VGIC recommends
+the Commission authorize additional budget transfers within DAHRTP-BEV to
+support the establishment of a modified shadow billing approach. As PG&E has
+not detailed the budget amount it requires to implement shadow billing for
+DAHRTP-BEV customers, VGIC recommends the Commission direct PG&E to
+submit an Advice Letter to request approval for additional budget, as needed, to
+support modified shadow billing for implementation or DAHRTP-BEV and the
+associated export pilot.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to the PFM. We look forward to
+further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+20
+
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+March 7, 2025
+21
+
+Attachment A:
+• OP 2:
+o Pacific Gas and Electric Company shall develop a marginal energy cost based on
+California Independent System Operator’s day-ahead pricing and average default load
+aggregation point loss factor and a marginal distribution cost based on the marginal
+distribution cost calculated under Pacific Gas and Electric’s Expanded Dynamic Rate
+Pilot and Vehicle Grid Integration Pilots authorized in D.24-01-032 and Resolution
+E-5192 for the optional day-ahead real time rate adopted in this proceeding and the
+export compensation pilot authorized in D.22-10-024.
+• New OP:
+o Pacific Gas and Electric Company shall implement the DAHRTP rate authorized in
+this Decision for commercial electric vehicle customers and the export compensation
+pilot authorized in D.22-10-024 using a shadow billing approach until PG&E’s billing
+system can accommodate the necessary updates to no longer require a shadow billing
+approach.
+• OP 12:
+o Within 30 days of this issuance of this Decision, Pacific Gas and Electric Company
+shall file a Tier 1 advice letter creating a Dynamic and Real-Time Pricing
+Memorandum Account that includes a subaccount to specifically track costs
+associated with implementing the day-ahead, real-time hourly pricing (DAHRTP) rate
+authorized in this Decision for commercial electric vehicle customers. PG&E is
+authorized to recover up to $6 million to implement its optional DAHRTP rate
+including any costs incurred to develop and implement a shadow billing approach to
+enable customer participation. If, 24 months after the issuance of this Decision, the $6
+million budget cannot support additional customer enrollment in the DAHRTP rate,
+PG&E may file a Tier 2 advice letter seeking authorization to recover up to an
+additional $3.6 million to continue enrolling and evaluating customers’ responses to
+the DAHRTP rate.
+22
+
+Attachment B:
+VGIC Feedback on October DAHRTP Drafts
+October 31, 2024
+VGIC opposes the redlined settlement agreement and would not support the draft PFM unless modified as
+recommended below.
+1. PG&E’s Primary Reason for Filing the PFM, Amended Settlement, and Redlined Settlement Hinges
+on DAHRTP BEV Lacking a Dynamic Distribution Price Signal, Thereby Making it “Obsolete” and
+Non-Compliant with CEC LMS.
+A. VGIC Proposes the PFM and Settlement be Modified to Adopt the Distribution Price
+Signal Currently Implemented in VGI Pilot and Expanded Dynamic Rate Pilots.
+2. PG&E’s Secondary Reason for Filing the PFM, Amended Settlement, and Redlined Settlement
+Hinges on BCS Deployment Preventing DAHRTP BEV From Launching.
+A. VGIC Proposes the Settlement be Redlined to Allow PG&E to “Shadow Bill” the
+DAHRTP BEV Rate Until BCS Deployment is Complete.
+3. PG&E’s approach critically lacks an uninterrupted solution for both BEV V1G and BEV V2G
+customers. The plan to offer BEV customers (V1G and V2G) participation in HFP via the VGI Pilots
+until the pilot funding expires and then offer these customers 2023 GRC II HFP rates does not square
+with the timelines of these respective developments. The Commercial VGI Pilot is 74% subscribed,
+which suggests that the funding may not last much longer. Given the mounting ratepayer affordability
+crisis, the outcome in the most recent CPUC Resolution on the VGI Pilots (which did not fulfill
+PG&E’s entire funding request), and yesterday’s Executive Order on the rate crisis, directing the
+CPUC to do everything in its power to address it, settlement parties must collectively acknowledge
+and accept the high likelihood that PG&E’s VGI Pilots will not receive additional funding beyond
+what has already been authorized. Meanwhile, the 2023 GRC II HFP rates will not be implemented
+until at least mid-2026, which PG&E acknowledges in its 2023 GRC II testimony.
+A. VGIC’s singular condition since the second delay came to light in December 2023, shared
+consistently and clearly during calls with settling parties throughout 2024, has been to
+ensure that there is continuity and a clear path forward for participating customers despite the
+BCS update delays. We have also clearly communicated that this condition can and should be
+addressed via written commitment in PG&E’s Commission filings detailing this path forward
+for these customers. However, the approach shared in these documents makes no effort to
+address this singular condition or even reference the challenge this poses to customers. It is,
+therefore, more important than ever that PG&E follow through on its settlement agreements
+to implement a full-scale, optional dynamic rate and companion export compensation. VGIC
+has been inspired by PG&E’s commitment to large-scale VGI ranging from Patti Pope’s
+public remarks, to setting ambitious internal VGI goals, to investing in a team of highly-
+23
+
+skilled, passionate, and motivated VGI program designers and implementers that VGIC staff
+and members have had the pleasure of collaborating with and learning from. VGIC has held
+the honor of appearing alongside PG&E representatives in several virtual and in-person
+public forums where both parties promoted PG&E’s leadership and commitment in the space.
+However, in agreeing to the redlined settlement and supporting the PFM, VGIC would
+directly betray its mission and we believe that PG&E, too, in taking these steps, will
+inexplicably and inexcusably obstruct its own clearly-stated VGI goals.
+4. Initial VGI Pilot Phase 2 Insights: Recent insights from VGI industry participants suggest that
+PG&E’s VGI Pilots place a great deal of limitation on customers and, in turn, successful
+implementation for BEV customers (both V1G and V2G) within the VGI Pilots structure is
+increasingly unlikely:
+A. HFP Rate Design: Until recently, companies were unable to properly model the HFP
+approach due to the lack of a clear, published methodology or tools for customers/vendors to
+calculate the distribution price signal. While PG&E provided VGIC with its estimates for an
+average BEV customer on DAHRTP (generation, no distribution, no baseline) vs HFP
+(generation, distribution, baseline), the recent publication of the HFP signals on the HFP
+website has made clear that the rate will not financially support projects in the long-term.
+▪ Specifically, the implementation of the subscription element undercuts the financial
+viability of bidirectional charger and charger-paired BESS deployment. This is
+because customers would effectively be “competing” against their prior year’s load
+shape. In effect, the HFP subscription element has recreated the perennial baselining
+issue that has limited EV participation in demand response programs for years, but
+simply placed it on a different time scale (year-prior, as opposed to 10-in-10). The
+subscription element severely mutes the HFP signal and, as a result, will not
+meaningfully spur sustained participation and investment from ASPs. This
+fundamentally puts BEV participation at risk because, having administered the VGI
+Pilots, PG&E knows better than most that customer participation, especially from
+bidirectional charging customers, cannot be unlocked without ASPs. Simply put,
+bidirectional charging customers have no ability to discharge their vehicle
+batteries without these technology partners. There is no “export now” button on a
+vehicle, charger, or smartphone app, as that is fundamentally not how these products
+are being designed for BEV customers or, for that matter, residential customers
+driving light-duty vehicles.
+▪ In contrast, the DAHRTP approach detailed in the settlement agreement and adopted
+across three separate Commission orders spanning two years of record does not
+incorporate this limiting subscription component and, instead, exposes participating
+customers to real-time-equivalent marginal generation costs (i.e., for energy and
+generation capacity). This means the volatility is not muted and, in turn, supports
+more meaningful customer revenues and a viable, sustainable shared value
+proposition between participants, ASPs, PG&E, and non-participating ratepayers.
+B. Approved equipment and ASP/aggregator requirements: Customers participating in the
+VGI Pilots must do so with PG&E-approved equipment and through an aggregator that has
+an agreement with an automotive OEM. In contrast, the DAHRTP export settlement
+agreement does not impose any such requirements. Of course, customer-sited generation and
+energy storage equipment must comply with PG&E’s Rule 21 interconnection requirements.
+24
+
+However, the DAHRTP export settlement agreement supports an open market where
+technology providers can compete based on customer service and equipment price, rather
+than artificially limiting participation to owners with certain equipment participating through
+certain types of ASPs/aggregators. This is evident today, where PG&E’s V2X Pilots
+webpage, lists only one eligible charger and vehicle for the residential pilot, and only one EV
+manufacturer and one charger manufacturer for the commercial pilot. However, VGIC is
+aware of the following UL-certified bidirectional chargers that are not deemed eligible within
+PG&E’s VGI Pilots:
+▪ Commercial
+• BorgWarner 60 kW
+• BorgWarner 125 kW
+• Fermata FE-15 15 kW
+• Fermata FE-20 20 kW
+• InCharge US 22 kW
+▪ Residential
+• GM Energy V2X Charger
+• Tesla Wall Connector + Tesla Gateway
+5. Implications of Billing System Upgrade Delays: During the settlement discussions, the billing
+system updates were not refuted by any party. VGIC felt settling parties were operating under an
+implicit, collective understanding that PG&E was making an informed accounting of the timeline
+required to update its own billing system. PG&E, unchallenged by settling parties, significantly
+underestimated its BCS update needs. VGIC sympathizes with the challenges of estimating billing
+system upgrade costs and understands that the reality of billing system implementation relies on a
+patchwork of suboptimal temporary fixes that, through dedicated technical expertise and innovative
+problem solving, manage to meet the challenging, high-stakes task of customer billing. VGIC also
+understands the inherent risks posed to non-participating customers when billing systems are being
+modernized. However, PG&E must not shift the risk it accepted by estimating these billing system
+updates onto customers in the form of rescinding this important VGI program opportunity. In other
+words, PG&E’s unforced error must not become BEV customers’ barrier to achieving lower costs of
+ownership or ratepayers’ burden of forgone avoided system costs. Fortunately, PG&E has
+implemented a viable alternative for other RTP approaches, shadow billing, which should be
+leveraged for BEV DARHTP customers, as well.
+6. Marketing: Under the interim approach of implementing BEV RTP-equivalent pricing via the V2X
+Pilots, customers are not receiving adequate education and marketing to participate in the rate.
+PG&E’s “EV rate plans,” “Electric Vehicles,” and “Rate plans” webpages do not provide any
+information or links to this option. PG&E’s “Hourly Flex Pricing” webpage does contain the relevant
+information, however, based on VGIC’s navigation (conducted October 29, 2024), there is no
+pathway for customers to reach this webpage through the three relevant webpages noted above, or
+through any other means other than Google. For those seeking participation in HFP based on word of
+mouth, Google may be sufficient. For those seeking participation in HFP through an Automated
+Service Provider (ASP) or through PG&E’s Fleet Advisory Services Program (although PG&E has
+not detailed that it is sharing information about HFP within its program), an easily accessible
+webpage is not necessarily critical. However, for customers outside of ASP, word-of-mouth, and
+Fleet Advisory Services, PG&E does not link to its HFP webpage from all relevant webpages (i.e.,
+“EV rate plans,” “Electric Vehicles,” and “Rate plans”). This further demonstrates that practical
+differences between a time- and funds-limited PG&E-administered pilot and a full-scale, optional
+25
+
+rate, which would necessarily appear in its rate webpage and tariffs book and on its “Rate plans” and
+“EV rate plans” web pages alongside all other relevant EV rate plans.
+7. VGIC Recommended Path Forward: VGIC recommends settling parties embrace the following
+two changes to address the concerns raised in PG&E’s PFM:
+A. The settlement agreement should be redlined and re-signed by settling parties to incorporate a
+dynamic distribution rate component based on the same marginal cost-based methodology
+implemented in PG&E’s other RTP rates (HFP and VGI Pilot HFP).
+B. The settlement agreement should be redlined and re-signed by settling parties to adopt
+shadow billing for BEV DAHRTP and BEV DAHRTP Non-NEM Export customers until the
+billing modernization updates are complete.
+26

@@ -1,0 +1,835 @@
+Docket No.: A.24-03-019
+Exhibit No.:
+Date: January 8, 2025
+Witness: Zach Woogen
+DIRECT TESTIMONY OF ZACH WOOGEN
+ON BEHALF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Zach Woogen. I am the Interim Executive Director for the Vehicle-Grid
+4 Integration Council (“VGIC”). My business address is 1401 21st St, Suite 5409,
+5 Sacramento, California 95811.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of VGIC.
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to a
+12 decarbonized transportation and electric sector by ensuring the value from EV
+13 deployments and flexible EV charging and discharging is recognized and compensated in
+14 support of achieving a more reliable, affordable, and efficient electric grid.
+15 Q. Who are VGIC’s current members?
+16 A. VGIC’s members include BorgWarner, Fermata Energy, Ford Motor Company, General
+17 Motors, American Honda Motor Company, Nissan Group of North America,
+18 Bidirectional Energy, dcbel, Eaton, Emporia, EnergyHub, ev.energy, Flux, Gravity,
+19 GridBeyond, GridWiz, Hyundai Cradle, Kaluza, Landis and Gyr, Leap, Mercedes-Benz,
+20 Orange Charger, Peak Power, Powerflex, QCells, Stellantis, Sumitomo Electric, Sunrun,
+21 Tesla, The Mobility House, Toyota Motors North America, WeaveGrid, Clean Power
+1
+
+1 Alliance, Holy Cross Energy, Los Angeles Department of Water & Power, Peninsula
+2 Clean Energy, and Sacramento Municipal Utility District.1
+3 Q. Please summarize your professional background and qualifications.
+4 A. I am a member of VGIC’s leadership team where my primary responsibilities are
+5 managing policy advocacy and regulatory engagement, directing research and education,
+6 and overseeing day-to-day functions of the organization. VGIC’s team is globally
+7 recognized for its expertise on VGI topics, including issues related to managed EV
+8 charging platforms, bidirectional EV charging solutions, and EV charging technologies
+9 deployed alongside other distributed energy resources. Before joining VGIC in 2024, I
+10 was a Senior Manager within Strategen’s consulting practice, where one of my
+11 responsibilities included managing the VGIC, which, at the time, was one of the firm’s
+12 primary clients. In addition to VGIC, I managed Strategen’s other projects within the
+13 VGI practice and managed or supported projects for numerous client engagements related
+14 to resource planning, renewable energy, energy storage, utility rate design and program
+15 design, and utility business models and strategy. I have a Bachelor of Science degree in
+16 Environmental Economics and Policy from the University of California, Berkeley.
+17 Q. What is the purpose of your testimony?
+18 A. The purpose of my testimony is to respond to Southern California Edison’s (“SCE”)
+19 Vehicle-to-Grid Resource Proposal (“VGRP”), an export compensation mechanism for
+20 customers with bidirectional charging solutions, as filed in A.24-03-019, as well as the
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+2
+
+1 Public Advocates Office’s (“Cal Advocates”) prepared testimony related to SCE’s
+2 proposed VGRP. Specifically, I will address the need for an effective static export credit
+3 for customers with bidirectional charging systems. I will also address deficiencies in
+4 SCE’s proposal and Cal Advocates’ testimony. In doing so, I propose modifications to
+5 SCE’s proposed export compensation mechanism for VGRP customers.
+6 II. BACKGROUND ON CURRENT AND NEAR FUTURE POTENTIAL FOR VGI
+7 TO SUPPORT RATEPAYER AFFORDABILITY GOALS AS WELL AS GRID
+8 RELIABILITY DURING NET PEAK LOAD HOURS.
+9 Q. SCE’s Amended Rate Design Proposals details that “Despite their considerable
+10 energy storage potential, EVs actively engage in transportation services for a
+11 fraction of the day and can remain idle for a significant portion of each day. This
+12 underutilization of available energy in mobile-battery assets underscores a latent
+13 resource that, if tapped effectively, could help address the burgeoning challenges
+14 facing the grid as it integrates increasing volumes of renewable energy sources.”
+15 Does VGIC agree?
+16 A. Yes. VGIC agrees that EVs are underutilized as a battery energy storage resource and
+17 represent untapped potential to support the integration of renewable energy. As such,
+18 VGI efforts broadly represent a significant opportunity to both advance the VGI industry
+19 and deliver much needed grid benefits. There is no doubt that EVs on the road today, plus
+20 those that will be by the anticipated by the 2027 launch of VGRP, have the technical
+21 capability to meaningfully support the integration of renewable energy resources through
+22 a mix of unidirectional (“V1G”) and bidirectional vehicle-to-everything (“V2X”)
+23 charging activities. However, market incentives to support this integration of renewable
+3
+
+1 energy through opportunities like that proposed in SCE’s VGRP have been slower to
+2 develop.
+3 Q. SCE’s Amended Rate Design Proposals concludes by stating: “By incentivizing
+4 customer participation in V2G, grid-as-a-service exports and providing a
+5 transparent compensation mechanism, SCE paves the way for a sustainable and
+6 resilient energy future while empowering customers to actively contribute to grid
+7 decarbonization efforts and manage their energy bills.” Does VGIC agree?
+8 A. Yes. VGIC agrees that in addition to the renewable energy integration benefit detailed
+9 above, incentivizing customers to participate in V2G exports supports a resilient energy
+10 future in which customers are empowered to contribute to grid decarbonization efforts
+11 and manage their energy bills.
+12 Q. Can EVs support other important policy goals, including affordability for all
+13 ratepayers – not just EV drivers – and increased system reliability?
+14 A. Yes. VGI strategies, including V1G managed charging and V2X bidirectional charging, if
+15 designed appropriately, can reduce costs to all ratepayers, including EV owners and non-
+16 EV customers. By supporting the more efficient use of existing grid infrastructure and
+17 accelerating transportation electrification (and the resulting kWh sales), average rates for
+18 all customers can be lower than they would be without effective VGI strategies.
+19 Furthermore, EVs can meaningfully reduce net peak load through both V1G managed
+20 charging and V2X bidirectional charging activities. This is a critical feature of VGI as
+21 California faces increased extreme weather events and resulting emergency reliability
+22 conditions.
+4
+
+1 Q. Is VGIC confident that EVs can provide a meaningful contribution, in MW terms, if
+2 encouraged to do so through appropriate export credits for bidirectional charging
+3 customers?
+4 A. Yes. VGIC is confident that widespread EV exports can become a reality in response to
+5 appropriate export credits for eligible customers, including along the anticipated
+6 implementation timeline for SCE’s VGRP (i.e., beginning in 2027). If the proposed
+7 VGRP is adopted (with VGIC’s recommended modifications) there are no fundamental
+8 technical barriers that would prevent EVs from contributing. However, VGIC’s optimism
+9 in this regard is also tempered by the reality that V2G systems have not yet been
+10 deployed at such a significant scale and that there are still some unknown factors
+11 regarding overall customer acceptance and participation. We are encouraged by SCE’s
+12 2023 customer surveys, detailed in its Amended Rate Design Proposals, which provide
+13 empirical evidence of customer acceptance and appetite for V2G energy exports,
+14 detailing that 81% of surveyed customers expressed at least “a little interested.” Notably,
+15 unlike power plants that have a singular function, the primary role of EVs is to support
+16 customers’ transportation needs, not grid affordability, reliability, or decarbonization
+17 needs. As such, to be successful the VGRP must be designed in a manner that puts the
+18 customers’ perspective first and foremost. VGIC believes this can and should be
+19 achieved. Additionally, since this is a novel type of grid resource, any incremental
+20 participation (even if small) will be beneficial and is still worth pursuing as part of a
+21 comprehensive approach to advancing VGI pursuant to Senate Bill 676, which aims to
+22 maximize feasible and cost-effective VGI by 2030.
+5
+
+1 Q. Is there a significant amount of EV and EV supply equipment (“EVSE”) available
+2 today that can already provide V2G capabilities?
+3 A. Yes, although it is less widespread than V1G managed charging capabilities, a
+4 meaningful portion of EVs deployed today have bidirectional capabilities that would
+5 allow them to discharge. The most significant sources of V2G potential today are in the
+6 form of the light-duty passenger EVs and electric school buses. As of the end of 2024, the
+7 bidirectional EV and EVSE solutions detailed in Table 1 below are available for
+8 customers and site developers. Beyond what is currently in existence, however, it is
+9 expected that several EV and EVSE models being launched prior to 2027 will have
+10 bidirectional charging capabilities. The table below summarizes both existing and
+11 forthcoming bidirectional vehicle models and charging equipment.
+12 Table 1. Bidirectional-capable vehicles on California’s roads today, currently-deployed
+13 bidirectional EVSE, and forthcoming bidirectional products:
+Product Estimated Amount Notes
+* Denotes products that will soon be Deployed in California/
+bidirectionally-capable
+Anticipated Deployment
+Date
+Nissan LEAF 55,349 total registered from - MY 2013 or later are V2G-
+2013 through Q3 2024.2 capable.
+- Bidirectional charging
+enabled with Fermata FE-20.3
+2 California Energy Commission (2025). New_ZEV_Sales_Last_update_11-19-2024_ada.xlsx. ZEV and
+Infrastructure Stats Data. Data last updated September 30, 2024. Retrieved January 6, 2025 from
+https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+3 PG&E. Vehicle-to-Everything (V2X) pilot program: Eligible Product List for the V2X Commercial Pilot.
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-
+everything-v2x-pilot-programs.html. Retrieved January 7, 2025.
+6
+
+Ford F-150 Lightning Electric Estimated 22,296 total - Bidirectional charging
+delivered through Q4 2024.4 enabled with Ford Charge
+Station Pro.
+Chevrolet Silverado EV Estimated 3,050 total - Bidirectional charging
+delivered through Q4 2024.5 enabled with GM Energy
+PowerShift.
+Chevrolet Equinox EV Estimated 11,162 total - Bidirectional charging
+delivered through Q4 2024.6 enabled with GM Energy
+PowerShift.
+Chevrolet Blazer EV Estimated 9,122 total - Bidirectional charging
+delivered through Q4 2024.7 enabled with GM Energy
+PowerShift.
+Cadillac Lyriq Estimated 14,519 total - Bidirectional charging
+delivered through Q4 2024.8 enabled with GM Energy
+PowerShift.
+Tesla Cybertruck 6,670 total registered through - Bidirectional charging
+Q3 2024.9 enabled with Tesla Universal
+Wall Connector.
+4 Ford. Ford U.S. Retail Sales Grow at Double the Industry Pace in 2024, Led by Trucks, Hybrids, Electric Vehicles and
+Lincoln. January 3, 2025. https://s201.q4cdn.com/693218008/files/doc_news/2025/Jan/03/Ford-U-S-Q4-2024-
+Sales-Release.pdf. Assumes California comprises 38.66% of all vehicle deliveries, based on Veloz’s California EV
+Market Report, accessed January 7, 2025, listing 2,113,135 CA EV sales and 5,466,139 U.S. EV Sales.
+https://www.veloz.org/ev-market-report/
+5 General Motors. GM U.S. Deliveries for Quarter 4 2024. January 3, 2025. https://investor.gm.com/static-
+files/b4b3e0a7-f528-442a-89d4-443e62eae50b. Assumes California comprises 38.66% of all vehicle deliveries,
+based on Veloz’s California EV Market Report, accessed January 7, 2025, listing 2,113,135 CA EV sales and
+5,466,139 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+6 Ibid.
+7 Ibid.
+8 Ibid.
+9 California Energy Commission (2025). New_ZEV_Sales_Last_update_11-19-2024_ada.xlsx. ZEV and
+Infrastructure Stats Data. Data last updated September 30, 2024. Retrieved January 6, 2025 from
+https://www.energy.ca.gov/files/zev-and-infrastructure-stats-data.
+7
+
+Kia EV9* Estimated 8,944 total sold - Bidirectional charging to be
+through Q4 2024.10 enabled soon with Wallbox
+Quasar 2.11
+Volvo EX90* Estimated 332 total sold - Bidirectional charging to be
+through Q4 2024.12 enabled soon with dcbel
+Ara.13
+Lucid Motors Air Estimated 6,279 total - Bidirectional charging
+delivered through Q4 2024.14 enabled with RangeXchange
+charging adapter.15
+GMC Sierra EV* Estimated 691 total delivered - Bidirectional charging to be
+through Q4 2024.16 enabled soon with GM
+Energy PowerShift.
+10 InsideEVs. Kia Set New EV Sales Records Last Year in the U.S. January 3, 2025.
+https://insideevs.com/news/746147/kia-ev-sales-record-2024-us/. Assumes California comprises 38.66% of all
+vehicle deliveries, based on Veloz’s California EV Market Report, accessed January 7, 2025, listing 2,113,135 CA EV
+sales and 5,466,139 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+11 Kia EV9 x Wallbox Quasar 2. Retrieved January 7, 2025.
+https://quasar2forkiaev9.wallbox.com/?utm_source=web&utm_medium=cta_button&utm_campaign=quasar2for
+kia
+12 Volvo Cars. Sales Volumes: United States – Retail Sales by Car Model – December 2024. Accessed January 7,
+2025. https://www.media.volvocars.com/us/en-us/corporate/sales-volumes. Assumes California comprises
+38.66% of all vehicle deliveries, based on Veloz’s California EV Market Report, accessed January 7, 2025, listing
+2,113,135 CA EV sales and 5,466,139 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+13 Electrek.co. Volvo EX90 Bidirectional charging with DCBEL. September 5, 2024.
+https://www.youtube.com/watch?v=wniV8rlObXU
+14 Lucid Motors. Lucid Announces Fourth Quarter and Full Year 2023 Financial Results. February 21, 2024.
+https://lucidmotors.com/media-room/lucid-q4-2023-financial-results and Lucid Motors. Lucid Announces Q4
+Production & Deliveries, Sets Date for Fourth Quarter 2024 Results. January 6, 2025.
+https://ir.lucidmotors.com/node/9736/pdf. Assumes California comprises 38.66% of all vehicle deliveries, based
+on Veloz’s California EV Market Report, accessed January 7, 2025, listing 2,113,135 CA EV sales and 5,466,139 U.S.
+EV Sales. https://www.veloz.org/ev-market-report/
+15 Lucid Motors. Introducing RangeXchange, an Innovative New Feature Enabling the Lucid Air to Directly Charge
+Other Electric Vehicles. November 9, 2023. https://lucidmotors.com/stories/introducing-rangexchange
+16 General Motors. GM U.S. Deliveries for Quarter 4 2024. January 3, 2025. https://investor.gm.com/static-
+files/b4b3e0a7-f528-442a-89d4-443e62eae50b. Assumes California comprises 38.66% of all vehicle deliveries,
+based on Veloz’s California EV Market Report, accessed January 7, 2025, listing 2,113,135 CA EV sales and
+5,466,139 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+8
+
+Cadillac Escalade IQ EV* Estimated 259 total delivered - Bidirectional charging to be
+through Q4 2024.17 enabled soon with GM
+Energy PowerShift.
+Cadillac Optiq* Recently launched. Sales data - Bidirectional charging to be
+not yet available. enabled soon with GM
+Energy PowerShift.
+- - - Emporia V2X bidirectional
+charger coming soon.18
+BlueBird 428 buses through Q4 2023.19 - 155 kWh or 196 kWh
+school buses20
+Lion Electric 150 buses through Q4 2023.21 - 126 kWh, 140 kWh, 168
+kWh, or 210 kWh school
+buses22
+BYD / RIDE Estimated 102 buses through - 156 kWh, 230 kWh, or 288
+Q4 2024.23 kWh school buses24
+17 General Motors. GM U.S. Deliveries for Quarter 4 2024. January 3, 2025. https://investor.gm.com/static-
+files/b4b3e0a7-f528-442a-89d4-443e62eae50b. Assumes California comprises 38.66% of all vehicle deliveries,
+based on Veloz’s California EV Market Report, accessed January 7, 2025, listing 2,113,135 CA EV sales and
+5,466,139 U.S. EV Sales. https://www.veloz.org/ev-market-report/
+18 Emporia. Coming Soon: V2X Bi-Directional Charger. Accessed January 7, 2025.
+https://www.emporiaenergy.com/how-the-emporia-v2x-charger-works/
+19 California Energy Commission (2024). Medium- and Heavy-Duty Zero-Emission Vehicles in California. Data last
+updated May 1, 2024. Retrieved January 7, 2025 from https://www.energy.ca.gov/zevstats
+20 BusinessWire. Blue Bird Receives Record Order of 180 Electric School Buses. January 16, 2024.
+https://www.businesswire.com/news/home/20240116715215/en/Blue-Bird-Receives-Record-Order-of-180-
+Electric-School-Buses
+21 California Energy Commission (2024). Medium- and Heavy-Duty Zero-Emission Vehicles in California. Data last
+updated May 1, 2024. Retrieved January 7, 2025 from https://www.energy.ca.gov/zevstats
+22 Lion Electric. Vehicle-to-grid technology. https://schoolbus.thelionelectric.com/. Accessed January 7, 2025.
+23 California Energy Commission (2024). Medium- and Heavy-Duty Zero-Emission Vehicles in California. Data last
+updated May 1, 2024. Retrieved January 7, 2025 from https://www.energy.ca.gov/zevstats and PG&E. PG&E Helps
+Zum Deploy Nation’s First 100% Electric School Bus Fleet in Oakland for New School Year. August 27, 2024.
+https://www.pge.com/en/newsroom/currents/future-of-energy/articles-4040-pge-helps-zum-deploy-nations-100-
+electric-school-bus-fleet-oakland-new-school-year.html
+24 PG&E. Vehicle-to-Everything (V2X) pilot program: Eligible Product List for the V2X Commercial Pilot.
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-
+everything-v2x-pilot-programs.html. Retrieved January 7, 2025.
+9
+
+Thomas Built - - 246 kWh school buses25
+IC Bus 169 buses through Q4 2023.26 - 210 kWh or 315 kWh
+school buses27
+Green Power Motors - - 118 kWh or 193 kWh
+school buses28
+Phoenix Motorcars - - 100 kWh or 150 kWh
+school buses29
+BorgWarner - - 60 or 125 kW V2G DC
+EVSE30
+Tellus Power Green - - 20, 30, 40, or 60 kW V2G
+DC EVSE31
+InCharge - - 22, 44, or 66 kW V2G DC
+EVSE32
+Heliox - - 60 kW V2G DC EVSE33
+1
+2
+3
+4
+25 Thomas Built Buses. Electric school buses and utility companies: A powerful combination. Retrieved January 7,
+2025. https://thomasbuiltbuses.com/electric-school-buses/utility-providers/
+26 California Energy Commission (2024). Medium- and Heavy-Duty Zero-Emission Vehicles in California. Data last
+updated May 1, 2024. Retrieved January 7, 2025 from https://www.energy.ca.gov/zevstats
+27 IC Bus. Electric CE Series School Bus. https://www.icbus.com/-
+/media/Project/Navistar/ICBus/ICBus/electric_ce_series_brochure_spread_format.pdf. Retrieved January 7, 2025.
+28 California HVIP. School Bus: Vehicle Type – ZESBI $ Eligible. https://californiahvip.org/vehicle-category/school-
+bus/?type=655. Retrieved January 7, 2025.
+29 Ibid.
+30 California Energy Commission. Vehicle-to-Grid Equipment List (V2GEL). Retrieved January 7, 2025.
+https://v2gel.energy.ca.gov/
+31 PG&E. Vehicle-to-Everything (V2X) pilot program: Eligible Product List for the V2X Commercial Pilot.
+https://www.pge.com/en/clean-energy/electric-vehicles/getting-started-with-electric-vehicles/vehicle-to-
+everything-v2x-pilot-programs.html. Retrieved January 7, 2025.
+32 InCharge. Chargers & Hardware. https://inchargeus.com/chargers/. Retrieved January 7, 2025.
+33 Heliox. Heliox 60 kW. https://www.heliox-energy.com/us-products/60-kw-dc-charger. Retrieved January 7, 2025.
+10
+
+1 III. VGIC IS GENERALLY SUPPORTIVE OF THE VGRP CONCEPT, BUT
+2 BELIEVES IT SHOULD BE IMPROVED UPON.
+3 Q. Have you reviewed SCE’s VGRP proposal, and specifically, have you reviewed the
+4 proposed rate design?
+5 A. Yes.
+6 Q. What is VGIC’s perspective on the VGRP proposal?
+7 A. VGIC is encouraged by this initial proposal and is interested in working with SCE and
+8 other stakeholders to improve it and ultimately adopt it, with modifications.
+9 Q. Are there specific features of the proposal that you find especially attractive?
+10 A. Yes, there are several important features, including the following:
+11 1) The establishment of a “stable and predictable export price by time-of-day.”34 This has
+12 the potential to support relatively widespread enrollment of customers with bidirectional
+13 charging systems as pricing is based on pre-determined time-of-day pricing periods,
+14 similar to the time-of-use (“TOU”) structure many customers are already familiar with.
+15 The simplicity and stability of the TOU structure supports a strong customer
+16 understanding for a range of participants, from early adopters to mass-market
+17 participants. Furthermore, the TOU export credit would be made available during peak
+18 hours throughout the summer, which provides customers with an ample opportunity to
+19 support the grid through exports from bidirectional charging systems.
+34 SCE-04A at 129.
+11
+
+1 2) The broad applicability to residential and non-residential customers casts an
+2 appropriately wide net for interested customers. This is appropriate because the ways in
+3 which EV drivers use their vehicles are diverse, even within certain customer classes or
+4 vehicle segments. For example, the below figure shows the diverse EVSE power output
+5 and market segments of customers in SCE’s Charge Ready Transport program:
+6 Figure 1: Southern California Edison Charge Ready Transport EVSE as of November
+7 202435
+8
+9 As an additional example, the below figure shows the various “dimensions” considered in
+10 the 2019-2020 VGI Working Group Use Case Assessment. The effort convened about
+11 100 representatives from utilities, state and federal agencies, California Independent
+35 Southern California Edison. Transportation Electrification Program Advisory Council. December 13, 2024. Page
+14.
+12
+
+1 System Operator, automakers, charging manufacturers, charge management system
+2 providers, charge point operators, transit agencies, research institutions, industry
+3 associations, environmental nonprofits, consumer groups, ratepayer advocates, and
+4 standards development organizations to define, assess value, and rank 2,500 potential
+5 VGI use cases.
+6 Figure 2: 2019-2020 VGI Working Group Report Use Case Assessment Framework36
+7
+8 Given the considerable diversity of relevant use cases, offering an open, optional, and
+9 predictable export rate rider to a wide set of customers allows them to participate in the
+10 way that best fits their specific needs and internal cost-benefit calculations.
+36 See Final Report of the VGI Working Group. https://gridworks.org/2020/09/final-report-of-the-california-joint-
+agencies-vehicle-grid-integration-vgi-working-group/
+13
+
+1 3) The cost-based, long-term nature of the proposed VGRP can underpin a degree of
+2 certainty for bidirectional charging supply chain development, distribution channels,
+3 customer engagement, and overall ecosystem that has never been achieved through the
+4 few one-off pilot projects that have been authorized to date.
+5 4) The eligibility of customers with and without NEM/NBT technologies supports the
+6 diverse set of customers that may be interested in enrolling in VGRP, while also
+7 recognizing the observed correlation between EV and rooftop solar PV owners.37
+8 Q. Are all of these features found in any other opportunities for bidirectional charging
+9 customers in SCE’s service territory?
+10 A. No. There are four alternative options for SCE customers with bidirectional charging
+11 equipment:
+12 (1) SCE Emergency Load Reduction Program. While ELRP offers a predictable
+13 $2/kWh credit, the event-based nature of the program is unpredictable relative to
+14 the pre-determined peak periods proposed in VGRP. Additionally, ELRP is not a
+15 sustainable, cost-based measure. It is currently authorized through 2027.
+16 (2) California Energy Commission (“CEC”) Demand Side Grid Support (“DSGS”) –
+17 Option 3. This program allows aggregators to enroll customers in a summer
+18 reliability program in exchange for capacity payments, which are awarded when
+19 the aggregators dispatch customer resources via test events or in response to
+20 certain event triggers. Similar to ELRP, the DSGS Option 3 program is not a
+21 sustainable, cost-based offering, and is only available until funding, determined
+22 by the legislature and governor, is no longer available. Funding is shared across
+23 all options and resources in DSGS.
+37 Sharda, Garikapati, et al. The electric vehicles-solar photovoltaics Nexus: Driving cross-sectoral adoption of
+sustainable technologies. Renewable and Sustainable Energy Reviews, Volume 191, March 2024.
+https://www.sciencedirect.com/science/article/pii/S1364032123010304?dgcid=author
+14
+
+1 (3) Direct CAISO participation via third-party providers. Behind-the-meter energy
+2 storage systems have been generally slow to participate in the CAISO market due
+3 to a number of barriers, including the complexity and cost of doing so. VGIC is
+4 unaware of any bidirectional charging sites across any customer class in
+5 California currently participating directly in CAISO.
+6 (4) SCE Dynamic Rate Pilots. As detailed in SCE’s Additional Rate Design
+7 Proposals and Cal Advocate’s Prepared Testimony of Additional Rate Design
+8 Proposals, SCE offers dynamic rate options to certain customers. These dynamic
+9 rate options do not offer stability or predictability due not only to the hourly, day-
+10 ahead nature of the rate design, but also the utilization of a “subscription” or
+11 baseline that complicates the customer’s ability to estimate its savings due to
+12 participating in the dynamic rate option. Moreover, SCE currently has no
+13 bidirectional charging systems enrolled in either the first or second phases of
+14 SCE’s dynamic rate pilots.38
+15 Q. Is there data demonstrating that SCE V2G customers are particularly interested in
+16 the current iteration of SCE’s dynamic rate pilot?
+17 A. VGIC is not aware of any data demonstrating V2G customer interest in SCE’s dynamic
+18 rate pilot. SCE notes that there were no bidirectional charging systems enrolled in the
+19 first phase of SCE’s Dynamic Rate Pilot.39 Based on conversations with VGIC’s 37
+20 members, we understand there to be concerns over the current implementation of SCE’s
+21 dynamic rate pilot, including the lack of automated service providers with exclusive
+22 focus on integrating bidirectional charging customers, the “subscription” or baseline
+23 element’s muting effect on the dynamic price signal, and the complexity of providing
+38 Attachment A. VGIC-SCE-001. Response to Question 03.a-c.
+39 Attachment A. VGIC-SCE-001. Response to Question 03.a-c.
+15
+
+1 customers with an accurate estimate of their expected savings under the dynamic rate
+2 pilot.
+3 Q. Please explain the concept of path dependence and how it relates to V2G rate design
+4 decisions made today.
+5 A. “Path dependence” refers to the influence of past decisions on future outcomes, hindering
+6 the implementation of alternative solutions. In the case of V2G customers, VGIC is
+7 concerned that relying too heavily on a single dynamic rate approach for all customers, a
+8 recommendation made in Cal Advocates’ testimony and detailed further in Section V
+9 below, would lock in a specific future that may not, in fact, be in the best interest of
+10 ratepayers. Notably, Cal Advocates has published findings suggesting that optimized VGI
+11 implementation can reduce electrification-driven distribution system costs from the
+12 Commission’s estimated $50 billion through 2035 down to $22.7 billion.40 Given the
+13 magnitude of these numbers, the stakes are incredibly high, especially for low-income
+14 and other vulnerable California ratepayers already feeling an outsized energy cost burden.
+15 However, to achieve the reductions modeled by Cal Advocates, IOUs will need to engage
+16 EV customers at a significant enough scale for these optimized load shapes to have a
+17 beneficial impact on the total required distribution system upgrades. VGIC is concerned
+18 that pursuing only dynamic rates, with the only available evidence showing that V2G
+19 customers are not interested in participating,41 risks a gamble with path dependence,
+20 wherein SCE would be “locked in” to offering only dynamic rates, with no opportunity to
+40 See CPUC Electrification Impacts Study Part 1:
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M508/K423/508423247.PDF and Cal Advocates DGEM 2.0
+Preliminary Results, October 21, 2024. https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-
+website/files/press-room/reports-and-analyses/241024-public-advocates-office-dgem-20-preliminary-results.pdf
+41 Attachment A. VGIC-SCE-001. Response to Question 03.a-c.
+16
+
+1 understand V2G customer interest in relatively simple, predictable static export credits
+2 until it is too late to avoid the upgrades forecasted by 2035 and the resulting ratepayer
+3 costs of up to $50 billion.
+4
+5 IV. RECOMMENDED MODIFICATIONS TO THE PROPOSED VGRP TO
+6 ADDRESS DEFICIENCIES IN SCE’S PROPOSAL AND CONCERNS RAISED
+7 BY CAL ADVOCATES.
+8
+9 Q. Are there features of the proposed VGRP you believe are insufficient?
+10 A. Yes. There are two main elements of VGRP that are insufficient. One element is detailed
+11 herein, and the other is described further below in this section (i.e., Section IV).
+12 The proposal arbitrarily limits the applicable avoided cost calculator (“ACC”) values
+13 used to calculate VGRP compensation to the following five components: (1) GHG Cap
+14 and Trade (Marginal Emissions); (2) Generation Energy; (3) Generation Capacity; (4)
+15 Ancillary Services Procurement; and (5) Losses. SCE notes “because SCE’s proposal is
+16 intended as a first step on the path to enabling this still nascent market segment, the
+17 following ACC components are not included in SCE’s V2G export price: (1) GHG Adder
+18 (Marginal Emissions); (2) GHG Portfolio Rebalancing; (3) Transmission; (4)
+19 Distribution; and (5) Methane Leakage.”42 SCE offers no substantive justification in its
+20 testimony for why it has chosen to include certain ACC components but not others. In
+42 SCE-04A at 132.
+17
+
+1 response to VGIC’s data request, SCE explains that transmission and distribution
+2 components were not included because of the “inability to incorporate EV exports into
+3 the planning of the grid and T&D system.” SCE asserts that V2G resources are distinct
+4 from stationary behind-the-meter (“BTM”) resources, which SCE can reliably predict.43
+5 Q. What is the purpose of the CPUC’s adopted ACC?
+6 A. As we understand it, the purpose of the ACC is to provide an estimate of the value of a
+7 kWh delivered to the grid.
+8 Q. Does VGIC agree with SCE’s position that kWh generated from V2G systems yield
+9 less avoided transmission and distribution costs than kWh from other BTM
+10 resources?
+11 A. No. VGIC does not agree with this position and finds that differences in predictability of
+12 customer behavior are not a reasonable rationale to exclude V2G customers from certain
+13 ACC components. VGIC finds it unreasonable that these ACC components should be
+14 excluded from the proposed VGRP value stack but included in export compensation for
+15 over 40,000 other customers receiving export compensation based on ACC in SCE’s
+16 territory.44
+17 Q. Are you aware of any instances where SCE offers export compensation containing
+18 both generation and distribution components to bidirectional charging customers?
+19 A. Yes. SCE’s Dynamic Rate Pilot eligibility is open to bidirectional charging customers
+20 and its rate design compensates exports under a rate that includes a distribution
+43 Attachment A. VGIC-SCE-001. Response to Question 02.a-e.
+44 Attachment A. VGIC-SCE-001. Response to Question 02.a-e.
+18
+
+1 component.45 Similarly, V2G exports in Pacific Gas & Electric (“PG&E”) Dynamic Rate
+2 Pilot Phase 246 and V2X Pilots Phase 247 will be compensated under an export rate that
+3 includes a distribution component. SCE does not offer an explanation as to why V2G
+4 exports in the Dynamic Rate Pilot are offered both generation and distribution
+5 components but V2G exports in the proposed VGRP would not be.
+6 Q. Do you know of any reason why the full stack of avoided costs contained in the ACC
+7 would differ based on the type of resource used to generate the electrons that are
+8 then used on the grid?
+9 A. No. The resource from which the kWh was generated has no bearing on the value of
+10 avoided costs resulting from that kWh. For either customers eligible for the Net Billing
+11 Tariff (“NBT”) or customers eligible for VGRP, the totality of ACC components should
+12 be included in determining the value and compensation of the exported kWh.
+13 Q. Please detail any other deficiencies found in VGRP.
+14 A. As proposed by SCE, VGRP customers with Net Energy Metering (“NEM”) or NBT
+15 eligible systems will need to install a V2G Net Generation Output Meter (“V2G-
+16 NGOM”) to separate out V2G exports from NEM/NBT-eligible system exports and apply
+17 appropriate pricing to each. SCE also proposes to install V2G-NGOMs for customers
+18 without NEM or NBT eligible systems to “prepare the customer for any future NBT
+45 See, for example, SCE Advice Letter 4684-E SCE’s Dynamic Rate Pilot Pursuant to D.21-12-015. January 5,
+2022. https://www.dret-ca.com/wp-content/uploads/2022/02/Advice-Letter-4684-E.pdf and D.24-01-032 To Expand
+System Reliability Pilots of PG&E and SCE. January 26, 2024.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M524/K176/524176497.PDF. Pg. 36.
+46 Id. at 8-36.
+47 PG&E Advice Letter 6694-E. Rate Structured for Vehicle Grid Integration Pilots. September 2, 2022.
+https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6694-E.pdf
+19
+
+1 installations.”48 VGIC finds two deficiencies here. First, SCE’s justification for installing
+2 V2G-NGOM at customer sites who do not have NEM/NBT-eligible systems is
+3 unnecessary. SCE fails to provide adequate justification for requiring installation of a
+4 V2G-NGOM at a customer site solely because that customer may one day have a
+5 NEM/NBT-eligible solution.
+6 Second, requiring V2G-NGOM at all sites, including both NEM/NBT and non-
+7 NEM/NBT sites, adds significant cost (i.e., over $1,100)49 and potential delays. These
+8 costs can especially undermine the project economics of smaller V2G sites, which have
+9 relatively low upfront capital expenditures. The negative customer impacts of the NGOM
+10 requirement could be mostly avoided by adopting VGIC’s proposed modifications,
+11 detailed below.
+12 Q. What are VGIC’s proposed modifications to the VGRP proposal, and how does it
+13 address the deficiencies found in SCE’s VGRP?
+14 A. VGIC’s proposed modifications to the VGRP proposal contains three key modifications
+15 to SCE’s VGRP, detailed below:
+16 (1) VGIC proposes VGRP be modified to incorporate all ten ACC components, rather
+17 than the list of five arbitrary ACC components proposed by SCE.
+18 (2) VGIC proposes VGRP price signals mirror NBT price signals. More detail and
+19 justification are provided below:
+20 (a) Based on VGIC’s understanding, the illustrative rates detailed in SCE’s Table
+21 IX-31 were achieved by taking the five proposed ACC values grouped by
+48 SCE-04A at 130-131.
+49 SCE Unit Cost Guide dated March 31, 2022. https://www.sce.com/sites/default/files/custom-
+files/Web%20files/Attachment_A-Unit_Cost_Guide.pdf
+20
+
+1 hour and month to create averages in the ACC values for the proposed peak
+2 time periods. The resulting eight time periods (summer weekday off-peak vs
+3 on-peak, summer weekend off-peak vs on-peak, winter weekday off-peak vs
+4 on-peak, and winder weekend off-peak vs on-peak) reflect these average ACC
+5 values.
+6 (b) Instead of this methodology, VGIC recommends VGRP customers be
+7 compensated for exports pursuant to the NBT design (or any NBT
+8 successor(s) should they be approved). This builds on and is consistent with
+9 proposed modification 1 above: to incorporate all ten ACC components, rather
+10 than the five arbitrary components proposed by SCE.
+11 (c) Critically, this would largely obviate the need for NGOMs since all exports –
+12 whether from EVs or NBT-eligible devices – would be compensated at the
+13 same rate thus eliminating the need to determine which resource a particular
+14 kWh of export came from.
+15 (d) This would also simplify billing system upgrades, the cost of which is one of
+16 the primary concerns raised by Cal Advocates (and discussed below in
+17 Section V) in its testimony recommending SCE’s proposed VGRP be rejected.
+18 (e) As detailed by Cal Advocates (and discussed below in Section V), VGRP as
+19 proposed is less granular than other opportunities and, based on Cal
+20 Advocates’ assessment, does not sufficiently reflect accurate grid conditions.
+21 By modifying the proposal to incorporate 576 ACC-based values annually,
+22 rather than 8 ACC-based values, the VGRP will much more closely reflect
+23 grid conditions.
+24 (3) VGIC proposes that NEM 1 and NEM 2 customers be eligible for VGRP only if
+25 they: (i) install a NGOM, (ii) switch to NBT, (iii) install a device approved
+26 pursuant to the Commission’s PEV Submetering Protocol, or (iv) elect another
+27 solution developed bilaterally between SCE and relevant OEMs or otherwise
+28 made optionally available by SCE.
+21
+
+1 (a) This proposal may motivate certain legacy NEM 1 and NEM 2 customers to
+2 switch to a more dynamic rate with greater grid benefits (i.e., NBT), as a way
+3 to avoid the costs of installing a NGOM (option (i)) or metering alternatives
+4 (options (iii) or (iv)).
+5 (b) The PEV Submetering Protocol, adopted by the CPUC in August 2022, allows
+6 for embedded bidirectional EVSE submeters or external bidirectional EVSE
+7 submeters to be used upon customer request, assuming the requested device is
+8 an approved non-utility-owned submeter and that a relevant meter data
+9 management agent (“MDMA”) has also been approved by SCE. Embedded or
+10 external submeters can therefore provide a low-cost alternative to a V2G-
+11 NGOM. Notably, this device-level metering is already implemented in
+12 California through the CEC’s DSGS Option 3, as well as in New England
+13 under National Grid and Eversource’s Connected Solutions, Daily Dispatch
+14 programs.
+15 (c) Regarding options (i) and (iii), VGIC notes that “SCE has not yet deployed
+16 any NGOMs at customer bidirectional charging sites in SCE service
+17 territory.”50 However, SCE has approved 28 EVSE embedded submeters and
+18 2 non-embedded submeters, and has recently approved the first Meter Data
+19 Management Agent (“MDMA”) per the PEV Submetering Protocol.51
+20 Q. Does VGIC believe that, absent these changes, the proposed VGRP compensation
+21 level is sufficient to support meaningful participation?
+22 A. No. VGIC believes that SCE’s proposed VGRP, absent VGIC’s recommended changes,
+23 would not sufficiently attract meaningful customer participation. The Annual Customer
+24 Estimated Credits table provided by SCE52 presents the potential for customer
+25 renumeration for V2G exports. However, based on VGIC’s discussions with its 37
+50 Attachment A. VGIC-SCE-001. Response to Question 01.a.
+51 Attachment A. VGIC-SCE-001. Response to Question 01.b-e.
+52 SCE-04A at 134.
+22
+
+1 members, including automakers, V2G aggregators, and EVSE manufacturers, it is
+2 unlikely that the values are high enough to attract meaningful participation. Furthermore,
+3 the values may not be high enough to cover the upfront costs associated with deploying
+4 the necessary V2G equipment to participate in the rate. Especially as the V2G market is
+5 relatively nascent, VGIC is concerned that the estimated credits listed in SCE’s Table IX-
+6 32, i.e. credits comprising only five of the ten total ACC components, are not sufficient to
+7 overcome the upfront cost barriers of V2G sites, which often include special chargers,
+8 bidirectional inverters, communications devices, customer panel upgrades, and related
+9 electrical components and installation costs.
+10 VGIC has witnessed several utilities make initial forays into proposing and developing
+11 compensation mechanisms for VGI solutions, such as compensation for V2G exports.
+12 However, in some cases these attempts appear to be simply unworkable for EV customers
+13 and may in fact yield a net cost for V2G behavior (rather than a net benefit). While
+14 experimentation with new compensation mechanisms should be encouraged, VGIC is
+15 concerned that if inadequate mechanisms are adopted, they could significantly delay the
+16 development of other mechanisms that are more fully considered and could meaningfully
+17 spur the VGI market. As a result, improvements should be made to cure the deficiencies
+18 identified above before adopting VGRP.
+19
+20 V. ADDRESSING ISSUES RAISED BY CAL ADVOCATES REGARDING VGRP
+21 IMPLEMENTATION.
+23
+
+1 Q. In several responses above you referenced Cal Advocates’ positions on VGRP. Can
+2 you describe your understanding of Cal Advocates positions regarding VGRP?
+3 A. Yes. Cal Advocates’ Prepared Testimony of Additional Rate Design Proposals in SCE’s
+4 2025 GRC Phase 2 contains two key recommendations related to SCE’s VGRP. The first
+5 is to reject SCE’s VGRP, as SCE has not provided an adequate budget proposal. The
+6 second is to “require SCE to expand the list of eligible rates in the Expanded Pilot
+7 authorized by Decision (D.) 24-01-034 to include those that SCE proposed for
+8 participation in its VGRP.”53
+9 Q. Cal Advocates asserts that SCE does not provide budget estimates for each
+10 identified budget category, and that this justifies rejecting SCE’s proposed VGRP.
+11 Does VGIC agree with this assertion?
+12 A. Yes and no. While it is correct that SCE has not provided budget estimates for each
+13 identified budget category, VGIC does not agree that this is an adequate reason to reject
+14 SCE’s proposed VGRP. It is not unprecedented to refine budget details throughout the
+15 course of a litigated proceeding, for utilities or program administrators to provide budgets
+16 after program approval in subsequent implementation advice letters, or for utilities to be
+17 authorized to record costs in memorandum accounts that are later evaluated by the
+18 Commission and stakeholders in a subsequent cost recovery proceeding. For example,
+19 PG&E’s DAHRTP export rate pilot budget was first proposed in the settlement, rather
+20 than the utility’s testimony or application.54 Another example is found in budget requests
+53 Cal Advocates. Prepared Testimony of Additional Rate Design Proposals in SCE’s 2025 GRC Phase 2. 9-1.
+54 Joint Motion of the Public Advocates Office at the CPUC, VGIC, Electrify America, and PG&E for Adoption of Joint
+Settlement Agreement in PG&E’s Day Ahead Real Time Pricing Commercial EV Proceeding on Non-NEM Export
+Compensation Pilot. June 17, 2022.
+http://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M488/K538/488538216.PDF. Page 20.
+24
+
+1 for the California Energy Commission’s Gas Research and Development Program, which
+2 are made via Tier 3 Advice Letter.55 For community solar programs (Disadvantaged
+3 Communities Green Tariff and Community Solar Green Tariff Programs), a broad budget
+4 cap was adopted but specific annual budgets for program administration are submitted
+5 annually via Tier 2 Advice Letter.56 Costs for implementation of the Net Energy Metering
+6 and Net Billing Tariffs are recorded in memorandum accounts that are later included in
+7 subsequent GRCs for cost recovery.57
+8 Furthermore, if VGIC’s proposed modifications to VGRP, detailed in Section IV above,
+9 are adopted, it is worth noting that implementation costs will likely be lower, as VGRP
+10 customers would receive price signals that mirror NBT (or any NBT successor), which
+11 likely mitigates billing system upgrade costs. Offering the same NBT prices to VGRP
+12 customers may also present opportunities to mitigate certain marketing, education, and
+13 outreach costs, as existing NBT customers could be expected to be familiar with the NBT
+14 price approach.
+15 Q. Cal Advocates states “SCE refers to PG&E’s day-ahead hourly real-time pilot rate
+16 (DAHRTP) as reason to approve SCE’s VGRP. However, PG&E’s application for
+17 its DAHRTP had a cost forecast and implementation plan for its pilot rate.”58 Cal
+18 Advocates cites PG&E’s application filed October 23, 2020. Cal Advocates further
+19 asserts that “PG&E’s DAHRTP implementation has been delayed due to its overlap
+55 CPUC Resolution G-3571 issued November 5, 2020.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M347/K955/347955274.PDF
+56CPUC Resolution E-5125 issued August 6, 2021.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M398/K239/398239873.PDF
+57 D.22-12-056 at Ordering Paragraph 12.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M500/K043/500043682.PDF
+58 Cal Advocates. Prepared Testimony of Additional Rate Design Proposals in SCE’s 2025 GRC Phase 2. 9-11.
+25
+
+1 with the Expanded [Dynamic Rate] Pilots.”59 Does Cal Advocates correctly
+2 represent the order of events in A.20-10-011 and the reason for delaying DAHRTP
+3 implementation?
+4 A. Cal Advocates misrepresents the order of events in the DAHRTP proceeding and the
+5 reason for delaying DAHRTP implementation.
+6 First, Cal Advocates conflates the development of the DAHRTP application, a dynamic
+7 charging rate for commercial EV customers, with the subsequent development of the
+8 DAHRTP export rate pilot, which came later and is the item most relevant to SCE’s
+9 VGRP proposal. Whereas VGRP is focused on export credits for EV customers from the
+10 outset, PG&E’s original DAHRTP application did not contain any pilot or rate proposal
+11 for export credits for EV customers. All pilot design and implementation details,
+12 including budget estimates, for the DAHRTP export pilot emerged approximately two
+13 years later following two party settlements and subsequent Commission decisions in that
+14 proceeding.60 As such, VGIC reiterates that the Commission should disregard Cal
+15 Advocates’ argument that SCE’s VGRP proposal should be rejected due to a lack of
+16 estimated budget in SCE’s initial proposal.
+17 Second, Cal Advocates’ claim that “PG&E’s DAHRTP implementation has been delayed
+18 due to its overlap with the Expanded Pilots” is incorrect. PG&E’s DAHRTP CEV export
+19 pilot has been unable to launch pilot due to delays in billing system upgrades, as
+20 explained by PG&E: “PG&E was unable to meet these target launch dates due to their
+59 Cal Advocates. Prepared Testimony of Additional Rate Design Proposals in SCE’s 2025 GRC Phase 2. 9-11.
+60 Joint Motion of the Public Advocates Office at the CPUC, VGIC, Electrify America, and PG&E for Adoption of Joint
+Settlement Agreement in PG&E’s Day Ahead Real Time Pricing Commercial EV Proceeding on Non-NEM Export
+Compensation Pilot. June 17, 2022.
+http://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M488/K538/488538216.PDF. Page 20.
+26
+
+1 dependence on the deployment of PG&E’s multi-year billing system upgrade.”61 VGIC
+2 believes this further supports the modification to VGRP detailed in Section IV above to
+3 mirror NBT prices, as this would likely mitigate the risk of SCE experiencing similar
+4 billing system upgrade delays that PG&E is experiencing as it attempts to implement an
+5 entirely new rate design.
+6 Q. Cal Advocates states SCE should be required to include rate schedules proposed to
+7 be included in VGRP in the Expanded Pilots instead of implementing VGRP, as this
+8 will allow for more participation in the Expanded Pilots. Do you agree?
+9 A. No, I disagree. While more rate eligibility in the Expanded Pilots may seem to support
+10 more V2G customer participation, this is not necessarily the case. In fact, the only
+11 available evidence related to this topic shows zero V2G customers enrolled in SCE’s
+12 dynamic rate pilot.62 VGIC offers two potential reasons for the absence of enrolled V2G
+13 customers in SCE’s dynamic rate pilot.
+14 First, the complexity of the Expanded Pilots and the unpredictable customer savings
+15 participation may yield, combined with the complexity of V2G technology, which is new
+16 to nearly all customers, may create a compound barrier that could be otherwise avoided
+17 by offering a simpler, more predictable rate design alternative, such as VGRP.
+18 Second, customers will likely partner with OEMs or other service providers to facilitate
+19 participation in either VGRP or Expanded Pilots. The Expanded Pilots are designed
+20 around automated service providers (“ASP”) that win an SCE Request For Proposals
+61 Response of PG&E to Provide Information Required in Executive Director Letter Dated February 28, 2024. August
+28, 2024. http://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M539/K203/539203335.PDF. Attachment - Page 1.
+62 Attachment A. VGIC-SCE-001. Response to Question 03.a-c.
+27
+
+1 (“RFP”). Notably, the terms of the RFP issued in September 2024 favored larger,
+2 incumbent ASPs (e.g., smart thermostat aggregators), rather than newer, smaller V2G
+3 ASPs. Meanwhile, VGRP customers could optimize charging and discharging using
+4 whichever OEM/ASP/third-party partner of their choosing, providing more optionality
+5 for customers and, in turn, supporting more widespread customer participation.
+6 Q. Cal Advocates asserts that enhancing participation in the Expanded Pilot will
+7 provide a more dynamic price signal than VGRP, and that export credits in the
+8 Expanded Pilot are “more closely aligned with the needs of the grid since they
+9 reflect the real-time value of energy…Expanded Pilot would provide customers with
+10 a more accurate price signal…”63 Do you agree that the Expanded Pilots yield more
+11 accurate price signals?
+12 A. No. While the CalFUSE framework underpinning the Expanded Pilots is designed to
+13 offer more accurate price signals, VGIC notes that ACC, although based on forecasted
+14 values, leverages a transparent ACC tool for which both the values and methodology
+15 have been litigated by parties for several years and rules on by the Commission. In
+16 contrast, the Expanded Pilot price signals are computed by a third-party vendor under
+17 contract directly with the utility, with no published information or stakeholder
+18 engagement behind the inputs or methodology used to arrive at hourly values. The
+19 Expanded Pilots offers customers and/or ASPs a final day-ahead value for each hour, but
+20 offers less transparency, accountability, and stakeholder engagement opportunity than the
+21 ACC tool. While VGIC hopes the Expanded Pilot participants in both SCE and PG&E
+22 service territory are receiving accurate prices, the current mechanism for calculating these
+63 Cal Advocates. Prepared Testimony of Additional Rate Design Proposals in SCE’s 2025 GRC Phase 2. 9-12.
+28
+
+1 prices is opaque and offers no pathway for stakeholders to assess the accuracy of the
+2 price signals.
+3 Q. Do you believe that further expanding SCE’s Expanded Pilot would yield optimal
+4 V2G participation and the resulting grid benefits?
+5 A. No. As detailed in Section III above, the ways in which EV drivers use their vehicles are
+6 diverse, and the ways in which these vehicles interact with the grid are perhaps even
+7 more diverse. To transition the VGI market from early V2G demonstrations and pilots to
+8 large-scale deployments that can meaningfully support the grid and provide grid edge
+9 energy storage capacity at scale, V2G customers may benefit from access to a menu of
+10 export compensation options. EV customers have a diverse set of needs and serve a
+11 variety of use cases characterized by various duty cycles, dwell times, vehicle battery
+12 sizes, charger configurations, and site load characteristics. As noted above in Section III,
+13 the 2019-2020 VGI Working Group defined, sorted, assessed, and ranked 2,500 potential
+14 VGI use cases. Meanwhile, SCE’s Charge Ready Transport program, the nation’s largest
+15 medium- and heavy-duty make-ready charging program, demonstrates a rich array of
+16 various customer segments and charger sizes.
+17 Promoting grid-friendly behavior, including V2G exports, from an exceptionally diverse
+18 subset of utility customers presents a unique challenge. This use case diversity strongly
+19 suggests that no one single compensation mechanism will optimally capture all potential
+20 beneficial V2G participation. This is consistent with the argument made by SCE in its
+21 VGRP proposal:64 holistic frameworks and strategies consisting of a mix of static retail
+64 SCE-04A at 126-130.
+29
+
+1 rate options, dynamic rate pilots, even-based demand response programs, direct control
+2 programs, and wholesale market participation allows customers the choice to participate
+3 in the option that best fits their specific needs and internal cost-benefit calculations. For
+4 some customers, demand response strategies and relatively infrequent event-based
+5 programs may be better suited to their needs, goals, and technologies. Other customers
+6 may be attracted to a 24/7, year-round optimization approach. Yet other customers may
+7 seek to dual participate in both utility export rates and non-rate utility programs, where
+8 permitted, to maximize cost-effectiveness. In this way, there appears to be no one-size-
+9 fits-all approach to unlocking V2G capability to support the grid. Just as grid planners
+10 seek fuel diversity in the bulk power generation profile, the Commission should seek
+11 V2G strategy diversification. This is especially critical within the context of the relatively
+12 nascent V2G market, where there is a need to prompt initial customer response from a
+13 wide array of new vehicle classes and use cases, customer segments, charger sizes and
+14 types, site hosts, relevant agents and actors, and price sensitivities.
+15 Furthermore, by offering a portfolio of participation options, the Commission and utilities
+16 can experiment with innovative rate design approaches, like dynamic rate pilots, while
+17 still maintaining the key rate design principles of gradualism, simplicity,
+18 understandability, public acceptability, and feasibility of application through offering
+19 widely used export compensation mechanisms. Critically, pursuing these options in
+20 parallel mitigates against path dependence, as detailed above in Section III.
+21 Q. Based on the above responses, do you agree with Cal Advocates’ recommendation to
+22 add rate schedule eligibility into the Expanded Rate pilots in lieu of adopting VGRP
+23 in this proceeding?
+30
+
+1 A. No, I do not agree with Cal Advocates’ proposal to add rate schedule eligibility into the
+2 Expanded Rate pilot in lieu of adopting SCE’s VGRP, as modified by VGIC’s
+3 recommendations in Section IV above.
+4 Q. Are there any other reasons why you disagree with Cal Advocates’ recommendation
+5 to add additional rate schedule eligibility into the Expanded Rate pilots in lieu of
+6 adopting VGRP?
+7 A. Yes. SCE’s Expanded Pilot is approved by D.24-01-032, and SCE recently filed a
+8 separate rate application to address further development of its dynamic rates. As such, it
+9 is not reasonable to impose additional requirements on the in-development Expanded
+10 Pilot or establish requirements for new dynamic rates that are being litigated in SCE’s
+11 separate application.
+12
+13 VI. CONCLUSION
+14 Q. Does this conclude your testimony?
+15 A. Yes.
+31
+
+Appendix A:
+Data Request VGIC-SCE-001
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7

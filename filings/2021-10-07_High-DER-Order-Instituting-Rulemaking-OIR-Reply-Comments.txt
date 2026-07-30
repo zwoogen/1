@@ -1,0 +1,204 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ORDER INSTITUTING RULEMAKING TO MODERNIZE THE ELECTRIC GRID
+FOR A HIGH DISTRIBUTED ENERGY RESOURCES FUTURE
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+October 7, 2021
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ORDER INSTITUTING RULEMAKING TO MODERNIZE THE ELECTRIC GRID
+FOR A HIGH DISTRIBUTED ENERGY RESOURCES FUTURE
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Order Instituting Rulemaking to Modernize the Electric Grid for a
+High Distributed Energy Resources Future (“OIR”), adopted by the Joint Commissioners on June
+24, 2021.
+I. INTRODUCTION.
+VGIC reiterates its support for the issuance of the OIR and appreciates the attention given
+to grid modernization, distribution resource planning, and the integration of distributed energy
+resources (“DERs”), including electric vehicles (“EVs”). VGIC commends the Commission for its
+successes to date in implementing distribution planning and DER integration policies through the
+Distribution Resources Planning (“DRP”) proceeding (Rulemaking [“R.”] 14-08-013) and the
+Integrated Distributed Energy Resources (“IDER”) proceeding (R.14-10-003). VGIC also
+supports the below statement from the OIR:
+1
+
+“In California, DER growth will continue to increase, especially due to policies and
+programs driving transportation electrification (TE) and associated DERs (i.e., EVs and
+EV supply equipment [EVSE]).”1
+VGIC believes it is critically important that utilizing EVs as DERs remains an explicit and central
+strategy in this proceeding, as EVs represent flexible load and – in Vehicle-to-Grid (“V2G”) mode
+– a capacity resource. VGI should be considered as a cross-cutting strategy in each Track of the
+proceeding, and VGIC looks forward to collaborating with stakeholders to ensure the full potential
+of EVs to support customers and the grid is adequately considered and unlocked through effective
+policies, rules, and procedures. Furthermore, multi-DER co-location sites that include EVs (i.e.,
+EV/EVSE paired with solar, EV/EVSE paired with stationary energy storage, EV/EVSE that is
+fully or partially supplied by on-site DERs) should also be considered throughout this proceeding,
+as they can help achieve the states TE and DER goals, and result in ratepayer benefits. VGIC
+observes a strong potential for technology incentives (e.g., Self-Generation Incentive Program),
+DER compensation mechanisms, general market conditions, and broader state policy goals to
+nudge customers toward installing multiple types of DERs at their homes and businesses.
+With this in mind, VGIC is concerned that the High DER OIR as written may not
+sufficiently consider how to build on and carry forward existing TE and VGI policy progress.
+VGIC offers these reply comments and recommendations related to TE within the preliminary
+scope and schedule of this proceeding to ensure the progress made in TE and VGI policy forums
+is integrated into this proceeding. VGIC’s comments can be summarized as follows:
+ The rulemaking should build on and carry forward policy developments made in the
+DRIVE OIR pursuant to statutes such as SB 676 and AB 841.
+1 OIR at 8.
+2
+
+ Reforms, enhancements, and future updates to the Distribution Investment Deferral
+Framework (“DIDF”) should consider the latest available findings from the Avoided Cost
+Calculator (“ACC”) or other cost-effectiveness proceeding.
+II. THE RULEMAKING SHOULD BUILD ON AND CARRY FORWARD POLICY
+DEVELOPMENTS MADE IN THE DRIVE OIR PURSUANT TO STATUTES
+SUCH AS SB 676 AND AB 841.
+VGIC is generally supportive of the ambitious nature of this proceeding and believes the
+three-track approach found in Compromise Schedule A, proposed by staff during the September
+22nd scoping workshop, is an appropriate framework for tackling each scoping issue. This schedule
+will avoid delaying or detracting from opportunities to advance a high-DER future in other
+proceedings, as significant near-term policy reforms related to integrating DERs, including EVs,
+would remain a key focus area for the Commission and stakeholders in the appropriate
+proceedings. However, VGIC notes that for Compromise Schedule A to succeed in achieving the
+goals set forth in the OIR, it needs to build on and carry forward policy developments made in the
+DRIVE OIR, as detailed below.
+With the unanimous approval of Decision (“D.”) 20-12-029 on December 17, 2020, VGIC
+commended the Commission for implementing VGI strategies pursuant to SB 676 and other VGI
+strategies deemed necessary by the Commission. D.20-12-029 also strove to implement some of
+the primary recommendations and outcomes of the lengthy and resource-intensive VGI Working
+Group process, which produced Final Report of the California Joint Agencies VGI Working
+Group2, as well as subsequent formal party comments on VGI issues filed in R. 18-12-006
+(“DRIVE OIR”). D.20-12-029 directed investor-owned utilities (IOUs) to propose up to $35
+2 Final Report of the California Joint Agencies Vehicle Grid Integration (VGI) Working Group (September
+11, 2020) https://gridworks.org/wp-content/uploads/2020/09/GW_VehicleGrid-Integration-Working-
+Group.pdf
+3
+
+million in VGI Pilots, implement Automated Load Management (“ALM”) strategies into all future
+TE programs, rules, and tariffs, report semi-annually on VGI strategies, customer engagement, and
+other VGI data, integrate bidirectional use cases across TE activities, and implement a number of
+other VGI strategies. VGIC was generally pleased to see party recommendations referenced and
+adopted in D.20-12-029. VGIC thus believed a strong foundation for pursuing VGI strategies had
+been laid, and that subsequent actions taken in response to the Ordering Paragraphs (“OP”) of that
+Decision would follow suit and fulfill the vision of SB 676. VGIC was encouraged by several of
+the OPs in the Decision including OP 5, which states:
+“Southern California Edison Company, San Diego Gas & Electric Company, and Pacific
+Gas and Electric Company shall, each, in all of its future applications for
+transportation electrification (TE) programs, or rule or tariff to support TE infrastructure
+installation:
+identify how it will deploy customer-side Automated Load Management
+(ALM) at host sites through such programs, rule, and/or tariff where
+appropriate because this technology will support TE installation at equal or
+lesser costs than hardware-based electrical capacity while meeting TE
+charging needs; and
+describe its standard evaluation criteria to determine host sites where ALM
+would benefit ratepayers by reducing costs while meeting host site needs
+for electric vehicle charging.” 3
+Despite this directive, the IOUs’ EV Infrastructure Rules submitted for approval on February 26,
+2021, did not include either (a) an identification of how they will deploy customer-side ALM
+where appropriate or (b) a description of a standard evaluation criteria to determine host sites
+where ALM would be beneficial.4 VGIC was also encouraged by OP 7, which required SCE to
+3 D.20-12-029 OP 5.
+4 See Advice Letter 6102-E of Pacific Gas and Electric Company requesting approval of Electric Rule 29,
+Advice Letter 4429-E of Southern California Edison requesting approval of Electric Rule 29, and Advice
+Letter 3705-E of San Diego Gas & Electric Company requesting approval of Electric Rule 45.
+4
+
+file a Tier 2 Advice Letter (“AL”) within 90 days describing the potential for deployment of
+Automated Load Management technology and recommendations regarding deployment of ALM
+in Charge Ready 2 program.5 However, VGIC believes the resulting Tier 2 AL – similar to the
+IOUs’ EV Infrastructure Rules – omitted a detailed assessment of ALM potential and did not align
+with the intent of D.20-12-029 and SB 676.6
+VGIC finds it particularly concerning that OPs from D.20-12-029 directing IOUs to
+leverage EVs as DERs to use infrastructure more efficiently are not being taken as seriously as the
+should be. As IOUs continue to plan and deploy TE infrastructure, we believe that VGI should not
+be considered at some later date, but should be integrated as a core tool to achieve and accelerate
+TE goals and a high-DER future while also managing infrastructure costs. As stated in opening
+comments of Synergistic Solutions, “VGI must be placed front and center as the linchpin between
+grid resource adequacy and transportation electrification, including the provision or bidirectional
+energy flows…”7 As it relates to infrastructure, VGI strategies such as “Type 2 ALM”8 are in fact
+critical to the efficient use of existing distribution system infrastructure, construction of new
+distribution system infrastructure where necessary, and integration of DERs.
+5 D.20-12-029 OP 7.
+6 See Advice Letter 4439-E of Southern California Edison containing recommendations regarding
+deployment of ALM in the Charge Ready 2 Program.
+7 Opening Comments of Synergistic Solutions at 10.
+8 SCE defines Type 2 ALM as “energy management systems in which the connected load exceeds capacity,
+and the failure of such ALM would lead to an unsafe condition.” SCE notes that “Type 2 ALM could have
+a potential for significant cost reduction and avoidance of major construction or upgrades by utilizing the
+existing capacity to the largest extent.” See SCE, Presentation on Transportation Electrification, Charging
+Infrastructure Programs, Energy Management Systems, presented at EPRI IWC on March 20, 2019.
+See also Enabling ALM Stakeholder Letter to CPUC, June 16, 2021,
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/60d2dbd25b043e4141b16164/16244
+31572513/Enabling+ALM+-+Stakeholder+Letter+to+CPUC.pdf
+5
+
+As such, VGIC strongly recommends the proposed High DER OIR scope and schedule
+fully account for these VGI policy developments. If not well-incorporated into each Track of the
+proceeding, California risks implementing two disparate visions for EVs as DERs and – in turn –
+TE broadly. VGIC appreciates the CPUC’s attention to structural reform throughout the OIR,
+however, is concerned over the potential to ignore the considerable stakeholder work embodied in
+the December 2020 VGI decision and the various workshops and comments periods that have
+followed (i.e., the ALM workshop, EVs in Demand Response workshop, multiple VGI Pilots
+workshops, and interim studies / emerging tech workshop, etc.). Specifically, VGIC respectfully
+requests the CPUC more clearly establish how this OIR and broader reform effort will be
+coordinated with these recent VGI policy efforts.
+Furthermore, the passage of AB 841 in October, 2020 led to a substantial shift in the cost
+treatment for TE infrastructure deployment. The passage of AB 841 came after over six months of
+party comment on the draft holistic TE Framework (“TEF”), which was first issued by the
+Commission in February 2020.9 As such, there are remaining questions about how the TEF and
+the new treatment of TE infrastructure under AB 841 / EV Infrastructure Rules 29/45 will align
+moving forward. With this in mind, VGIC requests that the Commission provide clarity on how
+these two frameworks are intended to align and preferably does so soon, before the initial stages
+of the High DER OIR kick off. This clarity will critically inform the development of policies,
+programs, and rules stemming from the High DER OIR.
+9 Administrative Law Judge’s Ruling Adding Staff Proposal for a Draft Transportation Electrification
+Framework to the Record and Inviting Party Comments in R.18-12-006 (February 3, 2020).
+6
+
+III. REFORMS, ENHANCEMENTS, AND FUTURE UPDATES TO THE
+DISTRIBUTION INVESTMENT DEFERRAL FRAMEWORK (“DIDF”) SHOULD
+CONSIDER THE LATEST AVAILABLE FINDINGS FROM THE AVOIDED
+COST CALCULATOR (“ACC”) OR OTHER COST-EFFECTIVENESS
+PROCEEDING.
+As noted during the September 22, 2021 scoping workshop, the DPP/DIDF Track (i.e.,
+Compromise Schedule A Track 1) aims to consider DIDF guidelines, electrification impacts, DRP
+data portal improvements, DPP improvements broadly, and DIDF evolution. To date, DERs have
+had limited success within the existing DIDF structure, although the new Partnership Pilot may
+begin to unlock DERs within the framework. However, VGIC believes that reforms,
+enhancements, and updates beyond the Partnership Pilot may be needed to adequately leverage
+DERs for distribution deferral.
+Meanwhile, VGIC is aware of the current, active ACC proceeding. As VGIC understands
+it, staff also indicated during the workshop that a new cost-effectiveness rulemaking will likely be
+instituted following the completion of the current ACC proceeding. VGIC believes these
+proceedings can provide valuable input into current or future iterations of the DPP/DIDF
+frameworks. As such, VGIC recommends that any current or future revisions to the DIDF consider
+the latest available findings from the ACC or other cost-effectiveness proceeding.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the OIR. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: October 7, 2021
+7

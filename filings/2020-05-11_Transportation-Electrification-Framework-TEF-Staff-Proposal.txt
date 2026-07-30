@@ -1,0 +1,545 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 3.4 AND 11.3)
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: May 11, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 3.4 AND 11.3)
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Adding Staff Proposal for a Draft
+Transportation Electrification Framework to the Record and Inviting Party Comments
+(“Ruling”) issued by Administrative Law Judge (“ALJ”) Patrick Doherty on February 3, 2020.
+Pursuant to E-mail Ruling Denying Joint Motion to Stay Proceeding and Resetting Procedural
+Schedule issued by ALJ Patrick Doherty on March 24, 2020 and the modified schedule adopted
+therein, VGIC timely files these comments on Sections 3.4 and 11.3 of the Draft Transportation
+Electrification Framework (“Draft TEF”) on May 11, 2020.
+I. INTRODUCTION.
+A. Overview of VGIC
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+1
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+B. Organization of VGIC’s Comments
+VGIC’s comments are organized as follows:
+ First, VGIC raises some overarching recommendations for enhancing the Draft TEF
+Scorecard Framework proposed in Section 3.4.
+ Second, VGIC addresses specific questions for stakeholders from Sections 3.4 and
+11.3. In responding to these questions, VGIC provides several recommendations for the
+Commission’s consideration.
+ Finally, VGIC provides a summary of recommendations from its answers to the
+questions.
+II. RECOMMENDATIONS FOR ENHANCING THE DRAFT TEF SCORECARD
+FRAMEWORK PROPOSED IN SECTION 3.4.
+A. VGIC strongly supports the Commission’s efforts to establish performance metrics to
+illuminate progress achieved through TE investments, but believes metrics should be
+explicitly informed by – and firmly linked to – specific regulatory outcomes.
+VGIC understands and supports the Commission’s goal of developing a Scorecard to
+identify Metrics and Targets that measure and demonstrate publicly the progress of investor-
+owned utilities’ (“IOUs”) transportation electrification (“TE”) programs toward state goals. The
+Draft TEF states that imposing these data collection requirements will “illuminate progress
+2
+
+towards State and IOU-specific goals.” 1 VGIC agrees with this statement and believes relevant
+statutory objectives and policy goals should be translated into TE-specific regulatory outcomes.
+Metrics and targets could then be firmly tied to measuring achievement against these specific
+outcomes.
+B. A Goals-Outcomes-Metrics hierarchy can provide a foundation and extensible
+platform for TE metrics development
+By constructing a foundational goals-outcomes hierarchy to inform TE metric
+development, the Commission can create an extensible platform to transform broad regulatory
+goals, which are, by nature, high-level, into more specific regulatory outcomes. This two-level
+hierarchical approach provides a lens through which to evaluate whether particular TE
+investments or programs are adequately achieving desired regulatory outcomes. The goals-
+outcomes hierarchy, in turn, informs possible performance metrics toward the development of
+targets or scorecards. This organization is visualized in the figure below.2
+Figure 1. Goals-Outcome Hierarchy
+1 Draft TEF at 30.
+2 See In re Hawaii Public Utilities Commission, Instituting a Proceeding to Investigate Performance-Based
+Regulation, Docket No. 2018-0088, Order No. 35542, filed June 20, 2018, at 45 (“Hawaii Order No. 35542”).
+3
+
+Goals can provide the highest-level orientation for what the TEF could seek to achieve.
+TEF goals would anchor and inform consideration of specific outcomes that result from TE
+investments and programs. Existing statutory directives or policy goals, such as those articulated
+in SB 350 (De Leon, 2015), Executive Order B-48-18 (Brown, 2018), SB 1000 (Leyva, 2016),
+and SB 676 (Bradford, 2019), can inform the identification of appropriate goals.
+Outcomes are a more specific set of factors that derive, in whole or in part, from utilities’
+operations and business decisions. Outcomes should represent the many ways that TE
+investments and programs are experienced by customers and market participants, as well as
+through the economy and society at large. Outcomes are usually observable, whether through
+quantitative or qualitative measures, and in many cases can be measured through one or more
+metrics.
+Metrics are the ways that outcomes are measured. A metric should be quantifiable and
+verifiable, when possible, as well as consistent with state energy policies. Metrics are frequently
+defined by a specific unit of measure (e.g., tons of CO e avoided). In some cases, more than one
+2
+metric can be attached to a single outcome (e.g., by way of analogy, power system reliability can
+be measured by SAIDI, SAIFI, and numerous other metrics). It may be appropriate to adopt
+various metrics across the complete list of TE outcomes, from which a subset could be used for
+target setting, and even associated incentives. Many metrics may be tracked without specific
+targets attached as part of a benchmarking scorecard effort, which can still be useful to inform
+utility performance, ongoing market evaluation, policy assessments, and input to the
+development of metrics or performance targets in the future.
+As outlined in Synapse’s “Utility Performance Mechanisms: A Handbook for
+Regulators,” defining a metric typically involves the following:
+4
+
+ Specific data definitions;
+ A precise formula used to quantify each metric;
+ Data collection and analysis practices and techniques, including identification of
+the entity responsible for collecting and reporting the data;
+ Requirements for measurement and reporting; and
+ Verification techniques and designation of the entity responsible for verifying
+data.3
+Targets should be adopted for a limited set of priority outcomes and metrics, to provide
+expectations for what level of performance is desired or expected. Where feasible and
+appropriate, targets should be aspirational to encourage exemplary utility performance and
+market outcomes. Especially for newer or more innovative metrics, a target can support future
+evaluations to understand how TE investments or programs do or do not serve this desired result,
+and to adopt and/or refine TE approaches appropriately.
+C. TEF metrics should be designed in accordance with key principles
+To be most effective, metrics must be carefully designed, keeping in mind several key
+principles. To support further discussion with parties and possible adoption in the proceeding,
+Staff offers a set of five principles for metric design, again adapted from Synapse’s “Utility
+Performance Mechanisms: A Handbook for Regulators”.
+Metrics should
+1. Reflect desired outcomes.
+2. Be clearly defined.
+3 Whited, M., Woolf, T., Napoleon, A. Utility Performance Incentive Mechanisms: A Handbook for Regulators,
+Synapse Energy Economics, March 2015, (“Synapse Report”) at 19.
+5
+
+3. Be quantifiable through reasonably available data.
+4. Be easily interpreted.
+5. Be easily verifiable.
+Each principle is discussed in more detail below.
+Reflect Desired Outcomes. Metrics should reflect desired outcomes and clearly consider
+the degree to which outcomes are to be achieved. Metrics should report useful data that ties to
+prioritized outcomes. Some outcomes may require the use of multiple metrics.
+Clearly Defined. In order to avoid confusion or contentious debate, metrics must be
+clearly defined. Definitions should include a precise formula used to quantify each metric.
+Calculation methods that are precise and unambiguous will allow for useful comparison between
+utilities, possibly with other jurisdictions, and over time. Metric definitions should specify which
+data is to be collected; how often it should be collected and by whom; and methods for data
+analysis, reporting, and verification. Metrics should utilize regional or national definitions where
+possible.4
+Utilize Reasonably Available Data. Metrics should be able to be quantified using
+reasonably available data. Rather than requiring costly data collection for information that is not
+already collected, using data that is already reported can save costs and reduce administrative
+burden.5 However, as the electricity system is changing, some emerging outcomes may require
+the collection of new types of data. New customer- and grid-facing technologies may provide
+additional transparency into the grid, potentially generating new data resources. This new,
+4Synapse Report at 28.
+5Synapse Report at 29.
+6
+
+possibly more granular data can, in turn, result in improved accuracy and precision. VGIC
+explores new data pathways in Section 3A of these comments.
+Easily Interpreted. Metrics should be easily interpreted to provide stakeholders with a
+better understanding of utility and market performance. Per-unit metrics (per kWh, or per
+customer) allow for comparison across utility territories and time, while also ensuring that the
+interpretation of the metric remains useful even as load or total customers change.6
+Easily Verified. Metrics should be easily verified. To increase transparency and avoid
+data manipulation, “the use of straight-forward data collection and analysis techniques should be
+used.”7 Third-party evaluation can be helpful when evaluating performance tracking and
+reporting, especially for metrics that have financial incentives or disincentives attached. Third-
+party evaluation also can help to minimize the potential for gaming of measurement and resulting
+performance incentives.
+D. The Draft TEF should include an appropriate mix of Activity-, Program-, and
+Outcome-based Metrics
+In addition to establishing design principles, it is helpful to understand the nature of
+underlying activities or system characteristics that metrics measure. Metrics can be categorized
+as activity-, program-, or outcome-based, depending on what they are measuring.
+Activity-based metrics track specific actions or decisions that the utility is performing
+directly. Examples of activity-based metrics include: recruitment and training of a large number
+of contractors to participate in a new program, developing education or training courses for
+6Synapse Report at 30.
+7 Synapse Report at 31.
+7
+
+customers on new technologies, or strategies with an assessment of actions taken by customers.
+Activity-based metrics do not necessarily reflect the achievement of a desired outcome since
+they tend to focus on intermediate steps toward achieving an outcome; however, these metrics
+are helpful indicators of progress, especially when direct measurement is difficult.
+A step away from process and toward results, program-based metrics measure the
+relative success of utility programs. For example, a program-based metric for load reduction
+might measure peak reduction in MW attributable to customers that are participating in an event-
+based demand response program, compared to an established baseline where performance is
+measured ex-post against a forecasted “business as usual” scenario and normalized for exogenous
+factors like weather. They can, in some cases, unduly emphasize narrow programs that may
+constrain more systemic changes that are needed. Furthermore, in some circumstances, they may
+operate to limit the potential for new and innovative approaches to achieve outcomes. In
+addition, a measure-by-measure estimation can also be subject to disputes over baseline
+assumptions, calculation methods, and the challenge of “proving the counterfactual.”8
+Outcome-based metrics can be used when direct measurement of results is possible.
+Examples of outcome-based metrics include pounds of CO per MWh for carbon intensity, or per
+2
+an absolute MW measurement for total system peak. If applied well, outcome-based metrics can
+allow the utility flexibility in choosing which programs and technologies should be used for
+achieving outcomes. Under the right circumstances, outcome-based metrics can allow utilities to
+determine the most effective strategy to achieve policy objectives, including the development of
+new business strategies that would not be considered under narrower, program-based metrics,
+8 Orvis, Robbie. Avoiding Counterfactuals in Performance Incentive Mechanisms: California as a Case Study,
+America’s Power Plan, April 2016.
+8
+
+while somewhat relieving regulators from dictating program terms. By measuring changes at a
+system level and not as siloed programs or activities, outcome-based metrics can also mitigate
+disagreements over counterfactuals and attribution.
+Outcome-based metrics can be appropriate where programmatic inputs are not simple to
+isolate, and where the desired outcome is best pursued by a holistic approach and a range of
+activities – including those of customers and unregulated third parties – that jointly influence the
+outcome. However, outcome-based metrics have limitations as well, including concerns that it
+may be unfair or risky to attribute to utilities results that are significantly influenced by
+exogenous factors such as weather, economic activity, or the decisions of other market
+participants. Nonetheless, outcome-based metrics can be a useful measure of the overall
+achievement of regulatory outcomes, and tracking these as metrics alone does not necessarily
+suggest that the metric be directly tied to financial incentives.
+In practice, a mix or blended portfolio of metric types is warranted, and VGIC
+recommends such a portfolio in the TEF. In particular, program-based metrics can be helpful
+during transitional phases of market development and while less-established, outcome-based
+metrics are explored. Activity-based metrics may also be appropriate in limited circumstances,
+such as for tracking progress on system planning or data sharing.
+E. The Draft TEF should leverage best practices for metrics development from leading
+jurisdictions.
+VGIC offers that as the Commission works to refine the organization, focus, and
+prospective efficacy of the TEF scorecard framework that it might look to leverage the
+experience of other leading jurisdictions that have begun to tackle issues related to the
+9
+
+development of performance metrics, even if such efforts have not focused primarily on
+transportation electrification.
+To that end, the experience of Minnesota through Docket No. E-002/CI-17-401, where
+the Minnesota Public Utilities Commission (“MPUC”) is working to identify performance
+metrics, and potentially, incentives for Xcel Energy’s electric utility operations, is instructive. On
+January 8, 2019, the MPUC issued an order establishing a Performance Incentive Mechanism
+(“PIM”) Process.9 The PIM process includes seven steps; the January 2019 order accomplished
+steps 1 (“articulate goals”) and 2 (“identify desired outcomes”).
+Hawaii is another noteworthy example, particularly for the process design and approach
+it has taken through its comprehensive investigation into performance-based regulation in
+Docket No. 2018-0088. More specifically, the Commission adopted a strategically sequenced
+process approach to metrics development that aligns closely with that of Minnesota. To wit, the
+Hawaii Public Utilities Commission adopted a PBR Design Process that began with (1) the
+articulation of goals; and (2) the identification of desired regulatory outcomes.10
+The experiences of both Minnesota and Hawaii demonstrate some emerging best
+practices for metrics development that can and should help inform the design of the TEF
+Scorecard Framework.
+9 In re Application of Northern States Power for Authority to Increase Rates for Electric Service in the State of
+Minnesota, Docket No. E-002/GR-15-826, Findings of Fact, Conclusions, and Order, filed June 12, 2017, at 23.
+10 Hawaii Order No. 35542 at 43-44.
+10
+
+III. RESPONSES TO COMMISSION QUESTIONS AND RECOMMENDATIONS
+FOR TEF SECTIONS 3.4 AND 11.3.
+In this section, VGIC responds to the specific questions and recommendations posed in the
+Ruling related to the following sections of the TEF:
+ Section 3.4: Targets, Metrics, and Reporting
+ Section 11.3: Investor Owned Utilities’ Low Carbon Fuel Standard (“LCFS”) Programs
+A. Response to Questions on Section 3.4: Targets, Metrics, and Reporting.
+Section 3.4, Question 1: How could the financial metrics proposed in the draft
+Scorecard be expanded and leveraged to help develop cost-
+effectiveness metrics?
+VGIC cautions against the strict application of cost-effectiveness metrics for TE, as this
+may place undue burden on TE investments and pose significant barriers to meeting state policy
+goals. Cost-effectiveness tests are primarily used for energy efficiency investments and may not
+be appropriate for other utility investments, specifically TE infrastructure. While cost-
+effectiveness tests answer the important question of whether benefits outweigh costs, cost-
+efficiency is the more relevant concept for TE as it addresses whether a policy is implemented at
+the lowest overall cost. Cost-effectiveness tests should not be strictly applied in the context of TE
+as they may screen out measures that would otherwise have significant benefits in terms of cost-
+efficiency or long-term market development benefits not accounted for in cost-effectiveness
+tests.
+Whether the Commission pursues the development of cost-effectiveness metrics or shifts
+its focus towards cost-efficiency principles, VGIC offers that three cost-benefit perspectives may
+11
+
+be useful to consider when developing metrics in the draft Scorecard. The specific tests detailed
+below were not created to address state TE and decarbonization goals, and therefore should serve
+to generally inform, rather than strictly limit, the development of metrics in the draft Scorecard.
+ The total “energy wallet” for each IOU service territory, or the state overall. This
+approach considers the total amount spent on transportation in the state as internal
+combustion engine (“ICE”) vehicles are replaced with EVs. This is commonly
+referred to in electricity economics and the California Standard Practice Manual
+as the Total Resource Cost (“TRC”) test.
+ The costs and benefits to each IOU’s customers. This compares electricity bill
+revenue to the marginal cost incurred by the utility to serve load. In electricity
+economics, this is commonly referred to as the Ratepayer Impact Measure
+(“RIM”).
+ Total societal costs and benefits. This approach considers the costs and benefits
+experienced by society as a whole, including health and environmental benefits.
+This perspective is commonly referred to as the Societal Cost Test.
+The table below indicates some of the costs and benefits that could be included in each
+perspective.
+12
+
+Energy Wallet Utility Customers’ Societal
+Perspective Perspective Perspective
+Incremental upfront Cost
+Cost
+vehicle cost
+Charging infrastructure Cost (if funded by TE Cost
+Cost
+cost programs)
+Electricity supply cost to Cost
+Cost Cost
+serve EVs
+Federal EV tax credit Benefit Benefit
+Vehicle operations and Benefit
+Benefit
+maintenance savings
+Avoided vehicle gasoline Benefit
+Benefit
+Utility bills paid by EV
+Benefit
+drivers
+Utility GHG compliance Benefit
+Environmental and Benefit
+health impacts
+Energy security Benefit
+VGIC specifically encourages the consideration of the utility customer perspective
+(ratepayer impact) when evaluating cost-efficiency (or cost-effectiveness) of TE programs, as it
+helps capture the full potential for VGI to maximize downward pressure on rates.
+The Draft TEF proposes four program-specific Financial Metrics, one of which is
+“Ratepayer dollars spent per site electrified.”11 VGIC seeks clarification from the Commission
+on whether this metric refers to the ratepayer dollars spent on costs related to installation, costs
+for the charging at the site once EVSE is installed, or a different meaning, as the precise
+definition may impact the opportunity to reduce the value of this metric by implementing VGI
+strategies.
+To further highlight the potential for managed charging to enhance the availability of net
+benefits for all customers, VGIC notes the analysis conducted by E3 and ICF in the California
+Transportation Electrification Assessment, Phase 2: Grid Impacts, as well as the analysis for the
+11 Draft TEF at 175.
+13
+
+Hawaiian Electric Companies’ Electrification of Transportation Strategic Roadmap.12 To
+demonstrate the benefits of smart charging, E3 modeled an illustrative Smart Charging case. This
+Smart Charging behavior lowers the cost to the utility’s customers by increasing the amount of
+low-cost solar integrated into the electricity supply, and by avoiding distribution upgrades that
+would otherwise be needed to support charging during the evening peak. The result from E3’s
+analysis was a 53 percent increase in net benefits versus the unmanaged charging case.13
+As the Commission examines the potential expansion of financial metrics in the draft
+Scorecard, VGIC recommends that strong consideration be given to an approach that captures
+the importance of VGI elements such as managed charging as it relates to the opportunity to
+place downward pressure on rates for all customers. VGIC also recommends that cost-efficiency
+(or cost-effectiveness) measures should be considered dynamic rather than static, as VGI
+strategies and resulting shifts in load can improve as the market continues to evolve.
+Supporting nascent market segments leads to long-term market development benefits that
+may be difficult to quantify and are not traditionally included in cost-effectiveness tests. VGIC
+recommends that determinations of cost-efficiency (or cost-effectiveness) based on financial
+metrics adopted in the Final TEF should consider the market development benefits of TE
+programs, including their VGI components.
+Section 3.4, Question 3: What methodologies for calculating greenhouse gas
+emission and air pollutant reductions could be applied to IOU TE
+12 California Transportation Electrification Assessment, Phase 2: Grid Impacts, October 23, 2014, at 19-20,
+available at https://caletc.com/wp-content/uploads/2016/08/CalETC_TEA_Phase_2_Final_10-23-14.pdf; Hawaiian
+Electric, Maui Electric, Hawaii Electric Light, Electrification of Transportation Strategic Roadmap, March 2018,
+available at
+https://www.hawaiianelectric.com/documents/clean_energy_hawaii/electrification_of_transportation/201803_eot_ro
+admap.pdf (“HECO EoT Roadmap”).
+13 HECO EoT Roadmap at 35.
+14
+
+programs to better track their effectiveness? Should a new emissions
+reduction measuring methodology be developed specifically for
+transportation electrification infrastructure programs?
+VGIC believes that the California Self-Generation Incentive Program (“SGIP”)
+greenhouse gas (“GHG”) emissions signal, developed by WattTime, may offer a practical
+methodology for calculating greenhouse gas emissions that could be applied to IOU TE
+programs to better track their effectiveness.14 WattTime’s automatic emissions reduction
+technology is also in use for commercial offerings, providing EV customers an option to reduce
+GHG emissions by shifting their charging behavior.15 The WattTime tool could be applied to
+IOU TE programs. If a new emissions reduction measuring methodology is to be developed
+specifically for TE infrastructure programs – which would likely be a time- and resource-
+intensive effort -- the WattTime tool should provide a valuable starting point in the development
+of any new methodology.
+VGIC recommends the Commission also consider methodologies for tracking the impact
+that TE could have on reducing local criteria pollutants within disadvantaged communities
+(“DACs”) by tracking locations where charging is occurring relative to those communities.
+While actions resulting from SB 1000 (Lara, 2018) concern the equitable distribution of TE
+infrastructure, it may also be important to track where charging occurs as an approximation of
+the locations where ICE vehicle travel is predominately being displaced by EVs. Overlaying
+charging behavior with DAC areas may be able to help identify ways to enhance TE and
+charging activities in regions that have higher burdens of local air pollution.
+14 California Self-Generation Incentive Program Greenhouse Gas Signal http://sgipsignal.com/
+15 See, for example, Enel X JuiceNet Green https://evcharging.enelx.com/products/juicenet-green
+15
+
+Section 3.4, Question 5: Is there sufficient data, or a path to collect data, to
+evaluate whether IOU TE programs or planned TE portfolios could cause
+downward pressure on customers’ volumetric energy rates?
+VGIC does not believe that TE inherently or necessarily places downward pressure on
+rates. Unmanaged charging could increase EV load coincident with peak demand, which would
+increase system costs and in turn electricity rates. This not only highlights the importance of
+enabling widespread VGI to significantly increase the likelihood of putting downward pressure
+on rates, but also points to the need to source EV charging data with adequate temporal and
+spatial granularity to determine whether IOUs’ TE investments result in beneficial electrification.
+VGIC recommends the Commission explore potential pathways of data collection that
+engage relevant market participants. One potential pathway to collect data would be to leverage
+the technology contained in EVSE and EVs to provide data from the assets directly to IOUs.
+Automotive original equipment manufacturers (“OEM”) or EV service providers (“EVSP”)
+could partner with IOUs to provide data from these non-IOU assets. A reasonable
+implementation of such a data-sharing program would likely require data to be anonymized and
+aggregated under relevant privacy laws and Commission regulations. If this solution were to be
+pursued, OEMs and EVSPs would need to have access to a compensation mechanism for the
+data collection and transmission service they would provide to IOUs, as implementation would
+impose costs on these industry participants.
+Another potential pathway for data collection may be through the Electric Power
+Research Institute’s (“EPRI”) Open Vehicle-Grid Integration Platform (“OVGIP”). OVGIP
+could provide a data clearinghouse for EV data, playing an important role in transmitting data for
+16
+
+the purposes of TE program evaluation and progress tracking.16 VGIC recommends the
+Commission further consider the role of OEMs and EVSPs in collecting and reporting the data
+entailed by the Final TEF.
+VGIC believes that EV and EVSP-sourced data, such as Vehicle Miles Traveled
+(“VMT”) and kWh consumption, can inform many relevant TEF metrics. VGIC leaves further
+discussion on the application of these types of data and determination of specific metrics – and
+their application to outcomes according to the framework recommended in Section II of these
+comments – to the upcoming workshop on Section 3.4 of the Draft TEF.
+B. Response to Questions on Section 11.3: LCFS Programs.
+Section 11.3, Question 1: Do Energy Division staff’s proposed LCFS holdback
+program options benefit existing and/or future EV drivers? Why or why
+not?
+It is likely – but not guaranteed – that the Energy Division staff’s proposed LCFS
+holdback program options would benefit existing and/or future EV drivers. LCFS holdback
+funds should not be viewed as a guaranteed source of funding for TE programs. With an eye
+towards long-term planning goals, VGIC strongly cautions against the use of LCFS holdback
+funds to provide the core funding for TE programs. LCFS revenues are tied to the LCFS credit
+price, the value of which is somewhat uncertain. The purpose of the LCFS regulation is to lower
+the carbon intensity (“CI”) of California’s transportation sector fuel, and regulated entities not
+expecting to meet the set CI target have traditionally complied with the regulation by purchasing
+credits from entities that generate LCFS credits based on the provision of clean fuels, such as
+16 See https://www.epri.com/#/pages/product/3002008705/?lang=en-US for more information on EPRI’s OVGIP.
+17
+
+IOUs providing electricity for residential EV charging. This level of demand for credits has
+traditionally resulted in a relatively high credit price.17 However, if regulated entities implement
+new technologies that allow them to comply with the regulation at a lower cost, the credit price
+would decrease. Therefore, the possibility that regulated entities may embrace new technologies
+to comply with the LCFS regulation, if and when those technologies become available,
+represents an inherent uncertainty that should impact the extent to which LCFS funds are relied
+upon for TE programs.
+VGIC cautions against using LCFS funds as a core funding source for a given TE
+program, or VGI element of a TE program, due to the uncertainty mentioned above. In a scenario
+where the core source of funding for TE or VGI programs is diminished, there may be negative
+consequences beyond the immediate loss of funding for infrastructure investment and/or
+program costs. For example, by failing to implement a TE program, customer expectations
+around TE infrastructure and VGI programming may not be fulfilled, leading to a potential drop
+in EV deployment as customers are discouraged from new EV purchases – which is counter to
+the express purpose of LCFS proceeds to be used to promote EV adoption.
+To mitigate these risks, LCFS holdback funds should be viewed as a supplementary
+source of funding, rather than as the core or primary source of funding for TE programs. Energy
+Division Staff’s recommended holdback program option 2 states, “reduce the cost to ratepayers
+of existing school bus or transit charging infrastructure programs… Staff sees an opportunity to
+reduce the cost of these programs to ratepayers by supplementing the budgets with LCFS credit
+revenue.”18 VGIC would support such a use of LCFS credit revenues.
+17 The LCFS regulation imposes a price ceiling and associated cost containment mechanisms due to concerns over
+the high credit price.
+18 Draft TEF at 149.
+18
+
+Another potential use for LCFS holdback funds would be to establish a grant pool or
+supplement an existing grant fund. VGIC also supports this approach to using LCFS credit
+revenues, as a shift in LCFS credit prices would not directly impact existing or future TE
+program budgets. VGIC recommends the Commission explore both the grant pool approach and
+the budget supplement approach as potential lower-risk paths forward for LCFS holdback funds.
+Additionally, VGIC echoes previous comments made by us and several other parties on
+the Draft TEF that the Commission should not be overly prescriptive in limiting areas of IOU
+investment in TE infrastructure and programs, and we believe this sentiment extends to the
+potential investment of LCFS holdback funds. 19
+Whether the Commission adopts strict limitations or high-level guidance on IOU use of
+LCFS holdback funds – and whether the grant pool or budget supplement approach is
+implemented – VGIC strongly supports funding EV resiliency efforts, like those discussed and
+recommended in Section 5.2 of the TEF. 20 For example, LCFS holdback funds could be used to
+establish a grant pool and funding opportunities could be targeted to helping mitigate costs of
+vehicle-to-microgrid or vehicle-to-building systems for resiliency purposes. Another example
+could be to use LCFS holdback funds to help mitigate these costs by supplementing program
+budgets for these solutions. As discussed in previous comments, VGIC strongly supports
+Commission authorization of IOU funding – in general – for solutions addressed in Section 5.2.21
+If the Commission adopts strict limitations on IOU use of LCFS holdback funds, then VGIC
+would support the use of LCFS holdback funds to supplement the EV resiliency program budgets
+or establish a grant pool for future projects related to EVs and resiliency.
+19 See, for example, VGIC Opening Comments on TEF Sections 3.1, 3.2, 3.3, 4, and 5 at 3-5, NRDC et al. Joint
+Opening Comments at 6, and Tesla Opening Comments at 2-3.
+20 Draft TEF at 45-50 and 58.
+21 Opening Comments of VGIC on Sections 2, 3.1, 3.2, 3.3, 4, and 5 of the Draft TEF at 13-14.
+19
+
+V. SUMMARY OF RECOMMENDATIONS.
+In responding to the questions above, VGIC proposes several recommendations, which can be
+summarized as follows:
+Overarching recommendations to enhance the Scorecard framework:
+ VGIC highlights existing best practices in setting metrics
+ VGIC proposes core principles and a conceptual structure that highlights the
+importance of first articulating goals and identifying regulatory outcomes as a
+comprehensive enhancement to Staff’s proposed Scorecard framework.
+Section 3.4:
+ VGIC highlights the risks of strictly applying cost-effectiveness tests in the
+context of TE and recommends a shift towards cost-efficiency.
+ VGIC suggests the consideration of three cost-benefit perspectives that could be
+useful when developing metrics: the “energy wallet” or Total Resource Cost, the
+customer perspective or Ratepayer Impact Measure, and the cost to society.
+ The consideration of ratepayer impact and inclusion of market development
+benefits are important elements of cost-effectiveness or cost-efficiency as they
+relate to VGI strategies.
+ VGIC points to an existing methodology for calculating GHG emission
+reductions that could be applied to IOU TE programs.
+ Methodologies for tracking the impact that TE could have on reducing local
+criteria pollutants within DACs by tracking locations where charging is occurring
+should be considered.
+ VGIC recommends the Commission consider potential roles for industry
+participants in data collection and reporting.
+Section 11.3:
+ LCFS credit holdback funds should not be a core or sole source of funding for TE
+programs due to LCFS credit price risk. Instead, LCFS revenues could be used to
+supplement TE program budgets or to establish a grant pool – or contribute to an
+existing grant pool - therefore preventing overreliance on the uncertain source of
+funding.
+ The Commission should not be overly prescriptive in its guidance on the use of
+LCFS holdback funds.
+20
+
+ If the Commission adopts explicit direction for LCFS holdback funds, VGIC
+supports use of LCFS fnuds to supplement budgets or provide grant funding for
+EV resiliency efforts.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these opening comments on the TEF
+Scorecard and LCFS programs sections of the Draft TEF. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: May 11, 2020
+21

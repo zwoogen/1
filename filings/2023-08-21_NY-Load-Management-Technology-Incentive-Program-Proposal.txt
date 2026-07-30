@@ -1,0 +1,145 @@
+August 21, 2023
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 22-E-0236: Proceeding to Establish Alternatives to Traditional Demand-Based
+Rate Structures for Commercial Electric Vehicle Charging
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on the Load Management Technology Incentive Program
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based advocacy
+group committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid integration
+(“VGI”) through policy development, education, outreach, and research. VGIC supports the
+transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates the
+opportunity to provide comments on the Joint Utilities’ proposed Load Management Technology
+Incentive Program (“LMTIP”).
+VGIC Supports the Proposed LMTIP for Near-Term Implementation
+Demand management technologies1 (“DMTs”) are important strategies to help advance
+New York’s transportation electrification goals while minimizing impacts to ratepayers.
+Specifically, DMTs can reduce charging customers’ electric service requirements and, in doing
+so, reduce the cost to ratepayers and optimize the use of utility make-ready funding to support a
+greater number of charging sites. Using DMT to reduce utility infrastructure may also accelerate
+site connection timelines by reducing the scope of service connection. This makes charging
+1 VGIC referred to the same set of technologies and strategies as “Automated Load Management” in our previous
+comments. We use the term “demand management technologies” here to align with language used by Staff and the
+Joint Utilities.
+
+infrastructure available more quickly to serve the fast-growing number of EVs on the road.
+VGIC appreciates the Joint Utilities’ efforts in developing a first-of-its-kind program in New
+York state to incentivize the deployment of DMTs and supports the proposed LMTIP for near-
+term implementation.
+Particularly, VGIC supports the Joint Utilities inclusion of broad eligibility guidelines for
+the LMTIP. There are many approaches – both hardware and software – to managing the demand
+and site connection requirement of charging sites, and the Joint Utilities’ proposal to allow “all
+demand management technologies capable of reliably balancing, curtailing, or deferring a
+customer’s net EV charging demand on the electric grid” to participate will ensure the inclusion
+of diverse approaches to deliver the same service to the grid and allow customers to choose the
+approach that best fits their needs. Additionally, the proposed incentive levels would help offset
+a significant portion of the costs of DMTs and would greatly improve the economic case for
+customers to install DMTs, benefiting the customers installing DMTs themselves as well as
+ratepayers in general.
+The proposed LMTIP is reasonable as a first step as the Joint Utilities gain familiarity
+with DMTs. However, the proposed approach to the program may not be the best way to
+incentivize the deployment of DMTs in the long term, as detailed below in the final section of
+VGIC's comments. The proposed method to determine incentive levels is administratively
+burdensome, requiring the utilities to determine the costs of DMTs for individual projects. As
+explained by the Joint Utilities in their filing, the costs of some DMTs can be ambiguous – such
+as when software-based load management costs are part of a software package that also includes
+other services, or when energy storage is integrated directly into the EVSE rather than a separate
+piece of equipment. This limitation may also introduce uncertainty for the site host and/or
+technology provider as to the amount of incentive they can expect to be eligible for under the
+LMTIP, affecting calculations for project economics. With this in mind, the proposed LMTIP
+approach will be an important exploration of DMTs and potential incentive structures to support
+deployment, however, long-term program development efforts may benefit from consideration of
+alternative program designs, detailed below in the final section of VGIC's comments.
+DMTs Should Be Permitted to Stack LMTIP Incentives with Other Programs
+The LMTIP design appropriately supports the installation of DMTs in a technology-
+agnostic manner. VGIC considers two overall categories of DMTs: software-based DMTs (e.g.,
+power-sharing software used to manage load at a multi-charger site) and hardware-based DMTs (
+e.g., using co-located or integrated stationary energy storage solutions to manage load). As
+proposed, the LMTIP would enable software-based DMTs to support system-level benefits
+through enrollment in managed charging programs. VGIC acknowledges that hardware-based
+
+DMTs may be more expensive relative to software-based DMTs in many cases. However, it is
+also true that hardware-based DMTs offer a different set of grid and customer benefits than
+software-based DMTs. For example, hardware-based DMTs utilizing stationary energy storage
+can provide backup power to the site and support the grid in manners similar to standalone
+energy storage systems. As such, VGIC recommends that hardware-based DMTs participating in
+LMTIP be deemed eligible to dual participate in existing or future incentive programs, rates, or
+market participation pathways that are used to support standalone stationary energy storage
+systems. This will help unlock the suite of benefits that hardware-based DMTs offer. Moreover,
+this approach will ensure fairness in the DMT marketplace as both software- and hardware-based
+DMTs will be eligible to participate in programs other than LMTIP.
+The Joint Utilities Should Establish a Unified Approved Products List and Incentive Cap
+As proposed, each utility will decide on technology eligibility for the LMTIP, which
+could result in one utility accepting a product while another does not. VGIC respectfully urges
+the Commission to direct the joint utilities to establish and maintain a single statewide approved
+products list for the LMTIP. First, this would be consistent with the Charge Ready program
+eligible charging equipment and network providers list, which is hosted on NYSERDA’s Charge
+NY website. Second, this would support fleet operators and other charging providers that plan,
+install, and manage locations across different service territories in New York. VGIC offers itself
+as a resource to work with Joint Utilities, Department of Public Service staff, and the Public
+Service Commission in the development of a statewide approved products list for the LMTIP.
+Similarly, the downstate and upstate utility LMTIP proposals differ in the level of
+incentive available as a percentage of total project costs. The upstate proposal caps incentives at
+50% of costs, whereas the downstate proposal caps incentives at 90% of costs. VGIC
+respectfully requests the Commission direct the joint utilities to offer a unified cap of 90% of
+costs, to ensure consistent treatment for customers and DMT providers operating across different
+service territories. This would significantly cut down on soft costs for these actors, who are
+already faced with complex program rules and newly established processes for charger
+installation and connection.
+The Commission Should Consider A Per-Project Cost Cap for the LMTIP
+The LMTIP will be an important first step in establishing a sustainable, long-term
+paradigm for supporting demand-reducing technologies at EV charging sites. As such, it is
+important that the LMTIP supports a variety of customers, technologies, and locations, and that
+initial installations under the program can yield important lessons learned for future large-scale
+
+program design. With this in mind, VGIC recommends that a per-project cost cap be
+implemented, which will help to stretch the program budget to support more sites, customer
+types, and technology types and, in turn, important best practices to inform long-term, large-
+scale program development.
+Future Iterations of the LMTIP Could Consider a Prescriptive Dollar-per-kW Incentive
+The Joint Utilities recommend that the Commission establish a process to determine the
+future of the LMTIP prior to the exhaustion of the repurposed PPI program budget. At that point,
+VGIC recommends that the Commission require the Joint Utilities to explore a program that
+provides a prescriptive dollar-per-kW incentive, commensurate with the demand reduction and
+infrastructure cost savings resulting from the overall installation of DMTs. Under this approach,
+customers would receive a rebate based on a prescribed dollar-per-kW amount for the difference
+between the cumulative nameplate EVSE capacity and site connection requirement. The per-kW
+incentive amount would be based on infrastructure costs avoided by DMT installations overall –
+such as the costs associated with installing EVSE across each service territory or a few specific
+local load pockets, regardless of the specific DMT the customer elects. The customer installing
+DMT would be eligible for a portion of the cost savings enabled by their DMT installation, with
+the remainder benefiting all ratepayers. For example, if the average cost for EVSE installation is
+$1,000 per kW, and the customer installs DMT to reduce 100 kW in total nameplate EVSE
+capacity to 80 kW site connection requirement, then the cost savings enabled by the DMT
+installation is $20,000. Assuming a cost-share share ratio of 80/20 as an example, the customer
+would be eligible for a $16,000 incentive, while ratepayers would benefit from $4,000 in savings
+and/or unspent program budget that can be used for more EVSE.
+This prescriptive incentive approach, modeled after widely used energy efficiency
+programs that avoid the need for individual site-based assessments, has several benefits
+compared to the proposed LMTIP. First, a set dollar-per-kW incentive would reduce
+administrative burden by avoiding the need for utilities to determine the DMT costs for each
+individual site. Second, the predictable amount of incentive would be straightforward for
+customers to plan for during the site design process. Lastly, setting the incentive levels based on
+the demand reduction and infrastructure cost savings enabled by DMTs would ensure that
+customers are rewarded equally for delivering the same grid benefits, meaning that the program
+would incentivize the installation of the most cost-effective load management strategies. VGIC
+offers itself as a resource for the Commission and the Joint Utilities to help develop the specifics
+of such a program.
+
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Joint Utilities , the Commission, and other stakeholders to ensure the success of
+New York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org

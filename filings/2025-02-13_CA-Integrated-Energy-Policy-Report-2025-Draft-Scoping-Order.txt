@@ -1,0 +1,142 @@
+February 13, 2025
+Email to: docket@energy.ca.gov
+Docket Number: 25-IEPR-01
+Subject: 2025 Integrated Energy Policy Report
+RE: Comments of the Vehicle Grid Integration Council on the Draft Scoping Order for
+the 2025 Integrated Energy Policy Report
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide comments
+on the Draft Scoping Order for the 2025 Integrated Energy Policy Report (IEPR) published by the
+California Energy Commission (CEC) on January 28, 2025.
+As California electrifies its transportation sector, significant new flexible, customer-sited energy
+resources will be added to California’s grid in the form of electric vehicles (EVs), which sit idle
+approximately 95% of the time.1 This creates opportunities to leverage EVs to not only
+decarbonize transportation, but also support the evolving electric power sector, apply downward
+pressure on electric utility rates through reduced infrastructure costs, ensure community resilience,
+and foster economic activity.
+CARB has estimated that in order to meet AB 32 goals of carbon neutrality in 2045, California
+will need 105,555 GWh of electricity annually to power over 22 million light-duty and 1.2 million
+medium- and heavy-duty vehicles.2 Without proactive measures to shape this load and unlock EVs
+as a flexible grid asset, California’s transportation sector transition could increase net peak demand
+and necessitate costly distribution infrastructure investments, especially in locally constrained
+areas.
+Through vehicle-grid integration (VGI) strategies, EVs can be leveraged to absorb excess
+renewable energy, manage charging load to better align with real-time grid conditions, and
+discharge power through bidirectional charging solutions. However, realizing these benefits while
+ensuring that consumers' mobility needs are met requires a focused and intentional effort from
+policymakers.
+1 David Z. Morris. Fortune. Today’s Cars are Parked 95% of the Time. March 13, 2016.
+https://fortune.com/2016/03/13/cars-parked-95-percent-of-time/
+2 CARB, 2022 Scoping Plan. Available at: https://ww2.arb.ca.gov/sites/default/files/2023-04/2022-sp.pdf
+Data available here: https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-PATHWAYS-data-E3.xlsx
+1
+
+As detailed in these comments, to maximize the benefits of VGI and ensure EVs contribute
+to a flexible, least-cost grid, VGIC strongly recommends that the CEC establish two clear
+and measurable VGI targets: one for managed charging (not including static EV time-of-use
+rates) and one for bidirectional charging.
+BENEFITS OF VEHICLE-GRID INTEGRATION
+As has already been detailed by the CEC, “VGI could provide significant benefits to the
+electrical grid and customers,” and “[w]idespread VGI (and load flexibility generally) will help
+achieve California’s climate and decarbonization goals.”3 In addition to minimizing long-term
+distribution upgrade costs, VGI can help accelerate charger deployment in the near term by
+managing load in grid constrained areas that would otherwise require upgrades that, in turn,
+delay EV charger deployment. This allows the state to meet its climate and air quality mandates
+more quickly.
+It is critical that California begins earnestly leveraging vehicle-grid integration (VGI) strategies,
+which the CEC defines as “technologies and strategies that alter the time, charging level, or
+location of charging in a manner that benefits the grid while ensuring driver needs are met.” 4
+While VGIC appreciates the CEC’s focus on managing EV charging, we note the formal
+California VGI definition, as adopted by the California Public Utilities Commission in Decision
+20-12-029 pursuant to Senate Bill 676, includes discharging as well as charging:
+“Electric vehicle grid integration” means any method of altering the time, charging level,
+or location at which grid-connected light-duty electric vehicles, medium-duty electric
+vehicles, heavy-duty electric vehicles, off-road electric vehicles, or off-road electric
+equipment charge or discharge, in a manner that optimizes plug-in electric vehicle or
+equipment interaction with the electrical grid and provides net benefits to ratepayers by
+doing any of the following:
+(A) Increasing electrical grid asset utilization and operational flexibility.
+(B) Avoiding otherwise necessary distribution infrastructure upgrades and
+supporting resiliency.
+(C) Integrating renewable energy resources.
+(D) Reducing the cost of electricity supply.
+(E) Offering reliability services consistent with the resource adequacy
+requirements established by Section 380 or the Independent System Operator
+tariff.”
+3 CEC, Assembly Bill 2127 Second Electric Vehicle Charging Infrastructure Assessment: Assessing Charging
+Needs to Support Zero-Emission Vehicles in 2030 and 2035 (Second AB 2127 Report) at p.89.
+4 CEC, Assembly Bill 2127 Second Electric Vehicle Charging Infrastructure Assessment: Assessing Charging
+Needs to Support Zero-Emission Vehicles in 2030 and 2035 (Second AB 2127 Report) at p.88.
+2
+
+To further simplify references to VGI solutions throughout these comments, we offer the
+following graphic:
+SEVERAL KEY BARRIERS STAND IN THE WAY OF WIDESPREAD VEHICLE-
+GRID INTEGRATION.
+Despite the potential benefits of VGI, several policy barriers limit the ability of EVs to provide
+meaningful load flexibility, including:
+● Limited managed charging programs: While static time-of-use (TOU) rates have
+helped shift EV charging away from peak periods, they do not fully optimize load-
+shifting potential and can lead to "snapback effects" where charging demand spikes after
+TOU peak periods end. California is working on dynamic pricing frameworks under the
+CEC’s Load Management Standards and the CPUC’s CalFUSE initiative, however, the
+necessary platforms and communication standards for real-time pricing remain under
+development. Additionally, it is unclear whether the CalFUSE implementation is well-
+suited to address local distribution system optimization. Ultimately, California is behind
+other states in its development of optional managed charging programs for customers.
+● Need for diverse VGI programs beyond time-varying pricing: In addition to TOU and
+dynamic rates, California should expand programmatic VGI options, such as active
+managed charging programs designed to reduce distribution constraints, demand response
+3
+
+programs like the Demand Side Grid Support Program (DSGS) or the Emergency Load
+Reduction Program (ELRP), V2G-specific performance-based compensation programs
+that address the lack of utility V2G export rates, and load modification contracts that
+create predictable EV load forecasts. A broad portfolio of managed charging and
+bidirectional charging programs will provide EV customers with the flexibility to select
+participation models that best fit their needs and economic considerations, especially
+considering the highly diverse duty cycles and charging behaviors of millions of
+passenger EVs, public EV fleets, and private EV fleets.
+● High interconnection costs for bidirectional charging systems: The high cost of
+interconnection, such as California’s $800 Rule 21 application fee for bidirectional EVs,
+discourages widespread adoption of grid-parallel vehicle-to-grid (V2G) and vehicle-to-
+home (V2H) bidirectional charging technologies. Reducing these costs, for example
+creating parity with low-cost rooftop solar interconnection, will be essential to unlocking
+grid-parallel bidirectional charging as a key component of California’s energy future.
+THE CEC SHOULD CONSIDER ESTABLISHING A VEHICLE-GRID INTEGRATION
+TARGET IN THE 2025 IEPR LOAD SHIFT GOAL TRACK.
+To ensure that EVs contribute to grid reliability, the CEC should consider setting a specific VGI
+target within the 2025 IEPR load shift goal track. Unlike other load flexibility technologies such
+as smart thermostats or electric appliances, EVs serve a dual role as both transportation assets and
+grid resources. A dedicated VGI target would acknowledge these unique attributes and enable a
+more strategic policy approach to managed EV charging and bidirectional charging market
+development. Critically, state agencies, utilities, and other key stakeholders exhibit little
+motivation to address the above-noted barriers, as to date is little overarching imperative to do so.
+A well-defined VGI target should include two sub-targets:
+• Managed unidirectional charging (not including static TOU rates)
+• Bidirectional charging
+These targets could be expressed in several ways, such as:
+● Megawatt (MW) peak load reduction / discharge.
+● Megwatt-hour (MWh) load shift / discharge.
+● A percentage target for EVs participating in managed charging / bidirectional charging
+programs.
+● A percentage target for EV customers participating in managed charging / bidirectional
+charging programs.
+4
+
+Lastly, these targets should be attached to a specific timeframe. VGIC recommends targets be
+established for 2035, with interim targets established for 2030.
+By establishing a formal VGI target, the CEC can drive the development of policies and programs
+that ensure EVs are an asset to the grid, rather than latent load flexibility and energy storage
+capacity. Such targets will help California manage the increasing EV load while maximizing grid
+benefits, ultimately facilitating a more sustainable, reliable, and affordable energy future.
+CONCLUSION.
+VGIC appreciates the opportunity to provide these comments and looks forward to collaborating
+with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+5

@@ -1,0 +1,180 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking
+Regarding Transportation Rulemaking 23-12-008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+PREHEARING CONFERENCE STATEMENT OF THE VEHICLE-GRID
+INTEGRATION COUNCIL ON ORDER INSTITUTING RULEMAKING REGARDING
+TRANSPORTATION ELECTRIFICATION POLICY AND INFRASTRUCTURE AND
+CLOSING RULEMAKING 18-12-006
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+February 26, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking
+Regarding Transportation Rulemaking 23-12-008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+PREHEARING CONFERENCE STATMEENT OF THE VEHICLE-GRID
+INTEGRATION COUNCIL ON ORDER INSTITUTING RULEMAKING REGARDING
+TRANSPORTATION ELECTRIFICATION POLICY AND INFRASTRUCTURE AND
+CLOSING RULEMAKING 18-12-006
+In accordance with the Email Ruling Noticing & Resetting Prehearing Conference for
+Thursday, February 29, 2024 From 2:00-3:00 PM, P.S.T (“February 8 Email Ruling”), issued on
+February 8, 2024 by Administrative Law Judges (“ALJ”) Marcelo Poirier and Colin Rizzo, and
+February 22, 2024 email instruction from ALJ Poirier granting the Vehicle-Grid Integration
+Council (“VGIC”) an extension until Monday, February 26, 2024, VGIC hereby submits this
+prehearing conference statement. VGIC reserves the right to modify or change its positions in
+response to the prehearing conference statements submitted by other parties and/or statements
+made by other parties at the prehearing conference.
+I. WHETHER THE ISSUES PRELIMINARY IDENTIFIED ARE REASONABLE
+AND RELEVANT.
+With the unanimous approval and subsequent launch of the Transportation Electrification
+(“TE”) Order Instituting Rulemaking (“OIR”) (R.23-12-008) on December 14, 2023, VGIC
+commended the Commission for establishing a dedicated effort to advance timely vehicle-grid
+integration (“VGI”) strategies as envisioned in Senate Bill (“SB”) 676 and to alleviate the growing
+challenges of simply “adding” – rather than integrating – electric vehicle (“EV”) charging load
+1
+
+onto the grid.1 VGIC was pleased and encouraged to see VGI strategic focus areas, targets,
+programs, and related VGI topics included in the preliminary scope detailed in Section 3.1 of the
+TE OIR, and subsequently filed Opening and Reply Comments indicating the need to address VGI
+topics from the outset of this new TE OIR. VGIC proposed parallel Tracks in this proceeding to
+secure many “quick wins” and promote reasonable balance in California’s approach to advancing
+widespread TE.2 No parties opposed VGIC’s proposal for parallel tracks and, in fact, seven parties
+agreed with this proposal.3
+With this in mind, the preliminary scope of issues of the initial phase of this proceeding
+detailed in the February 8 Email Ruling represents an unexpected departure from the issues that
+are most urgent to California’s TE efforts. The proposed scope of the initial phase indicates a focus
+on Identification of Time, Location and Size of Electric Vehicle Charging Load to Support
+Proactive Grid Planning and Future Generation, Distribution, and Transmission Infrastructure
+Deployment Needs. VGIC appreciates the magnitude of challenges facing the Investor-Owned
+Utilities (“IOUs”) to support the fast-paced TE transition effectively and recognizes that proactive
+planning and accurate grid forecasting are important tools to address these challenges. However,
+VGIC posits that the narrow focus on proactive planning and load forecasting (a task already
+performed by the California Energy Commission’s highly capable modeling team and consultants)
+risks creating an unbalanced and overly costly TE strategy that is over-reliant on difficult
+and expensive infrastructure deployment projects while greatly underutilizing the immense
+1 Opening Comments of VGIC on TE OIR, pg. 2.
+2 Opening Comments of VGIC on TE OIR, pg. 5.
+3 See, for example, Opening Comments of Fermata Energy at 6, Opening Comments of Kaluza at 7,
+Opening Comments of Joint Automakers at 8, Opening Comments of The Mobility House at 4, Center for
+Accessible Technology, Pacific Gas & Electric, Co., WeaveGrid, and PearlX.
+2
+
+latent capacity of VGI resources, including managed charging, bidirectional charging, and DER-
+paired charging.
+Moreover, the sub-items listed below the initial scope issue do not contemplate meaningful
+strategies to support cost-efficient infrastructure deployment, including flexible service
+connection, load management control systems (“LCMS”), automated load management (“ALM”),
+limited load profiles, EV energy management systems (“EV EMS”), or any of the other related
+terms used to describe the critical VGI tools needed to alleviate the current pressures of fast-paced
+EV charger deployment. The lack of initial focus on VGI, load management, bidirectional
+charging, and related issues is entirely inconsistent with (a) the Commission’s stated priorities to
+accelerate charger deployment and reduce costs,4 (b) the challenges described by utilities, for
+example, in Southern California Edison Company’s (“SCE”) Advice Letter 5138-E to Establish
+an Automated Load Management Control Systems Pilot,5 (c) Cal Advocate’s emphasis on VGI
+and load management as a priority within this proceeding,6 (d) customers’ shared experience
+detailed in the February 2, 2024 Public Workshop Discussing the Development of Energization
+Timing Targets and Processes to Report Energization Delays,7 and (e) the clear vision of SB 676
+to “maximize VGI” and the Commission’s direction in its “VGI Strategies Decision” (D.20-12-
+029). VGIC urges the Commission to respond directly to the increasing need for VGI solutions
+and scope this proceeding in corresponding tracks, as this will be fundamental to California’s EV
+4 TE OIR, pg. 8.
+5 SCE Advice Letter 5138-E and 5138-E-A. Establishment of Southern California Edison Company’s
+Customer-Site, Third Party Owned, Automated Load Control Management Systems Pilot. Filed November
+9, 2023. Approved January 16, 2024. Effective January 3, 2024.
+6 Comments of The Public Advocates Office on the Preliminary Scoping Memo of the Order Instituting
+Rulemaking Regarding Transportation Electrification Policy and Infrastructure. January 19, 2024. Pg. 2.
+7 R.24-01-018 – Public Workshop Discussing the Development of Energization Timing Targets and
+Processes to Report Energization Delays. February 2, 2024.
+3
+
+deployment and broader decarbonization goals, in addition to being in the best interest of all
+ratepayers.8 Parallel tracks can support Commission decisions on VGI issues faster and more
+efficiently than sequenced phases. These “quick wins” on VGI issues can deliver the market
+transformation that the VGI and V2X industries need to scale in California, therefore applying a
+force multiplier to EV deployment.
+Additionally, support for VGI solutions, including bidirectional charging and mass-market
+managed charging/VGI programs, is critical to reducing the future generation, distribution, and
+transmission infrastructure deployment needs referenced in the initial phase, offering an
+opportunity to save ratepayers many millions of dollars to address the critical energy affordability
+crisis facing consumers. However, consideration of VGI support is not initially scoped. VGIC
+reiterates its opening comments on the OIR, and throughout the DRIVE OIR, that first deploying
+infrastructure and then considering VGI strategies that could right-size investments only after the
+fact would create additional process, confusion, and most likely, unnecessary ratepayer costs.
+With this in mind, VGIC respectfully urges the Commission to secure “quick wins” on a
+wider range of important TE topics organized into parallel Tracks, such as those detailed in VGIC’s
+Opening Comments on the OIR.
+II. WHETHER THE COMMISSION SHOULD INCLUDE OTHER ISSUES THAT
+ARE RELEVANT TO THE IDENTIFICATION OF TIME, LOCATION, AND SIZE
+OF ELECTRIC VEHICLE CHARGING LOAD TO SUPPORT PROACTIVE GRID
+PLANNING AND FUTURE GENERATION, DISTRIBUTION, AND
+TRANSMISSION INFRASTRUCTURE DEPLOYMENT NEEDS.
+As detailed in Section I above, VGIC believes the Commission should include VGI issues
+that are directly relevant to the “identification of time, location, and size of EV charging load,”
+8 See, for example, Electric Vehicles Are Driving Rates Down. Max Baumhefner. NRDC. July 1, 2020.
+4
+
+including managed charging programs and rates, deployment of VGI-capable technologies to
+integrate EVs onto the grid (including bidirectional chargers), strategies to accelerate the
+energization process, and the establishment of clear VGI targets. To do this, VGIC recommends
+the Commission organize the array of relevant TE issues into separate, parallel Tracks, as detailed
+in VGIC’s Opening Comments.
+III. WHETHER THE SEQUENCING OF THE ISSUES ARE APPROPRIATE.
+As detailed in Section I above, VGIC believes the proposed sequencing of issues is
+inappropriate. Rather than scoping an initial phase without consideration for other issues, VGIC
+recommends the Commission scope parallel Tracks to overcome time-sensitive TE barriers, secure
+“quick wins” for California’s decarbonization efforts, and ensure balance for ratepayers.
+VGIC understands the need to develop a framework for proactive planning for EV charging
+load. Proactive planning will be an important tool, but it must be balanced with VGI strategies.
+This will accomplish two key goals:
+(a) Support the array of EV charging use cases. While proactive planning will support
+some important gaps in use cases and charging sites, for example public direct current
+fast charging (“DCFC”) sites, other critical TE gaps remain that are equally pressing
+for customers, including the “bridge to wires” approach that leverages flexible charging
+use cases to deploy chargers and, in turn, accelerate EV adoption, until the point in time
+that needed infrastructure can be planned and constructed.
+(b) Balance ratepayer risks. On the one hand, “proactive planning” represents a paradigm
+shift for utility infrastructure investment, as it authorizes investments in grid
+infrastructure at an earlier point in the new load process (e.g. before customers even
+submit service requests for new load). This could represent a risk to ratepayers as it
+5
+
+departs from traditional, well-established new load processes and ratemaking practices
+(e.g., used and useful, etc.). On the other hand, processes, programs, and frameworks
+to promote load management strategies that accelerate energization also represent a
+new set of issues for the Commission to mitigate ratepayer costs, as EV charging
+customers can begin consuming electricity without needing to trigger certain utility
+grid upgrades. Both are new strategies, yet they exist on opposite ends of the “scale”
+of potential ratepayer costs, illustrated below in Figure 1. Sequencing developments to
+pursue only one of these strategies before even considering the other would tip this
+“scale” and pose significant challenges to our broader TE goals as well as, critically,
+energy affordability for all Californians.
+Figure 1
+6
+
+IV. WHETHER THE COMMISSION SHOULD OMIT ANY ISSUES THAT ARE NOT
+RELEVANT AT THIS TIME.
+VGIC offers no comment on this question. VGIC reserves the right to modify or change
+its positions in response to the prehearing conference statements submitted by other parties and/or
+statements made at the prehearing conference.
+V. CONCLUSION.
+VGIC appreciates the opportunity to provide this prehearing conference statement. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: February 26, 2024
+7

@@ -1,0 +1,134 @@
+DOCKETED
+Docket Number: 22-RENEW-01
+Project Title: Reliability Reserve Incentive Programs
+TN #: 252103
+Vehicle-Grid Integration Council Comments - on Proposed
+Document Title:
+DEBA Program Guidelines
+Description: N/A
+Filer: System
+Organization: Vehicle-Grid Integration Council
+Submitter Role: Public
+Submission Date: 8/31/2023 4:50:41 PM
+Docketed Date: 8/31/2023
+
+Comment Received From: Vehicle-Grid Integration Council
+Submitted On: 8/31/2023
+Docket Number: 22-RENEW-01
+VGIC's Comments on Proposed DEBA Program Guidelines
+Additional submitted attachment is included below.
+
+August 31, 2023
+Email to: docket@energy.ca.gov
+Docket Number: 22-RENEW-01
+Subject: California Energy Commission Proposed Draft Distributed Electricity Backup Assets
+Program Guidelines
+Re: Comments of the Vehicle Grid Integration Council on the Proposed Draft
+Distributed Electricity Backup Assets Program Guidelines
+Dear Sir or Madam:
+The Vehicle Grid Integration Council (“VGIC”) appreciates the opportunity to comment on
+the California Energy Commission’s (“CEC”) Proposed Draft Distributed Electricity Backup Assets
+(“DEBA”) Program Guidelines. VGIC commends the CEC for its efforts to bolster grid reliability
+in the face of increased risk of extreme weather events.
+I. INTRODUCTION AND SUMMARY.
+The Vehicle Grid Integration Council is a 501(c)(6) membership-based trade association
+representing 40 companies focused on accelerating the role of smart electric vehicle (“EV”)
+charging and discharging through policy development, education, outreach, and research. VGIC
+supports the transition to a decarbonized transportation and electric sector by ensuring the value
+from EV deployments and flexible EV charging and discharging is recognized and compensated in
+support of a more reliable, affordable, and efficient electric grid.
+VGIC strongly believes that the DEBA program is needed to deploy equipment capable of
+unlocking real-world load reductions and exports that will meaningfully support the grid during
+emergency conditions. To accomplish these goals, the program must fill key gaps in policy and
+funding support. With this in mind, VGIC offers the below overarching recommendations to the
+CEC:
+• DEBA program should transition toward a standard incentive program offering rather
+than using a Grant Funding Opportunity (“GFO”) approach to project selection and fund
+distribution.
+• DEBA eligibility should explicitly list all bidirectional EV chargers and associated
+equipment, unidirectional managed charging solutions, and storage-backed managed
+charging solutions, rather than using the term “vehicle-to-grid integration.”
+• The CEC should clarify that island-only vehicle-to-home (“V2H”) backup power
+systems are eligible to receive DEBA funding.
+
+August 31, 2023
+Page 2 of 4
+II. DEBA PROGRAM SHOULD TRANSITION TOWARD A STANDARD INCENTIVE
+PROGRAM OFFERING RATHER THAN USING A GRANT FUNDING
+OPPORTUNITY (“GFO”) APPROACH TO PROJECT SELECTION AND FUND
+DISTRIBUTION.
+VGIC generally supports the proposed DEBA guidelines, as DEBA presents an opportunity
+to capture the myriad of benefits available through VGI solutions, which in turn will help achieve
+greater reliability for California’s grid. This being said, one immediate action that should be
+considered is structuring the DEBA project selection and fund distribution components to enable a
+wide range of VGI technologies at a low administrative cost for applicants. Specifically, the CEC
+should offer a transparent, accessible incentive program to support constructing these critical
+distributed grid resources, rather than conducting Grant Funding Opportunities (“GFO”). GFOs are
+administratively burdensome for project developers and site hosts and are a risky endeavor due to
+the uncertainty of a given GFO application being awarded CEC funding. In contrast, an incentive
+program administered by a third-party, for example CALeVIP or Energiize, would offer a
+streamlined, accessible funding source for DEBA projects. In February 2023 comments, VGIC and
+other parties recommended a structure and incentive amount to be used in a DEBA rebate program.
+VGIC urges the Commission to transition DEBA to a standard incentive program, perhaps
+administered by a third party, rather than using the administratively burdensome GFO model.
+III. DEBA ELIGIBILITY SHOULD EXPLICITLY LIST ALL BIDIRECTIONAL EV
+CHARGERS AND ASSOCIATED EQUIPMENT, UNIDIRECTIONAL MANAGED
+CHARGING SOLUTIONS, AND STORAGE-BACKED MANAGED CHARGING
+SOLUTIONS, RATHER THAN USING THE TERM “VEHICLE-TO-GRID
+INTEGRATION.”
+With the 1.5 million EVs already on California’s roads, the state stands to benefit immensely
+from the increasing opportunities for EVs and EV chargers to provide load reduction and grid
+exports. With this in mind, VGIC supports the CEC’s inclusion of VGI as an eligible solution set
+for DEBA. However, the term “vehicle-to-grid integration”, as used in the CEC staff’s presentation
+on DEBA eligibility, could be misinterpreted to mean only bidirectional charging equipment that
+exports power to the grid, which is typically labeled “vehicle-to-grid” or V2G. To avoid confusion
+and remain consistent with definitions adopted by the CPUC and used in other CEC funding
+opportunities, VGIC recommends the CEC revise its guidelines, presentations, and any other
+communications and outreach surrounding DEBA with best practices for VGI solution definitions.
+Specifically, CEC should refer to “vehicle-grid integration” as a broad umbrella of eligible DEBA
+solutions that explicitly include: (1) vehicle-to-everything (V2X) bidirectional chargers and
+
+August 31, 2023
+Page 3 of 4
+associated equipment, (2) unidirectional managed charging solutions, and (3) storage-backed
+charging solutions. Moreover, DEBA should support VGI solutions in a non-technology-specific
+manner, such that chargers of all power levels, charging connectors, communication protocols, and
+located on either existing or new utility service drops or meters are eligible to receive support. For
+example, the existing list of available V2X bidirectional charging equipment remains relatively
+small, so any limitations to technology type or size would significantly constrain the load reduction
+and grid export solutions ultimately deployed. This remains a major barrier for the growth of the
+V2X market in particular, and VGIC urges the Commission to support the widest reasonable
+eligibility rules for bidirectional charging equipment. In sum, defining VGI broadly is consistent
+with the intent of DEBA, as it would promote an appropriately large set of VGI solutions and ensure
+that both load reduction and grid exports are enabled to support the grid during extreme reliability
+events.
+IV. THE CEC SHOULD CLARIFY THAT ISLAND-ONLY VEHICLE-TO-HOME
+(“V2H”) BACKUP POWER SYSTEMS ARE ELIGIBLE TO RECEIVE DEBA
+FUNDING.
+VGIC reiterates its support for the CEC including VGI resources in its proposed DEBA
+eligibility guidelines, which it believes will be crucial to supporting the grid during extreme events.
+However, in addition to our recommendation in Section II above, VGIC also recommends the CEC
+explicitly clarify that island-only vehicle-to-home (“V2H”) backup power solutions be included on
+the list of technologies eligible for the DEBA program, if not already included. These solutions may
+not be certified or configured to export to the grid during these events, however, may be able to
+support the grid by meeting a customer’s load during an extreme event by electrically isolating from
+the grid using industry-standard transfer switches. VGIC recognizes that this solution may be
+considered a behind-the-meter, single-customer microgrid and therefore fall under the “microgrid”
+category for DEBA eligibility. However, we believe it would be valuable for the CEC to explicitly
+clarify that V2H solutions are eligible for DEBA given the widespread use of that term (rather than
+“behind the meter microgrid”) within the EV/VGI industry, customer base, and technical experts.
+
+August 31, 2023
+Page 4 of 4
+V. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the workshop and looks
+forward to collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+Vehicle Grid Integration Council
+Albert Tapia
+Policy Analyst
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org

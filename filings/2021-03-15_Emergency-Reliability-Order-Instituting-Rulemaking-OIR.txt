@@ -1,0 +1,329 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION DIRECTING PACIFIC GAS AND ELECTRIC COMPANY,
+SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN DIEGO GAS &
+ELECTRIC COMPANY TO TAKE ACTIONS TO PREPARE FOR POTENTIAL
+EXTREME WEATHER IN THE SUMMERS OF 2021 AND 2022
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+March 15, 2021
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION DIRECTING PACIFIC GAS AND ELECTRIC COMPANY,
+SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN DIEGO GAS &
+ELECTRIC COMPANY TO TAKE ACTIONS TO PREPARE FOR POTENTIAL
+EXTREME WEATHER IN THE SUMMERS OF 2021 AND 2022
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Proposed Decision Directing Pacific Gas and Electric Company, Southern
+California Edison Company, and San Diego Gas & Electric Company to Take Actions to Prepare
+for Potential Extreme Weather in the Summers of 2021 and 2022 (“PD”), issued by Administrative
+Law Judge (“ALJ”) Brian R. Stevens on March 5, 2021. Pursuant to Rule 14.6(a)(1) and Rule
+14.6(a)(8) and the guidance provided in the PD, these comments are being timely filed and served
+on March 15, 2021 with electronic copy submitted to brc@cpuc.ca.gov and the Assigned
+Commissioner.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+1
+
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+VGIC is generally supportive of the PD’s establishment of an Emergency Load Reduction
+Program (“ELRP”) that recognizes and compensates flexible EV discharging, a class of “low
+hanging fruit” energy storage capacity that has already been deployed at scale but not yet been
+“brought online” and leveraged to support emergency reliability needs – or any grid needs – in
+California. Additionally, VGIC appreciates the PD discussion on Expanded Electric Vehicle
+Participation and identification of the March 9, 2021 EVs in Demand Response (“DR”) Workshop
+ordered by D.20-12-029 as a potential opportunity to explore these issues. VGIC offers comments
+in support of the PD but also provides recommendations on how the ELRP pilot and the PD’s
+discussion on EV Participation in DR can be improved to prepare for potential extreme weather
+events in Summer 2021 and 2022.
+II. VGIC SUPPORTS THE PROPOSED EMERGENCY LOAD REDUCTION
+PROGRAM BUT BELIEVES SEVERAL MODIFICATIONS SHOULD BE MADE
+TO BETTER LEVERAGE EVS AND ENSURE PROGRAM SUCCESS.
+VGIC commends the Commission for establishing a new five-year ELRP pilot, and
+supports many aspects of the proposed ELRP, including 1) the eligibility of V2G resources in
+Subgroup A.3, 2) the deviation for certain government agencies that wish to provide V2G exports
+by utilizing a portion of previously approved continuous export permission to operate, 3) the
+development of an export counting methodology to promote behind-the-meter exports other than
+2
+
+Net Energy Metering (“NEM”), and 4) the allowance of dual participation in third-party DR
+provider (“DRP”) portfolios and existing DR programs.1
+VGIC also appreciates the Commission’s attention and consideration of bi-directional EV
+and EV supply equipment (“EVSE”) systems given an estimated 26,000 V2G-capable Nissan
+LEAFS are on California’s roads today, equal to approximately 844 MWh of energy storage
+capacity.2 In addition, Blue Bird has delivered over 100 V2G-capable electric school buses
+providing a potential 15 MWh of energy storage3, with many other school bus manufacturers
+working to deploy V2G-capable vehicles. There are also V2G-capable Mitsubishi EVs in
+California, the i-MiEV and Outlander PHEV, which contribute an additional 2,121 vehicles and
+potential 27 MWh of energy storage capacity on the road in California.4 Notably, the inclusion of
+Rule 21 Exporting Distributed Energy Resources (“DERs”) (under Sup-group A.3), which D.20-
+09-035 confirmed includes V2G Direct Current (“DC”) EV Supply Equipment (“EVSE”), places
+V2G systems on a level playing field with stationary energy storage systems within the context of
+a specific compensation pathway for behind-the-meter exports. To VGIC’s knowledge, this is the
+first such action taken in California to compensate V2G resources alongside stationary energy
+1 PD at 21 and Attached Guidance at 5.
+2 As of the end of 2019, an estimated 26,020 V2G-capable Nissan LEAFs are on the road in California,
+totaling an estimated 843.82 MWh of energy storage capacity, assuming only vehicles model year (“MY”)
+2013 or later are V2G-capable, MY2013-2015 vehicles have a 24 kWh battery, 2016 30 kWh, and 2017-
+2019 40 kWh.
+California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and
+Infrastructure Statistics. Data last updated August 28, 2020. https://www.energy.ca.gov/zevstats
+3 According to Blue Bird Corporation, they have delivered more than 400 electric school buses, with more
+than 100 V2G-capable buses to California, each with a 155kWh battery pack.
+4 Mitsubishi i-MiEV has a 16 kWh battery and Outlander PHEV has a 12 kWh batter pack. There are 1,750
+Outlander PHEV and 371 i-MiEV in California.
+California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and
+Infrastructure Statistics. Data last updated August 28, 2020. https://www.energy.ca.gov/zevstats
+3
+
+storage resources for exports. VGIC appreciates that V2G resources are being taken into
+consideration when designing pilots, including in this PD, the SB 676 Implementation and VGI
+Strategies Decision (D.20-12-029), and the Rule 21 Interconnection Working Groups 2, 3, and
+V2G Alternating Current (“AC”) Subgroup Decision (D.20-09-035). D.20-09-035 also directed
+actions to facilitate the development of temporary non-Rule 21 interconnection pathway(s) for
+V2G AC pilot projects and the advancement of stakeholder work toward a Rule 21-compliant
+pathway for V2G AC interconnection. VGIC respectfully urges the Commission to continue and
+accelerate where possible the reasonable incorporation of VGI applications, including both
+unidirectional and bi-directional technologies, into California’s energy planning toolkit.
+Unique to VGI, the most expensive part of the energy storage ecosystem – the storage
+capacity itself – can be considered an embedded cost as the energy storage asset is primarily used
+for a transportation use case. However, a share of the estimated 844 MWh of V2G-capable energy
+storage capacity on the road could be used to support the grid when needed, and it is critical that
+California work to unlock this latent export capacity by placing well-designed incentives and
+programs to promote V2G DC EVSE deployment and reduce installation and soft costs.
+Although VGIC generally supports the proposed ELRP pilot, we detail several
+recommended modifications below.
+A. The customer eligibility criteria for Sub-Group A.3 should be revised to better
+enable customer participation from single-site residential customers.
+VGIC reiterates our support for the consideration of Rule 21 Exporting DERs,
+which can include V2G DC EVSE, as part of the proposed ELRP pilot. As proposed,
+Subgroup A.3 seems to target non-residential sites with Rule 21 Exporting DERs capable
+of exporting 25 kW for at least one hour. This excludes Rule 21 Exporting DERs that may
+4
+
+be located at residential sites, such as V2G systems. As of the end of 2019, an estimated
+26,000 V2G-capable Nissan LEAFs (i.e., Model Year 2013 or later) have been sold in
+California, with battery capacity of 24 kWh to 62 kWh, depending on Model Year. 5 In
+total, these passenger EVs represent an estimated 844 MWh of energy storage capacity that
+could be utilized by Rule 21 V2G-capable EVSE, including at residential sites. VGIC
+strongly recommends the PD be revised to ensure Subgroup A.3 includes Rule 21 V2G at
+residential sites and either reduce the Minimum Export Threshold to 15 kW to
+accommodate V2G-capable EVSEs or provide an exemption from the 25 kW for V2G-
+capable EVSE. VGIC believes such a revision or a specific exemption for V2G-capable
+EVSE is reasonable given the tremendous opportunity to leverage already-deployed energy
+storage capacity to support system reliability during extreme weather events. Additionally,
+opening ELRP to additional V2G resources will support the state’s broader transportation
+electrification goals, whereas other Rule 21 Exporting DERs do not have this added benefit.
+An exemption from the Minimum Export Threshold for V2G exports may also be found
+reasonable in light of the fact that V2G-enabling technologies, such as V2G DC EVSE, are
+not eligible for technology incentives targeted toward stationary storage (e.g., the Self-
+Generation Incentive Program), even though they can bring similar – and perhaps even
+greater – greenhouse gas emissions benefits. Taken together, VGIC believes there is
+considerable justification for exempting V2G DC EVSE from the 25 kW Minimum Export
+Threshold requirement. Notably, D.20-09-035 requires IOUs to add a checkbox in the Rule
+5 As of the end of 2019, an estimated 26,020 V2G-capable Nissan LEAFs are on the road in California,
+totaling an estimated 843.82 MWh of energy storage capacity, assuming only vehicles model year (“MY”)
+2013 or later are V2G-capable, MY2013-2015 vehicles have a 24 kWh battery, 2016 30 kWh, and 2017-
+2019 40 kWh.
+California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and
+Infrastructure Statistics. Data last updated August 28, 2020. https://www.energy.ca.gov/zevstats
+5
+
+21 Application for V2G systems, which will enable IOUs to easily track whether a Rule 21
+Exporting DER would be eligible for an exemption from the Minimum Export Threshold
+for the purposes of the ELRP pilot.
+If a Minimum Export Threshold is ultimately adopted and applicable to V2G DC
+EVSE, the PD should clarify that it is based on the physical interconnection capacity to
+export, not their actual deliveries of exports. Since actual level of exports are impacted by
+onsite customer load levels, a minimum export requirement based on actual deliveries of
+exports would in effect raise the minimum export requirement, which may deter
+participation from V2G resources and other smaller DERs. For example, a system
+interconnecting at 25 kW may still not meet the minimum one-hour export requirement if
+it must meet 5 kW of site load in that hour, resulting in only 20 kW exported to the grid.
+B. The customer eligibility and size threshold criteria for Sub-Group A.4 should be
+revised to better enable customer participation from aggregations of distributed
+energy resources.
+Similarly, the Subgroup A.4 definition may also insufficiently leverage the
+capabilities of aggregating EVs at residential sites. VGIC believes eligibility under A.4
+should be expanded to include aggregations of BTM Rule 21 resources more generally,
+rather than limiting eligible aggregations to sites with stationary energy storage paired with
+NEM solar systems. For example, an aggregated VPP could include NEM-paired storage
+as well as non-NEM storage and V2G resources. As referenced in the PD’s discussion on
+EV participation in DR programs, the VGI Working Group Final Report noted that V2G
+resources are not eligible under NEM.6 As such, VGIC respectfully requests the PD be
+6 PD at 44.
+6
+
+revised to expand A.4 eligibility to include VPPs consisting of all types of BTM DERs, not
+just NEM-paired storage systems.
+VGIC also recommends that the minimum size thresholds for VPP be reduced from
+500 kW to 100 kW to encourage greater participation from aggregators and align with the
+Proxy Demand Resource (“PDR”) threshold, the Base Interruptible Program (“BIP”)
+threshold, and the intent of FERC Order No. 2222.
+C. The ELRP should include additional compensation incremental to the energy-
+only payment to drive participation, promote new-build resources, and spur
+market development for select technology types.
+The PD adopts $1/kWh as an ELRP compensation rate as being set to be
+“substantial enough to drive participation without over-compensating participants.”7
+Importantly, the PD allows for dual participation in existing DR programs, which means
+customers and aggregations can account for ELRP as an additional revenue stream to be
+stacked with others. Even so, VGIC questions whether the proposed energy-only rate will
+drive the intended enrollment and participation in the ELRP to fulfill the PD’s vision of
+providing “insurance” against rolling blackouts. If the proposed ELRP pilot was offered
+last year to customers between May 1, 2020 and October 31, 2020, an estimated Group A.3
+V2G using a 40 kWh Nissan LEAF and a 15 kW Rule 21 Exporting V2G DC EVSE could
+have theoretically earned approximately $325 in ELRP payments in the most optimistic
+scenario responding to a Day-Ahead (“DA”) trigger prompted by a CAISO Alert.8
+7 PD at 23.
+8 See CAISO “AWE Grid History Report – 1998 to Present” http://www.caiso.com/Documents/AWE-Grid-
+History-Report-1998-Present.pdf.
+CAISO issued nine Alerts between May 1, 2020 and October 31, 2020 ranging in duration from 1 hour to
+7.5 hours, totaling 36.25 hours. Assuming an ELRP window of 4 pm to 9 pm, there would have been 32.75
+7
+
+However, after incorporating less optimistic assumptions, the actual revenues will mostly
+likely be much lower.9
+Given the relatively nascent state of V2G DC EVSE deployment in California, a
+site looking to capture this $325 in the most optimistic scenario would first need to make
+upfront investments in the V2G DC EVSE and navigate the Rule 21 Interconnection
+process, which has a minimum cost of the $800 Application Fee and potential additional
+costs for interconnection review/study and upgrades if needed. From the customer
+perspective, these costs represent potential disincentives that – due to the upfront nature of
+these costs – may be disproportionately weighed against the $1/kWh energy-only
+compensation and the uncertainty of the number of events and level of payment.
+As proposed by parties, a capacity-based payment for ELRP resources may be
+warranted. VGIC believes this additional payment may still be reasonable even if the
+proposed ELRP pilot remains outside of the RA framework, primarily to drive meaningful
+participation and support the deployment of new-build resources, and lay the foundation
+for a robust future market for V2G services. VGIC respectfully urges the Commission to
+reconsider a capacity-based payment for the ELRP either in 2021 or in revisions to the
+ELRP pilot for Summer 2022.
+hours in which DA ELRP customers triggered by a CAISO Alert could have been eligible to earn
+compensation. Assuming a Nissan LEAF battery with usable capacity of 40 kWh exporting through a V2G
+DC EVSE with continuous power of 15 kW began each event with 100% state of charge, it could have
+earned $325.00 in ELRP compensation by using all of its capacity in each hypothetical ELRP event, except
+for the October 1, 2020 and October 15, 2020 Alerts lasting 1 hour and 2 hours in which only 15 kWh and
+30 kWh, respectively would have been exported.
+9 This estimation: (a) assumes the system began each event with 100% state of charge and was plugged in
+throughout duration of each event; (b) does not account for charging costs before or after each event; and
+(c) includes hours in which a customer may have been exposed to rolling blackouts on August 14, 2020 and
+August 15, 2020 and would therefore not have been able to export.
+8
+
+Another potential pathway to spur participation, promote new-build DERs, and
+support broader market development goals, such as the vision of SB 676 Implementation
+and VGI Strategies adopted in D.20-12-029, is to offer an enrollment incentive to help
+offset upfront technology costs and interconnection fees. VGIC believes this may be an
+especially effective and reasonable policy lever for promoting the deployment of V2G
+EVSE, which are currently ineligible for the typical energy storage value streams that help
+offset these costs either on an upfront basis (e.g., the Self-Generation Incentive Program)
+or ongoing basis (e.g., NEM).
+D. The ELRP should either not require test events or pay participants for responding
+to test events.
+VGIC supports the proposed voluntary nature of the ELRP, with after-the-fact
+performance-based payments and no penalties. However, the inclusion of test events and
+the pathway for IOUs to deem ELRP resources ineligible for compensation due to under-
+performance during these test events seems inconsistent with the voluntary nature of this
+program.10 The test event structure has been used for DR programs supplying RA capacity,
+where there is a higher expectation for load reduction capabilities and commensurate
+payment. Under the proposed ELRP, inclusion of test events without payment but with
+potential penalties is all stick and no carrot. If this higher expectation of load reduction
+capabilities is desired as part of the ELRP, the pilot should be modified to include capacity
+payments as noted above, such that resources will be paid for their response to test events.
+If ELRP remains a voluntary program without a capacity payment, as proposed, customers
+and aggregators should be subject to test events. At a minimum, if test events are
+10 PD at 24.
+9
+
+implemented but not compensated with a commensurate capacity reservation payment,
+VGIC recommends these resources be paid during the test event at the ELRP compensation
+rates applicable during actual events.
+E. The ELRP pilot should be iterated on for Summer 2022 and beyond, and lessons
+on export counting methodologies should be referenced in other proceedings as
+needed.
+As explained above, VGIC believes the proposed energy-only compensation
+structure may be insufficient to drive load reduction and exports from the hundreds of
+thousands of flexible EVs in California, 26,000 of which are V2G-capable. VGIC urges
+the Commission continue to iterate on the ELRP in future years and consider revisions to
+the ELRP pilot ahead of Summer 2022, especially as EV adoption and EVSE deployment
+are anticipated to continue accelerated growth toward widespread implementation. VGIC
+believes seeking a third-party program evaluator and facilitator would provide value in
+assessing the ELRP pilot in its first year and working with stakeholders to develop
+recommendations for future years, either in this or future years.
+VGIC also believes the establishment of a compensation structure for V2G exports
+per Subgroup A.3, while a critically important step in the advancement of VGI for
+emergency reliability purpose, should not be considered a substitute for the development
+of pathways to promote V2G exports to support the grid during normal operating
+conditions (i.e., not during extreme weather events). As such, VGIC respectfully urges the
+Commission to take bold action in the Resource Adequacy proceeding (R.19-11-009)
+and/or DRIVE OIR (R.18-12-006) to develop pathways to compensate currently latent and
+yet-to-be-deployed V2G resources for the full value they can provide to the grid.
+10
+
+III. THE PD SHOULD CLARIFY CURRENT PLANS TO ADVANCE EV
+PARTICIPATION IN DR.
+The PD discussion on expanded EV participation in DR states, “we believe it is reasonable
+to explore the issue of how EV aggregations with export capability could be leveraged as DR to
+provide grid services, and an upcoming workshop ordered by D.20-12-029 may provide an
+opportunity for that discussion.”11 The EVs in DR workshop referenced here and ordered by
+Decision D.20-12-029 took place on March 9, 2021, and included a robust and lively discussion
+on current DR participation options for EVs, existing barriers, and potential next steps. The IOUs
+will file a post-workshop report, per D.20-12-029, by April 8, 2021. However, D.20-12-029 did
+not direct IOUs to take any further action to address key barriers to greater EV participation.
+Throughout the D.20-12-029 comment and reply comment period, VGIC was supportive of both
+the workshop and post-workshop report, and we believe the workshop was an important
+knowledge sharing opportunity. However, VGIC remains concerned that without explicit direction
+to address the identified barriers and/or work toward a target metric for EV participation in DR
+programs, increased EV participation in DR programs will be hampered. As such, VGIC
+respectfully requests the PD Section 10 discussion on Expanded Electric Vehicle Participation
+acknowledge the current limited regulatory requirements for IOUs to advance EV participation in
+DR programs.
+VGIC urges the Commission to establish a concrete set of actions to expand EV
+participation in DR programs, either in this proceeding or in the DRIVE OIR (R.18-12-006). VGIC
+proposes a goal of achieving 200 MW of EVs as DR resources by 2025 (i.e., within the next IOU
+DR portfolio application cycle to be filed in November). Assuming a very conservative 1.5 million
+11 PD at 44.
+11
+
+LDV by 2025, 10 kW average charger rate, and a modest 5% participation rate could result in
+1,500 MW of capacity (assuming exports are encouraged). For comparison, the 2018-2022 DR
+portfolios contain about 1,600 MW of DR resources. This would send a strong market signal and
+support greater EV participation in DR programs and market products. VGIC believes 200 MW is
+a reasonable starting target and may even be too low given the opportunity to reduce peak demand
+and promote adoption of EVs by providing additional value streams to customers, thereby
+offsetting transportation emissions.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to these comments on the PD. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: March 15, 2021
+12

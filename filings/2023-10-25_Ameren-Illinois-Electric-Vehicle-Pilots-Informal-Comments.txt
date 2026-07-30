@@ -1,0 +1,228 @@
+October 25, 2023
+Informal Comments of the Vehicle-Grid Integration Council
+on Ameren Illinois Electric Vehicle Pilots
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) nonprofit member-based
+association focused on accelerating the role of smart electric vehicle (EV) charging and
+discharging (i.e., vehicle-grid integration or “VGI”) through policy development, education,
+outreach, and research.1 Scaling VGI is an essential part of transportation electrification and
+supports the following key goals:
+• Benefit EV drivers and fleet owners by reducing the cost of ownership and providing
+additional value streams like backup power.
+• Decarbonize the transportation sector by accelerating EV adoption through
+additional benefits to EV drivers and fleet owners.
+• Support the evolving electric grid by providing essential grid services as intermittent
+energy generation and distributed energy resource penetration increases.
+• Increase affordability by placing downward pressure on rates, in turn reducing
+electricity bills for all customers.
+• Improve community resiliency and security during planned and unplanned grid
+outages.
+• Foster economic activity through innovation, competition, and market transformation.
+With the proper utility and regulatory support and coordination, these goals can be
+achieved, and EV drivers and fleets in Illinois can play a critical role in the acceleration of both
+transportation electrification and grid decarbonization. Our vision for VGI encompasses the
+following key elements:
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Enel X North
+America, Inc., Fermata Energy, Ford Motor Company, General Motors, Nissan Group of North America, Nuvve
+Holding Corporation, Stellantis N.V., Toyota Motor North America, Blue Grid, BP Pulse, Customized Energy
+Solutions, dcbel, Emporia, EnergyHub, Enphase, EV.Energy, FlexCharging, FLO EV Charging, FreeWire Technologies,
+Inc., Gridwiz, Hoosier Energy, Innovation Core SEI, IoTecha, Kaluza, Kitu Systems, Landis+Gyr, NineDot
+Energy, Peak Power, QCells, Sacramento Municipal Utility District, Sunrun, Synop, The Mobility House, Inc.,
+Utilidata, Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed in these comments are those
+of VGIC, and do not necessarily reflect the views of all individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/).
+1
+
+• Ensure customer mobility needs are satisfied: Drivers and fleets can support the grid
+without compromising mobility needs.
+• Managed charging will benefit EV drivers and fleet operators: Drivers and fleets in
+Illinois will be provided a menu of opportunities to align charging with the times of day
+when electricity prices are low, reducing EV and fleet operating costs by as much as 50%
+compared to unmanaged charging. Lowering the total ownership cost will accelerate
+overall EV adoption by drivers and fleet managers in Illinois.
+• EVs provide reliable emergency power during blackouts: During extreme weather
+blackouts or other power outages, EV drivers and fleets can utilize bidirectional charging
+capabilities to send energy to a home, building, or microgrid, serving as a generator and
+providing safe backup power for households and communities.
+• Charging infrastructure deployment accelerates: Smarter management of EV charging
+can help accelerate the deployment of EV charging infrastructure, encouraging wider
+access to EV charging.
+• VGI enables EVs to provide valuable services to the grid and generate revenue: V1G
+managed charging (unidirectional charging) and V2X (vehicle-to-everything bidirectional
+charging) will enable electric vehicles to both receive and feed power back to the grid,
+providing grid services such as demand response, peak shaving, frequency regulation, and
+more. A number of utilities across the US have implemented programs that provide
+compensation for these valuable grid services.
+VGIC appreciates the opportunity to provide the following recommendations on the Ameren
+Illinois (“Ameren”) Draft EV Pilot Project Scope.
+I. Ameren Should Focus on Implementing All Three Pilots Directly With Customers
+Rather Than at Ameren Facilities.
+VGIC commends Ameren for taking important first steps in developing their proposed EV
+Pilot Projects, as presented at the Beneficial Electrification (“BE”) Pilot Program Stakeholder
+Meeting held on October 4, 2023.2 Ameren presented the proposed scope of three EV pilots at the
+stakeholder meeting: a managed charging pilot, a sub-metering pilot, and an energy management
+systems (“EMS”) pilot. VGIC agrees these three focus areas can potentially increase the EV value
+proposition for owners and fleets immensely and, in turn, accelerate the growth of EV charging.
+This vision has come to life as EV and VGI solution deployment has increased over the
+past several years. For example, in Minnesota, Xcel Company (“Xcel”) has offered a Residential
+EV Service program since 2018, reducing EV ownership costs for their customers. This program
+2 Ameren Illinois. Draft EV Pilot Project Scope Overview. October 4, 2023.
+2
+
+and Xcel’s Charging Perks program use networked EV supply equipment (“EVSE”) and telematics
+to manage charging and reduce customer fueling costs.3 Involved stakeholders deemed the
+program a success,4 and in 2020, the pilot was expanded to a permanent program for all eligible
+ratepayers in Xcel’s service territory. VGIC provides several other examples below of customer-
+implemented managed charging pilots and programs that have been implemented or approved for
+use with customers, including in Illinois:
+Similarly, several states, including California, New York, Massachusetts, and Maryland,
+have all adopted a pathway for customers to use networked EVSE and/or vehicle telematics to
+submeter EV charging load.5 Regarding EV EMS, these solutions have been used for various use
+cases in recent years. For example, Pacific Gas and Electric (“PG&E”) has implemented this
+solution in its EV Charge Network program to save customers as much as $200,000 at charging
+3 Minnesota Public Utilities Commission, Order Approving Electric Vehicle Home Service and Voluntary Electric
+Vehicle Charger Service Programs as Modified. October 6, 2020. Pg. 3.
+https://efiling.web.commerce.state.mn.us/edockets/searchDocuments.do?method=showPoup&documentId=%7b
+20E1FE74-0000-C715-9765-D3D7DC10DE0A%7d&documentTitle=202010-167089-01
+4 According to Xcel, Pilot customers have saved on average over $2,000 on upfront metering and charger
+installation costs. Furthermore, Pilot participants “have been charging approximately 96% off-peak, delivering
+savings on their electric bills and limiting the impact that charging may have on system peaks.” Xcel reported an
+87% overall satisfaction rate for the Pilot and 95% overall satisfaction for the charger installation.
+5 SCE Charge Ready Programs, Southern California Edison Company’s Vehicle-Grid Integration Strategies Annual
+Report for 2022. March 15, 2023. Pg. 15. New York Public Service Commission, Consolidated Edison Company of
+New York, Inc. Managed Charging Implementation Plan. September 26, 2022. Pg. 9-10; Massachusetts Three-Year
+Energy Efficiency Plan 2019-2021, Appendix K. https://ma-eeac.org/wp-content/uploads/Exh.-1-Final-Plan-10-31-
+18-With-Appendices-no-bulk.pdf; Public Service Commission of Maryland, Order Approving, in Part, Modifications
+to the Statewide Electric Vehicle Charging Pilot Program. January 11, 2022. Pg. 23.
+3
+
+sites.6 The EV EMS solution set is critical to addressing distribution grid constraints, which
+represents a major, fast-growing barrier for EV charger deployment and, to a greater extent, fleet
+depot development.
+Given the myriad of successful, long-running pilots and programs implemented by similar
+utilities, Ameren should strongly consider focusing its resources on piloting customer
+implementation of these managed charging, submetering, and EV EMS solutions. Ameren is
+poised to learn much more from a small-scale, no-regrets customer deployment than from
+demonstrating well-established, commercially available technology that is already deployed
+throughout the country. Given the technology maturity and pace of deployment of managed
+charging, submetering, and EV EMS, VGIC strongly recommends Ameren focus solely on
+implementing pilots in which Ameren customers can directly participate. This will yield
+valuable, real-world learnings about customer marketing, education, and outreach (“ME&O”)
+strategies, customer support, customer billing system updates and integration, reductions to
+average service connection timelines, net peak load reduction, customer costs and benefits, utility
+costs and benefits, and ratepayer costs and benefits. Based on VGIC’s assessment of pilots and
+programs throughout the country, focusing on piloting customer-centric programs will provide the
+most efficient path toward Commission approval for future large-scale utility BE programs.
+II. The Sub-Metering Pilot Should Focus on Subtractive Billing for Rates RTP, PSP,
+EVCP Using Embedded Submetering Technology.
+The Illinois Commerce Commission (“ICC”) Order 22-0431 requires Ameren to
+“undertake a pilot that explores how to effectively facilitate sub-metering” and use practices to
+support sub-metering, “such as automated subtractive billing.” Ameren’s proposed submetering
+pilot appears to be largely focused on testing the feasibility of submetering technologies, including
+utility-owned submeters. VGIC reiterates that sub-metering technology is used throughout the
+country, and it may be most appropriate to focus on the ICC directive as it relates to automated
+subtractive billing rather than re-demonstrating commercially available submetering technology.
+Ameren should consider focusing its efforts on piloting the implementation of subtractive billing
+as it relates to Ameren’s TOU rates (i.e., RTP, PSP, and EVCP), which can promote EV customer
+participation in these TOU rates without installing a separate meter.7 Specifically, VGIC
+recommends the Submetering Pilot should focus on implementing subtractive billing for
+Ameren’s RTP, PSP, and EVCP rates using non-utility-owned sub-meters. Ameren’s
+proposed sub-metering pilot will “demonstrate the ability to sub-meter EV charging load” by
+6 PG&E. Vehicle Grid Integration Report by Pacific Gas and Electric Company (U 39 E) – Attachment A: Pacific Gas &
+Electric Annual Vehicle-Grid Integration Strategies Report. March 15, 2023. Pg. 8.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M503/K589/503589008.PDF
+7 Illinois Commerce Commission, Order 22-0431. March 23, 2023. Pg. 128.
+4
+
+installing and leveraging both Ameren-owned and embedded sub-metering technologies.
+However, VGIC notes that current submetering implementations across the US use embedded
+submetering technology in the EVSE or vehicle, rather than utility-owned submeters, which results
+in lower overall costs and, in turn, increased TOU rate participation from EV customers. This
+approach will align with best practices, familiarize Ameren’s EV customers with TOU rates, and
+lay the groundwork for large-scale automated subtractive billing within Ameren’s billing system.
+In other words, the key question within this pilot should not be “Are submeters accurate?” (for
+which existing data and Utility Commission decisions across the country already answers), but
+rather “How can Ameren integrate non-utility submeter data into its billing system and enable
+subtractive billing?” Ensuring this more appropriate research question is asked will result in a more
+effective and valuable sub-metering pilot effort.
+III. The EV EMS Pilot Should Include Level-2 Chargers and Consider Software- and
+Hardware-Based Solutions.
+EV EMS can help deploy EVSE at sites that would otherwise face lengthy energization
+timelines, for example, due to primary and secondary distribution system upgrades that would be
+needed if EV EMS were not utilized. Additionally, as noted in its EV EMS Pilot proposal,
+customers can leverage “an EV EMS solution to manage EV charging loads thus minimizing the
+need for EVSE infrastructure costs”.8 VGIC commends Ameren for proposing a pilot that tests the
+ability of EMS to optimize charging load and minimize needed infrastructure upgrades. We
+recommend that Ameren leverage learnings and best practices from other EV EMS
+implementations across the nation. Specifically, VGIC recommends Ameren consider the
+following modifications to the EV EMS pilot:
+1. The EV EMS Pilot should include L2 chargers in addition to L3 chargers. VGIC
+agrees with Ameren that it is important to include L3 chargers as part of the EV EMS
+pilot, given the significant impacts that L3 charging can have on the grid. However, it
+is equally important to include L2 chargers in the pilot, as well. Long-dwell, multi-
+charger sites like workplace charging and multi-unit dwellings may be particularly well
+suited for software-based EV EMS that shares power across these chargers to ensure
+the maximum aggregate charging load does not exceed the electrical capacity of the
+grid at that location.
+2. Ameren’s EV EMS Pilot should consider both software- and hardware-based
+solutions. As proposed, Ameren’s EV EMS pilot would leverage an EV EMS solution
+to manage EV load, minimizing the need for EVSE infrastructure cost.9 While VGIC
+supports this concept, we recommend Ameren enhance the pilot by using hardware-
+based solutions as well as software-based EV EMS. Both solution sets can achieve the
+8 Ameren Illinois, Draft EV Pilot Project Scope Overview, October 4, 2023. Pg. 19.
+9 Ibid.
+5
+
+same goal of minimizing the need for EVSE infrastructure costs and shortening the
+service connection/energization timeline. Specifically, stationary energy storage
+systems (“ESS”) paired with EV charging can be used, and several commercially
+available technologies are in use today that either co-locate or integrate stationary
+batteries into the EV charging station. These ESS-paired chargers can also benefit from
+increased charger reliability, as the stationary battery can provide backup power to the
+charger during a grid outage.
+IV. Ameren Could Enhance the Managed Charging Pilot by Considering Expansion to
+Non-Residential Customers and Customers Using Level 1 Charging.
+The managed charging program examples in the figure above include non-residential
+customers and customers using Level 1 charging. With this in mind, Ameren’s proposed managed
+charging pilot could be modified in the future to include these customer types.
+1. Expanding the Managed Charging Pilot to commercial customers could
+enhance the pilot design. Commercial EV customers and fleets may provide a
+larger flexible load capacity per customer than residential customers. Additionally,
+some commercial fleets may have highly predictable duty cycles, which can make
+charge management easier and more reliable for the utility. With this in mind,
+VGIC recommends Ameren consider eligibility for commercial EV customers in
+the Managed Charging Pilot.
+2. Ameren’s managed charging pilot could allow for participation from Level-1
+(“L1”) charging customers participating through telematics. As proposed, the
+Managed Charging Pilot would allow Ameren residential customers with Level-2
+(“L2”) charging equipment to participate in the program through either the charger-
+or vehicle-based participation pathway to create a clear path for residential
+customers. While the pilot specifies it is for L2 charging customers, Ameren could
+allow those without networked Level 2 chargers (i.e., including customers using at-
+home Level 1 charging) to participate via vehicle telematics. This could be one
+pathway to increasing pilot participation as needed.
+V. Ameren Should Consider Implementing a Fourth Pilot to Familiarize Itself with
+Bidirectional Charging Equipment.
+In addition to the three proposed pilots, VGIC recommends that Ameren consider including a
+fourth pilot in the near future that focuses on vehicle-to-everything (“V2X”) bidirectional charging
+equipment. A V2X bidirectional charging pilot could start as a technology proof of concept for
+vehicle-to-grid (“V2G”) and/or vehicle-to-building (“V2B”), and could even include an export rate
+demonstration for V2G at a later phase. Ameren could also pilot a combined technology and
+6
+
+market transformation pilot for V2B and/or V2G. Notably, ComEd is pursuing a V2X electric
+school bus project at this time, and it may be appropriate for Ameren to explore this technology as
+part of their EV pilots.
+VI. Conclusion
+VGIC appreciates the opportunity to submit these comments on Ameren’s Draft EV Pilot
+Project Scope. We look forward to further collaboration with Ameren and other stakeholders in
+Illinois on this important initiative.
+Respectfully submitted,
+Zach Woogen
+/s/ Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+7

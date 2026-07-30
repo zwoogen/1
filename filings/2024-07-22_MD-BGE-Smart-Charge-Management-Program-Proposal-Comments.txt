@@ -1,0 +1,100 @@
+July 22, 2024
+Andrew S. Johnston
+Executive Secretary
+Maryland Public Service Commission
+William Donald Schaefer Tower
+6 St. Paul Street, 16th Floor
+Baltimore, Maryland 21202
+Re: Case No. 9478; Comments of Vehicle-Grid Integration Council on BGE’s Smart
+Charge Management Program Proposal
+Dear Mr. Johnston,
+The Vehicle-Grid Integration Council (“VGIC”)1 respectfully provides its comments in response
+to Baltimore Gas and Electric’s (“BGE” or “the Company”) Smart Charge Management Program
+Proposal to the Maryland Public Service Commission (“Commission”) in Case No. 9478.
+I. Introduction
+VGIC is a 501(c)(6) membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+II. Comments
+VGIC appreciates BGE’s work on advancing managed charging. BGE has been a leader in
+making the transition to electric vehicles affordable, reliable, and clean. The Company was
+among the first utilities in the country to utilize new rates to encourage charging off-peak, and
+they continue to leverage technologies to further enhance the integration of electric vehicles onto
+the grid—including utilizing alternative technologies to support time-of-use rates, piloting active
+managed charging at significant scale with a focus on distribution optimization and pursuing
+partnerships to vehicle-to-everything (“V2X”) bidirectional charging solutions. As a national
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Fermata Energy,
+Ford Motor Company, General Motors, Nissan Group of North America, Bidirectional Energy, Customized Energy
+Solutions, dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy, Flux, Inc., FreeWire Technologies,
+Inc., GridBeyond, GridWiz, Kaluza, Landis + Gyr, Leapfrog Power, Inc., Nuvve Holding Corporation, Orange
+Charger, Peak Power, PowerFlex, Qcells, Stellantis N.V., Sumitomo Electric, The Mobility House, Toyota Motor
+North America, Inc., WeaveGrid, Clean Power Alliance, Hoosier Energy, Peninsula Clean Energy, and Sacramento
+Municipal Utility District. The views expressed in these Comments are those of VGIC, and do not necessarily reflect
+the views of all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+trade group, we often point to successes in Maryland and at BGE on electric vehicle-grid
+integration as leading examples for other state commissions and utilities to follow.
+BGE proposes expanding the Company’s residential offering and points to the continued
+stakeholder support for Smart Charge Management (“SCM”). BGE has requested that the
+Commission consider the Company’s request to expand its SCM offering in advance of the
+Commission’s consideration of the Company’s Phase II EV proposal to ensure that the SCM
+program continues seamlessly without customer interruption. The expansion will provide
+customers with more choices in technology and enable BGE to expand SCM to maintain “the
+strong program track record, ensure continuity and positive customer experience, and grid
+benefits that would support the EV transition.2” Many parties have expressed support for the
+SCM work, to date, including Commission Staff, Maryland Office of People Counsel, ev.energy,
+and Alliance for Transportation Electrification. VGIC expressed support in our comments on the
+Phase 1 programs and is reiterating our support here for both the SCM demonstration work and
+BGE’s proposed expansion.
+With this expansion proposal, BGE aims to support Maryland’s policy goals. BGE’s efforts to
+advance EVs and decarbonize the transportation and electricity sectors are aligned with
+Maryland’s Advanced Clean Cars II policy, the Maryland Climate Solutions Now Act of 2022,
+and the Distributed Renewable Integration and Vehicle Electrification (DRIVE) Act.
+BGE’s proposal also highlights the benefits of SCM for customers and the grid. In BGE’s filing,
+the Company points to a cost-effectiveness test result of 1.58 under the Maryland jurisdiction-
+specific benefit-cost test. This benefit-cost analysis highlights that BGE’s managed charging
+offering is cost-effective. The program increases the affordability of EV charging, recognizing
+that the benefits of VGI “include wholesale energy cost savings, capacity cost savings, marginal
+T&D cost savings, reduction in transmission and distribution losses, and positive grid
+reinforcement (deferral of additional distribution system buildout).”3
+VGIC believes that BGE’s request is reasonable. The Company proposes expanding a successful
+and cost-effective pilot that has captured a wide range of benefits, making EV charging more
+affordable by shifting energy to low-cost times, reducing charging during the system peak, and
+lowering the level of non-coincident peaks that impact the distribution system. We also
+commend BGE’s proposal to scale up the program in terms of participation and note that there
+are other utilities with similar targets. For instance, Con Edison in New York already had 12,260
+customers participating in its managed charging program at the end of 20234 and Xcel Energy
+Colorado administers a managed charging program approved by the Colorado Public Utilities
+Commission to target more than 40,000 customers by the end of 2026.5
+2 BGE. June 24, 2024. Smart Charge Management Program Proposal. Case No. 9478
+3 BGE. June 24, 2024. Smart Charge Management Program Proposal. Case No. 9478
+4Consolidated Edison Company of New York, Inc.. January 30, 2024. Managed Charging Implementation Plan.
+Case 18-E-0138. Page 26.
+5 Public Service Company of Colorado (Xcel Energy). Attachment HS-1. 2024-2026 Transportation Electrification
+Plan. Proceeding Number 23A-0242E. Page
+2
+
+As discussed in our comments on the Phase 1 review, we are fortunate that, as an industry, few
+pilots or programs have had a temporary discontinuance. Still, we are aware of the negative
+impacts of starting and stopping programs that have affected other customer program areas.
+VGIC respectfully advises against interrupting the significant progress made in the VGI space.
+We urge the Commission to enable BGE to continue to serve existing customers while also
+opening new enrollments in this important EV program offering and avoiding any scenario
+where cost-effective programs are suspended.
+VGIC strongly recommends that the Commission approve BGE’s expansion proposal. Keeping
+the program going is important for ensuring customer continuity and expanding access to a cost-
+effective VGI program. Expanding the SCM program will lead to greater benefits, supporting
+large scale EV adoption and reducing impacts to the grid and ratepayers.
+III. Conclusion
+VGIC appreciates the opportunity to provide comments and looks forward to further
+collaboration with stakeholders on this important initiative,
+Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+3

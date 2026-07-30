@@ -1,0 +1,271 @@
+February 27, 2024
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 23-E-0070: Proceeding to on Motion of the Commission to Address Barriers to
+Medium- and Heavy-Duty Electric Vehicle Charging Infrastructure
+Comments of the Vehicle-Grid Integration Council (VGIC)
+On Proactive Planning and V2X
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based advocacy
+group committed to advancing the role of electric vehicles (EVs) and vehicle-grid integration
+(VGI) through policy development, education, outreach, and research. VGIC supports the
+transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated to
+achieve a more reliable, affordable, and efficient electric grid. VGIC appreciates the opportunity
+to provide comments in response to the recent workshops on proactive planning for medium- and
+heavy-duty (MHD) EV charging infrastructure.
+Proactive Planning Should be Balanced with VGI to Mitigate Ratepayer Impacts
+VGIC recognizes the broad support among presenters and other stakeholders at the recent
+workshops for a proactive planning framework to support charging infrastructure deployment for
+MHD fleets. VGIC supports efforts by the Commission to advance transportation electrification
+and ensure that New York meets its ambitious EV adoption and climate goals. However, a
+proactive planning framework, which deviates from the traditional regulatory model for utility
+spending and cost recovery, also comes with potential costs and risks for ratepayers that the
+Commission will have to balance. VGI strategies have significant potential to lower the grid
+impacts and infrastructure needs to accommodate EV charging load, offering a valuable pathway
+to balance the new proactive planning paradigm under consideration. Recent studies have
+demonstrated a high value of VGI for New York’s transportation electrification efforts. For
+example, NYSERDA’s 2022 Transportation Electrification Distribution Impact Study found that
+1
+
+managed charging can reduce the necessary distribution system upgrade costs to support
+transportation electrification by 46% to 61%, depending on the scenario, corresponding to
+ratepayer savings of between $2.59 billion and $10.75 billion statewide by 2050.1 Synapse
+Energy Economics’ 2023 study, which Environmental Defense Fund discussed at the November
+9, 2023 workshop, also shows significant infrastructure cost savings for the MHD sector
+resulting from even modest managed charging assumptions, ranging from $100 million to $190
+million for Con Edison and $80 million to $140 million for National Grid in make-ready costs
+from 2023 to 2045.2 More robust VGI participation, including through managed charging,
+demand management technologies (DMTs), and bidirectional charging with vehicle-to-grid
+(V2G), can deliver even more benefits for ratepayers and provide cost-saving and revenue
+opportunities for fleets, which can accelerate EV adoption by lowering the total cost of
+ownership. VGI strategies should be considered and incorporated into all phases of a proactive
+planning framework to capture these benefits and mitigate the cost burden on ratepayers and
+fleets seeking to electrify. VGIC offers several key recommendations below to accomplish these
+goals.
+First, VGI should be incorporated into utilities’ EV charging load forecasts. Planning
+assumptions regarding the magnitude and shape of EV charging load require careful
+consideration to right-size any proactive grid upgrades. For example, load forecasts may not
+need to assume that all EV charging loads will peak simultaneously. Fleets may employ load
+management strategies to lower infrastructure deployment costs, impacting the total
+infrastructure needed. Utilities should consider incorporating fleets’ potential VGI activities into
+the load forecasts that guide investment proposals and proactive planning requests to avoid
+unnecessary investments.
+Second, VGI solutions should be considered alongside traditional infrastructure upgrades
+in any proactive infrastructure investment proposals. Demand Management Technologies
+(DMTs), also referred to as Automated Load Management (ALM) or EV Energy Management
+Systems (EMS), include software-based (e.g., power-sharing) and hardware-based (e.g., co-
+located or integrated energy storage) strategies that limit the charging site’s peak demand and
+service connection requirements to a level below the aggregate nameplate capacity of the
+chargers at the site. This, in turn, reduces the need for utility infrastructure to support EV load
+and accelerates site energization timelines. Additionally, when equipped with V2G capabilities
+and/or integrated with distributed generation and storage, EVs can also serve as non-wires
+1 NYSERDA. Transportation Electrification Distribution System Impact Study, p. 44. 2022.
+https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Publications/Research/Transportation/22-13-
+Transportation-Electricification-Distribution-System-Impact-Study.pdf
+2 Synapse Energy Economics. Distribution System Investments to Enable Medium- and Heavy-Duty Vehicle
+Electrification, p. 18-20. 2023. https://www.synapse-
+energy.com/sites/default/files/Synapse%20MHDV%20Integration%20Costs%20Final%20Report.pdf
+2
+
+alternatives (NWAs) and thus serve as substitutes for traditional infrastructure investments.
+VGIC recommends that the Commission require any proactive infrastructure investment
+proposals to consider feasible and cost-effective opportunities for VGI and other NWAs on equal
+footing with traditional infrastructure investments.
+Beyond the planning phase, DMTs should also be encouraged through incentives and
+customer education during the site design phase. While VGIC appreciates the Joint Utilities’
+proposal to implement the Load Management Technology Incentive Program (LMTIP) in
+Docket 22-E-0236, it is possible that by the time a make-ready program or proactive planning
+framework is approved in this proceeding and implemented, the existing funding for the LMTIP
+will have run out. As discussed in VGIC’s comments on the LMTIP, the Commission should
+consider a prescriptive dollar-per-kW incentive commensurate with the demand reduction and
+infrastructure cost savings resulting from the overall installation of DMTs across the entire
+system.3 The Commission should also consider incorporating such incentives directly into a
+potential MHD Make-Ready Program. Additionally, VGIC recommends that DMTs and VGI, in
+general, be incorporated into any technical assistance, marketing, education, and outreach
+activities, including any fleet advisory services. It is essential to ensure that customers are
+well informed and empowered to make decisions about their site design based on the
+opportunities and benefits of these DMT/ALM technologies.
+The Commission could also consider Earnings Adjustment Mechanisms (EAMs) to
+incentivize utilities to prioritize load management and cost containment throughout the
+forecasting, planning, and implementation phases. EAMs could be aimed at overall cost
+reductions compared to a baseline, informed by data from the MHD Make-Ready Pilot in Docket
+18-E-0138, similar to the EAMs approved for the Light-Duty Make-Ready Program in the same
+proceeding. Alternatively, the Commission could also consider an EAM that rewards utilities for
+achieving ratepayer savings by implementing DMTs and other cost-reducing technologies at the
+time of interconnection. For example, utilities could be eligible for a dollar-per-kW reward
+similar to the customer DMT incentives described above, commensurate with the demand
+reduction and infrastructure cost savings achieved due to the utilities’ promotion of DMTs.
+VGIC offers itself as a resource to staff, utilities, and other stakeholders in the development of
+these innovative but critical elements to a balanced transportation electrification strategy.
+3 VGIC Comments on the Load Management Technology Incentive Program, p. 4. Case 22-E-0236. 2023.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/64e3c62fc4559b7cc2b072cb/16926490088
+26/VGIC+Comments+on+Load+Management+Technology+Incentive+Program-1.pdf
+3
+
+Additional Market Support for Bidirectional Charging is Necessary to Help Meet New
+York’s Energy Needs
+Aside from proactively building out grid infrastructure to accommodate EV charging
+load, VGIC also appreciates the Commission’s focus on ensuring that transportation
+electrification helps meet New York’s overall energy needs and emission reduction goals.
+Bidirectional charging, especially with grid-tied V2G technology, can serve both as NWAs to
+mitigate distribution infrastructure needs and as an essential tool to help meet New York’s
+energy needs in the coming years. Particularly, New York’s aggressive climate and
+environmental goals will necessitate the retirement of polluting fossil fuel resources. Since
+utility-scale renewable energy development faces significant financial headwinds and
+transmission interconnection challenges, the state must leverage all available tools to ensure
+sufficient energy supply and reliability, especially in downstate areas. For example, NYISO
+recently had to delay the retirement of peaker plants in New York City to ensure reliability,
+noting that New York City would otherwise face an expected 446 MW of capacity deficiency
+beginning in mid-2025.4 Given the high real estate costs in downstate New York, VGI has
+immense potential to serve the state’s needs since EVs and the associated charging infrastructure
+will already be deployed as a result of the state’s EV adoption goals. Unlike most other energy
+resources, unlocking bidirectional capabilities from these resources will not require the
+acquisition of additional real estate (i.e., compared to unidirectional charging). The NYISO Gold
+Book 2023 EV stock forecast includes 4,800 electric buses by 2025 and 28,800 electric buses by
+2030.5 Modestly assuming that half are school buses with 120 kWh batteries and 40 kW
+chargers, school buses alone would total 96 MW of capacity and 288 MWh of energy in
+2025, and 576 MW of capacity and 1.728 GWh of energy in 2030.
+However, current infrastructure costs and export compensation mechanisms do not make
+investments in V2G-capable vehicles and chargers economically viable in New York. Additional
+policy intervention and market support, addressing both infrastructure costs and export
+compensation for V2G, are necessary to spur deployment and ensure that the emerging V2G
+resource can be leveraged to support New York’s decarbonization goals in the coming years.
+VGIC appreciates the Commission’s recent decision in Docket 18-E-0138 to require the Joint
+Utilities to update their VDER tariffs to include V2G, which will establish uniformity across the
+state regarding the eligibility of V2G resources to participate in VDER. However, based on
+VGIC’s estimates, the compensation under VDER is currently insufficient to warrant
+investments in V2G projects, especially in areas outside of ConEd territory. Using highly
+4 S&P Capital IQ. “Facing New York City power shortfall, NYISO delays retirement of peaker plants.” 2023.
+https://www.capitaliq.spglobal.com/apisv3/spg-webplatform-core/news/article?id=78946545
+5 NYISO. 2023 Load & Capacity Data Report (Gold Book), Table I-11a: Electric Vehicle Stock Forecast. 2023.
+https://www.nyiso.com/documents/20142/2226333/2023-Gold-Book-Public.pdf
+4
+
+generous assumptions for each 120-kWh electric bus (i.e., batteries discharge all 120 kWh of
+stored energy across three hours of a CSRP call window for 20 days per month), fleets can earn a
+maximum of approximately $8,400 per vehicle over three summer months in ConEd territory by
+participating in VDER.6 However, in National Grid territory, the corresponding best-case-
+scenario compensation drops to only approximately $1,800 per vehicle per summer. While VGIC
+has not developed similar estimates for the remaining IOUs, recent VDER statements show that
+the other IOUs’ Value Stack credit rates are similar to or lower than those offered by National
+Grid, and therefore provide a similar or even lower compensation level for V2G projects.7 Given
+the relatively high upfront costs of developing and deploying bidirectional charging
+infrastructure and the enabling equipment, which is particularly high in the current, relatively
+nascent market stage that V2X equipment is in, the (somewhat unrealistic) best-case-scenario
+VDER revenue in most New York utility territories (with the exception of ConEd) would be
+wholly insufficient to unlock this latent V2G capacity. Additionally, the CSRP and DLRP
+programs require participants to forego the DRV and LSRV components of VDER but only
+include a small number of events each summer, resulting in even lower per-summer
+compensation than what fleets can earn from the DRV component alone.
+In contrast, the ConnectedSolutions demand response (DR) programs offered by other
+utilities in New England provide a much more attractive compensation mechanism and should
+serve as a model for V2G program design. For example, National Grid’s Massachusetts
+ConnectedSolutions Daily Dispatch program calls between 30 and 60 events per summer, each
+lasting two to three hours, and provides $200 per kW per summer in compensation based on
+average performance.8 Eversource offers the same program (called Daily Curtailment), resulting
+in consistent compensation throughout Massachusetts.9 For comparison, assuming the same 120
+kWh of battery capacity, the compensation amount fleets can earn from V2G is between $8,000
+and $12,000 per vehicle per summer in Massachusetts.10 Similarly, Rhode Island Energy’s
+ConnectedSolutions program provides $300 per kW per summer, allowing a much smaller
+6 This estimate assumes each vehicle exports its entire battery capacity over three hours for 20 days each month
+during the CSRP call window to maximize the DRV component, which has the greatest value. The estimate does
+not include the LSRV component, which is only available on a limited number of distribution circuits.
+7 Joint Utilities of New York. Value of Distributed Energy Resources (VDER).
+https://jointutilitiesofny.org/distributed-generation/VDER
+8 National Grid. Daily Dispatch. https://www.nationalgridus.com/MA-Business/Energy-Saving-Programs/Daily-
+Dispatch
+9 Eversource. Demand Response. https://www.eversource.com/content/business/save-money-energy/energy-
+efficiency-programs/demand-response
+10 This estimate assumes each vehicle exports its entire battery capacity over the entire duration of each event
+during all events called each summer. The lower estimate corresponds to a scenario with 100% three-hour events
+during which each vehicle exports at 40 kW; the higher estimate corresponds to a scenario with 100% two-hour
+events during which each vehicle exports at 60 kW.
+5
+
+vehicle battery (Nissan’s 60-kWh LEAF) on a much smaller charger (Fermata Energy’s 15-kW
+FE-15) to earn on average approximately $4,000 per summer.11
+Based on these current program offerings, VGIC expects V2G investments on the east
+coast to likely concentrate toward New England states with ConnectedSolutions options. Even
+though revenue under the VDER tariff were comparable to the real-world results from V2G
+projects in New England, New York V2G site deployment will still likely lag, given the overall
+higher costs faced by fleets and technology providers in the state, especially in the downstate
+area. Without improvements to its V2G export compensation mechanism(s), New York
+risks being left out of the development of V2G projects and, instead, may become home to
+an immense amount of a new type of stranded asset: latent distributed energy storage
+capacity locked away behind unidirectional chargers.
+VGIC proposes that the Commission establish a new DR program, similar to the Daily
+Dispatch / Daily Curtailment programs referenced above, to incentivize grid exports from V2G.
+The program could either 1) be an option in which fleets participate instead of receiving the
+DRV and LSRV credits under VDER, or 2) provide additional compensation on top of all VDER
+components. This strategy would mirror the Commission’s reasoning for establishing the Term-
+DLM and Auto-DLM programs: spur investments into a specific customer resource that will
+benefit the grid. In the case of Term-DLM and Auto-DLM, the goal was to support more long-
+term, capital-intensive stationary storage projects and spur the emerging stationary energy
+storage market to capture the commensurate grid benefits.12 A new V2G-specific DR program,
+with program terms that are more suitable for this technology, is critically needed to deploy V2G
+projects in New York. Additionally, a V2G-specific DR program would allow the Commission
+to modify program terms and incentive levels more easily as lessons are learned and the industry
+matures without having to modify the VDER tariff, which applies to all distributed energy
+resources.
+Besides ongoing export compensation, upfront infrastructure costs remain another key
+barrier to V2G resource deployment. As discussed in VGIC’s earlier comments in this
+proceeding, there is an approximately 30% cost premium for a bidirectional DC Fast Charger
+(DCFC) compared to a unidirectional DCFC. This cost premium, coupled with the lack of a
+compelling export compensation mechanism in New York, means that fleets are more likely to
+11 Michigan Public Service Commission. EV Technical Conference. January 25, 2024. Slide 63: Presentation from
+Fermata Energy. https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/workgroups/technical-
+conference/EV-Techincal-Conference-Presentation-Day-
+2.pdf?rev=5d8df7e45d4d4093add720e2bb8fa9e5&hash=FFC86A3557D5EFFEF7A6D4BAF79666B5
+12 NY DPS. Order Establishing Term-Dynamic Load Management and Auto-Dynamic Load Management Program
+Procurements and Associated Cost Recovery, pg. 2. September 17, 2020. Case 18-E-1039.
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={BB230CF6-F7CC-476D-ADF3-
+A91DEA1357C8}
+6
+
+install unidirectional chargers in the near future. These investment decisions, while at first glance
+seem reasonable under current conditions, would lock fleets out of participation in future V2G
+offerings and cause New York to miss out on the associated grid support benefits. Even before
+implementing export compensation improvements, as VGIC proposes, the Commission should
+aim to promote the bidirectional fleet charging infrastructure in the near term, to ensure
+customers can participate once a compelling V2G export opportunity is implemented.
+For this purpose, VGIC believes it is reasonable to offer an incremental rebate to help
+partially offset the higher upfront costs of purchasing and interconnecting V2G-capable
+equipment. VGIC recognizes that the Commission recently declined to adopt incremental
+incentives for bidirectional chargers in the Light-Duty Make-Ready Program because
+bidirectional chargers do not reduce make-ready infrastructure upgrades and that the make-ready
+program does not provide incentives for chargers in general.13 However, incentives for V2G
+equipment should not be viewed simply as incentives for a more expensive charger, but rather as
+investments in a critical technological functionality that can transform EVs into grid resources
+and unlock a new distributed energy resource (DER) asset class to help meet New York’s energy
+needs. The charging infrastructure installed under a potential MHD Make-Ready Program will
+serve vehicles with large batteries and predictable dwell times, such as electric school buses,
+with immense potential for energy and capacity contributions through V2G. VGIC urges the
+Commission to take advantage of this opportunity to provide a strong signal to the market to
+continue making investments in V2G and directing those investments to sites in New York. If the
+Commission opts against incentives for chargers in a make-ready program setting, incentives for
+V2G-capable chargers could be structured as a separate offering from make-ready incentives,
+similar to the relationship between the proposed Load Management Technology Incentive
+Program and the Light-Duty EV Make-Ready Program.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Commission, Department of Public Service Staff, the Joint Utilities, and other
+stakeholders to ensure the success of New York’s transportation electrification, clean energy, and
+resilient communities efforts. We look forward to continued collaboration with all parties on this
+important initiative.
+Respectfully submitted,
+13 Order Approving Midpoint Review Whitepaper’s Recommendations with Modifications, pg. 64. November 16,
+2023. Case 18-E-0138. https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={6057D98B-0000-
+C912-9B64-A2D769C4790D}
+7
+
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+8

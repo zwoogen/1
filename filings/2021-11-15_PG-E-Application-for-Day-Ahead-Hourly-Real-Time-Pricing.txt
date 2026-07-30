@@ -1,0 +1,129 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+REPLY COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL ON
+PROPOSED DECISION AUTHORIZING PACIFIC GAS AND ELECTRIC COMPANY
+TO IMPLEMENT AN OPTIONAL DAY-AHEAD REAL TIME RATE FOR
+COMMERCIAL ELECTRIC VEHICLE CUSTOMERS
+Ed Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+Vehicle Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, CA 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+November 15, 2021
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+REPLY COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL ON
+PROPOSED DECISION AUTHORIZING PACIFIC GAS AND ELECTRIC COMPANY
+TO IMPLEMENT AN OPTIONAL DAY-AHEAD REAL TIME RATE FOR
+COMMERCIAL ELECTRIC VEHICLE CUSTOMERS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Proposed Decision (“PD”) Authorizing Pacific Gas and Electric
+Company (“PG&E”) to Implement an Optional Day-Ahead Real Time Rate (“DAHRTP”) for
+Commercial Electric Vehicle Customers, issued on October 18, 2021.
+I. VGIC SUPPORTS ENVIRONMENTAL DEFENSE FUND’S
+RECOMMENDATION FOR TAILORED OUTREACH TO SPECIFIC
+CUSTOMER SEGEMENTS.
+In opening comments on the PD, Environmental Defense Fund (“EDF”) recommends that
+PG&E “pursue tailored outreach to effectively recruit customers into the rate, track approaches
+used and the subsequent responses to price signals, as well as the extent to which customers stay
+on the rate, and evaluate which methods are most effective.”1 Specifically, EDF reiterates its
+recommendation that PG&E recruit rate adopters in at least 10 customer segments with a minimum
+1 EDF’s Opening Comments at 3.
+2
+
+of 1,000 drivers, and that the enrollment target be approximately 100 customers per segment.2 EDF
+offers specific segments that may be suitable for tailored outreach, including public sector fleets,
+public transportation, medium duty delivery, medium duty agricultural, transportation network
+companies, heavy-duty transit/deliver nodes, public/workplace charging, community choice
+aggregators, and recreational facilities/residential developments. VGIC believes that customers in
+each of these segments could benefit from PG&E’s DAHRTP rate, but may lack awareness of the
+rate itself or how to take advantage of potential benefits. A customer-centric education and
+outreach approach could help to meaningfully increase enrollment and promote VGI more broadly
+by tailoring outreach to specific customer segments. As such, we support EDF’s recommended
+outreach framework, including the proposed Ordering Paragraphs found in Appendix A of EDF’s
+opening comments on the PD.
+II. VGIC AGREES THAT THE SAME RATIONALE USED TO EXPAND THE
+PROPOSED PILOT TO AN OPTION RATE SHOULD APPLY EQUALLY TO
+EXPANDING THE OPTIONAL RATE TO RESIDENTIAL CUSTOMERS.
+In opening comments on the PD, Enel X states that the PD appropriately modifies the
+proposed pilot to expand the initial proposed pilot to an optional rate.3 Enel X adds that the record
+of this proceeding and the rationale cited by the PD should support expanding the optional rate to
+residential electric vehicle (“EV”) customers, as well. VGIC is generally supportive of Enel X’s
+recommendation that the rate be expanded to residential EV customers. VGIC believes expanding
+rate eligibility will promote VGI for this important and growing customer class. VGIC supports
+the proposed ordering paragraph revision in Appendix A of Enel X PD comments. However, if
+the Commission does not consider the record related to this issue to be developed enough to make
+2 Ibid.
+3 Enel X’s Opening Comments at 1.
+3
+
+this determination, VGIC recommends that further consideration of expanding the rate to
+residential EV customers be scoped into Phase 2 of this application. Notably, VGIC also
+recommended in our opening comments on the PD that Phase 2 of the application consider how to
+compensate V2G exports under the optional rate.4 VGIC believes that Phase 2 of this application
+is the appropriate venue to address both of these issues in the near-term, however, we are available
+to engage in any other policy forum that the Commission deems appropriate to address these issues.
+At a minimum, the Commission should detail in the PD whether these issues will be addressed in
+Phase 2 of this application or should specify in which proceeding they will be addressed.
+III. IT IS UNCLEAR WHY THE SUBMETERING PROTOCOL PENDING
+APPROVAL IN RULEMAKING 18-12-006 WOULD BE WHOLLY
+INAPPLICABLE TO COMMERCIAL CUSTOMERS, OR WHY EXTENSIVE
+ADDITIONAL WORK WOULD BE NECESSARY TO ADVANCE
+SUBMETERING FOR COMMERCIAL CUSTOMERS.
+In opening comments on the PD, PG&E argues that submetering will require more than
+initial approval of protocols and standards, stating:
+“Due to the greater scale and complexity of non-residential EV, the residential EV
+submetering protocols cannot be used as is. Once that residential protocol is approved,
+PG&E plans to work on creating a non-residential submetering protocol that will also need
+to undergo review and approval from the CPUC.” 5
+As illustrated by this comment, PG&E intends to conduct additional work to create a non-
+residential submetering protocol. However, it is not clear to VGIC why the pending submetering
+protocol would be wholly inapplicable to commercial customers, or why extensive additional work
+would be necessary to advance submetering for commercial customers. Given the importance of
+unlocking submetering pathways for all EV customers, including commercial customers, VGIC
+4 VGIC’s Opening Comments at 3.
+5 PG&E’s Opening Comments at 12.
+4
+
+believes that the Commission should consider how to leverage the pending submetering protocol
+for commercial customers. Notably, the PD states “this decision recognizes the role that
+submetering can play in resolving the issues faced by PG&E and customers that would otherize be
+required to install a separate meter to enroll in the DAHRTP rate.” 6 It is unclear to VGIC why a
+wholly new, separate effort is needed to develop a commercial submetering protocol that is
+substantially different from the protocol currently under consideration in Rulemaking 18-12-006.
+Furthermore, it is unclear to VGIC what PG&E means when referring to the “greater scale and
+complexity” for non-residential EV customers, such that these customers require a substantially
+different submetering protocol, and respectfully request that PG&E provide more information to
+support this assertion.
+With this in mind, VGIC supports the proposed approach in the PD to no longer requiring
+a sperate meter to take service on a BEV rate once submetering is approved. VGIC commends the
+Commission for finding that, “this applies to all eligible BEV rate customers including those
+enrolled on the DAHRTP rate.”7
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments. We look forward to
+further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+6 PD at 23.
+7 Ibid.
+5
+
+Edward Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+November 15, 2021
+6

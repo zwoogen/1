@@ -1,0 +1,93 @@
+May 23, 2022
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 22-E-0236: Proceeding to Establish Alternatives to Traditional Demand-Based
+Rate Structures for Commercial Electric Vehicle Charging
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on Demand Charge Alternatives for Commercial EV Charging
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based
+advocacy group committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. Scaling VGI will help
+accomplish the following public policy goals:
+• Benefit drivers and fleet owners by reducing the total cost of EV ownership.
+• Decarbonize the transportation sector by accelerating EV adoption.
+• Support the decarbonization of the power sector by providing essential grid
+flexibility services as renewable energy and distributed energy resource
+penetration increases.
+• Increase affordability by putting downward pressure on electricity bills for all
+customers.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North
+America, Inc., ENGIE NA, Fermata Energy, FlexCharging, Flo/AddEnergie, Ford Motor Company, FreeWire
+Technologies, General Motors Company, Nissan Group of North America, Nuvve Holding Corporation,
+Sacramento Municipal Utility District, Stellantis N.V., Sunrun, The Mobility House, Toyota Motor North
+America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed in these
+Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC member
+companies or supporters. https://www.vgicouncil.org/.
+1
+
+• Improve grid resiliency and security during extreme weather events using
+vehicle-to-building systems.
+• Foster economic activity through innovation, competition, and market
+transformation.
+VGIC appreciates the opportunity to respond to the Public Service Commission’s Notice
+Soliciting Comments on demand charge alternatives for commercial EV charging. Specifically,
+VGIC provides high-level recommendations in response to Question 4 (“What solution design
+elements should be considered to best maintain an incentive to manage electric demand?”). We
+reserve the right to provide additional details in reply comments.
+• Recommendation 1: The Commission should look beyond a “one size fits all”
+solution and instead consider a range of solutions. Different EV customers and
+charging site hosts have different mobility needs as well as different willingness and
+ability to manage their charging to align with specific tariff or program parameters. A
+single rate or solution is not likely to be a good fit for both various fleets (e.g., electric
+school buses, last mile delivery, etc.) and public charging sites. Therefore, flexible
+solutions, including both rate designs and other programmatic managed charging
+approaches, should be encouraged to accommodate as wide a range of EV charging
+use cases as possible.
+• Recommendation 2: The Commission should enable increased use of dynamic pricing
+as an option for EV customers. Dynamic pricing incentivizes beneficial charging
+patterns around the clock and can unlock significant savings for EV customers who
+can align their EV charging with periods with little or no grid constraints, thereby
+minimizing utility investments needed to support transportation electrification.
+Dynamic rates can include 1) dynamic demand charges (e.g., based on average daily
+demand, measured only during specific windows, or adjusted by load factor), 2)
+enhanced TOU rates that include larger differentials and have time periods updated
+on a regular basis to reflect changes in wholesale market prices, and 3) optional real-
+time rates. These dynamic components can include both time-varying distribution
+system costs as well as energy costs. Given that dynamic rates may require
+technological advances from the IOUs, VGIC encourages the Commission to explore
+ways to support the IOUs in this transition, including through opportunities with
+automotive Original Equipment Manufacturers (OEMs) and other energy service
+providers to deploy dynamic charging capabilities.
+• Recommendation 3: Solutions should address customers with EV charging integrated
+with on-site load and distributed energy resources (DERs). Promoting combined EV
+2
+
+charger and building/facility loads and DERs can provide opportunities to manage
+total site demand, as well as enable backup power and resiliency applications, through
+vehicle-to-building or vehicle-to-load strategies. For customers with integrated EV
+and on-site loads, EV- or EV supply equipment (EVSE)-based submetering can be
+leveraged to enable participation in any potential EV-specific rates without the need
+for a costly additional utility meter or subpanel upgrade. At the very least, a separate
+service panel and meter for EVs should not be the assumed or default configuration.
+• Recommendation 4: The Commission should explore solutions that incentivize co-
+location with energy storage and other Automated Load Management (ALM)
+approaches. ALM software solutions can share available electrical capacity among
+charging stations, while utilizing on-site energy storage systems can also keep
+maximum site charging load well under the cumulative nameplate capacity of all
+EVSE at a given site. Aside from managing demand, these solutions can also help
+avoid installing additional electrical capacity, thereby mitigating make-ready costs
+and accelerating energization timelines.
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the IOUs, the Commission, and other stakeholders to ensure the success of New
+York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Policy Director
+Vehicle-Grid Integration Council (VGIC)
+3

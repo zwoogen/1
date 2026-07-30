@@ -1,0 +1,462 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+(U 39 E) for Approval of its Demand Response Application 22-05-002
+Programs, Pilots, And Budgets for Programs (Filed May 2, 2022)
+Years 2023-2027.
+Application of SAN DIEGO GAS & ELECTRIC Application 22-05-003
+COMPANY (U 902-E) Requesting Approval and (Filed May 2, 2022)
+Funding of its Demand Response Portfolio for
+Bridge Year 2023 and Program Years 2024-
+2027.
+Application of Southern California Edison Application 22-05-004
+Company (U 338-E) for Approval of Demand (Filed May 2, 2022)
+Response Programs and Budgets for 2023-2027.
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+June 6, 2022
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+(U 39 E) for Approval of its Demand Response Application 22-05-002
+Programs, Pilots, And Budgets for Programs (Filed May 2, 2022)
+Years 2023-2027.
+Application of SAN DIEGO GAS & ELECTRIC Application 22-05-003
+COMPANY (U 902-E) Requesting Approval and (Filed May 2, 2022)
+Funding of its Demand Response Portfolio for
+Bridge Year 2023 and Program Years 2024-
+2027.
+Application of Southern California Edison Application 22-05-004
+Company (U 338-E) for Approval of Demand (Filed May 2, 2022)
+Response Programs and Budgets for 2023-2027.
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (“VGIC”) hereby submits this
+response on the Administrative Law Judge’s Ruling Consolidating Proceedings and a Setting
+Prehearing Conference (“Ruling”), issued by Administrative Law Judges (“ALJ”) Garrett Toy and
+Manisha Lakhanpal on May 25, 2022.
+I. INTRODUCTION.
+A. Overview of VGIC and Response Summary
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation and
+electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid. VGIC’s response is summarized below:
+1
+
+ VGIC believes that EV load reductions and exports can be incentivized through optional
+Demand Response (“DR”) programs, including those that leverage both EV supply
+equipment (“EVSE”) submetering and vehicle telematics to support the grid.
+ Issues to be considered:
+o ELRP customer group A.5 should be extended through 2027, but additional
+modifications to ELRP requirements or incentive level would be premature at this
+time.
+o SDG&E’s EV DR Pilot should be approved, with modifications.
+o SCE’s proposal to transition Charge Ready customers to ELRP requires further
+clarification.
+o Dual participation in ELRP and dynamic rates/real-time pricing (“RTP”), permitted
+under D.21-12-015, should be clarified.
+o SCE’s proposed Mass Market Demand Response (“MMDR”) pilot lack sufficient
+detail and scale. Instead, the Commission should expeditiously approve SCE’s
+proposed VGI Pilots.
+B. VGIC believes that EV load reductions and exports can be incentivized through optional
+Demand Response (“DR”) programs, including those that leverage both EV supply
+equipment (“EVSE”) submetering and vehicle telematics to support the grid.
+EVs are capable of both load reduction through managed charging (often referred to as
+“V1G”) or battery discharge to serve on-site load and/or export to the grid (often referred to as
+vehicle-to-everything or “V2X”). Collectively, V1G unidirectional charging and V2G
+bidirectional power flow are often called VGI services. VGIC is excited to see the continuation of
+opportunities for EVs to participate in DR, as well as proposals for new programs. The 2021 IEPR
+anticipates transportation electric load reaching 20,000 GWh in 2030 in the mid-demand scenario,
+representing 6.7% of 2030 electric demand, with 30,000 GWh in a high-demand scenario.1 Shaping
+this load to reduce the need for overbuilding of the generation fleet, as well as the distribution and
+transmission systems, will be crucial to maintaining electric reliability and affordability. Well-
+designed DR programs and market products can be powerful tools to shape EV load profiles to
+help meet the net peak or other California grid needs. While each major investor-owned utility
+(“IOU”) offers EV-specific rates to promote off-peak charging, there are several key reasons why
+EV-specific DR programs are also critical to shaping EV load:
+1 CEC 2021 IEPR Volume 4 at p. 64 and Figure 35.
+2
+
+1. EV-specific rates nudge customers toward installing a separate meter, which results in
+enrollment and participation rates that are far too low to meaningfully support the grid,
+particularly among (i) residential customers and (ii) customers looking to leverage
+bidirectional chargers installed behind the meter (as oppose to on a separate service
+drop), for example to provide backup power to a home or business or manage demand
+charges.
+2. There are over 1,000 distinct VGI use cases resulting from the various market
+segments, duty cycles, site configurations, and chargers that customers may choose.2 It
+is critical that EV drivers and fleet customers are provided with a menu of options,
+including both EV-specific rates and DR programs, to ensure that they can choose and
+be compensated for the VGI use case that best fits their mobility needs. For some, EV-
+specific rates alone will be the right fit, while others may in a position to take advantage
+of DR programs instead or in addition to EV-specific rates.
+3. For EV customers that optimize daily charging load under time-varying rates,
+additional load reduction and/or vehicle-to-grid exports to ease stress on the grid could
+be achieved through DR programs. For example, existing time-varying rates do not
+offer compensation for vehicle-to-grid exports, while the ELRP compensates vehicle-
+to-grid exports at $2/kWh.
+While VGIC is excited to see that EVs are accounted for in some of the DR program and pilot
+proposals, it is important to recognize that EV adoption is accelerating rapidly and, in turn, the DR
+capability of EVs will expand dramatically between now and the 2028-2032 DR portfolio cycle.
+Today, California is home to over 1 million EVs.3 By 2028, VGIC anticipates EV adoption to be
+very close to California’s 2030 target of 8 million EVs. Meanwhile, the underlying technology
+needed to enable EV DR participation – EVSE and vehicles capable of reducing EV load and
+providing vehicle-to-grid exports – has been commercially developed, piloted, and, in most cases,
+2 California Public Utilities Commission. Final Report of the California Joint Agencies Vehicle-Grid
+Integration Working Group. June 30, 2020. https://gridworks.org/wp-content/uploads/2020/07/VGI-
+Working-Group-Final-Report-6.30.20.pdf. Page 15.
+3 California Energy Commission. Zero Emission Vehicle and Infrastructure Statistics.
+https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-
+statistics. Accessed June 3, 2022.
+3
+
+deployed at scale in other markets around the world. With this in mind, VGIC urges the
+Commission to take the critical opportunity before us to set California on the right path of
+leveraging EVs for DR. VGIC strongly believes that VGI solutions, including both V1G
+unidirectional charging and V2X bidirectional power flow, should be considered throughout DR
+programs and pilots for 2023-2027. Moreover, it is critical that California unlock EV DR
+participation via EVSE submetering and vehicle telematics, which is an area where California is
+at risk of losing its role as a VGI market leader.
+II. ISSUES TO BE CONSIDERED.
+A. ELRP customer group A.5 should be extended through 2027, but additional
+modifications to ELRP requirements or incentive level would be premature at this time.
+Throughout the Emergency Reliability OIR, VGIC was strongly supportive of the ELRP
+pilot and, in particular, the creation of customer group A.5 for EV/VGI aggregations. As more EVs
+are deployed throughout the state, taking advantage of these resources to help the grid is very
+important as TE creates significant load growth. While EV customers may be eligible to participate
+in third-party DR Provider (“DRP”) portfolios or existing utility DR programs, such as the
+Capacity Bidding Program (“CBP”), ELRP is currently the only active DR pathway that: (1) Offers
+a specific group for VGI aggregations, (2) compensates for both load reduction and exports, (3)
+offers a guaranteed minimum 30 hours of dispatch, (4) allows for the use of submetering to
+measure the contributions of EVs that are not separately metered, and (5) allows for the virtual
+aggregation of separately metered EVs and site load. From a customer participation and market
+development perspective, ELRP is a centerpiece of California’s VGI market, especially in its role
+as a sole provider of compensation for V2X bidirectional power flow solutions, which are not
+otherwise eligible for other distributed energy resource programs and rates like the Self Generation
+Incentive Program or Net Energy Metering/Net Billing. From a policy and program design
+perspective, as highlighted by PG&E, ELRP is “a test bed for the development of nascent, grid
+service use cases—including the allowance of energy export, device-level submetering.”4 The
+ability for new technologies, including VGI aggregations, to be assessed as a separate group in this
+4 PG&E Testimony 2024-2027 p.4-29, lines 14-15
+4
+
+program can “provide an in-depth understanding of the benefits of technologies, like energy
+storage and EVs.”5
+Given the ability of ELRP to contribute to emergency reliability, create the foundational
+understanding and structure for future EV/VGI DR programs incorporating submetering and
+compensation for exports, and drive real-world customer adoption, VGIC strongly supports the
+extension of ELRP through 2027, especially for customer group A.5. Extending the ELRP through
+2027 at this time would send an important market signal to customers and VGI solution providers
+alike. In addition, this extension would empower customers to make capital investments in
+equipment that facilitate participation in ELRP, including V2X bidirectional power flow
+equipment. Customers may also be more inclined to devote resources to navigating the Rule 21
+interconnection process for V2X bidirectional power flow equipment if ELRP is funded through
+2027 as opposed to 2025.
+VGIC understands that incremental changes to ELRP may be needed as lessons are learned
+from actual performance, but recommends the IOUs propose modifications to marketing, outreach,
+and education (“ME&O”), incentive payment amounts, minimum dispatch hours, and any other
+features of ELRP only once more experience has been gained. VGIC is concerned with SCE’s
+proposal to end participation for ELRP aggregators (groups A.2, A.4, A.5, B1, and B.2) in 2026.6
+VGIC is also concerned over SCE’s proposal to eliminate minimum dispatch hours and reduce
+ELRP compensation from $2/kWh to $1/kWh.7 ELRP customer group A.5 is just now being
+established for the first time, and it is premature to initiate these changes without first
+understanding how the present program design, which VGIC expects to meaningfully spur
+technology adoption and customer participation, is functioning. VGIC recommends additional data
+on ELRP enrollment and participation, as well as perspectives from aggregators, be collected and
+taken into consideration before modifying the current ELRP customer group A.5 minimum
+dispatch hours or incentive level. Notably, D.21-12-015 updating ELRP authorizes the IOUs to
+5 PG&E Testimony 2024-2027 p.4-30, lines 28-29
+6 SCE Testimony Exhibit 3 page 76, lines 4-6.
+7 SCE Testimony Exhibit 3 page 76, lines 6-9.
+5
+
+request modifications to ELRP through a Tier 2 Advice Letter process if they wish to do so.8
+Specifically, the Decision states: “as experience in ELRP is gained, the IOUs may seek to modify
+various aspects of ELRP design via an IOU-specific or joint IOU Tier 2 AL as appropriate before
+or by December 31 of each program year to manage program enrollment, improve program
+efficiency, increase potential load reduction available to ELRP, improve program value, and
+reduce program cost.”9 While extending ELRP through 2027 at this time will send a positive
+market signal and increase potential load reduction available to ELRP, prematurely eliminating
+minimum dispatch hours or incentive levels would send the opposite market signal and risk
+decreasing the potential load reduction available to ELRP.
+As noted above, the ELRP provides valuable insight into the demand response capabilities
+of VGI aggregations while also enabling critical emergency load reduction. With this in mind,
+VGIC supports PG&E and SDG&E’s request to extent ELRP through 2027, recommends that SCE
+extend the ELRP for customer group A.5 through 2027, and believes SCE’s proposal to eliminate
+minimum dispatch requirements and reduce compensation level to $1/kWh be deemed premature
+and be rejected.
+B. SDG&E’s EV DR Pilot should be approved, with modifications.
+SDG&E is proposing to launch a DR pilot focused on residential EVs to launch in 2024
+and last 3 years. SDG&E is proposing this pilot to explore the additional benefits enabled by
+participating in demand response programs beyond those provided by time-of-use (“TOU”) rates.10
+As proposed, this will be done by testing three incentive structures for pilot enrollment and
+participation, with a budget of $3.3 million over three years and the goal of enrolling 1,000
+residential EVs.
+VGIC commends SDG&E for proposing this innovative pilot, particularly with its focus
+on direct communication with a third-party aggregator that can leverage vehicle telematics and/or
+8 Decision 21-12-015. Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California
+Edison Company, and San Diego Gas & Electric Company to Take Actions to Prepare for Potential
+Extreme Weather in the Summers of 2022 and 2023. Page 44.
+9 Decision 21-12-015. Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California
+Edison Company, and San Diego Gas & Electric Company to Take Actions to Prepare for Potential
+Extreme Weather in the Summers of 2022 and 2023. Ordering Paragraph 22.
+10 SDG&E Testimony Ch 1B at p. 66
+6
+
+EVSE submetering to monitor and manage charging during DR events. VGIC believes it is critical
+to leverage both vehicle telematics and EVSE submetering for VGI/DR programs to unlock:
+(1) Residential VGI for customers without a separate meter.
+(2) V2X bidirectional power flow use cases that rely on co-mingled load, such as backup
+power and demand charge management.
+(3) Load reduction from a greater number of customers by incorporating a larger set of
+technologies.11
+In addition, SDG&E’s proposed pilot would test a variety of incentive amounts and provide
+valuable insights for future VGI DR programs. However, given that SDG&E has approximately
+50,000 residential EVs in its service territory,12 VGIC strongly suggests that SDG&E expand the
+target number of vehicles targeted for this pilot to 4,000 vehicles and that the budget be adjusted
+accordingly. Specifically, VGIC offers that SDG&E’s EV DR Pilot should be expanded to $9.6
+million.
+D.20-12-029 or the “VGI Strategies Decision” authorized the three major IOUs to propose
+up to a combined $35 million in VGI Pilots and SDG&E’s presumed allocation of these authorized
+funds totaled $6.3 million.13 Ultimately, SDG&E did not propose any VGI pilots per the July 15,
+11 Utilities offering both vehicle telematics and EVSE submetering pathways, as expected, have the
+largest list of eligible equipment and, in turn, offer the greatest amount of customer choice and access.
+See, for example, National Grid Massachusetts’ Off-Peak Charging Rebate Program, which uses both
+telematics and networked EVSE to implement an off-peak charging rebate
+https://www.nationalgridus.com/media/pdfs/billing-payments/tariffs/mae/ev_adjmt_prov.pdf; Baltimore
+Gas & Electric’s companion evPulse (https://landing.bge.ev-pulse.com/) and EVsmart
+(https://www.bge.com/SmartEnergy/InnovationTechnology/Pages/Residential-Charger-Rebate.aspx)
+programs, which offer annual incentives for smart charging via telematics and EVSE submetering,
+respectively; Xcel Minnesota’s EV Accelerate at Home Program that uses EVSE submetering to facilitate
+enrollment in EV-specific TOU rates
+(https://efiling.web.commerce.state.mn.us/edockets/searchDocuments.do?method=showPoup&documentI
+d=%7b20E1FE74-0000-C715-9765-D3D7DC10DE0A%7d&documentTitle=202010-167089-01) and
+Optimize Your Charge Program that will utilize vehicle telematics to promote VGI
+(https://www.weavegrid.com/post/weavegrid-expands-work-with-xcel-energy). See also,
+https://opiniondynamics.com/wp-content/uploads/2022/03/PGE-EV-ADR-Study-Report-3-16.pdf and
+https://sepapower.org/resource/the-state-of-managed-charging-in-2021/ which find that telematics and
+networked EVSEs can be complementary and are both effective strategies to manage charging.
+12 SDG&E Ch 1B at p.66 line 3.
+13 D.20-12-029, Ordering Paragraph 14 states “The large electrical corporations shall identify any non-
+ratepayer potential funding sources and shall not request, in their combined applications, more than $35
+7
+
+2021 advice letter deadline. VGIC believes SDG&E’s EV DR Pilot proposal design is very closely
+aligned with the directives in the VGI Strategies Decision. SDG&E’s EV DR Pilot would
+meaningfully and uniquely advance VGI because it would leverage third-party aggregators to
+monitor and manage charging via vehicle telematics and/or EVSE submetering, which has not yet
+been done in California and which represents a critical gap for the market. Moreover, SDG&E’s
+EV DR Pilot would present a very logical complement to the $11.7 million PG&E VGI pilot
+focused on V2X bidirectional power flow recently approved in Resolution E-5192.14 As VGIC
+views it, SDG&E effectively deferred its VGI pilot proposal from July 15, 2021 to the present DR
+application. VGIC believes it would be reasonable to add the $6.3 million in pre-authorized funds
+that SDG&E would have requested last summer to the present $3.3 million EV DR Pilot request,
+such that SDG&E’s total funding request total of $9.6 million.
+C. SCE’s proposal to transition Charge Ready customers to ELRP requires further
+clarification.
+SCE's Charge Ready and Charge Ready Transport programs remain pivotal in supporting
+commercial customers, multi-unit dwellings, and fleets through the transportation electrification
+process. Under D.17-12-003, the Commission authorized SCE’s request for a two-year Charge
+Ready DR Pilot, which was later extended through 2022. As approved in Advice Letter 4363-E,
+Charge Ready DR pilot customers take service under Schedule DR-CPP, which utilizes a critical
+peak pricing (“CPP”) structure with year-round events.15 In its DR application, SCE requests to
+“transition all Charge Ready DR pilot customers to ELRP by May 2023.”16 VGIC generally
+supports SCE’s proposal to transition Charge Ready customers to ELRP. However, additional
+detail on the below items is needed:
+1. Transitioning Existing Customers vs Defaulting New Customers vs Dual
+Participation: It is unclear whether existing Charge Ready customers will be
+transitioned from DR-CPP to ELRP, new Charge Ready customers will be defaulted to
+million.” In the March 16, 2021 and June 4, 2021 workshops, each IOU proposed VGI pilot budgets roughly
+proportionate to their load share. PG&E and SCE requested a combined $28.7 million for VGI pilots. The
+remaining $6.3 million in authorized funds was not ultimately requested by SDG&E.
+14 Resolution E-5192.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M474/K369/474369017.PDF
+15 See, Advice Letter 4363-E and SCE Schedule DR-CRPP.
+16 SCE Testimony Exhibit 3 p. 95, line 22.
+8
+
+ELRP rather than DR-CPP, all customers will be enrolled in ELRP as well as DR-CPP,
+or some combination of these three. If dual participation with ELRP is clarified (as
+discussed below in Section II.D), VGIC questions whether customers would need to be
+transitioned to ELRP, or whether ELRP can simply be stacked on top of DR-CPP.
+2. Applicable ELRP Customer Group and Role of VGI Aggregators: It is unclear
+whether customers will be transitioned specifically to ELRP customer group A.5 or
+another customer group. If customers are transitioned to ELRP customer group A.5, it
+is unclear how SCE will facilitate aggregator participation. For example, SCE may
+provide Charge Ready customers with a list of existing ELRP customer group A.5
+aggregators, and the customer may choose to engage with an aggregator from that list
+or an aggregator that is not on that list.
+3. Updating Charge Ready to Align with ELRP V2G Equipment Requirements:
+Charge Ready and ELRP have different equipment requirements, and SCE should work
+to align its Charge Ready requirements with ELRP requirements in order to unlock EV
+load reduction and exports.17 For example, customers installing vehicle-to-grid direct
+current (“V2G DC”) EVSE for purposes of ELRP receive a specific exemption under
+Rule 21: V2G DC EVSE needs to be certified to UL 1741, but not UL 1741 SA or any
+updated smart inverter standards.18 To ensure Charge Ready customers can
+meaningfully participate in ELRP, SCE should update its Approved Product List with
+all EVSE eligible to participate in ELRP, including V2G DC EVSE that may
+interconnect under the UL 1741 SA exemption detailed in Rule 21.
+4. Updating Charge Ready to Align with ELRP Submetering and Virtual
+Aggregation Pathways: Additionally, ELRP Group A.5 allows for both EVSE
+submetering and virtual pairing of separately metered EVSE,19 while Charge Ready
+17 Consistent with the goals of enabling EV DR and load reduction stated in D.20-08-045 authorizing
+Charge Ready 2, D.21-12-015 authorizing ELRP customer group A.5, and SCE’s request in its DR
+application to transition Charge Ready customers to ELRP.
+18 SCE Rule 21 Section Hh., Sheet 147, footnote ii.
+https://edisonintl.sharepoint.com/teams/Public/TM2/Shared%20Documents/Public/Regulatory/Tariff-
+SCE%20Tariff%20Books/Electric/Rules/ELECTRIC_RULES_21.pdf
+19 Southern California Edison Company. Emergency Load Reduction Program (ELRP) Pilot Group A
+Terms and Conditions Pursuant to California Public Utilities Commission Decision 21-03-056, 21-06-
+027, and 21-12-015. https://elrp.sce.com/wp-
+content/uploads/sites/10/2022/04/SCE_ELRP_group_A_terms_and_conditions2022.pdf
+9
+
+encourages separate metering. To address this misalignment, SCE should clarify that
+customers may be eligible for Charge Ready make-ready/charger rebates if they are
+using EVSE submetering to participate in ELRP, rather than installing EVSE on a
+separate meter. Additionally, Charge Ready program rules should reflect ELRP rules
+by clarifying that site load can be virtually paired with separately metered EVSE to
+participate in ELRP.
+5. Supporting Customer Choice in DR Offerings: While VGIC generally supports
+ELRP as a DR pathway for Charge Ready customers, it is important to promote
+customer choice. As such, Charge Ready customers should be given the option to
+participate in DR-CPP or another DR program if they prefer to do so. While VGIC
+agrees customers should be defaulted to ELRP, they should be able to opt out and
+instead choose another DR program, including DR-CPP, CPP, CBP, third-party DRP,
+or any other DR offering for which they may be eligible.
+VGIC generally supports SCE’s proposal to transition Charge Ready customers to ELRP, but
+believes critical clarity is needed on the above items before the Commission should approve SCE’s
+request.
+D. Dual participation in ELRP and dynamic rates/real-time pricing (“RTP”), permitted
+under D.21-12-015, should be clarified.
+In its Application, PG&E requests that the Commission revisit dual participation rules.20
+While dual participation as an overarching topic may require revisiting, VGIC is specifically
+seeking clarity that dual participation in ELRP and dynamic /RTP-equivalent rates is permitted per
+the direction in D.21-12-015 updating ELRP. VGIC recognizes that the issue of dual participation
+is complex and stems from a long history of Commission rulings. While it may be challenging to
+determine load impact, avoid double compensation, conduct forecasting, and address other dual
+participation issues across two different DR programs, VGIC believes dual participation across
+ELRP and RTP-equivalent tariffs is not only simpler but also has already been permitted in D.21-
+12-015. Discussion in Section 8 of D.21-12-015 states that dual participation in ELRP and RTP-
+20 PG&E Exhibit 2 at 2-8.
+10
+
+equivalent tariffs is permitted, but that dual participation in ELRP and other DR programs is not.21
+Additionally, the Decision states (emphasis added):
+“We extend the subjects that may be addressed in Tier 2 Advice Letters to include issues
+of dual participation between ELRP and other DR programs and issues of minimum
+dispatch hours. We clarify that a request to allow a particular dual participation option
+should be accompanied with an explanation and methodology to demonstrate how the
+Incremental Load Reduction during overlapping events could be attributed uniquely to
+ELRP participation and avoid double compensation.”22
+Given Section 8 of D.21-12-015 upholds the dual participation prohibition on ELRP and other DR
+programs but eliminates the dual participation prohibition on ELRP and RTP-equivalent tariff, it
+would follow that the above-quoted Tier 2 Advice Letter condition is relevant to dual participation
+of ELRP and other DR programs but does not apply to dual participation in ELRP and RTP-
+equivalent tariffs. Additionally, the use of the phrases “other DR program” and “overlapping
+event” suggests an overlapping DR event is of concern. An RTP tariff would not use “events” or
+event days but rather an hourly price signal alerted on a day-ahead basis, every day of the year.
+Allowing dual participation in ELRP and an RTP tariff can be critical for certain customer
+types. For example, under an RTP rate, a commercial customer with a EVSE capable of providing
+V2X bidirectional power may reduce load to a minimum of 0 kW in response to RTP price signals
+during all 8760 hours of the year. Under ELRP, this same customer could export power to the grid
+in response to the 30 to 60 hours of ELRP customer group A.5 signal. Since ELRP is the only
+mechanism for compensating these exports, dual participation in both ELRP and RTP rate would
+not only unlock a higher level of support for the grid, but also provide more value to customers
+looking to adopt grid supportive solutions and, in this case, V2X bidirectional power flow
+capabilities.
+21 D.21-12-015 at page 133 states (emphasis added): “We omit the provision in the Proposed Decision that
+Residential ELRP customers or ELRP group A.4 and A.5 may not simultaneously be enrolled in a critical
+peak pricing, SmartRate or similar dynamic rate tariff and enroll in the ELRP pilot, since IOUs do not
+have visibility into whether customers are taking service under critical peak pricing, SmartRate or similar
+dynamic rate tariffs.” Moreover, this modification is clearly reflected in the revisions made to Attachment
+2 between the Proposed and Final Decision. See Proposed Decision Attachment 2 at p. 6
+(https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M419/K191/419191939.PDF) and Final Decision
+21-12-015 Attachment 2 at p. 6
+(https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821668.PDF).
+22 D21-12-015 at pages 44-45.
+11
+
+However, in proceeding A.20-10-010, PG&E and CalAdvocates have both asserted that
+dual participation in ELRP and RTP-equivalent tariff cannot yet be enabled until such a Tier 2
+Advice Letter is approved.23 Based on their interpretation, D.21-12-015 Section 4.1.12, quoted
+above, would apply equally to ELRP dual participation in other DR programs and in RTP-
+equivalent tariff. PG&E additionally asserts that dual participation in ELRP and RTP-equivalent
+tariff would violate existing dual participation rules.24
+Therefore, VGIC seeks clarity on this aspect of D.21-12-015 and respectfully requests the
+Commission uphold its finding that dual participation is permitted in the case of ELRP and
+dynamic rates, as ELRP is a critical tool to support emergency reliability. As noted above in
+Section II.A, ELRP is the only existing pathway to compensate V2G exports, and customers who
+wish to participate in unidirectional V1G mode in a year-round RTP-equivalent rate should not be
+excluded from participating in V2G mode in ELRP. VGIC recommends the Commission provide
+explicit clarification in this proceeding that dual participation in ELRP and RTP-equivalent tariffs
+is permitted.
+E. SCE’s proposed Mass Market Demand Response pilot lacks sufficient detail and scale.
+Instead, the Commission should expeditiously approve SCE’s proposed VGI Pilots.
+VGIC generally supports SCE’s proposed MMDR pilot and the idea of exploring more
+dynamic DR solutions to meet California’s grid needs. VGIC agrees that it is important to study
+which types of technology rebates and incentive designs are most effective at incentivizing
+optimum dispatch and flexibility of DR resources. Many details on SCE’s pilot are yet to be
+released, but upon initial review VGIC is disappointed that EVs and VGI DR solutions, both V1G
+and V2G, are not explicitly included in the MMDR pilot.
+23 See Public Advocates Office Prepared Rebuttal Testimony on Pacific Gas & Electric Company’s Export
+Compensation Proposal for Business Electric Vehicle (BEV) Customers at 1-15 and Pacific Gas and
+Electric Company Proposal for Export Compensation Mechanism for Non-Net Energy Metering Business
+Electric Vehicles: Rebuttal Testimony at 2-4; accessed at https://pgera.azurewebsites.net/Regulation/search
+> “Commercial Electric Vehicle Dynamic Rate Option”
+24 Pacific Gas and Electric Company Proposal for Export Compensation Mechanism for Non-Net Energy
+Metering Business Electric Vehicles: Rebuttal Testimony at 2-2; accessed at
+https://pgera.azurewebsites.net/Regulation/search > “Commercial Electric Vehicle Dynamic Rate
+Option”.
+12
+
+Meanwhile, SCE’s proposed VGI pilot in Advice Letter 4542-E, would have established a
+large-scale bring-your-own-device (“BYOD”) V1G pilot specifically designed to leverage EVs in
+SCE service territory for load reductions. It is critical that SCE begin offering dedicated DR/VGI
+program participation to EV customers given that SCE’s service territory has one of the densest
+EV populations in the nation. VGIC strongly recommends the Commission approve SCE’s VGI
+Pilots, which are focused on the unique challenges of EVs, including overcoming the separate
+metering paradigm that restricts available EV load reduction as highlighted above in Sections I.B
+and II.B. While VGIC hopes the MMDR pilot may someday evolve into a full-scale, tech-agnostic
+DR program, VGIC is concerned over the limited $1.46 million budget requested to study the
+technology rebates and incentive designs for all DR technologies. In contrast, SCE’s residential
+large-scale VGI pilot requested in Advice Letter 4542-E totals $8.04 million to better understand
+the specific customer response and unique attributes of leveraging EVs for DR.
+Incentivizing the use of EVs in ways that benefit our grid will be crucial to ensuring long-
+term electric reliability more affordably. For this reason, VGIC believes it is important to
+implement large-scale pilots, including the large-scale residential V1G pilot requested in SCE’s
+Advice Letter 4542-E, to determine what types of incentives or rebates are needed to unlock EV
+participation in demand response and what types of dispatch profiles are available at which price.
+III. CATEGORIZATION, HEARINGS, AND SCHEDULE.
+VGIC agrees with the categorization of the proceeding as “ratesetting” but does not have
+a position at this time on whether evidentiary hearings will be necessary. With respect to the
+schedule proposed by the three IOUs, VGIC agrees with splitting this proceeding into two phases,
+to allow for an expedited decision on 2023 DR program funding.
+VGIC looks forward to discussing the schedule at the Prehearing Conference.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit this response. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+13
+
+Edward Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: June 6, 2022
+14

@@ -1,0 +1,64 @@
+May 3, 2023
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Comments of the Vehicle Grid Integration Council to Resolution E-5267:
+Approval, with Modifications, of Southern California Edison Company’s,
+Pacific Gas and Electric Company’s, and San Diego Gas & Electric
+Company’s proposed modifications to the Emergency Load Reduction
+Program.
+Dear Sir or Madam:
+Pursuant to General Order 96-B and the Comment Letter accompanying Draft Resolution
+E-5267 (“Draft Resolution”), the Vehicle Grid Integration Council (“VGIC”) respectfully
+comments on the proposed approval of the Joint Advice Letter 4142-E of San Diego Gas and
+Electric Company (“SDG&E”), Advice Letter 4950-E of Southern California Edison Company
+(“SCE”), and Advice Letter 6826-E of Pacific Gas and Electric Company (“PG&E”) submitted on
+January 17, 2023 and Supplemental Advice Letters SCE 4950-E-A, PG&E 6826-E-A, and
+SDG&E 4142-E-A filed on March 24, 2023.
+The Draft Resolution adopts several important updates to the Emergency Load Reduction
+Program (“ELRP”) and, most importantly, retains the critical elements of the Electric Vehicle
+(“EV”)/Vehicle-Grid Integration (“VGI”) Aggregation customer group (i.e., subgroup A.5) that
+serves as the foundation for the future of bidirectional vehicle-to-grid (“V2G”) activities in
+California. In particular, VGIC strongly supports the Commission’s confirmation that the 30-hour
+dispatch condition specific to customer group A.5 is an appropriate and necessary component of
+ELRP, given the relatively nascent V2G market.1 In modifying the Joint ALs to uphold California’s
+commitment to advancing VGI, the Draft Resolution is a symbol of continued progress toward
+widespread VGI operations and represents an encouraging reflection of close collaboration
+between subject matter experts at the Commission, investor-owned utilities, and industry
+stakeholders. VGIC is pleased to see that the ELRP modifications for 2023 (including the critical
+components that have been reaffirmed) are consistent with the needs of customers and broader
+VGI market development.
+1 Draft Resolution at 15.
+
+May 3, 2023
+Page 2 of 2
+Specifically, VGIC is encouraged by the Commission’s reiteration that minimum dispatch
+conditions “provide more certainty to aggregators regarding potential compensation”2 and that
+“the market for VGI technologies, and in particular bi-directional charging equipment, is in its
+early stages of development and… the ELRP pilot [is] an opportunity to deploy and scale this
+resource.”3 The Draft Resolution will further unlock EVs as a critical resource supporting grid
+reliability and broad multi-sectoral decarbonization.
+While VGIC is largely supportive of the Draft Resolution, we do have a minor concern
+regarding the Calculation of Group A ILR using Method 2. As CalSSA points out, this could lead
+to under-compensation for the unique category of resources within sub-group A.4. This may also
+be true for A.5 participants. For example, a bi-directional EV might be able to provide exports
+during the most acute net load peak hours (i.e., 6-8 pm) but then may need to stop exporting during
+the final hour of the ELRP window (i.e., 8-9 pm) to preserve EV battery range for mobility
+purposes. In such a case, Method 2 could unfairly penalize A.5 participants. Thus, if the
+Commission adopts Method 2, there should be an option for A.5 participants to shorten the duration
+of the dispatch window (e.g., to 6-8 pm).
+With this in mind, VGIC strongly recommends that the Commission adopt the Draft
+Resolution during its May 18th voting meeting.
+VGIC appreciates the opportunity to submit these comments to the Draft Resolution and
+looks forward to future collaboration with the Commission and IOUs on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+Vehicle Grid Integration Council
+cc: Daniel Horan, Energy Division (Daniel.Horan@cpuc.ca.gov)
+Aloke Gupta, Energy Division (Aloke.Gupta@cpuc.ca.gov)
+Service lists R.20-11-003, A.22-05-002
+2 Ibid.
+3 Ibid.

@@ -1,0 +1,156 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 24-01-018
+Establish Energization Timelines. (Filed January 25, 2024)
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING DIRECTING PARTIES TO RESPOND
+TO QUESTIONS ON ENERGIZATION ISSUES
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: June 18, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 24-01-018
+Establish Energization Timelines. (Filed January 25, 2024)
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING DIRECTING PARTIES TO RESPOND
+TO QUESTIONS ON ENERGIZATION ISSUES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Directing Parties to Respond to
+Questions on Energization Issues issued by Administrative Law Judges (“ALJ”) Sasha Goldberg
+and Carolyn Sisto on June 6, 2024.
+I. INTRODUCTION.
+VGIC appreciates the Commission seeking additional comments for consideration to set
+the initial timelines for Phase 1 of this proceeding. VGIC is a 501(c)6 membership-based advocacy
+group committed to advancing the role of electric vehicles (“EV”) and vehicle-grid integration
+(“VGI”) through policy development, education, outreach, and research. VGIC supports the
+transition to a decarbonized transportation and electric sector by ensuring the value from flexible
+EV charging and discharging is recognized and compensated to achieve a more reliable,
+affordable, and efficient electric grid. There are many broad issues that need to be addressed to
+unlock the decarbonized future that California envisions. These are not in scope for the initial
+timelines being set in Phase 1 of this proceeding, but, as VGIC and other parties have commented,
+there should be robust consideration of additional items in Phase 2, including flexible service
+2
+
+connections and other solutions to allow for quicker energization and additional VGI within the
+timelines that will be set.
+In this set of comments, VGIC responds to the questions outlined by the Ruling. These
+responses are based on the experiences and data from VGIC membership. We would like to caveat
+that many VGIC members actively implement VGI strategies, including managed charging
+platforms, automated load management (“ALM”) / flexible service connection technologies,
+bidirectional charging equipment, and the use of behind-the-meter (“BTM”) generation and energy
+storage technologies to reduce the costs of transportation electrification. Therefore, VGIC
+members may concurrently process an energization application for electric vehicle (“EV”)
+chargers (i.e., under Rule 15/16 or Rule 29/45) and generator interconnection (i.e., under Rule 21).
+For these projects, both processes impact the customer experience in getting their EV charger
+operational. While VGIC understands that this proceeding is only looking at the energization of
+new load, we reiterate our recommendations made throughout this proceeding that the Commission
+should consider how these timelines and processes interact with Rule 21 and track instances where
+Rule 21 applications are being submitted in conjunction with energization applications.
+II. Question 1: Please provide the time necessary for different energization steps for
+project(s) related to your industry using the five steps described below.
+a. Customer Initiation/Intake (energy service upgrade or new service line
+application filing and IOU acceptance)
+b. Engineering & Design (IOU review of project and proposal for completion)
+c. Dependencies (fulfillment of local jurisdictional requirements, permitting,
+customer response to IOU’s requests)
+d. Site Readiness (evaluation of work necessary to complete the engineering design
+and customer availability for work to begin)
+e. Construction (length of time necessary for IOU and/or contractors to complete
+construction of the project)
+VGIC does not have specific recommendations on the time necessary to complete these
+various steps in the energization process, nor do we have recommendations on how these should
+3
+
+flow through to the timelines set in Phase 1. However, we do want to share information for the
+Commission to consider when setting Phase 1 timelines.
+● Energization timelines are slowing: VGIC members have reported that energization
+timelines from beginning to end have increased significantly since 2020, more than
+doubling in these past four years. Given this recent trend, VGIC cautions against over-
+relying on the current utility average timelines to set future goals.
+● Utilities do not always start subsequent energization steps in a timely manner: The
+Commission should consider not only the timelines for completing individual steps but
+also ensure that each step is started promptly. For example, many utilities have defined
+response times for pre-construction engineering activities, typically 30 days. However, in
+many cases, the utility will not acknowledge receipt of information from a developer until
+the end of the 30-day window and will subsequently request additional information,
+triggering an additional 30-day review period.
+● Significant delays at the final step of Construction are becoming more common: VGIC
+members have shared that the final stage of energization, between completion of
+construction on the customer side and the final energization or permission to operate, has
+increased significantly over the past four years. Many times, developers and customer
+contractors are responsible for the installation of EV chargers, and these chargers can be
+fully finished and sit unenergized while the utilities finalize their inspections. The increase
+in the time for this final step is responsible for a significant portion of the overall timeline
+increases seen by VGIC members.
+III. Question 2: Please provide the time necessary for different upstream capacity
+project(s) related to your industry using the three project types defined below.
+4
+
+Identify which steps have required incremental time from the IOU involved and
+include additional project types as necessary.
+a. New and upgraded circuit (could be a new service line, or an upgrade to an
+existing service line)
+b. Upgrade Substation (upgrading a substation to support new or upgraded service
+for one or more new/upgrade service requests)
+c. New Substation (building a whole new substation to support new or upgraded
+service for one or more new/upgrade service requests).
+VGIC does not have specific recommendations on the time necessary to complete
+distribution capacity upgrade projects.
+IV. Question 3: Are there data on timelines for specific upstream capacity projects,
+beyond what the IOUs have provided, that should be utilized for Phase 1 issues?
+a. If so, what are those sources?
+b. Please attach PDFs of any sources used to support your responses to this ruling.
+VGIC does not have specific recommendations on timelines for upstream capacity projects.
+V. Question 4: What issues have you encountered when seeking permits or other
+approvals from local permitting authorities in California that have delayed
+energization projects?
+a. Please outline any reason(s) that delayed your project, the extent of the delay, and
+how many instances you experienced this type of delay.
+b. Please break out your response by individual instances if you have experienced
+delays for multiple projects and/or in multiple local jurisdictions.
+Overall, VGIC agrees that local permitting exacerbates the length of project timelines. We
+believe that the utilities do have significant portions of the timelines within their control, but
+acknowledge that the local Authorities Having Jurisdiction (“AHJs”) can create additional and
+compounding delays. Generally, permitting delays, like utility delays, are caused by difficulties in
+communication - jurisdictions are often hard to reach and unresponsive. It can take months to
+schedule an appointment for intake and another month or two for the initial reviews to be complete.
+Additionally, even after permits are approved, the permits can take 2-3 weeks to be issued. This
+can be found across various jurisdictions, but the urban jurisdictions in the Bay Area and Greater
+5
+
+Los Angeles were highlighted among VGIC membership as being particularly difficult and, as the
+state’s urban centers, are where a significant share of EV chargers are being installed.
+Another issue contributing to project delays with AHJs is inconsistent information
+regarding permit requirements. It can be hard to navigate what is required for each jurisdiction,
+and the permitting processes can change due to design modifications like changing the point of
+interconnection, which adds supplemental reviews to the process. It is difficult to know which
+design changes will trigger various supplemental reviews and paired with a general lack of
+communication, this creates significant delays.
+VI. Question 5: Are there any specific geographical concerns related to energization in
+California? If so, please describe the issues and the geographical area(s) where they
+are of concern.
+VGIC has no comment.
+VII. Question 6: How should the Commission be made aware of energization issues
+moving forward? Should there be a dedicated webpage and/or reporting place
+overseen by a third party or would the Commission’s website be sufficient?
+VGIC has no comment.
+VIII. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on Phase 1 of this
+proceeding. We look forward to further collaboration with the Commission and stakeholders on
+this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: June 18, 2024
+6

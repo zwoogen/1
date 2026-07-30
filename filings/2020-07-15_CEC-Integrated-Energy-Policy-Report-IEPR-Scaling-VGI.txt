@@ -1,0 +1,191 @@
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on
+VGI and Charging Funding
+to
+the California Energy Commission (CEC)
+Docket # 20-IEPR-02
+2020 Integrated Energy Policy Report Update
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Comments submitted via:
+https://efiling.energy.ca.gov/Ecomment/Ecomment.aspx?docketnumber=20-IEPR-02
+
+July 15, 2020
+A. Introduction
+The Vehicle-Grid Integration Council1 (“VGIC”), a 501(c)6 membership-based advocacy
+group, is pleased to provide comments in response to the California Energy Commission (CEC)
+2020 Integrated Energy Policy Report Update (Docket 20-IEPR-01, “2020 IEPR Update”) and
+with regard to its focus on Transportation (20-IEPR-02).
+VGIC is committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid
+integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring the value
+from EV deployments and flexible EV charging and discharging is recognized and compensated
+in support of achieving a more reliable, affordable, and efficient electric grid.
+The energy system today is undergoing a significant transformation, including high
+penetration of renewable energy resources and expanded use of EVs. This transformation to an
+affordable, clean energy economy for everyone requires implementing VGI strategies to
+accomplish five key public policy goals:
+ Decarbonize the transportation sector by accelerating EV adoption
+ Support the decarbonizing power sector by providing essential grid services as renewable
+energy penetration increases
+ Increase affordability by reducing electricity bills for all customers
+ Improve grid resiliency and security during wildfire risk events
+ Foster economic activity through innovation, competition, and market transformation
+Creating pathways for scaling VGI, or the shift or modulation in charging or discharging
+time, level, or location in support of achieving a more reliable, affordable, decarbonized, and
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California LLC, Enel
+X North America, Inc., Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nissan North
+America, Inc., Nuvve Corporation, and Toyota Motor North America, Inc. The views expressed in these Comments
+are those of VGIC, and do not necessarily reflect the views of all of the individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/).
+Vehicle-Grid Integration Council Page 2 of 7
+www.vgicouncil.org
+
+July 15, 2020
+efficient electric grid, can provide a cornerstone in support of each of these public policy goals.
+Critically, expanded VGI deployment will also promote job creation to support California’s
+recovery from the economic impacts of COVID-19.
+VGIC appreciates the Commission’s exploration of VGI during the 2020 IEPR Update,
+as we believe meaningful opportunities to scale VGI technologies and business models are
+available, and the Commission should be informed and updated on the current state of the VGI
+market. VGIC’s comments below address specific economic and operational barriers to scaling
+VGI and provide several recommendations for consideration in the 2020 IEPR Update.
+B. In Order to Engage Customers, Accessible Value Streams are Needed
+Presently, 320 VGI Use Cases can be applied across many sectors, as identified in the
+interagency VGI Working Group Final Report.2 However, the full potential value of VGI
+services cannot currently be realized. Critically, customers must be able to realize some of the
+benefits of VGI in order to want to participate in VGI rates and programs. Similarly, automotive
+original equipment manufacturers (“OEMs”), EV service providers (“EVSP”), and their
+customers will need to receive compensation to offset the costs of these new technologies and to
+attract and retain customer participation. VGIC believes addressing three key barriers could
+support accessible value streams and result in scaled implementation of VGI. First, there is a lack
+of adequate compensation mechanisms and supporting programs for VGI services. Second,
+vehicle-to-grid (“V2G”) technologies cannot achieve commercial scale or access available
+markets under current interconnection processes. Third, onerous state-level standards and
+regulations are stalling deployment of existing VGI technology. Moreover, state-imposed
+requirements to implement immature communications protocols impede the ability to address
+powerful customer-friendly and industry-prioritized VGI strategies. Together, these barriers
+effectively limit the value which customers can derive from their EV – whether through reduced
+charging costs, additional revenue for VGI services, new value propositions (e.g. backup power)
+or a combination of these – and constrain the promising societal benefits widespread VGI has to
+2 See VGI WG Final Report, filed in California Public Utilities Commission Rulemaking18-12-006 on June 30,
+2020 at 8. https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf
+Vehicle-Grid Integration Council Page 3 of 7
+www.vgicouncil.org
+
+July 15, 2020
+offer, such as reduced electricity rates, reduced GHG emissions and criteria pollutants, improved
+grid resiliency, and critical grid support services necessitated by the increased penetration
+renewables.
+Scaling VGI requires adequate compensation mechanisms and supporting programs
+Using the work product from the VGI Working Group to inform areas of focus,
+California should develop a portfolio of compensation mechanisms and supportive customer
+programs as it seeks to scale VGI. One potential component of this portfolio approach could be
+the expanded implementation of VGI-specific rate options, for example through continued
+improvements to existing EV TOU rates, more dynamic rate structures like San Diego Gas &
+Electric’s Power Your Drive VGI Rate, and/or development of more dynamic commercial
+demand charge constructs. Other levers could include tariff-based approaches for deferring
+distribution upgrades, utility VGI programs, V2G export credits, and compensation for ancillary
+services. Scaling VGI requires amplified support for new and existing programs, such as those
+administered by load serving entities to promote VGI. For example, accelerated focus on robust
+customer education and outreach programs are necessary to increase VGI awareness, which is
+currently lagging behind where it must be to achieve not only scaled VGI, but also broader
+transportation electrification and decarbonization goals. VGIC believes an all-of-the-above
+approach should be taken to consider how public funds could be used to incentivize “first
+adopter” customer participation in VGI programs, which has a direct influence on achieving
+greater scale and adoption of VGI strategies in California.
+Of specific interest to California’s efforts to implement microgrids and resiliency
+strategies, one promising, near-term VGI application is the use of EVs to provide backup power
+during Public Safety Power Shutoffs (PSPS). Enabling EVs as an affordable and clean
+alternative to conventional fossil-fueled backup power solutions is already technically feasible,
+but additional policy support is critical to scaling this solution. Funding to accelerate
+demonstration and pilot programs for EVs as backup power has significant potential to aide
+California in helping prepare vulnerable communities for power shutoffs in advance of the 2020
+and 2021 fire seasons. VGIC believes these efforts could potentially be supported through
+Vehicle-Grid Integration Council Page 4 of 7
+www.vgicouncil.org
+
+July 15, 2020
+existing public funds administered by the Commission, but would also need to be distributed on
+an expedited basis. VGIC respectfully recommends the Commission explore opportunities to
+support VGI grid resiliency pilot and demonstration projects with existing funds.
+Unlocking V2G value requires improvements to existing utility interconnection pathways
+V2G technology has been tested several times in California for technical feasibility,
+economic viability, and operational considerations.3 Stakeholders of a recent working group on
+utility interconnection agreed that V2G Direct Current (“V2G DC”) configurations, wherein the
+inverter is placed inside the EV supply equipment (“EVSE”) and remains stationary, can
+interconnect under Rule 21.4 While existing EV models with bidirectional capabilities
+(specifically the Nissan Leaf) have already been widely deployed at scale in California and could
+provide grid services through a V2G DC configuration, improvements to Rule 21 which will
+enable permitting of these existing opportunities must occur, along with the streamlining of
+interconnection processes which are needed to ensure a viable pathway for residential and C&I
+customers seeking to install a V2G DC configuration.
+V2G Alternating Current (“V2G AC”) configurations, wherein certain inverter functions
+are enabled by the EVSE and EV, cannot be deployed even in pilots, much less at commercial
+scale, without updates to existing interconnection processes. This is due to lagging adoption of
+SAE, UL, IEEE, and NFPA standards, which presently contain misaligned requirements, and
+limit actionable program development amid regulatory environments in the electricity and
+transportation sectors. Current interconnection pathways require third party certification which is
+generally incompatible with typical vehicle manufacturing processes that rely instead upon
+internal OEM testing protocols. However, alternate interconnection pathways could be
+developed, including those where a state agencies could play a supportive role in in validating
+internal OEM testing protocols to ensure the safety and reliability of grid connectivity. VGIC
+details these potential pathways in our January 6, 2020 comments to the CPUC in response to the
+3 See, for example, Electric Vehicle Storage Accelerator (EVSA), Intelligent Electric Vehicle Integration
+(INVENT), Marine Corps Air Station (MCAS) Miramar V2G Microgrid
+4 Working Group Three Final Report June 14, 2019 in R. 17-07-007 at 61.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M309/K943/309943907.PDF
+Vehicle-Grid Integration Council Page 5 of 7
+www.vgicouncil.org
+
+July 15, 2020
+V2G AC Subgroup Report.5 VGIC hopes to continue informing and providing an up-to-date
+understanding of these gaps between the standards development organizations and California’s
+regulatory systems, specifically related to health and safety testing, inspection, and compliance
+activities.
+Underdeveloped standards and State-level requirements for VGI applications pose risks
+to customer choice and market development
+VGIC supports the sharing of control topologies where the EVSE and EV are configured
+to assure robust VGI functionality. This approach serves to maximize the value of these assets
+and the well-orchestrated deployment of VGI Use Cases. However, VGIC cautions against
+overly-prescriptive requirements for specific standards, especially related to communication
+protocols, as markets, protocols, and technology are still developing at a rapid pace. One such
+requirement is the Commission’s CALeVIP program, which proposed a requirement for EVSE
+to be compliant with the communication standards ISO 15118 beginning in 2021.6 VGIC
+strongly opposes mandated communication protocols, as requiring the implementation of a single
+protocol or combination of protocols at this time would pose a significant barrier to customer
+choice, VGI market development, and broader transportation electrification deployment goals.
+Different communication protocols enable different business models, and requiring a specific
+protocol or combination of protocols will limit the overall value of VGI to the state of California.
+VGIC recommends the Commission explore levers to promote VGI strategies that are
+based on best practices in clean energy and transportation policy design. Programs aimed toward
+accomplishing identified outcomes by incentivizing adoption and use of VGI functionalities and
+use cases are likely to be far more effective levers to scale VGI than those requiring EVs and
+EVSE be compliant with specific standards.
+5 Comments of the Vehicle-Grid Integration Council on Vehicle to Grid Alternating Current Interconnection
+Subgroup Report (January 6, 2020) in R. 18-12-006 at 5-7.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M328/K685/328685720.PDF
+6 CEC Docket 17-EVI-01 https://efiling.energy.ca.gov/GetDocument.aspx?tn=230794&DocumentContentId=62410
+Vehicle-Grid Integration Council Page 6 of 7
+www.vgicouncil.org
+
+July 15, 2020
+C. Conclusion
+VGIC is focused on the role of VGI to transition our energy systems to a cleaner future.
+We assert that, with alignment and acceleration in State Agency initiatives, VGI is well-poised to
+be a critical component of California’s clean, reliable energy future and an accelerated the
+transition to a carbon-free system that benefit everyone.
+The VGIC appreciates the leadership of the CEC in addressing this foundational issue in
+its 2020 IEPR Update.
+Respectfully submitted,
+ED BURGESS
+ZACH WOOGEN
+Vehicle-Grid Integration Council Page 7 of 7
+www.vgicouncil.org

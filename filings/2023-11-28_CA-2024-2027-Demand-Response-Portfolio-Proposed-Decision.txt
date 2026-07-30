@@ -1,0 +1,533 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+(U 39 E) for Approval of its Demand Response Application 22-05-002
+Programs, Pilots, And Budgets for Programs (Filed May 2, 2022)
+Years 2023-2027.
+And Related Matters. Application 22-05-003
+Application 22-05-004
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON PROPOSED
+DECISION DIRECTING CERTAIN INVESTOR-OWNED UTILITIES’ DEMAND
+RESPONSE PROGRAMS, PILOTS, AND BUDGETS FOR THE YEARS 2024-2027
+Ed Burgess
+Senior Policy Director
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email:vgicregulatory@vgicouncil.org
+November 28, 2023
+
+TABLE OF CONTENTS
+I. INTRODUCTION ............................................................................................................2
+II. THE PD SHOULD BE UPDATED TO CORRECT THE ERRONEOUS
+REDUCTION OF THE ELRP SUB-GROUP A.5 MINIMUM DISPATCH HOURS
+DESPITE THE WELL-ESTABLISHED RECORD SUPPORTING THE CURRENT
+30-HOUR PROVISION ...................................................................................................4
+A. The PD Would Correctly Extend ELRP Through 2027 .......................................4
+B. The PD Contains Factual Errors and Errouneous Claims Related to Reducing
+the Minimum Dispatch Hours For Sub-Group A.5 ..............................................4
+C. In Addition to the Above-Noted Factual Errors, VGIC Believes the Record of
+this Proceeding Supports Retaining the 30-Hour Minimum Dispatch Provision
+For Sub-Group A.5 ...............................................................................................7
+III. THE PD SHOULD ADOPT SDG&E’S EV DR PILOT AS A NO-REGRETS, LOW-
+COST PATHWAY TO UNLOCK SIGNIFICANT EV PARTICIPATION IN
+SUPPORT OF BOTH SYSTEM AND LOCAL GRID NEEDS .....................................9
+IV. VGIC URGES THE COMMISSION TO DETAIL A PATHWAY FOR
+CONSIDERATION OF DR OR VGI PROGRAMS THAT INCLUDE TELEMATICS-
+BASED PARTICIPATION AS ELIGIBLE ..................................................................13
+V. CONCLUSION ..............................................................................................................15
+APPENDIX A: VGIC RECOMMENDED MODIFICATIONS TO THE PROPOSED
+DECISION
+i
+
+TABLE OF AUTHORITIES
+CALIFORNIA PUBLIC UTILITIES COMMISSION DECISIONS
+D.20-12-029, 2020 Cal. PUC .......................................................................................................... 7
+D.21-12-015, 2022 Cal PUC ................................................................................................... 2, 6, 7
+D.22-08-024, 2022 Cal PUC ......................................................................................................... 14
+OTHER AUTHORITIES
+Rules of Practice and Procedure, Rule 14.3 of the California Public Utilities Commission .......... 1
+ii
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+(U 39 E) for Approval of its Demand Response Application 22-05-002
+Programs, Pilots, And Budgets for Programs (Filed May 2, 2022)
+Years 2023-2027.
+And Related Matters. Application 22-05-003
+Application 22-05-004
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON PROPOSED
+DECISION DIRECTING CERTAIN INVESTOR-OWNED UTILITIES’ DEMAND
+RESPONSE PROGRAMS, PILOTS, AND BUDGETS FOR THE YEARS 2024-2027
+In accordance with the Rules of Practice and Procedure, Rule 14.3 of the California Public
+Utilities Commission (“Commission”) and the email ruling extending comment deadline issued
+by Administrative Law Judge (“ALJ”) Jason Jungreis on November 22, 2023, the Vehicle-Grid
+Integration Council (“VGIC”) 1 herby submits these comments on ALJs’ proposed Decision
+Directing Certain Investor-Owned Utilities’ Demand Response Programs, Pilots, and Budgets for
+the Years 2024-2027 (“PD”), issued by the Commission on November 6, 2023.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Enel X
+North America, Inc., Fermata Energy, Ford Motor Company, General Motors, Nissan Group of North
+America, Nuvve Holding Corporation, Stellantis N.V., Toyota Motor North America, Blue Grid, BP Pulse,
+Customized Energy Solutions, dcbel, Emporia, EnergyHub, Enphase, EV.Energy, FlexCharging, FLO EV
+Charging, FreeWire Technologies, Inc., Gridwiz, Hoosier Energy, Innovation Core
+SEI, IoTecha, Kaluza, Kitu Systems, Landis+Gyr, NineDot Energy, Peak Power, PowerFlex, QCells,
+Rythmos, Sacramento Municipal Utility District, Sunrun, Synop, The Mobility House, Inc., Utilidata,
+Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed in these comments are those
+of VGIC, and do not necessarily reflect the views of all individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/).
+1
+
+I. INTRODUCTION
+In December 2021, the Commission issued Decision (“D.”) 21-12-015, which detailed
+several critical updates to the Emergency Load Reduction Program (“ELRP”) pilot, including
+expanding ELRP to include customer group A.5 for Electric Vehicle (“EV”)/Vehicle-Grid
+Integration (“VGI”) Aggregations. The Commission’s landmark decision to include EV/VGI
+aggregations as a sub-group eligible for ELRP represented “an opportunity to deploy and scale”
+VGI resources.2 The Commission intent to unlock EVs as a critical resource supporting grid
+reliability by establishing ELRP group A.5 represents, to this date, the only large-scale driver for
+EV/VGI aggregation in California in either managed charging (“V1G”) or bidirectional vehicle-
+to-everything (“V2X”) modes. A tenet of this timely market transition support includes the
+minimum dispatch hours provision unique to group A.5, which provides a reliable, forecastable
+revenue stream for the nascent but important VGI market. While VGIC appreciates the
+Commission’s finding that extending and enhancing ELRP generally in this PD is appropriate, we
+do not believe the record of this proceeding contains sufficient justification for reducing the
+minimum dispatch hours provision of sub-group A.5 from 30 to 20 hours. As detailed in Section
+II below, the PD makes several factual errors in its discussion and justification for this proposed
+modification and fails to consider the associated risk-reward tradeoff.
+Moreover, VGIC is seriously concerned over a growing “blind spot” in California’s ability
+to incentivize load flexibility from EVs through VGI strategies. Throughout the country, utility
+programs are tapping into smart charging capabilities embedded in both the charger and the
+vehicle, encouraging the widest possible set of potential customers to adopt grid-friendly charging
+2 CPUC D.21-12-015. Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California
+Edison Company, and San Diego Gas & Electric Company to Take Actions to Prepare for Potential
+Extreme Weather in the Summers of 2022 and 2023. April 28, 2022. Pg. 39.
+2
+
+and discharging practices.3 These programs represent a “low-hanging fruit” VGI strategy: a
+relatively inexpensive pathway to incentivize a range of customers to shift load for system
+and/or local grid benefits. However, as highlighted below in Sections III and IV, the PD would
+reject all present attempts to incorporate vehicle-based participation in the IOUs’ DR portfolio
+and, in doing so, California’s grid at large. VGIC questions the reasoning behind this direction,
+given the current lack of EV participation in grid-supportive opportunities outside of time-of-use
+(“TOU”) rates. Moreover, the Commission’s continued redirection of this topic, back and
+forth across this proceeding and the Rulemaking (“R.”) 18-12-006 (“DRIVE OIR”), casts a
+harsh light on the lack of serious treatment given to this no-regrets load management
+strategy. VGIC believes a clear imperative exists to advance these programs and strongly urges
+the Commission to develop a serious plan to address this underprioritized DR issue. VGIC offers
+comments, summarized below, recommending specific modifications to the Commission’s PD to
+enhance California’s DR efforts.
+• The PD should be updated to correct the erroneous reduction of the ELRP sub-group A.5
+minimum dispatch hours despite the well-established record supporting the current 30-hour
+provision.
+• The PD should adopt SDG&E’s EV DR Pilot as a no-regrets, low-cost pathway to unlock
+significant EV participation in support of both system and local grid needs.
+• VGIC urges the Commission to detail a pathway to consider DR or managed charging
+programs that include telematics-based participation as eligible.
+3 See non-exhaustive list of such programs around the country in VGIC’s presentation at CPUC
+Telematics Workshop. Telematics-Based Managed Charging Market Context. VGIC. July 24, 2023.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/64c7f13fb23b8035f5a7e4cf/1690825
+023973/2023-07-24+VGIC+Presentation+to+Telematics+Workshop.pdf
+3
+
+II. THE PD SHOULD BE UPDATED TO CORRECT THE ERRONEOUS
+REDUCTION OF THE ELRP SUB-GROUP A.5 MINIMUM DISPATCH HOURS
+DESPITE THE WELL-ESTABLISHED RECORD SUPPORTING THE CURRENT
+30-HOUR PROVISION.
+A. The PD Would Correctly Extend ELRP Through 2027.
+VGIC supports the PD’s finding to continue the ELRP pilot through 2027, given the
+continued need for tools to ensure grid reliability in the face of increasing extreme weather events
+and an ever-evolving electrical grid. Specifically, VGIC appreciates the proposed extension of
+ELRP sub-group A.5 through 2027 and the improvements made to increase participation, such as
+reducing the event window to 3 hours.4 As detailed above in Section I and throughout this
+proceeding, ELRP remains the only significant program that California and the IOUs have at their
+immediate disposal to elicit flexible dispatch from the state’s 1.5 million EVs.
+B. The PD Contains Factual Errors and Erroneous Claims Related to Reducing
+the Minimum Dispatch Hours for Sub-Group A.5.
+The PD proposes reducing the minimum dispatch hour provision for sub-group A.5 from
+30 to 20 hours. This element of the PD contains four factual errors that the Commission should
+correct in the Final Decision. Below, VGIC also references the record of this proceeding that
+demonstrates that reducing the minimum dispatch hours for customer group A.5 would jeopardize
+the EV/VGI Aggregation customer group by restricting the opportunities for EV customers to
+support emergency reliability.
+First, the PD incorrectly details party positions on the minimum dispatch hours provision
+for sub-group A.5. While the PD notes that PG&E initially proposed eliminating the minimum
+dispatch hours entirely for sub-group A.5, it fails to state that PG&E later changed this position,
+stating “[PG&E] agrees to withdraw its request to eliminate minimum dispatch requirements for
+4 PD at 133 and 141.
+4
+
+A.2, A.4, and A.5 for the reasons cited by CEDMC and VGIC.”5 Moreover, SDG&E testified that
+“it is prudent to keep all of the eligibility subgroups active, especially in Subgroups such as A.4 –
+VPP and Subgroup A.5 – VGI…”6 This is a key perspective that the PD should reflect. VGIC
+recommends the Commission revise the PD to accurately reflect the positions of PG&E and
+SDG&E, who, in fact, support retaining the existing sub-group A.5 minimum dispatch hours.
+Appendix A contains associated redlines to the PD.
+Second, the PD errs in insufficiently justifying the reduction of A.5’s minimum dispatch
+hours, as it does not cite supporting evidence contained in the record, stating only:
+“Arguments in favor of removing the minimum dispatch requirements have been made by
+SCE, Cal Advocates and PG&E, who state that as it currently stands the minimum dispatch
+hours only serve to provide revenue to the DR aggregators and they have not encouraged
+new aggregator participation.”7
+The above statement is incorrect as it relates to sub-group A.5, which did, in fact, see a new VGI
+aggregation participate in 2022 as detailed in Exhibit VGIC-01.8 VGIC recommends redlines to
+address this in Appendix A.
+Third, the PD contains erroneous implications related to the underlying intent of the sub-
+group A.5 minimum dispatch provision, stating:
+“Some success has already been realized with the joining of aggregators in sub-groups A.4
+and A.5. However, two years is not yet sufficient time to allow the industry to grow and to
+determine the effectiveness of these programs. We therefore keep the minimum total
+dispatch hours the same for sub-group A.2, but, lower the minimum total dispatch hours
+for sub-groups A.4 and A.5 to 15 and 20 hours, respectively.”9
+5 Exhibit PG&E 8, pg. 3-6.
+6 Exhibit SDG&E 9 Supplemental Testimony of SDG&E Witness E Bradford Mantz, pg. EBM-46.
+7 PD at 141-142.
+8 Exhibit VGIC-01, pg. 12-14.
+9 PD at 142.
+5
+
+These statements are internally inconsistent, as the PD simultaneously asserts that there has been
+“some success” yet states that there has “not been sufficient time to allow the industry to grow.”
+The PD correctly states that there has not been sufficient time for the industry to grow, as the
+record supports this.10 However, the explicit purpose of the minimum dispatch hours is to support
+the VGI market transition, as detailed in D.21-12-015, and should be used to determine “success”:
+“We acknowledge that the impact of including VGI aggregation under Group A.5 is
+uncertain, but we see the pilot as an opportunity to deploy and scale this resource,
+which will be critical in the coming years to ensure EVs can enhance reliability… We
+adopt minimum VGI dispatch hours of 30 hours per season as an incentive for customers
+to participate in the program since they would otherwise have no assurance of receiving
+compensation” (emphasis added).11
+Suppose success is defined even partially by VGI market growth, as the Commission intended in
+D.21-12-015, and the PD’s finding that the market has not had sufficient time to grow is also
+correct. In that case, the PD’s assertion that there has been sufficient success to justify this
+modification must be incorrect. Moreover, the EV/VGI aggregation group has not been active for
+two years, a state which the PD acknowledges: “VGIC in particular notes that sub-group A.5 was
+only instituted in late 2022 and has only one year’s worth of lessons.”12 Appendix A contains
+recommended revisions to this section of the PD.
+Fourth, the PD proposes to adopt a 20-hour minimum dispatch requirement that does not
+reflect any party proposal, and this number’s appearance in the PD is the first and only time it has
+been raised in the proceeding. While SCE and CalAdvocates propose eliminating the minimum
+dispatch requirement entirely, PG&E, SDG&E, VGIC, and CEDMC propose to retain the existing
+10 See, for example, Exhibit VGIC-01 at 17 and VGIC Phase II Opening Brief at 6.
+11 CPUC D.21-12-015. Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California
+Edison Company, and San Diego Gas & Electric Company to Take Actions to Prepare for Potential
+Extreme Weather in the Summers of 2022 and 2023. April 28, 2022. Pg. 39-40.
+12 PD at 142.
+6
+
+30-hour provision.13 In sum, there is no evidence in the record of this proceeding to justify the
+proposal to reduce the sub-group A.5 minimum dispatch provision from 30 to 20 hours.
+C. In Addition to the Above-Noted Factual Errors, VGIC Believes the Record of
+this Proceeding Supports Retaining the 30-Hour Minimum Dispatch Provision
+for Sub-Group A.5.
+The PD appears to frame this modification as an attempt to incentivize participation in the
+customer group.14 VGIC finds this counterintuitive and questions the basis on which the PD finds
+that reducing the minimum dispatch hours would incentivize greater participation.
+This proposed modification directly works against the program’s overall goals related to
+grid reliability, the market transition goals specific to customer group A.5 (i.e., as “an opportunity
+to deploy and scale” VGI15), and the clear goals of SB 676 and the subsequent VGI Strategies
+Decision D.20-12-029.16 Additionally, the PD offers no consideration of the risk-reward tradeoff
+of this modification, nor does it detail how the record of this proceeding supports this change.
+Critically, the Commission’s underlying reasoning behind establishing customer group A.5
+and the 30-hour minimum dispatch provision remains true today. Nothing has materially changed
+about the VGI market to consider it much more mature today than in December 2021 when the
+Commission adopted the above statements. ELRP A.5 remains an “opportunity to deploy and scale
+this resource.” Moreover, the 30 hours per season minimum dispatch provision remains an
+“incentive for customers to participate” and offers an “assurance of receiving compensation.”
+13 PD at 141-142.
+14 PD at 142.
+15 CPUC D.21-12-015. Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California
+Edison Company, and San Diego Gas & Electric Company to Take Actions to Prepare for Potential
+Extreme Weather in the Summers of 2022 and 2023. April 28, 2022. Pg. 39.
+16 SB 676, Bradford. Transportation electrification: electric vehicles: grid integration. October 02, 2019;
+CPUC D.20-12-029. Decision Concerning Implementation of Senate Bill 676 and Vehicle-Grid Integration
+Strategies. December 17, 2020.
+7
+
+Parties have not introduced evidence explaining how these statements are no longer applicable,
+nor does the PD detail how the Commission’s initial reasoning is no longer applicable.
+VGIC reiterates that the 2022 ELRP season data demonstrated 760 kWh of sub-group A.5
+Incremental Load Reduction (“ILR”) across all three IOUs, as detailed in Exhibit VGIC-01.17 The
+adopted ELRP Compensation Rate of $2/kWh results in $1,520 of total sub-group A.5 cost from
+2022.18 Based on VGIC’s discussion with VGI providers and its monitoring of each IOUs’
+Quarterly Rule 21 Interconnection Reports, we do not anticipate this cost being much higher for
+the 2023 ELRP season. VGIC notes this cost is extremely low compared to this PD’s combined
+ELRP budget of $527.03 million.19 Therefore, VGIC believes the cost risk of retaining the 30-hour
+provision for sub-group A.5 to be negligible.20
+On the other hand, the opportunity that the ELRP sub-group A.5 provisions, including the
+30-hour dispatch requirement, present to support the relatively nascent VGI market cannot be
+overstated, as detailed throughout this proceeding.21 VGIC notes in its opening testimony:
+“There is a meaningful amount of V2X projects in the pipeline that could be operational
+for the next few years of ELRP, including over 1 MW of electric school bus V2G under
+various stages of development… realizing these projects likely depends on both a) the
+Commission acting expeditiously to preserve or enhance the original terms of the A.5
+subgroup (including the minimum dispatch hours), and b) the IOUs working expeditiously
+to interconnect these projects and eliminate unnecessary barriers to participation.”22
+17 Administrative Law Judge’s Ruling Providing the ELRP Program Data for 2022 Summer Season. March
+2, 2023. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M502/K977/502977248.PDF. Attachment A,
+Part 6, Page A.5. The overall Total Delivered kWh (interval positive performance) for subgroup A.5 over
+32 hours in 2022 equaled 760 kWh.
+18 Exhibit VGIC-01, pg. 14.
+19 PD at 147-150. “PG&E is authorized to recover a total of $267.62 million for ELRP from 2024-2027.”
+“SCE to recover $177.77 million for ELRP costs.” “SDG&E is authorized to recover $81.64 million for
+ELRP program costs from 2024-2027.”
+20 See, for example, VGIC-01, pg. 14.
+21 See, for example, VGIC-01, pg. 17.
+22 Exhibit VGIC-01, pg. 17.
+8
+
+VGIC can attest that automakers, charging equipment manufacturers, and aggregators are
+presently mobilizing to establish VGI solutions and projects around ELRP. Meanwhile, standards
+development organizations and industry collaborations are working diligently and in good faith to
+accelerate progress on VGI technical standards for unidirectional and bidirectional charging
+configurations. Prematurely reducing group A.5 minimum dispatch hours provision before
+customers have had a meaningful opportunity to participate with these new solutions would
+severely slow momentum for the entire VGI market. This modification would send a clear
+regulatory signal to the emerging VGI market that California holds at best a wavering
+commitment to unlocking the latent grid-support capabilities of its growing fleet of EVs.
+Given the errors in the PD’s discussion of this issue, the overall lack of sufficient evidence
+to support the proposed minimum dispatch hour reduction from 30 to 20 hours, the persistent facts
+underscoring the Commission’s original reasoning to support this provision, the minimal real costs
+associated with retaining the provision, and the risk posed to the emerging VGI market alignment
+and technical progress, VGIC strongly recommends that the minimum dispatch hours for ELRP
+sub-group A.5 be maintained at 30 hours or potentially increased to signal to the VGI industry
+California’s support for this emerging solution.
+III. THE PD SHOULD ADOPT SDG&E’S EV DR PILOT AS A NO-REGRETS, LOW-
+COST PATHWAY TO UNLOCK SIGNIFICANT EV PARTICIPATION IN
+SUPPORT OF BOTH SYSTEM AND LOCAL GRID NEEDS.
+Throughout this proceeding, SDG&E has demonstrated the need for their proposed EV DR
+pilot that would “manage charging times for EVs that have not signed up for EV TOU rates…either
+with the vehicle or the charger.”23 Under this pilot, EV customers who would otherwise not support
+the grid through smart charging would be given the option to optimize charging, lower their energy
+23 PD at 157.
+9
+
+costs, and participate in demand response events that benefit the grid. SDG&E’s proposal to
+implement an EV DR pilot is a no-regrets and low-cost pathway to unlock significant VGI
+capabilities that will benefit the grid, as supported by the overwhelming majority of parties that
+weighed in on the proposal.24 With this in mind, VGIC is disappointed with the PD’s determination
+to deny SDG&E’s request for funding the EV DR pilot. Notably, the PD contains four key factual
+errors in denying SDG&E’s DR Pilot.
+First, the PD fundamentally misunderstands the pilot design and how it is distinct from
+SCE’s Charge Ready DR pilot, stating: “SCE’s Charge Ready DR pilot and other efforts by CCAs
+have provided ample amounts of similar data, and SDG&E has not sufficiently explained what
+more should be learned or how its pilot is different.”25 To date, the SCE Charge Ready DR Pilot
+has implemented a critical peak pricing (“CPP”) scheme for most Charge Ready DR Pilot
+participants. Moving forward, new Charge Ready DR Pilot participants will likely participate in
+ELRP. Both offerings provide DR participation opportunities for a limited subset of EV customers
+with networked chargers funded through SCE’s make-ready program. In stark contrast, SDG&E’s
+proposed pilot seeks to incorporate both networked chargers and networked vehicles into its
+program, and is open to all customers, not just those supported through its make-ready program
+portfolio. The record of this proceeding demonstrates that allowing customers to use embedded
+vehicle telematics capabilities in DR programs in addition to networked chargers will result in
+more DR-eligible customers and, in turn, more EV DR participation.26 VGIC recommends redlines
+24 See, for example, EVE-1, at 3-6; WG-01, at 3-6; VGIC-01, at 26-28. The PD notes that Cal Advocates
+“recommended limiting the scope of the proposal,” but does not state they recommended denying it
+outright. PD at 158.
+25 PD at 158.
+26 Exhibit VGIC-01, pg 24; Exhibit WG-1, pg 6; Exhibit EVE-1, pg 3.
+10
+
+in Appendix A to more accurately characterize the difference between SDG&E’s EV DR Pilot and
+SCE’s Charge Ready DR Pilot.
+Second, the PD misinterprets the key difference between SDG&E’s proposed pilot and
+related efforts by CCAs. While CCA efforts can support leveraging vehicle telematics to respond
+to system-level peak and other bulk power system needs, SDG&E is uniquely positioned to
+identify distribution system constraints and elicit response from flexible managed charging
+resources accordingly.27 VGIC offers redlines in Appendix A to properly characterize this key
+difference.
+Third, the PD erroneously frames SDG&E’s EV DR Pilot as a matter of data collection
+rather than an effort to pilot a program design in a limited and cost-controlled form before
+launching it at full scale. SDG&E does not have any mass-market EV managed charging program
+or even an SB 676 pilot. Parties have proposed and the PD references no other venue for SDG&E
+to trial customer outreach, incentives, coordination, and the technology integrations required to tap
+into the latent smart charging capacity embedded in the EVs in its service territory.
+Fourth, the PD references cost-effectiveness, stating that “given the poor cost-
+effectiveness of SDG&E’s portfolio, it is difficult to justify additional pilots which will produce
+further cost burdens on SDG&E’s ratepayers.”28 VGIC agrees that cost-effectiveness is generally
+an important consideration for SDG&E’s legacy large-scale and mature DR programs. However,
+VGIC believes it is inappropriately applied to the proposed EV DR Pilot, which targets a customer
+segment in need of market transition support and program offerings. In fact, the PD also states that
+“[c]ost-effectiveness should not be the only consideration when determining whether a DR
+27 See WG-1, pg 11.
+28 PD at 158.
+11
+
+program should be approved.”29 As proposed, SDG&E’s EV DR pilot would be taking critical
+steps to launching a new managed charging program for thousands of EVs in SDG&E’s territory
+that are otherwise locked out of participation through networked charger (i.e., in ELRP). This is
+aligned with SDG&E’s effort “to become more innovative and focus on the utilization of new
+technology to help fit into the grid of the future.”30 VGIC cannot attest to SDG&E’s ability to cost-
+effectively implement other legacy, large-scale DR programs, but believes that the Commission
+would be making a mistake to allow this innovative VGI program to be denied based on the
+performance of unrelated, legacy DR programs.
+Moreover, Cal Advocates argues throughout the record that SDG&E’s legacy DR portfolio
+cost-effectiveness scores too low to merit renewal. Meanwhile, the Commission has accepted Cal
+Advocates “Distribution Grid Electrification Model Study and Report” into the record of R.21-06-
+017.31 This study demonstrates a potential $25 billion savings compared to the “Kevala
+Electrification Impacts Study: Part 1” commissioned by the Commission. This $25 billion
+difference is sourced entirely through load management solutions that target distribution system
+capacity. SDG&E’s EV DR Pilot, given the fundamental characteristics distinguishing it from
+SCE’s Charge Ready DR Pilot, CCA efforts, and ELRP, has tremendous potential to unlock this
+exact category of cost savings. In other words, Cal Advocates has effectively argued in this
+proceeding against the only IOU proposal capable of reducing distribution system costs from EVs
+while detailing in a related proceeding (i.e., High DER OIR) the $25 billion imperative to establish
+29 PD at 196.
+30 SDG&E. Application of San Diego Gas & Electric Company (U 902-E) Requesting Approval of Its
+Demand Response Portfolio for Bridge Year 2023 and Program Years 2024-2027. May 2, 2022. Pg. 4.
+31 Administrative Law Judge’s Ruling Soliciting Comments on Cal Advocates’ Distribution Grid
+Electrification Model Study and Report. October 17, 2023. R.21-06-017.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M520/K563/520563683.PDF
+12
+
+these same types of programs. VGIC urges the Commission to acknowledge this unique benefit of
+SDG&E’s EV DR Pilot that offers the opportunity for ratepayer cost savings from distribution
+system cost reductions. VGIC offers recommended redlines to address this missed opportunity in
+Appendix A.
+IV. VGIC URGES THE COMMISSION TO DETAIL A PATHWAY FOR
+CONSIDERATION OF DR OR VGI PROGRAMS THAT INCLUDE
+TELEMATICS-BASED PARTICIPATION AS ELIGIBLE.
+As detailed in Section III and VGIC’s Opening Brief, “allowing customers to use
+embedded vehicle telematics capabilities to participate in DR programs in addition to the existing
+networked [charger] participation pathways will result in more DR-eligible equipment,”32 and in
+turn, increase the total potential of EVs to support the grid through DR portfolio offerings. The
+benefits of using embedded vehicle telematics in DR have been reiterated by VGIC, SDG&E,
+WeaveGrid, Ev.energy, and Small Business Utility Advocates throughout this proceeding.33 VGIC
+reiterates its statement from its Phase II Opening Brief that the record of this proceeding viewed
+as a whole, “makes an unassailable case for the Commission to direct each IOU to modify their
+proposed DR portfolios to ensure it adequately compels EV customer participation, namely
+through…the addition of vehicle telematics-base participation pathways (i.e., in ELRP, SDG&E’s
+proposed EV DR Pilot, and/or other large-scale telematics-based opportunities.”34
+However, despite an exhaustive listing of current telematics-based programs,35
+considerable back-and-forth between parties throughout this proceeding highlighting the benefits
+and justifications for incorporating telematics-based participation into ELRP, and meetings with
+32 VGIC Phase II Opening Brief, pg. 8.
+33 EV.energy Phase II Opening Brief, pg 2-5; Small Business Utility Advocates Phase II Opening Brief, pg.
+7-8. WeaveGrid Phase II Opening Brief, pg. 2-6; SDG&E Opening Brief, pg. 24-27.
+34 VGIC Phase II Opening Brief, pg. 3.
+35 Exhibit VGIC-01, pg. 25-26.
+13
+
+Energy Division staff in which VGI stakeholders have responded to questions as to why there is
+not greater participation in ELRP, the PD rejects serious consideration of this issue. The PD asserts
+two factual errors as reasons in support of this rejection.
+First, the PD states that there is “insufficient record in this proceeding to determine how
+telematics would be introduced to ELRP.”36 This is incorrect, as parties have proposed specific
+pathways for incorporating telematics into ELRP. As noted in the PD, VGIC recommends that this
+be done on an interim basis until a full-scale telematics protocol can be developed.37 Notably, this
+is the exact same mechanism that was utilized to allow EVSE submetering in ELRP before the
+PEV Submetering Protocol was adopted.38 No party opposed this specific recommendation for an
+interim approach. VGIC offers redlines in Appendix A to address this error.
+Second, the PD incorrectly asserts that this issue is being considered in multiple
+proceedings, as it states “it is not an efficient use of Commission resources to consider the same
+issue in multiple proceedings.”39 However, as detailed in Exhibit VGIC-01 and reiterated
+throughout this proceeding, “the Commission…clarified that D.22-08-024 applied specifically
+to customer billing and do not concern the utilities’ demand response programs” (emphasis
+added).40 VGIC expresses its concern not only over the factual error misrepresenting the distinction
+between telematics for rate participation and telematics for non-rate DR program participation but
+also over the consistent manner in which the Commission has redirected the issue of telematics-
+based participation in DR programs (i.e., non-rate participation). In ping-ponging stakeholders
+between proceedings, the Commission has continually evaded this important opportunity to
+36 PD at 146.
+37 PD at 145.
+38 Exhibit VGIC-01, pg. 30.
+39 PD at 146.
+40 Exhibit VGIC-01, pg. 29, and D.22-08-024, pg. 34-36.
+14
+
+manage EV load through telematics-based DR program participation. VGIC stands puzzled in the
+face of statewide policies that drive EV adoption that proceed with a lack of accompanying EV
+load management strategies. VGIC urges the Commission to adopt the following
+recommendations:
+1. The Commission should adopt the redlines in Appendix A that correct the factual errors
+made in the PD Section 11.1.12 characterizing this issue.
+2. Either:
+a. Direct the IOUs to incorporate telematics-based participation into ELRP, as
+detailed in Appendix A;
+b. Establish a Phase III of this proceeding in which the Commission seeks input
+on the design of telematics-based EV DR participation;
+c. Explicitly detail that telematics-based non-rate program participation pathways
+will be established in DRIVE OIR and issue a ruling in DRIVE OIR seeking
+party proposals to establish a suite of managed charging program offerings that
+leverage vehicle telematics capabilities.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the Proposed Decision.
+We look forward to further collaboration with the Commission and stakeholders on this important
+initiative.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: November 28, 2023
+15
+
+Appendix A: VGIC Recommended Modifications to the Proposed Decision
+Note: Proposed changes are shown in strikeout and underline
+P. 141: SCE and PG&E initially proposed to remove minimum dispatch requirements for the
+A.2, A.4, and A.5 sub-groups. These sub-groups consist of non-residential aggregators, virtual
+power plant aggregators, and vehicle-grid-integration aggregators. Minimum dispatch hours
+were instituted for these sub-groups to provide revenue via ELRP in order to encourage
+development of new resources that do not yet participate in DR in California. Arguments in favor
+of removing the minimum dispatch requirements have been made by SCE, Cal Advocates and
+PG&E, who state that as it currently stands the minimum dispatch hours only serve to provide
+revenue to the DR aggregators and they have not encouraged new aggregator participation,
+outside of subgroup A.5. PG&E and SCE support removal of the dispatch requirements starting
+in 2026-2027, while Cal Advocates states it should be removed immediately. PG&E later
+withdrew its request to eliminate minimum dispatch requirements for A.2, A.4, and A.5.
+P.142: “However, two years is not yet sufficient time to allow the industry to grow and to
+determine the effectiveness of these programs. We therefore keep the minimum total dispatch
+hours the same for sub-groups A.2 and A.5, but lower the minimum total dispatch hours for sub-
+groups A.4 and A.5 to 15 and 20 hours, respectively.”
+P. 158: “SDG&E has not adequately explained the need for a pilot on these issues. SCE’s Charge
+Ready DR pilot and other efforts by CCAs have provided ample amounts of similar data. , and
+However, SDG&E has not sufficiently explained what more should be learned or and how its
+pilot is different. Additionally, given despite the poor cost-effectiveness of SDG&E’s portfolio,
+it is difficult to justify additional this pilots which will produce further cost burdens reduction on
+SDG&E’s ratepayers, including distribution system cost savings. SDG&E’s request for funding
+for this pilot is denied approved.”
+P. 145: “There is insufficient sufficient record in this proceeding to determine how that
+telematics would should be introduced to ELRP on the same interim basis that submetering was
+introduced. Additionally, it is not an efficient use of the Commission determines DR cycle
+applications to be the appropriate proceeding in which to consider this issue. resources to
+consider the same issue in multiple proceedings. We therefore decline decide to address this
+issue here. We direct the IOUs to propose rules for telematics-based enrollment in ELRP in a
+Tier 2 Advice Letter within 60 days of this Decision.
+Finding of Fact
+132. SDG&E’s proposed pilots in this application have all been denied, except for the EV DR
+Pilot, reducing the need for research.
+A-1
+
+134. ELRP provides unique capacity supported by BTM generation, and storage devices, and
+dispatchable EV load reduction.
+###. Preserving the ELRP Sub-group A.5 minimum dispatch hour provision would support
+customer participation in the program.
+###. Establishing vehicle telematics-based participation pathways for ELRP will support
+greater EV participation.
+Conclusions of Law
+115. The minimum dispatch hours for ELRP sub-groups A.4 and A5 should be reduced to 15
+and 20 hours, respectively.
+###. SDG&E’s proposed SDG&E EV DR Pilot budget request should be approved.
+###. PG&E, SCE, and SDG&E should jointly submit a Tier 2 advice letter requesting
+approval of a vehicle telematics-based participation pathway for ELRP.
+Ordering Paragraphs
+### San Diego Gas & Electric Company (SDG&E) shall conduct its Electric Vehicle Demand
+Response Pilot (EVDRP). SDG&E is authorized to cumulatively recover $3.33 million
+during calendar years 2024-2027 for its EVDRP program. SDG&E is authorized to
+submit a Tier 2 advice letter seeking to make its EVDRP permanent, contingent upon a
+showing of cost-effectiveness. SDG&E is authorized to submit a Tier 3 advice letter by
+December 31, 2024, seeking additional budget for its EVDRP, if necessary.
+### Pacific Gas and Electric Company (PG&E), Southern California Edison Company (SCE),
+and San Diego Gas & Electric Company (SDG&E) shall jointly submit a Tier 2 advice
+letter within 90 days requesting approval of a vehicle telematics-based participation
+pathway for ELRP participants.
+A-2

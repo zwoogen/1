@@ -1,0 +1,1259 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 6, 11.1, AND
+11.2)
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: August 21, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 6, 11.1, AND
+11.2)
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council1 (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Adding Staff Proposal for a Draft
+Transportation Electrification Framework to the Record and Inviting Party Comments
+(“Ruling”) issued by Administrative Law Judge (“ALJ”) Patrick Doherty on February 3, 2020.
+Pursuant to Email Ruling Resetting Procedural Schedule for Comments on Transportation
+Electrification Framework Sections issued by ALJ Sasha Goldberg on August 4, 2020, VGIC
+timely files these comments on Sections 6, 11.1, and 11.2 of the Draft Transportation
+Electrification Framework (“Draft TEF”) on August 21, 2020.
+I. INTRODUCTION.
+A. Overview of VGIC
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California
+LLC, Enel X North America, Inc., Fiat Chrysler Automobiles, Ford Motor Company, General Motors
+Company, Nissan North America, Inc., Nuvve Corporation, and Toyota Motor North America, Inc. The
+views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+1
+
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+B. Organization of VGIC’s Comments
+VGIC’s comments are organized as follows:
+ First, VGIC addresses specific questions on Sections 11.1 of the Draft TEF posed by
+the Commission and in Energy Division Staff Paper on VGI Issues.2 In responding
+to these questions, VGIC provides several recommendations for the Commission’s
+consideration.
+ Second, VGIC addresses several questions and recommendations on Section 11.2
+related to marketing education and outreach (“ME&O”). VGIC provides several
+recommendations for the Commission’s consideration.
+ Finally, VGIC provides a summary of recommendations from its answers to these
+questions.
+II. COMMENTS ON DRAFT TEF SECTION 11.1: VGI AND STAFF PAPER ON
+VGI ISSUES.
+2 Vehicle Grid Integration Implementation and the Draft Transportation Electrification Framework,
+Energy Division Staff Paper (August 10, 2020)
+2
+
+A. Section 11.1, Question 1: How can Energy Division staff and the investor-owned
+utilities (“IOU”) align the implementation of SB 676 (Bradford, 2019) with the
+IOUs’ Transportation Electrification Plan (“TEP”) development?
+Consistent with the Joint Comments on VGI Issues filed August 17, 20203, VGIC
+recommends that the Commission issue guidance to the IOUs on VGI implementation that
+includes a “Model VGI Portfolio,” the recommended components of which we describe in detail
+in those comments4. This guidance should include a directive for IOUs to develop and
+implement their own VGI Portfolios beginning in 2021 (if not sooner for some program
+elements). This VGI Portfolio development and approval processes could either function as a
+standalone effort or be incorporated into the TEF and TEP process. VGIC’s preference is for
+each VGI Portfolio to initially be a standalone effort, for a few reasons discussed in the Joint
+Comments on VGI Issues5, before being referenced and incorporated into the Final TEF, future
+TEF updates, and ongoing TEPs. This is also sensible because not all VGI activities are
+necessarily contingent on IOU programs or ratepayer funding.
+B. Section 11.1, Question 2: Will existing activities such as the interagency VGI
+Working Group provide sufficient output and identifiable next steps to specifically
+target IOU VGI activities?
+VGIC is grateful for the time and thoughtfulness of all who participated in the nearly
+year-long interagency VGI Working Group (“VGI WG”). VGIC addresses specific VGI WG
+3 Joint Comments of the Vehicle-Grid Integration Council, Enel X North America, Inc., Advanced Energy
+Economy, California Energy Storage Alliance, ChargePoint, Inc., Environmental Defense Fund,
+Greenlots, Natural Resources Defense Council, and Siemens on Email Ruling Seeking Party Comment on
+Vehicle-Grid Integration Issues, August 17, 3030 in DRIVE OIR (R. 18-12-006)
+4 Id at 8-14.
+5 Id at 6.
+3
+
+policy recommendations identified in the Energy Division Staff Paper on VGI in II.D and II.E
+below.
+C. Section 11.1, Question 3: What is the appropriate role of community choice
+aggregators (“CCAs”) and other load-serving entities (“LSEs”) to advancing VGI?
+How should their participation in VGI services be addressed in the IOUs’ TEPs?
+Effective implementation of VGI strategies likely requires some level of coordination
+(whether direct or indirect) between IOUs and CCAs or other LSEs, such as to align EV rate
+options. While VGIC believes the Commission has limited ability (if any) to direct CCA actions
+related to VGI, we also believe the Commission should be cognizant of any barriers (whether
+intentional or not) that IOU actions may cause for CCA efforts to spur beneficial electrification
+through VGI. For example, VGIC is aware that some CCAs are taking action to better align the
+time coincidence of their renewable resource mix and their loads. VGI is seen as a critical tool in
+this effort. Distribution rates or resource planning requirements that are not conducive to these
+efforts could be seen as a barrier.
+Additionally, as described in our August 17, 2020 Joint Comments, VGIC is eager to find
+ways to unlock incremental Low-Carbon Fuel Standard (“LCFS”) credits available from non-
+metered smart charging pathways that are currently not being claimed. This is distinct from
+metered incremental credits that are currently being captured by LSEs, automotive original
+equipment manufacturers (“OEMs”), and third-party EV service providers (“EVSP”) alike. If
+captured, these non-metered, incremental LCFS credits could serve as a substantial funding
+source for new VGI-related activities, including demonstration projects. It is VGIC’s
+understanding that under current Air Resources Board (“ARB”) regulations, only electric
+4
+
+distribution utilities (i.e. the IOUs) are able to claim these credits but are currently not doing so.
+To the extent that the IOUs are not taking this action, CCAs or other entities may be well
+positioned to do so. VGIC recommends that the Commission work with ARB to resolve this
+issue to ensure that IOU actions (or lack thereof) on obtaining incremental non-metered LCFS
+credits do not stymie the ability of CCAs or other entities to claim these credits instead.
+D. Staff Paper questions on implementing VGI near-term priorities:
+a. What, if any, VGI related topics should be included in the list of pre-TEP
+topics that could be included as part of a pre-TEP program application or
+pilot proposal to be filed as a pre-TEPs; and
+In Comments on TEF Section 5, VGIC recommended the Commission not necessarily
+limit the IOUs’ pre-TEP program proposals to a list of priority areas identified in the TEF.6
+VGIC reiterates this recommendation and believes that pre-TEP VGI-related topics should also
+not be limited to a set list. Instead, VGIC recommends that the Commission direct IOUs to
+develop VGI Portfolios during the pre-TEP timeframe, and later referencing and incorporating
+these VGI Portfolios into each IOU’s TEP. In the Joint Comments on VGI Issues, VGIC offers
+additional detail and justification for the development of comprehensive standalone VGI
+Portfolios before the TEP process is complete. 7
+6 Opening Comments of VGIC on TEF Sections 2, 3.1, 3.2, 3.3, 4, and 5 (March 6, 2020)
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M328/K692/328692746.PDF at 8.
+7 Joint Comments of the Vehicle-Grid Integration Council, Enel X North America, Inc., Advanced Energy
+Economy, California Energy Storage Alliance, ChargePoint, Inc., Environmental Defense Fund,
+Greenlots, Natural Resources Defense Council, and Siemens on Email Ruling Seeking Party Comment on
+Vehicle-Grid Integration Issues, August 17, 3030 in DRIVE OIR (R. 18-12-006) at 6.
+5
+
+b. What other mechanism(s) currently allow, or could be modified to allow,
+implementation of the near-term VGI recommendations under the DRIVE
+OIR? Alternatively, would an alternative proceeding outside of the DRIVE
+OIR provide sufficient authority in lieu of taking action within the OIR?
+Near-term VGI recommendations should be considered in the DRIVE OIR via IOU
+applications for VGI Portfolios. VGIC believes that this mechanism provides the most sensible
+pathway for implementing near-term VGI strategies. The DRIVE OIR offers a forum for the
+consolidated, coordinated approach needed to advance transportation electrification (“TE”) and
+VGI. However, as discussed in the Joint Comments on VGI Issues, some elements of VGI
+Portfolios may utilize funding from parallel proceedings. For example, rate elements of VGI
+Portfolios may need to be decided in parallel proceedings. Ultimately, VGIC does not
+recommend an alternative proceeding outside of the DRIVE OIR to address VGI, as it is wholly
+unnecessary given the scope of the DRIVE OIR and would inhibit progress on implementation of
+valuable VGI strategies.
+E. VGIC comments and references in response to Staff Paper Appendix containing
+feedback on specific VGI policy recommendations.
+VGIC appreciates the effort by the Commission and Energy Division Staff to solicit
+feedback from a broad set of stakeholders on VGI, and specifically commends Staff for their
+dedication in responding to the long list of relevant VGI Working Group policy
+recommendations. Due to the various VGI-related issues open for comment in quick succession
+(i.e. TEF Tech and Standards, VGI, and Rates Sections, and Ruling Seeking Comments on VGI
+Issues), VGIC offers the below Table 1 to assist in cross-referencing VGI Working Group policy
+6
+
+recommendations with VGIC Comments filed in the DRIVE OIR. Table 1 is based on the
+August 10, 2020 VGI Staff Paper, with the additional fourth and fifth columns containing VGIC
+comments and page number references to recommendations provided in previously-filed VGIC
+comments (including Joint Comments on VGI Issues, filed August 17, 2020). See Table 1 below.
+7
+
+1
+elbaT
+ot
+ecnerefeR
+CIGV
+fo
+stnemmoC
+kcabdeef
+ffatS
+DE
+yciloP
+GW
+IGV
+IGV
+deliF
+ylsuoiverP
+noitcA
+#GW
+stnemmoC
+CIGV
+stnemmoC
+tnioJ
+a
+rof
+stpecnoc
+level-hgih
+dereffo
+CIGV
+rof
+deredisnoc
+eb
+dluohs
+snoitpo
+tahW
+llib
+tropxe
+VE
+61.1
+ta
+seussI
+IGV
+no
+stnemmoC
+tnioJ
+ni
+tiderc
+llib
+tropxe
+G2V
+?dirg
+eht
+ot
+stropxe
+rof
+eulav
+gnidivorp
+MEN
+rednu(
+tiderc
+.11
+erom
+edivorp
+lliw
+dna
+,seussI
+IGV
+no
+ot
+desu
+eb
+dluohs
+sdohtem
+tahW
+rehtona
+ro
+llib
+tropxe
+VE
+na
+no
+stnemmoc
+deliated
+stropxe
+rof
+slevel
+noitasnepmoc
+enimreted
+)krowemarf
+9
+noitceS
+FET
+gnimocpu
+eht
+rof
+tiderc
+fo
+rebmun
+eht
+dluohS
+?dirg
+eht
+ot
+.doirep
+tnemmoc
+msinahcem
+a
+hcus
+rof
+elbigile
+sremotsuc
+dna
+segatnavda
+yfitnedI
+?detimil
+eb
+.hcaorppa
+hcae
+fo
+segatnavdasid
+8
+
+stnemmoC
+tnioJ
+s’ffatS
+etupsid
+ton
+seod
+CIGV
+-raen
+lanoitidda
+dnemmocer
+ton
+seod
+ffatS
+esrever"
+hsilbatsE
+30.2
+ta
+seussI
+IGV
+no
+gnieb
+stifeneb
+ralimis
+fo noitaziretcarahc
+eht
+rednu
+noitca
+mret
+yap(
+setaber
+"EE
+.9
+.setar
+UOT
+cimanyd
+dna
+citats
+yb
+dedivorp
+.RIO
+EVIRD
+)?ecnamrofrep
+rof
+rojam
+a
+ot
+tniop
+dluow
+ew
+,revewoH
+raen
+eht
+ni
+gnisucof
+sdnemmocer
+ffatS
+ESVE
+rof
+htiw
+noitadnemmocer
+siht
+fo
+tniophcuot
+dna
+UOT
+sa
+hcus
+sevitnecni
+no
+mret
+taht
+snoitallatsni
+gnikroW
+tfihS
+daoL
+eht
+ni deniatnoc
+esoht
+FET
+tfard
+ni
+detsil
+setar
+UOT
+cimanyd
+tnenamrep
+dliub
+9102
+,13
+yraunaJ
+dettimbus
+8,troper
+puorG
+,esac
+esu
+siht
+htob
+troppus
+taht
+9
+noitces
+daol
+yaddim
+sihT
+.710-01-71
+noisiceD
+ot
+esnopser
+ni
+sa
+llew
+sa
+,ralos
+yad-dim
+fo
+ekatpu
+.e.i
+wen
+a
+hcnual
+ot
+dednetni
+saw
+troper
+-thgin
+sa
+hcus
+sesac
+esu
+rehto
+fo
+noitatnemelpmi
+redisnoc
+ot
+gnikamelur
+fo
+sdoirep
+gnirud
+egrahcsid
+dna
+dniw
+emit
+taht
+ni
+debircsed
+sa
+stcudorp
+tfihs
+daol
+wen
+sihT
+.dnamed
+kaep
+derrucco
+tey
+ton
+sah
+hcihw
+,troper
+deredisnocer
+eb
+dluoc
+noitadnemmocer
+ycilop
+siht
+fo
+tnenopmoc
+cificeps
+A
+.retal
+no desucof
+eb
+dluoc
+noitadnemmocer
+eht
+ni
+dessucsid
+sa
+,gnigrahc
+ecalpkrow
+decnerefer
+seussI
+IGV
+no
+stnemmoC
+tnioJ
+.thgir
+eht
+no
+stnemmoC
+CIGV
+snoitadnemmocer
+s’CIGV
+htiw
+tnetsisnoC
+SME
+VE
+na
+redisnoc
+sUOI
+rehtehW
+)1
+sremotsuc
+elbanE
+40.2
+snoitceS
+FET
+no
+8&7
+snoitceS
+FET
+no
+stnemmoC
+ylpeR
+ni
+ytilitu
+a
+rof
+deen
+eht
+gninimreted
+nehw
+daol
+MTB
+a
+tcele
+ot
+.91-71
+ta
+8
+dna
+7
+ew
+,seussi
+IGV
+no
+stnemmoC
+tnioJ
+dna
+daetsni
+ro
+;edargpu
+noitcennoc
+ecivres
+tnemeganam
+fdp.troper_puorGgnikroWtfihSdaoL/20/9102/sdaolpu/tnetnoc-pw/gro.skrowdirg//:sptth
+8
+9
+
+a
+hguorht
+dehsilpmocca
+eb
+nac
+siht eveileb
+yticapac
+etalpeman
+mumixam
+eht
+mus
+diova
+ot
+noitpo
+ylpeR
+CIGV
+VE
+segaruocne
+taht
+noitpo
+desab-ffirat
+yna
+rehtehw
+)2
+;ESVE
+hcae
+morf
+daol
+noitubirtsid
+no
+stnemmoC
+sedargpu
+noitubirtsid
+refed
+ot
+sremotsuc
+gnireffo
+morf
+sUOI
+tneverp
+dluow
+sreirrab
+sedargpu
+7
+snoitceS
+FET
+daoL
+evitcA/detamotuA
+hguorht
+gnitsixe
+ni
+stnapicitrap
+ot
+ygolonhcet
+siht
+tnioJ
+.9-5
+ta
+8 dna
+.tnemeganaM
+erutcurtsarfni
+ET
+UOI
+erutuf
+dna
+ot evitanretla
+”seriw-non“
+a
+sa
+smargorp
+stnemmoC
+tnioJ
+noitubirtsid
+rehtruf
+,siht
+ot
+noitidda
+nI
+-remotsuc
+dna
+UOI
+ot
+sedargpu
+lacisyhp
+ta
+seussI
+IGV
+no
+hguorht
+deusrup
+eb
+dluoc
+slarrefed
+yticapac
+somed/ofni
+tahw
+)3
+;yticapac
+lacirtcele
+edis
+.01-9
+sa hcus
+,stnemele
+margorp
+rehto
+esu
+ot
+laitnetop
+eht
+etaulave
+ot
+dedeen
+era
+era
+taht
+snoitpo
+noitaticilos
+evititepmoc
+ot
+sdaol
+detartnecnoc
+eganam
+ot
+SME
+VE
+tnioJ
+eht
+ni
+debircsed
+ylluf
+erom
+metsys
+noitubirtsid
+ytilitu
+diova
+tnemele
+rettal
+siht
+taht
+eton
+eW
+.stnemmoC
+rehto
+)4
+;edargpu
+redeef
+ro
+remrofsnart
+slarrefed
+noitubirtsid
+rof
+snoitpo
+deffirat
+fo
+rof
+seitinutroppo
+dna
+sreirrab
+laitnetop
+noitadnemmoceR
+yciloP
+htiw
+stcesretni
+SME
+VE
+repapetihW
+IGV
+ffatS
+eht
+hcihw
+rof
+,22.2
+.noitadnemmocer
+siht
+secnerefer
+stnemmoC
+tnioJ
+fo
+noitaredisnoc
+taht
+sdnemmocer
+CIGV
+eht
+no
+tnemmoc
+seitrap
+taht
+stseggus
+ffatS
+VE
+na
+etaerC
+11.2
+ta
+seussI
+IGV
+no
+noitapicitrap/noitisiuqca
+remotsuc
+etaulave
+rehtruf
+ot
+ssecorp
+etairporppa
+IGV
+pihsrelaed
+.9-8
+oiloftroP
+IGV
+eht
+ni
+rucco
+sevitnecni
+.noitadnemmocer
+siht
+evitnecni
+tnorfpu
+stnemmoC
+tnioJ
+ni dednemmocer
+ssecorp
+yberehw
+margorp
+sdnemmocer
+CIGV
+,ylbatoN
+.seussI
+IGV
+no
+drawer
+nac
+seitilitu
+eb
+sevitnecni
+eseht
+fo
+sisahpme
+retaerg
+taht
+rof
+srelaed
+noitcaretni
+remotsuc-MEO
+tcerid
+no
+decalp
+ro
+gnillatsni
+rellams
+a htiw
+,)”sevitnecni
+maertspu“(
+IGV
+gnilbane
+01
+
+fo
+tniop“(
+spihsrelaed
+no
+desucof
+noitrop
+ta
+ytilanoitcnuf
+.)”elas
+elas
+fo
+tniop
+stnemmoC
+tnioJ
+noitadnemmocer
+siht
+dettimbus
+CIGV
+ot
+detaler
+stnemmoc
+edivorp
+yam
+seitraP
+regrahc
+cilbuP
+12.2
+ta
+seussI
+IGV
+no
+tnioJ
+.ssecorp
+GW
+IGV
+eht
+gnirud
+nepo
+era
+taht
+FET
+tfard
+eht
+fo
+snoitces
+yna
+secivres
+yrallicna
+.31-21
+redaorb
+a
+liated
+seussI
+IGV
+no
+stnemmoC
+ot
+tnaveler
+era
+dna
+tnemmoc
+cilbup
+rof
+margorp
+gnigrahc
+cilbup
+rof
+noitadnemmocer
+.aedi
+siht
+ni
+taht
+seton
+osla
+CIGV
+.stnemecnahne
+ralimis
+a
+,sregrahc
+cilbup
+ot
+noitidda
+sdrawot
+detegrat
+eb
+dluoc
+margorp
+.steelf
+laicremmoc
+stnemmoC
+tnioJ
+redisnoc
+ot
+)4(
+stnemele
+htiw
+seerga
+CIGV
+siht
+edulcni
+ot
+rehtehw
+sserddA
+deliated
+mrofreP
+40.4
+ta
+seussI
+IGV
+no
+erusne
+)5(
+dna
+erusaeM
+tcapmI
+reyapetaR
+sisylana
+siht
+woh
+,os
+fi
+dna
+,tnemeriuqer
+ssenevitceffe-tsoc
+.71-51
+era
+serusaem
+IGV
+fo
+stsoc
+latnemercni
+ylno
+.yhw
+dna
+detcudnoc
+eb
+dluow
+cificeps
+rof
+sisylana
+eht
+dnemmocer
+ew
+,revewoH
+.deredisnoc
+ni
+sesac-esu
+IGV
+ni
+tnemeriuqer
+siht
+edulcni
+ton
+noissimmoC
+serusaem/smargorp
+deliated
+a
+reffo
+ew
+dna
+,mret-raen
+eht
+reyapetar
+era
+taht
+tnioJ
+ni siht
+fo
+troppus
+ni
+noitacifitsuj
+ot
+redro
+ni
+,dednuf
+.seussI
+IGV
+no
+stnemmoC
+tcapmi
+eht
+yfitnauq
+,remotsuc
+VE
+no
+,ytilitu
+,reyapetar
+ta
+yteicos
+dna
+.egral
+11
+
+stnemmoC
+CIGV
+gnigremE
+eht
+taht
+seveileb
+CIGV
+ni
+,tnemmoc
+seitrap
+taht
+stseggus
+ffatS
+a
+etaerC
+31.7
+snoitceS
+FET
+no
+dluoc
+FET
+eht
+gnihtiw
+margorp
+ygolonhceT
+tfard
+eht
+fo
+1.11
+noitces
+IGV
+ot
+esnopser
+hcihw
+msinahcem
+dna
+5-2
+ta
+8
+dna
+7
+erutuf
+rof
+emoh
+etairporppa
+na eb
+yletamitlu
+gnigremE
+na
+fo
+epocs
+eht
+rehtehw
+no
+,FET
+kciuq
+rof
+swolla
+.02
+ew
+,esac
+siht
+nI
+.stcejorp
+noitartsnomed
+lanif
+a
+ni
+detpoda
+fi(
+margorp
+ygolonhceT
+fo
+lavorppa
+dluohs
+tegdub
+siht
+fo
+noitrop
+emos
+eveileb
+edulcni
+dluohs
+)FET
+eht
+no
+noisiced
+CUPC
+rof
+snoitartsnomed
+.seigolonhcet
+IGV
+gnicnavda
+no
+desucof
+eb
+dna
+snoitartsnomed
+IGV
+fo
+sepyt
+eseht
+ot
+dna
+ygolonhcet
+ruo
+htiw
+tnetsisnoc
+,revewoH
+fo
+epyt
+tahw
+os
+fi
+dna
+,troppus
+tekram
+tekram
+enimreted
+taht
+eveileb
+ew
+,evoba
+snoitadnemmocer
+seitivitca
+eseht
+rof
+etairporppa
+si
+tegdub
+tseretni
+deecorp
+llits
+dluohs
+IGV
+rof
+snoitartsnomed
+.yhw
+dna
+si
+sihT
+.noitpoda
+FET
+eht ot
+roirp
+,won
+sreirrab
+emocrevo
+ot
+yrassecen
+ylralucitrap
+G2V
+rof
+)deviecrep
+ro laer
+rehtehw(
+.snoitacilppa
+21
+
+III. COMMENTS ON DRAFT TEF SECTION 11.2: ME&O.
+A. Section 11.2, Question 1: Should the IOUs’ funds for TE ME&O efforts be capped
+at a specific percentage for each TE program or as a single budget across all their
+programs? If yes, please justify why and propose a methodology.
+As a general matter, VGIC is concerned that a budget cap could place artificial restrictions on
+ME&O efforts. However, if such a budget cap is applied, VGIC believes it should be applied at
+the portfolio level to ensure sufficient flexibility among programs. Additionally, VGIC
+recommends that a certain portion of the ME&O budget be set aside for VGI-related purposes
+since these efforts are likely to require more targeted ME&O to engage new or existing EV
+owners in VGI rate and program options. For example, outreach efforts to promote incentives for
+L2 EVSE are likely to look quite different from those designed to educate customers on VGI rate
+options. This would also be consistent with the recent SCE Charge Ready application, which
+adopted separate budgets for TE advisory services and Charge Ready 2 program-specific
+marketing.9
+Additionally, VGIC agrees with Energy Division Staff’s recommendation in the Draft
+TEF to:
+“Where feasible, the IOUs should coordinate their outreach about grid management
+and EV charging behavior across the IOU territories, particularly for customers that
+may need to charge their vehicles in multiple service territories. The IOUs should
+consider budgeting for a third-party to implement this educational effort to increase
+awareness of EV rates and the grid impacts of EV charging. The IOUs should
+consider using a single ME&O administrator to avoid duplicative efforts and ensure
+9 Proposed Decision Authorizing Southern California Edison Company’s Charge Ready 2 Infrastructure
+and Market Education Programs (A. 18-06-015) July 27, 2020
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M344/K059/344059748.PDF
+13
+
+message coordination across the IOUs’ programs as well with the other external
+entities described above.”10
+VGIC strongly supports the consideration of well-coordinated ME&O budgets, developed in
+TEPs, to inform EV customers of the lower cost of fueling EVs using dynamic rate options and
+other VGI opportunities. This is consistent with VGI WG policy recommendation 9.03, which
+also offers that this ME&O for VGI should ramp up in tandem with overall TE efforts.
+B. VGIC response to Staff Paper Appendix feedback on VGI policy recommendation
+9.03.
+The August 17, 2020 Joint Comments on VGI Issues offers as an example dedicating a
+10-15% share of total ME&O costs to VGI. VGIC believes this is appropriate because success
+for many forms of VGI is critically dependent upon customer education and participation, to
+communicate the overall value that VGI services can provide those customers. In response to the
+second question in the Staff Paper Appendix feedback on recommendation 9.03, VGIC believes
+that effective ME&O strategies for VGI benefit greatly from close coordination with market
+actors. For this reason, VGIC recommends the Commission direct IOUs to explore pathways to
+partner with automotive OEMs and EVSPs to exchange best practices and align ME&O efforts.
+IV. SUMMARY OF RECOMMENDATIONS.
+In responding to the questions above, VGIC proposes several recommendations, which can be
+summarized as follows:
+Section 11.1 and Staff Paper
+10 Draft TEF at 143.
+14
+
+ Consistent with the Joint Comments on VGI Issues filed August 17, 2020, VGIC
+recommends the Commission issue guidance to the IOUs on VGI implementation
+that includes a “Model VGI Portfolio.”
+ This guidance should include a directive for IOUs to develop and implement their
+own VGI Portfolios, which should initially be a standalone effort before being
+referenced and incorporated into the Final TEF, future TEF updates, and ongoing
+TEPs.
+ The Commission should be cognizant of any barriers (whether intentional or not)
+that IOU actions may cause for CCA efforts to spur beneficial electrification
+through VGI.
+ The Commission should work with ARB to ensure that IOU actions (or lack
+thereof) on obtaining incremental non-metered LCFS credits do not stymie the
+ability of CCAs or other entities to claim these credits instead.
+ The Commission should not necessarily limit the IOUs’ pre-TEP VGI-related
+program proposals to a list of priority areas. Instead, the Commission should
+direct IOUs to develop VGI Portfolios during the pre-TEP timeframe, and later
+reference and incorporate these VGI Portfolios into each IOU’s TEP.
+ Near-term VGI recommendations should be considered in the DRIVE OIR via
+IOU applications for VGI Portfolios. VGIC does not recommend an alternative
+proceeding outside of the DRIVE OIR to address VGI.
+ VGIC offers Table 1 to assist in cross-referencing VGI Working Group policy
+recommendations – and Staff’s comments on each – with VGIC Comments filed
+in the DRIVE OIR.
+Section 11.2
+ If ME&O budget caps are applied, they should be applied at the portfolio level to
+ensure sufficient flexibility among programs.
+ A certain portion of ME&O budgets should be set aside for VGI-related purposes
+since these efforts are likely to require more targeted ME&O to engage new or
+existing EV owners in VGI rate and program options. For example, 10-15% share
+of total ME&O costs should be dedicated to VGI.
+15
+
+ VGIC recommends the Commission direct IOUs to explore pathways to partner
+with automotive OEMs and EVSPs to exchange best practices and align ME&O
+efforts.
+ VGIC strongly supports the consideration of well-coordinated ME&O budgets,
+developed in TEPs, to inform EV customers of the lower cost of fueling EVs
+using dynamic rate options and other VGI opportunities. ME&O for VGI should
+also ramp up in tandem with overall TE efforts.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these opening comments on VGI and ME&O
+sections of the Draft TEF. We look forward to further collaboration with the Commission and
+stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: August 21, 2020
+16

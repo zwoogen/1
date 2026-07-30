@@ -1,0 +1,388 @@
+August 25, 2021
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, CA 94102
+EDTariffUnit@cpuc.ca.gov
+RE: Draft Resolution E-5167. Approves, with modifications, the requests from Pacific Gas
+& Electric Company (“PG&E”), Southern California Edison Company (“SCE”), and
+San Diego Gas & Electric Company (“SDG&E”) to establish new Electric Vehicle
+(“EV”) Infrastructure Rules and associated Memorandum Accounts, pursuant to
+Assembly Bill (“AB”) 841 (Ting, 2020).
+Dear Sir or Madam,
+Pursuant to Rule 14.5 of the Rules of Practice and Procedure of the California Public
+Utilities Commission (“Commission”) and the Comment Letter accompanying Draft Resolution
+E-5167 (“Draft Resolution”), the Vehicle Grid Integration Council (“VGIC”) respectfully
+comments on the proposed approval of the new EV Infrastructure Rules.
+I. OVERVIEW
+VGIC appreciates the opportunity to provide comments on the proposed approval of the
+new EV Infrastructure Rules. While the Draft Resolution is encouraging, and VGIC is generally
+supportive of its adoption, we believe it can and should be modified to strengthen the proposed
+approach to load management. As written, the Draft Resolution provides no meaningful
+assurance that load management solutions will be maximized to ensure EV infrastructure is
+deployed cost effectively and minimizes the burden on ratepayers. VGIC is concerned that the
+Draft Resolution does not adequately support meaningful, voluntary load management solutions
+that could benefit both EV and non-EV customers alike. With this in mind, VGIC strongly urges
+that the Commission modify the Draft Resolution to direct clear and detailed next steps to
+advance VGI strategies, including Automated Load Management (“ALM”), within the EV
+Infrastructure Rules that align with the intent and directions of D.20-12-029. VGIC’s comments
+are summarized below:
+● Unless the Commission establishes a new method for incentivizing customers to
+pursue ALM solutions (if the customer is willing and able based on their charging
+needs), it will essentially be abandoning one of its best tools for managing EV
+infrastructure costs and minimizing ratepayer burden.
+● There is broad alignment on this issue, and VGIC addresses other parties’ positions
+on VGIC’s proposed ALM approach.
+1
+
+August 25, 2021
+● VGIC strongly recommends the Commission establish a robust follow-up process to
+this resolution for developing and implementing ALM solutions as a means to
+manage EV infrastructure costs going forward
+● VGIC recommends the Commission modify the draft resolution to acknowledge and
+define Automated Load Management
+● It is critical that the EV infrastructure rules do not arbitrarily push customers toward
+requiring a separate service or meter, as separating EV from site load obstructs
+implementation of VGI strategies per D.20-12-029
+● VGIC proposes specific language changes to the Draft Resolution provided in an
+Appendix to these comments.
+II. BACKGROUND
+On January 15, 2021, the Commission issued an Assigned Commissioner’s Ruling
+(“ACR”) regarding the implementation of AB 841. On that same day, VGIC served joint
+comments on ALM workshop questions with Environmental Defense Fund, Enel X, Nuvve,
+Siemens, Greenlots, Advanced Energy Economy, and Natural Resources Defense Council.1 On
+January 29, 2021 the Commission hosted the Automated Load Management solutions workshop
+that the IOUs participated in, as directed by D.20-12-029, which included presentations and
+proposals from several stakeholders including VGIC. On February 5, 2021 and February 19,
+2021, VGIC and other parties submitted opening and reply comments addressing fundamental
+issues related to the implementation of AB 841. Subsequently, on February 26, 2021, PG&E,
+SCE, and SDG&E (collectively, the “IOUs”), filed Advice Letters 6102-E, 4429-E, and 3705-E
+requesting approval of proposed EV Infrastructure Rules and AB 841 Memorandum Accounts.
+On March 18, 2021, VGIC filed a response to each Advice Letter that highlighted the lack of
+compliance with Ordering Paragraph (“OP”) 5 of Decision (“D.”) 20-12-029. On June 16, VGIC
+sent a letter on behalf of a broad coalition of VGI stakeholders to the Commission and Energy
+Division staff recommending key next steps to enable ALM.2
+Under the proposed new EV Infrastructure rules (which do not consider ALM in
+accordance with OP 5 D.20-12-029), California ratepayers are poised to start spending hundreds
+of millions of dollars on new EV infrastructure, without sufficient time for the Commission to
+consider options for managing these costs. We believe ALM is a critical solution in this regard
+and could be broadly integrated into future EV infrastructure deployment. However, this must be
+1 Joint Comments on ALM Workshop Questions
+2 VGI stakeholder letter re Enabling ALM to the CPUC, signed by Advanced Energy Economy, AMPLY Power,
+Inc., California Energy Storage Alliance, Enel X North America, Inc., Greenlots, Mobility House, Nuvve,
+Powerflex, Siemens, VGIC, and Veloce Energy. June 16, 2021.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/60d2dbd25b043e4141b16164/1624431572513/
+Enabling+ALM+-+Stakeholder+Letter+to+CPUC.pdf
+2
+
+August 25, 2021
+done thoughtfully so that it does not present an added burden to potential EV customers, and
+instead maximizes benefit to both EV and non-EV customers alike.
+III. UNLESS THE COMMISSION ESTABLISHES A NEW METHOD FOR
+INCENTIVIZING CUSTOMERS TO PURSUE ALM SOLUTIONS (WHERE AND
+WHEN IT MAKES SENSE), IT WILL ESSENTIALLY BE ABANDONING ONE
+OF ITS BEST TOOLS FOR MANAGING EV INFRASTRUCTURE COSTS
+ALM can be defined broadly as a system designed to manage charging capacity
+strategically among multiple electric vehicle supply equipment (“EVSE”) at a site. ALM is one
+of the best tools available for the IOUs (under the Commission’s oversight) to manage utility
+distribution system costs related to EV charging infrastructure buildout. ALM can support more
+charging ports for the same amount of dollars, thus stretching investment dollars further and
+faster towards meeting California’s transportation electrification goals. ALM can allow chargers
+to be deployed across a broader set of locations where there may be physical limitations. It can
+also help avoid distribution system costs altogether when installing new charging stations. Given
+the scale of investment needed to meet California’s TE goals, it’s critical for the Commission to
+explore all options for helping to manage these costs for the benefit of ratepayers. PG&E has
+successfully shown that significant savings from ALM solutions in many cases arise from utility-
+side distribution system upgrades, rather than customer-side costs.3
+The Draft Resolution notes that AEE, SDG&E, and NRDC all argued that customers will
+still have an incentive to pursue ALM to manage costs behind-the-meter make-ready costs.
+However, it is VGIC’s understanding from conversations with utilities that the savings from
+avoiding in-front-of-the-meter costs (e.g., deferred transformer upgrades) are in fact the largest
+and most significant potential benefit of ALM.
+Meanwhile, the Draft Resolution seeks to remove customer cost responsibility for these
+types of distribution system upgrades, for at least 2 years and potentially longer. VGIC supports
+this as a means to remove customer barriers to transportation electrification. However, this also
+has the unintended consequence of disincentivizing ALM, which VGIC does not support and
+needs to be addressed in the final Resolution. By implementing AB 841 through the approach
+proposed in the Draft Resolution (which VGIC generally supports), the Commission will be
+eliminating a large portion of the rationale for customers to pursue ALM, which would otherwise
+benefit all ratepayers. This deficiency can and should be addressed through targeted
+modifications to the Draft Resolution language.
+To its credit, PG&E has expressed its intent to scale up its use of ALM solutions through
+TE programs, however the details of this remain to be seen. Additionally, it is not clear how
+PG&E would pursue ALM outside of TE programs (i.e., under the proposed new EV
+3 See PG&E’s Panel presentation at the January 29, 2021 workshop on ALM pursuant to D. 20-12-029. See also
+Appendix D of D2012029, https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M356/K212/356212163.pdf
+3
+
+August 25, 2021
+Infrastructure Rule). Meanwhile, SCE and SDG&E have recently demonstrated through advice
+letter processes an unwillingness to meaningfully support incremental ALM solutions through
+their TE programs that could help manage utility-side distribution system costs.4 Notably, this
+unwillingness came after OP 5 of D.20-12-029 directed SCE, SDG&E, and PG&E to
+meaningfully incorporate ALM into all future rules and tariffs in accordance with Finding of
+Fact (“FOF”) 13 and Conclusion of Law (“COL”) 18 of D.20-12-029:
+“SCE, SDG&E, and PG&E shall, each, in all of its future applications for TE programs,
+or rule or tariff to support TE infrastructure installation:
+identify how it will deploy customer-side ALM at host sties through such
+programs, rule, and/or tariff where appropriate because this technology will
+support TE installation at equal or lesser costs than hardware-based electrical
+capacity while meeting TE charging needs; and
+describe its standard evaluation criteria to determine host sites where ALM would
+benefit ratepayers by reducing costs while meeting host site needs for electric
+vehicle charging.” 5
+VGIC was encouraged by OP 5 of D.20-12-029 and the focus on ALM as a VGI strategy to
+mitigate utility distribution system costs, and presented its proposed concept for enabling ALM
+during the January 29, 2021 ALM workshop. However, the IOUs’ deficiency in implementing
+OP 5 has led to growing concern among a broad range of stakeholders.6
+Based on these facts, VGIC questions whether a robust approach towards ALM solutions
+for utility-side costs will occur as EV infrastructure is deployed – especially under the proposed
+approach which would grant a waiver to customer cost contributions for at least 2 years and
+possibly longer. Unless the Commission establishes a new method for incentivizing customers to
+pursue ALM solutions (if the customer is willing and able based on their charging needs), it will
+essentially be abandoning one of its best tools for managing EV infrastructure costs. For these
+reasons, VGIC strongly encourages the Commission to include in this resolution a robust follow
+up process to develop and ultimately implement an approach to encouraging ALM. We believe a
+sensible approach could involve a simple incentive-based approach that would share some of the
+benefits of ALM with the customers implementing it, while passing most of these savings on to
+all utility customers. This would be no different than the long-standing approach the Commission
+has taken towards cost-effective energy efficiency measures as a means to keep utility customer
+bills low.
+4 See, for example, SDG&E Advice Letter 3811-E ALM / Energy Management Systems Plan for the Power Your
+Drive Extension Program in Compliance with D.21-04-014. See also, Reply to VGIC’s Protest to SCE’s Advice
+4438-E.
+5 D.20-12-029, OP 5.
+6 See, for example, VGI stakeholder letter re Enabling ALM to the CPUC, signed by Advanced Energy Economy,
+AMPLY Power, Inc., California Energy Storage Alliance, Enel X North America, Inc., Greenlots, Mobility House,
+Nuvve, Powerflex, Siemens, VGIC, and Veloce Energy. June 16, 2021.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/60d2dbd25b043e4141b16164/1624431572513/
+Enabling+ALM+-+Stakeholder+Letter+to+CPUC.pdf
+4
+
+August 25, 2021
+IV. RESPONSE TO OTHER PARTIES’ POSITIONS ON VGIC’S PROPOSED ALM
+APPROACH
+The Draft Resolution acknowledges VGIC’s preliminary proposal for incentive-based approach
+to encouraging ALM under an AB 841 implementation scheme that waives customer
+contributions (like what the Draft Resolution proposes). The Draft Resolution states that several
+parties critiqued this approach including TURN, who “argues that any costs for ALM be borne
+by applicants not ratepayers” and PCE who argues that “the proposal still has many outstanding
+questions.” Regarding TURN’s critique, VGIC notes that our proposal is intended to yield a net
+benefit to ratepayers (not a cost). VGIC has also subsequently met with TURN to provide greater
+clarity and TURN has expressed some willingness to consider this approach if additional details
+can be spelled out through a subsequent process. Regarding PCE’s critique, VGIC agrees that
+there are outstanding questions about our proposal which is why we proposed additional process.
+We also note that PCE has touted the benefits of ALM, and the inherent incentive it has received
+under the pre-841 paradigm by avoiding utility-side infrastructure costs.
+V. VGIC STRONGLY RECOMMENDS THE COMMISSION ESTABLISH A
+ROBUST FOLLOW-UP PROCESS TO THIS RESOLUTION FOR DEVELOPING
+AND IMPLEMENTING ALM SOLUTIONS AS A MEANS TO MANAGE EV
+INFRASTRUCTURE COSTS GOING FORWARD
+As detailed above, unless the Commission sets forth a subsequent process to advance
+ALM solutions, the Commission’s resolution will effectively eliminate a large portion of the
+existing rationale for EV customers to pursue ALM, which would otherwise benefit all
+customers. VGIC also notes that previous efforts to advance ALM through D.20-12-029 and the
+January 29, 2021 ALM workshop have been unsuccessful to date.
+VGIC strongly encourages the Commission to ensure the Final Resolution establishes a
+robust follow-up process to develop and implement a method for incentivizing ALM solutions.
+Specifically, VGIC recommends the Commission modify the Draft Resolution to direct the
+Energy Division staff to host two workshops to collect party proposals for how to incentivize the
+use of ALM to reduce EV infrastructure costs during the 2-year waiver, period (and any
+subsequent period that includes an extended waiver or substantial allowances). Given the relative
+complexity of solutions presented by stakeholders in the past, and as detailed in Section IV
+above, VGIC believes that more stakeholder work is needed to further develop ALM concepts. A
+single IOU-led workshop and subsequent proposal will likely be insufficient to simultaneously
+fulfill the vision of both AB 841 and SB 676, while managing system costs. As such, VGIC
+recommends the Energy Division staff host a workshop within two months and another within
+five months. Notice of each workshop should be served to the service lists of R.18-12-006 and
+R.21-06-017. VGIC also recommends the Energy Division staff enter into the record of R.18-12-
+006 a brief report summarizing the party proposals prior to the workshop ordered by Draft
+5
+
+August 25, 2021
+Resolution OP 5 (i.e., within eight months). This additional stakeholder work and record
+development will critically inform the workshop ordered by Draft Resolution OP 5.
+VI. VGIC RECOMMENDS THE COMMISSION MODIFY THE DRAFT
+RESOLUTION TO ACKNOWLEDGE AND DEFINE AUTOMATED LOAD
+MANAGEMENT
+ALM can be utilized for different use cases, or to capture different value streams.
+Notably, SCE has detailed a distinction between “Type 1” and “Type 2” ALM, explaining that
+Type 1 ALM relates to load management at an EV supply equipment (EVSE) site where there is
+no constraint to service (i.e., maximum connected EVSE load does not exceed site capacity).7
+This is implemented throughout California today as a strategy for customers to manage their
+utility bills in response to Time-of-Use rates, for example. SCE defines Type 2 ALM as “energy
+management systems in which the connected load exceeds capacity, and the failure of such ALM
+would lead to an unsafe condition.” 8 SCE notes that “Type 2 ALM could have a potential for
+significant cost reduction and avoidance of major construction or upgrades by utilizing the
+existing capacity to the largest extent.” 9
+VGIC supports this key distinction between situations in which the maximum connected
+load is less than site capacity (Type 1 ALM) and situations in which the maximum connected
+load exceeds site capacity (Type 2 ALM). In seeking clarity and considering recommendations
+for strategies to promote Type 2 ALM, additional definitions of ALM “subtypes” are also
+necessary to capture the differences between when the maximum connected load exceeds service
+capacity versus customer electric panel size. Type 2A ALM should be used to describe
+situations in which maximum connected load exceeds site capacity, and customers have an
+inherent incentive to use load management to save on customer-side costs (e.g., panel upgrades).
+To our knowledge, this is done today at several sites in California to save customers costs on
+panel upgrades. Meanwhile, Type 2B ALM should be used to describe situations in which
+maximum connected load exceeds site capacity, and the use of load management is incentivized
+as a means to reduce utility-side costs (e.g., service drop or transformer upgrades). PG&E has
+reported on their efforts to implement Type 2B ALM as part of its EV Charge Network program.
+In their recent advice letters described above, the IOUs have pointed to the existence of
+Type 1 ALM as a reason not to pursue incremental Type 2 ALM. However, Type 2 ALM stands
+to provide substantially greater benefits to all customers. VGIC recommends that the Draft
+Resolution be modified to include a definition for ALM that includes the Type 1, Type 2a, and
+7 SCE, Presentation on Transportation Electrification, Charging Infrastructure Programs, Energy Management
+Systems, presented at EPRI IWC on March 20, 2019. See also Reply to The Vehicle-Grid Integration Council’s
+Protest to Southern California Edison Company’s Advice 4439-E. April 8, 2021. Page 2.
+8 Ibid.
+9 Ibid.
+6
+
+August 25, 2021
+Type 2b distinctions. We further recommend that the IOUs be required to include a definition
+that also defines each of these subtypes within their EV Infrastructure Rules.
+VII. CALIFORNIA BUILDING CODE AGENCIES HAVE RECENTLY PROPOSED
+UPDATED RULES TO ALLOW AUTOMATED LOAD MANAGEMENT AS A
+CODE COMPLIANCE OPTION
+Several California state agencies recently submitted proposed actions (code changes) that are
+intended for inclusion in the 2022 California Building Standards Code, Title 24, scheduled for
+publication in July 2022 with an effective date of January 2023.10 These agencies include the
+Building Standards Commission (BSC), the Division of State Architect, and the Department of
+Housing and Community Development. In each of these proposed building code revisions, the
+agencies have proposed new language regarding the definition and use of automatic load
+management systems. For example, in the BSC proposed changes, section 5.106.5.3.3 describes
+how the use of automatic load management systems can allow the minimum required amperage
+for EV charging spaces to be reduced from 40 amperes to 30 amperes.11 This demonstrates that
+ALM is being pursued by other California decision-makers as a viable option to reduce demand
+on the power system. However, such efforts will be less effective if there is a reduced customer
+incentive to pursue them.
+VIII. IT IS CRITICAL THAT THE EV INFRASTRUCTURE RULES DO NOT
+ARBITRARILY PUSH CUSTOMERS TOWARD REQUIRING A SEPARATE
+SERVICE OR METER, AS SEPARATING EV FROM SITE LOAD OBSTRUCTS
+IMPLEMENTATION OF VGI STRATEGIES PER D.20-12-029
+As VGIC understands, the proposed EV Infrastructure Rules apply to customers
+receiving EV service separately from their existing service. While some customers may
+ultimately require a separate service drop, VGIC believes this may only represent a fraction of
+locations if load management solutions are effectively leveraged. VGIC notes the importance of
+comingling EV and site load as a means to develop a meaningful baseline for demand response
+participation and providing load against which bidirectional EV/EVSE configurations can
+offset.
+To the extent that the EV infrastructure rules eliminate customer costs for this separate service,
+they may also unintentionally push customers towards a charging solution that would effectively
+eliminate EV demand response participation options. This would be counterproductive
+10 https://www.dgs.ca.gov/BSC/Rulemaking/2021-Triennial-Code-Adoption-Cycle/2021-Public-
+comments/ACCESS-GREEN-Public-Comment-Page-2021
+11 https://www.dgs.ca.gov/-/media/Divisions/BSC/03-Rulemaking/2021-Triennial-Cycle/2021-Public-
+Comment-Periods/2021-ACCESS-Public-Comment/BSC/BSC-03-21-ET-PT11-
+45day.docx?la=en&hash=70E74AE5D10B2EAF44D71A3BB03971680DC8ACAF
+7
+
+August 25, 2021
+California’s current grid reliability issues and efforts under way to address extreme summer
+weather events as part of the Emergency Reliability Rulemaking (R. 20-11-003).
+As such, VGIC strongly recommends that the Commission should take bold action in other
+proceedings and in the future to advance TE rules, tariffs, applications, frameworks, and plans
+(i.e., the Draft TEF) that enable comingled EV and site load, including the use of submetering
+via EVSE or EV telematics to measure consumption and discharging for settlement purposes.
+This is key to unlocking VGI and fulfilling the vision of SB 676 and VGI strategies adopted in
+D.20-12-029.
+IX. CONCLUSION
+VGIC appreciates the opportunity to submit these comments and looks forward to working
+with the Commission and stakeholders.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+Date: August 25, 2021
+8
+
+August 25, 2021
+Appendix A: Proposed Redline Edits to Draft Resolution
+Page 41:
+13. Offering of Load Management Tools
+The IOUs’ proposals to not include load management as a condition of taking
+advantage of the new EV Infrastructure Rules is reasonable at this time. However,
+IOUs shall offer and discuss with each applicant available IOU and third-party load
+management solutions including load management solutions that could defer utility-
+side infrastructure costs.
+Pages 44-45:
+The IOUs within their Tier 2 AL should outline which load management solutions they
+will offer applicants and how they plan to update this list over time. This list should
+include not only Type 1, but also Type 2b load management solutions. It should also
+include a detailed description of how the IOUs plan to incentivize customers to adopt
+Type 2b ALM while the 2 year waiver (and any future allowances) is in effect.
+Page 45:
+14. Enrollment in a Time-Variant Rate
+SDG&E’s proposal to require applicants to be enrolled on a TOU rate is reasonable
+and should be applied to all of the IOUs’ EV Infrastructure Rules. TOU rates
+should not be considered a substitute for other types of load management solutions,
+including Type 2b.
+Page 54:
+Order Paragraph 3:
+e. Pacific Gas and Electric Company, Southern California Edison Company, and San
+Diego Gas & Electric Company must each modify the definition of electric vehicle
+within the Electric Vehicle Infrastructure Rules to include the same referenced definition
+of electric vehicles from Decision (D.) 20-09-025.
+f. Pacific Gas and Electric Company, Southern California Edison Company, and San
+Diego Gas & Electric Company must each include a definition for load management
+9
+
+August 25, 2021
+within the Electric Vehicle Infrastructure Rules. This definition must include the
+following subtypes of load management approaches:
+● Type 1: Maximum connected load is less than site capacity (e.g. time varying rates)
+● Type 2a: Maximum connected load exceeds site capacity and load management is
+used to save on customer-side costs.
+● Type 2b: Maximum connected load exceeds site capacity and load management is
+used to save on uitlity-side costs.
+h. Pacific Gas and Electric Company, Southern California Edison Company, and San
+Diego Gas & Electric Company must each update their Electric Vehicle Infrastructure
+Rules to reflect that as a default, participants will be enrolled on the commercial time-
+variant electric vehicle rate that each investor-owned utility offers, but that applicants
+may choose to change to another time-variant rate. Time-varying enrollments pursuant to
+this paragraph may not be used as a substitute for Type 2b load management solutions.
+Pacific Gas and Electric Company, Southern California Edison Company, and San Diego Gas &
+Electric Company shall each submit their expected revenue requirement and rate impact resulting
+from the EV Infrastructure Rules through the end of 2024.
+Page 56:
+Ordering Paragraph 4:
+g. Pacific Gas and Electric Company, Southern California Edison Company, and San
+Diego Gas & Electric Company must outline which IOU and third-party load
+management solutions they will offer customers taking service under their Electric
+Vehicle Infrastructure Rules, and how they plan to update this list over time. This list
+should include not only Type 1, but also Type 2b load management solutions. It should
+also include a detailed description of how the IOUs plan to incentivize customers to adopt
+Type 2b ALM while the 2-year waiver (and any future allowances) is in effect.
+Page 56:
+Ordering Paragraph 5:
+5. Pacific Gas and Electric Company, Southern California Edison Company, and San
+Diego Gas & Electric Company must host a workshop to discuss the development of a
+proposal for an allowance structure within eight months of the adoption of this
+Resolution. The Energy Division staff shall host a workshop within two months and a
+workshop within five months to collect and discuss party proposals for an allowance
+structure. Notice of each workshop should be served to R.18-12-006 and R.21-06-017.
+10
+
+August 25, 2021
+Following these workshops, the Energy Division staff shall enter into the record of R.18-
+12-006 a short report summarizing the party proposals presented during these workshops
+and any feedback provided during the workshops. Following the IOU-hosted workshop,
+Pacific Gas and Electric Company, Southern California Edison Company, and San Diego
+Gas & Electric Company in coordination with Energy Division staff, ratepayer advocates,
+and other stakeholders shall submit a proposal for an allowance structure no later than
+180 days after the workshop. They must file the joint allowance structure proposal within
+Rulemaking (R.) 18-12-006, or any successor proceeding. No allowance structure or
+customer contribution requirement will be incorporated into the Electric Vehicle
+Infrastructure Rules for the first two years of implementation, however, the Commission
+may establish an allowance structure in the future. The workshop, as well as the
+subsequent proposal, must take into consideration the following:
+Page 57:
+Ordering Paragraph 5:
+d. Pacific Gas and Electric Company, Southern California Edison Company, and San
+Diego Gas & Electric Company shall consider how load management may impact the
+allowance value and the total expected grid impact and/or revenue resulting from the
+installation of Electric Vehicle Supply Equipment. If the proposal includes a continued
+waiver (or full allowance) of customer contributions beyond 2 years, it must also include
+a detailed proposal for how Type 2b load management solutions can be incentivized.
+11

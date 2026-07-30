@@ -1,0 +1,91 @@
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on Revised Clean Peak Standard Demand Response Guidelines
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based advocacy group
+committed to advancing the role of electric vehicles (EVs) and vehicle-grid integration (VGI) through
+policy development, education, outreach, and research. VGIC supports the transition to a decarbonized
+transportation and electric sector by ensuring the value from EV deployments and flexible EV charging
+and discharging is recognized and compensated in support of achieving a more reliable, affordable, and
+efficient electric grid. VGIC appreciates the opportunity to provide comments to the Department of
+Energy Resources (DOER) on the revised Demand Response (DR) Resource Guideline, particularly
+regarding the participation pathway for EVs and EV Supply Equipment (EVSE).
+VGIC Generally Supports DOER’s Approach to EV/EVSE Participation in its Demand Response Resource
+Guidelines
+EVs are capable of system-wide load reduction through managed charging (V1G), battery
+discharge to serve on-site load (V2B), and exporting power to the grid (V2G). As such, EVs represent a
+tremendous amount of latent battery storage capacity that can be utilized to support grid needs.
+Overall, VGIC is encouraged by the DOER’s consideration of EVs and EVSE in the Clean Peak Standard DR
+program, including the use of a static baseline to calculate DR performance. Based on analysis VGIC
+recently conducted, the proposed baseline of 35% of daily energy consumption closely matches the
+unmanaged EV charging load profile and would incentivize EVs to reduce charging load during the
+Seasonal Clean Peak Window, while avoiding cumbersome counterfactual data requirements that would
+discourage participation. VGIC also appreciates the DOER’s decision to include and incentivize
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., Fermata, LLC., Ford Motor Company, General Motors Company, Nissan North America, Inc., Nuvve
+Corporation, Stellantis N.V., The Mobility House, Toyota Motor North America, Inc., and Veloce Energy, Inc. The
+views expressed in these comments are those of VGIC, and do not necessarily reflect the views of all individual
+VGIC member companies or supporters. (https://www.vgicouncil.org/).
+
+bidirectional charging, as such capabilities are commercially available and would deliver additional grid
+benefits compared to only load reduction via managed charging.
+Additional Modifications to the Guidelines Could Further Improve EV/EVSE Participation
+While DOER’s Guidelines reflect a sound approach, VGIC provides the following
+recommendations that would further improve EVs/EVSE’s ability to participate in Clean Peak Standard
+and support Massachusetts's clean energy goals:
+ Recommendation 1: Clarify that reporting requirements can be met via either a networked EVSE
+device or through EV vehicle telematics, provided that such data meets the Production Tracking
+System requirements, rather than requiring charging data be measured by a separate meter.
+Requiring charging data be measured by a separate meter would add unnecessary costs for EV
+owners and deter participation. It would also fail to leverage the robust existing data collection
+capabilities on EVSE and EV devices. There is no need for an additional meter when EVSEs and
+vehicle telematics are equally capable of measuring and communicating charging data to calculate
+DR performance on a 15-minute interval. VGIC looks forward to working with DOER to develop
+appropriate interval data reporting requirements that can accommodate participation through
+both networked EVSE and EV telematics approaches.
+ Recommendation 2: Allow multiple EV/EVSE devices to enroll as part of an aggregation, instead of
+requiring every individual device to obtain a statement of qualification. Some electric vehicle owners
+may prefer to allow third-party aggregators to manage their EV charging in aggregate with other
+EVSEs/EVs. Thus, requiring each individual EVSE/EV to obtain a statement of qualification would add
+unnecessary administrative costs and delay participation. Currently, aggregations of DR resources
+dispatched by an electric distribution company as part of a retail customer Active Demand Response
+program are already allowed to enroll through a single statement of qualification. To avoid
+discriminatory treatment of clean peak resources, VGIC believes that EV/EVSE aggregations should
+be afforded the same opportunity and be able to enroll through a similar aggregation pathway.
+ Recommendation 3: Allow EVs/EVSE exporting power to the grid, not only those offsetting on-site
+load, to earn Clean Peak Energy Certificates (CPEC). While the revised guidelines state that energy
+dispatched from the vehicle can increase the number of CPECs generated, the guidelines do not
+make clear whether this energy dispatch includes both energy exported to serve on-site load and
+
+energy exported to the grid. EVs and EVSE’s bidirectional charging/discharging capabilities can
+provide grid services by exporting energy to the grid, in addition to reducing on-site load. In both
+cases the contribution to alleviating the system-wide peak load with a clean resource is equivalent,
+and as such they should be similarly compensated.
+ Recommendation 4: Clarify that EVs with vehicle to grid (V2G) capability should not be considered a
+form of “generation” as defined by the Demand Response Resource guidelines. While DOER
+specifically excludes certain generation resources as ineligible for demand response including
+“backup generators, combined heat and power plants, and renewable energy generators,”2 the
+guidelines are silent on how energy exported from EVs to the grid should be treated. VGIC notes
+that V2G exports do not technically generate any new energy, and simply shift the time in which
+energy is provided to the grid. As such, VGIC recommends that DOER clarify that V2G resources are
+not considered “generation” and thus should be eligible for full participation as a Demand Response
+Resource.
+ Recommendation 5: Clarify the amount of CPEC eligible kWh subject to the Actual Monthly System
+Peak Multiplier to be one-fourth (25%) of the total CPEC eligible kWh during a Seasonal Clean Peak
+Window with the Hour of Actual Monthly System Peak. Since the Hour of Actual Monthly System
+Peak only occurs for one hour during a four-hour Seasonal Clean Peak Window, it is unclear how the
+Monthly System Peak Multiplier would interact with the static baseline for EV/EVSE DR
+performance. For the sake of simplicity, VGIC recommends that the Monthly System Peak Multiplier
+apply to 25% of the CPEC eligible kWh generated by an EV/EVSE during the Seasonal Clean Peak
+Window with the Hour of Actual Monthly System Peak. For example, if an EV/EVSE generates 4 CPEC
+eligible kWh over a Seasonal Clean Peak Window during which the Hour of Actual Monthly System
+Peak occurs, the number of kWh that would be eligible for the Monthly System Peak Multiplier
+would be 4 * 0.25 = 1 kWh.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to working with
+the DOER to ensure the success of the Clean Peak Standard DR Program.
+2 See Section 2(b) of Demand Response Resource Guidelines
+
+Respectfully submitted,
+Ed Burgess
+Policy Director
+Vehicle-Grid Integration Council (VGIC)

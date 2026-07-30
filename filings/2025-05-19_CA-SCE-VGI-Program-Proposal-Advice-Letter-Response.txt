@@ -1,0 +1,179 @@
+May 19, 2024
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle-Grid Integration Council to Advice Letter 5536-E of
+Southern California Edison
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 5536-E of Southern
+California Edison Company (“SCE”), Southern California Edison’s Request for Approval to Update
+Its Low Carbon Fuel Standard Holdback Revenue Return Implementation Plan to Include a New
+Vehicle Grid Integration Program and to Qualify for Exemption from Public Utilities Code Section
+851 (“Advice Letter”), submitted on April 29, 2025.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+II. DISCUSSION.
+VGIC commends SCE for proposing the Orchestrated Charging and Advanced Resiliency
+for Distribution (“ORCHARD”) Program and for pursuing Low Carbon Fuel Standard (“LCFS”)
+funding to support vehicle-grid integration (“VGI”).1 The ORCHARD Program would apply VGI
+strategies to manage secondary local grid constraints, a growing concern as electrification increases
+strain on the distribution system that current time-of-use rates alone cannot sufficiently alleviate.
+1 See CARB’s recent LCFS Amendments, Attachment A-1: Final Regulation Order (Proposed Sections for
+Amendments) at p.49-50.
+
+May 19, 2025
+Page 2 of 5
+By deploying VGI tools in ORCHARD, SCE can optimize the use of distribution assets, improve
+cost-effectiveness, and, if implemented correctly, defer or avoid costly infrastructure upgrades.
+Notably, SCE’s ORCHARD program design appears to directly respond to the California
+Air Resources Board’s (“CARB”) updated LCFS regulation, which explicitly details the use of
+LCFS holdback credit proceeds for VGI programs.2 CARB provides the following examples of uses
+for these holdback credit proceeds:
+i. Investments in grid-side distribution infrastructure necessary for EV charging.
+ii. Support for vehicle-grid integration with projects such as:
+I). Encouraging the optimization of EV charging through education in the following areas:
+peak demand, rate pricing, grid emergencies, potential power shutoffs, infrastructure
+deferral, renewable integration, and/or other signals and grid needs to provide grid and
+customer benefits.
+II). Providing program incentives to encourage driver participation in monitored/managed
+charging, demand response, or vehicle-to-load / vehicle-to-grid applications.
+III). Supporting the deployment and installation of bidirectional charging equipment.
+IV). Other innovative approaches to promoting and managing EV charging and
+discharging that provides benefits to customers and the grid.
+iii. Hardware and software that decrease the cost of or avoid updates to infrastructure, including
+load management software or outlet splitting.
+The Commission and utilities should seize this no-regrets opportunity to launch non-
+ratepayer-funded programs that deliver ratepayer benefits and generate critical data to inform the
+broader VGI market.
+While VGIC offers recommendations for the implementation of ORCHARD, we do not
+believe that major Advice Letter modifications are required to address them. As such, VGIC strongly
+supports the timely approval of the implementation plan as filed, and encourages SCE to remain
+sufficiently flexible and responsive to customer and industry feedback during the implementation
+period.
+A. VGIC Supports Approval of ORCHARD at Full Scale, Including Bidirectional Charging
+Incentives.
+SCE proposes to use $23 million in LCFS Holdback Funding to create ORCHARD and has
+an enrollment target of at least 25,000 customers. VGIC strongly supports this scale of deployment,
+which represents a meaningful step forward for VGI and provides an opportunity to demonstrate
+and maximize the cost-effectiveness of primarily software-based managed charging programs. As
+discussed by SCE, achieving this scale for a VGI program will “demonstrate that these technically-
+viable solutions generate significant return on investments.”3 Enrolling tens of thousands of
+2 Ibid.
+3 Advice Letter Appendix A at 2.
+
+May 19, 2025
+Page 3 of 5
+customers in these programs is critical, as “the benefits that VGI can provide to the grid start to
+become material once significant numbers of customers are participating.”4 The costs associated
+with scaling these largely software-based programs are relatively low, and having large amounts of
+participation will maximize the cost-effectiveness of the investments SCE will make to create the
+program.
+VGIC also strongly supports SCE’s plan to offer incentives for bidirectional charging,
+targeting 8,700 ORCHARD participants. Enabling bidirectional charging expands the grid services
+that can be provided by EVs and advances multiple state goals, including:
+• Reducing costs to ratepayers, including both EV drivers and non-EV customers,
+• Advancing the state’s transportation electrification goals by reducing the total cost of EV
+ownership,
+• Supporting grid reliability, including during extreme heat events or other times of high stress
+on the grid,
+• Supporting customer and community resiliency, including during Public Safety Power
+Shutoffs (“PSPS”) and other resilience events, and
+• Fostering a growing market for VGI services, including job growth in manufacturing, field
+technicians, and related employment opportunities.
+ORCHARD participants installing bidirectional equipment will be able to access an $800
+incentive to cover interconnection application costs. Offering an $800 incentive to offset
+interconnection costs is critical to enabling bidirectional adoption, given that these fees greatly
+exceed the standard $94 fee for similarly-sized rooftop solar customers (i.e., Net Energy Metering
+or Net Billing Tariff customers) – which may even use the same inverter model as bidirectional
+charging customers – and are a disproportionate burden for bidirectional charging systems. Unlike
+stationary storage, the EV battery providing bidirectional energy has already been purchased for
+another purpose, making interconnection costs one of the highest barriers to adoption (as opposed
+to the purchase price of the energy storage system). Given the current high interconnection costs
+and limited compensation mechanisms for EV battery discharge, many customers installing
+bidirectional equipment currently are doing so only for backup power. For clarity, VGIC notes that
+these backup-only system configurations do not currently require an $800 interconnection fee and,
+instead, follow SCE’s longstanding safety rules applicable to the installation of customer-owned
+backup generators (i.e., SCE requests the customer notify the utility of the system’s existence and
+location, but the backup power system’s impact on the distribution grid does not need to go through
+an interconnection study process).
+4 Advice Letter Appendix A at 2.
+
+May 19, 2025
+Page 4 of 5
+To achieve SCE’s goal of enrolling 8,700 customers using grid-parallel bidirectional
+charging systems (as opposed to islanded, backup-only systems), customers must be able to access
+compensation mechanisms for grid-parallel EV battery discharge. Currently, SCE customers can
+receive compensation for EV exports during grid emergencies if eligible to participate in the
+Emergency Load Reduction Program (“ELRP”) or Demand Side Grid Support (“DSGS”) program.
+However, these programs cannot be relied on to continue in the long term5 and have funding that
+appears to be at risk.6 While customer export compensation that could apply to EV drivers was
+envisioned in Energy Division staff’s CalFUSE dynamic pricing framework, SCE has elected not
+to offer export compensation to EV customers in its new Expanded Dynamic Rate Pilot.7 Lastly,
+SCE highlights its proposed Vehicle Grid Resource Proposal (“VGRP”) as a potential EV export
+rate. VGIC encourages SCE and the Commission to move forward with establishing a static export
+compensation rate for EVs that recognizes the full value provided by customer exports, for example,
+as outlined in the Commission’s adopted Avoided Cost Calculator.
+If there is no compelling revenue stream for EV exports at the time of implementation, SCE
+should consider increasing the bidirectional charging customer incentive to achieve enrollment
+goals. VGIC supports SCE’s plan to offer up to $7,800 in additional incentives for income-qualified
+customers to help offset other equipment costs and ensure equitable access to bidirectional charging.
+Similar equipment cost offsets could be offered to general market customers, or other incentive
+structures could be explored. SCE should remain flexible and responsive to customer needs to
+increase incentive levels for bidirectional charging systems, if needed.
+B. VGIC supports SCE’s consideration that commercial fleets and medium- and heavy-duty
+vehicles should also be eligible to receive the bidirectional charging system incentive.
+While SCE’s proposal emphasizes residential enrollment, VGIC notes that SCE’s materials
+reference both residential and commercial incentives as potentially eligible for bidirectional
+charging incentives. The Advice Letter outlines goals of enrolling residential customers and
+highlights the program’s focus on mitigating distribution congestion arising from light-duty EV
+adoption.8 At the same time, the program documents note that bidirectional equipment incentives
+will be “available to both residential and commercial customers.”
+VGIC supports SCE’s vision on how to incorporate commercial and medium- and heavy-
+duty (MDHD) into ORCHARD, specifically as it relates to bidirectional charging system incentives.
+These customers may have different transportation needs and charging schedules, but they could
+5 For example, ELRP is only approved through 2027.
+6 Governor Newsom’s most recent May Revise budget has made cuts to funding that was previously allocated
+to DSGS.
+7 See Public Advocates Office. Prepared Testimony of Additional Rate Design Proposals in Southern
+California Edison’s 2025 General Rate Case Phase 2. November 22, 2024. Attachment B at 11-14.
+https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7847/546561478.pdf
+
+May 19, 2025
+Page 5 of 5
+still provide significant value by participating in VGI initiatives – particularly given the large battery
+sizes and potential interest in unlocking additional value streams that reduce the total cost of EV
+ownership.
+As SCE develops outreach and engagement strategies, including marketing and enrollment
+pathways, there may be opportunities to align ORCHARD with other commercial-focused
+initiatives, such as with the Charge Ready Programs, MDHD rebate programs, and MDHD
+financing programs offered by the utility. These touchpoints could support customer awareness and
+uptake among fleet operators and may inform future LCFS program proposals.
+C. VGIC believes SCE should be provided ample flexibility in contracting with one or more
+aggregators in ORCHARD.
+SCE indicates it will contract with at least one third-party aggregator and software provider
+to implement ORCHARD. VGIC encourages SCE to engage with the party or parties that are best
+suited to support customer outreach, program resilience, and interoperability concerns as revealed
+through common competitive procurement practices. In the Advice Letter, SCE outlines potential
+performance risks for ORCHARD, including “Aggregator software performance issues, such as a
+lack of interoperability or falling short in performance, will affect the reliability and efficacy of
+orchestrated charging.”9 By following long-established practices for developing partnership(s)
+with industry leaders, SCE can directly address this risk.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to SCE’s Advice Letter. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+cc: Connor Flanigan, SCE (AdviceTariffManager@sce.com)
+Adam Smith c/o Karyn Gansecki (Karyn.Gansecki@sce.com)
+Service list R.23-12-018
+9 Advice Letter Appendix A at 28.

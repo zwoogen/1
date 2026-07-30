@@ -1,0 +1,254 @@
+February 6, 2023
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Protest of the Vehicle Grid Integration Council to Joint Advice Letter 6826-
+E of Pacific Gas and Electric Company, Advice Letter 4950-E of Southern
+California Edison Company, and Advice Letter 4142-E of San Diego Gas
+and Electric Company
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this Protest to the above-referenced Joint Advice Letter 6826-E of
+Pacific Gas and Electric Company, (“PG&E”), Advice Letter 4950-E of Southern California
+Edison (“SCE”) Company, and Advice Letter 4142-E of San Diego Gas and Electric Company
+(“SDG&E”), Joint Submittal of Proposed Modifications to the Emergency Load Reduction
+Program Pilot Pursuant to Decision 21-03-056, Decision 21-12-015 and Decision 21-12-069
+(“Joint Advice Letter”) submitted on January 17, 2023.
+I. INTRODUCTION.
+Decision (“D.”) 21-12-015 detailed several critical updates to the Emergency Load Reduction
+Program (“ELRP”) pilot, including expanding ELRP to include customer group A.5 for Electric
+Vehicle (“EV”)/Vehicle-Grid Integration (“VGI”) Aggregations. In adopting these updates, the
+Commission recognized the critical need for a dedicated VGI Aggregation customer group and
+took bold action in establishing ELRP Group A.5. In just a few months between the finalization
+of these ELRP updates and the end of Summer 2022, a limited amount of V2G capacity was able
+to come online and, once utilities were fully set up to leverage this customer group, it did contribute
+to California’s grid during the September Labor Day heat wave. VGIC remains hopeful that ELRP
+can support meaningful EV contributions to summer reliability in 2023 and beyond. However, key
+elements of the proposed modifications detailed in the Joint Advice Letter would put the EV/VGI
+Aggregation customer group in jeopardy and work against the program’s overall goals.
+California’s electric reliability challenges loom again as the state is likely to experience yet another
+summer plagued by extreme weather events, which may become the new normal due to the impacts
+
+February 6, 2023
+Page 2 of 8
+of global climate change. With this in mind, the CPUC, utilities, and aggregators must use every
+obtainable tool to reduce peak demand and increase supply. EVs offer a no-regrets, widely
+available asset class that should be leveraged in pursuit of grid reliability. ELRP must, therefore,
+remain a key driver for California’s VGI market, which currently has no other mass-market
+offering for customers.1 Moreover, any modifications necessary to support the continued success
+of the ELRP EV/VGI Aggregation subgroup must be considered and implemented in a timely
+fashion to support Summer 2023 reliability needs. As such, VGIC kindly requests the Commission
+and Energy Division staff expedite the review and resolution process for the Joint Advice Letter,
+to the extent feasible.
+In reviewing the Joint Advice Letter, VGIC believes the proposed modification to the minimum
+dispatch requirement lacks sufficient justification and could undermine the clear intent of D.21-
+12-015 to spur the relatively nascent approach to unlocking EVs as grid assets. VGIC also believes
+the modifications for 2023 should include shifting from year-end to monthly payments to remain
+consistent with other utility program offerings and alleviate undue financial stress on participating
+aggregators and customers. In addition, the Joint Advice Letter correctly identifies that dual
+participation should be permitted, but the Commission should ensure emerging dynamic rates also
+permit dual participation. Lastly, the SCE-specific modification to transition Charge Ready
+customers to ELRP lacks sufficient detail to understand how it may impact customers. However,
+we believe these deficiencies can be remedied through the following changes:
+• The maximum dispatch amount for EV/VGI Aggregators (Group A.5) should be
+adjusted from 60 hours to 150 hours, as consistent with SDG&E’s Power Your Drive
+VGI Pilot Rate.
+• ELRP compensation should occur in the month where incremental load reductions
+(“ILR”) are recorded or the following billing cycle, not at the end of the year.
+• Dual participation should be permitted with IOU Direct Enrolled DR programs, but the
+Commission should also ensure approved, pending, and yet-to-be-developed dynamic
+rates permit dual participation per D.21-12-015.
+• SCE should clarify whether Charge Ready customers will be transitioned to Group A.5
+or another ELRP customer group. If the former, SCE should clarify its role in
+facilitating the aggregator-customer relationship and updating its approved product list.
+1 Comments of VGIC on Proposed Decision on TE Policy and Investment. Page 2.
+https://www.vgicouncil.org/s/Comments-of-VGIC-on-TE-Policy-and-Investment-PD-R18-12-006.pdf
+
+February 6, 2023
+Page 3 of 8
+II. REDUCING THE MINIMUM DISPATCH TO 10 HOURS WOULD SEVERELY
+HAMSTRING GROUP A.5 INCREMENTAL LOAD REDUCTION. INSTEAD,
+THE 60-HOUR CAP SHOULD BE REPLACED WITH A 150-HOUR CAP.
+VGIC reiterates that ELRP remains the only large-scale driver for EV/VGI aggregation in
+California, in either managed charging (“V1G”) or bidirectional vehicle-to-everything (“V2X”)
+modes. Customers and aggregators alike are eager to expand their capabilities within the state
+based on the $2/kWh ELRP compensation rate and 30-hour minimum dispatch provision for Group
+A.5. The Joint Advice Letter details that during Summer 2022, Flex Alerts were used as the trigger
+for Group A.5 dispatch signals, which led to a concern in late August that the 60-hour dispatch
+cap would be reached during the September heat wave, which could leave no hours left for dispatch
+in October. The Joint Advice Letter concludes that to address the concern of hitting the 60-hour
+cap on dispatch, ELRP should be modified to reduce the 30-hour minimum dispatch to 10 hours.
+VGIC does not believe the Joint Advice Letter provides adequate justification for this request,
+implying that CAISO’s Energy Emergency Alert (“EEA”) dispatch signals may match closer to a
+10-hour minimum dispatch. The explanation provided in the Joint Advice Letter conflates the risk
+of hitting the dispatch cap with the design of the dispatch minimum. Meanwhile, D.21-12-015
+made a clear, correct finding that Group A.5 should be subject to a 30-hour dispatch minimum,
+recognizing that VGI market development – particularly the V2X market – needs to be spurred
+during the early stages of VGI technology deployment. VGIC is concerned that reducing the
+minimum dispatch to 10 hours would significantly undermine this goal. Doing so without
+sufficient justification sends a clear signal to customers and technology providers that California
+has rescinded its commitment to deploy and utilize beneficial VGI solutions.
+Moreover, the proposed modification to reduce minimum dispatch to 10 hours represents a bait-
+and-switch for customers that have elected to install bidirectional charging systems with the
+expectation of 30 hours per year of dispatch. At $2/kWh and 30 hours per year detailed and
+advertised through the utility’s ELRP websites, customers made significant equipment
+investments which will take longer to pay off if systems are only dispatched 10 hours per year.
+To address the utilities’ concern that they may fulfill the 60-hour cap during the season and be left
+without dispatch capability in later months, VGIC strongly recommends that this cap be increased
+to 150 hours. The second largest VGI implementation in California after ELRP is SDG&E’s VGI
+Pilot Rate, which uses a load-based threshold to trigger critical peak pricing (“CPP”) events. The
+load-based threshold is based on the prior year’s top 150 system peak hours.2 For ease of
+implementation, VGIC recommends that all three IOUs adopt the SDG&E VGI Rate event
+2 SDG&E Schedule VGI. Sheet 2. CPUC Sheet No. 37120-E.
+https://tariff.sdge.com/tm2/pdf/tariffs/ELEC_ELEC-SCHEDS_VGI.pdf
+
+February 6, 2023
+Page 4 of 8
+threshold methodology, which is well-established, having been in effect since December 16, 2016,
+and does not require any utility-specific calculation since the core metric is system-wide.3
+Moreover, CAISO’s load data is readily available and accessible for utilities, aggregators, and
+customers alike.
+III. ELRP COMPENSATION SHOULD OCCUR IN THE MONTH WHERE
+INCREMENTAL LOAD REDUCTIONS (“ILR”) ARE RECORDED OR THE
+FOLLOWING BILLING CYCLE, NOT AT THE END OF THE YEAR.
+In 2022, utilities distributed ELRP compensation for ILR at the end of the year. Based on our
+understanding, this is an unusual approach relative to other utility program offerings in California
+and other states. Not only does this lack of standardization risk creating confusion for aggregators
+and customers, but it also asks ELRP participants to bear a greater share of the financial burden
+while they await payment for the peak reduction services they provided. VGIC believes that
+barring any detailed justification for an end-of-year payment, the Commission should modify
+ELRP to require monthly compensation for ILR to ensure fairness and promote standardization
+across utility program offerings.
+IV. DUAL PARTICIPATION SHOULD BE PERMITTED WITH IOU DIRECT
+ENROLLED DR PROGRAMS, BUT THE COMMISSION SHOULD ALSO
+ENSURE APPROVED, PENDING, AND YET-TO-BE-DEVELOPED DYNAMIC
+RATES PERMIT DUAL PARTICIPATION PER D.21-12-015.
+The Joint Advice Letter request that dual participation with IOU Direct Enrolled DR programs
+(e.g., smart thermostat programs) be permitted if a customer is using submetering. The Joint
+Advice Letter argues that this would not cause double counting or double compensation, since
+ELRP settlement for these customers is based on submetered load reductions that can be separated
+from other demand response recorded at that site. The Joint Advice Letter correctly states that dual
+participation is already permitted between ELRP and Base Interruptible Program (“BIP”),
+Capacity Bidding Program (“CBP”), CPP rates, and third-party Proxy Demand Response (“PDR”).
+VGIC supports this modification but notes that the Commission should act on another significant
+3 Pursuant to D.16-01-045 Ordering Paragraph 3.c, SDG&E filed AL 2877-E on March 31, 2016, to establish
+Schedule VGI. Energy Division approved Schedule VGI as set forth in Advice Letter 2877-E effective
+December 16, 2016.
+
+February 6, 2023
+Page 5 of 8
+yet reasonable dual participation matter: the treatment of customers participating in both dynamic
+rates and ELRP.
+Notably, the original Proposed Decision to establish Group A.5 would have prohibited dual
+participation in ELRP and dynamic rates, such as PG&E’s Day-Ahead Hourly Real-Time Pricing
+(“DAHRTP”), SDG&E’s proposed dynamic pricing pilots (A.21-12-006), and those envisioned
+by the CalFUSE framework.4 However, in reviewing the record and revising the Proposed
+Decision, the Commission decided the correct path forward was to remove the proposed dual
+participation prohibition in its Final Decision (D.21-12-015) and allow dual participation in ELRP
+and dynamic rates.5 However, PG&E’s DAHRTP rate, which VGIC understands as the first full-
+scale, optional dynamic rate (i.e., non-pilot) offered in California, does not allow for dual
+participation with ELRP.
+To remain consistent with the Commission’s direction in D.21-12-015, VGIC strongly urges the
+Commission to take additional steps in an existing or new proceeding to ensure that forthcoming
+dynamic rates allow for dual participation with ELRP. VGIC believes the current ELRP baselining
+methodologies are sufficient to determine incremental load reductions (“ILR”) for dynamic rate
+customers. However, VGIC believes a near-term, no-regrets solution that will surely avoid double
+counting or double compensation would be to allow customers to participate in either ELRP or a
+dynamic rate during the ELRP season and then a dynamic rate during non-ELRP months. For
+example, a customer could participate in ELRP for the summer and then respond to a dynamic rate
+for charging and/or exports during the winter. In the following summer, the customer may opt to
+remain on a dynamic rate for charging and/or exports, rather than ELRP.
+At a minimum, customers with V2G equipment or storage-backed EV chargers that may be eligible
+for certain dynamic rates but ineligible for any export compensation should be permitted to receive
+ELRP compensation for exports. Critically, this would in no way constitute double compensation,
+as all measured exports are clearly in response to an ELRP signal and no other price or event-
+based signal, as the customer would not even be eligible for other price or even-based export
+signals. V2G and storage-backed charging customers should be able to provide significantly more
+support to California’s grid in the form of peak exports and could do so if dual participation is
+permitted.
+VGIC’s overarching concern is that the market for V2G and storage-backed charging products and
+services is still emerging, and there are very few stable revenue streams available that can help this
+4 Proposed Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California Edison
+Company, and San Diego Gas & Electric Company to Take Actions to Prepare for Potential Extreme
+Weather in the Summer of 2022 and 2023. Mailed October 29, 2021. Attachment 2 at 6.
+5 D.21-12-015. Attachment 2 at 6.
+
+February 6, 2023
+Page 6 of 8
+suite of technologies to develop even further. As noted above, ELRP is the only form of
+compensation for V2G solutions in California outside of small-scale pilots and demonstration
+projects. Thus, VGIC stresses the importance of optionality so that new market entrants can test
+the viability of different operating paradigms and use cases. A market participant might be hesitant
+to participate in a promising new rate or program if that meant foreclosing the opportunity to
+continue participating in the more well-established ELRP Group A.5.
+V. SCE SHOULD CLARIFY WHETHER CHARGE READY CUSTOMERS WILL
+BE TRANSITIONED TO GROUP A.5 OR ANOTHER ELRP CUSTOMER
+GROUP. IF THE FORMER, SCE SHOULD CLARIFY ITS ROLE IN
+FACILITATING THE AGGREGATOR-CUSTOMER RELATIONSHIP AND
+UPDATING ITS APPROVED PRODUCT LIST.
+The SCE-specific modifications detailed in the Joint Advice Letter describe that Charge Ready
+DR Pilot customers will participate in ELRP or another eligible DR program. The Joint Advice
+Letter proposes to transition existing SCE Charge Ready L2 sites and default new sites to ELRP.
+Notably, SCE also proposed this in A.22-05-004, Application of SCE for Approval of Demand
+Response Programs and Budgets for 2023-2027 (“2023-2027 DR Portfolio Application”).
+However, neither SCE’s recent 2023-2027 DR Portfolio Application nor the Joint Advice Letter
+detail which ELRP customer group will be used.
+SCE's Charge Ready and Charge Ready Transport programs remain pivotal in supporting
+commercial customers, multi-unit dwellings, and fleets through the transportation electrification
+process. Under D.17-12-003, the Commission authorized SCE’s request for a two-year Charge
+Ready DR Pilot, which was later extended through 2022. As approved in Advice Letter 4363-E,
+Charge Ready DR pilot customers take service under Schedule DR-CPP, which utilizes a CPP
+structure with year-round events. VGIC generally supports the proposal to transition SCE Charge
+Ready customers to ELRP. However, additional detail on the below items is needed:
+ Applicable ELRP Customer Group and Role of VGI Aggregators: It is unclear whether
+customers will be transitioned specifically to ELRP customer group A.5 or another
+customer group. If customers are transitioned to ELRP customer group A.5, it is unclear
+how SCE will facilitate aggregator participation. For example, SCE could provide Charge
+Ready customers with a list of existing ELRP customer group A.5 aggregators, and the
+customer may choose to engage with an aggregator from that list or an aggregator that is
+not on that list. Another potential approach could be for SCE to facilitate connections
+between Charge Ready customers and existing or interested Group A.5 aggregators.
+
+February 6, 2023
+Page 7 of 8
+ Updating Charge Ready to Align with ELRP V2G Equipment Requirements: Charge
+Ready and ELRP have different equipment requirements, and SCE should work to align
+its Charge Ready requirements with ELRP requirements in order to unlock EV load
+reduction and exports. For example, customers installing vehicle-to-grid direct current
+(“V2G DC”) EVSE for purposes of ELRP receive a specific exemption under Rule 21:
+V2G DC EVSE needs to be certified to UL 1741, but not UL 1741 SA, UL 1741 SB, or
+any updated smart inverter standards that may be required in the future under Rule 21. To
+ensure Charge Ready customers can meaningfully participate in ELRP, SCE should update
+its Charge Ready Approved Product List with all EVSE eligible to participate in ELRP,
+including V2G DC EVSE that may interconnect under the UL 1741 SA exemption detailed
+in Rule 21.
+ Updating Charge Ready to Align with ELRP Submetering and Virtual Aggregation
+Pathways: Additionally, ELRP Group A.5 allows for both EVSE submetering and virtual
+pairing of separately metered EVSE, while Charge Ready encourages separate metering.
+To address this misalignment, SCE should clarify that customers may be eligible for
+Charge Ready make-ready/charger rebates if they are using EVSE submetering to
+participate in ELRP, rather than installing EVSE on a separate meter. Additionally, Charge
+Ready program rules should reflect ELRP rules by clarifying that site load can be virtually
+paired with separately metered EVSE to participate in ELRP.
+VGIC generally supports the Joint Advice Letter proposal to transition SCE Charge Ready
+customers to ELRP, but believes critical clarity is needed on the above items before the
+Commission should approve this request.
+VI. CONCLUSION.
+VGIC appreciates the opportunity to submit this Protest to the Joint Advice Letter. We look
+forward to collaborating with stakeholders on this important initiative.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle Grid Integration Council
+cc: Sidney Bob Dietz II c/o Megan Lawson, PG&E (PGETariffs@pge.com)
+Connor Flanigan, SCE (AdviceTariffManager@sce.com)
+
+February 6, 2023
+Page 8 of 8
+Tara S. Kaushik c/o Karyn Gansecki, SCE (Karyn.Gansecki@sce.com)
+Greg Anderson, SDG&E (GAnderson@sdge.com, SDGETariffs@sdge.com)
+Service list of R.20-11-003
+Service list of A.17-01-012 et al.
+Service List of R.13-09-011

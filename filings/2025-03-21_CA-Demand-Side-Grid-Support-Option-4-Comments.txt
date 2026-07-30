@@ -1,0 +1,66 @@
+March 21, 2025
+Email to: docket@energy.ca.gov
+Docket Number: 22-RENEW-01
+Subject: California Energy Commission Demand Side Grid Support Program Guidelines
+RE: Comments of the Vehicle Grid Integration Council on the Demand Side Grid Support
+Program Draft Guidelines, Fourth Edition and Option 4
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide additional
+comments on the Demand Side Grid Support (DSGS) Program Draft Guidelines, Fourth Edition
+published by the California Energy Commission (CEC) and comments regarding the inclusion of
+Option 4 in the program and potential overlaps with Pacific Gas and Electric’s (PG&E) Automated
+Response Technology (ART) program.
+Regarding DSGS Option 4: Emergency Load Flexibility Virtual Power Plant and PG&E’s
+ART Program.
+VGIC is supportive of the proposed DSGS Option 4, Emergency Load Flexibility Virtual Power
+Plant Pilot, as an option for EVSE to provide emergency reliability to the state. With nearly 2
+million EVs already sold in California and millions more expected, EVs represent an increasing
+share of the state’s electric load. Given the diversity of mobility needs and charging behaviors, it
+is critical that EV customers have access to a wide range of demand response (DR) programs that
+align with their specific needs and internal cost-benefit calculations. Offering a variety of options
+maximizes EV contributions to grid reliability by allowing customers to select programs that best
+fit their operational preferences. Moreover, it promotes participation from customers who may not
+respond to other load management measures, like whole-premise time-of-use rates that apply to
+EV and non-EV load.
+The DSGS program plays an important role in California’s demand response portfolio as the only
+statewide emergency DR program available today. Unlike other DR initiatives (i.e., ART or the
+Emergency Load Reduction Program), DSGS allows participation from all load-serving entities,
+including publicly owned utilities, creating a uniform statewide option for DR aggregators and
+customers. Importantly, DSGS, particularly Option 4, is designed as an emergency DR program,
+with events triggered by Energy Emergency Alerts (EEA) and limited to a maximum of 60 hours
+per summer season. This structure ensures the program is focused on critical reliability events
+rather than routine load management.
+1
+
+PG&E’s ART program is a fundamentally different DR offering, as it integrates resources into the
+CAISO wholesale market. ART operates year-round, allows for more frequent dispatch, and offers
+a higher annual capacity incentive due to its expanded availability. This makes ART a valuable
+tool for customers seeking to provide more consistent grid services. However, because ART is
+administered solely by PG&E, it is not available to customers outside of PG&E’s service territory.
+While both programs leverage smart technologies, including EVSE, to provide grid services,
+VGIC does not view DSGS and ART as competing. Instead, different customers and aggregators
+will naturally gravitate toward either program based on their operational needs and preferences.
+Notably, the 2019-2020 Joint CPUC-CEC Vehicle-Grid Integration Working Group detailed over
+1,000 VGI use cases. This demonstrates a rich diversity in the manners in which customers interact
+with the grid through EVs and EVSE. Additionally, customers outside of PG&E may be weighing
+a completely different, and potentially more limited, menu of DR options. A diverse and flexible
+DR ecosystem is essential to ensuring that all capable resources, including EVs, are able to
+contribute to grid reliability. Lastly, while PG&E ART, if successful, may serve as a model for
+other load-serving entities to follow, it is unlikely that will occur in the next few years. For
+example, if other investor-owned utilities were to propose a program based on ART, this would
+need to be done via the 2028-2032 DR application cycle, which may be filed in 2027. Based on
+the cadence of the previous two DR application cycles, these programs would not be approved by
+the CPUC until 2028 and implemented until 2029.
+With these factors in mind, VGIC therefore urges the CEC to adopt the DSGS guidelines, including
+Option 4, at the next CEC Business Meeting to ensure that EVSE and other resources can support
+California’s reliability needs as soon as possible.
+Conclusion.
+VGIC appreciates the opportunity to provide these comments and looks forward to collaborating
+with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+2

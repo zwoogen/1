@@ -1,0 +1,254 @@
+Appendix
+PC44 Interconnection Workgroup
+V2G Regulation Proposal
+November 1, 2024
+1
+
+V2G Regs, Draft Rev 3, October 17 2024 - For Discussion Only - Not a Final Workgroup
+Proposal
+Proposed Regulations - Vehicle to Grid Interconnection
+Note: All changes are in regulatory mark-up style with bracketed items [...] deleted and
+italicized items added. Footnotes are explanatory and will not be included in regulations.
+Add Regulation Section 20.50.02.02
+.02 Acceptable Standards1.
+Unless otherwise specified by the Commission, the utility shall use the applicable provisions in
+the latest revised version of the incorporated by reference publications listed below as standards
+of accepted good engineering practice in this subtitle:
+M. Interconnection Requirements for Onboard, Grid Support Inverter Systems, SAE
+J3072, Revision 3, June 10, 20242
+N. Electric Vehicle Supply Equipment, UL 2594, Edition 3, December 15, 20223
+O. Electric Vehicle Power Export Equipment, UL 9741, September 29, 20234
+1 Several related standards are already referenced in COMAR 20.50.02.02 Such as: E.) Standard for Interconnection
+and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces, IEEE
+1547-2018; F.) Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated
+Electric Power Systems Interfaces, IEEE 1547-2018 Amendment 1 (IEEE Std. 1547a-2020); G.) Errata to Standard
+for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems
+Interfaces, IEEE 1547-2018; H.) IEEE 1547.1-2020, Standard Conformance Test Procedures for Equipment
+Interconnecting Distributed Energy Resources with Electric Power Systems and Associated Interfaces; and I.) UL
+Standard for Inverters, Converters, Controllers and Interconnection System Equipment for Use With Distributed
+Energy. Some related standards are not yet published and can’t yet be referenced. The UL 1741 standard is being
+updated to include Supplement SC (UL 1741-SC) for V2G-AC and UL1741 would include UL1741-SC when
+published. After UL 1741 SC is publishingpublished, the PC44 interconnection workgroup may need to reconvene
+to formally adopt UL1741-SC.
+2 SAE J3072 establishes requirements for a grid support inverter system function that is integrated into a
+bidirectional electric vehicle which connects in parallel with an electric grid through an EVSE. This standard also
+defines the communication between the EV and the EVSE required for the EV onboard inverter function to be
+configured and authorized by the EVSE for discharging at a site. The requirements herein are intended to be used in
+conjunction with IEEE 1547 and IEEE 1547.1.
+3 UL 2594 applies to conductive EV supply equipment with a primary source voltage of 1000 V ac or less, with a
+frequency of 50 or 60 Hz, and intended to provide AC power to an electric vehicle with an on-board charging unit.
+4 UL 9741 applies to off-board unidirectional and bidirectional equipment rated 1000 Vac and 1500 Vdc or less, that
+transfers electrical energy between an electric vehicle and off board loads as well as operating in parallel with an
+electric power system, such as the electric utility grid, using a permanently attached vehicle connector. Equipment
+that has optional bidirectional functionality serves as both Electric Vehicle Power Export Equipment (EVPE) and
+electric vehicle supply equipment (EVSE). Note: UL 9741 is applicable as a method of demonstrating compliance
+with IEEE 1547.1 for certain specific equipment and pairs of equipment; typical use is for pairs of equipment tested
+together, it is not really applicable to general open systems of interconnection of equipment from different
+manufacturers.
+2
+
+V2G Regs, Draft Rev 3, October 17 2024 - For Discussion Only - Not a Final Workgroup
+Proposal
+Add Regulation Subsections 20.50.09.02B
+.02 Definitions.
+B. Terms Defined.
+(1)“AC EVSE” means supply equipment that passes alternating current to the EV, with
+conversion between AC and DC accomplished onboard the EV.
+(2) "Bidirectional electric vehicle" means an electric vehicle that is capable of both receiving
+and discharging electricity.5
+(3) “DC EVSE” means supply equipment that passes direct current to or from the EV, with the
+EVSE accomplishing conversion between AC and DC.
+(4) “Electric vehicle” or “EV” means a vehicle that employs electrical energy as a primary or
+secondary mode of propulsion and is capable of charging the onboard battery from an external
+supply of electricity.
+(5) “Electric vehicle supply equipment” or “EVSE” means a device or system designed and used
+specifically to transfer electrical energy between an electric vehicle and the electric grid.
+(6) “Technical interconnection requirement” or “TIR” means a public-facing document
+available on an electric company's website that specifies interconnection technical review
+criteria and distributed energy resource functional settings.
+(7) “V1G, or managed charging” means a range of approaches from utility programs and rate
+design to means incentivizingincentivize ratepayers for varying the time or rate at which an
+electric vehicle is charged. Commented [ZW1]: VGIC recommends these changes for
+clarity/grammar.
+(8) “V1G Ready EVSE” is an EVSE that is capable of controlled charging rate operation but is
+either not certified for or is certified for but not programmed or configured for bidirectional
+operation.
+(9) “V2G, or vehicle-to-grid” means the ability for an EVSE connected to a bidirectional
+electric vehicle to operate in parallel to the grid and both receive and feed power to the point of
+connection between the EVSE and the grid.
+5 Note: Bidirectional electric vehicle is defined in PUA §7–1001(C) per the DRIVE Act.
+3
+
+V2G Regs, Draft Rev 3, October 17 2024 - For Discussion Only - Not a Final Workgroup
+Proposal
+(10) “V2G Ready EVSE” is an AC EVSE or DC EVSE, is certified for and programmed or
+configured for bidirectional operation as part of a V2G system in parallel with the electric grid.
+(11) “V2G System” is a combination of hardware and software in or around the EVSE and EV
+for the purposes of communication with and programmed flow of energy into and out of the
+vehicle battery in support of electrical loads or systems offboard the EV, including the electric
+grid.
+Add Regulation Section 20.50.09.06S
+.06 General Requirements.
+S. Vehicle to Grid Interconnection.
+(1) A V2G System shall meet the following requirements:
+a. The interconnectingon customer for a V2G system shall submit an interconnection
+request pursuant to Regulation .046 of this Chapter.
+b. A V2G system interconnection shall be valid only at a single point of
+interconnection7 specified in the interconnection agreement. Additional locations
+shall require additional interconnection reviews and associated interconnection
+agreements.
+c. An electric company shall consider a V2G system to be an energy storage device
+pursuant to Regulation .02B8 of this chapter for the purpose of evaluating the
+electrical performance requirements applicable to an interconnection request.
+d. Characteristics of energy storage systems that do not and cannot apply to the use
+of EVs as connected energy storage units shall not be required of V2G systems
+operated as energy storage.
+e. A V2G system shall not be authorized in bidirectional mode while in parallel
+operation9 with the local electric power system unless an interconnection
+6 Note: Specific requirements for interconnection requests are listed in 20.50.09.04 (i.e., Regulation .04 of this
+Chapter).
+7 Point of interconnection is defined in 20.50.09.02 and is the same as point of common coupling, which means
+where the V2G system “is electrically connected to the electric distribution system.”
+8 “Energy storage device” in COMAR 20.50.09.02B means a piece of equipment that captures energy produced at
+one time, stores that energy for a period of time, and delivers that energy as electricity at a future time.
+9 COMAR 20.50.09.02B states that "Parallel operation" means the sustained state of operation over 100
+milliseconds which occurs when a small generator facility is connected electrically to the electric distribution
+system, and thus has the ability for electricity to flow from the small generator facility to the electric distribution
+system.
+4
+
+V2G Regs, Draft Rev 3, October 17 2024 - For Discussion Only - Not a Final Workgroup
+Proposal
+agreement is in place between the interconnectiong customer10 and the relevant
+electric utility and the interconnectiong customer has received a permission to
+operate from the electric company.
+(2) An electric company may delay interconnection of a V2G system to provide adequate
+time to ensure electric distribution system safety and reliability in advance of vehicle-to-
+grid interconnections pursuant to applicable requirements in Regulation .09 of this
+Chapter for Level 1 Review; Regulation .10 of this Chapter for a Level 2 Review;
+Regulation .11 of this Chapter for a Level 3 Review; and Regulation .12 of this Chapter
+for a Level 4 Review.11
+(3) To ensure safety, reliability and V2G functionality, the interconnection agreement shall
+require adherence to applicable standards as follows:
+a. For DC EVSE V2G Systems:
+i. UL 1741 incorporated by reference in COMAR 20.50.02.02(I)
+b. For AC EVSE V2G Systems: Commented [ZW2]: Specifically, SC Supplement C
+EitherEITHER: Commented [ZW3]: This presents an alternative certification
+pathway to UL 1741 SC / SAE J3072. Direct UL Solutions
+i. For V2G Ready EVSE: certification of UL 1741 SB compliance for grid
+interconnection/performance.
+i.1. UL 174112 incorporated by reference in COMAR 20.50.02.02(I)
+Notably, this does not preclude the UL 1741 SC + SAE J3072
+ii.2. UL 2594 incorporated by reference in COMAR pathway, but allows another viable alternative that may be preferred
+20.50.02.02(N) by some manufacturers. In the near-term, this alternative also offers
+an important “hedge,” given UL 1741 SC development has missed
+ii. For bidirectional electric vehicle: its projected completion date several times over the past two years.
+1. SAE J3072 incorporated by reference in COMAR 20.50.02.02(O) Commented [ZW4]: VGIC recommends this pathway as an
+alternative to the UL 1741 SC/SAE J3072 approach for three
+iii. OR reasons:
+1.A core component of UL 1741 SC is that it enables the EVSE to
+authorize the EV to discharge based on the vehicle’s compliance to
+iii. For V2G Ready EVSE: SAE J3072. This is important in cases where several V2G-capable
+vehicles may be plugging into the EVSE, and the EVSE needs to
+1. UL 1741 incorporated by reference in COMAR 20.50.02.02(I) perform this check. However, in cases where only one V2G-
+capable vehicle will be plugging into the EVSE (e.g., a single-
+2. UL 2594 incorporated by reference in COMAR 20.50.02.02(N) family residential setting), the UL QIKP certification pathway is
+sufficient to ensure grid interconnection/performance certification.
+3. UL 974113 incorporated by reference in COMAR 20.50.02.02(M) In sum, QIKP works for a single installation site with a single
+iv. For bidirectional electric vehicle and V2G Ready EVSE: defined EV.
+2.VGIC supports the incorporation of UL 1741 SC as an option
+1. UL 1741 SB under QIKP14 Grid Interconnection Performance for V2G AC systems within these regulations. However, the UL
+1741 SC working group has not yet published the standard, and
+Certification. has pushed back publication a few times. Allowing for the QIKP
+pathway creates a hedge against further delays to UL 1741 SC,
+c. For EVs and EVSEs, if applicable:
+and enables MD to achieve the vision set forth in the DRIVE
+Act.
+3.Manufacturers of V2G systems may choose different
+pathways. As long as those pathways can ensure safety and
+10 Interconnection customer is a defined term in COMAR 20.50.09.02B and “means an entity that proposes to reliability through UL certification, including both the fire/shock
+safety evaluation and the grid interconnection/performance
+interconnect or has interconnected a small generator facility to an electric distribution system.”
+functionality, then these pathways should be open to
+11 This regulation is needed to comply with PUA §7–1004(A)(2). manufacturers. This is particularly important while the V2G
+12 Specifically, UL 1741 SC. system market is still relatively nascent. MD ought to not be too
+prescriptive over the path that OEMs take. Instead, the PC44
+13 Specifically, the examples for grid-parallel V2G AC found in UL 9741 Section 1.4.(H), 1.4.(J) and 1.4.(L).
+IWG must ensure the core safety and reliability of the grid,
+14 Grid Interconnection Performance Certification (QKIP) for V2G AC, UL 1741 SB under QIKP. which both pathways accomplish.
+5
+
+V2G Regs, Draft Rev 3, October 17 2024 - For Discussion Only - Not a Final Workgroup
+Proposal
+i. UL 9741 incorporated by reference in COMAR 20.50.02.02(M)
+(4) If applicable standards pursuant to Regulation S(3) are not available or safety, reliability
+and V2G functionality cannot be ensured, the utility may require reasonable alternative
+methods such as protective relaying equipment, a power control system, or other
+alternative methods such as UL 1741 QIKP15 Grid Interconnection Performance
+Certification in an interconnection agreement.16 If safety, reliability and V2G
+functionality cannot be ensured through standards or reasonable alternative methods, an
+electric company shall deny the interconnection request.
+(5) When multiple V2G systems are to be interconnected in a fleet operation exceeding 1 MW
+of aggregate nameplate V2G Ready EVSE export capability, the interconnection
+customer shall contact an electric utility to determine special arrangements required by
+the electric company. These requirements shall be consistent with the other requirements
+in this Chapter and the technical interconnection requirements of the electric company. Commented [ZW5]: Is there a similar “large site” requirement
+for other DERs? If so, VGIC recommends we point to that
+(6) A V1G System shall meet the following requirements: regulation, rather than re-inventing the wheel for V2G.
+a. An interconnection request, interconnection agreement and an electric company
+permission to operate is not required for a V1G Ready EVSE provided that the
+V1G Ready EVSE is factory set configured to only allow V1G operation in
+compliance with relevant standards.17
+b. A V2G System that operates as a V1G Ready EVSE shall be accepted by an
+electric company using a method and for notification form submittal as
+determined by the electric company.18 The notification form used by the electric
+company shall only require information required to verify attest to V1G operation
+and not duplicate an interconnection request. Commented [ZW6]: VGIC recommends language and footnote
+use the term “attest to” or “attestation” to provide more clarity on the
+process, as opposed to “verify” or “proven.”
+15 Grid Interconnection Performance Certification (QIKP) for V2G, UL 1741 QIKP.
+16 This regulation is needed due to a general lack of AC ESVE standards. Power control systems, devices that
+electronically control the power output of generating facilities and certified to UL 9741, may be an alternative
+method to protective relaying for controlling power export. The UL 1741 PCS CRD from March 2019 or coming
+successor standard UL 3141 (currently complete outline of investigation, full technical committee forming for
+consensus and balloting) to prove current control and ability to set “charge-only mode” may also be applicable.
+These standards have specific provisions to prove this capability to utilities and some DC EVSEs already have
+obtained the certification for this use case.
+17 Interconnection request, interconnection agreement and permission to operate are all defined in COMAR
+20.50.09.02B.
+18 The determination of whether a bidirectional electric vehicle is operating in V1G mode has to be proven attested
+to the eclectric company and the Workgroup determined not to get more prescriptive in regulations on what would
+be acceptable proof.
+6
+
+V2G Regs, Draft Rev 3, October 17 2024 - For Discussion Only - Not a Final Workgroup
+Proposal
+c. A V1G Ready EVSE cannot shall not be changed to a V2G Ready EVSE without
+first receiving an interconnection request and permission to operate from the
+utility.
+d. Only the EVSE manufacturer or a manufacturer approved third party entity may
+reprogram or reconfigure an EVSE to bidirectional operation.19
+Modify Regulation Section 20.50.09.14C as follows:
+C. A utility shall file not later than April 1 of each year a report entitled “Annual Small
+Generator Interconnection Report” to the Commission containing the following information for
+the preceding calendar year:
+(1) The total number of and the nameplate capacity of the interconnection requests received,
+approved, and denied under Level 1, Level 2, Level 3, and Level 4 reviews;
+(2) The number of evaluations of interconnections requests approved and denied using any
+alternate process under Level 1, Level 2, Level 3, and Level 4 reviews;
+(3) The fuel type, or energy storage type, total number, and total nameplate capacity of small
+generator facilities approved in each of the following categories:
+(a) Net metering;
+(b) Emergency standby capable of operating in parallel;
+(c) Behind the meter load offset;
+(d) Combined heat and power;
+(e) Energy storage devices; [and]
+(f) V2G Systems – DC EVSE
+(fg) V2G Systems – AC EVSE20; and Commented [ZW7]: VGIC recommends requiring reporting for
+[(f)](gh) Other; both AC and DC systems, as this will help PC44 IWG determine
+if/when additional interconnection regulation updates are needed,
+and may inform other DRIVE Act implementation efforts.
+19 This requirement exists in California’s Rule 21.
+20 Even though a V2G system is considered to be an energy storage device for interconnection reviews, the
+Workgroup desires annual reporting for bidirectional electric vehicles to be separate from energy storage.
+7

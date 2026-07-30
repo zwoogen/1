@@ -1,0 +1,198 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Rulemaking 23-12-008
+Transportation Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING INITIATING TRACK 1 AND INVITING
+PARTY COMMENT
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: July 18, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Rulemaking 23-12-008
+Transportation Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING INITIATING TRACK 1 AND INVITING
+PARTY COMMENT
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Administrative Law Judge’s Ruling Initiating Track 1 and Inviting
+Party Comment filed June 3, 2024 by Administrative Law Judges (“ALJ”) Marcelo Lins Poirier
+and Colin Rizzo.
+I. INTRODUCTION.
+As shown in Opening Comments, the Transportation Electrification (“TE”) Rebate
+Program remains important to support the adoption of electric vehicles (“EV”), especially in
+underserved and disadvantaged communities. Many parties expressed their continued support for
+the program.1 As summarized by East Yard Communities for Environmental Justice, Sierra Club,
+and Union of Concerned Scientists, “The justification for the TE Rebate Program remains strong,
+policy changes in California since November 2022 only reinforce the need for infrastructure
+support, and pausing the program would do nothing to address the issues raised.”2
+1 See Opening Comments from Advanced Energy United; Association of Bay Area Governments and County Of
+Ventura; California Association of Small and Multi-Jurisdictional Utilities; CALSTART; ChargePoint; Center for
+Sustainable Energy; Clean Coalition; East Yard Communities for Environmental Justice, Sierra Club, and Union of
+Concerned Scientists; GRID Alternatives; Green Power Institute; PowerFlex; Voltera; Vote Solar.
+2 East Yard Communities for Environmental Justice, Sierra Club, and Union of Concerned Scientists Opening
+Comments at 1.
+2
+
+A walk-back of the TE Rebate program will also diminish confidence in Commission
+programs, and businesses will interpret the action as an indication that funds can be walked back
+even years after unanimous Commission approval. As summarized by ChargePoint, “For service
+providers [...] and for customers that rely and wait on these programs, inconsistency of funding is
+a major problem. The perception that incentive programs for EV charging are fickle adds risk to
+EV charging projects in the eyes of potential applicants, which discourages investment.”3 This is
+especially true for customer segments facing additional barriers to charging access, including the
+multi-unit dwellings (“MUD”) and small fleets in disadvantaged communities for which the TE
+Rebate Program was conceived. As multiple parties have highlighted, this comes at a time when
+the state is implementing significant zero-emission vehicle mandates through Advanced Clean
+Cars 2, Advanced Clean Trucks, and Advanced Clean Fleets.4 Instead of pausing the TE Rebate
+Program, VGIC agrees with the Center for Sustainable Energy (“CSE”) that “the Commission has
+an opportunity to provide certainty and confidence in the TE sector, support California’s EV
+infrastructure deployment goals, and provide targeted support to those market segments that are
+most reliant on incentive support.”5
+Therefore, VGIC continues to oppose the pausing of the TE Rebate program and
+recommends that the Commission continue to develop this program, and reiterates that the
+program should prioritize vehicle-grid integration (“VGI”) strategies to maximize the ratepayer
+benefits yielded from the program. In Opening Comments, some parties suggested that support for
+3 ChargePoint Opening Comments at 14.
+4 See CALSTART Opening Comments at 7, County of Los Angeles Opening Comments at 8, Powering America’s
+Commercial Transportation (“PACT”) Opening Comments at 4, Voltera Opening Comments at 4.
+5 CSE Opening Comments at 21.
+3
+
+customer-side infrastructure is unnecessary or that funds would be better spent elsewhere. In
+response, VGIC provides the following comments:
+● Support for customer-side costs is still needed beyond the existing suite of authorized TE
+programs.
+● The TE rebate program must support grid-benefiting vehicle-grid integration (“VGI”)
+solutions.
+II. SUPPORT FOR CUSTOMER-SIDE COSTS IS STILL NEEDED BEYOND THE
+EXISTING SUITE OF AUTHORIZED TE PROGRAMS.
+Cost remains a major barrier to the adoption of EVs generally, and certain segments still
+require outside financial support for customers to electrify their vehicles or fleets. In 2023, PG&E
+noted that “fleet electrification projects are still very costly when considering the vehicles,
+chargers, and any out-of-pocket infrastructure expenditures, even when current grants and credits
+are taken into consideration, which presents a barrier to participation for many customers.”6 Exact
+costs can vary depending on the site and types of chargers being installed, but chargers and
+associated infrastructure cost hundreds of thousands of dollars.
+For this reason, rebates for customer-side or behind-the-meter (“BTM”) infrastructure
+remain critical to supporting the deployment of EVs. The investor-owned utilities (“IOU”) make-
+ready programs, including Pacific Gas and Electric’s (“PG&E”) EV Fleet program, Southern
+California Edison’s (“SCE”) Charge Ready Transport program, and San Diego Gas and Electric’s
+(“SDG&E”) Power Your Drive can provide support for up to 80% of BTM costs for customer-
+owned equipment. This support has been crucial to customer deployment of charging stations and,
+6 PG&E's Annual SB 350 Report filing for Standard Review Programs, EV Fleet Program Summary served on June
+28, 2024 at 1.
+4
+
+even so, a lack of funding for BTM infrastructure has prevented projects from moving forward.
+For example, PG&E has run up against caps that have prevented the EV Fleet program from
+providing financial support for BTM infrastructure and “project delays and cancellations have
+been driven by a failure to secure adequate funding for BTM infrastructure [...] greater BTM
+support from the EV Fleet Program in the form of increased BTM incentives [...] would also help
+to address these issues.”7 For this reason, PG&E has found that “adequate” BTM would cover 80%
+of costs at around $157,000 per site, instead of the current average rebate of $53,000 for customer-
+owned equipment.8 In sum, the financial support for BTM equipment that would be provided by
+the TE Rebate program is critical to the adoption of EVs, and therefore, VGIC continues to oppose
+a pause in the TE Rebate Program.
+However, if the TE Rebate Program is paused, the Commission should consider extending
+the sunset dates of the current Funding Cycle 0 (“FC0”) programs discussed above beyond
+December 31, 2026. As discussed by SDG&E, “these programs play an essential role in enabling
+TE and reducing greenhouse gas emissions to meet statewide goals.”9 The TE Rebate program was
+designed to replace these individual programs and would provide a backstop even if individual
+charging port deployment targets were not met by individual IOUs. If the TE Rebate program is
+paused, VGIC agrees with SDG&E that “the Commission should remove the FC0 sunset date and
+allow programs to be extended long enough to meet per se reasonableness requirements with
+previously approved funding.”10
+III. THE TE REBATE PROGRAM MUST SUPPORT GRID-BENEFITING,
+VEHICLE-GRID INTEGRATION TECHNOLOGIES.
+7 PG&E Advice Letter 7121-E submitted December 28, 2023 at 8-9.
+8 Ibid at 9.
+9 SDG&E Opening Comments at 8.
+10 Ibid.
+5
+
+As discussed by VGIC in Opening Comments, financial support is still needed for
+customers to adopt new TE technologies and VGI solutions that can support the grid, and we
+believe that the TE Rebate Program is an important vehicle to ensure that customers can access
+these technologies and solutions. Pacific Gas and Electric (“PG&E”), in Opening Comments,
+states that California needs to “[realize] EVs as an effective grid asset via VGI at scale, beyond
+current pilot and R&D efforts.”11 PG&E further states that “VGI and the pilots, programs, and
+infrastructure needed to enable these EVs benefits all customers with increasing reliability,
+resiliency, and affordability.”12 VGIC strongly agrees with PG&E’s statements regarding VGI.
+However, VGIC believes that rather than pausing the TE Rebate Program to re-focus on VGI, as
+recommended by PG&E, the TE Rebate Program must continue and be developed as a tool to
+directly support VGI deployment.
+Customer-sited equipment is needed to enable VGI solutions, including Automated Load
+Management (“ALM”), often referred to as EV Energy Management Systems (“EV EMS”),
+solutions enabling Flexible Service Connection and interim/bridge/phased energization, Load
+Control Management Systems (“LCMS”), and technologies used to implement Limited Load
+Profiles (“LLP”).13 In D.22-11-040, the Commission specifically allowed the IOUs to utilize TE
+Rebate program funding for ALM-specific rebates after the release of a study on the cost-savings
+provided by ALM and Energy Division Staff recommendations on how to pursue the ALM rebate.
+While the study has not been released yet, VGIC does anticipate that findings will show cost
+savings from ALM in line with other preliminary findings. For example, PG&E has seen ALM
+11 PG&E Opening Comments at 3.
+12 Ibid at 3-4.
+13 VGIC urges the Commission to establish standard terms and definitions for these elements. See Comments
+of VGIC on ALJ’s Ruling Providing Two Working Group Reports and Directing Responses to Questions on Reports.
+July 8, 2024. R.21-06-017. Pages 4-5.
+6
+
+provide cost savings of $30,000 to $200,000 per project in its EV Charge Network program.14
+ALM can also provide other benefits, including enabling the energization of chargers at a lower
+capacity while grid upgrades are being constructed, as is being enabled by PG&E’s Flexible
+Service Connection and SCE’s LCMS pilots. This will allow the rate-base to increase more
+quickly, which is key to EVs providing wider ratepayer benefits that were highlighted by many
+parties in Opening Comments.
+The Commission did set general load management capabilities for equipment as “a central
+objective as load management capability was a requirement of any funded installation.”15 D.22-
+11-040 requires the IOUs “to work with each customer to develop a load management plan, which
+the IOU should formally approve.”16 This load management plan would be required for systems
+receiving TE Rebate funds and would ensure that customers engage with utilities to discuss which
+types of equipment and VGI strategies work best for them. As highlighted by Advanced Energy
+United, “This requirement in turn is expected to help develop the managed charging experience
+and capability of industry, customers, and the utilities, resulting in a greater penetration and
+utilization of load management capability than would exist without the TE Rebate Program.”17
+Furthermore, the TE Rebate Program is critically needed to support the deployment of
+bidirectional charging equipment. Today, the bidirectional charging market remains relatively
+nascent. This is partially due to the high costs of customer-side equipment and infrastructure
+associated with bidirectional charger deployment. While PG&E offers residential and commercial
+customers up to $3,000 and $5,000, respectively, in upfront incentives for bidirectional charger
+14 Pacific Gas and Electric Company’s (U 39 E) Annual Vehicle-Grid Integration Strategies Report for 2023, filed
+on March 15, 2024 at 15.
+15 Advanced Energy United Opening Comments at 4.
+16 D.22-11-040 at 177.
+17 Advanced Energy United Opening Comments at 4.
+7
+
+deployment, no other IOU offers direct customer cost support that recognizes the incremental costs
+of deploying a bidirectional charger site compared to a unidirectional charging site.18 Moreover,
+these key PG&E incentives would sunset upon the conclusion of its VGI Pilots, which may occur
+as early as September 2025. With this in mind, the TE Rebate program should not be paused or
+discontinued to move funds toward VGI programs. Rather, the TE Rebate program provides an
+important venue to incentivize VGI, including through incremental incentives for bidirectional
+charging equipment and an ALM/LCMS systems rebate.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the Ruling. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: July 18, 2024
+18 PG&E. Vehicle-to-Everything (V2X) pilot program. https://www.pge.com/en/clean-energy/electric-
+vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-v2x-pilot-programs.html. Accessed
+July 16, 2024.
+8

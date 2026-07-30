@@ -1,0 +1,260 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Energization Timelines. Rulemaking 24-01-018
+(Filed January 25, 2024)
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON PHASE 1
+SCOPING MEMO ISSUES
+Zach Woogen
+Interim Executive Director
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+May 3, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Energization Timelines. Rulemaking 24-01-018
+(Filed January 25, 2024)
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON PHASE 1
+SCOPING MEMO ISSUES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1 hereby submits
+these comments on the Assigned Commissioner’s Scoping Memo and Ruling (“Scoping Memo”)
+and Email Ruling Adjusting Phase 1 Schedule and Addressing the April 2, 2024 Joint Investor-
+Owned Utilities’ Motion issued by Administrative Law Judge (“ALJ”) Carolyn Sisto on March 28,
+2024 and April 8, 2024, respectively.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Fermata
+Energy, Ford Motor Company, General Motors, Nissan Group of North America, Bidirectional Energy,
+Customized Energy Solutions, dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy,
+FreeWire Technologies, Inc., GridWiz, Kaluza, Landis + Gyr, Leapfrog Power, Inc., Nuvve Holding
+Corporation, Peak Power, PowerFlex, Qcells, Stellantis N.V., Sumitomo Electric, The Mobility House,
+Toyota Motor North America, Inc., WeaveGrid, Hoosier Energy, Peninsula Clean Energy, and Sacramento
+Municipal Utility District. The views expressed in these Comments are those of VGIC, and do not
+necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/)
+1
+
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+VGIC below offers its response to Phase 1 questions identified in the Scoping Memo and
+provides the following summary of our comments:
+• VGIC recommends the Commission direct utilities to track and publish the
+characteristics and project milestone dates for new and upgraded electrical service
+requests, including details related to flexible service connection.
+• VGIC proposes a partial data reporting template for consideration.
+• VGIC recommends utilities ensure customers are provided with flexible service
+connection options in case of exceptionally lengthy energization timelines.
+II. RESPONSE TO PHASE 1 QUESTIONS.
+A. Issue 1.f: What information should be tracked to assess improvement in utility
+timelines for energization after the targets set on or before September 30, 2024, are
+established?
+VGIC recommends the Commission direct utilities to track and publish the characteristics
+and project milestone dates for each new and upgraded electrical service request. This reporting
+should include:
+i. Anonymized project identification number, utility, ZIP code.2
+ii. the request type (i.e., new or upgrade), project status/current phase, and size /
+kW net nameplate rating requested at the site, expressed in kW.3
+a. For upgrade requests (i.e., as opposed to new service requests), incremental
+size / kW net nameplate rating requested should be reported.
+2 These Project Specifics are currently included in the large IOUs’ quarterly Interconnection Timeline
+Report, as required by D.20-09-035 Ordering Paragraph 22.
+3 Ibid.
+2
+
+iii. the tariff(s) under which the request is made, including Rule 15, Rule 16, Rule 29,
+and Rule 45.
+a. whether a Rule 21 application has also been submitted for that site.
+b. if applicable, based on reporting under item (ii)(a) above, the corresponding
+project number detailed in quarterly Rule 21 Interconnection Timeline
+Report published pursuant to Decision (“D.”) 20-09-035 Ordering Paragraph
+(“OP”) 22.4
+iv. the days lapsed since the initial request on which each relevant milestone is
+achieved. Relevant milestones should be those adopted by the Commission as
+informed by the utilities’ April 22, 2024, Joint Response to the ALJ’s Ruling
+Requesting Utility Responses and party opening and reply comments on Phase 1.5
+The Commission should make a reasonable effort to align the energization
+timeline reporting requirements adopted in this proceeding with the quarterly Rule
+21 Interconnection Timeline Reporting requirements.6 This would create
+consistency for developers that seek both energization requests and Rule 21
+interconnection requests. The Commission should also consider the merit of
+charting a clear path toward a joint timeline reporting format for load and
+4 Decision Adopting Recommendations From Working Groups Two, Three, And Subgroup. R.17-07-007.
+Issued September 30, 2020.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M347/K953/347953769.PDF
+5 San Diego Gas & Electric Company (U 902-E), Pacific Gas And Electric Company (U 39 E), And
+Southern California Edison Company (U 338-E) Response To Administrative Law Judge Ruling Directing
+Utility Responses To Questions Regarding Energization Timelines. R.24-01-018. Filed April 22, 2024.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M530/K252/530252757.PDF
+6 The quarterly Rule 21 Interconnection Timeline Reports include 36 data reporting fields based on the 19
+timelines directed in D.20-09-035 OP 22.
+3
+
+generation as customers increasingly develop new sites with both technologies
+(e.g., vehicle-to-grid interconnection requests at new school bus electrification
+sites).7
+v. whether flexible service connection was:
+a. proposed by the utility (i.e., following utility assessment indicating an
+exceptionally lengthy energization timeline, based on an adopted definition of
+“exceptionally lengthy”)
+b. accepted by the customer (i.e., following utility recommendation)
+c. proposed by the customer (i.e., following customer/vendor assessment of
+Integration Capacity Analysis or “ICA”)
+d. accepted by the utility (i.e., following customer request).
+Currently, a standardized process for enabling flexible service connections has not
+been adopted by the Commission.8 One process proposed during the March 22, 2024, VGI
+Forum hosted by the Energy Division staff is that, for sites with exceptionally lengthy
+forecasted energization timelines, utilities may approach customers with an option to elect
+a flexible service connection. Another process presented at the March 22, 2024, VGI
+Forum is to allow customers to proactively propose a flexible service connection based on
+7 Notably, these V2G electric school bus electrification projects are actively supported by the California
+Energy Commission and California Air Resources Board. See, for example, GFO-22-612 Electric School
+Bus Bi-Directional Infrastructure https://www.energy.ca.gov/solicitations/2023-04/gfo-22-612-electric-
+school-bus-bi-directional-infrastructure and Work Group #2 to Discuss the SB 114 Grants for Zero-
+Emission School Buses and Infrastructure https://www.energy.ca.gov/sites/default/files/2024-
+03/Work_Group_%232_to_Discuss_the_SB_114_Grants_for_Zero-
+Emission_School_Buses_and_Infrastructure_Presentation_ada.pdf
+8 SCE is launching a Load Control Management Systems (LCMS) pilot. See SCE Opening Comments on
+OIR. R.24-01-018. Page 11.
+4
+
+the customer/developer’s assessment of the Integration Capacity Analysis. Note that while
+these options were presented and discussed at the March 22, 2024, VGI Forum, they are
+not necessarily exclusive to VGI or EVs and could be applied technology-agnostic to all
+relevant energization requests. VGIC recommends the Commission prioritize
+considering these process elements in either (1) Phase 2 of this proceeding, in close
+coordination with the High DER Proceeding (R.22-07-005), the Rule 21 Proceeding
+(R.17-07-007), and the new Transportation Electrification Proceeding (R.23-12-018),
+or (2) in the High DER Proceeding (R.22-07-005), in close coordination with Phase 2
+of this proceeding, the Rule 21 Proceeding (R.17-07-007), and the new TE Proceeding
+(R.23-12-018).
+Specifically, VGIC recommends the Commission consider flexible service
+connection through four distinct focus areas: (1) grid data access and enabling tools,
+including further development of the ICA maps in R.22-07-005 and the development of
+dynamic operating envelopes or limited load profiles building on Resolution E-5296,9 (2)
+process and customer engagement, as partially detailed herein, (3) technical
+requirements and relevant standards for enabling technologies, including power control
+systems, co-located or integrated energy storage, and linear generators, and (4) timelines
+data collection and reporting to understand deployment progress, as partially detailed
+herein.
+vi. if applicable based on reporting of data point (v) above:
+9 Resolution E-5296 Approving Specifics and Process of Limited Generation Profiles. Issued March 22,
+2024. https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M527/K981/527981713.PDF
+5
+
+a. the type of the accepted flexible service connection (e.g., single-value static
+limit, programmed/locally-implemented operating envelope/288-value limited
+load profile, centrally-controlled/communications-based dynamic load dispatch
+/ ADMS/DERMS-integrated response)10
+b. the type of flexible service connection technology in use (e.g., power control
+systems,11 systems that monitor usage at a specific point and take action to
+reduce usage if power exceeds a programmed watt limit,12 integrated or co-
+located stationary energy storage,13 linear generators,14 etc.).
+This data will be critical to developing a common, objective, and data-backed understanding of
+progress against California’s goal for timely energization of new and upgraded electrical load
+requests, including the specific energization timelines ultimately adopted by the Commission by
+September 30, 2024. Moreover, this information can help identify precisely where common
+bottlenecks persist and how severe they are based on site size to ensure future policy development
+and investments are reasonable and prudent.
+10 SCE Advice Letters 5138-E and 5138-E-A, effective January 3, 2024, pursuant to January 16, 2024,
+Energy Division disposition of Advice Letters, detail both “localized autonomous LCMS,” in which a site
+operates autonomously to locally control flexible loads to maintain the power import level to the
+programmed limit, and “communications-based LCMS,” in which limits received from SCE via a cloud-
+based service or directly to the load customer facility by an SCE-approved communications gateway.
+11 See, for example, the UL 3141 Outline for Investigation for Power Control Systems.
+https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=45654
+12 SCE LCMS approach offers example LCMS systems including those that reduce charging levels for each
+charger, trip and disconnect certain devices, and reduce power usage on specific devices
+13 See, for example, solutions from FreeWire Technologies, Inc. https://freewiretech.com/
+14 See, for example, solutions from Mainspring Energy. Fast-Tracking EV Truck Charging: Prologis
+Creates Solutions Amid Grid Challenges. November 30, 2023. https://www.prologis.com/blog/fast-
+tracking-ev-truck-charging-prologis-creates-solutions-amid-grid-challenges
+6
+
+In the TE Policy and Investments Decision (D.22-11-040), the Commission directs the
+Energy Division to work with a technical consultant to complete an Automated Load Management
+(“ALM”) study to collect data related to flexible service connection technologies specific to EVs.15
+This effort is a one-off initiative to determine what, if any, additional support may be needed for
+these EV-specific flexible service connection technologies. Collecting the above data, including
+items listed in (v) and (vi), will provide critical insights into the value of these technologies on an
+ongoing basis, helping to answer the following policy questions:
+• How many customers are utilities approaching with opportunistic flexible service
+connection options in circumstances of exceptionally lengthy energization timelines?
+• How many customers elect flexible service connection pathways (e.g., static single-
+value limits, programmed operating envelopes/limited load profiles, dynamic load
+control, etc.) and technologies (e.g., power control systems, integrated energy storage,
+etc.)?
+• What types of flexible service connection pathways and technologies are most
+common?
+• How does the customer election of flexible service pathways and technologies impact
+energization timelines, on average? How does this differ by pathway and technology
+type?
+VGIC proposes the below energization timelines data reporting template for party and
+Commission consideration:
+15 Decision on Transportation Electrification Policy and Investment. D.22-11-040. Issued November 21,
+2022. Page 179. https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M499/K005/499005805.PDF
+7
+
+B. Issue 3: What procedure(s) for customers should exist to report energization delays
+for new and upgraded electric service? What additional procedure(s) or
+improvements should be made for customers on or before September 30, 2024?
+VGIC recommends the following improvement for customers on or before September 30,
+2024: Customers receiving exceptionally lengthy energization timeline estimates should be
+offered information from their utility on flexible service connection options. VGIC offers
+additional details and recommendations for this process below in response to Issue 3.a.
+Additionally, VGIC recommends the Commission direct utilities to notify customers when
+a timeline will not be met or is at risk of not being met. The notification should include the category
+of delay, the reason for the delay, the new expected deadline, and, if applicable, flexible service
+connection options.16
+C. Issue 3.a: How do utilities currently engage with customers that may have pending
+or missed deadlines in their energization project requests? How should utilities
+improve engagement with customers?
+VGIC recommends the Commission direct utilities to ensure customers whose projects will
+be or are currently at risk of experiencing exceptionally lengthy energization timelines are
+provided with alternative options to proceed, including flexible service connections. Allowing for
+these system design changes during the review and overall energization process will be critical to
+16 This requirement is already imposed on all Rule 21 interconnection requests. See D.20-09-035 OP 25.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M347/K953/347953769.PDF
+8
+
+streamlining electrification and grid connection. Customers should also be provided with as much
+information as feasible to design their projects before submitting energization requests, and tools
+like the Integration Capacity Analysis (“ICA”) maps are useful in providing this information.
+If utility assessment of the new or upgraded electrical service request results in an
+exceptionally lengthy timeline, customers should be given the following options to proceed:
+(1) wait for necessary upgrades to be completed, at risk of exceeding the targeted
+energization timelines
+(2) withdraw customer request and re-design site (i.e., they go “back to the drawing board”)
+or forego electrification project altogether
+(3) elect flexible service connection option(s) based on site characteristics
+VGIC recommends that the Commission direct utilities to establish this third option in the Decision
+to be adopted by September 30, 2024 and that the Commission take additional action to implement
+related flexible service connection domains as detailed in Section (II)(a)(v) above.
+D. Issue 6: What specific criteria should the Commission establish as annual reporting
+requirements for the electrical corporations pursuant to Pub. Util. Code Section
+933.5(a)(2)?
+As detailed above in response to Issue 1.f., VGIC recommends the Commission establish
+clear, robust energization project timeline reporting.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Scoping Memo. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+9
+
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: May 3, 2024
+10

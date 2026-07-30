@@ -1,0 +1,199 @@
+VGIC Responses to CPUC Comments on VGI WG Workshop #5 Policy Recommendations
+March 2020
+1.10 Create an "EV fleet" commercial rate. Allows C&I customers to switch from a monthly
+demand charge to a more dynamic rate structure (e.g. average daily demand, dynamic TOU)
+CPUC Comment: would average daily demand facilitate VGI? I can see the benefit for EV
+adoption in general and it would be helpful to explain how moderating the impact of
+demand charges would facilitate VGI
+VGIC Response:
+An average daily demand could facilitate VGI depending on how the demand charge is
+structured. VGIC envisions a demand charge that would be more dynamic than the typical
+approach of using the monthly peak interval as the billing determinant. This alternative would
+instead base monthly billing demand on the average of the peak intervals for each day within
+the month. This would provide a price signal that better rewards customers who can monitor
+and respond to their EV charging load on a daily basis. This contrasts with a traditional demand
+charge, where there is little incentive to manage charging for the remainder of the month once
+a peak demand threshold is reached.
+The charts below illustrate a simple example of this concept (in this case for a residential
+customer). In this example, the monthly maximum demand is 2.9 kW, while the average of each
+day’s demand across all 30 days of the month is 1.8 kW. The same concept could be applied to
+a commercial customer.
+This concept could be further extended such that the daily demand is computed only for
+demand coinciding with a peak-time window.
+VGIC | 2150 Allston Way, Suite 400, Berkeley, CA 94704 | 510.665.7811 | www.vgicouncil.org
+Page 1 of 6
+
+1.11 If dynamic rate is unavailable, increase the differential between standard and EV TOU
+Off-peak Charging rate (delivery portion)
+VGIC Response:
+Below is a compilation of the differential between key rate components among CA IOUs as an
+indication of the potential customer benefit from off-peak charging. Not all of these rates are
+yet in effect. Notably, there is a wide range of rate differentials among the IOU EV rate
+offerings. While VGIC has no specific recommendation at this time, we believe this can help
+inform future decisions regarding EV rate design. Note that most PG&E rates include a
+subscription charge, and SCE rates include a demand charge holiday that will phase out in the
+2024 timeframe.
+Rate On-Peak Off-Peak Differential
+PG&E EV-A, summer $0.54121 $0.14232 $0.39889
+PG&E EV-A, winter $0.37957 $0.14567 $0.23390
+PG&E EV-B, summer $0.53525 $0.14189 $0.39336
+PG&E EV-B, summer $0.37322 $0.14521 $0.22801
+PG&E EV2-A, summer $0.48179 $0.16928 $0.31251
+PG&E EV2-A, winter $0.35468 $0.16928 $0.18540
+PG&E BEV-1 $0.32858 $0.10991 $0.21867
+PG&E BEV-2 S $0.34490 $0.10840 $0.23650
+PG&E BEV-2 P $0.33694 $0.10540 $0.23154
+SCE TOU-D Option Prime, summer $0.39314 $0.13577 $0.25737
+SCE TOU-D Option Prime, winter $0.35943 $0.12932 $0.23011
+SCE TOU-EV-7, summer $0.41056 $0.14839 $0.26217
+SCE TOU-EV-7, winter $0.31791 $0.08496 $0.23295
+SCE TOU-EV-8, summer $0.49738 $0.12710 $0.37028
+SCE TOU-EV-8, winter $0.29831 $0.07865 $0.21966
+SCE TOU-EV-9 (<2kV), summer $0.44227 $0.10703 $0.33524
+SCE TOU-EV-9 (<2kV), winter $0.25703 $0.06890 $0.18813
+SCE TOU-EV-9 (2-50kV), summer $0.40891 $0.09854 $0.31037
+SCE TOU-EV-9 (2-50kV), winter $0.23603 $0.06493 $0.17110
+SCE TOU-EV-9 (>50kV), summer $0.30422 $0.07972 $0.22450
+SCE TOU-EV-9 (>50kV), winter $0.15389 $0.05749 $0.09640
+SDG&E EV-TOU, summer $0.55279 $0.19319 $0.35960
+SDG&E EV-TOU, winter $0.30540 $0.19392 $0.11148
+SDG&E EV-TOU-2, summer $0.55279 $0.19319 $0.35960
+SDG&E EV-TOU-2, winter $0.30540 $0.19392 $0.11148
+SDG&E EV-TOU-5, summer $0.50411 $0.08558 $0.41853
+VGIC | 2150 Allston Way, Suite 400, Berkeley, CA 94704 | 510.665.7811 | www.vgicouncil.org
+Page 2 of 6
+
+SDG&E EV-TOU-5, winter $0.25672 $0.08631 $0.17041
+1..16 NEM credit for V2G exports
+CPUC Comment: combine with "credit for export" item above
+1.14 Credit for export for V2G/storage
+CPUC Comment: would the preference be direct credit on the customer bill or something
+more like an environmental commodity that could be aggregated and the customer
+receives repayment for their contribution to the overall aggregate?
+VGIC Response:
+The V2G NEM rate would expand the definition of Eligible Customer-Generator under the
+current NEM tariff options to include customers that own and operate EVs. The intent would be
+to effectively provide a bill credit to EV owners (at the full retail rate) for any exported energy
+discharged to the grid from EVs. To limit concerns about any potential cross-subsidies, this
+could be constrained, for instance, to exports occurring during peak hours (e.g. coincident
+system peak, or non-coincident class peak).
+In addition to the retail bill credit, a supplemental credit could be considered for the
+environmental commodity component. This could be linked to the marginal emissions rate at
+the time of export (e.g. using WattTime) multiplied by a selected environmental commodity
+price or societal value.
+2.12 Create an EV Dealership VGI upfront incentive program whereby utilities can reward
+dealers for installing or enabling VGI functionality at point of sale. Examples could range from
+simple to complex:
+--Charge timer setting + EV TOU sign up (simple)
+--Service reminder for future charge timer period adjustments (less simple)
+--Real-time charging settings, with $/MWh thresholds (more advanced)
+--Voltage control (even more advanced, enhanced by V2G)
+--Discounted/rebated home L2 chargers if preprogrammed for defined VGI services (could be
+cofunded by utility & third party EVSP providers)
+CPUC Comment: can you explain what didn't work so well in the past; and what could be
+improved based on this recommendation?
+VGIC Response:
+VGIC | 2150 Allston Way, Suite 400, Berkeley, CA 94704 | 510.665.7811 | www.vgicouncil.org
+Page 3 of 6
+
+Through discussion with members, VGIC has heard anecdotally that attempts to provide
+dealership incentives for TOU rate enrollment have been attempted by California IOUs (e.g.
+SDG&E) but the results of these efforts have been somewhat mixed. VGIC does not have
+significant insight into how extensive these efforts have been or why they have been
+unsuccessful but believes they warrant further investigation.
+Regardless of previous efforts, VGIC believes that if broad-scale VGI efforts are to be achieved,
+there is a critical need to encourage VGI functionality at the EV point-of-sale. It will likely be
+much more difficult and expensive to enable VGI functionality “after the fact” once EV adoption
+has already occurred. Additionally, this type of incentive should send a clear market signal to EV
+manufacturers and service providers that the power sector sees significant potential value in
+the ability for EVs with VGI functionality to deliver grid benefits. As monopoly utility providers,
+IOUs may not have a sufficiently strong incentive to pursue these grid benefits absent
+additional direction from the PUC.
+As such, there is a need to ensure that EV adoption occurring in the near term can be leveraged
+for VGI functionality well into the future. Providing an incentive at the point of sale could be an
+effective way to do this. This is analogous to the approach taken by IOUs towards energy
+efficiency. For example, when customers are shopping for a new home appliance (e.g.
+washer/dryer) utility incentives can play a critical role in buying down the costs for more “grid
+friendly” devices. This “co-investment” model should extend towards EVs as well.
+2.14 Create an EV Demand Response (System RA) Portfolio of Programs:
+1. “Rush hour rewards”-style peak time rebate incentive program for EV owners/fleets/EVSPs
+who respond to utility signal to limit charging during critical peak periods;
+2. DRAM-style procurement for capacity
+3. Critical Peak Pricing (reduced rate except during critical peak periods)
+4. Public Charging incentive/payment – customers provided a payment (or future free
+charging session) for agreeing not to charge during critical peak periods
+CPUC Comment: can you elaborate and what programs don’t exist and should be
+created; and what programs exist and should be revised for these options? i.e. DRAM
+procurments for the later
+VGIC Response:
+To VGIC’s knowledge, there does not exist a robust set of utility programs focused on EV
+charging similar to what has been pursued for smart thermostats, such as the “Rush Hour
+Rewards” partnership between Nest and several IOUs (e.g. SCE). A similar suite of programs
+could be envisioned for EV charging. The whitepaper below provides some background
+VGIC | 2150 Allston Way, Suite 400, Berkeley, CA 94704 | 510.665.7811 | www.vgicouncil.org
+Page 4 of 6
+
+information on approaches to utility thermostat programs that could be leveraged for
+developing similar approaches to EVs.
+https://www.peakload.org/assets/Groupsdocs/PractitionerPerspectives-UtilityBYOTPrograms-
+022818-Final.pdf
+2.15 Public charger ancillary services program:
+--Provide a performance-based incentive for building owners, or EVSP providers, who recruit
+a certain fraction of EV drivers to opt in to allowing their EV to temporarily provide grid
+services (e.g. regulation) while parked.
+--Long-term contract through procurement
+2.16 Non-wires alternative competitive procurement issued (RFO) targeted to EVs/EVSPs that
+can limit demand during peak times
+CPUC Comment: as part of an existing procurement? If so, what would need to change? Or
+a new type of procurement process, and if so do you have suggestions on how to structure?
+VGIC Response:
+While some participation might be able to occur under existing types of RFO structures, there
+are steps that could be taken to enhance participation for VGI solutions. For example, EV-
+related demand management could be specifically identified as a “preferred resource” that
+could receive preferential treatment in future RFOs. Additionally, utilities could specify a MW
+quantity of VGI solutions they are seeking in future solicitations. While this may not be ideal in
+all future RFO’s from a technology neutrality standpoint, it may be warranted in the near term
+to aid market transformation of VGI technologies.
+5.2 Pilot funding for V2H backup power solutions;
+Provide funding to test installation of gateway switches (or other solutions) for V2H backup
+at EV-owner homes in vulnerable communities
+5.3 Pilot funding for V2G backup power solutions; Provide funding to test an EV-powered
+microgrid at community centers in vulnerable communities
+CPUC Comment: nice to see numeric goals - any general target for overall MW capacity? or
+diversity to gain a broader range of experience?
+VGIC | 2150 Allston Way, Suite 400, Berkeley, CA 94704 | 510.665.7811 | www.vgicouncil.org
+Page 5 of 6
+
+VGIC Response:
+Assuming 10 kW per EVSE, and 30 LD vehicles per microgrid, that equates to 300 kW total or
+about 3 MW for 10 microgrids. Alternatively, if the grid was powered by school buses with 60
+kW EVSEs then that equates to 18 MW. If a combination of these, then approximately 10 MW
+of EV microgrids seems appropriate as a near-term statewide target.
+6.8 Establish cost-benefit evaluation framework for specific VGI programs/measures that are
+ratepayer funded. This should be considered in the larger context of TE programs as a whole
+(rather than evaluating individual VGI measures in isolation).
+CPUC Comment: I think that this overlaps at least in part with a recommendation from
+Karim Farhat
+Do you have suggestions on what metrics would be used to determine cost/benefit and/or
+information sources to determine C/B?
+VGIC response:
+For benefits, traditional metrics such as those used by the CPUC’s Avoided Cost Calculator could
+be considered (e.g. avoided energy costs, avoided capacity, avoided emissions, etc). VGIC
+strongly encourages consideration of the ratepayer impact measure (RIM, including
+incremental utility revenues) in this evaluation to capture the full potential for VGI to enhance
+downward pressure on rates from EVs (see VGIC writeup on this submitted as part of Subgroup
+B).
+Additionally, for cost metrics, only the incremental costs of VGI measures should be considered
+(which may be minimal in some cases since most costs are already embedded in the EV itself).
+VGIC recognizes that providing incremental cost data raises significant concerns among EV
+OEMs due to antitrust laws as well as the potential to inadvertently disclose competitively
+confidential information. This presents a novel challenge that is not typically present with
+traditional demand-side resources. VGIC has had some initial discussions with its members
+about the possibility of creating an anonymized, confidential VGI measure cost database that
+could be used for further analysis. VGIC would be interested in further exploration of this
+concept if it is of interest to the PUC staff.
+9.7 Utilities develop coordinated marketing and education budgets to inform EV customers of
+dynamic rate options and VGI program opportunities through their TE plans. MEO for VGI
+ramps up in tandem with overall TE efforts
+VGIC | 2150 Allston Way, Suite 400, Berkeley, CA 94704 | 510.665.7811 | www.vgicouncil.org
+Page 6 of 6

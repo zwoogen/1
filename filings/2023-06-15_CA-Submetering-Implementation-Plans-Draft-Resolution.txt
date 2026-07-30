@@ -1,0 +1,217 @@
+June 15, 2023
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Comments of the Vehicle Grid Integration Council to Resolution E-5274:
+Approval, with Modifications, of Pacific Gas and Electric Company’s,
+Southern California Edison Company’s, and San Diego Gas & Electric
+Company’s proposed Plug-In Electric Vehicle Submetering Implementation
+Plan.
+Dear Sir or Madam:
+Pursuant to General Order 96-B and the Comment Letter accompanying Draft Resolution
+E-5274 (“Draft Resolution”), the Vehicle Grid Integration Council (“VGIC”)1 respectfully
+comments on the proposed approval of Pacific Gas & Electric Company’s (“PG&E”) Advice Letter
+(“AL”) 6778-E, Southern California Edison Company’s (“SCE”) AL 4913-E, and San Diego Gas
+& Electric Company’s (“SDG&E”) AL 4114-E submitted on December 5, 2022.
+The Draft Resolution adopts several important elements of the investor owned utilities’
+(“IOUs”) proposed Plug-In Electric Vehicle (“PEV”) submetering implementation plans pursuant
+to Ordering Paragraph (“OP”) 3 of Decision (“D.”) 22-08-024. The proposed submetering
+implementation plans include roles and responsibilities for the IOUs, Meter Data Management
+Agents (“MDMA”), electric vehicle service providers (“EVSP”), and customers, including PEV
+submetering data transfer, processing, and dispute resolution. The Draft Resolution approves most
+of the IOUs’ proposed submetering implementation plans but makes the following modifications:
+• PG&E and SCE must eliminate 500-customer cap on PEV submetering enrollment
+during the interim manual billing phase of submetering implementation
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, bp pulse,
+Customized Energy Solutions, dcbel, Enel X North America, Inc., Enphase, Fermata Energy, FlexCharging, FLO EV
+Charging, Ford Motor Company, FreeWire Technologies, Inc., General Motors, GridWiz, Hoosier Energy, Innovation
+Core SEI, IoTecha, Kaluza, Kitu Systems, Ninedot Energy, Nissan Group of North America, Nuvve Holding
+Corporation, Peak Power, Qcells, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, The Mobility House,
+Toyota Motor North America, Inc., Utilidata, Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views
+expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC
+member companies or supporters. (https://www.vgicouncil.org/)
+
+June 15, 2023
+Page 2 of 2
+• SCE must immediately begin system updates to enable automated submetering
+processing, rather than waiting until there is “sufficient customer demand”
+• IOUs should require monthly data transfers from MDMAs, rather than daily data
+transfers
+• PG&E and SDG&E should ensure tariff language is updated for additional EV rates
+not proposed in the ALs
+D.22-08-024, the subsequent submetering implementation plan ALs, and the Draft
+Resolution, taken together, represent a critical foundation for the future of electric vehicle (“EV”)
+charging load management in California. In particular, VGIC strongly supports the broad
+eligibility supported by D.22-08-024, including single customers of record (“SCOR”) and multiple
+customers of record (“MCOR”), residential and non-residential customers, unidirectional and
+bidirectional charging equipment, and embedded and external submeters. This broad eligibility is
+reaffirmed in the Draft Resolution, which clarifies: “The only limitations the decision places on
+PEV submetering participation are on simultaneous PEV submetering and NEM participation,
+which was delayed until legal and technical issues can be resolved.”2 This will support residential
+customer enrollment in compelling EV-specific rates previously limited to separately-metered
+customers, priority non-exporting bidirectional charging use cases that depend on co-located (i.e.,
+Vehicle-to-Home [“V2H”] and Vehicle-to-Building [“V2B”] backup power and customer bill
+management), and other use cases that depend on submetering capabilities. Thus, in modifying the
+ALs to uphold California’s commitment to comprehensively implementing the EV supply
+equipment (“EVSE”) submetering protocol, the Draft Resolution is a symbol of significant
+progress toward widespread vehicle-grid integration (“VGI”) operations. Moreover, the EVSE
+submetering protocol represents an encouraging reflection of the close collaboration between
+subject matter experts at the Commission, IOUs, and industry stakeholders that has taken place
+over the past decade, which has culminated here in a momentous outcome that supports
+California’s broader transportation electrification goals. VGIC is pleased to see that the
+submetering implementation plans (including the critical components that have been reaffirmed
+and modified by the Draft Resolution) are consistent with the needs of customers and broader VGI
+market development.
+VGIC is therefore largely supportive of the Draft Resolution. However, we do have minor
+concerns related to the Draft Resolution’s direction for PG&E and SDG&E to update tariff
+language for certain EV rates. We also have recommendations related to outstanding
+implementation issues. These are summarized below and discussed in these comments:
+• PG&E should incorporate any tariff language needed to implement submetering
+protocol into the Day-Ahead Hourly Real Time Price (“DAHRTP-CEV RTP”) from the
+outset, rather than through a separate Tier 2 Advice Letter filing before or after
+DAHRTP-CEV RTP is offered to customers.
+2 Draft Resolution at 19.
+
+June 15, 2023
+Page 3 of 2
+• Based on recent developments in Application (“A.”) 21-12-006/008, SDG&E should
+add TOU-A and AL-TOU to the list of tariffs that will be modified to incorporate
+language directed in D.22-08-024.
+• Additional recommendations related to submetering implementation, including:
+o Process to add tariff language to additional rates
+o Future clarifications to EVSE submetering protocol related to external
+submeters
+I. DISCUSSION
+a. PG&E should incorporate any tariff language needed to implement
+submetering protocol into the Day-Ahead Hourly Real Time Price
+(“DAHRTP-CEV RTP”) from the outset, rather than through a separate Tier
+2 Advice Letter filing before or after DAHRTP-CEV RTP is offered to
+customers.
+The Draft Resolution discussion directs PG&E to “file a Tier 2 AL consistent with the tariff
+language ordered in D.22-08-024, within 30 days of offering customers enrollment within the
+DAHRTP rate” [emphasis added].3 This is internally inconsistent with OP 9 of the Draft
+Resolution, which states “Prior to offering customers the option to enroll in DAHRTP-CEV
+RTP, PG&E must file a Tier 2 AL to modify the tariff language to be consistent with the EV tariff
+language ordered in D.22-08-024” [emphasis added].4
+According to D.22-08-002 and D.22-10-024, PG&E’s DAHRTP-CEV RTP rate is slated to
+be offered to customers by October 1, 2023. To VGIC’s knowledge, PG&E has not yet filed any
+AL containing tariff language for the DAHRTP-CEV RTP rate, as of June 15, 2023. Therefore,
+VGIC recommends the Final Resolution direct PG&E to incorporate EV tariff language ordered
+in D.22-08-024 into the DAHRTP-CEV RTP tariff from the outset, i.e., the initial filing of the
+DAHRTP-CEV RTP tariff language, rather than through a separate Tier 2 AL.
+However, if the Commission directs PG&E to incorporate the EV submetering language
+ordered in D.22-08-024 into DAHRTP-CEV RTP via a Tier 2 AL, VGIC recommends this Tier 2
+AL be filed before customers are given the option to enroll in DAHRTP-CEV RTP. The Discussion
+language in the Final Resolution should, therefore, be modified to align with the direction of OP
+9, i.e. to file the Tier 2 AL before enrollment begins rather than 30 days after rate enrollment. VGIC
+is concerned that opening DAHRTP-CEV RTP customer enrollment and then filing updated tariff
+3 Draft Resolution at 21.
+4 Draft Resolution at 25.
+
+June 15, 2023
+Page 4 of 2
+language within 30 days will create confusion for customers and EVSP/MDMAs looking to work
+with customers to enable submetering for participation in the DAHRTP-CEV RTP rate.
+b. Based on recent developments in Application (“A.”) 21-12-006/008, SDG&E
+should add TOU-A and AL-TOU to the list of tariffs that will be modified to
+incorporate language directed in D.22-08-024.
+Unlike PG&E and SCE’s ALs, SDG&E’s AL does not include proposed tariff changes in
+the form of redline tariff sheets modifications. However, SDG&E does detail “additional rules and
+schedules that may be impacted by the outcome of SDG&E’s Implementation Plan including
+changes to SDG&E Rule 16, 19, 45 and Schedules EV-TOU, TOU-M, and EV-HP.”5 Meanwhile,
+the Draft Resolution, in response to VGIC’s AL Response, directs SDG&E to update EV-TOU-5
+to be consistent with the language directed in D.22-08-024. VGIC supports the addition of EV-
+TOU-5 to the list of EV-TOU, TOU-M, and EV-HP, as it aligns with the intent of D.22-08-024 to
+not exclude any customers from submetering eligibility except for those also enrolled in a NEM
+tariff.
+Meanwhile, SDG&E’s proposed Real-Time Pricing (“RTP”) Pilot and Export
+Compensation Rate Pilot (collectively, “Dynamic Rate Pilots”), is being considered in A.21-12-
+006. On June 9, SDG&E and seven other parties in A.21-12-006 filed a Joint Motion of SDG&E
+et al. for Adoption of Settlement Agreement on A.21-12-008 Regarding Export Compensation Rate
+Pilot, which requests that the Commission adopt eligibility for the export compensation rate that
+includes schedules EV-HP, AL-TOU, and TOU-A.6 Presumably, the settling parties chose to
+include AL-TOU and TOU-A because some meaningful percentage of customers taking service
+under these rates have EV charging load. Moreover, D.22-08-024 explicitly clarifies that the
+submetering protocol extends to bidirectional chargers.7 SDG&E’s proposed Export
+Compensation Rate Pilot, if approved, will be the first and only export rate available to SDG&E
+customers. With this in mind, VGIC believes it is likely that customers on AL-TOU and TOU-A
+will be interested in participating in the proposed Export Compensation Rate Pilot.
+The Final Resolution should, therefore, direct SDG&E to file a Tier 2 Advice Letter to
+make the necessary revisions to EV-TOU-5, as directed in the Draft Resolution, EV-TOU, TOU-
+M, and EV-HP as requested in SDG&E AL 4114-E, and AL-TOU and TOU-A due to their proposed
+inclusion in the Export Compensation Rate Pilot.
+c. Additional recommendations related to submetering implementation,
+including:
+5 AL 4114-E at 4.
+6 A.21-12-006 & A.21-12-008, Joint Motion Of San Diego Gas & Electric Company, The Public Advocates
+Office, The Utility Consumers’ Action Network, Small Business Utility Advocates, The Utility Reform
+Network, Alliance For Retail Energy Markets, Direct Access Customer Coalition, Electrify America, LLC,
+And The Federal Executive Agencies For Adoption Of Settlement Agreement On Application 21-12-008
+Regarding Export Compensation Rate Pilot, filed June 9, 2023, pg. 11.
+7 D.22-08-024 at 34.
+
+June 15, 2023
+Page 5 of 2
+i. Process to add tariff language to additional rates.
+A majority of VGIC’s feedback in its AL Response and these comments center on the
+inclusion of certain rate schedules. VGIC notes there may be customers on rates not yet discussed
+in the submetering implementation AL process, representing use cases that may not yet be clear to
+stakeholders, that wish to take service under a rate using their authorized submetering equipment.
+In addition, SCE’s 2025 GRC was recently filed, and the Commission and Energy Division staff
+are working with stakeholders to establish new dynamic rate offerings under the CalFUSE
+framework in R.22-07-005. It is likely that additional EV or non-technology-specific rate
+schedules will emerge that EV charging customers may want to enroll in via submetering. VGIC
+believes the language in D.22-08-024 unambiguously directs the IOUs to incorporate the D.22-08-
+024 tariff language needed to enable submetering into all future tariffs.
+However, the process to initiate modifications to other existing rate schedules to enable
+submetering remains unclear. With this in mind, VGIC recommends the Commission issue
+guidance outlining an ongoing process for customers, MDMAs, EVSPs, or other parties to request
+the IOUs incorporate the D.22-08-024 tariff language into additional rates. VGIC notes that the
+annual VGI Forum established by D.22-11-040 provides an informal venue to discuss barriers to
+VGI, which could include rate revisions to enable submetering on additional rate schedules. If the
+Commission deems the VGI Forum as the appropriate venue for customers, MDMAs, EVSPs, or
+other parties to recommend utilities modify tariff language to incorporate the language in D.22-
+08-024, VGIC recommends the Commission consider how to ensure accountability for these
+utilities such that these tariff revisions are made in a timely fashion.
+ii. Future clarifications to EVSE submetering protocol related to external
+submeters.
+D.22-08-024 details the Commission’s intent and stated determination to limit ownership
+of EVSE submetering equipment to align with ownership of the EVSE. While the language used
+in D.22-08-024 is unambiguous, the precise wording in PEV Submetering Protocol attached to
+D.22-08-024 may cause confusion on this matter.
+The PEV Submetering Protocol attached to D.22-08-024 contains guidance related to both
+utility-owned and non-utility-owned submeters. The guidance for utility-owned submeters appears
+to re-affirm existing requirements for utility-owned submeters, which were permitted before D.22-
+08-024, whereas the guidance for non-utility-owned submeters adopts a new protocol. This new
+protocol details the process for using WiFi or cellular networks, as well as the 1% lab/2% field
+accuracy standard, which is all new and specific to non-utility-owned submeters. The attached
+protocol therefore establishes new rules for non-utility-owned submeters and merely reaffirms the
+existing structure for utility-owned submeters. However, VGIC has received feedback from
+industry participants, including prospective MDMAs and EVSPs, that the language in the attached
+submetering protocol is unclear. VGIC respectfully requests that any future revision of the
+submetering protocol also be used as an opportunity to clarify and re-affirm the direction of D.22-
+08-024. While the provisions related to utility ownership of submetering equipment is implicitly
+clear for embedded submetering equipment (where utility ownership is infeasible), there is a need
+
+June 15, 2023
+Page 6 of 2
+for clarification for those looking to offer external submetering equipment, for example at Direct
+Current Fast Charging (“DCFC”) sites or at the point of interconnection.
+We respectfully request that the commission clarify that utility-owned external submetering
+equipment behind the meter (e.g., external submetering equipment at DCFC sites) would be
+prohibited but that utility-owned external submetering equipment at the point of interconnection
+would be eligible under the submetering protocol.
+II. CONCLUSION
+VGIC strongly recommends that the Commission adopt the Draft Resolution, modified per
+VGIC’s above recommendations, during its June 29th voting meeting. VGIC appreciates the
+opportunity to submit these comments to the Draft Resolution and looks forward to future
+collaboration with the Commission and IOUs on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+Vehicle Grid Integration Council
+cc: Michael Truax, Energy Division (Michael.Truax@cpuc.ca.gov)
+Paula Gruendling, Energy Division (Paula.Gruendling@cpuc.ca.gov)
+Service lists R.18-12-006

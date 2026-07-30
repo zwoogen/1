@@ -1,0 +1,154 @@
+Initial Comments of the Vehicle-Grid Integration Council
+On Electric Vehicle Charging Programs
+IR 22-076
+March 21, 2023
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) nonprofit trade association focused
+on accelerating the role of smart EV charging and discharging (collectively, vehicle-grid
+integration or “VGI”) through policy development, education, outreach, and research. Scaling VGI
+is an essential part of transportation electrification and will help accomplish the following key
+policy goals:
+ Benefit drivers and fleet owners by reducing the cost of ownership.
+ Decarbonize the transportation sector by accelerating EV adoption.
+ Support decarbonization of the power sector by providing essential grid services as
+renewable energy and distributed energy resource penetration increases.
+ Increase affordability by reducing electricity bills for all customers.
+ Improve community resiliency and security during planned and unplanned grid outages.
+ Foster economic activity through innovation, competition, and market transformation.
+With the proper policy and regulatory support and coordination, these goals can be achieved,
+and EV drivers and fleets in New Hampshire can play a critical role in the acceleration of both
+transportation electrification and grid decarbonization. Our vision for VGI encompasses the
+following key elements:
+ Ensure customer mobility needs are satisfied. Drivers and fleets can participate in
+various VGI services without compromising their mobility needs.
+ Managed charging will benefit EV drivers and fleet operators: Drivers and fleets will
+be given the opportunity to align charging with the times of day when electricity prices are
+low, reducing operating costs by as much as 50% compared to unmanaged charging.
+Lowering the total ownership cost will accelerate overall EV adoption by drivers and fleet
+managers and, in turn, sector-wide decarbonization.
+ EVs offer community resilience benefits by providing emissions-free emergency
+power during blackouts: During blackouts caused by extreme weather or other power
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, bp pulse,
+Customized Energy Solutions, dcbel, Enel X North America, Inc., ENGIE NA, Enphase, Fermata Energy,
+FlexCharging, FLO EV Charging, Ford Motor Company, FreeWire Technologies, Inc., General Motors, GridWiz,
+Hoosier Energy, Innovation Core SEI, IoTecha, Kaluza, Kitu Systems, Ninedot Energy, Nissan Group of North
+America, Nuvve Holding Corporation, Peak Power, Sacramento Municipal Utility District, Stellantis N.V., Sunrun,
+The Mobility House, Toyota Motor North America, Inc., Utilidata, Veloce Energy, Inc., Wallbox USA Inc., and
+WeaveGrid. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of
+all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+Page 1 of 4
+
+outages, EVs can utilize bidirectional charging capabilities to send energy to a building or
+home (i.e., vehicle-to-building or V2B), serving as a generator and providing safe backup
+power for households and essential community services.
+ Charging infrastructure dollars go further: Smarter management of EV charging will
+help minimize investments in utility infrastructure to support economy-wide
+electrification, which reduces the overall cost burden on all electric utility customers, and
+avoids significant delays associated with upgrading distribution system infrastructure.
+ EVs provide valuable reliability services to the grid and get paid for it: Unidirectional
+managed charging (“V1G”) can provide demand response services and bidirectional
+vehicle-to-grid (“V2G”) charging can enable EVs to feed power back to the grid to provide
+peak shaving and other grid services. Providing these services can unlock new revenue
+streams for EVs, lowering the total cost of ownership.
+VGIC appreciates the opportunity to submit these opening comments on EV charging programs in
+IR 22-076. While IR 22-076 proceeding includes a generally broad scope related to EV charging
+and demand response programs, advancing VGI would help deliver additional benefits to EV
+owners and the grid in New Hampshire, as discussed above. As an initial matter, given the
+importance and potential benefits of VGI, VGIC recommends that the Commission identify
+advancing VGI as an explicit goal for investor-owned utilities. VGIC also provides the following
+specific suggestions to help achieve this goal:
+1. Transportation electrification investments made through EV charging programs
+should incentivize VGI capabilities where and when it makes sense. VGI stands to offer
+substantial public benefits as EV deployment scales up. However, for these benefits to be
+fully realized, it is critical that VGI capabilities be considered and prioritized in EV
+charging programs, rather than after-the-fact. VGIC recommends that the Commission
+encourage VGI capabilities in EV charging programs where and when it makes sense for
+customers. For example, there may be significant opportunities to incorporate VGI
+capabilities at Level 1 and Level 2 charging locations with long dwell times as well as
+DCFC sites serving fleets. One overarching strategy to support VGI is ensuring customers
+can enroll and participate in EV charging programs using their networked charger or
+vehicle (i.e., leveraging on-board telematics). Leveraging both capabilities yields greater
+benefits in terms of customer choice and total load flexibility.
+Additionally, export compensation options should be made available for customers using
+V2X bidirectional charging infrastructure or EV chargers paired with energy storage. As
+referenced above, V2X bidirectional charging systems can support grid reliability and
+community resilience. Today, V2X bidirectional charging systems use V2X-Direct Current
+configurations, meaning that a bidirectional inverter situated within a DC charger is used
+to enable V2X bidirectional power flow. As a result, these systems and the associated
+electrical equipment are more expensive than unidirectional charging equipment.
+Page 2 of 4
+
+Therefore, in addition to the ongoing compensation mechanisms needed to promote
+beneficial grid behavior, VGIC recommends EV charging programs consider pathways to
+offset the upfront incremental costs of enabling V2X bidirectional power flow.
+2. EV charging programs should include both rates and programs that encourage VGI.
+In order to unlock EV load flexibility (including both managed charging and V2X
+discharging), utilities must offer rates and programs that incentivize EV customers to shift
+charging to low-cost periods and export power to buildings or the grid during peak periods.
+This can be accomplished through time-of-use rates, dynamic (i.e., real-time) pricing,
+demand response, V2G export credits, and other approaches. To maximize participation,
+each utility should have a suite of offerings to accommodate the wide range of EV customer
+types and use cases. Notably, V2G can serve as a core strategy for school bus
+electrification, as electric school buses are uniquely positioned to serve as a reliability and
+resiliency resource using commercially available bidirectional vehicles and EVSE, while
+also unlocking additional revenues for school districts.
+3. Utilities should prepare for the coming wave of commercially-available VGI offerings
+by educating fleets, homeowners, workplaces, and other customer groups. The
+anticipated rapid deployment of electrified transportation across the US requires
+considerable outreach and education to minimize infrastructure costs and maximize
+benefits to all ratepayers. In particular, education and outreach to fleets is critically needed
+to inform fleet managers of the potential value of fleet electrification. For many fleets,
+converting to electrified transportation is a significant undertaking that lies outside of their
+existing expertise. Given the potential complexity of VGI, more policy support is needed
+to direct funding toward educating fleets – as well as other customer types – not only of
+the benefits of electrification in general, but the enhanced value proposition that VGI
+technologies can offer. These value propositions include new potential revenue streams
+from grid services, reduced charging infrastructure costs, reduced charging energy costs,
+new bill management options, and enhanced resilience of critical facilities. The marketing,
+education, and outreach activities implemented under EV charging programs should ensure
+fleets and other customer groups understand the opportunities and challenges of
+electrification, as well as their choices for implementing VGI strategies from the outset.
+4. VGIC supports making charging infrastructure as widely accessible as possible and
+ensuring quick energization timelines for unidirectional chargers and expedited
+interconnection procedures with better alignment to V2X capabilities for
+bidirectional chargers. One promising solution towards this goal is to allow and
+incentivize Automated Load Management (ALM) in public buildings, charging
+depots for commercial vehicles and fleets, and other publicly accessible and/or shared
+charging infrastructure that may benefit underserved and disadvantaged
+communities. Many low-income and disadvantaged communities are served by outdated
+utility infrastructure (substations, transformers) that may require significant and costly
+Page 3 of 4
+
+upgrades to be able to accommodate EV charging load and/or V2G exports. The use of
+ALM can help mitigate these infrastructure upgrade costs by reducing the collective peak
+load at one site, therefore making charging infrastructure more affordable for
+disadvantaged communities. ALM is a VGI solution that is particularly well-suited for
+multi-charger sites such as publicly accessible commercial buildings, shared fleet charging,
+workplace charging, multi-unit dwellings and other non-single family home sites, where
+low-income customers may be more likely to charge.
+Specifically, ALM refers to the use of either 1) software-based approaches that share
+electrical capacity among EV supply equipment (EVSE), or 2) battery-integrated EVSE or
+co-located energy storage systems, to avoid or defer the need for additional electrical
+capacity and infrastructure on both the utility and customer side of the meter. VGIC
+believes that ALM can stretch charging infrastructure investments and ensure more
+chargers are installed in more places. We recommend EV charging programs promote the
+use of ALM to enable charger deployment at a site that may otherwise be cost-prohibitive
+or space-prohibitive due to potential utility distribution system upgrades. Optional ALM
+solutions should be encouraged and incentivized when they are shown to be comparatively
+cost-efficient versus traditional utility system upgrades. VGIC advises against mandating
+ALM requirements on charging infrastructure, as this may result in inequities by limiting
+charging capability for customers. Instead, VGIC recommends ALM be allowed and
+incentivized (i.e., a “carrot” rather than “stick” approach) for so that deploying ALM
+solutions become a viable option for those that wish to deploy, such as fleet operators.
+VGIC recommends that an optional, technology-neutral ALM incentive be included in EV
+charging infrastructure programs.
+VGIC appreciates the opportunity to submit these initial comments on EV charging programs in
+IR 22-076. We look forward to further collaboration with the PUC and other agencies and
+stakeholders in New Hampshire on this important initiative.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+vgicregulatory@vgicouncil.org
++1 (941) 266-0017
+www.vgicouncil.org
+Page 4 of 4

@@ -1,0 +1,84 @@
+October 23, 2024
+Energy Division
+California Public Utilities Commission
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+RE: Comments of the Vehicle Grid Integration Council on Draft Resolution E-5358
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B and Comment Letter E-5358 circulated
+on October 3, 2024, the Vehicle-Grid Integration Council (“VGIC”) hereby submits these
+comments to Draft Resolution E-5358, which approves Advice Letter 6909-E and Supplemental
+Advice Letter 6909-E-A of Pacific Gas and Electric Company (“PG&E”), Request for Approval
+of PG&E’s Forecast for VGI Dynamic Rate Implementation to be funded by a $2.3 million Budget
+Transfer from the VGI Pilot that was not Approved.
+Overall, VGIC supports the Draft Resolution’s approval of PG&E’s Advice Letters. Phase
+II of PG&E’s Residential and Commercial vehicle-to-everything (“V2X”) Pilots will include a
+vehicle-grid integration (“VGI”) dynamic rate which will provide important insights into how to
+shape electric vehicle (“EV”) load via price signals. The Draft Resolution approves important
+elements to ensure success of the Phase II V2X Pilots: (1.) Approval of the $2.2 million in funding
+to implement the VGI dynamic rate and (2.) Approval of a $20/kW-yr incentive for CCA
+participation in the V2X pilots.
+I. VGIC SUPPORTS THE TRANSFER OF $2.2 MILLION TO THE VGI
+DYNAMIC RATE PILOT.
+VGIC strongly supports the transfer of $2.2 million from PG&E’s unapproved V2X pilot
+to implement the VGI dynamic rate. The Draft Resolution correctly outlines the importance of the
+dynamic rate pilots, noting that encouraging customers to “participate in dynamic rate pilots and
+shift their load in response to prices can enhance total system reliability, which helps all
+ratepayers.”1 PG&E and other utilities in California are conducting other dynamic rate pilots, but
+these pilots are focused on different customer segments and often exclude EV participation. Yet,
+EVs are a major source of new load in California and are only expected to increase in the coming
+years. At the same time, EV charging is poised to be a flexible load, and adding EV load off-peak
+1 Draft Resolution at 11.
+1
+
+can help to drive electric rates down. Therefore, having the V2X Pilots look at dynamic rates
+specifically for EVs will provide valuable insights to the Commission to design broader programs
+to address California’s affordability crisis.
+Approving the transfer of the $2.2 million for the implementation of a VGI dynamic rate
+will help ensure that the Phase II pilots are successful. The transfer will support the pricing engine
+development, shadow billing, ME&O and enrollment, technology integration, internal labor, and
+additional customer incentives. All of these efforts require significant funding and PG&E
+explicitly outlines how the funds will be used to advance the pilots. As outlined by Resolution E-
+5192, the Commission supported having funds from the unapproved PG&E V2X Pilot #4 continue
+to advance the other V2X pilots, and PG&E’s request complies with the Resolution’s directives.
+Therefore, the Draft Resolution correctly approves the budget transfer, which VGIC continues to
+believe will meaningfully increase the scale and level of effort that can be supported in pursuit of
+a successful pilot.
+II. VGIC SUPPORTS THE INCLUSION OF CCA CUSTOMERS IN THE V2X
+PILOTS.
+VGIC supports the Draft Resolution’s approval of the $20/kW-year CCA participation
+incentive payments. Robust CCA participation in the V2X pilots, including the VGI dynamic rate,
+is critical to the success of the pilot, as the Draft Resolution highlights that 70% of PG&E’s
+commercial EV customers are unbundled customers. Facilitating the participation of CCA
+customers in the V2X pilots will support the enrollment targets of 200 commercial customers and
+1,000 residential customers. However, the Draft Resolution notes that “the costs associated with
+various operational workstreams, such as rate design and customer support, would hamper CCAs
+from participating in the pilot.”2 Therefore, offering an additional incentive to encourage CCAs
+to bring customers to the pilots is needed.
+The Commission addresses the need to provide financial incentives to cover costs and
+encourage CCA participation in dynamic rate pilots authorized in D.24-01-032, which approves a
+$20/kW-yr incentive for CCA participation in PG&E’s Expanded Dynamic Rate Pilot 2 and
+Southern California Edison’s Expanded Dynamic Rate Pilot. The Commission notes in D.24-01-
+032 that there is a need to “provide CCAs with an incentive to participate in the pilots to increase
+the potential for reaching the expanded pilots’ enrollment targets.”3 The same rationale applies to
+the V2X pilots, and the establishment of the $20/kW-year incentive, following the precedent of
+D.24-01-032, is appropriate.
+III. CONCLUSION.
+2 Draft Resolution at 10.
+3 D.24-01-032 at 28-29.
+2
+
+VGIC appreciates the opportunity to submit these comments on the Draft Resolution. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION
+COUNCIL
+cc: Meschelle Thatcher, CPUC (Meschelle.Thatcher@cpuc.ca.gov)
+Paula Gruendling, CPUC (Paula.Gruendling@cpuc.ca.gov)
+Sidney Bob Dietz II, PG&E, c/o Megan Lawson (PGETariffs@pge.com)
+Service lists: R.18-12-006, R.23-12-008, R.22-07-005
+3

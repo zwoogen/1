@@ -1,0 +1,447 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING SEEKING COMMENTS REGARDING
+FUTURE GRID STUDY REPORT
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: December 6, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING SEEKING COMMENTS REGARDING
+FUTURE GRID STUDY REPORT
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Seeking Comments Regarding Future
+Grid Study Report (“Ruling”), filed October 17, 2024.
+I. INTRODUCTION.
+VGIC appreciates the opportunity to comment on the Future Grid Study Report (“FGS
+Report” or “Report”). Central to this discussion is the need to modernize California’s grid to
+accommodate increasing distributed energy resources (“DERs”) and electrification demands,
+including for electric vehicles (“EVs”). EVs being added to the California grid is expanding rapidly
+driven to a large degree by rules and programs from the California Air Resources Board (“CARB”)
+with the goal to have all new light-duty vehicles sold being zero emissions by 2035. The growth
+of EV charging load is creating significant challenges for the existing distribution system.
+Furthermore, California is also experiencing an energy affordability crisis, and while much of the
+increase in electric utility rates to date has been driven by wildfire mitigation costs, distribution
+system upgrades are poised to add significant new costs: as high as $50 billion by 2035 as projected
+2
+
+in the Electrification Impacts Study Part 1, filed in this proceeding on May 9, 2023.1 In the
+transition to a high DER future, California should leverage the installed base of customer-sited
+DERs, including EVs to maximize the use of existing and future distribution infrastructure, while
+minimizing upgrades to the extent possible. This will be key to ensuring affordability while also
+meeting the state’s carbon reduction goals.
+The Future Grid Study Report provides an overview of earlier working group discussions
+on the future state of the distribution system with rapidly expanding DER deployments. VGIC
+believes that the Report provides insightful discussions into many different items, but the Report
+appropriately acknowledges that there are many overlapping items in scope for both this report,
+the Smart Inverter Operationalization Working Group (“SIOWG”) Report from Track 3 of this
+instant proceeding, and work being done in other venues, such as the Demand Flexibility
+Proceeding (R.22-07-005). With the broad nature of the topics and overlapping scopes in
+proceedings, VGIC urges the Commission, above all else, to provide clear venues and explicit
+next steps for addressing these recommendations, especially for recommendations related to
+optimizing DER aggregations and enabling flexible load energization.2 In response to the
+report, VGIC provides the following recommendations:
+● A dedicated venue to finalize an effective, scalable flexible load energization framework
+should be initiated immediately.
+1 Administrative Law Judges’ Ruling Setting a Workshop, Admitting Into the Record Part 1 of the Electrification
+Impacts Study and Research Plan, and Seeking Comments. May 9, 2023. Attachment 2.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M508/K423/508423139.PDF
+2 Parties have used various of terms to describe flexible load energization across the instant proceeding and related
+proceedings. Other common terms or phrases that refer to flexible load energization include: Operational Flexibility
+in DER Interconnection Agreements, Limited Load Profiles, flexible service connection, and Type II automated load
+management. Stakeholders have also used flexible load energization to specifically refer to temporary
+implementation before full-scale energization can be achieved, in which case the terms interim service connection,
+bridge service connection, scaled service connection, or phased energization are used. In this set of comments,
+VGIC uses the phrase flexible load energization to remain consistent with the terminology used in the Future Grid
+Study Report.
+3
+
+● The Commission should focus on “open access to the distribution system” – as defined in
+the Report – operational needs as a top priority for CA. VGIC recommends a specific near-
+term focus on the following sub-issues:
+○ Improve opportunities for DERs to avoid/defer infrastructure upgrades, including
+through promoting managed and bidirectional charging programs in addition to
+dynamic rates adopting least-cost infrastructure planning practices.
+○ Improve and simplify interconnection agreements and processes.
+II. RESPONSES TO RULING QUESTIONS.
+1. The FGS Report includes a wide range of stakeholder input and recommendations from three
+public workshops. Please review the report (Attachment 1) to ensure it accurately reflects
+stakeholder input from the workshops. If there are discrepancies, please identify the sections,
+provide specific details and suggested corrections, and identify any inaccuracies, inconsistencies,
+or omissions from the workshop discussion in the sections of the FGS Report. Comments should
+be limited to workshop discussions and proposed recommendations.
+VGIC has no comments on this question at this time but reserves the right to comment at
+a future date.
+2. The FGS Report outlines ten key operational needs, categorized as broad themes, that are
+essential for realizing a High DER future. These needs were identified based on insights and
+discussion from Workshop 1 - Identifying Operational Needs. (Refer to Attachment 1, pages 24-
+29, "Outcome: Operational Needs for a High DER Future" section.) Based on the stakeholder
+survey during workshop facilitation, the FGS Report findings show that the following three
+operational needs are considered high priority with sufficient urgency to justify implementation
+within 1-2 years:
+i. DER Visibility to the Distribution System Operator,
+ii. DER dispatchability/control, and
+iii. Open access to the distribution system
+a) Do you agree that the above operational needs are the highest priority and need to be
+implemented within 1-2 years? If so, why?
+Sub-issues within “Open Access to the Distribution System” should be prioritized to meet
+transportation electrification needs while minimizing infrastructure upgrades. Widespread
+flexible load energization and managed and bidirectional charging programs should be
+4
+
+important priorities for the Commission for implementation in the next 1-2 years.
+VGIC agrees that “Open Access to the Distribution System” should place among the
+highest priority operational needs, but we encourage the Commission to focus on particular
+distribution optimization items, especially around transportation electrification, to unlock
+ratepayer benefits in the near term. In the Report, the term “Open Access to the Distribution
+System” encompasses a wide range of DER integration issues and DER distribution services,
+including: simplifying interconnection, providing pathways for DERs to reduce distribution
+investments, integrating DERs into distribution planning, and creating transactive distribution-
+level markets. This is a very broad definition and VGIC would recommend further breaking down
+this issue area for implementation and further prioritization of sub-issues.
+One of the sub-issues outlined by the Report is to “Meet expected demand for
+transportation electrification while minimizing infrastructure upgrades.”3 VGIC believes that
+ensuring that EVs are integrated into the grid in the way that most cost-effectively utilizes our
+distribution network is one of the most important goals for the California EV transition and this
+Commission specifically, as it will critically alleviate the state’s compounding affordability crisis.
+In order to achieve this goal, VGIC recommends focusing on the following “Open Access to the
+Distribution System” sub-items included in the report as the highest priority for implementation in
+the next 1-2 years:4
+● Improve opportunities for DERs to avoid/defer infrastructure upgrades
+● Improve and simplify interconnection agreements and process
+Creating opportunities for DERs to avoid and defer distribution infrastructure upgrades is
+key to minimizing the projected costs of widespread electrification. VGIC believes that this should
+3 FGS Report at p.26.
+4 FGS Report at p.26.
+5
+
+be unlocked by allowing the connected load of fleet charging infrastructure to exceed the size of
+the service connection in the next 1-2 years with widespread Flexible Load Energization
+(especially for long-dwell, multi-charger sites like workplace charging and fleet depots) and
+managed and bidirectional charging programs (e.g., targeting residential charging customers).
+Regarding Flexible Load Energization, the SIOWG Report in Track 3 of this proceeding,5 as well
+as motions by Enphase Energy in this instant proceeding6 and R.24-01-018,7 have outlined a
+reasonable framework for discussion. If the Commission were to formally incorporate Flexible
+Load Energization into an existing proceeding or open a new proceeding with the express intention
+of finalizing an effective, scalable framework, then Flexible Load Energization options for EV
+customers could reasonably be implemented at scale in the next 1-2 years.
+The Commission can also establish clear direction in the next 1-2 years to reduce the need
+for infrastructure upgrades by leveraging managed and bidirectional charging programs that are
+purpose-built to support distribution system optimization. There are multiple dynamic rate pilots
+that are currently being conducted by the IOUs to explore how to best send price signals to
+customers that align with real-time grid conditions and marginal costs, including distribution
+system costs. However, VGIC is concerned the underlying complexity characterizing these rates,
+designed based on the “CalFUSE” framework, will significantly limit adoption from customers
+and the automated service providers (“ASP”) needed to unlock customer participation.
+Additionally, certain detailed elements of the CalFUSE approach, including the subscription
+5 Smart Inverter Operationalization (SIO) Working Group Report Business Cases and Use Cases, February 1, 2024.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M532/K694/532694061.PDF
+6 Motion Of Enphase Energy, Inc. to Amend Scoping Ruling and Schedule to Address Optional Flexible Connection
+Agreements and the Underwriters’ Laboratory 3141 Standard for Power Control Systems in Investor-Owned
+Utilities’ Energization Rules, R.21-06-017, May 6, 2024.
+7 Motion Of Enphase Energy, Inc. to Amend Scoping Ruling and Schedule to Address Optional Flexible Connection
+Agreements and the Underwriters’ Laboratory 3141 Standard for Power Control Systems in Investor-Owned
+Utilities’ Energization Rules, R.24-01-018, September 11, 2024.
+6
+
+element which mutes the savings opportunity for customers, may be unattractive to customers that
+actively seek more exposure to real-time system cost conditions. In the next 1-2 years, these pilots
+will collect data on customer preference, feasibility of implementation, cost of administration, and,
+if measurable, impacts on the distribution system costs. To provide a point comparison to the
+results of these innovative, first-in-the nation dynamic rate pilots – and seeing as it is as yet to be
+determined the most effective set of strategies to attract the diverse spectrum of EV customers to
+grid-supportive strategies – the Commission should ensure that non-rate managed and bidirectional
+charging programs are also widely available. These programs can support meaningful customer
+engagement in critical, grid-supportive load management and export behaviors. VGIC recognizes
+that the ongoing affordability crisis makes it challenging to authorize new ratepayer investments,
+even in programs purpose-built to defer and avoid costly upgrades otherwise borne by ratepayers.
+However, notably, these same programmatic approaches are identified in the latest amendments
+to CARB’s Low-Carbon Fuel Standard as example uses of the IOUs’ LCFS Holback Revenues.8
+This presents a no-regrets opportunity to establish large-scale programs – without additional
+ratepayer funding – that will help engage customers in managed and bidirectional charging
+activities not to reduce bulk system-level net peak load, but rather to mitigate secondary
+peaks9 on the distribution system. This is one of the only tools still available to California in
+its efforts to protect against the projected $50 billion infrastructure investment expected over
+the next decade thereby directly addressing the ratepayer burden.
+Importantly, pursuing distribution system optimization through programmatic approaches
+does not preclude dynamic rate pilot customers from having access to dynamic price signals. The
+8 Proposed Amendments to the Low Carbon Fuel Standard Regulation: Attachment A-1: Final Regulation Order.
+November 6, 2024. Page 50-51. https://ww2.arb.ca.gov/sites/default/files/barcu/regact/2024/lcfs2024/lcfs_fro_atta-
+1.pdf
+9 Alternatively referred to as timer peak or snapback peak.
+7
+
+Report notes that in order to implement broader dynamic distribution pricing, the IOUs/DSOs will
+have to be able to monitor grid conditions to send accurate price signals to DERs where and when
+relief is needed. Additionally, the IOUs, CCAs, and other entities will have to utilize MIDAS and
+other systems to send price signals and create billing systems to handle additional customers on
+these rates, the latter of which has proven to be a colossal task to date. For these reasons, in addition
+to the practical limitations on customer and ASP participation identified above, the Commission
+must act now to ensure programmatic managed and bidirectional charging alternatives to dynamic
+rate pilots are available at a relatively large scale over the next 1-2 years, including through use of
+non-ratepayer funds such as LCFS Holdback Revenues. Additionally, distribution system planning
+must account for the impact of these rates and programs to identify the least cost investments to
+meet EV charging needs.
+The Commission should also prioritize streamlining Rule 21 generator interconnection for
+vehicle-to-everything (“V2X”) bidirectional charging resources. V2X bidirectional charging
+systems have significant potential to provide both local and systemwide grid benefits, but, to
+unlock this, key interconnection barriers need to be removed. There is a Rule 21 interconnection
+process for bidirectional chargers, but several key barriers remain. For example, high
+interconnection application fees (i.e., $80010 - the highest in the nation) are imposed on these
+customers. Additionally, not all IOUs have appropriate interconnection application forms for V2X
+bidirectional charging systems, resulting in applications being delayed or risking being knocked
+from the generator interconnection process into the load energization process. These items do
+10 See respective Rule 21 pages:
+https://www.pge.com/en/about/doing-business-with-pge/interconnections.html?ctx=business
+https://www.sce.com/business/generating-your-own-power/Grid-Interconnections/Interconnecting-Generation-
+under-Rule-21
+https://www.sdge.com/more-information/customer-generation/electric-rule-21
+8
+
+require discussion, likely in a forthcoming Rule 21 proceeding, but it is reasonable – and necessary
+to maximize cost-effective VGI – to achieve significant progress in resolving these issues in a 1-2
+year timeframe.
+In contrast, many of the other “Open Access to the Distribution System” sub-issues around
+transactive markets are likely unable to be implemented in the near-term. VGIC is supportive of
+further discussions and developing non-discriminatory procedures for procuring, dispatching &
+compensating DERs for distribution grid services. However, there are significant barriers to
+overcome to create a centralized distribution-level market to receive bids for different services and
+run a clearinghouse like the CAISO currently does for the wholesale energy market. The Report
+discusses the need to create a distribution data sharing hub to allow for sufficient data sharing to
+facilitate trading and scheduling of DERs.11 VGIC supports this initiative, and notes there are other
+proceedings addressing some of these sub-issues, such as the Data Working Group in R.23-12-
+011. Given the complexity of a border transactive distribution services market, VGIC recommends
+continuing discussions on the topic but focusing Commission resources on the near-term, low-cost
+to ratepayers, and no-regrets actions described above to enable widespread EV charging while
+mitigating distribution system investments. This will allow stakeholders to focus on the highest
+priority, most urgent items that can realistically be implemented in a 1-2 year timeframe.
+With this in mind, VGIC recommends that the Commission focus on implementation of
+the specific sub-items needed to unlock flexible load energization, non-rate managed and
+bidirectional charging programs, and streamlined interconnection. Full DER visibility, for
+example, is not likely needed to enable these near-term items and is also unlikely to be
+11 FGS Report at p.27.
+9
+
+implemented in the near-term. VGIC discusses further issues of visibility and control of DERs in
+response to question 3.
+b) If you disagree with any of the above-identified high-priority needs, which three
+operational needs should be prioritized and why? Please include a timeline for
+implementation and explain your reasoning for supporting the priorities.
+VGIC has no additional comments on high-priority needs at this time, but reserves the
+right to comment at a future date.
+3. Diverging approaches to enabling a High DER Future— Following Workshop 1, the workshop
+series highlighted a diverging approach to long-term visions for a High DER Future between the
+IOUs’ top-down “grid orchestration” approach where DSOs are central in coordinating DERs
+and the bottom-up, open-access vision recommended by other stakeholders. (Refer to Attachment
+1, page 36, "Key Takeaways from Workshop 2".)
+a) Which approach do you support, the top-down “grid orchestration” approach or the
+bottom-up, open-access vision for a High DER future? Please explain your reasoning for
+supporting the chosen approach and what steps should be taken in this proceeding to
+implement this vision. How do these steps align with the DSO’s roles and responsibilities?
+VGIC does not agree that these approaches are mutually exclusive and, as such, supports
+elements of both visions. For lack of a better term, VGIC believes a “hybrid approach” will best
+support affordability and serve the state’s decarbonization goals. Open access to the distribution
+grid and customer-centric market design must be fundamental principles of the High DER future,
+however, there will remain an essential role for the DSO to play in monitoring, interpreting, and
+communicating real-time grid conditions, including to qualified ASPs and other third parties that
+will enable the effective integration of DERs onto the grid.
+Ensuring that DERs can connect to the grid and begin providing services will help
+California maximize the value of these customer resources, especially EVs. California is in a
+unique position as the leading EV market in the United States, having recently achieved the
+milestone of selling 2 million EVs, but being a leader means that the best path forward to unlocking
+10
+
+value from these vehicles is less clear. Aiming for an open access vision will allow California to
+move quickly to unlock value and maintain flexibility when it comes to creating value from these
+resources. For example, if it is easy for customers to connect EV load (or, in the case of V2X
+bidirectional charging systems, interconnect as energy storage) to the distribution grid and enroll
+in a variety of efforts, they can choose whether to shape load under a dynamic rate tariff, participate
+in more traditional demand response or managed and bidirectional charging programs via a utility,
+CCA, or third-party, or, in the case of V2X bidirectional charging systems, discharge to meet site
+load. Given the immense scale of EV load flexibility and export capability anticipated over the
+next decade, the huge diversity of defined VGI use cases (e.g., the over 1,000 distinct VGI use
+cases detailed extensively in the 2019-2020 Joint Agency VGI Working Group12), the growing
+affordability crisis and its high stakes, and the underwhelming portfolio of VGI opportunities to
+date in California, it would be imprudent for the Commission, VGIC, or any other party to
+foreclose on any of these options at this time.
+If the DSO plays a very active “orchestration role,” where all DERs are enrolled with the
+DSO/IOU and even controlled by the DSO, exploration options will be limited. Having all devices
+enrolled with a DSO would likely limit offering and not as many customers would find program
+options that work for them. On the other hand, the DSO does hold unique visibility into the
+distribution system as a whole and specific expected and real-time grid conditions. As a result,
+VGIC envisions an important role for the DSO providing data for DERs to respond to. These
+signals can be price/market-based, where the DSO is communicating a real-time price to buy or
+sell energy, event-based, where the DSO is signaling a demand response event that customers
+12 California Public Utilities Commission. Final Report of the California Joint Agencies Vehicle-Grid Integration
+Working Group. June 30, 2020. https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-Final-
+Report-6.30.20.pdf. Page 15.
+11
+
+may be obligated or encouraged to respond to, or communicate changes to physical import or
+export limits and settings. Some elements of Flexible Load Energization and Limited Load
+Profiles, as well as dynamic Limited Generation Profiles, might include more active “grid
+orchestration,” where the DSO can send signals to power control systems that respond to limit
+imports or exports in real-time. This example shows that some level of grid orchestration and more
+explicit direction from the DSO will likely be a part of the High DER future.
+b) How do the operational needs identified in question 2 above align with your
+recommendation for question 3 (a) above?
+VGIC’s recommended priority operational needs discussed in question 2, particularly the
+recommendations to create a flexible load energization pathway and establish programmatic
+managed and bidirectional charging approaches, are focused on unlocking the most practical and
+near-term value from DER orchestration while maintaining customer optionality. Currently, VGIC
+can envision a future composed of more complex elements such as transactions between customers
+for additional import / export capacity. However, those complex market structures will take
+significant amounts of time to develop. In the near-term, the DSO can continue to play an important
+role in supporting DER optimization to unlock significant ratepayer benefits, both through
+dynamic rate implementation and programmatic approaches, especially those supported by non-
+ratepayer funds.
+c) Based on the discussions and perspectives presented during the workshop series, do
+stakeholders envision a hybrid approach that could bridge the gap between the IOU vision
+of grid orchestration and the bottom-up, open-access vision? If so, what might such a
+hybrid model entail?
+As discussed above, VGIC does envision a hybrid approach for the High DER Future. The
+Commission should seek to keep the DER service market open to allow additional DERs to provide
+12
+
+grid services. However, a strong DSO role is appropriate, and customers should receive
+compensation commensurate with the full stack of services they are providing.
+4. In Workshop 2, Assessing Gaps, the stakeholders focused on identifying gaps and barriers to
+achieving the operational needs from Workshop 1. During Workshop 2, the IOUs also presented
+roadmaps for DERs and/or Grid Orchestration and Automated Distribution Management Systems
+(ADMS) and DER Management Systems (DERMS) capabilities in relation to the operational needs
+identified from Workshop-1. (See pages 58-82 of Attachment 1, "APPENDIX A: OPERATIONAL
+NEEDS GAP ASSESSMENT" for a detailed assessment of the gaps.) The following questions focus
+on operational needs and use cases articulated specifically for DER/Grid Orchestration by
+leveraging ADMS/DERMS capabilities.
+a) Which operational needs and use cases can be operationalized by addressing gaps and
+barriers to DER/Grid Orchestration and ADMS/DERMS capabilities? How do these steps
+align with the DSO’s roles and responsibilities?
+Improvements to ADMS/DERMS are needed to unlock widespread flexible load
+energization for flexible import capacity that changes dynamically over time. These changes to
+import limits would have to be communicated by the DSO to a customer site with a flexible
+energization agreement. PG&E states that they have “plans to scale DERMs capabilities [..] to
+communicate load limits day ahead [... and are] looking to scale across territory.”13 Ultimately, it
+is the DSO that will have visibility into whether there is additional capacity on a given circuit and
+can provide signals that allow customers to take advantage of times when additional capacity is
+available on the circuit.
+b) What specific steps should be addressed in this proceeding to advance DER
+operationalization? How do these steps align with the DSO’s roles and responsibilities?
+The first and immediate steps that should be taken by the Commission is to enable
+broad-scale flexible load energization and managed and bidirectional charging programs to
+unlock latent EV grid-support capabilities. VGIC agrees with the recommendation by Cal
+13 FGS Report at p.60.
+13
+
+Advocates that “The CPUC should lead a process to develop and implement flexible import limits,
+following-on the work of the SIOWG.”14 The DSOs, currently the IOUs, are responsible for
+energizing new load on the distribution system. The Commission has the authority to direct the
+development of these programs, but it will require active steps to be taken by the IOUs in order to
+ensure that rules work with their current DSO processes. This work will likely span proceedings,
+which VGIC discusses further below in response to question 5e.
+c) The IOUs recommended a working group/task force(s) to collaborate on a framework
+that enables advanced DER/Grid Orchestration. Do you agree with this recommendation,
+and if so, what are the key factors to consider in forming and setting goals for work
+products for this group? If you disagree, what alternative approaches should be
+considered?
+VGIC does not offer feedback on a working group on DER/Grid Orchestration at this time
+but may offer replies to party comments.
+d) In Workshops 1 and 2, the IOUs outlined a “grid orchestration” vision for a high-DER
+future. The terminology and Grid Modernization Plans (See Attachment 1, Appendix B)
+indicate a significant role for DSOs in orchestrating DERs. However, despite pilot work
+underway (See Attachment 1, Appendix C), there are still gaps in the timelines for
+developing and implementing operational capabilities. What improvements should be
+made to the ongoing pilot program? How can the ongoing and proposed pilots guide
+further actions to address the gaps? In your response, identify the gaps and the proposed
+enhancements.
+Currently, both PG&E and SCE are conducting flexible load energization pilots,
+specifically for customers who cannot fully energize their sites on a 24/7 basis at this time because
+of triggered distribution upgrades. VGIC does not have recommendations to change the pilots at
+this time, but we believe that these pilots will provide important insights for the broader discussion
+on a flexible load energization framework and rule modifications. We agree with Gridworks that
+14 FGS Report at p.51.
+14
+
+the results of these pilots should be shared, ideally in a venue focused on finalizing a framework
+that would facilitate the evolution from individual pilots to full-scale offerings. VGIC respectfully
+urges the Commission to clearly identify this venue.
+e) Is there a benefit in reviewing the five nearest-term pilot programs or functions the
+utilities can roll out and determining the technical requirements for those options? Explain
+your reasoning.
+In the Report, the California Solar & Storage Association made this recommendation for
+the Commission “to look at the five nearest term programs or functions that the utilities would like
+to roll out and determine the technical requirement for those options.”15 VGIC supports the
+intention and practicality of this recommendation, but would recommend focusing on the five
+programs/functions the Commission is prioritizing, not solely what the utilities would like to
+implement. The Commission is in the best position to consider input from all stakeholders to
+determine which items should be prioritized for implementation.
+5. The FGS Report compiled stakeholder recommendations as five topic summaries based on input
+and discussion during Workshop 3 - Developing Recommendations to Address Gaps. The FGS
+Report also includes Gridworks’ recommendations for the next steps. (Refer to the “Stakeholder
+Recommendations ...” and “Gridworks Recommended Next Steps ...” sections in Workshop 3,
+pages 39 – 51 of Attachment 1.)
+e) If any of your recommendations require coordination with other proceedings beyond the
+scope of the High DER Proceeding, please provide specific details about the necessary
+coordination, including the relevant proceedings and issues involved.
+For flexible load energization, coordination is needed with the Energization Timelines
+Rulemaking (R.24-01-018) in order to update IOU energization rules to include flexible
+energization. As discussed by the SIOWG Report, the full implementation of Flexible Load
+15 FGS Report at p.51.
+15
+
+Energization will require updates to Rule 2, Rule 15, Rule 16, as well as Rules 29 and 45 for EVs.16
+The Commission has already stated that “Issues related to energization rules should be addressed
+in the energization proceeding.”17 At the same time, the Commission has issues discussed in the
+SIOWG that are in scope for this instant proceeding, including: technical operational details of
+power control systems, structure and temporal granularity of limited load profiles or schedules,
+and methods of allocating available Firm and Non-Firm distribution system hosting capacity. The
+Commission has not ruled on Enphase's motion on Flexible Load Energization in R.24-01-018, so
+the exact split of issues between the two proceedings remains unclear. Regardless, cross-
+proceeding coordination will be critical.
+To further non-rate managed and bidirectional charging programs for distribution system
+optimization, coordination is needed with the Transportation Electrification Proceeding, R.23-12-
+008. While this instant proceeding may discuss how to unlock distribution services and DER
+optimization, EV program funding issues, including authorization of LCFS Holdback-funded
+programs, is in scope in R.23-12-008.
+Streamlining interconnection for V2X resources as discussed in response to question 2a
+will require coordination with a Rule 21-focused proceeding. The current Rule 21 Rulemaking,
+R.17-07-007, is planned to close, but the Commission has indicated the intention to “open a new
+proceeding that focuses on issues affecting interconnection of distributed energy resources under
+Electric Rule 21.”18 Once that proceeding is opened, the Commission should include several issues
+in the proceeding scope that can meaningfully support V2X bidirectional charging systems,
+16 Smart Inverter Operationalization (SIO) Working Group Report Business Cases and Use Cases, February 1,
+2024, at p. 115. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M532/K694/532694061.PDF
+17 Administrative Law Judges’ Ruling Denying Enphase Motion, June 21, 2024, at p. 1.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M534/K105/534105698.PDF
+18 Proposed Decision Closing Proceeding, R.17-07-007, November 15, 2024.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M546/K381/546381906.PDF
+16
+
+including reducing the $800 interconnection application fee and directing basic but critical
+functionality be incorporated into each IOUs’ interconnection application forms to apply
+appropriate treatment to V2X bidirectional charging systems.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Report. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: December 6, 2024
+17

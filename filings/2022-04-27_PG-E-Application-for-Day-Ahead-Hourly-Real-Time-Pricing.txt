@@ -1,0 +1,143 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric
+Application 20-10-011
+Company (U39M) for Approval of its
+(Filed October 23, 2020)
+Proposal for a Day-Ahead Real Time Rate and
+Pilot to Evaluate Customer Understanding and
+Supporting Technology.
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL
+TO PACIFIC GAS AND ELECTRIC COMPANY’S
+MOTION FOR EVIDENTIARY HEARING
+April 27, 2022 ED BURGESS, SENIOR POLICY DIRECTOR
+ZACH WOOGEN, POLICY SPECIALIST
+Vehicle Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, CA 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+FOR: VEHICLE GRID INTEGRATION COUNCIL
+i
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric
+Application 20-10-011
+Company (U39M) for Approval of its
+(Filed October 23, 2020)
+Proposal for a Day-Ahead Real Time Rate and
+Pilot to Evaluate Customer Understanding and
+Supporting Technology.
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL
+TO PACIFIC GAS AND ELECTRIC COMPANY’S
+MOTION FOR EVIDENTIARY HEARING
+The Vehicle Grid Integration Council (VGIC) respectfully responds to the Motion for
+Evidentiary Hearing (Motion) filed by Pacific Gas and Electric Company (PG&E) in Application
+(A.) 20-10-011 (Day-Ahead Hourly Real Time Pricing (DAHRTP) Rate for Commercial Electric
+Vehicle (CEV) Customers) on April 22, 2022. On April 25, 2022, Administrative Law Judge
+(ALJ) Patrick Doherty sent a procedural email to the service list for this proceeding stating that
+responses to PG&E’s Motion should be filed no later than April 28, 2022. This Response is
+timely filed and served pursuant to Rule 11.1(e) of the Commission’s Rules of Practice and
+Procedure and the instructions in ALJ Doherty’s procedural email of April 25, 2022.
+I.
+PG&E SEEKS RELIEF IN ITS MOTION THAT GOES FAR BEYOND A
+REQUEST FOR EVIDENTIARY HEARING AND MUST BE REJECTED.
+A. Background
+On January 14, 2022, an ALJ’s Email Ruling was issued granting extension requests
+and amending the procedural schedule to consider remaining issues in this proceeding that
+included (1) calculation of marginal generation capacity costs (MGCC) and (2) an export
+compensation mechanism for customers enrolled in the DAHRTP rate that do not participate
+in net energy metering (NEM) but provide behind-the-meter resources (1-14-2022 ALJ’s
+1
+
+Email Ruling).1 As to the second issue, that revised scheduled called for PG&E to
+“supplement” A.20-10-011 by proposing an export compensation for non-NEM customers on
+March 24, 2022; “direct testimony” to be served on April 13, 2022; “motions for evidentiary
+hearing related to MGCC and export compensation” to be filed and served on April 22, 2022;
+and rebuttal testimony to be served on April 29, 2022.2
+In addition, the 1-14-2022 Ruling set out a detailed list of questions, with subparts,
+that “at a minimum, PG&E shall address in its supplement to A.20-10-011 related to export
+compensation.”3 On March 24, 2022, PG&E filed a “proposal for export compensation for
+non-NEM customers.”4 On April 13, 2022, “direct testimony” on this issue was served by
+PG&E and VGIC. Rebuttal testimony to this direct testimony is due on April 29, 2022.
+B. PG&E’s Motion Goes Far Beyond Identifying a Contested Issue Requiring an
+Evidentiary Hearing and Instead Seeks Relief That Wrongly Seeks To Impose
+Obligations on VGIC That Are Based on Vague Assertions, Are Meritless, and Must
+Be Rejected.
+As stated in the 1-14-2022 Ruling, the “motions” due on April 22 were strictly limited
+to requesting an evidentiary hearing. VGIC does not dispute that PG&E has appropriately
+identified the issue of how non-NEM customers enrolled in PG&E’s DAHRTP-CEV rate that
+provide BTM resources should receive export compensation as one that is “currently
+contested” and may require an evidentiary hearing. In this regard, VGIC confirms that its
+direct testimony served on April 13, 2022, does address deficiencies in PG&E’s export
+compensation proposal filed on March 24, 2022, including its failure to comply with the 1-14-
+2022 Ruling, and further proposes an alternate export compensation mechanism. Again, on
+1 See also, Assigned Commissioner’s Amended Scoping Memo and Ruling, at p. 4.
+2 1-14-2022 ALJ’s Email Ruling, at p. 4.
+3 1-14-2022 ALJ’s Email Ruling, at p. 3; emphasis added.
+4 PG&E Proposal, at p 1.
+2
+
+that same date (April 13, 2022), PG&E also served testimony in support of its export
+compensation proposal. This testimony similarly failed to comply with the 1-14-2022 Ruling,
+and did not “explain the methodology that would be used to calculate the compensation rate
+for non-NEM customers”5 or “provide a detailed analysis”6 on why that rate should differ
+from NEM customers, especially between the time when the DAHRTP-CEV rate is first
+effective and the time PG&E’s proposal is implemented.
+However, even before either party has served rebuttal testimony due this Friday, April
+29, or had an opportunity to cross-examine on the testimony served to date or by April 29,
+PG&E has elected to challenge VGIC’s direct testimony in its Motion for Evidentiary
+Hearing. PG&E asks that the Commission not only schedule an evidentiary hearing, but
+direct VGIC to “come forward with additional implementation details for its proposals so that
+parties may have an opportunity to adequately evaluate feasibility and cost of its proposals.”7
+PG&E further claims that VGIC ‘has not provided an adequate showing justifying its
+proposals” and that VGIC’s proposals “would benefit from clarification.”8 PG&E also claims
+that VGIC has “misunderstood” PG&E’s proposal.
+These claims are not substantiated by any facts and, furthermore, are the types of
+allegations that would be made in a brief after the merits of both parties’ testimony had been
+tested through cross examination. VGIC can confirm that, prior to filing its motion, PG&E
+posed no data requests, no discovery, nor any informal outreach regarding VGIC’s testimony
+making it clear that it had taken no steps to identify, much less resolve, any “clarification[s]”
+it claims it needs regarding VGIC’s testimony. Further, the claims made by PG&E regarding
+5 1-14-2022 ALJ’s Email Ruling, at p. 3
+6 Id., at p. 3.
+7 PG&E Motion for Evidentiary Hearing, at p. 1.
+8 Id., at p. 3.
+3
+
+perceived deficiencies in VGIC’s testimony are the same ones that VGIC has attested to, but
+substantiated, in its direct testimony as to PG&E’s proposal. The failing in PG&E’s proposal,
+as attested to by VGIC, begins with PG&E having the burden of proving the reasonableness
+and, more importantly, its compliance with Commission directives specific to PG&E’s
+proposal that VGIC has testified it has not.
+The only relief that this Commission can or should consider granting in response to
+PG&E’s motion is whether or not an evidentiary hearing should be held on the issue of non-
+NEM export compensation. All other requests made by PG&E regarding VGIC “coming
+forward” in any manner should be rejected as improper procedurally and substantively.
+II.
+TIMING OF EVIDENTIARY HEARING
+ALJ Doherty’s procedural email requested that parties “clarify the expected hearing
+dates in this proceeding for the purpose of witness scheduling” and notes that hearing dates
+are now “tentatively scheduled for May 18 – 20, 2022.” As an initial matter, VGIC notes that
+witness Ed Burgess is unavailable on May 19-20, 2022 due to a personal matter. Additionally,
+given PG&E’s claims and relief sought in its Motion regarding VGIC’s testimony, as detailed
+above, VGIC is very concerned that parties will not have sufficient time between the service
+of rebuttal testimony on Friday, April 29, and the tentative hearing start date of May 18, to
+conduct necessary discovery encompassing all non-NEM export compensation testimony and
+to hold settlement discussions, which the Commission has encouraged, to address and
+potentially even resolve contested issues. For those reasons, VGIC requests that the
+evidentiary hearing on the non-NEM compensation issues be moved one month and scheduled
+for no earlier than June 15, 2022, to provide time for discovery and settlement talks to take
+place.
+4
+
+III.
+CONCLUSION
+PG&E’s Motion for Evidentiary Hearing has clearly exceeded the appropriate scope of
+such a request and should only be granted as to a date on which an evidentiary hearing will be
+scheduled. Further, VGIC requests the above modification to the schedule for this proceeding
+on the issue of Non-NEM export compensation proposals.
+Respectfully submitted,
+April 27, 2022 /s/ ED BURGESS______
+5

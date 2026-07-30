@@ -1,0 +1,576 @@
+Docket No.: A.21-10-010
+Exhibit No.:
+Date: March 2, 2022
+Witness: Ed Burgess
+OPENING TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+
+Table of Contents
+I. Introduction 1
+II. Recommended modifications to the proposed EVC 2 ALM approach to ensure 3
+load management is sufficiently addressed
+III. VGIC recommends the Commission take actions to promote ALM in the 14
+“Realm of Rule 29” to complement the use of ALM in EVC 2 and support
+Transportation Electrification objectives outside of EVC 2.
+IV. Additional recommendations for incorporating VGI into EVC 2 17
+V. Conclusion 20
+Appendix A – Declaration of Ed Burgess in Support of Opening Testimony on A-1
+Behalf of the Vehicle Grid Integration Council
+Appendix B –Calculations Showing Potential Cost Savings From Voluntary ALM B-1
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Ed Burgess. I am a Senior Director at Strategen Consulting and the Senior
+4 Policy Director for the Vehicle Grid Integration Council (“VGIC”). My business address
+5 is 2150 Allston Way, Suite 400, Berkeley, California 94704.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of the Vehicle Grid Integration Council.
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to a
+12 decarbonized transportation and electric sector by ensuring the value from EV
+13 deployments and flexible EV charging and discharging is recognized and compensated in
+14 support of achieving a more reliable, affordable, and efficient electric grid.
+15 Q. Who are VGIC’s current members?
+16 A. VGIC’s members include Enel X, Ford, General Motors, Honda, Nissan, Nuvve,
+17 Stellantis (formerly Fiat-Chrysler), Toyota, dcbel, Engie, Fermata Energy, Flexcharging,
+18 Flo/AddEnergie, Sunrun, The Mobility House, WeaveGrid, and Veloce.1
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+1
+
+1 Q. Please summarize your professional background and qualifications.
+2 A. I am a leader within Strategen’s consulting practice where one of my primary
+3 responsibilities is managing the VGIC, which is one of Strategen’s primary clients. In
+4 addition to VGIC, I oversee much of the firm’s practice for governmental clients, non-
+5 governmental organizations, and trade associations. Strategen’s team is globally
+6 recognized for its expertise in the electric power sector on issues relating to resource
+7 planning, renewable energy, energy storage, electric vehicles, utility rate design and
+8 program design, and utility business models and strategy. During my time at Strategen, I
+9 have managed or supported projects for numerous client engagements related to these
+10 issues. Before joining Strategen in 2015, I worked as an independent consultant in
+11 Arizona for several years and regularly appeared before the Arizona Corporation
+12 Commission. I also worked for Arizona State University where I helped launch their
+13 Utility of the Future initiative as well as the Energy Policy Innovation Council. I have a
+14 Professional Science Master’s degree in Solar Energy Engineering and
+15 Commercialization from Arizona State University as well as a Master of Science in
+16 Sustainability, also from Arizona State. I also have a Bachelor of Arts degree in
+17 Chemistry from Princeton University.
+18 Q. Have you ever testified before the California Public Utilities Commission, or any
+19 other state regulatory body?
+20 A. Yes. I testified before the California Public Utilities Commission in proceedings A. 19-
+21 08-002 and A. 20-08-002 both of which pertain to PacifiCorp’s 2020 and 2021 Energy
+22 Cost Adjustment Clause, as well as proceeding R.20-11-003 pertaining to Emergency
+23 Reliability. I have also provided expert testimony before the Massachusetts Department
+2
+
+1 of Public Utilities, the South Carolina Public Service Commission, the Indiana Utility
+2 Regulatory Commission, the Nevada Public Utilities Commission, the Oregon Public
+3 Utilities Commission, and the Washington Utilities and Transportation Commission.
+4 Q. What is the purpose of your testimony?
+5 A. The purpose of my testimony is to respond to Pacific Gas and Electric Company’s
+6 (“PG&E”) proposed extension and expansion of its EV Charge Network (“EVCN”) and
+7 EV Fast Charge programs as filed in Application (“A.”) 21-10-010. Specifically, I will
+8 address Issues 8, 11, 14, and 15 detailed in the Assigned Commissioner’s Scoping Memo
+9 and Ruling (“Scoping Memo”) issued by Commissioner Rechtschaffen on January 5,
+10 2022. In doing so, I describe the potential that VGI solutions could offer in achieving the
+11 goals of the proposed EV Charge 2 expansion (“EVC 2”) and provide recommendations
+12 for incorporating VGI strategies, including Automated Load Management (“ALM”) into
+13 PG&E’s proposed EVC2.
+14 II. RECOMMENDED MODIFICATIONS TO THE PROPOSED EVC 2 ALM
+15 APPROACH TO ENSURE LOAD MANAGEMENT IS SUFFICIENTLY
+16 ADDRESSED.
+17 Q. Generally speaking, is VGIC supportive of strategically incorporating ALM in EVC
+18 2?
+19 A. Yes. VGIC believes that encouraging site hosts to voluntarily choose ALM solutions can
+20 be a powerful tool for both streamlining and minimizing the costs of EV supply
+21 equipment (“EVSE”) deployment. VGIC notes that Decision (“D.”) 20-12-029 deemed
+22 ALM a near-term policy action in recognition that ALM is an important tool for helping
+3
+
+1 to meet California’s transportation electrification (“TE”) goals.2 ALM can help mitigate
+2 the costs of EVSE deployment, as detailed in PG&E’s prepared testimony on ALM
+3 which states: “PG&E will build off the successful use of ALM in EVCN, whereby costs
+4 were reduced and physical design constraints were overcome at customer sites that we
+5 deemed a good fit to use this technology.”3 ALM can also be an important tool to
+6 streamline EVSE deployment. For example, in PG&E’s Q1 2022 Clean Energy
+7 Transportation Program Advisory Council meeting held on February 16, 2022, PG&E
+8 indicated that over 50% of the reason applicants to the EV Charge Schools Program were
+9 placed on the waitlist was due to limited transformer capacity requiring costly upgrades.
+10 If ALM solutions were used to help avoid or defer these transformer upgrades, many of
+11 these waitlisted EV Charge Schools Program sites might have been electrified sooner.4
+12 The opportunity for ALM to streamline EVSE deployment was also captured during the
+13 Public Joint CEC CPUC Commissioner Workshop: Accelerating Electric Vehicle
+14 Charging Infrastructure Deployment and Grid Integration held on October 23, 2021.
+15 During this meeting Commissioner Rechtschaffen recognized the current barriers to
+16 Electrify America’s preferred ALM solution (i.e., co-locating of EVSE with stationary
+17 energy storage to reduce peak site load), acknowledging it as “one concrete takeaway for
+2 D.20-12-029 at 25.
+3 PG&E Prepared Testimony at 5-2.
+4 To VGIC’s understanding, the Q1 2022 PAC Meeting materials have not yet been uploaded to PG&E’s website,
+however the Q2 2021 PAC Meeting materials show that transformer upgrades as a preliminary insight. PG&E
+Program Advisory Council Meeting, June 28, 2021 at slide 18.
+https://www.pge.com/pge_global/common/pdfs/solar-and-vehicles/your-options/clean-vehicles/charging-
+stations/program-participants/EVCN-PAC-2021-Q2.pdf
+4
+
+1 us to look at going forward.”5 In all cases, however, implementation of ALM solutions
+2 should aim to maximize flexibility for site hosts and EV customers.
+3 Q. What is the potential for cost savings if voluntary ALM were implemented more
+4 widely?
+5 A. VGIC estimates that the potential magnitude of benefits that could accrue to California
+6 utility ratepayers from voluntary ALM solutions through 2030 could be on the order of
+7 $1-2 billion dollars depending on participation rates and average site size.6 This is
+8 consistent with Cal Advocates’ estimate that ratepayer burden related to waiving utility-
+9 side customer contributions could amount to as much as $2.2 billion by 2030.7
+10 Q. Scoping Memo Issue 15(a): Is PG&E’s proposal to consider automated load
+11 management criteria in the design of all sites participating in the EVC 2 program
+12 appropriate?
+13 A. VGIC is encouraged by PG&E’s proactive efforts to incorporate voluntary ALM
+14 solutions into its EVC 2 program. However, we believe some further improvements to
+15 this effort should be made before being deemed appropriate. Each of these improvements
+16 is briefly summarized below and then discussed in greater detail in the remainder of my
+17 testimony:
+5 Exchange between Commissioner Rechtschaffen and a representative from Electrify America found at 3:54:11 to
+3:59:41. Workshop recording available at: https://energy.zoom.us/rec/play/iVl0CADIZMswX-q3gJprrMB-
+nI62RqK4W9E-
+VtHtulYZt95gUKQV8Tila6REBu0kPdJSk0lY6rUIaVFO.jjAya1ExKuWkxlnm?startTime=1634056253000&_x_z
+m_rtaid=lBd0pRE8SKS7fkrL5_AFyA.1646259493033.7a18da4a1122493d0f5df1907e640b2c&_x_zm_rhtaid=39
+6 See Appendix B: Calculations Showing Potential Cost Savings From Voluntary ALM.
+7 See Reply Comments of the Public Advocates Office on the Assigned Commissioner’s Ruling Regarding
+Implementation of Assembly Bill 841. (February 19, 2021). Page 4.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M366/K442/366442085.PDF
+5
+
+1 (1) Customers should be permitted to elect third-party ALM options instead of
+2 PG&E-implemented ALM options.
+3 (2) Available third-party or PG&E-implemented ALM options should include, at a
+4 minimum:
+5 (a) ALM solutions that share available electrical capacity among charging
+6 stations to avoid the installation cost of additional electrical capacity, for
+7 example “software-based solutions” as described in Decision (D.) 20-12-029,
+8 (b) ALM solutions that share available electrical capacity among charging
+9 stations and/or utilize on-site distributed energy resources (DER) to avoid the
+10 installation cost of additional electrical capacity.
+11 (3) To capture the full value ALM can provide, PG&E should offer a mechanism to
+12 encourage ALM that minimizes to-the-meter (TTM) costs under the new “Realm
+13 of Rule 29” framework, either by:
+14 (a) Offering an incremental incentive to EVC 2 host sites voluntarily choosing to
+15 implement ALM that is linked to the TTM cost savings component, or
+16 (b) Revising Rule 29 to promote optional ALM that reduces TTM costs.
+17
+18 Q. Can you summarize PG&E’s proposed process for evaluating ALM options at an
+19 EVC2 customer site as detailed in Chapter 5 of PG&E’s Prepared Testimony?
+6
+
+1 A. Yes. In Chapter 5, PG&E states that “if sign-off [of a proposal with ALM options] is
+2 received, PG&E will execute installation with ALM.”8 Notably however, PG&E’s
+3 proposed process does not detail a pathway for third-party ALM to be proposed and
+4 implemented.
+5 Q. Does VGIC agree with the proposed role of PG&E to exclusively evaluate, propose,
+6 and execute ALM options?
+7 A. No. VGIC disagrees that PG&E should be the sole entity responsible for evaluating,
+8 proposing, and executing ALM options. Given the critical importance of ALM in
+9 reducing costs and overcoming physical design constraints in EVC 2, VGIC recommends
+10 fostering competition in the ALM provider marketplace, which can reduce the costs of
+11 ALM solutions themselves in EVC 2 and future programs. To promote healthy
+12 competition in the ALM provider marketplace, PG&E should provide customers with the
+13 option to use a third-party ALM solution rather than the proposed default arrangement of
+14 PG&E-implemented ALM options. Supporting competition in this way would be
+15 consistent with the existing paradigm for many TE programs around the country which
+16 include a mixture of utility implemented solutions and third-party implemented solutions.
+17 This balance helps maintain a competitive environment while still providing certainty
+18 that California can achieve its ambitious TE objectives.9
+19 Q. Has PG&E expressed general support for this competitive dynamic?
+8 PG&E Prepared Testimony at 5-2.
+9 See, for example, D.14-12-079, which “expands the electric utilities’ potential role in ownership of electric vehicle
+charging infrastructure.”
+7
+
+1 A. Yes. Commenting on the role of the IOUs in deploying TE infrastructure in 2020, PG&E
+2 stated that it is important “for utilities to provide appropriate broad and targeted support
+3 for the TE market within the context of their core capabilities and the roles they play in
+4 the wider TE ecosystem. These capabilities [should] include: infrastructure, developing
+5 appropriate rates for electric fueling, customer education, and programs,” and that the
+6 Commission should ”reframe the role of IOUs as market enablers and supporters rather
+7 than market stimulators to ensure appropriate attention is given to core utility capabilities
+8 without potential distractions.”10 Similar to the physical TE infrastructure that PG&E
+9 referenced above, competition will help to drive down the cost of implementing ALM
+10 solutions, which may include both physical solutions (e.g. stationary energy storage),
+11 and/or software-based solutions.
+12 Q. Are there principles in the Draft TE Framework that support a more competitive
+13 environment for ALM solutions?
+14 A. Yes. Some key principles regarding the role of IOUs in supporting widespread TE, as
+15 proposed in the Draft TE Framework (TEF) include:
+16 (1) “Stimulating innovation and competition, enable customer options in charging
+17 equipment and services… where technologically feasible.”11
+18 (2) Ensuring IOU investments are in the “interests” of ratepayers as defined in
+19 statute.12
+10 PG&E Comments on Draft TEF Chapter 4 at 8.
+11 Public Utilities Code 740.12 (a)(1)(f)
+12 Public Utilities Code 740.8 defines the “interests” of ratepayers, short- or long-term, as direct benefits that are
+specific to ratepayers, consistent with both of the following (a) Safer, more reliable, or less costly gas or electrical
+service, consistent with Section 451, including electrical service that is safer, more reliable, or less costly due to
+8
+
+1 Limiting available ALM solutions to those implemented by PG&E would not support
+2 principle 1 above, as it would limit the optionality that customers have in selecting
+3 charging services. Regarding Principle 2, excluding third-party ALM solutions may limit
+4 the number of ALM solutions in the marketplace and thus limit the achievable cost
+5 savings for ratepayers.
+6 Q. Does the approach to ALM that PG&E ultimately adopts have broader implications
+7 for the state’s TE programs?
+8 A. Yes. While PG&E’s original EVCN program used ALM to reduce site costs in a small
+9 number of cases, the current EVC 2 application is the first IOU TE application to propose
+10 standard evaluation criteria for ALM pursuant to D.20-12-029, and could serve as a
+11 precedent for other IOUs. Meanwhile, the recent February 25, 2022 Staff Proposal on TE
+12 Funding filed in R.18-12-006 indicates a shift toward increased standardization and
+13 consistency across utility TE programs.13 If this Staff Proposal is adopted, it would also
+14 signify a shift toward a statewide BTM rebate program beginning in 2025. Thus, the
+15 integration of ALM options into EVC 2 comes at a critical turning point that could set the
+16 stage for using ALM to mitigate infrastructure costs statewide for years to come.
+17 Q. Is VGIC confident that third-party entities can provide ALM solutions?
+18 A. Yes. VGIC is confident that third-party entities can provide ALM solutions in the near-
+19 term. Moreover, allowing third-party ALM solutions to participate in EVC 2 would
+either improved use of the electric system or improved integration of renewable energy generation; (b) Any one of
+the following: (1) improvement in energy efficiency of travel; (2) reduction of health and environmental impacts
+from air pollution; (3) reduction of greenhouse gas emissions related to electricity and natural gas production and
+use; (4) increased use of alternative fuels; and (5) creating high-quality jobs or other economic benefits, including in
+disadvantaged communities identifies pursuant to §39711 of the [California] Health and Safety Code.
+13 Assigned Commissioner’s Ruling Adding Staff Proposal to the Record and Inviting Party Comments, filed in
+R.18-12-006 on February 25, 2022 at 15.
+9
+
+1 support the development of additional third-party ALM solutions in the long-term. In
+2 PG&E’s EVCN, ALM was already used to save $30,000 to $200,000 per project,
+3 demonstrating that ALM solutions are both commercially-available and effective.14
+4 Technology providers such as AddEnergie, Enel X, EVBox, FreeWire Technologies, The
+5 Mobility House, Powerflex, and Veloce Energy offer commercially-available ALM
+6 software and/or hardware solutions.15
+7 Q. Chapter 5 of PG&E’s prepared testimony states “ALM is used to share available
+8 electrical capacity among charging stations to avoid the installation cost of
+9 additional electrical capacity.” 16 Which types of ALM solutions should be eligible
+10 under this description of ALM?
+11 A. PG&E’s prepared testimony does not detail which technologies are considered ALM
+12 solutions for the purposes of EVC 2. There exist emerging technology standards and
+13 certifications that may be useful in determining what is considered an ALM solution
+14 (e.g., CSA Group’s EV Energy Management Systems standard17). In addition, VGIC
+15 notes that behind-the-meter stationary energy storage can be used to provide ALM at a
+16 customer site to share available electrical capacity among charging stations while
+17 avoiding the installation cost of additional electrical capacity. As ALM is often used as
+14 See PG&E ALM/EV EMS Workshop Presentation. January 29, 2021. See also Appendix D of D.20-12-029
+“PG&E Electric Vehicle Infrastructure OIR Rulemaking 18-12-006 Data Response”
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M356/K212/356212163.pdf.
+15 AddEnergie “PowerSharing” https://addenergie.com/en/core/
+Enel X “JuiceBox” https://evcharging.enelx.com/commercial-charging
+EVBox “Workplace Charging Solutions” https://evbox.com/us-en/charging-solutions/workplace
+FreeWire Technologies “BOOSTCHARGER” and “AMP” https://freewiretech.com/products/dc-boost-charger/
+The Mobility House “ChargePilot” https://www.mobilityhouse.com/usa_en/charging-and-energy-management
+Powerflex “Adaptive Load Management” https://www.powerflex.com/products/ev-charging/
+Veloce Energy “VPORT” https://www.veloceenergy.com/products
+16 PG&E Prepared Testimony Ch 5-2.
+17 See https://www.csagroup.org/article/research/electric-vehicle-energy-management-systems/
+10
+
+1 an umbrella term, VGIC recommends PG&E specify which utility implemented and
+2 third-party implemented ALM solutions are eligible for use in EVC 2. Available third-
+3 party or PG&E-implemented ALM options should include, at a minimum:
+4 (1) ALM solutions that share available electrical capacity among charging stations to
+5 avoid the installation cost of additional electrical capacity, for example “software-
+6 based technology” as described in Decision (D.) 20-12-02918
+7 (2) ALM solutions that share available electrical capacity among charging stations
+8 and/or utilize on-site distributed energy resources (DER) to avoid the installation
+9 cost of additional electrical capacity
+10 In both cases there are certain barriers that may need to be addressed to formally
+11 recognize each solution’s load reduction potential. For example, some utilities may treat
+12 BTM storage as an incremental load, rather than as a load reducer.
+13 Q. Chapter 5 of PG&E’s Prepared Testimony proposes to share cost savings resulting
+14 from ALM implementation between PG&E and the customer site. Does VGIC
+15 believe PG&E’s proposed shared savings approach is a reasonable way to
+16 encourage ALM options?
+17 A. VGIC believes that PG&E’s shared savings approach is reasonable and is generally
+18 supportive of the underlying mechanism as a means to encourage some amount of ALM.
+19 However PG&E’s proposed approach is also insufficient to unlock the full potential that
+20 ALM can offer.
+21 Q. Why is PG&E’s approach insufficient to unlock ALM’s full potential?
+18 D.20-12-029 at 26.
+11
+
+1 A. Under the proposed EVC 2 ALM approach, both the host customer and PG&E would
+2 benefit from savings on behind-the-meter (“BTM”) make-ready infrastructure costs.
+3 However, due to the recently approved Rule 29, the host customer would not realize any
+4 benefit from reducing to-the-meter (“TTM”) infrastructure costs that result from their
+5 choice to implement ALM solutions. In other words, host customers choosing an ALM
+6 solution would only benefit from reducing the “Realm of EVC 2” infrastructure costs and
+7 would not benefit from the potentially more significant reduction in infrastructure costs
+8 that are in the “Realm of Rule 29.”19 Meanwhile, EVSE deployment can still be delayed
+9 if TTM upgrades are ultimately needed since there was no incentive to consider ALM
+10 solutions that might avoid these TTM upgrades.
+11 Q. Can you provide an example of this unrealized potential?
+12 A. Yes. Consider a hypothetical EVC 2 workplace charging customer who is not in an AB
+13 841 Prioritized Community. For this installation, BTM make-ready infrastructure costs
+14 are $12,500 per port without ALM solutions and $10,000 per port with ALM solutions.
+15 Without ALM, this customer would pay 20%, or $2,500, in per port make-ready costs,
+16 and with ALM the customer would pay $2,000 per port in make-ready costs. Therefore, if
+17 this customer believes an ALM solution is appropriate and desirable in their situation,
+18 they could implement ALM to save $500 per port on their BTM make-ready costs. If 10
+19 ports were installed at this site, the ALM solution would yield $5,000 in customer
+20 savings. Meanwhile, the resulting cost savings on TTM costs (e.g., service transformer,
+21 service/network upgrades20) that are in the realm of Rule 29 could be on the order of
+19 PG&E Prepared Testimony Ch 4-8, Figure 4-1.
+20 PG&E Prepared Testimony Ch 5-AtchA-3
+12
+
+1 $100,000 for the same site. However, none of those TTM savings are shared with the
+2 customer, despite being much more significant than the BTM savings. Since power
+3 sharing capabilities and ALM solutions may require customers to incur incremental costs
+4 (i.e., in partnership with their third-party ALM provider) or limit service, certain EVC 2
+5 customers may have relatively little incentive to select an ALM solution since they would
+6 be unable to realize a large portion of the benefits.
+7 Q. Given these limitations, should PG&E’s shared savings model for EVC 2 be
+8 adopted?
+9 A. Yes, however additional steps should also be taken. VGIC agrees that the shared savings
+10 model proposed in EVC 2 should be implemented to account for BTM cost savings.
+11 However, we recommend that the Commission direct PG&E to seek one of the following
+12 two options to appropriately account for TTM cost savings achieved through ALM:
+13 (a) Option 1: PG&E would offer an incremental incentive to EVC 2 host sites
+14 choosing to implement ALM that is based on the TTM cost savings
+15 component. In PG&E’s Prepared Testimony, the Company details an
+16 assessment process for “Opportunistic ALM” in which PG&E considers
+17 opportunities that are both BTM and TTM.21 As part of this process, PG&E
+18 should evaluate the TTM Rule 29 cost savings associated with achieving a
+19 certain Load Management Level, either on a site-specific basis or on average
+20 across EVC 2 customer sites. An incentive level for the avoided TTM costs
+21 that is commensurate with the BTM shared savings component could be
+21 PG&E Prepared Testimony Ch 5-AtchA-2.
+13
+
+1 considered (e.g., for a non-AB 841 PC L2 workplace charger, 20% of the
+2 savings would go to the site host, with the remaining 80% of savings
+3 benefiting all ratepayers).
+4 This additional rebate for electing ALM solution could help drive adoption of
+5 ALM solutions and lead to lower per port costs when both BTM and TTM
+6 costs are considered. VGIC believes this is in the best interest of ratepayers,
+7 supports the near-term actions detailed in D.20-12-029, supports the state’s
+8 TE goals, and supports the Commission’s vision for a high DER future.
+9 (b) Option 2: Alternatively, the Commission should authorize PG&E to revise
+10 Rule 29 to promote optional ALM that reduces TTM costs. This option is
+11 discussed in detail in Section III below.
+12 III. VGIC RECOMMENDS THE COMMISSION TAKE ACTIONS TO PROMOTE
+13 ALM IN THE “REALM OF RULE 29” TO COMPLEMENT THE USE OF ALM
+14 IN EVC 2 AND SUPPORT TE OBJECTIVES OUTSIDE OF EVC 2.
+15 Q. Is promoting optional ALM in the “Realm of Rule 29” reasonable and appropriate
+16 for the Commission to do at this time?
+17 A. Yes, VGIC believes promoting ALM in the “Realm of Rule 29” is reasonable and
+18 appropriate for the Commission to pursue at this time. On multiple occasions over the last
+19 year, VGIC and other stakeholders have pointed out the dilemma between the
+20 substantially diminished incentive for customers to choose ALM (due to the new EV
+14
+
+1 Infrastructure Rule 29) and the clear guidance in D.20-12-029. 22 However, the
+2 Commission has yet to take action on this issue. While the draft Resolution E-5167
+3 entertained the possibility of a workshop and proposals for how “Realm of Rule 29” costs
+4 should be treated in the future, the final adopted Resolution E-5167 removed this track.23
+5 At this time, it is uncertain whether the Commission will pursue any action to encourage
+6 voluntary ALM as a means to minimize TTM costs and streamline EVSE deployment.
+7 Q. Is it appropriate to address this issue in this proceeding?
+8 A. Yes. PG&E has proposed ALM Criteria that would seek to identify Opportunistic ALM
+9 solutions that includes TTM costs. 24 The only missing component appears to be an
+10 appropriate incentive for customers to pursue ALM solutions that address TTM costs.
+11 VGIC believes this proceeding may be the most appropriate place to address this issue at
+12 present. While this could have been addressed as part of the recent Rule 29 changes,
+13 VGIC recognizes that this did not occur and may not occur any time soon. Notably,
+14 Resolution E-5167 states that modifications to Rule 29 will not occur before PG&E’s
+15 next General Rate Case cycle ends in 2026.25 Despite this determination, in prepared
+16 testimony PG&E requests “authorization to modify Rule 29, section E.1.b to provide an
+22 See: January 15, 2021 Pre-Workshop Comments in Advance of January 29, 2021 EV EMS Workshop;
+VGIC Presentation during January 29, 2021 EV EMS Workshop;
+Comments of VGIC on Assigned Commissioners Ruling on AB 841 Implementation on February 5, 2021
+https://www.vgicouncil.org/s/Comments-of-VGIC-on-ACR-Regarding-Implementation-of-AB-841.PDF ;
+Reply Comments of VGIC on Assigned Commissioners Ruling on AB 841 Implementation on February 19, 2021
+https://www.vgicouncil.org/s/VGIC-Reply-Comments-on-ACR-for-AB-841-R18-12-006.pdf ;
+Multi-Stakeholder Letter on ALM Circulated to Commissioners and Energy Division staff on June 16, 2021
+https://www.vgicouncil.org/s/Enabling-ALM-Stakeholder-Letter-to-CPUC.pdf ;
+VGIC Comments on EV Infrastructure Rules Resolution on August 25, 2021 https://www.vgicouncil.org/s/VGICs-
+Comments-on-Draft-Resolution-E-5167-R18-12-006.pdf ;
+23 Draft Resolution E-5167 at 28; Resolution E-5167 at 30 and 55.
+24 PG&E Prepared Testimony Ch 5-AtchA-2.
+25 Resolution E-5167 at 30 and 55.
+15
+
+1 exception for non-residential Applicants receiving PG&E-owned chargers through the
+2 EVC 2 program (that would otherwise be Rule 29-eligible).”26 Thus, to the extent that
+3 modifications to Rule 29 are needed to encourage ALM solutions for TTM costs, VGIC
+4 believes that a similar exception may be appropriate and would support California’s
+5 broader TE goals.
+6 Q. What other actions should the Commission take to promote optional ALM
+7 solutions, pursuant to D.20-12-029?
+8 A. As outlined above, VGIC believes an incremental incentive for ALM solutions targeting
+9 TTM costs and offered through the EVC 2 program could be one potential mechanism.
+10 VGIC’s primary recommendation is for the Commission to direct PG&E to supplement
+11 its proposal in this proceeding with such a mechanism. Alternatively, the Commission
+12 could direct PG&E to revise its Rule 29 to incorporate a similar new mechanism for
+13 promoting optional ALM solutions. VGIC believes revising Rule 29 to incorporate
+14 optional ALM solutions would be consistent with Ordering Paragraph (OP) 5 of D.20-12-
+15 029.27 If the Rule 29 pathway is preferred, at a minimum, the Commission should direct
+16 IOUs to convene a workshop in June, as originally proposed in Draft Resolution E-5167,
+17 to discuss options for incentivizing ALM as a means to mitigate TTM costs borne by all
+18 ratepayers.
+26 PG&E Prepared Testimony Ch 4-12.
+27 OP 5 of D.20-12-029 states “Southern California Edison Company, San Diego Gas & Electric Company, and
+Pacific Gas and Electric Company shall, each, in all of its future applications for transportation electrification (TE)
+programs, or rule or tariff to support TE infrastructure installation: identify how it will deploy customer-side
+Automated Load Management (ALM) at host sites through such programs, rule, and/or tariff where appropriate
+because this technology will support TE installation at equal or lesser costs than hardware-based electrical capacity
+while meeting TE charging needs; and describe its standard evaluation criteria to determine host sites where ALM
+would benefit ratepayers by reducing costs while meeting host site needs for electric vehicle charging.”
+16
+
+1 IV. ADDITIONAL RECOMMENDATIONS FOR INCORPORATING VGI INTO
+2 EVC 2.
+3 Q. Does VGIC support PG&E’s proposed marketing, education, and outreach
+4 (ME&O) approach?
+5 A. VGIC would support the proposed approach if the following modifications were made:
+6 (1) ME&O related to rates should prioritize informing customers about the benefits of
+7 dynamic rates, including PG&E’s Day-Ahead Real-Time Hourly Pricing
+8 (DAHRTP) rate. In prepared testimony, PG&E details that host customers must
+9 take service under a time-of-use (“TOU”) rate to be eligible for EVC 2
+10 participation, and that customers will be defaulted onto PG&E’s BEV Rate.28
+11 PG&E also states that customers may choose to enroll in the Day-Ahead Hourly
+12 Real Time Price (“DAHRTP”) Rate, which is likely to be first implemented
+13 around the same time as the proposed implementation of EVC 2.29 While VGIC
+14 supports the proposed approach to allow EVC 2 customers to take service under
+15 the DAHRTP, the EVC 2 Application and prepared testimony are silent on how
+16 DAHRTP will be incorporated into PG&E’s ME&O strategy for EVC 2. The
+17 success of time-based rates hinges on the ability to effectively engage with
+18 customers.30 As such, VGIC believes focusing EVC 2 ME&O efforts related to
+19 rates on promoting DAHRTP could meaningfully support DAHRTP enrollment
+28 PG&E Prepared Testimony Ch 5-2.
+29 Decision 21-11-017.
+30 See US Department of Energy Electric Delivery & Energy Reliability, Smart Grid Investment Grant Program.
+“Customer Acceptance, Retention, and Response to Time-Based Rates from the Consumer Behavior Studies.”
+November 2016. Executive Summary Page xi and Section 8.2 at 70.
+https://www.energy.gov/sites/prod/files/2016/12/f34/CBS_Final_Program_Impact_Report_Draft_20161101_0.pdf
+17
+
+1 and the resulting charging load profiles that DAHRTP is designed to incentivize.
+2 VGIC recommends PG&E more clearly define the mechanism by which EVC 2
+3 hosts will be informed of and participate in DAHRTP.
+4 (2) ME&O related to dynamic rates, including PG&E’s DAHRTP rate, should
+5 leverage EVSPs, automotive original equipment manufacturers (OEMs), and the
+6 third-party entities to inform customers of both the benefits of dynamic rates and
+7 the possibility that their participation can be managed “behind-the-scenes” by an
+8 EVSP, automotive OEM, or other third-party entity.
+9 Q. Does VGIC support PG&E’s proposal to include bidirectional EV charging stations
+10 and incorporate vehicle-to-“X” capabilities in EVC 2?
+11 A. VGIC generally supports PG&E’s proposal to include bidirectional EV charging stations
+12 but offers some suggested modifications to PG&E’s proposal:
+13 PG&E correctly identifies that, although a nascent market, several bidirectional charger
+14 vendors do currently supply UL-certified and Rule 21-compliant bidirectional direct
+15 current (“DC”) EVSE.31 With an ever-increasing supply of bidirectionally-capable
+16 vehicles and chargers, it is prudent to prepare California’s TE programs, rules, and
+17 policies to account for a range of bidirectional use cases, technologies, and
+18 configurations.32 In addition to growing product options and supply, growing customer
+19 interest in bidirectional equipment, and an interconnection pathway for bidirectional DC
+31 PG&E Prepared Testimony Ch 5-5
+32 For VGIC’s “stocktake” of bidirectional-capable vehicles on California’s roads today, currently-deployed
+bidirectional EVSE, and forthcoming bidirectional products, see Opening Testimony of Ed Burgess on Behalf of the
+Vehicle Grid Integration Council filed September 1, 2021 in Rulemaking 20-11-003 at page 7:
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/6137a2f643f8bc74a42af9ae/1631036151186/20
+21-09-01+VGIC%27s+Opening+Testimony+on+Phase+2+Emergency+Reliability+Proposals+-+FINAL.pdf
+18
+
+1 EVSE, the Commission has also approved a temporary interconnection pathway for
+2 bidirectional alternating current (“AC”) pilots.33
+3 In prepared testimony, PG&E states that “customers who are interested in owning
+4 bidirectional equipment…may be eligible to participate in EVC 2…” 34 PG&E also notes
+5 that bidirectional EVSE can allow an EV to provide onsite backup power, but that
+6 “…PG&E will first need to, at a minimum, update customer rate analysis tools as well as
+7 billing systems to send correct usage to Third-Party Billing for Direct Access and
+8 Community Choice Aggregation customers.” 35 Based on PG&E’s expectation that
+9 customers who are interested in owning bidirectional equipment may be eligible to
+10 participate in EVC 2 and acknowledgement of discrete tasks to enable this participation,
+11 VGIC believes it would be appropriate for PG&E to set aside a dedicated budget to
+12 conduct the rate analysis tool update, billing systems updates, and any other tasks needed
+13 to integrate bidirectionally-capable EVSE into EVC 2.
+14 Q. Is the Automated Demand Response program that PG&E proposes to educate
+15 customers the most appropriate demand response (DR) program for EVC 2
+16 customers? How does PG&E’s proposal consider the Commission’s ongoing work
+17 on DR?
+18 A. In addition to PG&E’s Automated Demand Response program, PG&E should educate
+19 customers on the new Emergency Load Reduction Program (“ELRP”) Group A.5
+20 pathway and any upcoming EV DR programs that may result from the May 2022 DR
+21 Applications or subsequent DR programs developed in R.18-12-006.
+33 See CPUC Resolution E-5165.
+34 PG&E Prepared Testimony Ch 5-6.
+35 PG&E Prepared Testimony Ch 5-5.
+19
+
+1 V. CONCLUSION
+2 Q. Does this conclude your testimony?
+3 A. Yes.
+20
+
+Appendix A:
+Declaration of Ed Burgess in Support of Opening Testimony on Behalf of the Vehicle Grid
+Integration Council
+A-1
+
+DECLARATION OF ED BURGESS IN SUPPORT OF OPENING TESTIMONY ON
+BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+I, Ed Burgess, am the Senior Policy Director for the Vehicle Grid Integration Council
+(VGIC). Having worked for VGIC since its founding in 2020, I am currently managing policy
+and regulatory affairs for VGIC and its 18 member companies. My business address is 2150
+Allston Way, Suite 400, Berkeley, CA 94704. I declare under penalty of perjury that the
+foregoing facts in this document are true and correct.
+Executed on March 2, 2022 at Berkeley, California.
+Ed Burgess
+A-2
+
+Appendix B:
+Calculations Showing Potential Cost Savings From Voluntary ALM
+B-1
+
+1 Potential Magnitude of Voluntary EV Automated Load Management (ALM) Solutions in terms of
+2 California Utility Ratepayer Cost Savings
+3 VGIC estimates that the potential magnitude of benefits that could accrue to California utility
+4 ratepayers from voluntary EV ALM solutions through 2030 could be on the order of $1-2 billion
+5 dollars depending on participation rates and assumed number of chargers per site. The table
+6 below demonstrates how this range was estimated. VGIC recognizes that there are many
+7 practical barriers to achieving these benefits and thus, this is intended to be a high level “first
+8 approximation” of the potential magnitude of this issue.36
+Table B-1
+118,950 CEC Projected Charger Installations by 2025 (AB 2127 Report, Table 3)37
+CEC Estimate of Additional Chargers Needed by 2030 (AB 2127 Report, Table
+943,824 3)38
+1,062,774 Total L2 chargers needed by 2030
+10 Assumed # chargers per site
+106,277 Total Sites
+Potential ALM savings per site - low (low end of range based on PG&E's
+$30,000 experience to date as per Appendix D of D.20-12-029)39
+Potential ALM savings per site - high (high end of range based on PG&E's
+$200,000 experience to date as per Appendix D of D.20-12-029)40
+$115,000 Assumed ALM savings per site (midpoint of range above)
+Total Technical Potential for ALM savings (calculated based on midpoint of
+$ 12,221,901,000 PG&E savings range times total sites)
+10% Assumed Site Host Participation Rate (low)
+20% Assumed Site Host Participation Rate (high)
+Potential ALM savings through 2030 - low (based on total technical potential
+$ 1,222,190,100 times low participation rate)
+Potential ALM savings through 2030 - high (based on total technical potential
+$ 2,444,380,200 times high participation rate)
+36 Note this is consistent with Cal Advocates’ estimate that ratepayer burden related to waiving utility-side customer
+contributions could amount to as much as $2.2 billion by 2030. See Reply Comments of the Public Advocates Office
+on the Assigned Commissioner’s Ruling Regarding Implementation of Assembly Bill 841. (February 19, 2021).
+Page 4. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M366/K442/366442085.PDF
+37 Assembly Bill 2127 Electric Vehicle Charging Infrastructure Assessment: Analyzing Charging Needs to Support
+Zero-Emission Vehicles in 2030. Page 14. https://www.energy.ca.gov/programs-and-topics/programs/electric-
+vehicle-charging-infrastructure-assessment-ab-2127
+38 Ibid.
+39 PG&E EVCN Data. Appendix D of D.20-12-029 “PG&E Electric Vehicle Infrastructure OIR Rulemaking 18-12-
+006 Data Response” https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M356/K212/356212163.pdf
+40 Ibid.
+B-2
+
+B-3

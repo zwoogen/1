@@ -1,0 +1,102 @@
+November 14, 2023
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Comments of the Vehicle Grid Integration Council to Resolution E-5300:
+Approval, with Modification, of San Diego Gas and Electric Company’s
+Near-Term Priority Proposal for Transportation Electrification Advisory
+Services Program Pursuant to Decision 21-07-028.
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B and Comment Letter E-5300 circulated on
+October 25, 2023, the Vehicle Grid Integration Council (“VGIC”) hereby submits comments to the
+above-referenced Draft Resolution E-5300 Approving, with Modifications, San Diego Gas and
+Electric Company’s (“SDG&E”) Near-Term Priority Proposal for Transportation Electrification
+Advisory Services Program Pursuant to Decision 21-07-028 (“Draft Resolution”).
+VGIC generally supports the adoption of SDG&E’s proposed transportation electrification (“TE”)
+advisory services program. VGIC believes more TE and fleet advisory services are critical to
+advancing vehicle-grid integration (“VGI”) and transportation decarbonization.
+In response to SDG&E’s Advice Letter 4233-E, VGIC recommended that SDG&E develop a
+program element to:
+“…not only educate customers on ALM solutions but also conduct site assessments to
+recommend ALM solutions to a customer when it would be most beneficial to save on
+infrastructure costs while still meeting customer mobility needs.”1
+In its response, VGIC also notes that customers should be allowed to decide whether to implement
+an ALM solution in exchange for cost reductions or non-monetary benefits (i.e., backup power
+through a co-located energy storage system). If a site host decides to elect an ALM solution, they
+must also be free to choose which customer-side ALM technology they would like to install and use.
+In the Draft Resolution, the Commission states this strategy is “premature,” stating:
+1 Response of VGIC to AL 4233-E of SDG&E: Near-Term Priority Proposal for TE Advisory Services Program
+Pursuant to D.21-07-028. June 20, 2023. Page 2. Available at: https://www.vgicouncil.org/s/VGICs-
+Response-to-SDGE-TE-Advisory-Services-AL-4233-E.pdf
+1
+
+November 14, 2023
+Page 2 of 3
+“D.22-11-040 requires the CPUC, with support from its Technical Consultant, to conduct a
+study to assess ALM strategies and product offerings, barriers, equity impacts, and costs to
+inform FC1 program implementation. We find that this work authorized in D.22-11-040 is
+the appropriate venue to address this question and it is not appropriate to require SDG&E to
+develop an ALM site assessment methodology for TEAS.”2
+VGIC appreciates the CPUC and Technical Consultant's efforts to assess ALM formally and
+holistically. However, we are concerned that the pace of this assessment is out of step with the real-
+world experience of today’s customers and installers. Simply put, the demand from site hosts for the
+deployment of new EV charging stations is outstripping California utilities’ ability to approve and
+construct new infrastructure. Promoting ALM strategies can result in the faster deployment of EV
+charging infrastructure across the state while triggering fewer new distribution system infrastructure
+upgrades. ALM, therefore, represents a relief valve for the mounting energization timeline challenge.
+VGIC clarifies that this is not a matter of pre-empting a future problem but rather of unlocking a
+critical tool to address the growing backlog of sites that are categorically nudged toward new
+infrastructure upgrades rather than considering how to use existing infrastructure as either an interim
+or long-term solution.
+Notably, the Commission has a long-standing, dedicated effort in Rulemaking (“R.”) 18-12-006
+(“DRIVE OIR”) specifically to address the lengthy energization timelines for EV charging
+infrastructure at large. On October 30, 2023, the investor-owned utilities (“IOUs”) filed its Joint
+IOU Report on the EV Infrastructure Service Energization Workshop (“Energization Workshop
+Report”), which states, “SDG&E explained that everyone needs capacity right now.”3 VGIC
+believes SDG&E could address this problem through an ALM promotion strategy that extends
+beyond mere education and instead works with customers to understand how each site could benefit
+from ALM in both monetary and non-monetary terms.
+In addition to the urgent matter of energization timelines highlighted in Resolution E-5247 and the
+Energization Workshop Report, VGIC notes a growing cost imperative to pursue ALM through
+SDG&E’s proposed TEAS program earnestly. Cal Advocates recently developed the Distribution
+Grid Electrification Model (“DGEM”) study and report. The DGEM and Kevala’s Electrification
+Impacts Study Part 1 (“EIS”), taken together, underscore one simple, immutable fact: if
+California does not promote the spectrum of VGI strategies at its disposal, EV charging will
+remain the largest factor in determining future electrification costs. The DGEM study found
+that distribution system investments required to support high electrification through 2035 can be
+cut in half primarily through the use of EV load management strategies like ALM. Senate Bill
+(“SB”) 676 and the VGI Strategies Implementation Decision (“D.”) 20-12-029 establish drivers
+2 Draft Resolution E-5300. Page 19.
+3 Compliance Filing of SCE, SDG&E, PG&E, Bear Valley Electric Service, CalPeco Electric, and Pacificorp
+Pursuant to OP 6 in Resolution E-5247 and E-Mail Ruling Setting Workshop on EV Charging Infrastructure
+Service Energization Process. October 30, 2023. Page 15.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M520/K650/520650614.PDF
+2
+
+November 14, 2023
+Page 3 of 3
+for the Commission to advance ALM. However, the comparative findings of EIS and DGEM
+establish an abundantly clear $25 billion imperative for the Commission to direct SDG&E to
+conduct ALM site assessments to reduce the financial burden associated with transportation
+electrification on ratepayers.
+While EV service providers (e.g., EV fleet management companies) already conduct these
+assessments with their customers, the Commission should direct SDG&E to augment these
+assessments with data related to utility-side infrastructure. VGIC strongly recommends that the
+Commission revise the Draft Resolution to direct SDG&E to develop and incorporate a standard
+methodology for ALM site assessment in the TEAS program. As part of this site assessment,
+SDG&E can calculate avoided costs, determining the value of avoiding or deferring a given
+infrastructure upgrade.
+I. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the Draft Resolution and
+looks forward to collaborating with the Commission and stakeholders in this proceeding.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE GRID INTEGRATION COUNCIL
+cc: Greg Anderson Regulatory Tariff Manager (SDGETariffs@sdge.com)
+Emily Clayton, Energy Division (Emily.Clayton@cpuc.ca.gov)
+Paula Gruendling, Energy Division (Paula.Gruendling@cpuc.ca.gov)
+Service list R.18-12-006
+3

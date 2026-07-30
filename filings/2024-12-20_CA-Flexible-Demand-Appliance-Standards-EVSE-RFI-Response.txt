@@ -1,0 +1,610 @@
+December 20, 2024
+Email to: docket@energy.ca.gov
+Docket Number: 24-FDAS-04
+Subject: Flexible Demand Appliance Standards for Electric Vehicle Supply Equipment
+RE: Comments of the Vehicle Grid Integration Council on the Request for Information
+(RFI) Flexible Demand and Load Shifting in California for Electric Vehicle Support
+Equipment
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide comments
+on the California Energy Commission's (CEC) Request for Information (RFI) on setting a Flexible
+Demand Appliance Standard (FDAS) for electric vehicle supply equipment (EVSE).
+INTRODUCTION
+There are many factors to consider when setting a Flexible Demand Appliance Standard (FDAS)
+for Electric Vehicle Supply Equipment (EVSE). The increasing adoption of electric vehicles (EVs)
+will create significant opportunities for California to unlock the grid benefits provided by EVs.
+At the same time, EVSE and EV load shifting are distinct from other flexible loads currently
+addressed or under consideration for FDAS standards, such as pool pumps, water heaters, and
+HVAC/thermostats. Unlike these appliances, which are stationary and used in similar ways by
+large groups of customers, EV charging behavior varies widely. For example, the FDAS standard
+for pool controls includes a default schedule for equipment operation, which works well because
+most pool equipment is used in a predictable and uniform manner. Setting a default schedule
+therefore does not significantly impact the consumer experience.
+In contrast, EV charging needs are much more diverse. For instance, some customers, such as
+business fleets, may charge daily on predictable schedules, while others charge sporadically every
+few days at public charging stations. Most customers will also face specific occasions, such as
+road trips, that dramatically alter typical charging patterns. These varied and dynamic needs make
+it unlikely that a single "default schedule" would work for all customers. To maintain a positive
+charging experience, the CEC must ensure that any FDAS standard accommodates these nuances.
+Furthermore, the FDAS team should be mindful of the risk associated with imposing duplicative
+standards or standards that fail to consider broader discussions already underway within the CEC
+and other agencies. For example, the CEC’s vehicle-grid integration docket (22-EVI-06) addresses
+interoperability standards between EVs and EVSE. Similarly, the CEC's Reliability, Renewable
+1
+
+Energy & Decarbonization Incentives (RREDI) Division has developed the Demand Side Grid
+Support (DSGS) program to explore leveraging EVs for emergency demand response. The
+California Public Utilities Commission (CPUC) has a Transportation Electrification team
+examining all aspects of the EV transition and its impact on California's electric grid. The CPUC
+currently oversees a wide range of pilots and programs that seek to unlock load flexibility from
+EVs. The CPUC is also working on implementing communication standards for EVs, EVSE, and
+other distributed energy resources (DERs) to enable these technologies to provide grid benefits,
+including through smart inverter standards and power control systems. Extensive discussions have
+already taken place in these venues. FDAS developments related to EVs should seek close
+coordination with these efforts.
+In the following comments, VGIC responds to the outlined questions, drawing on information and
+insights from VGIC members and other stakeholders.
+RESPONSES TO QUESTIONS
+2. What is the current landscape of options for charging schedules that prioritize the driver
+experience, emissions reductions, financial savings, and/or other factors? Please provide
+information or data on customer receptiveness to various charging schedules, such as charge
+immediately, charge by departure, etc. and the entity who possesses such information.
+Customers in California are currently able to conduct their charging in the way that best suits their
+driver experience and related factors. However, certain measures have been implemented to
+optimize charging around times of low system costs through time-of-use rates, dynamic pricing
+pilots, and managed charging programs, as detailed below. Notably, most existing utility rates are
+limited in their design as they shift charging load away from times of high bulk system demand
+and/or low supply on the electric system, but do not address more localized distribution system
+constraints.
+Available customer managed charging programs are typically separated into two broad categories,
+which have been outlined by the Smart Electric Power Alliance (SEPA):1
+● Passive Managed Charging: This charging method, also known as behavioral load
+control, relies on customer behavior to affect charging patterns. Price signals are often
+utilized in passive managed charging programs to influence customer charging behavior,
+1 Smart Electric Power Alliance (SEPA), The State of Managed Charging in 2024, September 2024. Available at:
+https://sepapower.org/resource/state-of-managed-charging-in-2024/
+2
+
+but ultimately, the customer remains in control of the vehicle charging.
+● Active Managed Charging: This form of managed charging, also known as direct load
+control, supersedes customer charging behavior and imposes utility preferences on charger
+functionality. Charging is controlled by communication signals sent from a utility, solution
+provider, or aggregator to a vehicle or charger. Active managed charging can be event
+based, where load is controlled during a limited number of events in a given time period.
+Active managed charging can also be continuous, which enables more constant control that
+is responsive to grid conditions on a more granular scale.
+Static time-of-use (TOU) rates, the most popular passive managed charging tool, are available to
+most customers in California. Most load-serving entities offer some form of TOU rate with an
+evening peak period and seasonal differences, with summer and winter having different rates. The
+California investor-owned utilities also offer TOU rates marketed specifically to EV customers
+that have a larger peak to off-peak price differential to further encourage off-peak charging. Some
+of these rates are applied solely to the EV load, especially for separately metered commercial EVs
+or public charging stations, in order to prevent those rates from being placed on loads that are not
+as flexible.
+California is also making investments to implement dynamic rates that include hourly prices
+(instead of longer peak/off-peak periods) that are published daily. As envisioned by the CPUC’s
+CalFUSE framework, automation service providers (ASPs) would optimize a customer’s charging
+load in response to these price signals once the updated prices are received.2 These dynamic rates
+are still in the early pilot stage. PG&E and SCE both have technology neutral hourly dynamic rate
+pilots that are offered to all bundled customers and CCAs can opt-in to participation.3 VGIC is not
+aware of any EV ASPs or EV charging customers participating in either of these pilots.4 PG&E
+recently launched an EV-specific hourly rate pilot as part of its Vehicle to Everything (V2X) Pilots:
+Phase II.5 These approaches, although they have experienced limited customer participation to
+date, offer a potential path to comply with the CEC’s Load Management Standards, which require
+the large load-serving entities to offer hourly rates to customers. In the rollout of these CalFUSE
+dynamic rates, it is expected that automation and active control of devices will play an important
+2 CPUC, Advanced Strategies for Demand Flexibility Management and Customer DER Compensation, June 22,
+2022. Available at: https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-
+response/demand-response-workshops/advanced-der---demand-flexibility-management/ed-white-paper---advanced-
+strategies-for-demand-flexibility-management.pdf
+3 See more information on the “Expansion of PG&E and SCE System Reliability Dynamic Rate Pilots” here:
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-response/demand-
+flexibility-oir/pilot-expansion-2024.pdf
+4 SCE recently requested an extension to implement its pilot due to implementation barriers related to the underlying
+billing system.
+5 See PG&E’s Vehicle-to-Everything (V2X) pilot program at: https://www.pge.com/en/clean-energy/electric-
+vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-v2x-pilot-programs.html
+3
+
+role in customer participation in these rates. However, it is important to note that most customers
+will not be equipped to process hourly rates and optimize their charging behavior without the
+assistance of third-parties that will help customers schedule their charging to minimize bills.
+There are also other types of active managed charging programs which have been piloted in
+California and implemented at scale in other states. For example, PG&E’s long-running BMW
+ChargeForward Pilot allows BMW to send out signals to EVs to shift charging to times with higher
+renewable energy on the grid.6 PG&E’s new Charge Manager program, launched in partnership
+with WeaveGrid, actively manages EV charging load in areas with high EV penetration.7
+Baltimore Gas and Electric’s (BGE) Distribution-Level Managed Charging Program shows the
+significant benefits of active managed charging programs and is discussed further below in
+response to question 6. At this time, active managed charging programs are not available to all
+California customers. However, going forward, VGIC anticipates that utilities, including
+California utilities and load-serving entities, will continue expanding active managed charging
+programs given the benefits relative to the above-noted CalFUSE approach and TOU rate designs.
+3. Please comment on the various EVs or EVSE consumer charging preferences such as
+charge immediately or “charge by departure”, where the EV is charged to a specified
+percentage with a set time to be ready.
+There are many entities looking at customer mobility needs and driving habits and associated
+preferences for different charging schedules to meet those mobility requirements. Some reports on
+consumer charging habits and preferences have been released by Plug In America,8 Escalent,9 and
+Consumer Reports.10
+VGIC reiterates that EV charging preferences are diverse and VGIC expects that preferences will
+change over time as EVs become more common and consumers become more familiar with the
+technology. For example, the EV market is currently dominated by consumers that have access to
+private charging at home, and, notably, most charging is currently done at home.11 However, most
+Californians are renters or may never have access to at-home charging and may rely more on public
+chargers. Small, medium, and large business and municipal fleets across light-, medium-, and
+6 BMW ChargeForward: https://www.bmwchargeforward.com/
+7 EV Charge Manager: https://www.pge.com/en/clean-energy/electric-vehicles/ev-charge-manager-
+program.html#accordion-73ce7b7a8a-item-6b1709a091
+8 See Plug In America, 2024 EV Driver Survey at: https://pluginamerica.org/survey/
+9 See Escalent EV consumer studies at: https://escalent.co/industries/automotive-and-mobility/evforward/
+10 See work by Consumer Reports on EV charging experience at:
+https://advocacy.consumerreports.org/press_release/consumer-reports-launches-effort-to-better-understand-ev-
+charging-experience/
+11 Plug In America, 2024 EV Driver Annual Survey Report, pg. 15. Available at: https://pluginamerica.org/wp-
+content/uploads/2024/09/2024-Plug-In-America-EPRI-EV-Driver-Survey-Report_Final.pdf
+4
+
+heavy-duty classes are all currently exploring how to best manage charging for their own needs.
+These mobility needs are very different from private passenger vehicles and extremely diverse
+across sectors. For example, Southern California Edison has shared the below range of EVSE
+power levels by sector, which ranges from 7 kW to 1,200 kW.12 Note this is the largest
+nonresidential make-ready program in the country, offering a relatively large sample size
+demonstrating the immense variation in site characteristics.
+Given the considerable diversity of mobility needs across consumers, it will be most
+beneficial for customers to be given a wide range of charging schedules and managed
+charging programs to find what best fits their specific needs and internal cost-benefit
+calculations. Offering a variety of options can enhance public acceptability and feasibility by
+tailoring approaches to the diverse needs of customers and stakeholders.
+By offering a portfolio of charging schedules and managed charging options, the CEC and other
+stakeholders can experiment with more innovative rate schedules (like LMS-compliant rates and
+CalFUSE pilots), utility managed charging programs, and customer engagement strategies. All of
+this will provide real-world data on consumer preferences and needs to drive long-term EV policy.
+4. When will DC charging equipment be available for residential installation? What are the
+expected use cases, penetration, price range and power level of DC equipment used in the
+12 Southern California Edison, Transportation Electrification Program Advisory Council, March 8th, 2024, pg. 12
+(Charge Ready Transport).
+5
+
+residential sector? Would certain DC chargers installed at private residences require a
+Battery Energy Storage System to manage peak load?
+DC EVSE for the residential sector already exists and is being deployed at homes. In particular,
+existing bidirectional EVSE is almost exclusively leveraging DC equipment to enable the
+discharging pathway. Today’s residential bidirectional DC EVSE equipment is unique as it charges
+the EV battery using an AC configuration and uses DC configuration to discharge via a separate
+inverter. Examples of these residential bidirectional DC EVSE are:
+● Ford Charge Station Pro: 19.2 kW, $1,31013
+● GM Energy Powershift Charger: 19.2kW, $94914
+Outside of the bidirectional charging use case, it is uncommon for DC chargers to be installed in
+residential settings at this time, since electric upgrades needed in most homes to unlock this
+capability are often lengthy and cost prohibitive.
+Residential DC EVSE do not necessarily require the installation of onsite energy storage to manage
+peak load. However, customers may choose to install battery energy storage in conjunction with
+their bidirectional DC EVSE, and unidirectional DC or AC EVSE, to help reduce their electric
+bills and to provide backup power to charge their vehicles during outages. Automakers, EVSE
+providers, and solar + storage providers are beginning to offer comprehensive solutions to
+residential customers that include solar, stationary storage, and bidirectional EVSE. These can be
+operated to create optimized residential systems that can minimize electric bills, greenhouse gas
+emissions, and have extended backup power capabilities.
+Ensuring that bills are properly managed when installing bidirectional charging equipment is
+especially important because these systems are more expensive than standard, unidirectional AC
+EVSE. The bidirectional DC EVSE price points above exceed the typical unidirectional Level 2
+EVSE price points.15 This is before installation costs or other electrical upgrade costs needed to
+install the equipment.
+5. What software and hardware capabilities could enable public EVSEs to relieve/eliminate
+grid congestion at the Distribution (referring to Transmission and Distribution, T&D, for
+the grid) level? What control strategies are available to the grid operator and/or load
+aggregator to shift and/or curtail demand from EVSEs at the Distribution level to maintain
+grid reliability?
+13 See the Ford Charge Station Pro: https://chargers.ford.com/ford-charge-station-pro
+14 See GM Energy PowerShift Charger: https://gmenergy.gm.com/for-home/products/gm-energy-powershift-charger
+15 https://blog.carvana.com/2021/07/how-much-does-it-cost-to-install-an-ev-charger/
+6
+
+VGIC notes that there is considerable work underway related to flexible EVSE service connection,
+which specifically supports T&D deferral/avoidance, including at public charging stations. This
+work is spread across ad-hoc pilots from PG&E (Flex Connect pilot) and SCE (Load Control
+Management Systems pilot) and procedural references (i.e., in CPUC’s High DER proceeding,
+Energization Timelines proceeding, Transportation Electrification proceeding, and Rule 21
+proceeding). VGIC recommends the CEC and CPUC coordinate closely to identify a venue to
+define the required capabilities, develop the processes and tools needed for implementation, and
+adopt any resulting utility tariff changes.
+Aside from PG&E and SCE’s emerging flexible service connection pilots, broad time-of-use
+signals and demand response events are used to discourage EV charging at times of system-wide
+peak. General time-of-use periods provide signals to increase or reduce charging loads that may
+coincide with times of congestion at the distribution level, but not always. Critically, different
+distribution substations and circuits can have local peak times outside of the typical 4-9pm time-
+of-use peak. Similar to time-of-use rates, demand response programs signal events to participating
+customers to reduce load, but events are typically based on broad times of stress for an entire utility
+or the California grid as a whole.
+The ability of EVs and other distributed energy resources to provide more localized congestion
+relief and additional distribution grid services has been discussed in the Smart Inverter
+Operationalization Working Group.16 The Working Group found that enabling operational
+flexibility in charging (and potential bidirectional charging) will best unlock distribution services
+for EVs. This means allowing for both firm and non-firm/dynamic electric import limits and more
+granular grid signals. The CPUC has yet to identify how to enable this through flexible service
+connections that allow EV chargers to connect to the electric grid without using their full import
+capability on a 24x7 basis. These flexible service connections could allow for a static import limit
+schedule to be set or for dynamic (i.e., daily, weekly) schedules to be sent, both based on local grid
+conditions.
+Additionally, dynamic rates can provide more granular signals for distribution congestion
+management, specifically dynamic distribution capacity price signals based on current or
+forecasted grid conditions. The CEC’s Load Management Standards require that load-serving
+entities implement dynamic distribution components within the LMS-compliant optional rates. As
+detailed in VGIC’s response to question 3 above, the CPUC has authorized CalFUSE pilots that
+include dynamic distribution components. Many of these rates are broadly applicable to different
+16 Xanthus and Verdant, Smart Inverter Operationalization (SIO) Working Group Report, February 1, 2024,
+prepared for CPUC Rulemaking 21-06-017. Available at:
+https://gridworks.org/wp-content/uploads/2024/02/Smart-Inverter-Operationalization-Working-Group-Report-
+Feb.1.24.pdf
+7
+
+customer types or technologies, but PG&E’s Vehicle-to-Everything (V2X) pilot programs include
+Hourly Flex pricing and are specifically available to EV charging customers.
+In order to unlock these local dynamic responses for T&D value, the following technical solutions
+can be used:
+● Power Control Systems (PCS): PCS describes software functionality that dynamically
+manages loads by sensing site-level demand and autonomously adjusting connected
+devices to remain within a specified limit, thus allowing a customer to operate within the
+rated capacity of their service connection.
+● Automated Load Management (ALM): ALM systems help manage the electrical load of
+public charging stations by automatically allocating power across multiple chargers to
+reduce the amount of power being drawn from the grid. Multiple companies offer these
+types of solutions, and different software solutions can help to better optimize power
+distribution to prioritize different customer needs, etc.
+● Energy Management Systems: Similar to ALM, energy management systems help to
+optimize power draws, but instead of focusing solely on EVSE, the system is focused on
+managing load at the entire site. Broader energy management systems are often used to
+manage onsite DERs, such as energy storage to reduce power draw from the grid when
+needed.
+● Distributed Energy Resources Management System (DERMS): DERMS is a platform
+which helps distribution system operators, typically utilities, manage their grids that
+include significant numbers of distributed energy resources (DER). DERMS are not a part
+of EVSE internal functioning but EVSE may be enabled to communicate with DERMS
+platforms to receive grid signals or send data to the utility.
+6. Similarly, what software and hardware capabilities are best suited to enable residential
+EVSEs to relieve grid congestion at the Distribution level? What control strategies can be
+deployed by the grid operator and/or load aggregator to shift and/or curtail demand from
+residential EVSEs at the Distribution level support grid reliability?
+Some of the software and hardware capabilities discussed above apply to residential use cases,
+including energy management systems. Smart electrical panels that allocate power between
+different circuits or large loads in the home can also be used to balance load between EVSE and
+other home needs. Utility DERMS and software to communicate grid signals may also facilitate
+distribution system congestion relief. As discussed below, software to orchestrate charging
+8
+
+behavior may be particularly high-value in the residential context, even where this software will
+not be located on each individual EVSE.
+Similar to control strategies for public chargers, time-of-use rates are still the most common control
+strategy used to reduce EV demand. Dynamic rates with a dynamic distribution component are
+also being piloted for residential customers through PG&E’s V2X Pilot: Phase 2, which can create
+more localized price signals for distribution grid management, although participation is limited to
+customers with bidirectional charging equipment. Additionally, demand response programs are
+available for residential customers, such as the Emergency Load Reduction Program (ELRP) and
+Demand Side Grid Support Program (DSGS). These demand response programs are focused on
+alleviating system peaks, but programs can be targeted to more localized distribution system needs.
+Active managed charging programs are proving highly valuable in unlocking the full potential of
+residential EV charging flexibility to manage distribution congestion. As TOU peak periods shift
+EV charging away from system peak times, the risk of distribution congestion from EV charging
+increases as “secondary peaks” emerge (often referred to as “timer peaks” or “snapback peak”).
+For example, using a high time-of-use rate from 4-9pm may result in managed EVSE load that
+avoids charging during this period. However, when the 9pm off-peak period starts, charging
+demand may surge as pre-programmed EV/EVSE devices begin charging. At a system level, this
+increase in demand is relatively minimal, but it can have outsized impacts on individual
+distribution circuits. This problem can be particularly acute given the geographic clustering of EV
+charging. In the residential sector, EV adoption has been clustered in specific neighborhoods.17
+For commercial MDHD fleets, charging is expected to also cluster, for example in warehouse
+parks and commercial corridors, with the potential for even more outsized distribution impacts
+given the size of MDHD charging depots compared to residential charging. Given California’s
+broad EV adoption goals, secondary peaks may also have system-wide impacts in the long-term.
+To manage these secondary peaks, different jurisdictions are developing staggered charging
+approaches. These send tailored signals to individual EVs / EVSE to distribute charging load more
+evenly across a given time period. PG&E’s new Charge Manager program, launched in partnership
+with WeaveGrid, actively manages EV charging load in areas with high EV penetration.18
+Baltimore General Electric (BGE) has also partnered with WeaveGrid to deploy a managed
+charging program specifically focused on distribution asset protection. The BGE pilot has shown
+17 Smart Electric Power Alliance (SEPA), The State of Managed Charging in 2024, September 2024, pg. 20.
+Available at: https://sepapower.org/resource/state-of-managed-charging-in-2024/
+18 EV Charge Manager: https://www.pge.com/en/clean-energy/electric-vehicles/ev-charge-manager-
+program.html#accordion-73ce7b7a8a-item-6b1709a091
+9
+
+promising results, reducing peak demand on individual circuits by 33% and yielding a benefit-cost
+assessment score of 1.58.19
+There are many automakers, EV / EVSE / energy management platforms, utilities, and others
+working to advance managed charging for distribution management. These include individual
+OEMs as well as third-parties like WeaveGrid, Energyhub, Kaluza, ev.energy, and ChargeScape.
+VGIC encourages California to create managed charging programs with tailored signals to
+optimize distribution systems.
+7. What hardware and software are needed on the EV’s Onboard Charging System to enable
+load shifting? What percentage of EVs currently receive grid signals (e.g., electricity prices,
+GHG emissions and California Independent System Operator Flex Alerts) to schedule load
+shifting, demand response, and/or bidirectional charging? What percentage of EVs require
+the EVSE to receive grid signals to schedule load shifting, demand response, and/or bi-
+directional charging? What are the most common methods for communicating signals to
+EVSEs and EVs (e.g. Ethernet, Wi-Fi, Cellular, AM/FM broadcast)?
+All modern electric vehicles come with onboard charging systems and telematics with significant
+technical capabilities. Telematics systems commonly collect data on driving patterns, battery state
+of charge/conditions, charging patterns, and other data that can be used to manage charging. These
+systems can also receive grid signals from different entities. Some examples of programs that
+utilize telematics to receive program signals are:
+● BMW ChargeForward Program:20 The BMW ChargeForward Program is specifically
+focused on optimizing charging based on grid electricity carbon intensity but can also
+consider local grid conditions and electricity costs.
+● SMUD Managed EV Charging Program:21 SMUD’s program is designed to reduce grid
+congestion and greenhouse gas emissions.
+● Ford Energy Rewards (Emergency Load Reduction Program):22 Although Ford’s Energy
+Rewards Program only curtails charging at a designated location, event signals are sent to
+the vehicle.
+19 BGE. Case No. 9478 – BGE Smart Charge Management Program Proposal. June 4, 2024. Page 9.
+https://webpscxb.psc.state.md.us/DMS/case/9478
+20 BMW ChargeForward Report, 2020. Available at: https://www.bmwchargeforward.com/assets/BMW-
+ChargeForward-Report-667376fa.pdf
+21 See more information on SMUD’s Managed EV Charging Program at: https://www.smud.org/Going-
+Green/Electric-Vehicles/Residential/Managed-EV-Charging
+22 See more information on Ford Energy Rewards at: https://www.ford.com/grid/capr
+10
+
+● PG&E Charge Manager:23 Launched in partnership with WeaveGrid, Charge Manager
+actively manages EV charging load in areas with high EV penetration, including via
+integration with Tesla vehicles, as well as chargers from Emporia, ChargePoint, and
+Wallbox.
+Even in programs that send grid signals to EVSE, on-vehicle telematics can be used to verify
+responses to particular demand response events or general load shift. Most onboard charging
+systems already have the technical hardware/software capabilities to enable load shifting. Instead,
+the biggest barrier to the utilization of these capabilities is access to programs that provide
+sufficient value to the customer for shifting their load.
+8. (Focused on EV manufacturers) Is the EV telematics system used to receive grid signals
+(e.g., electricity prices, GHG emissions, and California Independent System Operator Flex
+Alerts) and schedule charging in response to those grid signals? If so, what is the monthly
+cost charged to the customer for these capabilities?
+Yes, the telematics is used to receive grid signals and schedule charging in response to those
+signals. See the answer to question 7 above.
+9. How can medium-duty and heavy-duty (MDHD) EVs and their EVSE fit into the CEC’s
+goal of load shifting to avoid GHG emissions?
+VGIC believes that MDHD EVs should have ample opportunities to support the CEC’s goal of
+load shifting. In order to meet California’s broader climate and air quality goals, the transition
+away from fossil fuel MDHD vehicles will be critical. CARB estimates that roughly 350,000
+MDHD battery EVs will be operated in California by 2037 to meet Advanced Clean Fleets
+requirements.24 Given the very large power draws of MDHD charging depots, the CEC should
+specifically consider how this load can be incentivized to lower system-wide GHG emissions and
+prevent overloading of the distribution system.
+The Flexible Service Connection frameworks described above can help MDHD fleets seeking to
+shift their charging schedules to times where grid capacity and generation supply exists. To date,
+flexible service connections have served as important bridge solutions to partially energize sites
+that would otherwise face lengthy energization timelines. PG&E’s Flex Connect pilot and SCE’s
+23 EV Charge Manager: https://www.pge.com/en/clean-energy/electric-vehicles/ev-charge-manager-
+program.html#accordion-73ce7b7a8a-item-6b1709a091
+24 CARB, Proposed 2022 State Strategy for the State Implementation Plan, August 12, 2022, pg. 150. Available at:
+https://ww2.arb.ca.gov/sites/default/files/2022-11/Proposed_2022_State_SIP_Strategy.pdf
+11
+
+Load Constraint Management System (LCMS) pilot could both allow MDHD EV charging at sites
+that typically face long energization timelines.
+Fully utilizing bidirectional charging and V2G exports for customers interested in doing so can
+avoid GHG emissions by mitigating the need for peaking electrical generation capacity. Some
+MDHD fleets may be some of the best-positioned vehicles to provide V2G exports given the large
+batteries and specific, set charging schedules. For example, school buses, tour buses, and refuse
+trucks that operate during the daytime and are parked during the evening net peak are well
+positioned to be grid resources. School buses are the earliest adopters of V2G equipment and
+programs and can provide significant grid power. For example, Oakland Unified School District’s
+all-electric fleet can provide 2.1 GWh of flexible power a year.25
+12. What are the charging practices for commercial fleets? Bus fleets? Overnight depot level
+charging? What power levels? How is the charging of the fleet managed? Manually rotated?
+Management software?
+VGIC discusses consumer charging preferences in response to question 3. Overall, charging
+preferences for commercial fleets are exceptionally diverse.
+13.Which communication protocols or components of existing communication protocols are
+used to enable load shifting capabilities for EVs and EVSE? What is the implementation
+status of these communication protocols? Are industry-wide standard communications and
+control protocols currently in use or planned? Are there remaining gaps to enabling load
+shifting capabilities?
+There are a wide variety of communication protocols that can be used to enable load shifting
+capabilities. These protocols generally allow EVSE or EVs themselves to receive grid signals from
+other parties, such as the utility. Some of these protocols include:
+● APIs / Proprietary Protocols: Many technology providers, aggregators, utilities, and
+others are using unique or proprietary communication protocols and systems to share grid
+signals with EVs and EVSE. Given different legacy systems that have been in place for
+utilities and aggregators, a significant transition is still required to create a universal
+communication system.
+25 The EV Report, First All-Electric, Bidirectional V2G School Bus Fleet Launches in Oakland” May 16, 2024.
+Available at: https://theevreport.com/first-all-electric-bidirectional-v2g-school-bus-fleet-launches-in-oakland
+12
+
+● OpenADR 2.0 / 3.0: Open standard maintained by the OpenADR Alliance that supports
+fully automated responses to demand response signals. The standard works for many
+different devices, including EVSE, but also HVAC systems, and energy storage.
+● Open Charge Point Protocol (OCPP): Open standard developed by the Open Charge
+Alliance (OCA) to allow EVSEs from different manufacturers to communicate with
+various back-end management systems. This standard is solely focused on EV charging.
+● IEEE 2030.5: Communication protocol designed to enable secure, standardized, and
+interoperable communication between energy devices and utilities. Inverter
+manufacturers seeking to comply with IEEE 1547-2018 must design devices to speak
+either IEEE 2030.5, DNP3, or Sunspec Modbus.
+● Open Field Message Bus (OpenFMB): Framework developed by the Smart Electric
+Power Alliance (SEPA) to enable interoperability and secure, real-time data exchange
+between DERs and grid systems. OpenFMB acts as a data exchange framework and can
+use various communication standards with devices (such as DNP3).
+● ANSI/CEA 2045: Communication standard defining a “port” or “plug” interface that
+could be incorporated into off-the-shelf appliances during manufacture in order to make
+appliances ready to receive and respond to utility signals. Specifies both a physical and
+communication interface. It can be used for EVSE but also for a variety of appliances,
+such as water heaters, HVAC systems, and pool pumps.
+● Matter: Open-source protocol designed to connect compatible smart home devices and
+systems with one another to bridge issues with ecosystem-specific devices. EVSE can use
+Matter, as well as other devices such as appliances, thermostats, smart lights, and a wide
+variety of home devices.
+● SunSpec Modbus: Open communication standard that specifies common parameters and
+settings for monitoring and controlling DERs. SunSpec Modbus is fully interoperable
+with IEEE 2030.5 and IEEE 1815 communication protocols.
+● Distributed Network Protocol 3 (DNP3): DNP3 is a TCP/IP-based communications
+protocol. It is often used in utility Supervisory Control and Data Acquisition (SCADA)
+and remote monitoring systems.
+13
+
+14. Does data exist on the effect of bidirectional charging on EV battery life? How is battery
+capacity affected by the frequency and level of bidirectional charging (for example, power
+level, total energy discharge, and so on)? Does this affect the warranties or insurance of the
+EV owner? If so, can the loss in value, if any, be quantified over the life of the battery?
+Data is beginning to be released on the effects of bidirectional charging on EV battery life. There
+is some research on the effects of V2G on battery life:
+● Vehicle-to-grid impact on battery degradation and estimation of V2G economic
+compensation26
+● Impact of V2G service provision on battery life27
+● Impact of Vehicle-to-Grid (V2G) on Battery Degradation in a Plug-in Hybrid Electric
+Vehicles28
+● How long do electric car batteries last? What 10,000 electric vehicles tell us about EV
+battery life29
+Overall, different studies show different impacts of bidirectional charging on battery degradation.
+There is evidence that bidirectional discharge can marginally impact battery degradation.
+However, overall battery degradation for any vehicle depends on a variety of factors: overall
+calendar aging, driving behavior, outdoor temperature, charging speeds, charging behavior, and
+bidirectional charging. Notably, vehicles that frequently charge using DC fast chargers have
+significantly higher battery degradation rates.30 Even within battery degradation due to
+bidirectional charging, different bidirectional behaviors for different grid services such as summer
+demand response versus daily real-time frequency regulation.
+VGIC respectfully urges the CEC to avoid addressing battery degradation concerns related to
+bidirectional charging through the FDAS effort. The CEC should instead collaborate across
+agencies, including the CPUC, to ensure a robust menu of compensation mechanisms for grid
+services that can be provided. Customers can then choose which programs they would like to
+participate in based on the benefits and costs, including the cost of battery degradation and the
+battery warranty terms available to them. The CEC should also coordinate with CARB as it relates
+to the battery durability and warranty requirements referenced in Advanced Clean Cars II.
+26 https://www.sciencedirect.com/science/article/pii/S0306261924019299
+27 https://www.sciencedirect.com/science/article/abs/pii/S2352152X21008781
+28 https://www.sae.org/publications/technical-papers/content/2024-01-2000/
+29 https://www.geotab.com/blog/ev-battery-health/
+30 Geotab, “How long do electric car batteries last? What 10,000 electric vehicles tell us about EV battery life”,
+October 30, 2024. Available at: https://www.geotab.com/blog/ev-battery-health/
+14
+
+15. Can a load shift program work with EVSEs/EVs responding to generic signals, or must
+signals be tailored for each EVSE/EV?
+Overall, VGIC believes that a menu of program options using both generic and tailored signals
+should be developed and offered to customers at this time. As discussed above in response to
+question 3, customers have different charging needs and consumer preferences are still evolving.
+A wide variety of programs will allow for different types of signals to be tested, and VGIC does
+see benefits to both generic and tailored approaches.
+System-wide generic signals, such as time-of-use rates or traditional demand response events, are
+relatively easy to deploy and do provide important daily shifting and emergency capacity. These
+generic signals are currently shifting EV charging load, and given the growing frequency of grid
+emergencies, continue to expand as new programs emerge such as the Emergency Load Reduction
+Program (ELRP) and Demand Side Grid Support (DSGS) program. There are also programs that
+send generic signals to certain customer groups, but are not yet individualized for each customer.
+One example of this type of signal is PG&E’s dynamic pricing pilot that groups customers into
+representative circuit “clusters,” where different signals are being sent to different representative
+circuit groups, but all customers on the same representative circuit group are receiving the same
+price signal. These types of signals can provide additional distribution management benefits, but
+are not tailored to individual EVs.
+Tailored signals for individual EVs will likely play an important role in preventing expected
+secondary peaks or snapback effects. VGIC discusses current work being done by PG&E and
+Baltimore Gas and Electric (BGE) on active managed charging for distribution congestion
+management in response to question 6.31 This type of active managed charging program can send
+unique signals to different EVs, for example those on the same distribution circuit. These unique
+signals can maximize grid benefits, especially at the distribution level, compared to generic
+signals.
+16. What data or information is needed from the EV and/or EVSE to enable load shift while
+ensuring driver mobility and range needs are not compromised (for example, kWh needed
+by the vehicle)? How could this data or information be communicated across all vehicle and
+supply equipment models, regardless of the manufacturers’ involvement?
+31 See, for example, Smart Electric Power Alliance (SEPA), The State of Managed Charging in 2024, September
+2024, pg. 20. Available at: https://sepapower.org/resource/state-of-managed-charging-in-2024/ and Jeff St. John,
+How to make EVs get along with the grid, December 13, 2024. https://www.canarymedia.com/articles/utilities/how-
+to-make-evs-get-along-with-the-grid
+15
+
+There is an immense amount of information that needs to be considered to shift EV charging load
+and ensure that mobility needs are not compromised. Knowledge of driving patterns, departure
+times, battery state of charge, battery health, and related data points can help to optimize charging
+in ways that meet mobility needs, reduce grid impacts, and ensure longer lasting batteries and
+EVSE. At the same time, permitting access to this data on individual drivers and vehicles must be
+done thoughtfully given the customer privacy and data security concerns and regulations.
+Automakers and other third parties may be given permission to access this data from customers to
+enable EV charging optimization. There are currently ongoing discussions about how to collect
+and share data from DERs, including EVs, with utilities via the CPUC’s Data Working Group on
+this topic.32 Data sharing arrangements will continue to develop to ensure that this information is
+shared reliably, securely, efficiently, and in strict compliance with all relevant data sharing and
+privacy laws and regulations.
+18. Please discuss strategies for EVSE to best utilize the CEC’s Market Informed Demand
+Automation Server (MIDAS) which provides access to utilities’ time varying rates, GHG
+emission signals, and California Independent System Operator (California ISO) Flex Alerts?
+To date, VGIC understands the primary focus of MIDAS has been to communicate dynamic rates,
+given the CEC’s Load Management Standards requirements and the CPUC’s authorized
+investments in CalFUSE pilots. There are also other software tools that have been used (or
+attempted) to communicate price signals to DERs in the dynamic rate pilots, such as the TeMix,
+Polaris, and Grid X platforms, as well as custom utility APIs. To date, there has been little
+enrollment of EVs / EVSE in dynamic rate pilots approved by the CPUC, with the exception of
+PG&E’s Vehicle-to-Everything (V2X) Pilot: Phase II, which is specifically targeting bidirectional
+EVSE.33 PG&E and SCE are both launching expanded dynamic rate pilots that are technology
+neutral.34 Both utilities are seeking to choose Automated Service Providers (ASPs) to enroll
+customers into the pilots, automate management of customer end use devices in response to price
+signals, and generally handle customer experience and payments of any incentives. ASPs have not
+yet been chosen for these pilots, but the selection of ASPs that work with EV customers and are
+familiar with those technologies and use cases will be critical to ensuring significant EV
+participation in the pilots. If ASPs more familiar with different devices are chosen (i.e.,
+32 See more information on the Data Working Group at: https://www.laregionalcollaborative.com/data-working-
+group
+33 See PG&E’s Vehicle-to-Everything (V2X) pilot program at: https://www.pge.com/en/clean-energy/electric-
+vehicles/getting-started-with-electric-vehicles/vehicle-to-everything-v2x-pilot-programs.html
+34 See more information on the “Expansion of PG&E and SCE System Reliability Dynamic Rate Pilots” here:
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-response/demand-
+flexibility-oir/pilot-expansion-2024.pdf
+16
+
+thermostats, water heaters, agricultural equipment, etc.), EV customers may not have a pathway
+to enroll.
+Currently, there are demand response programs, such as ELRP and DSGS, that have EVs enrolled
+and use CAISO Flex Alerts, Energy Emergency Alerts (EEA), or day-ahead market price
+thresholds as event triggers. VGIC believes that MIDAS could be a valuable tool for
+communicating Flex Alerts and we encourage the CEC to think about how MIDAS could provide
+signals for demand response participation. However, in order to unlock the full potential of EV
+load shifting, compensation mechanisms must be in place that are commensurate with the grid
+service provided. Demand response programs are one mechanism to compensate customers for
+responses to event signals.
+At this time, VGIC is aware of only one utility program in California communicating GHG data
+or signals to EVs / EVSE: SMUD’s Managed EV Charging Program.35 The only other utility
+program that VGIC knows of that requires response to a real time GHG signal is the Self
+Generation Incentive Program (SGIP), which EVs are not eligible for participation. The CPUC’s
+Avoided Cost Calculator (ACC) also includes avoided GHG costs. This signals Net Billing Tariff
+customers to export during times that avoid more GHGs and to save energy when the grid is
+cleaner. SCE is also exploring an EV export rate that may include portions of avoided GHG costs.36
+Overall, compensation mechanisms are needed to incentivize EVs to respond to GHG signals. The
+translation of GHG signals to avoided costs is one way to do this, but the CEC could also work
+within other compensation frameworks to incentivize responses to GHG signals. VGIC posits that
+only once adequate compensation frameworks are in place will widespread communication of
+GHG signals through MIDAS be utilized by EV customers.
+19. What are the cybersecurity challenges and needs associated with communicating signals
+from the grid, or a third-party, to accomplish supplying energy to electric vehicles?
+VGIC does not have information to provide on this topic at this time, but looks forward to working
+with its members, utilities, CEC staff, and other stakeholders in the future on this important topic.
+35 See more information on SMUD’s Managed EV Charging Program at: https://www.smud.org/Going-
+Green/Electric-Vehicles/Residential/Managed-EV-Charging
+36 SCE is currently exploring an EV export rate that compensates customers for avoided Cap & Trade compliance
+costs. See more information on SCE’s proposed V2G rate in SCE-04 “Phase 2 of 2025 General Rate Case Amended
+Rate Design Proposals”. Available at:
+https://edisonintl.sharepoint.com/teams/Public/regpublic/Regulatory%20Documents/Forms/RIMS%20Doc%20Set%
+20View.aspx?id=%2Fteams%2FPublic%2Fregpublic%2FRegulatory%20Documents%2FPD%2FCPUC%2F22166
+17
+
+20. Are there any considerations to ensure equity when developing a load shifting strategy
+for supplying energy to electric vehicles? For example, are there concerns that flexible
+demand will be disproportionately accessible based on income level?
+One of the most impactful equity outcomes of leveraging load flexibility is retiring fossil fuel
+electric generation that would otherwise be needed to charge EVs. Load flexibility that provides
+cost savings to EV drivers and fleets can also accelerate adoption of EVs, yielding significant air
+quality improvements. In particular, MDHD fleets are sensitive to charging costs, and if a managed
+charging program or rate could reduce costs of transitioning to EVs, businesses would be more
+likely to electrify their fleets. Retiring fossil fuel electric generation and diesel trucks will
+contribute significantly to addressing environmental justice by improving air quality in
+communities disproportionately affected by pollution, including those located nearby ports, fleet
+corridors, and warehouses.
+CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the RFI and looks forward to
+collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+18

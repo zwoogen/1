@@ -1,0 +1,78 @@
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on the Distribution Circuit Multiplier Straw Proposal
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) nonprofit trade association
+focused on accelerating the role smart electric vehicle (EV) charging and discharging through
+policy development, education, outreach, and research. VGIC supports the transition to a
+decarbonized transportation and electric sector by ensuring the value from EV deployments and
+flexible EV charging and discharging is recognized and compensated in support of achieving a
+more reliable, affordable, and efficient electric grid. VGIC appreciates the opportunity to provide
+comments to the Massachusetts Department of Energy Resources (DOER) on the Clean Peak
+Standard Distribution Circuit Multiplier (DCM) Straw Proposal.
+VGIC Generally Supports DOER’s Distribution Circuit Multiplier Straw Proposal
+EVs and EV supply equipment (EVSE) can participate in Clean Peak Standard as either
+Demand Response Resources or Qualified Energy Storage Systems, and the DCM will help
+maximize the vehicle grid integration (VGI) value of EVs/EVSE to the grid in support of
+Massachusetts’s decarbonization goals. Overall, VGIC is encouraged by DOER’s proposed
+DCM structure, including a 2x multiplier for all selected circuits as well as the formulaic
+methodology for circuit identification. Simplicity in the design and implementation of the DCM
+will promote administrative efficiency as well as provide more certainty and predictability for
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., ENGIE NA, Fermata Energy, FlexCharging, Flo/AddEnergie, Ford Motor Company, General Motors
+Company, Nissan, Nuvve Holding Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, The
+Mobility House, Toyota Motor North America, Inc., Veloce Energy, Inc., and WeaveGrid. The views expressed in
+these comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC member
+companies or supporters. (https://www.vgicouncil.org/).
+
+VGI efforts including those by charging station developers, aggregators, and other parties such
+as fleet owners.
+Additional Modifications to the Straw Proposal Could Further Improve EV/EVSE
+Participation
+While DOER’s Straw Proposal reflects a sound approach, VGIC provides the following
+recommendations that would further improve EV/EVSE ability to participate in the Clean Peak
+Standard program and support Massachusetts's clean energy goals:
+• Recommendation 1: The DCM for each identified circuit should be in effect for the full
+year from circuit identification, until new circuits are identified. While VGIC appreciates
+DOER’s intention to prevent the potential overdevelopment of resources on identified
+circuits, the proposed DCM availability (through the calendar quarter in which the
+designated MW is filled) may not be sufficient to account for the time lag between circuit
+identification and resource development. It is difficult for a developer to predict when the
+designated MW on a given circuit will be filled, since the timing will depend on all
+developers seeking to participate in the Clean Peak Standard program. This uncertainty
+may lead to situations where a developer anticipating the DCM in the project finance has
+already begun the resource development process on a specific circuit but is unable to
+complete the project in time before the DCM is no longer available. Therefore, VGIC is
+in favor of the alternative process described in DOER’s Straw Proposal. Making the
+DCM available for the full year between the annual circuit identification process will
+provide developers with certainty that a given project initiated in response to the price
+signal will be completed in time to receive the DCM.
+• Recommendation 2: EVs/EVSE that participate in Clean Peak Standard as Demand
+Response Resources should be eligible for the DCM on circuits with high solar PV
+saturation. Under DOER’s Straw Proposal, Demand Response Resources (DRRs) are
+only eligible for the DCM on circuits with increasing peak demands, but not on circuits
+with high solar PV saturation. However, EVs/EVSE, including those participating as
+
+DRRs, are capable of mitigating solar PV saturation if incentivized to do so. Traditional
+demand response for buildings typically involves load shedding or peak shaving,
+meaning electricity consumption is simply reduced for a specific period of time (such as
+during Clean Peak Standard’s Seasonal Peak Periods). DOER is correct in determining
+that this type of demand response does not help address solar PV saturation. However,
+the service that EVs/EVSE provide as DRRs can be better described as load shifting,
+where the total electricity consumption stays the same but is moved to another period of
+time. EVs that reduce or avoid charging during Seasonal Peak Periods, which occur
+between 3pm and 9pm depending on the season, still need to charge at other times to
+ensure the transportation needs of the vehicle or fleet owner are met. When these vehicles
+charge during the midday hours with high solar production, they can help soak up excess
+solar PV generation, essentially functioning as another form of storage and providing the
+grid benefits the DCM is intended to support. This is consistent with how behind-the-
+meter storage and standalone storage would operate to increase the hosting capacity on
+circuits with high solar PV saturation. DOER should revise the eligibility criteria to
+reflect this use case and allow EVs/EVSE that participate as DRRs to qualify for the
+DCM on circuits with high solar PV saturation.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the DOER to ensure the success of the Clean Peak Standard Program.
+Respectfully submitted,
+Ed Burgess
+Policy Director
+Vehicle-Grid Integration Council (VGIC)

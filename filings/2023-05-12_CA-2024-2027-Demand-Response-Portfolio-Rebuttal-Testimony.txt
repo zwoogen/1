@@ -1,0 +1,208 @@
+Docket No.: A.22-05-002, A.22-05-003, A.22-05-004 (Consolidated)
+Exhibit No.:
+Date: May 12, 2023
+Witness: Ed Burgess
+REBUTTAL TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+
+Table of Contents
+Contents
+I. INTRODUCTION ...................................................................................................................................................... 1
+II. SUMMARY OF RECOMMENDATIONS ..................................................................................................................... 2
+III. RESPONSE TO CAL ADVOCATES ANALYSIS OF THE ELRP COMPENSATION RATE AS IT RELATES TO CUSTOMER
+GROUP A.5: EV/VGI AGGREGATIONS. ............................................................................................................................ 3
+IV. RESPONSE TO PARTY ANALYSIS ON THE NEED FOR A DUAL PARTICIPATION WORKING GROUP AS PROPOSED
+BY PG&E .......................................................................................................................................................................... 6
+V. CONCLUSION. ......................................................................................................................................................... 8
+Appendix A: .................................................................................................................................................................... 1
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Ed Burgess. I am a Senior Director at Strategen Consulting and the Senior
+4 Policy Director for the Vehicle-Grid Integration Council (“VGIC”). My business address
+5 is 10265 Rockingham Drive, Suite #100-4061, Sacramento, California 95827.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of the Vehicle Grid-Integration Council.
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to
+12 decarbonized transportation and power sectors by ensuring the value from flexible EV
+13 charging and discharging is unlocked to achieve a more reliable, affordable, and efficient
+14 electric grid.
+15 Q. Who are VGIC’s current members?
+16 A. VGIC’s members represent a broad range of transportation electrification industry
+17 leaders, including American Honda Motor Co., Inc., Enel X North America, Inc.,
+18 Fermata Energy, Ford Motor Company, General Motors, Nissan Group of North
+19 America, Nuvve Holding Corporation, Stellantis N.V., Toyota Motor North America,
+20 BorgWarner, bp pulse, Customized Energy Solutions, dcbel, FlexCharging, FLO EV
+21 Charging, FreeWire Technologies, Inc., GridWiz, Innovation Core SEI, IoTecha, Kaluza,
+1
+
+1 Kitu Systems, NineDot Energy, Peak Power, Qcells, Sunrun, The Mobility House,
+2 Utilidata, Veloce Energy, Inc., Wallbox USA Inc., WeaveGrid, Hoosier Energy, and
+3 Sacramento Municipal Utility District.1
+4 Q. Did you submit opening testimony in this proceeding?
+5 A. Yes.
+6 Q. Have you reviewed the opening testimonies of other parties in this proceeding that
+7 you wish to reply to?
+8 A. Yes.
+9 Q. What is the purpose of your rebuttal testimony?
+10 A. The purpose of my rebuttal testimony is to respond to the testimonies and proposals
+11 submitted by other parties on various issues related to Pacific Gas & Electric (“PG&E”),
+12 Southern California Edison (“SCE”), and San Diego Gas & Electric’s (“SDG&E”) 2023-
+13 2027 Demand Response Program Applications. Specifically, I will respond to testimony
+14 related to the Emergency Load Reduction Program (“ELRP”) compensation rate and the
+15 proposed establishment of a working group to address dual participation rules related to
+16 demand response (“DR”) offerings.
+17 II. SUMMARY OF RECOMMENDATIONS
+18 Q. Can you please provide a summary of your recommendations?
+19 A. Yes.
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+2
+
+1 • Reject SCE’s proposal, supported by Cal Advocates, to reduce the ELRP compensation
+2 rate for customer group A.5 from $2/kWh.
+3 • Approve PG&E’s proposal, supported by Cal Advocates, Joint CCAs, CEDMC, and
+4 CLECA to establish a dual participation working group.
+5
+6 III. RESPONSE TO CAL ADVOCATES ANALYSIS OF THE ELRP
+7 COMPENSATION RATE AS IT RELATES TO CUSTOMER GROUP A.5:
+8 EV/VGI AGGREGATIONS.
+9 Q. Cal Advocates supports SCE’s proposal to reduce ELRP compensation rate from
+10 $2/kWh to $1/kWh, citing that market outcomes demonstrate adequate energy
+11 reduction with $1/kWh because “during the September 2022 heat weave, [CAISO]
+12 DR resources did not submit a reference level change request to allow bidding above
+13 $1000/MWh despite conditions allowing for bids to reach $2000/MWh.” Do you find
+14 this critique relevant for ELRP group A.5 (EV/VGI Aggregations)?
+15 A. No, while this critique may apply to other ELRP customer groups, it is not applicable to
+16 group A.5. Cal Advocates explains that no CAISO Proxy DR (“PDR”) resources
+17 submitted a request to allow bidding above $1000/MWh during the Summer 2022 heat
+18 wave, and reasons that this demonstrates a $1/kWh ELRP compensation rate is sufficient
+19 to unlock load reductions. However, ELRP group A.5 (EV/VGI Aggregations) was
+20 established in recognition that VGI resources, including vehicle-to-everything (“V2X”)
+21 and vehicle-to-grid (“V2G”) bidirectional charging, have been underutilized in existing
+22 DR offerings, including the CAISO PDR model. The Commission stated in D.21-12-015
+23 that “the market for VGI technologies, and in particular bi-directional charging
+24 equipment, is in its early stages of development and… the ELRP pilot [is] an opportunity
+3
+
+1 to deploy and scale this resource.”2 As such, in the case of the A.5 subgroup, the goal of
+2 the ELRP compensation rate goes beyond simply mirroring what otherwise might occur
+3 or should occur via the CAISO PDR model. Moreover, the CAISO PDR resource model
+4 does not even recognize or compensate V2G exports and, as such, it would be impossible
+5 for A.5 participants to take the actions that Cal Advocates describes. That was true in
+6 Summer 2022 and will be true going forward.
+7 Additionally, the Commission recently issued Draft Resolution E-5267, in which it
+8 reiterates the justification for establishing an ELRP subgroup A.5 with special conditions
+9 to promote V2G exports.3 As such, Cal Advocates’ reference to data from CAISO PDR
+10 resources should not be considered reasonable justification for reducing the ELRP
+11 compensation rate for ELRP group A.5 from the $2/kWh initially ordered in D.21-12-015
+12 and proposed to be upheld by Draft Resolution E-5267.
+13 Q. Is the current ELRP compensation rate of $2/kWh appropriate for ELRP group A.5
+14 given recent CAISO wholesale market prices?
+15 A. Yes. The Summer 2022 heat wave resulted in average CAISO locational marginal prices
+16 (“LMP”) reaching $2,000/MWh in both the fifteen-minute and real-time markets on both
+17 September 6 and 7, and in the fifteen-minute market on September 8 and 9, as shown in
+18 Figure 1 below.4 Given the CAISO price cap of $2,000/MWh was reached on all of these
+19 days, any ELRP group A.5 customers received approximately the same level of
+20 compensation as gas peaker plants during those hours. Therefore, the $2/kWh ELRP
+2 D.21-12-015 at 39.
+3 Draft Resolution E-5267 at 15.
+4 California Independent System Operator. Summer Market Performance Report September 2022. November 2,
+2022. http://www.caiso.com/Documents/SummerMarketPerformanceReportforSeptember2022.pdf. Pg. 150.
+4
+
+1 compensation rate is reasonable as it provides some level of parity for VGI resources that
+2 are not otherwise able to participate in the CAISO market in direct competition with gas
+3 peaker plants. Furthermore, it’s worth recognizing that this compensation is limited only
+4 to the energy value being provided. VGI resources receive no compensation for their
+5 contribution to resource adequacy – an additional form of compensation that gas peaker
+6 plants receive.
+7
+8 Figure 1. September 5-8, 2022, daily Locational Marginal Price (LMP) across Default Load
+9 Aggregated Points (DLAPs), Fifteen Minute Market (FMM).5
+10 Q. How would a reduction in the $2/kWh ELRP compensation rate impact the
+11 emerging VGI industry?
+5 California Independent System Operator. Summer Market Performance Report September 2022. November 2,
+2022. http://www.caiso.com/Documents/SummerMarketPerformanceReportforSeptember2022.pdf. Pg. 160.
+5
+
+1 A. I am concerned that reducing the ELRP compensation rate would significantly undermine
+2 the Commission’s goals to support the relatively nascent VGI market and the V2X
+3 market in particular. ELRP remains the only large-scale, state-wide driver for EV/VGI
+4 aggregation in California, in either managed charging (“V1G”) or V2X bidirectional
+5 modes. Based on my conversations with VGI stakeholders, making this change without
+6 sufficient justification would send a clear signal to customers and technology providers
+7 that California has walked away from its prior commitments to deploy and utilize
+8 beneficial VGI solutions. Moreover, SCE and Cal Advocate’s proposed ELRP
+9 compensation rate reduction from $2/kWh to $1/kWh would represent a “bait-and-
+10 switch” for customers that have elected to install V2X bidirectional charging systems
+11 with the expectation of being compensated at $2/kWh. Customers may have already
+12 made significant equipment investments based on the $2/kWh detailed and advertised
+13 through the utility’s ELRP websites, which will take longer to pay off if incremental load
+14 reductions, including exports, are compensated at a lower rate. If anything, the ELRP
+15 compensation rate for A.5 should be increased (at least in the near term) to match better
+16 the level of V2G compensation being offered in other states outside of California, while
+17 helping to grow the market for an emerging reliability resource with significant potential
+18 scale.
+19 IV. RESPONSE TO PARTY ANALYSIS ON THE NEED FOR A DUAL
+20 PARTICIPATION WORKING GROUP AS PROPOSED BY PG&E
+21 Q. A relatively large and diverse set of parties support PG&E’s proposal to revisit dual
+22 participation through a working group process. Do you agree with these parties that
+23 PG&E’s proposal is reasonable?
+6
+
+1 A. Yes, I do agree that PG&E’s proposal to establish a dual-participation working group is
+2 reasonable. Cal Advocates, the Joint Community Choice Aggregators (“Joint CCAs”),
+3 The California Efficiency and Demand Management Council (“CEDMC”), and the
+4 California Large Energy Consumers Alliance (“CLECA”) all support PG&E’s proposal
+5 to revisit dual participation through the establishment of a working group process.6
+6 California’s many DR programs and pilots represent a complex and ever-evolving
+7 landscape of demand-side management opportunities. However, individual DR offerings
+8 often target and, in turn, yield different grid benefits. Customers seeking to leverage
+9 emerging solutions, such as VGI, can be particularly supported by addressing challenges
+10 and opportunities related to dual participation rules, as these emerging solutions were
+11 likely not taken into consideration during the last time dual participation rules were
+12 modified about 10 years ago.
+13 Q. Can you provide recommendations related to the scope and process for this working
+14 group?
+15 A. Yes. The overall goal of the working group should be to facilitate value stacking that is
+16 critical to the success of distributed energy resources, including EVs, in supporting
+17 demand response. Methods to differentiate and appropriately allocate the varying benefits
+18 that different demand-side offerings yield should be developed through a good-faith
+19 stakeholder working group effort. Regarding the working group process and impact, the
+20 dual participation working group should culminate in a final report containing
+6 Opening Testimony on Phase 2 2024-2027 Demand Response Programs Budget Applications, Public Advocates
+Office at 2-3. Prepared Direct Testimony of the Joint Community Choice Aggregators at 3. Opening Phase II
+Testimony of the California Efficiency + Demand Management Council at 12. Direct Testimony of Sam Harper on
+behalf of California Large Energy Consumers Association at 28.
+7
+
+1 recommended modifications to DR programs and rules and any related modifications the
+2 Commission should make or direct utilities to make. This final report should be submitted
+3 to the Commission, and an opportunity for parties to file opening and reply comments on
+4 this report should follow. The final report and party comments should serve as the basis
+5 for a timely Commission Decision that adopts or otherwise addresses the recommended
+6 modifications detailed in the final report.
+7 V. CONCLUSION.
+8 Q. Does this conclude your testimony?
+9 A. Yes.
+8
+
+1 Appendix A:
+Declaration of Ed Burgess in Support of Rebuttal Testimony on Behalf of the Vehicle-Grid
+Integration Council
+A-1
+
+DECLARATION OF ED BURGESS IN SUPPORT OF REBUTTAL TESTIMONY ON
+BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+I, Ed Burgess, am the Senior Policy Director for the Vehicle-Grid Integration Council
+(VGIC). Having worked for VGIC since its founding in 2020, I am currently managing policy
+and regulatory affairs for VGIC and its 33 members. My business address is 10265 Rockingham
+Drive, Suite #100-4061, Sacramento, CA 95827. I declare under penalty of perjury that the
+foregoing facts in this document are true and correct.
+Executed on May 12, 2023 at Sacramento, California.
+Ed Burgess
+A-2

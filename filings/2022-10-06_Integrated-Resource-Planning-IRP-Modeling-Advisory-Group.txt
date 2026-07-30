@@ -1,0 +1,412 @@
+October 6, 2022
+Email to: IRPDataRequest@cpuc.ca.gov
+Subject: VGIC’s Informal Comments regarding the Inputs and Assumptions (“I&A”)
+Modeling Advisory Group (“MAG”) meeting
+Re: Informal Comments of the Vehicle Grid Integration Council Regarding the
+September 22nd Modeling Advisory Group Meeting on Input and
+Assumptions
+The Vehicle Grid Integration Council (“VGIC”) appreciates the opportunity to comment on
+the September 22, 2022, Modeling Advisory Group (“MAG”) meeting (“Workshop”), where
+California Public Utilities Commission (“CPUC”) Energy Division (“ED”) staff presented proposed
+updates to the inputs and assumptions for the 2022-2023 Integrated Resource Planning (“IRP”)
+cycle. VGIC appreciates the ED staff’s commitment and efforts to engage stakeholders on this
+critical initiative.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from flexible EV charging and discharging is recognized
+and compensated to achieve a more reliable, affordable, and efficient electric grid. VGIC has
+actively engaged in policy and research efforts to better understand the need and opportunity for
+VGI. As such, we offer the below recommendations for ED staff’s consideration.
+I. INTRODUCTION & SUMMARY.
+VGIC commends the ED for its efforts to evolve the treatment of EVs within the IRP from
+rudimentary load assumptions to modeling incremental VGI within the IRP. EVs are unlike any
+other modifiable load or dispatchable resource type because individual EVs represent a more
+significant potential load shift and energy storage capacity than the typical customer-sited
+distributed energy resource (“DER”). Moreover, the deployment of EVs and flexible EV charging
+and discharging solutions is expected to grow at an extraordinary rate due to underlying policy
+drivers and regulations like the California Air Resources Board’s (“CARB”) Advanced Clean Cars
+II regulation.
+While VGIC commends this critical improvement to the IRP process, we recommend that
+the ED staff take additional steps to better model VGI within the IRP. VGIC’s comments can be
+summarized as follows:
+ ED correctly seeks to consider VGI resources in IRP modeling.
+1
+
+ To maintain a manageable scope, VGIC generally agrees with limiting modeling to
+light-duty vehicles (“LDVs”) but offers two crucial, reasonable, and well-defined
+areas of scope expansion: (1) electric school buses (“ESBs”) with Level 3 direct
+current fast chargers (“DCFC”) and (2) Level 1 (“L1”) charging.
+ The weighted average Level 2 (“L2”) charging capability of 5 kW is overly
+conservative and should be modified.
+ The assumption that V2G-capable vehicles will reach 50% of V1G-capable vehicles
+by 2050 is overly conservative and should be modified.
+ NREL’s air conditioning program participation tranches provide a useful starting
+point but are overly conservative representations of VGI participation rates.
+ Certain fixed O&M costs should not be assumed constant through the study horizon
+as they are likely to decline over time.
+ To avoid confusion, ED should shift from “passive” and “active” terminology to
+“base case” and “incremental.”
+ ED staff should notice the DRIVE OIR service list to engage the appropriate
+stakeholders for future opportunities related to VGI.
+II. COMMENTS.
+A. ED correctly seeks to consider VGI resources in IRP modeling.
+VGIC appreciates the ED staff’s focus on applying appropriate treatment to EVs
+within the IRP modeling effort. Specifically, VGIC supports modeling the benefits of
+incremental load reduction and exports from EVs beyond what is assumed in the Integrated
+Energy Policy Report (“IEPR”) base case. EV charging is a uniquely flexible load as EVs,
+on average, spend most of the day parked. For many vehicle duty cycles, it is possible to
+shift charging load away from peak hours to reduce peak demand. EV charging load can also
+be moved to hours when the grid supplies relatively clean electricity. ED staff correctly
+defines this set of managed charging behavior as “V1G.” ED staff also refers to Vehicle-to-
+Grid or “V2G” resources that can support the grid by discharging from the vehicle battery.
+VGIC believes EVs are unique in that they represent a much more significant
+potential load shift and energy storage capacity than the typical customer-sited distributed
+energy resource (“DER”). Meanwhile, since the cost of the battery is embedded into the cost
+of purchasing or leasing the vehicle, which is purchased primarily for mobility purposes,
+V2G customers may be satisfied with a lower compensation level relative to stationary
+energy storage customers, who likely seek to recover the upfront costs associated with
+purchasing and installing a stationary battery.
+2
+
+VGI-capable vehicles and chargers are anticipated to experience significant growth
+in the coming years due to underlying policy drivers, regulations, and customer interest in
+EVs and VGI. In the case of V1G, many EV manufacturers already embed the underlying
+vehicle telematics capabilities to measure and manage EV charging load. Several charger
+manufacturers embed this same capability in the charger. With the CPUC’s recent
+submetering decision (D.22-08-024), both vehicle and charger-based V1G approaches are
+well-positioned for future growth as more customers gain access to compelling VGI rates
+and programs. Meanwhile, the CPUC has been gradually increasing the suite of available
+VGI rates, including SDG&E’s Power Your Drive VGI Rate, PG&E’s optional Day-Ahead
+Hourly Real-Time Pricing (“DAHRTP”) for commercial customers, and several technology-
+agnostic real-time pricing pilots that EVs may participate in. Meanwhile, available V1G
+programs include the Emergency Load Reduction Program (“ELRP”), PG&E’s evPulse,
+PG&E’s BMW ChargeForward Phase 3, the CEC Demand Side Grid Support (“DSGS”),
+offerings from community choice aggregators like East Bay Community Energy and
+Peninsula Clean Energy, and several pending VGI and EV Demand Response (“DR”) Pilots.1
+Meanwhile, the list of bidirectional charging products available to customers today
+has rapidly expanded in just the past year, with over 25,000 Nissan LEAFs in California that
+can pair with Fermata chargers, the Ford F-150 Lightning Electric and Ford Charge Station
+Pro, electric school buses from BlueBird, Thomas Built, Proterra, and BYD, and direct
+current fast chargers (“DCFC”) from Nuvve and Rhombus. Additionally, the Chevrolet
+Silverado EV will have bidirectional charging capabilities, and announcements from
+Hyundai, Kia, Volkswagen, Lucid, Audi, and Volvo indicate upcoming bidirectional EV
+offerings. Meanwhile, new bidirectional charging products, such as those from dcbel and
+Wallbox, are expected to be available soon.2
+Regarding V2G compensation, VGIC expects PG&E’s DAHRTP export
+compensation rate to be implemented in Q4 20233 and SDG&E’s Export Rate Pilot to be
+available to commercial EV customers in Q4 2024.4 In the interim, PG&E’s $11.7 million
+Residential,Commercial, and Microgrid VGI Pilots, ELRP, and DSGS will provide
+programmatic support for V2G.
+VGIC believes these recent and upcoming developments in policy and product
+offerings represent a distinct turning point for the VGI market, and we are optimistic that
+1 See SCE’s pending Residential V1G Pilot and SDG&E’s proposed EV DR Pilot.
+2 For VGIC’s complete stocktake of available bidirectional chargers, vehicles, and product announcements,
+see
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/6137a2f643f8bc74a42af9ae/1631036
+151186/2021-09-01+VGIC%27s+Opening+Testimony+on+Phase+2+Emergency+Reliability+Proposals+-
++FINAL.pdf at page 7.
+3 Proposed Decision Adopting Settlement on Export Compensation for Certain Pacific Gas and Electric
+Company Customers. September 14, 2022.
+http://docs.cpuc.ca.gov/SearchRes.aspx?DocFormat=ALL&DocID=496924142
+4 Prepared Supplemental Direct Testimony of Jeff DeTuri (Chapter 1) on Behalf of San Diego Gas & Electric
+Company. August 15, 2022.
+https://www.sdge.com/sites/default/files/regulatory/A2212016%20and%20RM_SDGE%20RTP%20Supple
+mental%20JDTuri%20Chpt%201%20-%20Policy.pdf
+3
+
+EVs will be capable of offering significant contributions to grid reliability as a part of
+California’s resource portfolio.
+B. To maintain a manageable scope, VGIC generally agrees with limiting modeling to
+light-duty vehicles (“LDVs”) but offers two crucial, reasonable, and well-defined
+areas of scope expansion: (1) electric school buses (“ESBs”) with DCFC and (2)
+Level 1 (“L1”) charging.
+VGIC recognizes that considering VGI resources in this IRP cycle is no small feat and
+reiterates its appreciation for the thoughtful proposal shared during the Workshop. We
+believe modeling LDV with access to L2 chargers, as proposed, represents a strong
+foundation for modeling the potential of VGI resources. However, electric school buses
+(“ESBs”) should also be modeled as they represent an ideal V2G use case due to their
+predictable duty cycles and dwell times that consistently overlap with system peaks. As a
+result of these characteristics, a majority of recently delivered ESBs in California are V2G-
+capable.5 Based on VGIC’s understanding of the industry, most ESB orders that have not yet
+been delivered will also be V2G capable. ESB with V2G provides the first commercial
+opportunity for V2G that are fully UL 1741 SA-certified and approved for interconnection
+through Rule 21. For example, VGIC member Nuvve has deployed the first operational ESB
+V2G project in California at Cajon Valley Union School District operating 8 bidirectional
+Nuvve chargers with 8 V2G capable Lion Electric school buses. This project is actively
+participated in SDG&E’s ELRP during the 2022 season. Nuvve has several other ESB V2G
+projects under development across California with nameplate capacity in excess of 1.3 MW.
+Moreover, ESBs, including V2G ESBs, receive significant funding support from federal,
+state, and utility programs.6 While VGIC recognizes ED staff’s limited resources, we believe
+the addition of ESBs to IRP modeling may be relatively straightforward due to the highly
+predictable load shape and reasonable expectation that California will very likely electrify
+its entire school bus fleet by 2035 based on current trends in ESB funding support. As such,
+VGIC respectfully requests this scope addition as a no-regrets addition to the IRP model and
+offers itself as a resource to surface additional assumptions and inputs as needed.
+Additionally, VGIC recommends that L1 charging be added to the modeling effort.
+While L1 typically occurs at only around 1.44 kW, VGIC expects a significant portion of
+drivers to charge using L1 charging. Aggregated across the forecasted 12 million LDVs by
+2035, L1 charging may represent a considerable opportunity for V1G load reductions.
+Tenants and residents in old building stock with aging electrical infrastructure, which is
+common in many disadvantaged communities, may not be able to install L2 charging. These
+customers will use L1 charging at home but may still be interested in participating in VGI
+offerings to support the grid. For these customers, vehicle-based VGI using telematics
+5 Medium- and Heavy-Duty Zero-Emission Vehicles in California. Visited October 6, 2022.
+https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-
+statistics/medium-and-heavy
+6 See, for example, the EPA Clean School Bus Program, California Proposition 90 General Fund $1.125
+billion for ESBs, $400 million HVIP carveout for school buses, $75 million CEC School Bus Replacement
+Program, the CEC Bidirectional Electric School Bus Charging Infrastructure funding concept, and CEC
+Bidirectional Charging Infrastructure Rebate funding concept.
+4
+
+provides an opportunity to manage charging and support the grid without an L2 charger. As
+such, VGIC recommends that ED staff refer to CEC data on the L1 charging vehicle
+population and charging profiles contained in the AB 2127 assessment and use this as the
+basis for adding L1 charging to the IRP modeling. Since the remaining key assumptions and
+parameters (i.e., propensity scores, scaling factor) are identical to L2 LDV charging, VGIC
+expects that adding L1 charging, in addition to LDV L2 charging and ESBs, will not add
+significant complexity to the modeling effort but could more accurately reflect the potential
+of VGI resources.
+C. The weighted average L2 charging capability of 5 kW is overly conservative and
+should be modified.
+As detailed in the Workshop slides, the 5 kW weighted average L2 charging capability
+assumes that 70% of EVs will be battery EVs (“BEVs”) charging at 6 kW and cites the AB
+2127 report as the basis for this data. However, L2 chargers typically offer more than 6 kW
+of power, and Table 1 of the AB 2127 details the “typical added range per hour of charging”
+using a 7.2 kW power assumption for L2 charging.7 VGIC could not find a reference to 6
+kW L2 charging within AB 2127. Notably, new L2 products, including bidirectional chargers
+from Ford and Fermata, offer higher power levels.8 VGIC strongly recommends calculating
+the weighted average L2 charging power based on an L2 charging assumption of at least 7.2
+kW rather than 6 kW.
+D. The assumption that V2G-capable vehicles will reach 50% of V1G-capable vehicles
+by 2050 is overly conservative and should be modified.
+VGIC understands that V2G deployment is minimal today and is still in the nascent
+stages of market development. However, the critical near- and mid-term policy drivers noted
+in Section II-A have resulted in the accelerated development and deployment of V2G-
+capable vehicles and chargers, such as those highlighted in Section II-A. As V2G continues
+to scale, VGIC expects that the costs of bidirectional chargers, customer education,
+installation, and interconnection will decrease. Notably, the Ford Charge Station Pro is at
+cost parity with unidirectional chargers.9
+Additionally, today’s commercially available V2G products are capable of V2G-Direct
+Current (“V2G-DC”), where the inverter is in the charger. Meanwhile, critical standards
+development work to unlock V2G-Alternating Current (“V2G-AC”), where the inverter
+functions are onboard the vehicle, is nearing completion.10 EVs already contain several key
+components that can be configured to function like an inverter, so unlocking such capability
+would likely incur lower incremental V2G system costs than a V2G-DC system. With this
+7 AB 2127 Report at page 12. https://efiling.energy.ca.gov/getdocument.aspx?tn=238853
+8 See, for example, Ford Charge Station Pro https://chargers.ford.com/products/ford-charge-station-pro and
+Fermata FE-20
+https://static1.squarespace.com/static/5e56d477d1250b6238d371f3/t/633dae8436c55e7cf3bff085/1664986
+756407/FE-20-Datasheet-web+%281%29.pdf
+9 Ford Charge Station Pro https://chargers.ford.com/products/ford-charge-station-pro . Currently listed at
+$1,310.
+10 A key enabling standard, UL 1741 SC, may be completed as early as Q1 2023. Once completed, an update
+to SAE J3072 will likely be required.
+5
+
+cost reduction in mind, VGIC anticipates V2G AC to scale quickly once available and further
+reduce the incremental cost to layer V2G functionality onto V1G-capable EVs.
+As noted above in Sections II-A, V2G-capable vehicles have already been deployed in
+California. VGIC estimates the 25,000 V2G-capable Nissan LEAFs currently on California’s
+roads represents over 469 MW in total technical potential. Meanwhile, as noted above in
+Section II-B, in-progress V2G ESB system deployment (i.e., charger and vehicle) from just
+one aggregator represents over 1.3 MW in nameplate capacity.
+Falling costs of V2G relative to V1G, increased options for V2G compensation, and
+existing deployments of V2G will result in a penetration of V2G products by 2025 that
+exceeds 0%. Moreover, VGIC anticipates the difference between a V1G and V2G-capable
+product will be minimal and, perhaps, non-existent. As a result, VGIC believes V2G
+potential as a function of V1G potential will far exceed 50% by 2050 and will likely be close
+to 100%. However, VGIC recognizes that there is value in providing conservative estimates
+given the impact the IRP process has on resource procurement and grid reliability. VGIC
+offers that 10% in 2025 and 90% in 2050 are more appropriate estimates for V2G potential
+as a function of V1G potential. While this is likely still conservative, VGIC believes it
+reflects more accurately the anticipated V2G potential in the year 2050.
+E. LBNL’s propensity scores for air conditioning (“AC”) programs offer a valuable
+starting point but are overly conservative representations of VGI participation
+rates.
+LBNL’s propensity scores for air conditioning programs were cited during the Workshop
+as the basis for VGI participation rates. VGIC commends ED staff and E3 for employing
+this approach but believes that air conditioning and VGI program participation rates will
+differ due to the impacts each have on customer experience. Firstly, air conditioning or
+“smart thermostat” programs can struggle to retain customer participation due to perceived
+or actual inconvenience.11 For example, pre-cooling or being unable to turn down the
+thermostat during intense heat waves can lead to material impacts on customer comfort and
+well-being that may, unfortunately, lead to customer attrition from a valuable demand
+response program. Additionally, smart thermostat programs are often marketed or offered
+through utilities that customers may not trust due to outages, wildfires, or other reasons
+related to brand perception.
+In stark contrast, the fundamental operating assumption of VGI is that customers will
+achieve a desired state of charge (“SOC”) at the end of their charging session. Whether this
+SOC is reached through unmanaged or managed charging has no material impact on the
+driver’s charging experience. Basic VGI programs, for example, off-peak charging rebates
+and static TOU rates that rely on customers’ understanding and manual response to price
+signals, can meaningfully reduce load. However, these “low-hanging fruit” VGI capabilities
+11 A utility company locked thousands of customers out of their smart thermostats in Colorado. September 5,
+2022. https://www.theverge.com/2022/9/5/23337864/xcel-locked-out-customers-smart-thermostats-
+colorado-heatwave
+6
+
+are embedded into the load forecast and are not considered incremental VGI resources in
+IRP modeling. The incremental VGI capabilities considered for IRP modeling are those
+unlocked through customers partnering with a trusted automotive OEM, EV service
+provider, or another third-party aggregator to manage charging or discharging. For example,
+dynamic rates (i.e., real-time equivalent pricing), DR program participation, and V2G export
+are most likely to be coordinated by one of these entities rather than the driver alone
+responding to a utility signal. In this case, with the driver’s consent, VGI will likely be
+performed “behind the scenes” with no inconvenience to the driver and will be done in
+partnership with a trusted brand. In this way, VGI programs are fundamentally different from
+air conditioning programs. Incremental VGI resources are unlocked with little to no impact
+on customer comfort and experience. As a result, VGIC expects customer participation rates
+to be much higher for VGI programs than for air conditioning programs.
+Moreover, VGI technologies generally offer a more significant value proposition when
+compared to air conditioning programs. The higher kW load and export capability of EVs
+relative to air conditioners can yield more significant monetary benefits. Additionally, VGI
+technologies can deliver important non-monetary benefits, including providing backup
+power to a home or business, which may bolster the deployment of VGI solutions and, in
+turn, VGI program participation.
+LBNL’s propensity score would assume between 14% and 25% cumulative enrollment
+in 2030. California’s most prominent VGI program is SDG&E’s PYD VGI rate, which has
+already enrolled over 3,000 customers.12 The next phase of PG&E’s BMW
+ChargeForward13, the PG&E’s VGI pilots launching in 202214, Peninsula Clean Energy’s
+telematics managed charging pilot15, and PG&E’s recently-launched evPulse pilot16 expect
+to enroll anywhere between 13,200 to 22,200 total customers by the end of 2023.
+Participation data in the new ELRP VGI Aggregation group, which launched in the second
+half of 2022, and the CEC’s new DSGS program is unavailable at this time; however, VGIC
+anticipates significant participation from VGI aggregators across both programs. VGIC
+estimates these programs will achieve a collective 3% enrollment rate among California’s
+total EV fleet by the end of 2023.17 We believe there is a high likelihood of achieving this
+enrollment rate despite the minimal set of VGI offerings available to customers, lack of a
+cohesive marketing, education, and outreach strategy, inability to submeter through the
+charger or vehicle for participation in dynamic rates, and significant supply chain
+12 See San Diego Gas & Electric Company (U 902 M) Vehicle Grid Integration Activities Mid-Term Report for
+2022 filed September 15, 2022 in R.18-12-006.
+13 PG&E, BMW smart-charging pilot highlights potential for electric vehicles as grid resource. June 1, 2021.
+https://www.utilitydive.com/news/pge-bmw-smart-charging-pilot-highlights-potential-for-electric-vehicles-
+a/600958/
+14 Resolution E-5192 approving PG&E’s VGI Pilots, issued May 6, 2022 at page 4.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M474/K369/474369017.PDF
+15 Request for Proposals for Telematics-Based Electric Vehicle Managed Charging Pilot. Peninsula Clean
+Energy. August 30, 2021. Page 2. https://www.peninsulacleanenergy.com/wp-
+content/uploads/2021/08/RFP-Telematics-Based-Electric-Vehicle-Managed-Charging-Pilot.pdf
+16 A better way to do smart EV charging: Talk to the car. September 6, 2022.
+https://www.canarymedia.com/articles/ev-charging/a-better-way-to-do-smart-ev-charging-talk-to-the-car
+17 Light-Duty Vehicle Population California. Visited October 6, 2022. https://www.energy.ca.gov/data-
+reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/light-duty-vehicle
+7
+
+constraints. Considering the CPUC is addressing all but one of these barriers (i.e., supply
+chain constraints) by authorizing new programs and rates (e.g., PG&E’s DAHRTP), the
+submetering protocol (i.e., D.22-08-024), and the proposed Transportation Electrification
+Framework (i.e., to address marketing, education, and outreach), it is reasonable to expect
+the participation rate to surpass the 25% participation rate much earlier than 2030.
+As such, VGIC strongly recommends that ED staff consider much higher participation
+rates for VGI programs than air conditioning programs. Additionally, based on the Workshop
+and Workshop slides, it is unclear whether the LBNL propensity score data are assumed to
+be constant throughout the study, such that real customer enrollment will increase at the same
+rate as the LDV population over time. VGIC posits that the enrollment rates may also grow
+each year, such that a higher percentage of LDV customers participate in each tranche year-
+over-year. VGIC believes this is a reasonable expectation as today’s nascent VGI programs
+and rates mature. Customer education, enrollment, and participation will likely become
+streamlined and less expensive to the customer over time, leading to increased participation.
+Once the VGI market is mature, the growth in enrollment rates may taper off.
+It isn’t easy at this time to quantify precisely how much greater VGI participation rates
+will be relative to air conditioning programs and how those participation rates will evolve
+throughout the planning horizon. VGIC looks forward to working with ED staff and other
+stakeholders to establish more accurate enrollment assumptions.
+F. Certain fixed O&M costs may decline over time and should not be assumed
+constant through the study horizon.
+VGIC generally supports the cost assumptions detailed during the Workshop, which will
+be critical for constructing the VGI supply curve for IRP modeling. Specifically, the fixed
+O&M costs are meant to reflect only the costs of incentivizing participation in VGI programs
+and, therefore, appropriately exclude incremental technology costs to enable VGI.
+However, the Workshop slides state, “Fixed O&M costs are tentatively assumed to be
+constant in real terms through the study horizon.” As with the enrollment rates covered in
+Section II.E above, VGIC does not believe these costs will be constant throughout the
+modeling horizon. Specifically, as the market evolves, administration and marketing
+expenses may decrease over time. From the customer perspective, VGI offerings will
+become better understood and therefore require less marketing and outreach. Meanwhile,
+from the utility perspective, VGI programs will become a more standardized set of offerings
+that can be more easily administered and managed by either the utility or a third-party
+administrator. As such, VGIC respectfully requests that ED staff consider reducing the
+administration and marketing costs throughout the study horizon. VGIC offers itself as a
+resource to further explore the rate at which these fixed O&M costs should decline over time.
+G. To avoid confusion, ED should shift from using the terms “passive” and “active” to
+the words “base case,” “incremental V1G,” and “incremental V1G+V2G.”
+VGIC appreciates the ED staff’s intent to distinguish between responding to TOU rates
+through passive VGI and unlocking unlock additional V1G load reductions through active
+8
+
+VGI. However, this may be confusing based on the existing definitions found in the 2020
+VGI Working Group Final Report, which defines each term as follows:18
+“Passive: control of charging involves adjusting the EV charge/discharge based on time-
+varying price signals or grid conditions. Charging behavior in response to such signals
+is not prescribed or commanded, and can occur passively without any response required
+by an individual customer.
+Active: control of charging involves adjusting the EV charge/discharge in response to
+active external “dispatching instructions” that prescribe or command charging behavior.
+EV participation in Demand Response Auction Mechanism (DRAM) would be a good
+example of active aggregated charging.”
+The IRP modeling effort aims to define a base case in which customers respond to TOU
+rates, as determined by the CEC IEPR forecast, a sensitivity in which some incremental V1G
+resource is unlocked, and a sensitivity in which both incremental V1G and V2G resources
+are available. The terms passive and active may overlap with the base case and sensitivities,
+but this is not always true. VGIC offers two common examples below:
+ A commercial LDV fleet uses a third-party fleet management company to optimize
+charging to support the business’s needs and reduce costs under a static TOU rate. In
+this case, charging will be controlled in response to “external dispatch instructions”
+from a third party “that prescribes or commands charging behavior.” Since these EVs
+are responding to a rate, this may fall within the IEPR TOU base case for IRP
+purposes, but due to the “external dispatch instructions,” this would be considered
+active under the VGI Working Group definition.
+ A customer enrolls in a voluntary DR program that sends text alerts reminding them
+to shift or reduce charging during certain hours. This incremental VGI capability
+exists outside the IEPR TOU base case but is unlocked through an entirely voluntary
+program that does not “prescribe or command” response.
+VGIC recommends that ED staff and stakeholders depart from the terms passive and
+active and instead use the terms base case EV load, incremental V1G, and incremental
+V1G+V2G to define the IRP modeling scenarios. This subtle but important change will more
+correctly capture the intended meaning, promote clarity, and avoid misinterpretation over
+what is considered base or incremental VGI in the future.
+Additionally, the Workshop slides suggest continuing to run an unmanaged charging
+sensitivity that has been conducted in previous IRP cycles. The unmanaged charging
+sensitivity should represent charging sessions that begin when the vehicle is plugged in and
+proceed at full nameplate power until the desired state of charge is reached. VGIC supports
+running this analysis for this IRP cycle and believes it will continue to develop valuable
+findings to broadly support the evolution of the VGI market in California and the rest of the
+country. For example, the 2021 IRP Proposed Preferred System Plan Analysis revealed a
+18 Final VGI Working Group Report. June 30, 2020. Page 8. https://gridworks.org/wp-
+content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf
+9
+
+nearly $2 billion difference in 2032 present value total resource cost from the LSE plan
+scenario.19
+H. ED staff should notice the DRIVE OIR service list for future opportunities related
+to VGI to engage the appropriate stakeholders
+VGIC appreciates the opportunity to engage in the MAG Workshop and submit these
+informal comments. VGIC was informed of this opportunity because the Workshop meeting
+notice was circulated to the service list of the Integrated Distributed Energy Resources
+proceeding (R.14-10-003). We worked to alert our members and network of the comment
+period. However, ED staff should notify the DRIVE OIR (R.18-12-006) service list for
+future opportunities, such as the draft input assumptions that will be shared in late
+November/early December. The DRIVE OIR is the primary venue for VGI topics. Notifying
+its service list will likely yield valuable stakeholder feedback on inputs and assumptions
+from VGI aggregators, customers, and other experts.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide these informal comments on the September 22,
+2022 Workshop. We look forward to further collaboration with the Energy Division and other
+stakeholders in this docket.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle Grid Integration Council
+Zach Woogen
+Policy Manager
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+19 Integrated Resource Planning (IRP) Proposed Preferred System Plan Analysis. September 1, 2021.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/integrated-resource-
+plan-and-long-term-procurement-plan-irp-ltpp/2019-2020-irp-events-and-materials/psp-workshop-slides.pdf
+Page 32.
+10

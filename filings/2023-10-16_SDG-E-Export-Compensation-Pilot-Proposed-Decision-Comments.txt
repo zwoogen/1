@@ -1,0 +1,149 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION FILED
+OF THE STATE OF CALIFORNIA 10/16/23
+04:59 PM
+A2112006
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Real Time Application No. 21-12-006
+Pricing Pilot Rate. (Filed December 13, 2021)
+Application of San Diego Gas & Electric Application No. 21-12-008
+Company (U902E) for Approval of Commercial (Filed December 17, 2021)
+Electric Vehicle Dynamic Rate.
+OPENING COMMENTS OF THE VEHICLE GRID INTEGRATION
+COUNCIL ON PROPOSED DECISION ADOPTING DYNAMIC EXPORT
+RATE PILOT AND DISMISSING APPLICATION FOR A REAL TIME
+PRICING RATE PILOT
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+October 16, 2023
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Real Time Application No. 21-12-006
+Pricing Pilot Rate. (Filed December 13, 2021)
+Application of San Diego Gas & Electric Application No. 21-12-008
+Company (U902E) for Approval of Commercial (Filed December 17, 2021)
+Electric Vehicle Dynamic Rate.
+OPENING COMMENTS OF THE VEHICLE GRID INTEGRATION
+COUNCIL ON PROPOSED DECISION ADOPTING DYNAMIC EXPORT
+RATE PILOT AND DISMISSING APPLICATION FOR A REAL TIME
+PRICING RATE PILOT
+In accordance with Rule 14.3 of the Rules of Practice and Procedure of the California
+Public Utilities Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)
+hereby submits these Opening Comments on the Proposed Decision Adopting Dynamic Export
+Rate Pilot and Dismissing Application for a Real-Time Pricing Rate Pilot (“PD”), issued in
+Application (“A.”) 20-10-011 on September 25, 2023.
+I. INTRODUCTION
+VGIC appreciates the efforts of the Commission, Energy Division (“ED”) staff, and all
+stakeholders in working toward a dynamic export rate pilot that is open to some San Diego Gas &
+Electric Company’s (“SDG&E”) electric vehicle (“EV”) customers. While VGIC generally
+supports dynamic export rates for EV customers, the rate design that the PD would adopt does not
+2
+
+represent a meaningful step toward California’s affordability and decarbonization goals. VGIC
+emphasizes, as detailed throughout this proceeding by VGIC and the Environmental Defense Fund
+(“EDF”), that the incomplete rate design, namely the lack of a distribution component, is highly
+unlikely to incentivize customer participation. With this in mind, VGIC recommends the
+Commission consider either of the two alternatives detailed in these comments and summarized
+below:
+• VGIC respectfully urges the Commission to revise the PD to direct SDG&E to adopt a
+dynamic distribution component that leverages SDG&E’s currently implemented D-
+CPP methodology.
+• At a minimum, VGIC recommends the Commission reopen the record of this
+proceeding to solicit additional evidence from SDG&E and other parties demonstrating
+the fundamental participant economics for the proposed dynamic export rate.
+II. VGIC URGES THE COMMISSION TO REVISE THE PD TO DIRECT SDG&E
+TO ADOPT A DYNAMIC DISTRIBUTION COMPONENT THAT
+LEVERAGES SDG&E’S CURRENTLY IMPLEMENTED D-CPP
+METHODOLOGY.
+As noted throughout this proceeding, VGIC expects no customer participation from vehicle-
+to-grid (“V2G”) resources based on the proposed export rate design.1 VGIC acknowledges that
+Electrify America’s status as a settling party indicates there may be some customer participation
+in the export pilot, as detailed in the PD.2 This indicates participation from storage-backed
+unidirectional charging facilities; however, that participation is by no means guaranteed.
+1 See, for example, VGIC-01, pg 28; VGIC-02, pg 9; EDF-01, pg 2; EDF-02, pg 2; VGIC Opening Brief, pg 7; VGIC Reply
+Brief, pg 3; EDF Opening Brief, pg 6; EDF Reply Brief, pg 2; VGIC Response to Reply Briefs, pg 2.
+2 PD at 17.
+3
+
+Moreover, the V2G export use case – which is a separate set of participants with separate
+costs and benefits – remains unsupported by the limited nature of the settlement rate design.
+As highlighted by both VGIC and EDF throughout this proceeding, a distribution component, in
+addition to the proposed marginal energy and generation capacity components, is needed to
+establish a compelling rate for customers.
+VGIC reiterates that the distribution component need not be designed from scratch.
+SDG&E has already developed and implemented a Distribution Critical Peak Pricing (D-CPP)
+adder in Schedules VGI and Public GIR. VGIC recognizes that SDG&E has concerns over the
+feasibility of scaling its circuit-specific adder methodology (i.e., as used in Schedule VGI) in a
+pilot with no customer enrollment cap. However, the alternative offered by the PD would lead to
+the adoption of a rate that does not allow customers to offset the significant upfront and ongoing
+costs needed to enable EV export in this pilot.
+Additionally, SDG&E’s proposed export pilot is severely out of step with the
+Commission’s CalFUSE vision and the Rate Design and Demand Flexibility Design Principles
+adopted in D.23-04-040. The PD would, therefore, not only adopt a rate design misaligned with
+the Commission’s efforts to promote EV exports but also ignore the opportunity to leverage
+SDG&E’s existing rate design methodology that’s been proposed, Commission-approved, and
+implemented three times (i.e., Power Your Drive VGI Pilot Rate, Power Your Drive Extension
+VGI Pilot Rate, and Schedule Public Grid Integration Rate).
+Notably, Pacific Gas and Electric Company (“PG&E”) recently proposed significantly
+expanding their dynamic import and export rates to include a distribution component in recognition
+4
+
+of the need to unlock V2G exports to support the evolving electrical grid, including growing
+distribution constraints.3
+With this in mind, VGIC reiterates its concern about establishing a pilot that will not attract
+customers and is fundamentally out of step with other Commission efforts to promote V2G and
+dynamic export rates. VGIC believes the PD should be modified to represent a serious proposal –
+a rate design that includes a distribution component to offer a more fair and complete export rate
+– to promote EV exports.
+III. AT A MINIMUM, VGIC RECOMMENDS THE COMMISSION REOPEN THE
+RECORD OF THIS PROCEEDING TO SOLICIT ADDITIONAL EVIDENCE
+FROM SDG&E AND OTHER PARTIES DEMONSTRATING THE
+FUNDAMENTAL PARTICIPANT ECONOMICS FOR THE PROPOSED
+DYNAMIC EXPORT RATE.
+If the PD is not modified as recommended above, VGIC respectfully urges the Commission
+to, at a minimum, reopen the record of this proceeding to solicit additional evidence from SDG&E
+and other parties demonstrating the fundamental participant economics for the proposed dynamic
+export rate. VGIC does not believe that SDG&E and settling parties have produced sufficient
+evidence demonstrating that the proposed export rate described in the settlement agreement would
+provide customers with net benefit over the two-year pilot period. For example, customers
+participating using V2G chargers would be required to make significant upfront investments to
+enable pilot enrolment. Notably, SDG&E’s previously Commission-approved V2G
+demonstrations have yielded important cost data for V2G equipment planning, procurement,
+3 Submission of Gridx, Inc., Polaris Energy Services, Gridtractor, Inc., and Pacific Gas and Electric Company’s
+Comments and Responses to the Administrative Law Judge’s Ruling on Track B Staff Proposal to Expand Existing
+Pilots. September 25, 2023. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M520/K482/520482482.PDF
+5
+
+installation, and maintenance. However, based on VGIC’s assessment, SDG&E and settling parties
+have not considered, cited, or estimated these costs and the need to offset them over the two-year
+pilot period.
+VGIC believes that establishing a pilot that has not been assessed for whether customers will
+find it worthwhile to participate may be an imprudent use of ratepayer funds and, in the case of
+SDG&E’s proposed dynamic export rate, may only delay and obfuscate the critical goals
+established by Senate Bill 676 and envisioned in D.20-12-029 (“the VGI Strategies Decision”).
+IV. CONCLUSION
+VGIC appreciates the opportunity to submit these opening comments on the proposed decision
+adopting SDG&E’s proposed dynamic export rate pilot. We look forward to further collaboration
+with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: October 16, 2023
+6

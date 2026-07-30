@@ -1,0 +1,116 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA FILED
+01/30/20
+04:59 PM
+Order Instituting Rulemaking Regarding
+Rulemaking 19-09-009
+Microgrids Pursuant to Senate Bill 1339
+(Filed September 12, 2019)
+and Resiliency Strategies.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON TRACK 1
+MICROGRID AND RESILIENCY STRATEGIES STAFF PROPOSAL
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRIDINTEGRATIONCOUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941)266-0017
+Email: eburgess@vgicouncil.org
+Dated: January 30, 2020
+1 / 5
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding
+Rulemaking 19-09-009
+Microgrids Pursuant to Senate Bill 1339 and
+(Filed September 12, 2019)
+Resiliency Strategies.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON TRACK 1
+MICROGRID AND RESILIENCY STRATEGIES STAFF PROPOSAL
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1 hereby submits
+comments on Track 1 Microgrid and Resiliency Strategies Staff Proposal submitted in
+Rulemaking 19-09-009. Pursuant to Administrative Law Judge’s Ruling Requesting Comments
+on Track 1 Microgrid and Resiliency Strategies Staff Proposal, issued by Administrative Law
+Judge Colin Rizzo on January 21, 2020, VGIC timely files these comments on January 30, 2020
+in R. 19-09-009. VGIC also filed a motion for party status in these proceedings on January 30,
+2020.
+I. INTRODUCTION
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”)through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+1The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companiesorsupporters. (https://www.vgicouncil.org/).
+1
+2 / 5
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid. VGIC appreciates the opportunity to participate in this proceeding and
+contribute to thedevelopment ofamarket for microgrids and resiliency solutions.
+II. COMMENTS
+VGIC commends the considerable effort made by stakeholders that presented proposals
+in the workshop held on December 12, 2019. In particular, the VGIC would like to thank the
+Staff forconsidering proposals that enableVGIsolutions for resiliency purposes, such as
+“Interconnection Proposal 4: Allow the use of smart meters for electrical isolation”2.
+VGIC believes that solutions like Interconnection Proposal 4 that leverage existing plug-
+in electric vehicles (“PEVs”) for resiliency functions would represent a significant step forward
+in establishing a market for products and services that can help mitigate the impact of future
+poweroutages. As the Commission weighs next steps, VGIC recommends that special
+consideration be given to the short-term opportunities to achieve overall resiliency goals through
+increased provision and intelligent integration ofPEVs. Actions can be taken now to facilitate
+vehicle-to-home (“V2H”) or vehicle-to-load (“V2L”) solutions, which may allow PEVs to
+provide backup powerto islanded loads in the event of a public safety powershutoff (“PSPS”).
+Some of these actions can be taken in the short-term to enable V2H/V2L implementation (at
+least for a subset of PEVs), by the September 1, 2020 target date. For example, VGIC
+recommends that the Commission requireeach IOU to establish a pilot program with the goal of
+implementing V2H or V2L backup power solutions in advance of the target date. If successful,
+theseprograms can be scaled up in future years. Furthermore, these programs would also serve
+2Staff Proposal, 3.1.3-6p. 10-14
+2
+3 / 5
+
+the dual purpose of advancing California’s overall clean energy policy goals (e.g. transportation
+electrification).
+Given the current state of technology, including the capabilities of smart meters and
+available PEVs, the VGIC believes that overlooking V2H/V2L solutions would not constitutea
+comprehensive approach to the actions available in the short-term (i.e. before September 2020)
+forfacilitating microgrids and resiliency strategies. Several automotive manufacturers (“OEMs”)
+and EV supply equipment (“EVSE”) companies, some ofwhich are VGIC members or
+supporters, have recently indicated thetechnological readiness of PEVs to provide V2H/V2L
+functionality either through an on-board inverter (i.e. AC interconnection) orthrough an external
+device (i.e. DC interconnection). While there are some existing regulatory barriers to the broader
+implementation ofV2Gsolutions through an AC approach due to current interconnection rules
+(i.e. Rule 21) and standards, VGIC believes these solutions could still be pursued now on a
+limited pilot scale.3 Additionally, there are fewer barriers to V2H/V2L solutions through a DC
+interconnection approach which could be readily implemented now.
+VGIC would like to emphasize that V2H or V2L backup power solutions represent only a
+subset of VGIapplications that could aid the deployment of microgrids and resiliency solutions.
+As such, VGIC would like to continue discussion on pathways to deploying V2HorV2L backup
+powersolutions more broadly, and beyond the 2020 target date, as well as explore other
+solutions not specified above.
+3The VGI Working Group (established within R.18-12-006) and the Vehicle to Grid Alternating Current
+Interconnection Technical Subgroup (in both R.17-07-007 and R.18-12-006) have providedthoroughexploration
+into the ease of implementation of these solutions in the short-term.
+3
+4 / 5
+
+III. CONCLUSION
+VGIC appreciates the opportunity to submit thesecomments in response to Track 1
+Microgrid and Resiliency Strategies Staff Proposal. Welook forward to further collaboration
+with the Commission and stakeholders on this initiative.
+Respectfullysubmitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRIDINTEGRATIONCOUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941)266-0017
+Email: eburgess@vgicouncil.org
+Date: January 30, 2020
+4
+Powered by TCPDF (www.tcpdf.org)
+5 / 5

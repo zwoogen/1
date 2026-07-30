@@ -1,0 +1,142 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL ON THE PROPOSED DECISION ON TRANSPORTATION
+ELECTRIFICATION POLICY AND INVESTMENT
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr., Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+November 8, 2022
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL ON THE PROPOSED DECISION ON TRANSPORTATION
+ELECTRIFICATION POLICY AND INVESTMENT
+In accordance with the California Public Utilities Commission Rules of Practice and Procedure,
+the Vehicle-Grid Integration Council (“VGIC”) hereby submits reply comments on the Proposed
+Decision on Transportation Electrification Policy and Investment, issued on October 14, 2022.
+I. REPLY TO COMMENTS ON VGI STRATEGY AND FORUM.
+A diverse set of stakeholders, including AAI, ATE, Center for Community Action and
+Environmental Justice, East Yard Communities for Environmental Justice, Sierra Club, and UCS
+(collectively, “Joint Commenters”), EDF, and WeaveGrid support the inclusion of a VGI strategy
+but generally agree that the Commission must be more specific in setting a VGI strategy and
+effective goals.1 Notably, ATE opposes the PD yet supports moving forward with a VGI strategy
+and forum. Similarly, while VGIC does not necessarily support PG&E’s overarching
+recommendation to reject the PD, we do agree with their assessment that “the PD does not provide
+a clear strategy for how the Commission will endeavor to ensure ratepayer-funded incentives are
+1 See, Opening Comments of AAI on PD at 5. Opening Comments of ATE on PD at 2 and 5. Opening Comments of
+Joint Commenters at 7. Opening Comments of EDF on PD at 9. Opening Comments of WeaveGrid on PD at 4.
+1
+
+supporting reducing grid costs, fully utilizing renewable energy, and enhancing reliability.”2 In
+considering specific revisions to the PD, VGIC strongly supports EDF’s recommendation for the
+Commission to establish specific VGI Goals. This aligns with VGIC’s comments on the Draft TEF
+as well as our opening comments on this PD, where we offer not only authoritative literature
+supporting a Goals-Outcomes-Metrics policy framework, but also offer an example of its
+implementation in a state facing grid challenges not entirely dissimilar to California’s (i.e., Hawaii)
+and example VGI Goals, Outcomes, and Metrics for California.3
+II. REPLY TO COMMENTS ON EV SUPPLY EQUIPMENT.
+A. Bidirectional charging. As noted in our Opening Comments, VGIC strongly recommends
+the Commission direct bidirectional charger capability to be considered in guidance on FC1
+rebates, such that bidirectional chargers are not only eligible for rebates, but also receive an
+appropriate level of rebate commensurate with their grid and customer benefits. Meanwhile, in
+Opening Comments, the Joint Commenters recommend that bidirectional charging be explicitly
+considered as a strategic focus area for the VGI Strategy and VGI Forum.4 In addition to VGIC’s
+proposed revision to the PD’s guidance for FC1 rebate development, VGIC also strongly supports
+the Joint Commentor’s proposed revision to the PD, including the redline revisions proposed by
+Joint Commenters to PD pages 162-163 and 165 and Ordering Paragraph 11. Both PD revisions
+are critical to ensuring VGI is maximized, as the VGI Forum will be established before FC1
+commences, so VGIC’s proposed revisions to the program guidelines would only impact post-
+2025 deployments. It is critical that bidirectional charging support be provided before FC1
+2 Opening Comments of PG&E on PD at 8-9.
+3 See Opening Comments of EDF on PD at 10. Opening Comments of VGIC at 4. Comments of VGIC on Draft TEF
+Sections 3.4 and 11.3 at 3-10.
+4 Opening Comments of Joint Commentors at 7.
+2
+
+commences in 2025, as the grid and customer benefits of doing so are clear and well-established
+throughout this proceeding and a clear policy imperative under SB 676.
+B. Data sharing requirement. In opening comments, VGIC, Chargepoint, Electrify America, and
+EVgo note that the PD does not provide ample justification for the data sharing requirements.5
+Specifically, VGIC supports EVgo’s recommendation that additional stakeholder process be held
+to determine what data reporting requirements are necessary. We reiterate that imposing
+unsubstantiated and ambiguous data sharing requirements is unreasonable at this time.
+III. REPLY TO COMMENTS ON AUTOMATED LOAD MANAGEMENT.
+A. Definition of ALM. Opening comments from EDF, EDF Renewables, EV Association,
+Freewire, Siemens, The Mobility House (“TMH”), and WeaveGrid reflect an overwhelming
+consensus that ALM solutions can save time and money for customers.6 Notably, EDF asserts that
+“the Commission should require the utilities to use sophisticated VGI to mitigate the buildout need
+to the maximum extent possible, and establish incentives that reward successful mitigation and
+penalize avoidable overbuilding.”7 Moreover, VGIC agrees with TMH that “the Commission
+should make room in its definition of the technology to encompass a variety of use cases and
+configurations to avoid limiting the applications and opportnuities innovative companies can offer
+customers,”8 and specifically supports the expansion of the definition to include customer-side
+upgrade deferral. VGIC retains its opening comment’s recommendation for a robust stakeholder
+5 See Opening Comments of ChargePoint at 10. Opening Comments of Electrify America at 2. Opening Comments
+of EVgo at 6.
+6 See, Opening Comments of EDF on PD at 9. Opening Comments of EDF Renewables on PD at 4. Opening
+Comments of EVA at 5. Opening Comments of FreeWire at 2. Opening Comments of Siemens at 1. Opening
+Comments of TMH at 3. Opening Comments of WeaveGrid at 6.
+7 Opening Comments of EDF on PD at 9.
+8 Opening Comments of TMH at 3.
+3
+
+process to revise the definition, as has been done in the past with this nuanced topic. However, as
+an alternative, VGIC would support the adoption of EDF Renewables’ proposed revisions to the
+ALM definition, which would insert “customer and/or” before “utility side of the meter.”
+B. ALM Study and Rebate. In Opening Comments, EDF Renewables recommends more granular
+ICA maps as a tool to promote ALM that is specifically intended to defer or avoid utility-side
+upgrades. VGIC supports this in theory, but questions whether accurate, granular, and easily
+accessible ICA data may be available in the near term, as indicated by ongoing efforts in the IDER
+and High DER proceedings. Ideally, ICA maps will provide data needed to determine the level of
+distribution system savings attributed to each site, and then use that data to determine the
+appropriate cost share for ratepayers (via distribution cost savings), site hosts (via ALM incentive),
+and the utility (via TMH’s proposed earnings adjustment mechanism or similar approach).
+However, while accurate, granular, and accessible ICA maps are being developed, VGIC
+recommends an interim ALM incentive approach derived from average system-wide costs of
+utility-side TE distribution upgrades found in the EV Load and Research Report. While at an
+individual level, this may result in ALM incentives where ALM election did not directly defer or
+avoid utility-side infrastructure, on a programmatic scale this will ultimately lead to more
+distribution deferral and avoidance. Notably, this reasoning underscores the ongoing Partnership
+Pilot to promote DER non-wires alternatives for larger, primary grid upgrades. On a programmatic
+scale, this approach was deemed to help avoid or defer distribution upgrades such that the benefits
+outweighs the costs. The key question in that proceeding, as will be the case in designing an ALM
+incentive, is how exactly to design the ALM incentive such that the benefits do, in fact, outweigh
+the costs. With this in mind, VGIC supports Siemens’ assertion that an ALM study should
+4
+
+recommend how rebates will be calculated and agrees with TMH that the ALM study, as proposed,
+“lacks urgency.”
+C. Energization timelines. VGIC agrees with EVgo and Tesla that energization timelines should
+be addressed. These parties recommend a separate forum be hosted to develop solutions to
+streamline energization. VGIC does not oppose a separate forum but offers that this issue could be
+scoped into the VGI forum, and, in turn, the forum could be expanded (e.g., from a two-day forum
+to a three-day forum) to account for the added scope. VGIC believes it may be reasonable to link
+the two discussions as some solutions to the energization timeline challenge can be found in VGI
+strategies (i.e., ALM).
+IV. REPLY TO COMMENTS ON WORKPLACE CHARGING.
+VGIC strongly supports recommendations from GPI, EDF Renewables, and ChargePoint to
+include funding for workplace charging in FC1. We are specifically compelled by ChargePoint’s
+statement that “access to workplace charging has been found to increase the likelihood of an
+employee choosing to drive electric sixfold.”9
+V. CONCLUSION.
+Respectfully submitted,
+Edward Burgess
+November 8, 2022
+9 Opening Comments of ChargePoint on PD at 7.
+5

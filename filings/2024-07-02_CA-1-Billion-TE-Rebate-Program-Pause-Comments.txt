@@ -1,0 +1,472 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Rulemaking 23-12-008
+Transportation Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING INITIATING TRACK 1 AND INVITING
+PARTY COMMENT
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: July 2, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Rulemaking 23-12-008
+Transportation Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING INITIATING TRACK 1 AND INVITING
+PARTY COMMENT
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Initiating Track 1 and Inviting Party
+Comment filed June 3, 2024 by Administrative Law Judges (“ALJ”) Marcelo Lins Poirier and
+Colin Rizzo.
+I. INTRODUCTION.
+California has set very ambitious transportation decarbonization targets that rely on
+transportation electrification (“TE”) across sectors, with the state requiring all new vehicle sales
+to be zero-emission by 2036. California’s electrification targets for medium- and heavy-duty
+(“MHD”) vehicles are particularly ambitious. On January 1, 2025, Advanced Clean Fleets will
+begin requiring companies to replace internal combustion vehicles with zero-emission MHD
+vehicles (“ZEVs”), either based on model year or a milestones option that requires fleets to have
+a certain percentage of ZEVs. Additionally, even for smaller companies not subject to Advanced
+Clean Fleets, Advanced Clean Trucks requires ZEVs to make up 5% to 9% of California sales,
+depending on the truck class. In the light-duty sector, the EV market is more mature and moving
+2
+
+beyond early adopters, but access to charging is one of the biggest barriers to EV adoption,
+especially for renters and people living in multi-unit dwellings (“MUD”).
+The Commission has repeatedly recognized the critical need to improve access to charging
+infrastructure; this includes providing ratepayer funding for customers installing EV chargers. In
+D.22-11-040, the Commission approved an ambitious plan to unify the various charging
+infrastructure funding programs being executed by the utilities individually and to create a
+statewide transportation electrification (“TE”) Rebate Program. VGIC continues to support this
+plan and sees benefits in having one program for customers to look to for funding options to
+support their electrification needs. Without the TE Rebate Program, the Commission risks slowing
+down EV adoption and, in turn, directly jeopardizes California’s TE and broader decarbonization
+goals. For this reason, VGIC opposes pausing the implementation of the TE Rebate Program. We
+also offer the following comments below in each of these areas:
+● The CPUC’s first reason for pausing the program, affordability challenges for ratepayers,
+contains factual errors:
+○ The CPUC fails to consider how vehicle electrification can provide ratepayer
+benefits in the near term.
+○ The CPUC fails to consider how vehicle electrification can provide ratepayer
+benefits over a longer planning horizon.
+● The CPUC’s second reason for pausing the program, energization delays due to needed
+upgrades to distribution infrastructure, contains factual errors:
+○ Currently, customers need to purchase chargers for utilities to invest in needed
+distribution infrastructure.
+○ Funding can be leveraged to support sites that do not need or can avoid utility-side
+infrastructure buildout.
+○ Flexible service connection solutions can partially obviate the need for certain
+distribution system upgrades.
+3
+
+● The CPUC’s third reason for pausing the program, the near-term availability of non-
+ratepayer funds for behind-the-meter transportation electrification infrastructure, contains
+factual errors:
+○ State funding for EV infrastructure is uncertain given the current budget shortfalls.
+○ In anticipation of TE Rebate funding availability, critical utility transportation
+electrification programs were either not fully funded or proposed at all.
+● The Commission’s approved VGI strategies adopted per SB 676 depend on the TE Rebate
+Program.
+○ Bidirectional charging equipment should be incentivized through a “V2X adder,”
+for which the TE Rebate Program is the most appropriate venue.
+○ Charging sites that promote load during the lowest greenhouse gas emissions hours
+and lowest utility cost hours should be incentivized through the TE Rebate
+Program.
+II. QUESTION 1: IN LIGHT OF THE CHALLENGES IDENTIFIED ABOVE,
+SHOULD THE COMMISSION PAUSE IMPLEMENTATION OF THE TE
+REBATE PROGRAM, INCLUDING ME&O, AND THE LITE PROGRAM? IF
+NOT, WHY? IF SO, WHY AND WHEN SHOULD PROGRAM
+IMPLEMENTATION RESUME?
+Overall, VGIC does not believe that the TE Rebate Program should be paused due to the
+following reasons.
+a. The CPUC’s first reason for pausing the program, affordability challenges for
+ratepayers, contains factual errors,
+i. The Ruling does not consider how integrating electric vehicles into the
+electric grid can provide short-term ratepayer benefits.
+In the Ruling, the Commission highlights “affordability challenges for ratepayers” as a
+reason for reassessing the TE Rebate program, as Californians are experiencing rapid increases in
+electric rates.1 These rate increases are due to critical and necessary investments needed to mitigate
+1 Ruling at 2.
+4
+
+the risk of wildfires, and many of these investments are still yet to be incorporated into rates.2 In
+2022, the required wildfire mitigation investments comprised 8.7 - 17.3% of an average residential
+bill.3 Wildfire mitigation investments will continue to be significant in California, and the
+associated cost recovery is expected to continue driving rate increases for the foreseeable future.
+The Commission must consider all potential tools to mitigate ratepayer costs to address the
+affordability crisis plaguing ratepayers. One critical tool to address ratepayer affordability is
+vehicle-grid integration (“VGI”). Managed charging and discharging strategies designed to defer
+or avoid investments in distribution, transmission, and generation resources can help offset the
+ratepayer cost increases from wildfire-related investments. With this in mind, VGIC strongly urges
+the Commission to focus on unlocking widespread VGI as soon as possible. As determined by the
+Commission in D.20-12-029, the near-term benefits of VGI include reducing system peak load
+and mitigating primary and secondary distribution infrastructure upgrades for new EV charging
+customers.4 These ratepayer benefits can be unlocked in the short term by:
+1. Continuing to offer EV customers compelling TOU rate differentials. Today,
+California is sending strong time-of-use (“TOU”) price signals to encourage
+charging during off-peak hours - a signal that EVs are following. The use of this
+“passive” managed charging strategy facilitates a straightforward, accessible
+customer experience, which is important as many Californians begin driving their
+first EVs.
+2 Commission, 2023 Senate Bill 695 Report - Report to the Governor and Legislature on Actions to Limit Utility
+Cost and Rate Increases Pursuant to Public Utilities Code Section 913.1 published May 2023 at p.11-12. Available
+at: https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/office-of-governmental-affairs-
+division/reports/2023/2023-sb-695-report---final.pdf
+3 Ibid at p.41.
+4 D.20-12-029 at pages 5, 11, 26-34, at 71-77.
+5
+
+2. Establishing new managed charging programs targeting distribution system
+optimization. While TOU rates encourage system peak load reduction, networked
+chargers and vehicles can be leveraged to optimize EV charging “behind-the-
+scenes” in response to local grid conditions. The use of this “active” managed
+charging strategy leverages mature technologies to facilitate primary and secondary
+distribution system upgrade deferral, an opportunity that is currently untapped. The
+(sunsetting) Distribution Investment Deferral Framework (“DIDF”) does not
+address these values and the emergent dynamic rate pilots, including Pacific Gas
+and Electric Company’s (“PG&E”) VGI Pilot dynamic rate structure, do not
+include a dynamic price signal to optimize around these very local grid constraints.
+3. Incentivizing the deployment of bidirectional charging equipment. For system
+net peak load reduction or any other managed charging benefits, bidirectional
+charging equipment offers an opportunity to achieve deeper, more valuable
+customer response. When coordinating only EV charging load to yield a desired
+grid benefit, that benefit is limited by the customer’s initial plan to charge during a
+given period. However, leveraging bidirectional charging equipment can provide
+EV discharge capacity that far exceeds the planned charging capacity. Additionally,
+the equipment can be operationalized even for EVs that are plugged in but not
+otherwise scheduled to charge at all. In other words, the maximum EV discharging
+capability is not limited by a customer’s initial plan to charge during a given period,
+so much larger net peak system load reduction – or distribution deferral benefits –
+can be achieved. To provide a more specific example, consider an EV charging at
+4 kW on a 10-kW charger. A price signal delivered during a system or local peak
+6
+
+could induce a reduction to 0 kW, resulting in a net impact of 4 kW. However, if
+the 10-kW charger was capable of bidirectional power flow, then during that same
+period the EV could reduce 4 kW of charging demand and discharge 10 kW,
+resulting in a total impact of -14 kW. This V2X multiplier example demonstrates
+the critical importance of deploying and incentivizing grid-tied bidirectionally-
+capable charging equipment.
+Without TE Rebate Program support for customers, these three strategies to unlock near-term
+ratepayer benefits will be significantly reduced.
+ii. The Ruling does not consider how integrating electric vehicles into the
+electric grid can provide ratepayer benefits over a longer planning horizon.
+Over the long-term, VGIC notes that the increase in electricity sales due to accelerated TE
+has the potential to lower rates and spread system costs, including critical wildfire mitigation
+investments, across more kWh sales. The Commission adopted several Findings of Fact detailing
+that high electricity using customers have contributed more revenue to the grid compared to their
+costs than low-usage customers.5 While the creation of an income-graduated fixed charge will
+reduce this to some extent for residential customers, VGIC notes that encouraging electrified
+transportation over the next 10-15 years may increase electricity sales and put an overall downward
+pressure on rates. Early evidence suggests that EVs may already be paying electric bills that in
+total are higher than their cost to serve in California.6 Whether this “downward pressure on rates”
+hypothesis is proven true through existing or forthcoming studies of the previous 5-10 years of
+investments, the underlying foundation for this concept depends on the extent to which EV
+5 See e.g., D.15-07-001.
+6 Synapse Energy, Electric Vehicles Are Driving Rates Down for All Customers published May 2024. Available at:
+https://www.synapse-
+energy.com/sites/default/files/Electric%20Vehicles%20Are%20Driving%20Rates%20Down%20for%20All%20Cus
+tomer%20California%20May%202024%2024-023.pdf
+7
+
+customers charge during off-peak hours and the ability to increase the overall utilization of existing
+and new grid infrastructure.
+With this in mind, rather than asserting whether this downward rate pressure has already
+materialized from TE efforts in California, VGIC strongly urges the Commission to accelerate
+efforts that directly support the underlying driver (i.e., shifting EV charging load to off-peak
+periods). In other words, the Commission can yield a downward pressure on rates by establishing
+a comprehensive suite of VGI strategies alongside its EV charger deployment efforts. VGIC
+believes that the share of reliably connected (i.e., “networked”) and grid-interactive EVs and EV
+chargers will increase over the next 10-15 years as customers familiarize themselves not only with
+the technology but also with the total cost of ownership reductions and revenue-generating
+opportunities gained from interacting with the grid in new ways (i.e., through VGI programs and
+rates). However, without statewide TE Rebate support for customers, both near- and long-term
+ratepayer benefits of VGI efforts will be significantly marginalized as California locks itself into
+a decelerated TE path.
+b. The CPUC’s second reason for pausing the program, energization delays due to
+needed upgrades to distribution infrastructure, contains factual errors.
+i. Currently, customers need to purchase chargers for utilities to invest in
+needed distribution infrastructure.
+In the Ruling, the second reason detailing why it may be reasonable to pause the TE Rebate
+is “energization delays due to needed upgrades to distribution infrastructure.”7 In the Scoping
+Ruling, the Commission states, “Without adequate utility-side infrastructure, charging ports
+cannot be energized,” and, “A reassessment of the TE Rebate Program would allow the
+Commission to consider whether ratepayer support for Transportation Electrification should be
+7 Ruling at 2.
+8
+
+focused on utility-side investments in the near-term.”8 VGIC agrees that significant distribution
+upgrades and utility-side investments will be needed to fully accommodate new TE load, given
+the ambitious scale of California’s TE goals. However, VGIC strongly advises against the
+Commission pausing TE Rebate funding because of the delay in constructing distribution
+upgrades.
+The Ruling and Scoping Ruling language reveals a concerning “chicken-or-egg” problem:
+in the Energization Timelines proceeding (R.24-01-018), the utilities have repeatedly stated that
+they wait to study a project’s impact on the distribution system until a new service connection
+application is completed.9 Although the utilities state that there are multiple drivers of distribution
+upgrades, known load requests are consistently cited as significant drivers of individual
+distribution capacity upgrades.10 VGIC acknowledges that the Commission is beginning to explore
+distribution planning process reforms to allow utilities to invest in larger distribution upgrades,
+like substation upgrades, where load will increase even if it has not materialized yet through new
+service applications (i.e., “proactive planning and investment”).11 However, these changes will
+take time to develop, adopt, implement, and refine. While necessary, these process enhancements
+represent a significant paradigm shift for distribution investment that VGIC anticipates will be
+subject to challenges from interested parties, further slowing the rollout.
+8 Scoping Ruling at 6.
+9 San Diego Gas & Electric Company (U 902-E), Pacific Gas and Electric Company (U 39 E), and Southern
+California Edison Company (U 338-E) Response to Administrative Law Judge Ruling Directing Utility Responses to
+Questions Regarding Energization Timelines submitted in Rulemaking (“R.”) 24-01-018 on April 22, 2024 at p. 5:
+“Upstream distribution capacity upgrades, if identified as necessary to accommodate a particular customer’s
+energization request, typically would be initiated in “Step 2: Engineering & Design” of the above-mentioned
+energization process and should be completed prior to or by the date an energization request is fulfilled.”
+Available at: https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M530/K252/530252757.PDF
+10 PG&E states that currently 28% of substation upgrades and 53% of line/circuit upgrades are caused by an
+energization request. Ibid at p. 32.
+11 The Commission is currently considering modifying the distribution planning process in R.21-06-017. See the
+Administrative Law Judges’ Ruling Seeking Comment on Staff Proposal filed on March 13, 2024 for more detail.
+Available at: https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M527/K056/527056843.PDF
+9
+
+New service request applications will only be completed and submitted once a customer
+has concrete plans for the vehicles they are going to electrify and the chargers they will install.
+Customers installing chargers under Rules 29 and 45 must show proof of commitment to purchase
+and install the EV supply equipment (“EVSE”), with a purchase order for the chargers being a
+common way for customers to show their proof of commitment.12 As a result, deploying chargers
+and constructing distribution system upgrades are processes that are intertwined and often pursued
+in parallel, rather than in sequence as suggested by the Ruling and Scoping Ruling.
+With this in mind, the funding provided in the TE Rebate program is important to unlock
+now. Otherwise, customers may delay their plans to electrify their vehicles, which will push out
+the timelines for utilities identifying known EV load projects and constructing the necessary grid
+upgrades. Given the inextricably linked nature of this problem, the “chicken-or-egg” must be
+overcome through both the above-mentioned distribution planning process reform and the TE
+Rebate funding program.
+ii. Funding can be leveraged to support sites that do not need or can avoid
+utility-side infrastructure buildout.
+The current slate of utility TE program offers funding support for new service requests
+related to TE, which may have the effect of nudging customers onto new service drops that can, in
+turn, trigger upstream distribution system upgrades. However, some customers can achieve their
+TE goals using existing grid connections and should be encouraged to do so where possible. The
+TE Rebate Program should be leveraged to support the development of charging sites that do not
+require utility-side distribution system infrastructure investments. This would further mitigate the
+12 See SCE Rule 29 at Footnote 2: “All Applicants, including Applicants that are considered as EVSE
+manufacturers, a proof of commitment to install the EVSE or Charging Station is required. A proof of commitment
+is any documentation of clear intent to procure and deploy EVSE, including but not limited to a purchase order,
+budget approval, grant agreement, request for proposal results, governance body mandated procurement and
+deployment, approved site plan where the EVSE will be installed, local government permit, etc.”
+10
+
+Commission’s concerns over ratepayer costs. Additionally, customers may be able to leverage
+commercially-available technologies reduce peak demand below the full nameplate charging
+capacity at a site, which could also help avoid utility-side infrastructure buildout. These solutions,
+which the Commission has referred to as Automated Load Management (“ALM”) in D.20-12-029,
+can support the flexible service connection agreements detailed in Section II.b.iii below.
+Additionally, if the TE Rebate Program were to support customers that do not trigger a separate
+service drop for their EVSE, vehicle-to-building (“V2B”) use cases would be supported, as
+detailed below in Section II.d.i.
+iii. Flexible service connection solutions can partially obviate the need for
+certain distribution system upgrades.
+Certain customers can energize their charging sites before distribution upgrades are fully
+constructed by leveraging flexible service connection solutions and agreements. Flexible service
+connections allow new load to be energized from the grid even if there is not 24/7 grid capacity to
+accommodate that nameplate capacity for the new EVSE(s) at a site. Relevant bridging strategies
+include (1) energizing just a portion of the load (i.e., a portion of the chargers), (2) limiting the
+amount of electricity that can be drawn across the day or year using power control systems or
+software-based ALM solutions (i.e., allowing for limited or interruptible service), or (3) leveraging
+temporary DERs to provide behind-the-meter capacity including solar or energy storage when the
+grid is unable to service the full site. Depending on site characteristics and customer preference,
+some of these solutions can also be used permanently to avoid distribution upgrades. While the
+Commission has not established a unified framework for the adoption of flexible service
+connections, pilots are being conducted by Southern California Edison (“SCE”) and PG&E to
+allow customers to take advantage of these solutions today. Therefore, TE Rebate funding may be
+used sooner rather than later, obviating the need for the Commission to wait for distribution
+11
+
+upgrades before deploying this critical funding source and increasing access to charging
+equipment.
+c. The CPUC’s third reason for pausing the program, the near-term availability of
+non-ratepayer funds for behind-the-meter transportation electrification
+infrastructure, contains factual errors.
+i. State funding for EV infrastructure is uncertain given the current budget
+shortfalls.
+The Commission details a third reason to justify pausing the TE Rebate program: “The
+near-term availability of non-ratepayer funds for behind-the-meter transportation electrification
+infrastructure.”13 The Scoping Ruling specifically cites the California Energy Commission’s
+(“CEC”) Clean Transportation Program Investment Plan and federal funding that California has
+received for transportation electrification.14 However, state-level funding for the CEC’s Clean
+Transportation Program is being reduced due to California's current budget. The CEC had planned
+to spend roughly $1.5 billion between 2024 and 2028, but $245 million is slated to be cut from
+this ZEV Package this year.15 Funding that is planned to be allocated in future years for the CEC
+is also at risk of being cut since California expects budget deficits to continue into next year and
+beyond.16 For this reason, the Commission should not rely on the state budget to provide near-term
+funding for transportation electrification infrastructure and should continue to leverage ratepayer
+funding for the TE Rebate Program to ensure California can meet its important and ambitious TE
+goals.
+13 Ruling at 2.
+14 Scoping Ruling at 7.
+15 Jessie Gabriel, Chair, Assembly Budget Committee, Floor Report 2024-2025 published June 22, 2024 at p. 75.
+Available at: https://abgt.assembly.ca.gov/system/files/2024-06/floor-report-of-the-2024-25-budget-june-22-
+2024.pdf?utm_source=substack&utm_medium=email
+16 Gabriel Petek, Legislative Analyst’s Office, The 2024-25 Budget: California’s Fiscal Outlook published
+December 2023 at Figure 4. Available at: https://www.lao.ca.gov/reports/2023/4819/2024-25-Fiscal-Outlook-
+120723.pdf
+12
+
+ii. In anticipation of TE Rebate funding availability, critical utility
+transportation electrification programs were either not fully funded or
+proposed at all.
+D.22-11-040 concluded a four-year effort to develop a consistent TE funding approach
+with the express intention to evolve away from the existing paradigm of ad-hoc, resource-intensive
+development and litigation of individual make-ready programs. Specifically, the initiative was
+intended to transition away from “ad-hoc IOU applications that address disparate market
+segments.”17 For impacted stakeholders, D.22-11-040 marked a strong and unwavering regulatory
+signal that California was prepared to make the investments required to achieve its TE goals. As a
+result, utilities, technology providers, site developers, and customers have been awaiting the
+launch of TE Rebate program.
+One direct and palpable impact of the TE Rebate program approval was the withdrawal of
+PG&E’s planned EV Charge 2 program. In 2021, PG&E proposed EV Charge 2 program and
+detailed a $224 million required budget. In 2022, the Commission authorized PG&E to spend $52
+million to implement the EV Charge 2 program.18 In the end, $52 million proved insufficient and
+PG&E, with approval from the Commission to choose whether to implement the program, opted
+to cancel the program before launch.19 In the decision authorizing EV Charge 2, the Commission
+stated that it was only approving $52 million in part because PG&E would only need funding as a
+bridge to the statewide TE Rebate Program and FC1.20 Given this position, stakeholders have been
+anticipating the development of the TE Rebate Program.
+17 Transportation Electrification Framework. Energy Division Staff Proposal. February 3, 2020. Page 18.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M326/K281/326281940.PDF
+18 D.22-12-054.
+19 D.23-09-005.
+20 D.22-12-054 at 19.
+13
+
+Additionally, it is reasonable to expect that PG&E and other utilities could have submitted
+new TE funding applications but were discouraged due to the forthcoming TE Rebate Program
+and FC1. As a result, without FC1, no TE funding will be planned for after the existing utility
+programs (i.e., Funding Cycle 0) expire. In this way, the Commission has created a path
+dependency; the time window and procedural vehicles to secure funding support for EV customers
+are now severely limited. If the Commission does pause FC1, guidance on whether the utilities
+can pursue their own TE and VGI programs via application should be provided.
+d. The Commission’s approved “VGI strategies adopted per SB 676” depend on the
+TE Rebate Program
+i. Bidirectional charging equipment should be incentivized through a “V2X
+adder,” for which the TE Rebate Program is the most appropriate venue.
+Bidirectional charging (“V2X”) use cases can leverage the latent battery capacity in EVs
+to provide backup power to customers, manage customer bills, and support the grid through
+vehicle-to-grid (“V2G”) exports. Currently, V2X systems have a standard interconnection
+pathway through Rule 21,21 can receive export compensation through the ELRP,22 will soon be
+eligible for shadow bill credits through PG&E’s VGI Pilots Phase II (pending approval of PG&E
+Advice Letter 6909-E) and PG&E and SCE’s expanded dynamic rate pilots, and are commercially-
+available across several customer segments.23 VGIC commends the Commission for its continued
+21 Specifically, V2G DC EVSE, where the inverter is located inside the charger, are eligible to interconnect under
+Rule 21.
+22 R.20-11-003. Phase 2 Decision Directing PG&E, SCE, and SDG&E to Take Actions to Prepare for Potential
+Extreme Weather in the Summers of 2022 and 2023. D.21-12-015.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821475.PDF. V2X systems can
+technically receive export compensation through the CEC’s Demand Side Grid Support (“DSGS”) Program under
+Option 1 or Option 3. However, this opportunity is limited due to the limited availability of UL 1714 SB-certified
+V2G DC EVSE. ELRP, PG&E’s VGI Pilots Phase II, and SCE and PG&E’s Expanded Dynamic Rate Pilots all
+offer a UL 1741 SB exemption for V2G-DC EVSE. However, although DSGS itself does not require SB
+certification, the CPUC has not issued guidance related to a UL 1741 SB exemption for DSGS participants, which
+means DSGS is unlikely to see near-term participation from V2X systems.
+23 See, for example: Steve Hanley. Clean Technica. Nissan Using Vehicle to Grid Technology to Power US
+Operations. November 29, 2018. https://cleantechnica.com/2018/11/29/nissan-using-vehicle-to-grid-technology-to-
+power-us-operations/; Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial Application
+14
+
+support for the V2X market. Real customers have begun to benefit from this support and select
+instances where the Commission has provided unique provisions – specifically, the dedicated
+ELRP Subgroup A.5: EV/VGI Aggregations.
+Even with these market drivers, high upfront deployment costs remain a critical barrier to
+the widespread adoption of V2X technology. This is partially due to high interconnection
+application fees and the incremental cost of bidirectional charging systems, among other factors.
+To overcome this critical roadblock, VGIC strongly urges the Commission to establish funding to
+support V2X chargers and associated equipment. Specifically, a V2X rebate adder should be
+established to partially offset the costs of purchasing and installing V2X equipment that are
+incremental to the costs associated with unidirectional chargers. This V2X rebate adder should
+take into account the unique needs, technology configurations, and use cases of bidirectional
+charging technology and not exclude certain technology types or use cases, such as vehicle-to-
+building (“V2B”) installations. Currently, V2B installations are excluded from utility make-ready
+funding programs because of the requirement that customers install EVSE on a separate service
+drop to access make-ready funding.
+VGIC believes an incremental V2X rebate that covers the additional costs required to
+deploy a bidirectional charging site is critical to spurring the nascent V2X market in California.
+Dedicated market transition support and technology deployment incentives have proven effective
+of Vehicle-to-Grid Technology in Electric School Bus Partnership with Nuvve and Illinois School Districts. March
+23, 2021. https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/; Thomas Built
+Buses / Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School Bus.
+https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley; Lion Electric. Lion Electric Announces Successful
+Electric School Bus Vehicle-to-Grid Deployment with Con Edison in New York. December 14, 2020.
+https://thelionelectric.com/img/medias/LION_Press_Release_White%20Plains%20EN%20FINAL.pdf; Nuvve
+Corporation (2020). Nuvve DC Heavy Duty Charging Station Specifications Sheet. https://nuvve.com/wp-
+content/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf; Fermata Energy. Proven Results and Cost
+Savings with V2G Technology. October 14, 2020. https://www.fermataenergy.com/news-press/proven-results-and-
+cost-savings-with-v2g-technology; Rhombus Energy Solutions. V2G Charging, Control, and Management 50-
+500kW: Bidirectional. https://rhombusenergysolutions.com/products; Ford Motor Company. Ford Intelligent
+Backup Power. https://www.ford.com/trucks/f150/f150-lightning/features/intelligent-backup-power/
+15
+
+in the past. For example, the California Solar Initiative, Self-Generation Incentive Program, utility
+energy efficiency rebates, and utility TE programs have served as key catalysts for the rapid growth
+of solar PV, stationary energy storage, energy efficient technologies, and unidirectional charger
+deployment in California. In turn, these programs accelerated the timeline for realizing the many
+customer, system, and societal benefits of these technologies. It is reasonable to expect a similar
+accelerated growth path would be triggered by incentivizing the deployment of V2X charging and
+associated equipment.
+VGIC believes the TE Rebate program is an appropriate venue to offer an incremental
+incentive to V2X equipment since it is administratively simple, offers reasonable certainty to
+providers and customers (compared to the limited PG&E VGI Pilots, the only instance VGIC is
+aware of where V2X charging equipment is offered targeted incentives to support deployment
+costs), and incorporates consistent treatment across all IOUs in California. VGIC offers itself as a
+resource and hopes to collaborate closely with stakeholders to determine what incentive level
+would be appropriate for V2X equipment. At this time, VGIC suggests that a $10 million annual
+incentive budget carveout in both Funding Cycle 0 (i.e., remaining TE program funding) and FC1
+could meaningfully promote BTM V2X equipment in the near-term.
+ii. Charging sites that promote load during the lowest greenhouse gas
+emissions hours and lowest utility cost hours should be incentivized
+through the TE Rebate Program.
+The TE Rebate Program, as adopted in D.22-11-040, would not include support for
+workplace charging and other non-residential light-duty vehicle (“LDV”) serving charging
+facilities. However, these sites typically experience EV charging during the lowest greenhouse gas
+emissions hours.24 These sites can also support charging during the lowest utility cost hours, as
+24 See, for example, WattTime signal used in the Self-Generation Incentive Program, which shows GHG emissions
+are typically lowest during the midday period. https://content.sgipsignal.com/
+16
+
+determined by the Commission’s Avoided Cost Calculator. By investing in the development of
+more daytime charging sites, the Commission can permanently shift load to times with the greatest
+benefit to ratepayers. Additionally, California is experiencing a large increase of “super
+commuters” that may require workplace charging before a long journey home (in many cases to
+AB 841 prioritized communities).25 With this in mind, VGIC recommends the Commission
+leverage the TE Rebate Program to support charging sites that can integrate renewable energy
+generation – a VGI benefit adopted by the Commission in D.20-12-029 – and lower GHG
+emissions from the grid.
+III. WOULD A PAUSE OF THE TE REBATE AND LITE PROGRAMS REQUIRE
+ANY CLARIFICATIONS REGARDING THE DIRECTIONS, APPROVED
+BUDGETS, OR OTHER ASPECTS OF THE IMPLEMENTATION OF D.22-11-
+040? PLEASE EXPLAIN IN DETAIL.
+If the TE Rebate program is paused, guidance on how the utilities can seek funding for EV
+infrastructure should be provided by the Commission as soon as possible.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide this response to the motion. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+25 Chris Salviati and Rob Warnock. Apartment List. Explosion of Super Commuters Offers Lessons for Sustainable
+Growth. (August 16, 2021). https://www.apartmentlist.com/research/explosion-of-super-commuters-offers-lessons-
+for-sustainable-growth
+17
+
+Date: July 2, 2024
+18

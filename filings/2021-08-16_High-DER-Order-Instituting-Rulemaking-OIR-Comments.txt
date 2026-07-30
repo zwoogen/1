@@ -1,0 +1,213 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE ORDER
+INSTITUTING RULEMAKING TO MODERNIZE THE ELECTRIC GRID FOR A
+HIGH DISTRIBUTED ENERGY RESOURCES FUTURE
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+August 16, 2021
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE ORDER
+INSTITUTING RULEMAKING TO MODERNIZE THE ELECTRIC GRID FOR A
+HIGH DISTRIBUTED ENERGY RESOURCES FUTURE
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Order Instituting Rulemaking to Modernize the Electric Grid for a High
+Distributed Energy Resources Future (“OIR”), adopted by the Joint Commissioners on June 24,
+2021.
+I. INTRODUCTION.
+VGIC commends the Commission for issuing the OIR and appreciates the attention given
+to grid modernization, distribution resource planning, and the integration of distributed energy
+resources (“DERs”), including electric vehicles (“EVs”). As VGIC understands, the Distribution
+Resources Planning (“DRP”) proceeding (Rulemaking [“R.”] 14-08-013) has supported the
+development of new tools like the generation integration capacity analysis (“generation ICA”), as
+well as the in-development load integration capacity analysis (“load ICA”). Meanwhile, the DRP
+proceeding and the Integrated Distributed Energy Resources (“IDER”) proceeding (R.14-10-003)
+have established the distribution investment deferral framework (“DIDF”) to identify distribution
+deferral opportunities and lead to solicitations for non-wires solutions. VGIC appreciates the
+1
+
+progress that has been made through each of these efforts to promote DER deployment in support
+of a more affordable, more reliable, and cleaner grid. VGIC also agrees with the following
+statement from the OIR:
+“In California, DER growth will continue to increase, especially due to policies and
+programs driving transportation electrification (TE) and associated DERs (i.e., EVs and
+EV supply equipment [EVSE]).”1
+VGIC generally supports the Commission’s renewed focus on DERs and the holistic approach to
+distribution system planning, grid modernization, grid architecture, and DER integration outlined
+in the OIR. Specifically, VGIC agrees with the inclusion of TE issues within the OIR, and offers
+these comments and recommendations related to TE within the preliminary scope and schedule of
+this proceeding.
+II. BACKGROUND & INTEREST IN PROCEEDING.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+EVs and VGI through policy development, education, outreach, and research. VGIC supports the
+transition to a decarbonized transportation and electric sector by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in support
+of achieving a more reliable, affordable, and efficient electric grid. VGIC currently has 12
+members, including automotive original equipment manufacturers (“OEMs”) and EV service
+providers (“EVSPs”), and has a direct interest in shaping the policies, procedures, and rules needed
+to modernize the electric grid for a high DER future. VGIC has been an active participant in related
+rulemaking such as the Transportation Electrification or “DRIVE” (R.18-12-006), Self-Generation
+1 OIR at 8.
+2
+
+Incentive Program (R.20-05-012), Microgrids and Resiliency (R.19-09-009), Streamlining
+Interconnection of DERs (R.17-07-007), and Emergency Summer Reliability (R.20-11-003).
+III. COMMENTS ON THE PROPOSED SCOPE.
+In recognition of the anticipated growth of DERs, including VGI-capable EVs, VGIC
+appreciates the magnitude of the challenge facing California’s electric grid. The ongoing transition
+from one-way control of hundreds of generation resources to coordination of thousands and,
+eventually, millions of DERs is a significant paradigm shift for grid operators, utilities, and the
+Commission alike. However, VGIC believes the Commission is taking the correct steps to tackle
+important policy questions in three distinct tracks. Below VGIC addresses scoping items within
+the proposed tracks.
+A. The ambitious nature of this proceeding should not detract from opportunities to
+implement near-term reforms for EVs that can benefit a high DER future under
+existing policies and programs, including demand response.
+VGIC is generally supportive of the ambitious nature of this proceeding and believes
+the three-track approach proposed in the OIR is an appropriate framework for tackling each
+scoping issue. However, VGIC is concerned that the ambitious and inclusive nature of the
+scope may delay or detract from opportunities to advance a high-DER future in other
+proceedings. Significant near-term policy reforms related to integrating DERs, including EVs,
+should remain a key focus area for the Commission and stakeholders.
+As highlighted by Governor Newsom’s July 30th emergency proclamation, California
+faces pressing reliability concerns due to extreme heat, drought, and wildfire risk. To mitigate
+these reliability concerns without compromising its climate goals, California needs an all-of-
+the-above approach that includes near-term reforms to unlock the latent load reduction and
+3
+
+export capacity in already deployed EVs. VGIC believes California must make significant
+progress in its ability to leverage EVs as a grid resource and encourages the Commission to
+take bold and decisive action in the near term to do so. For example, the May 10, 2021 VGI
+DR Workshop Report highlights several near-term reforms to existing utility demand response
+program to increase participation of EVs.2 VGIC strongly recommends that the ambitious
+nature of the High-DER OIR scope not detract from opportunities to implement near-term
+reforms to demand response programs, in addition to other policy forums with the potential to
+unlock EVs as a grid resource.
+B. The Scope should more clearly establish how this effort will be coordinated with the
+recent UNIDE framework proposal.
+On May 25, 2021, Energy Division staff held an Advanced DER and Flexible Load
+Management Workshop to present their high-level concept for a unified, universal, dynamic,
+economic signal or “UNIDE” framework to consolidate existing rates, supply-side DR, and
+distribution level DR. The staff presented a six-step roadmap to (1) standardized, universal
+access to electricity prices, (2) introduce dynamic price per CAISO wholesale energy cost, (3)
+modify prices per real-time, localized grid conditions, (4) transition to bi-directional prices, (5)
+offer subscription option (average load shape & energy quantity), and (6) introduce transactive
+features (ability to lock in price in advance). Staff expressed their intent to recommend the
+Commission open a rulemaking to consider proposal in stages. VGIC believes the proposed
+UNIDE framework, much like the proposed high-DER OIR scope, is ambitious in nature.
+VGIC appreciates the CPUC’s attention to structural reform, however, is concerned over the
+2 EVs and DR: VGI-DR Workshop Report. May 10, 2021.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/60a452d8c996a914d3c60f1d/162138
+1853358/VGI+DR+Workshop+Report.pdf
+4
+
+ability for stakeholders to engage in multiple comprehensive DER proceedings at once, in
+addition to ongoing proceedings focused on near-term action items. As written, it is unclear
+how the proposed high-DER OIR scope will interact with a potential UNIDE framework
+proceeding. VGIC respectfully requests the CPUC revise the proposed scope of the high-DER
+OIR to more clearly establish how this effort will be coordinated with the recent UNIDE
+framework proposal.
+C. VGIC supports the consideration of performance-based regulation as a tool to better
+understand and implement a high DER future.
+VGIC is encouraged by Track 1’s focus on the potential for a DSO model to
+accommodate a high-DER future grid and unlock the potential of third-party aggregators to
+reduce costs. VGIC’s experiences in proposing strategies to advance VGI has revealed that the
+existing set of incentives offered to investor-owned utilities (“IOUs”) may not always be
+aligned with a high-DER future grid. In response to this barrier, California examined PBR
+concepts in the 2016 DER incentive pilot proposals.3 Meanwhile, the OIR notes that the Hawaii
+Public Utilities Commission (“HPUC”) recently adopted a performance-based ratemaking
+(“PBR”) framework that is designed to incentivize the utility to prepare for DER deployment.4
+VGIC believes that certain PBR concepts that incentivize streamlined adoption and
+integration of DERs, including EVs, can complement a DSO model. VGIC recognizes that the
+development of a broader PBR framework would likely be a long and lengthy undertaking,
+3 See, for example, Assigned Commissioner’s Ruling Introducing A Draft Regulatory Incentives Proposal
+for Discussion and Comment. April 4, 2016. R.14-10-003.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M159/K702/159702148.PDF and What If Utilities Got
+a Better Rate of Return for Distributed Energy Resources? Jeff St. John. April 8, 2016.
+https://www.greentechmedia.com/articles/read/california-to-test-incentive-for-utilities-that-pick-
+distributed-energy-ove
+4 OIR at 17.
+5
+
+however, we recommend the Commission consider a limited number of PBR features that may
+specifically apply to a high DER future. Additionally, the Commission should draw lessons
+from the 2016 DER incentive pilot proposal experience to better understand both the
+opportunities and potential challenges with enacting PBR reforms.5
+To ensure the PBR themes are sufficiently captured in this OIR, VGIC recommends
+question 4 in Track 1 be revised as follows:
+4. Should the IOUs be incentivized to cost-effectively prepare for widespread DER
+deployments? How can performance-based regulation (PBR) and performance-based
+incentives be used as a tool to prepare for DER deployment? What other modifications to
+the existing utility incentive structure should be considered to prepare for DER
+deployment? If so, how?39
+D. VGIC supports question 2 in Track 3 to consider how Grid Modernization Plans
+should be coordinated with IOU TE plan filings, and recommends it also consider
+coordination with non-TE-plan EV infrastructure.
+In reviewing the OIR, VGIC is concerned with the alignment of preliminary scoping
+questions with key ongoing and upcoming TE issues. VGIC supports the intent of question 2
+in Track 3: “Should TE needs be updated in the IOU Grid Modernization Plans? If so, how,
+and in what ways should the Grid Modernization Plans be coordinated with IOU TE plan
+filings?” 6 VGIC strongly recommends this coordination extend in recognition of a recent
+notable recent development in the DRIVE proceeding. As VGIC understands, key elements of
+AB 841 implementation are likely to advance through Draft Resolution E-5167, which would
+5 See, for example, Assigned Commissioner’s Ruling Introducing A Draft Regulatory Incentives Proposal
+for Discussion and Comment. April 4, 2016. R.14-10-003.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M159/K702/159702148.PDF and What If Utilities Got
+a Better Rate of Return for Distributed Energy Resources? Jeff St. John. April 8, 2016.
+https://www.greentechmedia.com/articles/read/california-to-test-incentive-for-utilities-that-pick-
+distributed-energy-ove
+6 OIR at 23.
+6
+
+approve the IOUs’ requests to establish new EV Infrastructure Rules.7 This policy issue
+highlights the need to consider the OIR’s interaction with non-TE-program EV infrastructure
+as well as the IOUs TE plan filings. As such, VGIC recommends that Track 3, question 2 be
+modified as follows to consider non-TE-program EV infrastructure in addition to IOU TE plan
+filings:
+2. Should TE needs be updated in the IOU Grid Modernization Plans? If so, how, and in
+what ways should the Grid Modernization Plans be coordinated with IOU TE plan filings
+and the IOUs’ proposed EV Infrastructure Rules pursuant to AB 841?57
+IV. CATEGORIZATION, HEARINGS, AND SCHEDULE.
+VGIC supports the categorization and proposed schedule of this proceeding, and agrees
+with the preliminary determination to find no need for evidentiary hearings.
+V. NOTICES.
+Services of all notices and communications in this proceeding should be directed to the
+following VGIC representative:
+Ed Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California, 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+7 Resolution E-5167 Pacific Gas & Electric, Southern California Edison, and San Diego Gas & Electric
+request approval to establish new Electric Vehicle (EV) Infrastructure Rules and associated Memorandum
+Accounts, pursuant to Assembly Bill 841. Draft Resolution issued August 4, 2021.
+7
+
+VI. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the OIR. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: August 16, 2021
+8

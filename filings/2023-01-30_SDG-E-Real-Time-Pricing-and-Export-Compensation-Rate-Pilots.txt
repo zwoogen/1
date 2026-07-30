@@ -1,0 +1,283 @@
+Docket No.: A.21-12-006 / A.21-12-008
+Exhibit No.:
+Date: January 30, 2023
+Witness: Ed Burgess
+REBUTTAL TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+
+Table of Contents
+Contents
+I. INTRODUCTION .................................................................................................................................................. 1
+II. RESPONSE TO PARTY ANALYSIS OF SDG&E’S PROPOSED TREATMENT OF EV HIGH POWER
+(“EV-HP”) CUSTOMERS IN BOTH DYNAMIC PRICING PILOTS. ....................................................................... 3
+III. RESPONSE TO CAL ADVOCATES RECOMMENDED MODIFICATIONS TO THE PROPOSED
+CRITICAL PEAK PRICING (“CPP”) APPROACH. .................................................................................................. 10
+IV. CONCLUSION. ............................................................................................................................................... 11
+Appendix A: ................................................................................................................................................................... 1
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Ed Burgess. I am a Senior Director at Strategen Consulting and the Senior
+4 Policy Director for the Vehicle-Grid Integration Council (“VGIC”). My business address
+5 is 10265 Rockingham Drive, Suite #100-4061, Sacramento, California 95827.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of the Vehicle Grid-Integration Council.
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to a
+12 decarbonized transportation and electric sector by ensuring the value from EV
+13 deployments and flexible EV charging and discharging to customers and the grid is
+14 recognized and compensated to achieve a more reliable, affordable, and efficient electric
+15 grid.
+16 Q. Who are VGIC’s current members?
+17 A. VGIC’s members represent a broad range of transportation electrification industry leaders
+18 including American Honda Motor Co., Inc., Enel X North America, Inc., Ford Motor
+19 Company, General Motors, Nissan Group of North America, Nuvve Holding
+20 Corporation, Stellantis N.V., Toyota Motor North America, BorgWarner, bp pulse,
+21 Customized Energy Solutions, dcbel, ENGIE NA, Fermata Energy, FlexCharging, FLO
+1
+
+1 EV Charging, FreeWire Technologies, Inc., GridWiz, Innovation Core SEI, IoTecha,
+2 Kaluza, Kitu Systems, NineDot Energy, Peak Power, Sunrun, Switch EV Ltd., The
+3 Mobility House, Utilidata, Veloce Energy, Inc., Wallbox USA Inc., WeaveGrid, and
+4 Hoosier Energy, Sacramento Municipal Utility District.1
+5 Q. Did you submit opening testimony in this proceeding?
+6 A. Yes.
+7 Q. Have you reviewed the opening testimonies of other parties in this proceeding that
+8 you wish to reply to?
+9 A. Yes.
+10 Q. What is the purpose of your rebuttal testimony?
+11 A. The purpose of my rebuttal testimony is to respond to the testimonies and proposals
+12 submitted by other parties, including Cal Advocates, on various issues related to San
+13 Diego Gas & Electric Company’s (“SDG&E”) proposal for Dynamic Pricing Pilots,
+14 including a two-stage Real-Time Pricing (“RTP”) Pilot and a two-stage Export
+15 Compensation Pilot, as filed in consolidated proceedings A.21-12-006 and A.21-12-008.
+16 Specifically, I will respond to testimony related to the treatment of EV High Power (“EV-
+17 HP”) customers in both of SDG&E’s proposed Dynamic Pricing Pilots as well as
+18 potential modifications to Critical Peak Pricing (“CPP”) event thresholds.
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+2
+
+1 II. RESPONSE TO PARTY ANALYSIS OF SDG&E’S PROPOSED TREATMENT
+2 OF EV HIGH POWER (“EV-HP”) CUSTOMERS IN BOTH DYNAMIC PRICING
+3 PILOTS.
+4 Q. Cal Advocates criticized SDG&E’s proposal for Export Compensation Pilot Stage 1.
+5 Specifically, they explained how the commodity export rate would be limited to EV
+6 customers whose imports (i.e., EV charging) occur on the EV-HP schedule and that
+7 this could lead to undesirable “rate arbitrage.” Do you agree with this critique?
+8 A. Yes. First, as Cal Advocates clearly explains, SDG&E’s proposal could lead to a “rate
+9 arbitrage” situation whereby EV customers are charging (importing) on one rate and
+10 discharging (exporting) on a different rate during the same time period. I agree that this
+11 could lead to some unintended consequences that the Commission should seek to avoid.
+12 However, it’s important to note that these unintended consequences only occur due to the
+13 potential to arbitrage between different rate schedules (i.e., rate arbitrage) not within a
+14 single rate schedule (i.e., energy arbitrage). In Cal Advocates’ hypothetical example, rate
+15 arbitrage would involve both charging and discharging during the same on-peak period
+16 while the charging occurs on one rate and the discharging occurs on another rate. This
+17 should be distinguished from energy arbitrage that might occur within a single time-
+18 varying rate schedule but over different time periods (i.e., charging off-peak and
+19 discharging on-peak). Such energy arbitrage within a single rate schedule should be seen
+20 as appropriate and desirable since it could minimize overall grid costs without leading to
+21 any cost shift. In other words, I believe a very desirable outcome from the RTP and
+22 export compensation constructs would be if a subset of EVs customers were incentivized
+23 to utilize a portion of their EV batteries to capture low-cost energy overnight or during
+3
+
+1 times of peak solar production and discharge it during peak afternoon/evening hours in
+2 the summer when demand is highest. If successful, this would leverage the existing
+3 battery capacity of EVs to yield some amount of permanent load shifting (or at least
+4 semi-regular load shifting), which can reduce overall energy costs on the grid.
+5 Q. What was Cal Advocates’ recommendation for avoiding undesirable rate arbitrage
+6 through the EV-HP rate?
+7 A. Cal Advocates recommended that it should be required for “EV-HP customers who
+8 participate in the Pilot to enroll in both the commodity import and export rate.”2 This is
+9 consistent with my initial recommendation to include EV-HP in the RTP pilot eligibility
+10 list. I agree that this approach should be sufficient to avoid undesirable rate arbitrage by
+11 EV-HP customers, however I do have some remaining concerns over the ability to
+12 support beneficial energy arbitrage.
+13 Q. Do you think there will be meaningful opportunities for EV-HP customers to engage
+14 in beneficial energy arbitrage under Cal Advocate’s proposal?
+15 A. Maybe, depending on how EV-HP customers participating in the Export Compensation
+16 pilot are credited for exporting and assessed for charging (i.e., imports) under the RTP
+17 pilot. Importantly, Cal Advocates’ proposal (as well as SDG&E’s original proposal)
+18 appears to include multiple flat volumetric rate components (i.e., the Commodity Base
+19 Rate and the EV-HP off-peak energy rate) that significantly inflate charging costs,
+20 without commensurate export compensation opportunities. This could eliminate any
+21 beneficial energy arbitrage opportunities outside of CPP event days.
+2 Cal Advocates Direct at 2-6.
+4
+
+1 This problematic feature was also present in SDG&E’s original proposal though it has
+2 become more apparent to me after my review of Cal Advocates’ proposal. For example,
+3 under Cal Advocates’ proposal to allow EV-HP customers to participate in both the RTP
+4 and Export Compensation pilots, off-peak EV charging could potentially be subject to all
+5 of the following rate components for charging:
+6  Commodity:
+7 o California Independent System Operator (“CAISO”) Day-Ahead Market
+8 (“DAM”) Hourly Price: varies by hour (off-peak hours typically in the $0.03-
+9 0.04/kWh range during summer),
+10 o CPP Commodity Capacity Adder: $2.13/kWh (likely not applicable in off-peak
+11 charging hours),
+12 o Commodity Base Rate: $0.07/kWh, and
+13  Delivery:
+14 o EV-HP Energy Rate, Off-peak Summer (UDC Total): $0.08/kWh.
+15 Thus, even assuming there is no CPP adder at the time of charging, total charging costs
+16 could still be on the order of $0.18-19/kWh (or about $180-190/MWh). These charging
+17 costs far exceed the typical on-peak CAISO DAM prices that would be offered as a credit
+18 under SDG&E’s proposed export compensation rate (outside of CPP hours). This is true
+19 even during summer peak hours. For example, according to analysis from PG&E,
+20 average CAISO DAM prices during the 4-9 pm window from 2017-2021 in summer
+21 months ranged from $37-123/MWh (or about $0.04-0.12/kWh).3 This is far below the
+22 $0.18-19/kWh charging costs mentioned above. While there may be some hours that the
+3 PG&E Marginal Generation Capacity Cost RTP Rate Study, A.20-10-011 & A.19-11-019. March 15, 2022. Page 45.
+Figure 13. https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M496/K429/496429610.PDF
+5
+
+1 CAISO DAM prices become much higher, I expect this to be a very infrequent
+2 occurrence. As such, under SDG&E and Cal Advocates’ proposals, there is little to no
+3 opportunity for EVs to participate in beneficial energy arbitrage since doing so would
+4 yield a net loss to participating EV customers. Under such a scenario, the CPP capacity
+5 adder credit would be the only potential source of value for Vehicle-to-Grid (“V2G”)
+6 activities that benefit the grid.
+7 Q. Do you think an alternative rate design could encourage beneficial energy arbitrage
+8 from EVs outside of CPP event days?
+9 A. Potentially. From an energy arbitrage perspective, the fundamental problem with simply
+10 adding EV-HP onto the proposed RTP pilot is the inclusion of significant fixed costs
+11 within flat volumetric rates that are then applied to kWh consumed for charging (but not
+12 applied to kWh exported). If some of these fixed costs were recovered through other
+13 means, then there may be an opportunity to preserve the incentive for beneficial energy
+14 arbitrage via V2G.
+15 Q. What other means could recover these fixed costs?
+16 A. One possibility might be to include the fixed costs recovered by the RTP Base
+17 Commodity Rate and EV-HP Energy Rate in a subscription charge. While this would
+18 increase subscription costs for EV customers, it could also enable more VGI activities. I
+19 recommend that the Commission consider this as another option for customers to choose
+20 if they are interested in pursuing V2G. However, it should not replace the existing, lower
+21 subscription charge option.
+6
+
+1 Q. Aside from energy arbitrage, are there other value streams that may make energy
+2 exports attractive to EV customers under either Cal Advocates or SDG&E’s
+3 proposals?
+4 A. Yes, but only one. Absent the rate design modifications described above, the CPP
+5 capacity adder export rate seems to represent the only viable value stream for V2G being
+6 offered to EV customers through Cal Advocates and SDG&E’s proposals. This may be a
+7 sensible first step since V2G activities compete with customers’ mobility needs meaning
+8 that presenting customers with a more limited number of high-value export hours makes
+9 a certain amount of sense. However, this also means it is imperative that the CPP export
+10 credit be well-designed and sufficient enough to attract customer participation and
+11 investment in V2G equipment. I believe that some of Cal Advocates’ recommendations
+12 on CPP event thresholds are beneficial in this regard as I will discuss later in my
+13 testimony. Additionally, I continue to strongly recommend that the Commission consider
+14 other value streams that the proposed CPP export credit does not address or may not fully
+15 capture.
+16 Q. Do you think the CPP export credit proposed by SDG&E or Cal Advocates captures
+17 the full value of EV exports during peak hours?
+18 A. No. Specifically, I believe the proposed CPP export credit does not fully capture the
+19 value to the transmission and distribution systems. This is consistent with the
+20 recommendations of several parties, including Cal Advocates, that the Commission
+21 should require SDG&E to seek to “develop a dynamic distribution component for the
+22 commodity import RTP rate.”4 I believe the same principle should hold true for
+4 Cal Advocates Direct at 1-24.
+7
+
+1 commodity export RTP rates. Environmental Defense Fund also detailed the need for
+2 dynamic distribution components in opening testimony, recommending the following:
+3 “A locationally variegated, dynamic generation export rate to encourage
+4 carriers/shippers to sync charging with time- and location-variant grid conditions
+5 and leverage the smart charging potential and short-term needs of MHDV fleets
+6 should serve as one tariff element.”5
+7 Q. Are there any existing rates offered by SDG&E that are locationally variegated and
+8 reflect the value of reduced overall load on the distribution system during peak
+9 hours?
+10 A. Yes. SDG&E’s VGI rate includes a Distribution Critical Peak Pricing (D-CPP) Hourly
+11 Adder. Below is an excerpt from SDG&E’s VGI rate schedule describing this:
+12 Figure 1
+13 SDG&E Schedule VGI
+14
+15 My understanding is that this adder reflects the cost of additional load on specific
+16 distribution circuits during peak hours that would be charged to EV customers on the
+5 Environmental Defense Fund Direct at Page 8, Line 23.
+8
+
+1 VGI rate. Conversely, this cost would be avoided if EV customers exported to those
+2 circuits during D-CPP event hours.
+3 Q. Do you wish to supplement any of your initial recommendations based on this?
+4 A. Yes. In my opening testimony, I recommended that SDG&E’s pilots for export
+5 compensation move ahead largely as is, and that transmission and distribution credits be
+6 explored in the future. However, in light of this information, as well as a greater
+7 appreciation for challenges posed by flat volumetric charging rates as described above, I
+8 think it would be reasonable to include a dynamic distribution credit for exports sooner
+9 rather than later in the future. Specifically, I think it would be reasonable to include the
+10 $0.79594/kWh VGI D-CPP Hourly Adder as an additional component of the Commodity
+11 Export Rate if such exports occurred on specific circuits when “forecasted load exceeds a
+12 threshold level” as defined by SDG&E in Figure 1 above.
+13 Q. Did Cal Advocates support the inclusion of the D-CPP in the RTP pilots?
+14 A. My understanding is that Cal Advocates was supportive of this in principle, but shared
+15 SDG&E’s concerns that the inclusion of the D-CPP adder in the RTP import rate could
+16 be problematic from a customer fairness standpoint.
+17 Q. Do you think these same fairness concerns would be applicable in the case of EV
+18 exports?
+19 A. No. I think Cal Advocates’ fairness concerns are valid but are much more salient in the
+20 context of costs that may be imposed on customer bills via a D-CPP adder through import
+21 rates. Conversely, to the extent that a D-CPP export credit could help reduce customer
+22 bills, I think there should be less overall concern. In the case of an export rate, customers
+9
+
+1 have an opportunity to save on their bills (while reducing overall grid costs for all
+2 customers) rather than simply be penalized based on their location. As such, I think the
+3 Commission should encourage such opportunistic behavior for customers who are in the
+4 right locations to benefit from a D-CPP export rate. This will also help to target future
+5 V2G investments in the locations where it is most beneficial to the grid.
+6 Q. Do you think the D-CPP adder should be included as a component of export
+7 compensation during Stage 1?
+8 A. Yes. I think it should be included at the current Schedule VGI rate of $0.79594/kWh.
+9 Q. Are there other components that should be included in the export rate for EVs?
+10 A. Yes. I believe that a transmission component should be included. EVs are distributed
+11 resources generally located within the load pocket and can avoid significant load on the
+12 transmission system during peak hours. SDG&E’s testimony has identified an “on-peak”
+13 transmission rate of $0.06868/kWh.6 While this could serve as an initial basis for an
+14 export credit rate, I believe more analysis may be needed to determine whether this
+15 reflects a marginal cost or not. As such, I believe a transmission-related export
+16 component should be developed as part of Stage 2.
+17
+18 III. RESPONSE TO CAL ADVOCATES RECOMMENDED MODIFICATIONS TO
+19 THE PROPOSED CRITICAL PEAK PRICING (“CPP”) APPROACH.
+20 Q. Cal Advocates recommends lifting certain restrictions on the proposed CPP
+21 approach to promote more contributions to net peak load. Does VGIC agree?
+6 Prepared Supplemental Direct Testimony of William G. Saxe. Attachment C.
+10
+
+1 A. Yes. VGIC generally supports lifting restrictions on CPP to unlock greater net peak load
+2 reduction from customers, including EV customers. Cal Advocates proposes to lift the 4-
+3 9pm constraint on CPP events and recommends using the top 150 hours of net peak load
+4 to inform CPP event triggers. This is especially important for encouraging beneficial
+5 V2G behavior. As explained above, under both Cal Advocates’ and SDG&E’s proposals
+6 the only viable value stream for V2G is through the CPP capacity adder. By removing
+7 restrictions and broadening the event triggers, Cal Advocates’ proposal helps to ensure
+8 there are a meaningful number of CPP events that V2G customers can participate in to
+9 make it worthwhile. Without these important changes, along with the other changes
+10 described elsewhere in my testimony, I am concerned there could be no meaningful V2G
+11 participation at all.
+12 IV. CONCLUSION.
+13 Q. Does this conclude your testimony?
+14 A. Yes.
+11
+
+1 Appendix A:
+Declaration of Ed Burgess in Support of Rebuttal Testimony on Behalf of the Vehicle-Grid
+Integration Council
+A-1
+
+DECLARATION OF ED BURGESS IN SUPPORT OF REBUTTAL TESTIMONY ON
+BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+I, Ed Burgess, am the Senior Policy Director for the Vehicle-Grid Integration Council
+(VGIC). Having worked for VGIC since its founding in 2020, I am currently managing policy
+and regulatory affairs for VGIC and its 33 members. My business address is 10265 Rockingham
+Drive, Suite #100-4061, Sacramento, CA 95827. I declare under penalty of perjury that the
+foregoing facts in this document are true and correct.
+Executed on January 30, 2023 at Sacramento, California.
+Ed Burgess
+A-2

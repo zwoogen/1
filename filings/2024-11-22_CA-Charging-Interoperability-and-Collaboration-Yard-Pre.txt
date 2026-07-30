@@ -1,0 +1,126 @@
+DOCKETED
+Docket Number: 22-EVI-06
+Project Title: Vehicle-Grid Integration
+TN #: 260228
+Vehicle-Grid Integration Council (VGIC) Comments on Charge
+Document Title:
+Yard Pre-Solicitation Workshop
+Description: N/A
+Filer: System
+Organization: Vehicle-Grid Integration Council (VGIC)
+Submitter Role: Public
+Submission Date: 11/22/2024 12:23:37 PM
+Docketed Date: 11/22/2024
+
+Comment Received From: Vehicle-Grid Integration Council (VGIC)
+Submitted On: 11/22/2024
+Docket Number: 22-EVI-06
+Comments of VGIC on Charge Yard Pre-Solicitation Workshop
+Additional submitted attachment is included below.
+
+November 22, 2024
+Email to: docket@energy.ca.gov
+Docket Number: 22-EVI-06
+Subject: California Energy Commission Charging Interoperability and Collaboration Yard
+RE: Comments of the Vehicle Grid Integration Council on the Charging Interoperability
+and Collaboration Yard Pre-Solicitation Workshop
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide comments
+on the California Energy Commission's (CEC) Charging Interoperability and Collaboration Yard
+Pre-Solicitation Workshop. VGIC supports the forthcoming Grant Funding Opportunity (GFO) to
+establish a Charge Yard, a dedicated facility to conduct interoperability testing, support the
+development of industry standards, and foster knowledge sharing to enhance electric vehicle (EV)
+charging and vehicle-grid integration (VGI).
+VGIC is supportive of the Charge Yard solicitation overall and is excited to see the development
+of a dedicated space to improve the EV charging experience and unlock additional VGI capabilities
+for California and beyond. VGIC believes that the general structure of the Draft Solicitation put
+forward by the CEC is reasonable, but we offer the following feedback:
+● VGIC supports requiring at least one bidirectional testing event per year, including for
+light-, medium-, and heavy-duty vehicles.
+● Testing for flexible service connection use cases should be prioritized, particularly for
+medium- and heavy-duty applications.
+● Redundant non-testing event requirements should be eliminated.
+VGIC SUPPORTS REQUIRING AT LEAST ONE BIDIRECTIONAL TESTING EVENT
+PER YEAR.
+VGIC strongly supports the requirement for at least one annual testing event for bidirectional
+charging technologies. The CEC has long supported efforts to unlock the benefits of utilizing
+bidirectional charging systems. Bidirectional charging systems can provide backup power during
+outages, help customers manage their electric bills, and provide capacity to the grid during times
+of grid stress. However, vehicle-to-everything (“V2X”) bidirectional charging systems still
+occupies a relatively nascent state compared to unidirectional EV charging industry. Additional
+testing of technical standards and further exploration of V2X bidirectional charging configurations
+1
+
+can help California unlock the full value of V2X. The Charge Yard provides a critical venue for
+advancing these efforts.
+To ensure the one-event-per-year provision can be enabled in practice, the forthcoming Solicitation
+should require applicants to detail their approach to utility interconnection. All previous
+interoperability testing events in North America have been restricted to unidirectional charging in
+part because the event hosts did not hold completed generator interconnection agreements with
+their electric utility. Applicants should specify whether they plan to go through the Rule 21
+interconnection process for the semi-permanent bidirectional EV supply equipment (EVSE) that
+will be located at the site, pursue a special arrangement with their utility that allows them to
+interconnect semi-permanent bidirectional EVSE, invest in an islanded microgrid configuration
+that foregoes the need for Rule 21 interconnection, or seek some other pathway. To the extent
+possible, the CEC should outline possible interconnection pathways applicants can consider in the
+Solicitation Manual. Applicants should be encouraged to coordinate with the relevant electric
+utility and should receive preferential scoring if the utility provides a support letter or other
+document clearly indicating its commitment and provisional plan to support interconnection that
+would enable the bidirectional charging to occur. Generally, VGIC recommends the Solicitation
+encourage competency and intentional planning as it relates to utility interconnection to ensure
+that bidirectional charging testing can be implemented in practice.
+Lastly, the CEC should require the Charge Yard to test V2X bidirectional charging systems for
+both light-duty and medium- and heavy-duty vehicles (MHDVs). All vehicle classes can provide
+V2X benefits and may be best suited for different use cases. For example, school bus fleets are
+currently the most common users of bidirectional EVSE. The CEC should, therefore, require that
+MHDVs are included in V2X bidirectional charging testing events.
+TESTING FOR FLEXIBLE SERVICE CONNECTION USE CASES SHOULD BE
+PRIORITIZED, PARTICULARLY FOR MEDIUM- AND HEAVY-DUTY
+APPLICATIONS.
+VGIC also supports the testing of flexible service connection solutions (alternatively referred to
+by California state agencies as “automated load management (ALM)” technologies) at the Charge
+Yard. These solutions offer critical tools for shaping EV charging load to significantly reduce the
+lengthy energization timelines currently faced by many fleet customers. Technologies that enable
+flexible service connections include ALM/EV EMS software, certified power control systems, and
+DER-paired EVSE. Testing can include power sharing, changing import limits according to a pre-
+set schedule, responding dynamically to signals from Advanced Distribution Management
+Systems (ADMS) or Distributed Energy Resource Management Systems (DERMS), or other
+2
+
+potential pathways. Both PG&E and SCE are conducting flexible service connection pilots for
+MHDV customers.
+Charge Yard can provide an important venue for testing these new technologies, standards, and
+interoperability for this use case, and this capability should be included by the CEC in the final
+solicitation.
+REDUNDANT NON-TESTING EVENT REQUIREMENTS SHOULD BE ELIMINATED.
+The Draft Solicitation requires the Charge Yard to host at least two non-testing events annually,
+such as workshops or conferences. VGIC recommends removing this requirement and instead
+encouraging coordination with existing events hosted by California agencies (CEC, CPUC,
+CARB) and industry stakeholders.
+VGIC appreciates the vision to utilize the Charge Yard as a space for stakeholder convening and
+collaboration beyond specific interoperability testing events. However, there are already many
+stakeholder convening events in California and nationally related to EVs, VGI, and V2X, including
+the CPUC’s annual Vehicle-Grid Integration Forum, the CEC’s and IOUs’ EPIC Symposiums, the
+Smart Grid Observer’s twice-annual V2G Business, Policy & Technology Forum, the EV
+Charging Summit and Expo, VGIC’s annual EVolve event, among other industry and regulatory
+stakeholder workshops and events that share similar programming and audience. There is no need
+to add additional regular conferences or events for stakeholders, especially given the limited pool
+of deep technical experts in the industry.
+Instead of hosting new events, the Charge Yard should seek to collaborate with existing events,
+such as serving as a hosting venue. The Charge Yard should also share public reports and data
+from testing activities to enhance industry learning and collaboration. This approach would ensure
+that the Charge Yard remains focused on its core mission of advancing interoperability testing
+while contributing to – though not duplicating – broader stakeholder discussions and knowledge
+sharing.
+CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Draft Solicitation
+and looks forward to collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+3
+
+Interim Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+4

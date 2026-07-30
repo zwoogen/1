@@ -1,0 +1,216 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION SETTING NEAR-TERM PRIORITIES FOR
+TRANSPORTATION ELECTRIFICATION INVESTMENTS BY THE
+ELECTRICAL CORPORATIONS
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+June 21, 2021
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION SETTING NEAR-TERM PRIORITIES FOR
+TRANSPORTATION ELECTRIFICATION INVESTMENTS BY THE
+ELECTRICAL CORPORATIONS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) 1 hereby submits
+these comments on the Proposed Decision Setting Near-Term Priorities for Transportation
+Electrification Investments by the Electrical Corporations, issued on June 1, 2021.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+1 The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+VGIC is generally supportive of the Proposed Decision (“PD”), including the five near-term
+priorities and the three forms of near-term requests for transportation electrification (“TE”)
+investments. VGIC is especially encouraged by the proposed application process for extensions of
+existing programs, as it is critical to minimize the gap in program offerings. With this in mind,
+VGIC offers several key recommendations in these comments, summarized below:
+ All three forms of near-term requests should be subject to certain provisions of
+Decision (“D.”) 20-12-029.
+ The Commission should further clarify the process, definitions, and requirements for
+extending existing pilots.
+ The Commission should take additional steps to promote automated load management
+(“ALM”) in the context of near-term priority TE investments.
+ The Commission should consider TE programs, pilots, and rates that do not separate
+EV load from other behind-the-meter loads and resources.
+II. ALL THREE FORMS OF NEAR-TERM REQUESTS SHOULD BE SUBJECT
+TO CERTAIN PROVISIONS OF D.20-12-029.
+VGIC believes that it is prudent to implement VGI strategies, including those identified in
+D.20-12-029, alongside broader TE investment strategies, rather than after TE infrastructure
+investments have been made. This proactive approach can support future-proofing of
+infrastructure, deployment of VGI technologies, customer awareness of VGI strategies, and right-
+sizing of TE infrastructure, which each have the potential to support significant reductions in
+ratepayer costs compared to adding VGI after TE investments have already been made. With the
+3
+
+unanimous adoption of D.20-12-029, VGIC commended the Commission’s leadership in
+promoting and facilitating a more pro-active approach to VGI policy. Ordering Paragraphs (“OP”)
+5 of D.20-12-029 directed each IOU to take specific actions related to ALM, “in all of its future
+applications for TE programs, or rule or tariff to support TE infrastructure installation.” 2
+Additionally, OP 8 of D.20-12-029 directed each IOU to take specific actions related to VGI, “in
+all of its future applications for TE programs.” 3 The directives in these OPs are critical to enabling
+VGI alongside – rather than after – TE infrastructure investments. Meanwhile, the PD details three
+forms of near-term requests for TE programs:
+ Advice letter process for near-term priority categories
+ Application process for extensions of existing programs
+ Other applications outside of the near-term priorities, above advice letter budget cap,
+and/or outside of existing program extensions.4
+VGIC believes the TE programs proposed in the advice letters should be considered “applications
+for TE programs” pursuant to OP 5 and OP 8 of D.20-12-029. Notably, the PD itself refers to the
+near-term priority advice letter proposals as “programs.” 5 VGIC recommends the Commission
+require near-term priority advice letters be subject to OP 5 and OP 8 of D.20-12-029, which
+represent substantive directives with a high likelihood of supporting the goals of SB 676. VGIC
+notes the IOUs may have previously erred in regards to their compliance with OP 5 of D.20-12-
+029, and we remain concerned this may happen again as IOUs seek approval for TE programs
+2 D.20-12-029 at OP 5.
+3 D.20-12-029 at OP 8.
+4 PD at 25.
+5 See, for example, PD at 25 and 35.
+4
+
+authorized by the PD. 6 To ensure consistency with previous Commission decisions and to increase
+the likelihood of achieving the goals of both SB 676 and SB 350, VGIC recommends the PD be
+revised to require that all three forms of near-term requests authorized by the PD, including the
+advice letter process, must comply with the relevant provisions of D.20-12-029 (including OP 5
+and OP 8 of D.20-12-029).
+III. THE COMMISSION SHOULD FURTHER CLARIFY THE PROCESS,
+DEFINITIONS, AND REQUIREMENTS FOR EXTENDING EXISTING
+PILOTS.
+The PD states: “In response to party comment seeking clarity on the status of existing
+pilots, the Electrical Corporations may request an extension of existing pilots, per the application
+pathway described above.” 7 As a threshold matter, the PD should be revised to clarify whether
+“the pathway described above” is pathway 1) Advice Letter Process or 2) Application Process for
+Extensions of Existing Programs. Additionally, it is unclear what is considered a “pilot” for the
+purposes of requesting an extension. The IOUs are expected to file advice letters by July 15, 2021
+requesting approval of up to $35 million to support VGI pilots pursuant to D.20-12-029. VGIC
+believes the Commission should establish a pathway for IOUs to request extension or scaling of
+VGI pilots in the interim period between the completion of a given VGI pilot and the
+implementation of an IOU’s first TE Plan (“TEP”). As such, VGIC recommends the PD be revised
+to define “existing pilots” broadly to include both pilots authorized pursuant to SB 350 as well as
+VGI pilots authorized pursuant to SB 676.
+6 See Response of the Vehicle-Grid Integration Council to PG&E Advice Letter 6102-E, SCE Advice Letter 4429-E,
+and SDG&E Advice Letter 3705-E.
+7 PD at 26.
+5
+
+The PD also states: “Any application for an extension to a pilot should demonstrate that 1)
+there is outstanding demand to participate in the expiring or soon expiring program, 2) the
+extension makes modifications to align with the Vehicle-Grid Integration (VGI) Working Group’s
+load management guidance…” 8 VGIC is generally supportive of the Commission’s intent to
+require that pilot extension applications promote and enable VGI. VGIC participated alongside
+dozens of other key stakeholders in the year-long VGI Working Group, which ultimately produced
+a VGI Working Group Final Report detailing its outcomes and recommendations.9 While the VGI
+Working Group Final Report contains a classification of key policy recommendations, it does not
+include “load management guidance.” As such, VGIC recommends the PD be revised to clarify
+what is required for a pilot extension application “to align with the VGI Working Group’s load
+management guidance.”
+IV. THE COMMISSION SHOULD TAKE ADDITIONAL STEPS TO PROMOTE
+ALM IN THE CONTEXT OF NEAR-TERM PRIORITY TE INVESTMENTS.
+The PD would require IOUs to address the following in near-term priority advice letters:
+“An estimate of the total site-level funding that will be paid by ratepayers and amount paid by
+the site host (percentages or dollar amount). To encourage development of EV charging at a
+lower cost to ratepayers, programs should be designed to ensure non-ratepayer funding sources
+are leveraged.” 10
+VGIC notes that utilizing ALM is a promising strategy to develop EV charging infrastructure at a
+lower cost, as it can help to stretch each TE program budget by reducing utility-side infrastructure
+costs. This application is referred to as “Type 2 ALM.” As noted above in Section II, the IOUs
+8 PD at 26.
+9 Final Report of the California Joint Agencies Vehicle-Grid Integration Working Group (June 30, 2020)
+https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf.
+10 PD at 36.
+6
+
+should be required in each advice letter and application authorized by this PD to (a) identify how
+it will deploy customer-side ALM where appropriate and (b) describe standard evaluation criteria
+to determine host sites where ALM would be beneficial.11 While VGIC recommends ALM be
+considered and promoted in each TE program proposal authorized under the PD, the IOUs should
+not impose ALM as a required arrangement for all customers. Rather, VGIC recommends ALM
+be promoted through a “carrot” rather than a “stick” approach.” Notably, Type 2 ALM may be
+particularly well-suite for workplace charging locations, which aligns with the proposed near-term
+priority to address customers without access to home charging.
+As noted above in Section III, the PD outlines parameters for the extension of existing
+pilots, including "the Electrical Corporation clearly incorporates lessons learned from the pilot to
+maximize ratepayer benefits and reduce per port costs."12 VGIC emphasizes the importance of this
+parameter to facilitate the expedited approval of previously approved TE programs (in addition to
+pilots). For example, Pacific Gas and Electric’s (“PG&E”) EV Charge Network (“EVCN”)
+program utilized ALM solutions at 20 MUD and workplace host sites as of Q4 2020. PG&E saved
+$30,000 to $200,000 per project by implementing ALM with three different EV service providers
+at these 20 sites.13 VGIC is encouraged by PG&E’s leadership in leveraging ALM as a tool to save
+on utility-site infrastructure costs, effectively stretch authorized TE program budgets, and achieve
+a lower cost per port. VGIC believes that Type 2 ALM can reduce cost per port in other TE
+programs (as well as non-TE program EV infrastructure). Thus, VGIC is encouraged by the
+Commission’s intent to authorize IOUs to extend and scale existing programs and pilots on an
+expedited basis, including programs and pilots that incorporate ALM and other VGI strategies.
+11 Per OP 5 of D.20-12-029.
+12 PD at 26.
+13 See PG&E’s Presentation during January 29, 2021 ALM/EV EMS Workshop, Panel 2.
+7
+
+VGIC recommends that any additional application parameters and/or advice letter templates
+produced by Energy Division staff to support expedited review of existing programs and pilots
+should provide IOUs the opportunity to (1) detail the impact of using VGI strategies (including
+ALM) and (2) propose expanded use of these VGI strategies.
+V. THE COMMISSION SHOULD CONSIDER TE PROGRAMS, PILOTS, AND
+RATES THAT DO NOT SEPARATE EV LOAD FROM OTHER BEHIND-
+THE-METER LOADS AND RESOURCES.
+Separating EV load from other behind-the-meter loads and resources limits customers’
+ability to leverage EVs and EV supply equipment (“EVSE”) to support customer bill management,
+demand response, and backup power/resiliency. The need for customer-sited backup power
+solutions is at an all-time high as California finds itself amid yet another perilous fire season.14
+VGIC commends the Commission for establishing resiliency as a targeted near-term priority.
+However, existing TE programs have made access to make-ready funding conditional on the
+presence of a separate EV meter. This effectively places TE program funding in competition with
+the VGI priorities listed above (i.e., customer bill management and demand response) as well as
+the resiliency priority’s focus on using EVs to provide backup power. In light of the recent
+announcement of the Ford Intelligent Backup Power Solution15, VGIC believes it is timely to
+modify TE programs to ensure customers can take advantage of TE funding without having to
+forgo the opportunity to use their EVs as backup power supply. Furthermore, supporting customers
+that do not wish to take service for their EV under a separate meter would help level the playing
+14 Wall Street Journal. PG&E Warns of More Blackouts During California’s Wildfire Season. June 11, 2021.
+https://www.wsj.com/articles/pg-e-warns-of-more-blackouts-during-californias-wildfire-season-11623414658
+15 Ford Intelligent Backup Power Solution could provide backup power for up to 10 days.
+https://www.ford.com/trucks/f150/f150-lightning/2022//?intcmp=hp-bb-f150-lightning
+8
+
+field with other distributed energy resources (i.e., stationary energy storage), which receive
+dedicated funding support through the Self-Generation Incentive Program. By take steps today to
+ensure EVs can interact with other behind-the-meter loads and resources, the Commission can help
+to future-proof TE programs as both resiliency priorities and broader VGI implementation
+continue to grow in importance. As such, VGIC strongly recommends the Commission explore
+how to ensure TE programs include more pathways for customers that do not wish to install EVSE
+under a separate meter.
+VI. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on Near-Term Priorities for
+TE. We look forward to further collaboration with the Commission and stakeholders on this
+initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+June 21, 2021
+9

@@ -1,0 +1,103 @@
+October 27, 2023
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 22-E-0236: Proceeding to Establish Alternatives to Traditional Demand-Based
+Rate Structures for Commercial Electric Vehicle Charging
+Comments of the Vehicle-Grid Integration Council (VGIC)
+On the Joint Utilities’ Proposed Near-Term Solutions
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based advocacy
+group committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid integration
+(“VGI”) through policy development, education, outreach, and research. VGIC supports the
+transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates the
+opportunity to provide comments on the Joint Utilities’ proposed Near-Term Solutions. VGIC’s
+comments will primarily focus on the Upstate Utilities’ Commercial Managed Charging Program
+(“CMCP”) proposals.
+VGIC Supports the Joint Utilities’ Proposed Near-Term Solutions
+By providing drivers and fleets with opportunities to lower charging costs and mitigating
+the impacts of EV charging on the grid, managed charging programs are essential for New
+York’s transportation electrification efforts. VGIC generally supports the Joint Utilities’
+proposed Near Term Solutions filed on July 18, 2023, including the CMCP proposals from the
+Upstate Utilities and the EV Phase-In Rate proposals from both the Downstate and Upstate
+Utilities. Together, these offerings will both ease the impacts of demand charges on public Direct
+Current Fast Chargers (“DCFCs”) as well as encourage charging during off-peak hours.
+VGIC supports allowing customers with and without separately metered EV charging
+load to participate in the EV Phase-In Rates through the Charging Ratio calculation. This
+
+approach provides a simple and straightforward pathway for customers with EV charging load
+comingled with on-site load to take advantage of the lower demand charges offered by the EV
+Phase-In Rates. As New York’s efforts in exploring submetering advances and once the
+Commission has approved submetering standards and specifications in Docket 18-E-0138, the
+EV Phase-In Rate tariffs should be updated to ensure that the EV Phase-In Rates apply directly
+to customers’ EV charging load through the use of EVSE- or EV-based submeters.
+Additionally, VGIC appreciates the Upstate Utilities’ plans to allow participants in the
+CMCP to simultaneously participate in the EV Phase-In Rate as well as commercial demand
+response programs.1 Dual participation will ensure that fleets and other commercial charging
+sites are compensated for the full value of managed charging, and potentially vehicle-to-grid
+(“V2G”) exports. VGIC agrees with the Upstate Utilities that additional information is needed to
+ensure that dual participation does not provide duplicate incentives for the same value or activity.
+As such, VGIC recommends that the utilities conduct further stakeholder engagement (such as
+through a workshop) in order to align these offerings.
+VGIC Recommends Modifications to the Upstate Utilities’ Proposed CMCP
+While VGIC supports the Joint Utilities’ overall Near-Term Solutions proposals, the
+following modifications to the Upstate Utilities’ CMCP would help improve the proposed
+offerings:
+• The Peak Avoidance kW calculation should be modified: National Grid, Central Hudson,
+and NYSEG and RG&E all proposed to calculate the Peak Avoidance kW by subtracting
+the maximum EVSE demand during the peak window from the maximum EVSE demand
+during all hours of each month.2 However, for some EV charging sites, the maximum
+EVSE demand during all hours may fluctuate month-to-month. This fluctuation can make
+the incentives the program participant receives each month inconsistent and difficult to
+predict even if the program participant consistently manages their load during the peak
+window. In order to provide predictable incentive payments that better inform customers’
+load management choices, the Peak Avoidance kW should instead be calculated by
+subtracting the maximum EVSE demand during the peak window from the maximum
+simultaneous EVSE charging capacity (the lesser of the sum of EVSE nameplate capacity
+and the maximum load of any load limiting hardware). This modification would make the
+Upstate Utilities’ CMCP consistent with the Downstate Utilities’ CMCP3 as well as with
+1 National Grid CMCP Implementation Plan, pg. 2; Central Hudson CMCP Implementation Plan, pg. 4; NYSEG and
+RG&E CMCP Implementation Plan, pg. 7.
+2 National Grid CMCP IP, pg. 2; Central Hudson CMCP IP, pg. 4; NYSEG and RG&E CMCP IP, pg. 8.
+3 Joint Utilities Immediate Solutions Program Design, pg. 5. March 20, 2023.
+
+the Commission January Order, which states that the Peak Avoidance Incentive should be
+set “based on the difference between a charger’s charging capability in kW and the
+maximum charging demand served by that charger during a defined peak period.”4
+• Central Hudson and NYSEG and RG&E should allow customers to participate using
+EVSE data: Unlike National Grid, which proposed to allow customers to participate in
+the CMCP with utility interval meter or EVSE data, Central Hudson and NYSEG and
+RG&E proposed to require participants to install an interval meter. For customers with
+EVSE load co-mingled with other on-site load, Central Hudson and NYSEG and RG&E
+proposed to only allow participation for customers with a maximum EVSE charging
+capacity of at least 50% of the maximum site demand. These requirements would place
+unnecessary cost and time burdens on some customers while completely preventing other
+customers from participating in the CMCP altogether. VGIC strongly recommends that
+Central Hudson and NYSEG and RG&E follow National Grid’s eligibility and data
+collection requirements and allow customers to participate using EVSE data. This change
+would facilitate greater customer participation in the CMCP, not only benefiting the grid
+through increased load management but also supporting charging infrastructure
+deployment and EV adoption.
+• The Upstate Utilities should collect additional data points reporting purposes: VGIC
+recommends two additional data points the utilities should collect: 1) participants’
+average maximum demand kW during the peak window, and 2) participants’ average
+maximum simultaneous EVSE charging capacity kW. These two data points represent the
+two components of the Peak Avoidance kW as discussed above and would help enable an
+assessment of the CMCP’s effectiveness in incentivizing peak avoidance.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Joint Utilities, the Commission, and other stakeholders to ensure the success of
+New York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+4 Order Establishing Framework for Alternatives to Traditional Demand-Based Rate Structures, pg. 18.
+
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org

@@ -1,0 +1,182 @@
+Comments of the Vehicle Grid Integration Council
+on Reducing Soft Costs Associated with the Construction of L2 and DCFC Chargers
+To: The United States Department of Energy, Vehicle Technologies Office
+From: Vehicle Grid Integration Council,
+with support from the following organizations:
+Leadership Circle Members:
+ American Honda Motor Co., Inc.
+ Enel X North America, Inc.
+ Ford Motor Company
+ General Motors Company
+ Nissan Group of North America
+ Nuvve Holding Corporation
+ Stellantis N.V.
+ Toyota Motor North America, Inc.
+General Members:
+ dcbel
+ ENGIE NA
+ Fermata Energy
+ FlexCharging
+ FLO EV Charging
+ FreeWire Technologies, Inc.
+ Sunrun
+ Switch EV Ltd
+ The Mobility House
+ Veloce Energy, Inc.
+ Wallbox USA Inc.
+ WeaveGrid
+Contact:
+Zach Woogen
+Policy Manager
+Vehicle Grid Integration Council
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, CA 95827
+vgicregulatory@vgicouncil.org
++1 (510) 665-7811
+www.vgicouncil.org
+1
+
+Defining Vehicle Grid Integration (VGI):
+Vehicle grid integration represents a unique opportunity to establish and advance US leadership
+at the intersection of decarbonized transportation and electric sectors by ensuring that the value
+from flexible electric vehicle charging and discharging is recognized and compensated.
+Reducing Soft Costs Associated with EV Charger Deployment with VGI
+Vehicle Grid Integration Council (VGIC) is a 501(c)(6) nonprofit trade association focused on
+accelerating the role of smart EV charging and discharging through policy development,
+education, outreach, and research. VGI solutions, including managed charging, automated load
+management, and vehicle-to-everything (“V2X”) bidirectional charging systems, can play a
+critical role in reducing an EV’s total cost of ownership (“TCO”). These solutions can lower capital
+costs (i.e., through automated load management or “ALM”) and reduce operational costs (i.e.,
+managed charging and V2X bidirectional charging systems) for the deployment of EV supply
+equipment (“EVSE”). Both ALM and V2X bidirectional charging systems can also provide value
+as a source of power to support on-site load and backup power to support customer or community
+resiliency.
+We appreciate the opportunity to share the below recommendations for reducing soft costs
+associated with deploying Level 2 (“L2”) and Direct Current Fast Chargers (“DCFC”) and look
+forward to further collaboration with the Vehicle Technologies Office and other stakeholders on
+this critical initiative.
+1. Automated Load Management (ALM) strategies can reduce energization timelines and
+associated costs by deferring or even completely avoiding the need for certain
+distribution utility infrastructure upgrades and other make-ready work. ALM solutions
+include:
+a. Software-based approaches that share available electrical capacity among EVSE: Sites
+with multiple EVSE and long dwell times, including workplace charging sites and
+multi-unit dwellings, are particularly well suited for software-based ALM. Software-
+based ALM is used to draw less total power than the aggregate nameplate charging rate
+at a site. For example, a site with a combined 76 kW maximum charger demand could
+use software to ensure the actual demand does not exceed 62 kW.
+b. Battery-integrated EVSE or co-located energy storage systems sized to avoid or defer
+the need for additional electrical capacity and infrastructure on both the utility and
+customer side of the meter: Sites with short dwell times, including public DCFC
+stations and certain fleet charging depots, are particularly well suited to implement
+integrated or co-located energy storage as an ALM solution. Batteries can be integrated
+into a charging station or external to a charging station but co-located behind the same
+meter. These batteries charge from the grid when EVSE utilization and energy costs
+are low and discharge to meet EVSE load when utilization and energy costs are high.
+For example, using existing battery-integrated EVSE or co-located energy storage
+technologies, a site with less than 30 kW of available power could deliver a 200 kW
+charge to a single vehicle. Said another way, a site with a 200 kW EV charging demand
+can inherently ensure demand will not exceed 30 kW.
+New distribution utility and on-site electrical infrastructure can delay service
+connection/energization timelines, leading to higher soft costs for EVSE site hosts. For some
+EVSE site hosts, ALM solutions can facilitate the interim use of EVSE at a lower power until
+any needed distribution utility and on-site infrastructure upgrades are completed, at which point
+they can operate at full power. For others, ALM solutions can defer or avoid the need for
+2
+
+distribution utility or on-site infrastructure upgrades altogether. In these cases, site hosts
+experience reduced time to connect/energize their EVSE and contribute to infrastructure cost
+savings which accrue to site hosts, drivers, and utility ratepayers at large. Additionally, ALM
+solutions can support other desirable use cases, including managing charging load during peak
+electricity demand, lowering demand charges for the site host, enabling EV charging when the
+grid goes down, providing backup power to the site host to enhance resilience, or providing
+power to the site and ancillary services to the grid. The set of these co-benefits available to a
+given site will depend on whether software-based ALM or integrated/co-located energy storage
+– or both – strategies are implemented.
+Today, utilities do not widely accept or promote ALM solutions, and utility make-ready
+programs often do not send the proper price signals to the market thereby undermining any
+justification for customers to elect ALM solutions that can right-size infrastructure. VGIC
+recommends the following strategies to promote ALM:
+ Ensuring it is an option for customers to choose from and not a requirement.
+ Conducting marketing, education, and outreach to inform utilities, customers, and utility
+regulators of available solutions and the benefits associated with each.
+ Offering incentives to site hosts that elect ALM, including (1) a $/kW rebate for
+reducing distribution utility infrastructure upgrades, applied to each kW reduced below
+aggregate nameplate charger capacity at a site, (2) a fixed incentive for installing EVSE
+that avoid the need for make-ready work, and (3) a fixed incentive for installing EVSE
+behind existing utility meters. The value of each incentive should be commensurate with
+the average cost across a utility’s system to conduct these upgrades.
+2. Streamlined and predictable processes for energization and interconnection of
+unidirectional EVSE, V2X bidirectional charging systems, and ALM solutions.
+Unidirectional charging systems are load-only devices, whereas V2X bidirectional charging
+systems can discharge from the EV battery to serve a customer’s onsite electrical load or export
+to the grid without compromising a customer’s mobility needs. Unidirectional charging
+systems are most common, whereas early deployments of V2X bidirectional charging systems
+include providing backup power to a customer’s home or business, using electric school buses
+to support the grid during peak electricity demand, and managing customer bills at commercial
+sites. Today, customers interested in these use cases, as well as ALM solutions detailed above
+in recommendation 1, face delays and confusion that can significantly increase soft costs for
+all stakeholders involved.
+3
+
+Firstly, VGIC believes that a collective understanding of the following common unidirectional
+and V2X bidirectional charging system configurations is needed:
+Secondly, VGIC recommends against “reinventing the wheel” for these systems. For example,
+if a notification, approval, or interconnection pathway for distributed energy resources
+(“DER”) already exists, it is unlikely that a new process would be needed for V2X bidirectional
+charging systems. V2X systems used for backup power that can safely disconnect from the
+grid can fit within existing notification processes for fossil fuel backup generators.
+Additionally, grid-parallel exporting V2X systems fit into existing processes for grid-parallel
+exporting DERs. Lastly, the appropriate process, technical requirements, forms, timelines,
+closeout documentation, and applicable fees for each configuration should be clear and readily
+accessible to customers and installers online. Any requirements for site plans or single-line
+diagrams to be certified by a Professional Engineer (PE) should be communicated early in the
+process and readily accessible on the utility’s website to the extent feasible.
+Additionally, both unidirectional and bidirectional systems should be permitted to submeter
+charging load as well as kWh discharged to support the full spectrum of VGI use cases. If
+EVSE are required to be on a separate meter – as is currently a condition of receiving make-
+ready incentives and eligibility for EV-specific rates in many jurisdictions – site hosts, utilities,
+and ratepayers miss out on the resiliency benefits that VGI can provide.
+Based on our understanding of the unidirectional and V2X bidirectional charging markets,
+developing a shared understanding of common configurations and implementing the above-
+mentioned process improvements are critical to reducing soft costs.
+3. Grid “hosting capacity” maps and data should be made available and easily accessible to
+support siting of L2 and DCFC chargers, especially for large sites. Available electrical
+capacity at a certain point on the distribution grid, or “hosting capacity,” will not always be
+sufficient to accommodate new L2 and DCFC charger installations. As noted above in
+recommendation 1, ALM can help to defer or avoid upgrades when there is no available hosting
+capacity. However, steps can be taken earlier in the planning process to ensure charging site
+developers can make informed decisions when selecting charging locations. Knowing whether
+4
+
+there is hosting capacity at a potential location can support developers looking to determine
+the financial feasibility of a project. Additionally, the lack of grid hosting capacity data leads
+to project delays and, in turn, increases soft costs.
+Depending on the fleet size and duty cycle, the electrification of medium- and heavy-duty
+fleets may require significant electrical capacity. Notably, large commercial electric customers
+are often located near each other in industrial areas, which further exacerbates the challenges
+of medium- and heavy-duty fleet electrification. To reduce both the soft and direct
+infrastructure costs needed to accommodate the EV charging load of multiple large commercial
+customers, VGIC recommends that nearby fleets collaborate during the planning, design, and
+construction phases of charging infrastructure development. Utilities, infrastructure
+developers, charging service providers, and other stakeholders must coordinate closely to
+streamline charger deployment for these use cases. Notably, there is a significant opportunity
+for large and clustered fleet customers to pursue ALM strategies outlined above in
+recommendation 1, and these entities should be encouraged and incentivized, though not
+required, to consider these options. In addition to hosting capacity maps, VGIC recommends
+technical assistance programs, including those administered by utilities, to facilitate the
+necessary level of collaboration and ALM promotion for these larger customer sites.
+Conclusion
+VGIC appreciates the opportunity to submit this feedback on reducing soft costs associated with
+constructing L2 chargers and DCFC. We look forward to further collaboration with the Vehicle
+Technologies Office and other stakeholders on this important initiative.
+Respectfully Submitted,
+Zach Woogen
+Policy Manager
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
++1 (510) 665-7811
+www.vgicouncil.org
+Date: July 29, 2022
+5

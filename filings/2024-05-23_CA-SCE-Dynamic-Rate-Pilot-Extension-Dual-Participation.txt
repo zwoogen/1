@@ -1,0 +1,198 @@
+May 23, 2024
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Protest of the Vehicle Grid Integration Council to Advice Letter 5285-E-A
+of Southern California Edison Company: Dual Participation in the
+Southern California Edison Expanded Dynamic Rate Pilot and Demand
+Response Programs
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this Protest to the above-referenced Supplement to Advice Letter 5285-
+E-A of Southern California Edison (“SCE”), Supplement to Advice 5285-E, Dual Participation in
+the Southern California Edison Expanded Dynamic Rate Pilot and Demand Response Programs
+(“Advice Letter”) submitted on May 14, 2024.
+I. INTRODUCTION
+In Decision (“D.”) 24-01-032, the Commission directs SCE to propose rules to avoid double
+compensation and double counting, and details that in response to the August 15, 2023 Staff
+Proposal, “SCE similarly opposed exclusion of customers participating in DR programs from the
+SCE Extended Pilot, arguing that this exclusion would hinder participation and limit learnings
+from the pilot. SCE argued that dynamic pricing is not DR and is not a market product. SCE
+argued that there is no basis under the Commission’s DR dual participation rules for
+preventing participation in both DR programs and dynamic rates” (emphasis added).1
+Following the March 1, 2024, workshop hosted by SCE and Pacific Gas and Electric (“PG&E”),
+SCE filed Advice Letter 5285-E on April 26, 2024, requesting approval for the methods to avoid
+double compensation and evaluate impacts for dual participating customers. Advice Letter 5285-
+E-A, however, requests to revoke the dual participation option for Emergency Load Reduction
+Program, Subgroup A.5 customers. VGIC appreciates the unique challenges SCE faces in enabling
+dual participation across these two pilots and commends SCE for its work to propose a
+methodology in Advice Letter 5285-E-A initially. However, VGIC details below its grounds for
+1 D.24-01-032, pg. 60-61.
+
+May 23, 2023
+Page 2 of 6
+protest based on legal and factual errors found in Advice Letter 5285-E-A, which aims to relitigate
+the clear and explicit Commission intent in D.24-01-032, fails to weigh alternative methodologies
+to permit dual participation, injects significant uncertainty into the VGI market during a critical
+stage of market development, and overlooks the outsized impact of this proposed prohibition on
+certain customers.
+II. GROUNDS FOR PROTEST
+A. SCE’s Request to Exclude Dynamic Rate Pilot Customers from Dual Participating in
+ELRP Subgroup A.5 Violates Commission Decision 24-01-032.
+In D.24-01-032, the Commission finds, in no uncertain terms, that “it is reasonable to allow dual-
+participation in the expanded pilots and the following tariffs and programs: Critical Peak Pricing,
+electrification rates, TOU rates, NEM and NBT, and ELRP Subgroup A.”2 This finding was
+preceded by the Commission’s written discussion, which carefully deliberates the thorough record
+on the topic and culminates in the Commission’s clear and unwavering intent. Ordering Paragraph
+(“OP”) 2 of D.24-01-032 therefore directs SCE to file a Tier 2 advice letter to “propose an
+implementation plan to expand the dynamic rate pilot authorized in D.21-12-015 and to apply all
+modifications to the pilot authorized in this decision on June 1, 2024.”3 The OP also states that the
+SCE must propose “how to address dual participation issues and input from the dual participation
+workshop.”4 Advice Letter 5285-E-A, however, directly violates the Commission intent and the
+plain language found in D.24-01-032, as it aims to prohibit dual participation between SCE’s
+dynamic rate pilot and ELRP Subgroup A.5.
+It is worth considering not only the procedural error and precedent violation that the request in
+Advice Letter 5285-E-A represents but also the material impact that relitigating this issue has on
+the ratepayers and customers meant to benefit from the pilot. Namely, the market for VGI
+solutions, including the vehicle-to-everything (“V2X”) manufacturers and aggregators, sits at a
+critical juncture in California. V2X solutions offer an immense potential opportunity both in the
+immediate term and over the long run to mitigate rising ratepayer costs (i.e., helping to address the
+nearly $50 billion of distribution system upgrade costs identified in the Kevala Electrification
+Impact Study, Phase 1), lower participating customer bills and, in turn, accelerate transportation
+electrification, facilitate renewable energy integration and grid decarbonization, bolster grid
+reliability, and support community resiliency. However, the solutions and the ecosystem needed
+to enable and operationalize the technology lie at a relatively nascent stage of market development.
+In the past, California has gone to great lengths to support market transition for similar
+2 D.24-01-032, pg. 64.
+3 D.24-01-032, OP 2.
+4 Ibid.
+
+May 23, 2023
+Page 3 of 6
+technologies that can yield many of the same material benefits, including rooftop solar, smart
+thermostats, stationary energy storage, and heat pump hot water heaters. Currently, automotive
+manufacturers (i.e., “OEMs”), EVSE manufacturers, EV service providers, and other V2X solution
+providers are viewing the dynamic rate pilots and ELRP as two critically necessary components
+of the “value stack” for their customers. This perception is spurring the necessary investments in
+product development, customer acquisition, and technology integration. With this in mind,
+relitigating the issue of dual participation across these two critical programs not only represents a
+violation of the Commission’s clear Decision but also imposes significant uncertainty and fails to
+send the correct regulatory signals to the V2X market. This places market and solution
+development in substantial peril and, in turn, jeopardizes the ability of V2X solutions to provide
+any benefits for ratepayers and participating customers now or in the future.
+B. Advice Letter 5285-E-A Contains Material Omissions, including a Lack of
+Consideration of Alternative Methodologies and Impact on Participating Customers.
+VGIC reiterates its appreciation for SCE, as well as PG&E, which contributed through the March
+1, 2024 workshop and subsequent advice letter filings toward the development of first-of-their-
+kind methodologies to permit dual participation across dynamic rate pilots and ELRP Group A.5.
+The task at hand – avoiding double compensation and double counting – is no easy feat.
+Nonetheless, Advice Letter 5285-E-A contains two key material omissions, detailed below.
+First, Advice Letter 5285-E-A does not sufficiently consider alternative methodologies to permit
+dual participation as intended and directed in D.24-01-032. Specifically, SCE fails to consider
+alternatives to avoiding double compensation. VGIC details below several key alternatives that
+were not considered in Advice Letter 5285-E-A and offers itself as a resource to continue
+collaborating with SCE, Energy Division staff, PG&E, and other stakeholders to further develop
+and weigh these alternatives:
+• Adjusted kWh Reading During ELRP Subgroup A.5 Event Hours. When
+calculating the dynamic rate pilot shadow bill for a customer participating in ELRP
+Subgroup A.5, SCE could revise the customer’s kWh reading during ELRP hours to
+equal the dynamic rate pilot subscription kWh load.5 The dynamic rate pilot shadow
+bill would therefore not reflect any credits for reductions below the baseline made
+during the ELRP event window. From the customer’s perspective, they would receive
+ELRP compensation through their aggregator and would not receive any dynamic rate
+credits for load reductions made below the dynamic rate pilot baseline during those
+same ELRP periods. Notably, PG&E proposed this same methodology during the
+5 This may need to be done manually. VGIC posits that the relatively limited scale of ELRP A.5 enrollment
+may contribute to the feasibility of manual adjustments.
+
+May 23, 2023
+Page 4 of 6
+March 1, 2024 workshop as option #2 of five total options for allocating load impacts.6
+Under this method, customers are “dual participating” because they are enrolled in both
+pilots, yet they are not double compensated for kWh load reduction.
+• Compensate Customers Based on Differentiated Grid Benefit Attributes. When
+calculating the dynamic rate pilot shadow bill for a customer participating in ELRP
+Subgroup A.5, SCE can calculate the bill – and any earned bill credits – based on the
+marginal cost-based prices and scarcity price curves envisioned by the CalFUSE
+framework, as they would with any other customer dynamic rate pilot customer. Under
+this method, SCE compensates dynamic rate pilot customers for the 24x7 load
+optimization services attribute they are providing. Meanwhile, ELRP payments are
+provided separately to aggregators per the Terms and Conditions of ELRP, for the
+emergency load reduction attribute. This is an out-of-market, non-cost-based
+approach to bolster grid reliability under the extreme circumstances around which
+ELRP is structured. VGIC acknowledges that Subgroup A.5 benefits from a more
+expansive 30-hour dispatch requirement each year compared to other Group A
+customers, which likely expands beyond the extreme circumstances that serve as the
+basis for ELRP. However, this 30-hour requirement was established and then
+repeatedly reaffirmed and explicitly upheld through several Commission Decisions and
+Resolutions. This reflects the Commission’s clear recognition that the VGI market is
+nascent and meaningfully supported by the 30-hour requirement.7 As detailed in
+Section II.B. above, this incremental market development support is critically needed
+to ensure VGI solutions are available to customers as EV deployment accelerates and
+the commensurate grid cost- and reliability-related benefits grow. Under this method,
+dual participation customers would be compensated twice for the same load reduction,
+however, the payments would be made for different desired attributes.
+• Aggregators and/or Customers Share Proprietary ELRP Compensation with
+SCE. As proposed in October 9, 2023 reply comments from
+CEDMC/OhmConnect/Olivine and Leapfrog, and summarized in D.24-01-032,
+another method would be for aggregators and/or customers to share information with
+utilities to support dual participation.8 Under this method, the customer could receive
+6 PG&E. Dual Participation in Exapnded Pilots. March 1, 2024. Slide 8.
+7 See, for example, D.23-12-005 at pg 142: “with ELRP sub-groups A.2, A.4, and A.5, the Commission
+sought to encourage the growth of new aggregators and resources that do not participate in other forms of
+DR” and Resolution E-5267 at pg 15: “in establishing the minimum dispatch requirement for ELRP sub-
+groups A.4 and A.5 in D.21-12-015, the Commission expressed its intent to provide “more certainty to
+aggregators regarding potential compensation” in return for their efforts to identify and enroll program
+participants… we reject (without prejudice) the IOUs’ proposal…to decrease the minimum dispatch hours
+for ELRP sub-groups A.4 and A.5.”
+8 CEDMC/OhmConnect/Olivine and Leapfrog Reply Comments on the Staff Proposal filed October 9, 2024.
+
+May 23, 2023
+Page 5 of 6
+a bill with all the comparative information, as proposed in Advice Letter 5285-E.
+Additional firewalls and safeguards would need to be established to protect proprietary
+information.
+Second, as detailed above in Section II.A., the short- and long-term success of the V2X market is
+dependent on the ability to value stack, as appropriate, to overcome the relatively high costs that
+accompany a nascent market. Therefore, SCE’s request in Advice Letter 5285-E-A would have a
+material impact on dynamic rate pilot V2X customers, who will be unable to participate in the
+pilot without the available V2X equipment and service providers. However, SCE fails to provide
+an analysis of this impact on V2X customers, a material omission in the Advice Letter.
+C. SCE’s Request to Exclude Certain Customers from Participating in the Dynamic
+Rate Pilot is Discriminatory and Unjust for these Participants.
+Advice Letter 5285-E-A and the subsequently filed Advice Letter 5285-E-B would eliminate dual
+participation for dynamic rate pilots in ELRP Sub-groups A.2, A.4, and A.5 but would retain dual
+participation for other ELRP Subgroup A customers and other DR program customers, as required
+by D.24-01-032. SCE’s request, therefore, applies discriminatory treatment for these customers
+who are excluded from dual participation because SCE’s proposed methodologies do not
+accommodate these customers.
+III. WHAT IS “AT STAKE” FOR THE FUTURE OF V2X.
+VGIC commends the Commission and SCE for seeking to establish much-needed pathways for
+V2X customers to dual participate in dynamic rate pilots and ELRP Subgroup A.5, the only EV-
+focused utility demand response opportunity. VGIC’s critical and overarching concern is that the
+market for V2X products and services is still emerging, and there are very few stable revenue
+streams available that can help this suite of technologies develop even further. As noted above, the
+dynamic rate pilot and ELRP A.5 are currently the only forms of utility compensation for V2X
+solutions in California. Thus, VGIC stresses the importance of establishing this dual participation
+option so that new market entrants can test the viability of different operating paradigms and use
+cases and scale their operations. A market participant might be hesitant to participate in the
+dynamic rate pilot if that meant foreclosing the opportunity to continue participating in ELRP
+Group A.5. This would also negatively impact the dynamic rate pilots, as the Commission would
+forego any lessons learned that would have arose from V2X participation in the dynamic rate
+pilots, which is particularly important given the long-term intent to offer mass-market optional
+dynamic rates.
+
+May 23, 2023
+Page 6 of 6
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit this Protest to the supplemental Advice Letter.
+We look forward to collaborating with stakeholders on this important initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council
+cc: Connor Flanigan, SCE (AdviceTariffManager@sce.com)
+Adam Smight c/o Karyn Gansecki, SCE (Karyn.Gansecki@sce.com)
+Service list of R.22-07-005

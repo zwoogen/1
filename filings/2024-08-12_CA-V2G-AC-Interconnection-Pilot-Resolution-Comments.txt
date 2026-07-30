@@ -1,0 +1,130 @@
+August 12, 2024
+Energy Division
+California Public Utilities Commission
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+RE: Comments of the Vehicle Grid Integration Council on Draft Resolution E-5313
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B and Comment Letter E-5313 circulated
+on July 22, 2024, the Vehicle-Grid Integration Council (“VGIC”) hereby submits these
+comments to Draft Resolution E-5315, which approves, with modifications the Advice Letter
+5185-E of Southern California Edison (“SCE”) Company, Advice Letter 7125-E of Pacific Gas
+and Electric Company, (“PG&E”), and Advice Letter 4350-E of San Diego Gas and Electric
+Company (“SDG&E”), Lessons Learned from the Vehicle to Grid Alternating Current Pilot and
+Recommendations for A Pathway Forward (“Joint Advice Letter”) submitted on January 5, 2024.
+Overall, VGIC continues to support implementing the temporary pathway for vehicle-to-
+grid (“V2G”) alternating current (“AC”) interconnection. Therefore, VGIC submitted a response
+supporting the Joint Advice Letter to extend the V2G AC pilots. The Draft Resolution correctly
+determines that the pilot should be extended and that alternative interim interconnection
+pathways should be considered to allow for additional pilot participation. However, in response
+to the Draft Resolution, VGIC offers several key areas of concern in the comments below that
+must be addressed in the final adopted resolution.
+I. VGIC SUPPORTS THE APPROVAL OF THE EXTENSION OF THE V2G AC
+PILOT.
+VGIC supports the Commission’s determination that the IOUs should “reopen the V2G
+AC Interconnection Pilot and extend it until tariff modifications for a permanent interconnection
+process for V2G AC systems are approved by the Commission.” As highlighted in the Draft
+Resolution, extending the pilot pathway will allow for additional learnings on V2G AC
+interconnection, which is still a nascent interconnection pathway that various industry
+stakeholders are still developing and further understanding. These learnings will be important for
+the further development of a more permanent interconnection pathway in Rule 21.
+1
+
+While the original Joint Advice Letter requested an extension of the pilots only through
+2025, the Commission is correct in determining that there should not be a definitive calendar
+date for the sunset of these pilots. VGIC agrees that given the changing and, at times, lengthy
+timelines of standards approval, it makes sense to maintain flexibility in the timeline for the
+extension of the pilot in order to “avoid gaps in the interconnection process for V2G AC pilot
+projects between the end of the V2G AC Interconnection Pilot and the time a permanent
+interconnection process for V2G AC systems is added to, and becomes effective in, Rule 21.”1
+This will also avoid having the IOUs submit any future non-substantive Advice Letters to merely
+request further extensions of the pilots because of delays.
+II. THE COMMISSION SHOULD CORRECT ERRORS RELATED TO THE
+PROCESS FOR ALLOWING ADDITIONAL INTERIM APPROACHES.
+VGIC also supports the Draft Resolution approving the IOUs’ ability to allow additional
+interim V2G AC pathways, including those not requiring a relay, to be used in this pilot. The
+current interim V2G AC interconnection pathway’s requirement of relays is likely reducing the
+number of participants seeking to interconnect under this pathway, given the significant cost of
+relay devices. There may be other approaches that could be used to provide alternative interim
+interconnection pathways, and VGIC agrees with the Draft Resolution that the IOUs should be
+allowed to pursue those pathways, which will undoubtedly offer valuable insights to shape the
+long-term initiative to incorporate V2G AC in Rule 21.
+However, process outlined in the Draft Resolution to approve alternative pathways
+includes an industry-led working group and Advice Letter process. This is misaligned with the
+steps needed to support an alternative interim pathway. The Draft Resolution outlines roughly 3
+months of “industry-led” working groups followed by the submission of a Tier 2 Advice Letter
+roughly a month later. While staff approval of a Tier 2 Advice Letter is faster than the process of
+Resolution approval, it will likely take several months for the Advice Letter to be approved. This
+means that customers will not be able to utilize the alternative interim pathway for at least 6
+months, in the best case scenario.
+Moreover, an alternative interim pathway cannot emerge from stakeholder discussion and
+Advice Letters alone. Demonstration, piloting, field testing and validation, or other real-world
+experience is required to establish an alternative interim pathway. Put differently, the Draft
+Resolution’s proposed process is ordered backwards: the industry-led work, informed by the
+IOUs, and subsequent Advice Letter process could not progress without first developing real-
+world experience. This has been made abundantly clear from the development of UL 1741 SC,
+where the core specifications that comprise the standard emerged from real-world experience in
+SCE’s EPIC V2G AC Pilot. While the UL 1741 SC committee is diligently working through a
+1 Draft Resolution at 8
+2
+
+critical consensus-driven stakeholder process, its origins are in real-world experience led by
+SCE. VGIC expects this same dynamic – experimenting first – would hold true for an interim
+non-relay pathway, as well.
+With this in mind, VGIC strongly urges the Commission to allow the IOUs to gain
+experience with interim approaches by working directly with pilot participants to allow
+interconnection without the use of a relay. While VGIC understands the value of establishing a
+consensus-driven interim approach that “must be applicable industry wide,”2 this must be
+balanced with the need to efficiently establish such interim approaches and acknowledgement
+that they cannot emerge without real-world piloting. VGIC believes that without this flexibility,
+IOUs will have no means to experiment with applicable interim pathways that could inform the
+consensus-drive, industry-wide approach envisioned by the Draft Resolution. The Commission
+should aim to further the effectiveness of this pilot as a space to provide valuable data on real-
+life V2G AC interconnection that can be used to determine the best way to advance V2G AC
+given the current standards environment.
+III. THE RESOLUTION SHOULD NOT FORECLOSE THE POTENTIAL FOR
+INTERIM INTERCONNECTION PATHWAYS TO BECOME PERMANENT.
+In the Draft Resolution, the Commission cites the Joint Advice Letter, stating that “Once
+standard and certification requirements for V2G-AC have been published and Rule 21 is
+updated, all new V2G-AC projects must comply with those requirements and the alternative
+certification process developed for V2G-AC pilot projects will no longer be available for use.”3
+VGIC believes that the intent behind this phrasing is to state that once a methodology for V2G
+AC interconnection is adopted under Rule 21, customers seeking interconnection of these
+devices must follow Rule 21 protocols, instead of using the non-Rule 21 interim pilot pathway.
+However, the Commission should not automatically assume that interim pathways from the pilot
+will not be integrated into Rule 21 as permanent pathways for interconnection. There are many
+stakeholders anticipating the release of UL 1741 SC, and it is implied in the Joint Advice Letter
+and Draft Resolution that this UL standard will form the basis for a permanent Rule 21 pathway.
+However, this is not a foregone conclusion. The IOUs and pilot participants may find that
+interim pilot solutions could be found as acceptable interconnection standards that could be
+integrated into Rule 21. It is also very possible that multiple pathways could be integrated into
+Rule 21 to ensure safe and reliable interconnection while also supporting customer choice. This
+principle of customer choice is not uncommon within Rule 21, which holds several options and
+pathways for any given technology to move through the Rule 21 process.
+2 Draft Resolution at 9
+3 Draft Res at 9 citing Joint AL at 4
+3
+
+Lastly, VGIC would like to note that customers that have interconnected under a pilot
+pathway should be allowed to continue to operate under that pathway if they so choose.
+Customers should not have to re-apply for interconnection under Rule 21 once their system is
+operational.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the Draft Resolution. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION
+COUNCIL
+cc: Jose Aliaga-Caro, CPUC (Jose.Aliaga-Caro@cpuc.ca.gov)
+Caitlin Pollock, CPUC (Caitlin.Pollock@cpuc.ca.gov)
+Connor Flanigan, SCE (AdviceTariffManager@sce.com)
+Adam Smith, SCE, c/o Karyn Gansecki (Karyn.Gansecki@sce.com)
+Sidney Bob Dietz II, PG&E, c/o Megan Lawson (PGETariffs@pge.com)
+Greg Anderson, SDG&E (GAnderson@sdge.com, SDGETariffs@sdge.com)
+Service list R.17-07-007
+Service list R.18-12-006
+4

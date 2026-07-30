@@ -1,0 +1,138 @@
+August 27, 2024
+California Air Resources Board
+1001 I Street
+Sacramento, CA 95814
+RE: Comments of Vehicle Grid Integration Council on the Supplemental 15 Day Notices
+The Vehicle Grid Integration Council (“VGIC”) appreciates the opportunity to provide comments
+on the California Air Resources Board’s (“CARB”) Proposed 15-Day Changes to the Proposed
+Amendments to the Low Carbon Fuel Standard (“LCFS”).
+VGIC supports the modifications being proposed by staff in these amendments to strengthen the
+LCFS program. Given LCFS's success so far, increasing the program stringency is the right step
+towards furthering its goals: driving California towards the use of cleaner fuels and decarbonizing
+the transportation sector as a whole.
+Additionally, as detailed in the below comments, VGIC supports:
+1. Retaining the December 2023 update pre-approving electric distribution utility (“EDU”)
+holdback funds to be used for VGI initiatives.
+2. Clarifying that EDU holdback funds may be used for programs supporting both equity and
+vehicle-grid integration (“VGI”).
+3. Adding an option to allocate base credits to auto original equipment manufacturer
+(“OEM”).
+4. Ensuring OEM base credit revenue can also be used for VGI programs.
+About VGIC
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of electric
+vehicles (“EV”) and VGI through policy development, education, outreach, and research. VGIC
+supports the transition to a decarbonized transportation and electric sector by ensuring the value
+from flexible EV charging and discharging is recognized and compensated to achieve a more
+reliable, affordable, and efficient electric grid.
+1
+
+1. VGIC supports modifications to the utility holdback programs and allowing utilities
+to use credits for vehicle-grid integration projects.
+VGIC supports the modifications to the EDU holdback programs proposed in the original 45-day
+amendments as retained in the 15-day updated language. The amendments reduce the amount of
+base credits that California’s three large investor-owned utilities (“IOUs”) must spend on the
+California Clean Fuel Reward program to 50% and allow more funding to flow to the IOUs’ utility
+holdback programs. It is worth noting that while the California Clean Fuel Reward program was
+paused several years ago due to low funding availability, significant funding has likely been
+amassed but not yet implemented since that pause.
+CARB proposes a list of equity projects utilities can spend funds on in section 95483(c)(1)(A)5a,
+including investing in charging infrastructure, EV ridesharing, rebates and incentives for vehicle
+purchases and leases, and investments in distribution infrastructure. Of critical importance to
+VGIC and stakeholders working diligently to establish widespread vehicle-grid integration in
+California, the amendments also provide a list of potential projects in 95483(c)(1)(A)5b that
+utilities can spend non-equity funds on including:
+i. Investments in grid-side distribution infrastructure necessary for EV charging.
+ii. Support for vehicle-grid integration with projects such as:
+I. Encouraging the optimization of EV charging through education in the following
+areas: peak demand, rate pricing, grid emergencies, potential power shutoffs,
+infrastructure deferral, renewable integration, and/or other signals and grid needs
+to provide grid and customer benefits.
+II. Providing program incentives to encourage driver participation in
+monitored/managed charging, demand response, or vehicle-to-load / vehicle-to-
+grid applications.
+III. Supporting the deployment and installation of bidirectional charging
+equipment.
+IV. Other innovative approaches to promoting and managing EV charging and
+discharging that provides benefits to customers and the grid.
+iii. Hardware and software that decrease the cost of or avoid updates to infrastructure,
+including load management software or outlet splitting.
+VGIC strongly supports utilizing utility holdback funding for all of the VGI projects and load
+management software outlined above. VGI can provide a wide range of benefits including the
+following recognized by the California Public Utilities Commission (“CPUC”):1
+1 CPUC Decision 20-12-029.
+2
+
+● Accelerating the adoption of EVs by providing additional revenue streams that lower the
+total cost of vehicle ownership for individual owners and fleet operators.
+● Reducing costs to electricity ratepayers by reducing congestion on existing power
+distribution infrastructure and costly distribution system upgrades, as well as reducing the
+need to invest in new fossil fuel electricity generation.
+● Supporting further decarbonization of the electric sector by avoiding curtailment of
+renewables and providing grid services.
+● Accelerating reduction of carbon and criteria pollutant emissions in the transportation
+sector.
+● Improving grid resiliency and security, including for public safety power shutoff (PSPS)
+events.
+These are all benefits that LCFS revenues and the resulting holdback programs should support.
+2. VGIC recommends modifications to clarify that utility holdback funds may be used
+for programs that support both equity and vehicle-grid integration projects.
+VGIC understands that the list of equity projects provided in 95483(c)(1)(A)5a are approved for
+the utilities to spend equity funds on. The list in 95483(c)(1)(A)5b describes “examples of pre-
+approved uses for these other holdback credit proceeds.” However, VGIC strongly recommends
+CARB clarify that utilities can spend equity funds for the types of VGI projects listed in
+95483(c)(1)(A)5b if they are for the benefit of equity customers. This change would inject much-
+needed clarity not only to the EDUs tasked with designing programs but also to the CPUC, which
+may otherwise inadvertently hamstring the EDUs’ ability to implement equity-focused VGI
+programs. Put differently, CARB should clarify that EDUs may use holdback funds on initiatives
+that simultaneously support the intents of 95483(c)(1)(A)5a (i.e., equity) and 95483(c)(1)(A)5b
+(i.e., VGI).
+3. VGIC supports allowing base credits to be allocated to the auto OEMs.
+As discussed above, base credits have traditionally been generated by and allocated to the EDUs
+to spend on the California Clean Fuel Reward program and utility holdback programs and projects.
+However, the California Clean Fuel Reward program has been suspended since 2022 due to low
+funds. CARB now proposes to pivot the program to focus on medium- and heavy-duty vehicles
+instead of light-duty.
+At the same time, funding light-duty and other projects may remain an appropriate policy direction.
+VGIC supports allowing CARB to allocate up to 45% of base credits to the auto OEMs if less than
+30% of model year 2024 new light-duty vehicle sales are ZEVs. Significant increases in light-duty
+ZEV sales are needed to reach the Advanced Clean Cars II 35% sales requirement in 2026.
+3
+
+Allocating base credits to the OEMs to provide additional funding for the ZEV transition will allow
+California to move towards its clean transportation goals.
+If credits are allocated to the OEMs, VGIC supports pausing the requirement that EDUs continue
+to the California Clean Fuel Reward program and allowing the EDUs to focus on holdback
+programs. As discussed above, utility holdback projects can provide valuable incentives for EV
+adoption, equity goals, and VGI initiatives.
+4. VGIC recommends OEM base credits be eligible for the same pre-approved project
+examples detailed for utilities in subsection 95483(c)(1)(A)5.
+The Proposed Amendments outline the types of pre-approved projects for OEMs receiving base
+credits in 95483(c)(1)(D)1. These are:
+a. Additional rebates and incentives beyond existing local, federal, and state rebates and
+incentives for purchasing or leasing new or previously owned EVs. The Executive Officer
+may require that a portion of OEM base credit proceeds in a calendar year be spent on this
+project type.
+b. Installing EV charging infrastructure and subsidized EV charging plans.
+c. Multilingual marketing, education and outreach [...]
+d. Alternatively, OEMs may develop and implement other projects that promote
+transportation electrification. These alternative projects are subject to approval by the
+Executive Officer. [...]
+VGIC recommends that this list be expanded to include the other pre-approved projects the utilities
+are allowed fund under 95483(c)(1)(A)5, as discussed above. These projects also achieve the goals
+of increasing EV adoption and further decarbonizing the transportation sector. OEMs should be
+allowed to fund VGI projects in particular, as these projects can unlock broader benefits to electric
+ratepayers and all Californians. Notably, OEMs, like EDUs, would not be required to use funds
+for such initiatives. Instead, with this change, OEMs and EDUs would both be pre-approved to use
+funds for such initiatives.
+Conclusion
+VGIC is overall supportive of the Proposed Amendments to LCFS and is excited to continue to
+work with CARB on achieving California’s transportation decarbonization goals.
+Sincerely,
+4
+
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+5

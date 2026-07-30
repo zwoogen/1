@@ -1,0 +1,620 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue Rulemaking 18-12-006
+the Development of Rates and (Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+JOINT OPENING COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL,
+AMERICAN HONDA MOTOR CO., INC., ENEL X NORTH AMERICA, INC.,
+ADVANCED ENERGY ECONOMY, CALIFORNIA ENERGY STORAGE ALLIANCE,
+ENVIRONMENTAL DEFENSE FUND, EVBOX NORTH AMERICA, GREENLOTS,
+NATURAL RESOURCES DEFENSE COUNCIL, AND SIEMENS ON PROPOSED
+DECISION CONCERNING IMPLEMENTATION OF SENATE BILL 676
+December 3, 2020
+EDWARD BURGESS RYAN HARTY
+ZACH WOOGEN American Honda Motor Co., Inc.
+Vehicle-Grid Integration Council 1919 Torrance Blvd.
+2150 Allston Way, Suite 400 Torrance, CA 90501
+Berkeley, CA 94704 Tel: (310) 783-3962
+Tel: (510) 665-7811 Email: ryan_harty@ahm.honda.com
+Email: vgicregulatory@vgicouncil.org
+MARC MONBOUQUETTE MATT STANBERRY
+Enel X North America, Inc. Advanced Energy Economy
+846 Bransten Road 1000 Vermont Ave. NW, 3rd Floor,
+San Carlos, CA 94070 Washington, D.C. 20005
+Tel: (415) 488-6035 Tel: (202) 380-1950
+Email: marc.monbouquette@enel.com Email: mstanberry@aee.net
+JIN NOH LARISSA KOEHLER
+California Energy Storage Alliance PAMELA MACDOUGALL
+2150 Allston Way, Suite 400 Environmental Defense Fund
+Berkeley, CA 94704 123 Mission Street, 28th Floor
+Tel: (510) 665 7811 San Francisco, CA 94105
+Email: cesa_regulatory@storagealliance.org Tel: (415) 293-6093
+Email: lkoehler@edf.org
+
+MEGHA LAKHCHAURA THOMAS ASHLEY
+EVBox, North America Greenlots
+1930 Innovation Way, Suite 200 767 S. Alameda St, Suite 200
+Libertyville, IL 60048 Los Angeles, CA 90021
+Tel: (310) 309-7775 Tel: (802) 922-5585
+Email: megha.lakhchaura@evbox.com Email: tom@greenlots.com
+MILES MULLER CHRIS KING
+Natural Resources Defense Council Siemens
+111 Sutter Street, 21st Floor 721 Shell Blvd, Suite 205
+San Francisco, CA 94104 Foster City, CA 94404
+Tel: (415) 875-8254 Tel: (510) 435 5189
+Email: mmuller@nrdc.org Email: chris_king@siemens.com
+
+TABLE OF CONTENTS
+I. INTRODUCTION. ......................................................................................................... 1
+II. THE PD REPRESENTS A STRONG FOUNDATION BUT LACKS CRITICAL
+DIRECTION AND ACCOUNTABILITY MEASURES TO ENSURE VGI
+STRATEGIES ARE IMPLEMENTED. ................................................................................. 2
+III. RECOMMENDED REVISIONS. ................................................................................. 2
+A. Ordering Paragraph (“OP”) 4 should include a date certain by which investor owned
+utilities (“IOUs”) must propose Automated or Active Load Management (“ALM”)
+deployment strategies, and require the inclusion of a tariff design and methodology. .......... 2
+B. The Commission should include more specific direction on how and when a credit-
+for-export scheme should be pursued. .................................................................................... 5
+C. OP 8 should be revised to ensure continued progress towards VGI participation as
+Demand Response (“DR”) resources beyond the proposed workshop in Q1, 2021. Joint
+Commenters recommend targeting a pathway towards 200 MW of VGI in the 2023-2027
+DR portfolio cycle................................................................................................................... 5
+D. OP 11 should be revised to specify how to develop pathways to scale implementation
+and allow budget flexibility with California IOU’s Emerging Technologies program. ......... 6
+F. The PDs should create pathways for meaningful action to facilitate V2G
+interconnection. ....................................................................................................................... 8
+G. OP 5 should be revised to provide a pathway to marketing, education, and outreach
+(“ME&O”) funds to ensure meaningful and lasting implementation ..................................... 8
+H. OP 6 should be revised to account for the role of automotive original equipment
+manufacturers (“OEMs”)/EV service providers (“EVSPs”) in customer education and
+evaluation concerning ALM systems and other VGI strategies ............................................. 9
+IV. KEY AREAS REQUIRING CLARIFICATION OR EXPANSION. ...................... 10
+A. Criteria used to determine whether a strategy should be adopted pursuant to SB 676
+excludes strategies that may provide significant net benefits to ratepayers ......................... 10
+B. Several key terms are left undefined .......................................................................... 11
+C. The Commission should provide more detail on how adoption of Reform Retail Rates
+as a VGI strategy interacts with the draft TEF ..................................................................... 12
+D. Joint Commenters respectfully request clarification that non-interconnection technical
+standards are adopted pursuant to SB 676 ............................................................................ 12
+E. Stakeholders would benefit from an Appendix that illustrates the overlapping
+timelines stemming from the PD .......................................................................................... 12
+F. A focus on unique aspects of VGI opportunities for the MD/HD EV sector is still
+lacking ................................................................................................................................... 13
+V. CONCLUSION. ............................................................................................................ 13
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+JOINT OPENING COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL,
+AMERICAN HONDA MOTOR CO., INC., ENEL X NORTH AMERICA, INC.,
+ADVANCED ENERGY ECONOMY, CALIFORNIA ENERGY STORAGE ALLIANCE,
+ENVIRONMENTAL DEFENSE FUND, EVBOX NORTH AMERICA, GREENLOTS,
+NATURAL RESOURCES DEFENSE COUNCIL, AND SIEMENS ON PROPOSED
+DECISION CONCERNING IMPLEMENTATION OF SENATE BILL 676
+I. INTRODUCTION.
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council1 provides these opening
+comments on behalf of its members and supporters, and jointly with American Honda Motor
+Co., Inc., Enel X North America, Inc., Advanced Energy Economy, California Energy Storage
+Alliance, Environmental Defense Fund, EVBox North America, Greenlots, Natural Resources
+Defense Council, and Siemens (“Joint Commenters”) on the Proposed Decision Concerning
+Implementation of Senate Bill 676 and Vehicle-to-Grid Integration Strategies (“PD”)2 issued on
+November 13, 2020.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California LLC, Enel
+X North America, Inc., Fermata, LLC., Fiat Chrysler Automobiles, Ford Motor Company, General Motors
+Company, Nissan North America, Inc., Nuvve Corporation, The Mobility House, and Toyota Motor North America,
+Inc. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2 Joint Commenters note that the Commission appears to have made an error in the title of this PD that should be
+corrected for the sake of clarity and accuracy – rather than “vehicle-to-grid integration strategies” the Commission
+should reference “vehicle-grid integration strategies” as vehicle-to-grid (“V2G”) is a discrete sub-topic to VGI more
+broadly.
+1
+
+II. THE PD REPRESENTS A STRONG FOUNDATION BUT LACKS CRITICAL
+DIRECTION AND ACCOUNTABILITY MEASURES TO ENSURE VGI
+STRATEGIES ARE IMPLEMENTED.
+Joint Commenters commend the Commission, Energy Division staff, and stakeholders for
+their efforts leading up to the PD. The year-long Vehicle-Grid Integration Working Group (“VGI
+WG”) effort and Final Report, the August 2020 Energy Division Staff Paper on Vehicle Grid
+Integration (“VGI”) Implementation, and the Draft Transportation Electrification Framework,
+reflect significant stakeholder work and engagement, and Joint Commenters are generally
+pleased to see party recommendations referenced and adopted, including the key VGI WG Final
+Report. Joint Commenters believe the PD represents a strong foundation for VGI and applauds
+the Commission for adopting VGI strategies pursuant to SB 676 (Bradford, 2019) and the
+Commission’s authority to advance VGI generally under this rulemaking and SB 350 (De Leon,
+2015). However, while a step in the right direction, the PD will benefit from additional
+specificity, direction and accountability as to how stakeholders can assure California’s success in
+carrying forward VGI objectives which align with State policies and Orders. Joint Commenters
+suggest that the Commission provide more clarity in several of the ordering paragraphs and
+include more concrete next steps to advance VGI. Specific recommended revisions are provided
+in the following section.
+III. RECOMMENDED REVISIONS.
+(Note that Joint Commenters have compiled all recommended redlines to the PD in Appendix A.)
+A. Ordering Paragraph (“OP”) 4 should include a date certain by which investor owned
+utilities (“IOUs”) must propose Automated or Active Load Management (“ALM”)
+deployment strategies, and require the inclusion of a tariff design and methodology.
+Joint Commenters appreciate the PD’s consideration of ALM technologies as an alternative
+to often costly distribution system upgrades for electric vehicle (“EV”) charging stations and a
+critical VGI strategy. As reflected frequently in the record of this proceeding, enabling customers
+to elect ALM and implement solutions from an open marketplace will likely result in distribution
+2
+
+system cost savings both within transportation electrification (“TE”) infrastructure programs and
+more generally, which will introduce novel classes of ratepayer benefits.3
+The PD correctly directs the IOUs to consider ALM capabilities in all future rules, tariff filings,
+and TE applications – reflecting the PD’s guidance to consider VGI across all relevant business
+activities – and also to determine criteria to evaluate where ALM would benefit ratepayers while
+still meeting site host charging needs. This is timely, given the direction under AB 841 (Ting,
+2020) for the IOUs to file, by February 28, 2021, “a new tariff or rule that authorizes each
+electrical corporation to design and deploy all electrical distribution infrastructure on the utility
+side of the customer’s meter for all customers installing separately metered infrastructure to
+support charging stations, other than those in single-family residences.”
+Joint Commenters believe that OP 4 should be amended to explicitly harmonize the
+implementation of ALM with the IOUs’ near-term proposal for a utility-side distribution
+infrastructure tariff under AB 841. ALM could be considered as an accompaniment to the
+forthcoming AB 841 tariff, or through a standalone ALM tariff, as a standard component of
+routine utility-side infrastructure service for EV charging. The ALM offering should be
+structured to return a portion of the avoided cost of ratepayer funded customer- or utility-side
+infrastructure to the customer as an incentive to encourage the use of ALM as a cost-effective
+measure that delivers net ratepayer value and lowers the cost of EV supply equipment (“EVSE”)
+investments. As an example of how an ALM tariff could be structured, customers that seek to
+install new charging stations could be provided, in advance, with an optional ALM rider that
+includes a site-specific schedule of options based on the required secondary distribution upgrades
+at various levels of maximum EV charging capacity. The schedule would also include a
+customer rebate or rate discount computed using a predetermined methodology, to incentivize
+the use of ALM in lieu of electing distribution upgrades. Customers could then elect from the
+3 See, for example, Joint Commenters opening comments at 8-9, VGI WG recommendations 2.04 and 2.17, Pacific
+Gas and Electric Company Electric Vehicle Infrastructure OIR Rulemaking 18-12-006 Data Response October 13,
+2020, CALSTART Opening Comments on the Draft Transportation Electrification Framework (“Draft TEF”)
+Section 11 at 4, and Draft TE Framework at 23. It is worth noting that the value of ALM in avoiding or deferring
+distribution system upgrade costs is a common experience in TE planning, including in Europe. See, for example,
+The future for heavy-duty vehicles in the Pentalateral Region: Integration electromobility in the energy transition,
+October 22, 2020, https://www.irena.org/events/2020/Oct/Heavy-Duty-Vehicles-in-the-Penta-Region
+3
+
+schedule of options an appropriate level of ALM (including no ALM, if the customer wishes to
+enable charging at full nameplate capacity).
+% of Nameplate Maximum kVA Required Rebate amount //
+Rating (maximum rating of EVSE Distribution rate discount
+under ALM) under ALM (total Upgrade/Make Ready
+/ per port @ 20 Costs
+total)
+100% (default, no 200 / 10 $200,000 $0
+ALM)
+90% 180 / 9 $200,000 $0
+80% 160 / 8 $150,000 $25,000
+70% 140 / 7 $150,000 $25,000
+60% 120 / 6 $150,000 $25,000
+50% 100 / 5 $100,000 $50,000
+These ALM tariff concepts are equally applicable to ratepayer-funded IOU TE programs that
+fund customer-side infrastructure as they are to utility-side infrastructure that will become a
+routine IOU service. However, in order to maximize the ratepayer benefits of ALM – not to
+mention VGI broadly4 – the Commission, through its TE programs and practices, should seek to
+encourage incorporating EV charging into existing sites’ service drops and building loads to the
+greatest extent possible. Indeed, new and separately metered service will in many instances be a
+necessary and cost-effective measure to bring new EV charging load online. But, in many other
+instances, sites have adequate transformer, panel, and wires capacity to accommodate EV
+charging, or ALM can be used to incorporate new charging load within the available capacity
+that the site already has. As such, we recommend that OP 4 is amended to explicitly reference
+how ALM can be used to support TE installation at equal or lesser costs than hardware-based
+electrical capacity “at an existing utility service.” Finally, the PD should also be revised
+throughout to make it more explicit that ALM measures can be provided by third parties as long
+as they meet relevant technical and safety standards. Joint Commenters recommend revisions to
+OP 4 and Finding of Fact 13 are presented in Appendix A.
+4 For instance, intermingling EV charging load with building loads is necessary to enable V2G participation in
+Demand Response offerings that, as currently structured, allow for reducing a site’s load but prohibit exporting
+power to the grid.
+4
+
+B. The Commission should include more specific direction on how and when a credit-for-
+export scheme should be pursued.
+Regarding the credit-for-export concept, the PD states “exploration of such a scheme should
+be pursued.” 5 However, other than this generally supportive statement, there are no specific
+actions that would lead to tangible next steps needed for the IOUs and other stakeholders to
+pursue this option. Joint Commenters request the Commission revise the PD to clarify this
+statement, specifically regarding how the concept should be pursued, by when, and in which
+proceeding – as well as metrics that enable measurement of successful strategy implementation.
+The PD mentions the current Net Energy Metering (“NEM 3.0”) proceeding (R.20-08-020) as a
+potential venue to explore compensation mechanisms for EV exports; however a recent Scoping
+Ruling issued in that proceeding – issued after the PD in this proceeding – does not currently
+include consideration of exports from EVs in its scope.6 Furthermore, given the potentially
+contentious nature of the NEM 3.0 proceeding and its predominant focus on rooftop solar PV,
+the Joint Commenters are concerned that this will not be a productive venue for exploring a
+novel credit for export mechanism related to EVs. Instead, Joint Commenters recommend, based
+on the status of the current NEM proceeding, that the PD be revised to direct meaningful action
+towards a credit-for-export scheme. Specifically, we recommend including an additional
+ordering paragraph requiring IOUs to issue an application within 180 days for a credit-for-export
+tariff for residential customers that is time variant - an EV time-of-use (“TOU”) rate - and allow
+for stakeholder comment. Additionally, we recommend the Commission introduce methods
+which incorporate Carbon Intensity metrics to substantiate rational value for export episodes
+based on carbon savings directly resulting from VGI dispatch.
+C. OP 8 should be revised to ensure continued progress towards VGI participation as
+Demand Response (“DR”) resources beyond the proposed workshop in Q1, 2021. Joint
+Commenters recommend targeting a pathway towards 200 MW of VGI in the 2023-2027
+DR portfolio cycle.
+Regarding the near-term VGI policy action of DR, the PD states, “incorporating VGI
+strategies into any existing [DR] program may require education for potential market participants
+5 PD at 31.
+6 See Joint Assigned Commissioner’s Scoping Memo and Administrative Law Judge Ruling Directing Comments on
+Proposed Guiding Principles issued in R.20-08-020 on November 19, 2020.
+5
+
+and consideration of whether the program design could accommodate VGI strategies.”7 Joint
+Commenters appreciate the Commission’s efforts to ensure market participants are well-
+informed. However, Joint Commenters believe the finite resources of the IOUs and stakeholders
+may be better spent on a solutions-oriented workshop, which would briefly summarize known
+barriers to behind-the-meter DR participation (e.g. metering requirements, baselining, and
+availability requirements) and devote most of the agenda to identifying potential strategies to
+overcome these barriers. Joint Commenter’s primary concern with section 6.3 on DR and the
+corresponding OP 8 is the lack of action required following the post-workshop report. As such,
+Joint Commenters strongly urge the Commission to direct a more concrete set of actions
+following the workshop. More specifically, we believe the proposed post-workshop report
+should include an explanation of a viable pathway for enabling 200 MW of VGI as DR resources
+within the next DR portfolio cycle (2023-2027) by alleviating barriers to the extent possible.
+Joint Commenters strongly believe this could send a strong market signal and, ultimately, lead to
+greater VGI participation in DR programs and market products. The Joint Commenters believe
+200 MW is a reasonable starting point given the fact that the current 2018-2022 cycle DR
+portfolios already contain over 1,600 MW of demand response resources (~550 MW for PG&E,
+~1,000 MW for SCE, and ~60 MW for SDG&E in 2022). Additionally, VGIC recently estimated
+the potential for up to 1,500 MW of VGI DR resources by 2025 even at a modest 5%
+participation level.8 Finally, the Joint commenters recommend that final decision direct any VGI
+DR workshop also be jointly noticed to the Emergency Reliability rulemaking (R.20-11-003) and
+Resource Adequacy rulemaking (R.19-11-009). To that end, we suggest OP 8 be modified per
+Appendix A redlines.
+D. OP 11 should be revised to specify how to develop pathways to scale implementation and
+allow budget flexibility with California IOU’s Emerging Technologies program.
+The PD currently states: “Pilots should address practical barriers to VGI-enabling technologies
+that have already been demonstrated and develop pathways to scale implementation through
+existing or potential new IOU programs that would further the goals of SB 676.”9 As noted in
+7 PD at 32.
+8 Reply Comments of The Vehicle-Grid Integration Council on The
+Transportation Electrification Framework (Sections 11.1 And 11.2), at 7, September 4, 2020
+9 PD at 39.
+6
+
+reply comments, Joint Commenters stress that there is a significant risk associated with “over-
+piloting” solutions that may be well-suited to large-scale implementation through a utility
+program, VGI rate mechanism, or third party aggregator implementation.10 As such, even if the
+Commission continues to compile learnings through pilots, Joint Commenters urge the
+Commission to provide additional clarity on how the IOUs should “develop pathways to scale
+implementation” beyond the pilot phase. Specifically, the Commission should direct IOUs to
+identify a timeframe for how emerging technologies can ultimately be moved into a more wide-
+scale, long-term component of the TE plans.
+Setting aside concerns about overreliance on pilots, the Joint Commenters believe the proposed
+level of funding for VGI pilots and emerging technologies is appropriate at this time. We note
+that the success of some potential pilots, and the utilization of these funds may partly depend
+upon the ongoing deliberations regarding vehicle-to-grid alternating current (“V2G AC”) pilot
+safety protocols, and the successful implementation of the newly clarified vehicle-to-grid direct
+current (“V2G DC”) interconnection pathway as approved in D.20-09-035. It is possible that
+there could be unforeseen delays or barriers in these efforts. As such, we suggest that the
+Commission offer some budget flexibility in the event the pilot funding is undersubscribed. For
+example, if the proposed $35 million in pilot funding is not fully utilized, we suggest it could be
+applied to an appropriate category within the Emerging Technologies program or other VGI-
+related program alternates. OP 11 should be modified to reflect that flexibility.
+E. Commission direction concerning IOUs’ collaboration with the California
+Independent System Operator (“CAISO”) should impose a reporting requirement to
+ensure responsible and effective outcomes.
+Joint Commenters acknowledge that the Commission and IOUs cannot set wholesale market
+rules or access and appreciates the Commission’s direction for the IOUs to collaborate with the
+CAISO on these opportunities. Specifically, the PD states IOUs “shall collaborate with CAISO
+where beneficial and report on reforms to wholesale market rules and access that advance VGI
+strategies.”11 However, Joint Commenters are concerned that this language may be too vague to
+achieve that outcome and may not accurately describe the recommendations for the respective
+10 Joint Commenters reply comments at 9.
+11 PD at 18.
+7
+
+roles of the CAISO, the Commission, and the IOUs. The record of this proceeding and the VGI
+WG Final Report contain ample discussion on the barriers related to wholesale market
+participation, many of which do require the Commission and IOUs to serve as the lead actors.12
+As such, Joint Commenters request both OP 1 and OP 3 be revised as per our redlines in
+Appendix A. The Joint Commenters also recommend that the Commission direct this
+collaboration to include a focus on overcoming known barriers for VGI participation in DR,
+including baselining, submetering, telemetry, and export credit, and discussion of how EVs may
+offer novel solutions through vehicle telemetry options.
+F. The PDs should create pathways for meaningful action to facilitate V2G
+interconnection.
+Joint Commenters observe the PD does not detail how adoption of interconnection technical
+standards as a VGI strategy pursuant to SB 676 will interact with ongoing policy efforts. Instead,
+the PD states that: “Most of these reforms should be addressed in the Commission’s dedicated
+proceeding on interconnection and Electric Rule 21 – R.17-07-007.”13 We agree that most of the
+necessary reforms are occurring (or have already occurred) through the Rule 21 proceeding.
+Moreover, D.20-09-035 in that proceeding directed IOUs to develop a temporary interconnection
+pathway for V2G AC pilots. Since Commission approval of D.20-09-035, the IOUs have hosted
+two workshops to solicit stakeholder feedback on such a pathway, and several of the Joint
+Commenters have actively participated in these workshops. One key barrier identified in these
+workshops is the fact that the IOU interconnection engineering staff has limited resources to
+review V2G AC pilot projects proposals. To ensure that SB 676 leads to real-world progress on
+interconnection standards, Joint Commenters recommend the Commission allow the IOUs
+initiate an accelerated expansion program, which allows for cost recovery associated with
+enhancing and training their interconnection engineering staff pool. This will help accommodate
+the workload expansion attributable to expedited implementation of upcoming V2G pilots
+resulting from D.20-09-035.
+G. OP 5 should be revised to provide a pathway to marketing, education, and outreach
+(“ME&O”) funds to ensure meaningful and lasting implementation
+12 See, for example, VGI WG Recommendation 3.01, 3.03, 3.04, 3.05, 3.07, and 2.01. These barriers include those
+related to metering requirements, the Wholesale Distribution Access Tariff for grid exports, Resource Adequacy
+value for grid exports, and the Demand Response Auction Mechanism.
+13 PD at 22.
+8
+
+Several VGI WG recommendations and party comments demonstrate support for ME&O
+strategies to advance VGI.14 While OP 5 directs IOUs to identify education and outreach tactics
+related to specific VGI strategies, Joint Commenters wonder whether merely asking IOUs to
+identify strategies will lead to sufficient ME&O necessary to support VGI implementation and
+expansion. Instead, Joint Commenters recommend OP 5 be revised to require identifying a
+portion of future TE program ME&O budgets to educate customers about VGI opportunities. OP
+5 should be revised per Joint Commenters’ redlines in Appendix A.
+H. OP 6 should be revised to account for the role of automotive original equipment
+manufacturers (“OEMs”)/EV service providers (“EVSPs”) in customer education and
+evaluation concerning ALM systems and other VGI strategies
+The PD does not detail the role of third-party providers in delivering ALM technologies and
+other VGI strategies to customers, including critical customer ME&O activities, which third-
+party providers may be particularly well-suited to provide. Notably, if IOUs were directed to
+partner with OEMs/EVSPs, they would capitalize on the combined centuries of experience that
+OEMs/EVSPs have in marketing and engaging directly with customers in a competitive
+environment. In opening comments on the Draft TE Framework (“Draft TEF”), Southern
+California Edison (“SCE”) included data highlighting that OEMs are overwhelmingly the
+primary channel for customers seeking information on EVs, as well as the primary channel for
+information on incentives. Furthermore, SCE’s findings state “most (94%) customers feel that
+the automotive companies should be responsible for advertising related to EVs.”15 In addition,
+the PD does not adequately acknowledge the beneficial role OEMs/EVSPs may be able to play
+in collecting collect information on the load profiles for managed charging.16 If this information
+is collected solely from utility meters, it could miss more granular data available from
+EVSP/OEM sources that the IOUs could leverage. As such, Joint Commenters recommend OP 6
+be revised per Appendix A redlines to meet customer needs and expectations for the third-party
+providers role in ME&O as it relates to ALM and other VGI strategies.
+14 VGI WG recommendation 1.10 and 9.03; VGI WG Final Report at 9; Joint Commenters comments at 13; UCS
+comments at 12.
+15 Southern California Edison Company’s (U 338-E) Opening Comments on Equity, VGI, and ME&O (Sections 6,
+11.1, and 11.2) – Attachment A “Southern California Edison EV Awareness and Advertising Online Panel
+Research” at 2-4.
+16 PD at 54.
+9
+
+IV. KEY AREAS REQUIRING CLARIFICATION OR EXPANSION.
+A. Criteria used to determine whether a strategy should be adopted pursuant to SB 676
+excludes strategies that may provide significant net benefits to ratepayers
+The PD adopts three strategies as VGI strategies pursuant to SB 676,17 declines to adopt two
+VGI WG strategies as VGI strategies,18 and adopts the remaining six strategies as VGI strategies
+not pursuant to SB 676.19 By and large, the Commission’s categorization of SB 676 and non-SB
+676 strategies seems to hinge on an underdefined rubric which might address whether a
+particular strategy is cost effective or not – as well as uncertainties in whether the strategy
+robustly addresses feasibility criteria. For example, in its discussion of reforming retail rates, the
+PD offers as justification that “reforming retail rates is feasible and low-cost with high potential
+benefit, as demonstrated by the parties.”20 For both interconnection reform and non-
+interconnection standards, the PD offers as justification the terms “low-cost” and “feasible,”
+though it does not mention potential benefits.21 However, regarding discussion of EVs for bi-
+directional non-grid export power the PD states, “due to the lack of data concerning cost-
+effectiveness, it cannot be adopted as a SB 676 strategy at this time.”22 Joint Commenters are
+concerned about this for two reasons: first, the Commission does not appear to acknowledge that
+cost-effectiveness can be more comprehensive than economic savings. As has been discussed by
+multiple signatories to these comments, adopting a measure of cost that does not attempt to
+capture broader benefits, including societal benefits, is counterproductive and reductive, as it
+may prematurely or unfairly classify certain strategies as not worth pursuing, despite having
+valuable benefits under a more holistic accounting of benefits. Second, this approach may
+prematurely and artificially limit VGI strategies that could be adopted pursuant to SB 676. For
+some strategies, defensible data regarding costs, benefits and value are available and could be
+17 (1) Reforming retail rates, (2) reform of interconnection rules, and (3) development, support and approval of non-
+interconnection standards. See PD at 15, 22, and 23.
+18 (1) enhance coordination and consistency between agencies and state goals, and (2) conduct other non-VGI
+specific programs and activities to increase EV adoption. See PD at 24.
+19 (1) Develop and fund government and load-serving entity customer programs, incentives, and Distributed Energy
+Resource procurements. PD at 17; (2) Design wholesale market rules and access. PD at 18; (3) Pilots,
+demonstrations, emerging technology, and studies. PD at 19; (4) Accelerate use of EVs for bi-directional non-grid
+export power and PSPS resiliency and backup. PD at 20; (5) Marketing, Education, and outreach. PD at 23.
+20 PD at 16.
+21 PD at 22 and 23.
+22 PD at 21.
+10
+
+used to assess the strategies through normal methods (e.g., Avoidable Cost Calculator and
+California Air Resources Board’s CalEnviroScreen Tools). Meanwhile, for other strategies,
+sharing information on costs remain a challenge for OEMs, which must comply with relevant
+antitrust laws that prevent disclosure of cost information. In other cases, while costs are
+quantifiable, the benefits are real and known, but difficult to quantify in the strategy’s infancy. In
+any of these cases, it would be pre-mature to reject a VGI strategy solely on the basis of cost-
+effectiveness, and the Joint Commenters recommend that any rejected strategies be re-evaluated
+as part of either the third-party evaluation process or the annual reporting process outlined in the
+PD. Moreover, if it is necessary to obtain cost data, the Joint Commenters recommend the third-
+party evaluator work with industry to confidentially collect and anonymize any competitively
+confidential cost information. Finally, the Commission’s evaluation criteria should be revised to
+consider potential high-benefit opportunities – including, critically, where equity considerations
+would be furthered – where evaluating cost-effectiveness is simply a matter of applying available
+methods. Indeed, the Commission should consider pursuing likely high-benefit, high-value
+strategies at scale, pursuant to SB 676, regardless of an arbitrary definition of cost or feasibility.
+B. Several key terms are left undefined
+The Joint Commenters note that some key terms within the PD remain undefined. This
+includes the terms “cost-effectiveness”, “feasible”, and “beneficial.” As discussed briefly above,
+many of the decisions on whether to pursue a strategy at scale or whether a strategy should be
+pursued as a SB 676 strategy or not are predicated on undefined measures. For example, the
+Commission states that “any strategies adopted by this decision pursuant to SB 676 must
+maximize the use of “cost-effective” VGI, meaning that the strategies themselves need to be
+shown to be cost-effective at the time of establishment. However, it is not clear that cost-
+effective from the Commission’s perspective means anything more than driving down the cost of
+electricity supply – while this is of course a key goal of SB 676, such a narrow definition gives
+short shrift to broader ratepayer benefits, which the PD gives a nod to, but fails to explore more
+comprehensively. As well, it is unclear whether feasibility is from the perspective of a VGI
+service provider, the utility or the Commission – given that those entities might have vastly
+different perceptions of what is possible, this is an important clarification. Joint Commenters
+seek clarity on the definition of those terms.
+11
+
+C. The Commission should provide more detail on how adoption of Reform Retail Rates as
+a VGI strategy interacts with the draft TEF
+The PD adopts Reform Retail Rates as a VGI strategy pursuant to SB 676, and states “A
+future Commission decision regarding the rates section 9.1 of the draft TEF (Electric Vehicle
+Rate Evolution Plan Development Guidance) and / or other decisions may provide additional
+direction regarding rate reforms applicable to EVs.” 23 Joint Commenters respectfully request
+additional detail on how this element of the PD might interact with the draft TEF’s proposed EV
+Rate Evolution Plan (“EV REV Plan”) concept.24 More specifically, Joint Commenters believe
+more direction is needed as to whether utilities should start to pursue a reform of retail rates now
+or wait for future clarification in a forthcoming decision, how this relates to existing proceedings
+and efforts, including dynamic rates proposals under consideration in PG&E and SDG&E
+General Rate Cases and PG&E’s commercial EV dynamic rate application, and when to expect a
+decision on the EV REV plan concept.
+D. Joint Commenters respectfully request clarification that non-interconnection technical
+standards are adopted pursuant to SB 676
+Section 5.7 of the PD discusses technical standards not related to interconnection. As written,
+the discussion states:
+“this decision finds that development of such standards should be a non-SB 676 VGI strategy
+given that the development of new technology requires the adoption or revision of one or
+more technical standards. Because the development, support and approval of non-
+interconnection technical standards related to VGI services is generally low cost and is
+feasible to pursue, this strategy is adopted by this decision as a VGI strategy pursuant to SB
+676.”25
+These successive sentences contradict each other. Joint Commenters respectfully request the
+Commission revise the language in this discussion section to clarify that, indeed, non-
+interconnection technical standards are adopted as a VGI strategy pursuant to SB 676 for the
+reasons articulated.
+E. Stakeholders would benefit from an Appendix that illustrates the overlapping timelines
+stemming from the PD
+23 PD at 16.
+24 Draft TEF at Section 9.1.
+25 PD at 23.
+12
+
+The PD orders a workshop, several Advice Letter filings, consultation with Energy Division
+staff, and regular reporting requirements, all ranging from 30 days from adoption of the PD to
+March 2031. Joint Commenters urge the Commission to include an Appendix to clearly illustrate
+the many overlapping timelines to promote transparency and facilitate stakeholder engagement.
+F. A focus on unique aspects of VGI opportunities for the MD/HD EV sector is still lacking
+Joint Commenters support the expansion of the vehicle-grid integration definition to include
+medium-, heavy-duty, and off-road vehicle and equipment. However, the Commission only
+mentions larger vehicles twice, rather unconvincingly. First, they give consideration to
+CALSTART’s argument that “deployment of VGI for medium and heavy-duty charging offers a
+large opportunity to avoid distribution upgrades and…IOU TE program ‘make-ready’ costs”26 by
+stating that electrical corporations are now required to “identify in annual VGI reporting
+deployment the number of ALM technologies installed for any medium and heavy-duty
+segment(s).”27 As well, the Commission says utilities must “consider” medium- and heavy-duty
+vehicles for pilots28 and break out larger vehicles with respect to VGI metrics.29 However, these
+actions do not adequately recognize the deep potential for VGI among larger commercial
+vehicles. Given the larger battery of these vehicles and, for some vehicles like school buses, a
+predictable duty cycle that lends itself to provision of grid services, commercial vehicles can be
+an excellent focus for VGI efforts; as well, given the large power draw, it is even more important
+to ensure that these vehicles are a benefit, rather than a burden to the grid. As such, the
+Commission should require, not encourage, utilities to pursue VGI strategies that focus on
+harnessing the VGI capabilities of larger vehicles.
+V. CONCLUSION.
+Joint Commenters appreciate the opportunity to submit these opening comments on the
+PD concerning SB 676 implementation. We look forward to further collaboration with the
+Commission and stakeholders on this initiative.
+26 Id. at 29.
+27 Id.
+28 Id. at 40.
+29 Id. at 52.
+13
+
+Dated: December 3, 2020 Respectfully submitted,
+/s/ Edward Burgess /s/ Ryan Harty
+Edward Burgess Ryan Harty
+Vehicle-Grid Integration Council American Honda Motor Co., Inc.
+2150 Allston Way, Suite 400 1919 Torrance Blvd.
+Berkeley, CA 94704 Torrance, CA 90501
+Tel: (510) 665-7811 Tel: (310) 783-3962
+Email: vgicregulatory@vgicouncil.org Email: Ryan.Harty@ahm.honda.com
+/s/ Marc Monbouquette /s/ Matt Stanberry
+Marc Monbouquette Matt Stanberry
+Enel X North America, Inc. Advanced Energy Economy
+846 Bransten Road 1000 Vermont Ave. NW, 3rd Floor,
+San Carlos, CA 94070 Washington, D.C. 20005
+Tel: (415) 488-6035 Tel: (202) 380-1950
+Email: marc.monbouquette@enel.com Email: mstanberry@aee.net
+/s/ Jin Noh /s/ Larissa Koehler
+Jin Noh Larissa Koehler
+California Energy Storage Alliance Environmental Defense Fund
+2150 Allston Way, Suite 400 123 Mission Street, 28th Floor
+Berkeley, CA 94704 San Francisco, CA 94105
+Tel: (510) 665 7811 Tel: (415) 293-6093
+Email: cesa_regulatory@storagealliance.org Email: lkoehler@edf.org
+/s/ Megha Lakhchaura /s/ Thomas Ashley
+Megha Lakhchaura Thomas Ashley
+EVBox, North America Greenlots
+1930 Innovation Way, Suite 200 767 S. Alameda St, Suite 200
+Libertyville, IL 60048 Los Angeles, CA 90021
+Tel: (310) 309-7775 Tel: (802) 922-5585
+Email: megha.lakhchaura@evbox.com Email: tom@greenlots.com
+/s/ Miles Muller /s/ Chris King
+Miles Muller Chris King
+Natural Resources Defense Council Siemens
+111 Sutter Street, 21st Floor 721 Shell Blvd, Suite 205
+San Francisco, CA 94104 Foster City, CA 94404
+Tel: (415) 875-8254 Tel: (510) 435 5189
+Email: mmuller@nrdc.org Email: chris_king@siemens.com
+14
+
+Appendix A
+Recommended Redlines
+PD PROPOSED DECISION CONCERNING IMPLEMENTATION OF SENATE
+Title BILL 676 AND VEHICLE-TO-GRID VEHICLE-GRID INTEGRATION
+STRATEGIES
+Finding ALM has the potential to vary the charging of grid-connected EVs in a way that
+of Fact optimizes grid performance and maximizes ratepayer benefits by avoiding upgrades
+13: to customer-side, secondary, and primary distribution system infrastructure.
+OP Redline / Reference to Above Joint Comments
+1 …efforts to collaborate with the California Independent System Operator to design
+wholesale market rules and access that support VGI as defined by this decision;
+efforts within Commission jurisdiction and IOU capabilities to facilitate wholesale
+market participation and access that advances VGI strategies in coordination with
+reforms underway at the California Independent System Operator.
+3 Southern California Edison Company, San Diego Gas & Electric Company, and
+Pacific Gas and Electric Company shall each: -
+collaborate with the California Independent System Operator to design
+wholesale market rules and access that support Vehicle Grid Integration as
+defined by this decision;
+as part of its annual and midterm reporting on VGI activities, the IOUs shall seek
+input from the CAISO and use any input received to provide a joint status report
+on collaboration activities
+4 Southern California Edison Company, San Diego Gas & Electric Company, and
+Pacific Gas and Electric Company shall, each, in all of its future applications for
+transportation electrification (TE) programs, tariffs for utility-side distribution
+infrastructure for separately metered electric vehicle charging installations pursuant
+to AB 841 (Ting, 2020), and including any other rule or tariff to support TE
+infrastructure installation:
+propose how it will incentivize and deploy customer-side Automated Load
+Management (ALM) technology at host sites where this technology will to support
+TE installation at equal or lesser costs than hardware-based electrical capacity for
+existing and new utility electrical service, and in a manner that yields net ratepayer
+benefits;
+describe its standard evaluation criteria to determine host sites where ALM would
+reduce infrastructure costs and benefit ratepayers by reducing costs utilizing
+existing utility electrical service as much as practical and feasible while meeting host
+site needs for electric vehicle charging;
+5 identify strategies for educating host site customers on the benefits of 1) voluntarily
+passing time-of-use rate signals to electric vehicle drivers and, 2) participating in
+i
+
+any demand response program(s) for which the host site customers are eligible;
+identify how it will establish outreach materials and load management tactics to
+reduce any grid impacts from host site customers that opt out of a default agreement
+to pass on time-of-use pricing; include in all future TE plans a detailed description
+of how the portion of ME&O budget allocated to the above activities will be used,
+and identification of opportunities to partner with market participants to strengthen
+IOU ME&O activities or meet gaps in IOU ME&O activities
+6 Southern California Edison Company, San Diego Gas & Electric Company, and
+Pacific Gas and Electric Company shall each partner with OEMs and EVSPs to
+provide customer education and evaluate effectiveness of these in achieving and
+sustaining customer acceptance once wherever these Automated Load Management
+systems are installed.
+8 Southern California Edison Company, San Diego Gas & Electric Company, and
+Pacific Gas and Electric Company shall jointly host a workshop in the first quarter
+of 2021 to educate potential solicit feedback from Vehicle Grid Integration (VGI)
+demand response providers and other interested stakeholders on demand response
+opportunities and identify any barriers to participation for VGI resources and
+strategies to overcome barriers… Southern California Edison Company, San Diego
+Gas & Electric Company, and Pacific Gas and Electric Company shall jointly serve
+to the service list of this proceeding and the service list for Application 17-01-012 a
+post-workshop report within 30 days of the workshop that identifies any barriers to
+VGI participation in demand response programs, or any other programs such as bids
+for resource adequacy services to be delivered in 2022 per Decision 19-07-009. The
+utilities shall also request approval for a plan to overcome or partially alleviate each
+DR barrier in pursuit of facilitating 200 MW combined of VGI in next DR cycle
+portfolio and bids for resource adequacy services to be delivered per Decision 19-
+07-009.
+11 See Section II.D / Page 6 above
+ii

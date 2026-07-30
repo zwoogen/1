@@ -1,0 +1,207 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING IMPROVEMENTS TO DISTRIBUTION
+PLANNING AND PROJECT EXECUTION PROCESS, DISTRIBUTION RESOURCE
+PLANNING DATA PORTALS, AND INTEGRATION CAPACITY ANALYSIS MAPS
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: October 3, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING IMPROVEMENTS TO DISTRIBUTION
+PLANNING AND PROJECT EXECUTION PROCESS, DISTRIBUTION RESOURCE
+PLANNING DATA PORTALS, AND INTEGRATION CAPACITY ANALYSIS MAPS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Proposed Decision Adopting Improvements to Distribution Planning and
+Project Execution Process, Distribution Resource Planning Data Portals, and Integration
+Capacity Analysis Maps (“PD”) issued by Commissioner Houck on September 13, 2024.
+I. INTRODUCTION.
+VGIC commends the Commission for beginning the much-needed process of updating
+California’s distribution planning paradigms and processes to accommodate the high amounts of
+additional load and generation connecting to California’s distribution grid. While many sectors are
+electrifying, transportation electrification, especially for medium- and heavy-duty vehicle sites, is
+rapidly becoming one of the largest sources of new load with projects that often exceed several
+megawatts (“MW”) and can be deployed with relatively short customer-side construction
+timelines. Planning for and managing electric vehicle (“EV”) load is critical. California is currently
+experiencing an energy affordability crisis, and while much of the increase in electric utility rates
+to date has been driven by wildfire mitigation costs, distribution system upgrades will add
+2
+
+significant new costs. At the same time, new load and increased off-peak kWh sales may put
+downward pressure on rates. Ensuring that kWh sales are maximized while distribution upgrades
+are minimized to the extent possible is key to ensuring affordability. Notably, vehicle-grid
+integration (“VGI”) initiatives that encourage more efficient use of electrical infrastructure, like
+managed charging programs and bidirectional charging efforts, are one of the few tools in the
+toolkit to unlock downward pressure on rates.
+The PD makes many essential modifications to improve distribution optimization in the
+long term. Generally, VGIC supports the PD’s distribution planning proposals, including better
+incorporating known load data into distribution plans, utilizing more recent Integrated Energy
+Policy Report (“IEPR”) load forecasts, extending the distribution planning horizon, and other
+modifications to make distribution planning more proactive. VGIC also supports many of the
+proposed modifications to the Integrated Capacity Analysis (“ICA”) maps and the focus of the
+Commission on increasing accuracy for the Load ICA in particular. VGIC strongly supports the
+Commission adopting our recommendation to establish a venue for regular discussion of the ICA
+maps in the form of quarterly workshops.
+However, the PD does not adequately consider the actions the utilities can take now to
+allow additional EV load to come online in the near term and to further optimize the integration of
+EV charging into the existing distribution system. In particular, flexible service connections and
+Limited Load Profiles (“LLPs”) have the potential to enable additional load to come online in the
+near term and provide data and experiences that can be used to optimize long-term VGI. To that
+end, VGIC offers the following comments on the PD:
+● The Commission should establish standardized flexible service connection offerings.
+● The PD should enable the implementation of Limited Load Profiles in the ICA maps.
+3
+
+● The Electrification Impact Study (“EIS”) Part 2 Study should include multiple managed
+charging scenarios and considerations for EV load mitigation strategies.
+II. THE COMMISSION SHOULD ESTABLISH STANDARDIZED FLEXIBLE
+SERVICE CONNECTION OFFERINGS.
+The Commission has recently focused on energization timelines and ensuring that new
+loads can connect to the grid in a timely manner. The Commission has taken action to implement
+average and maximum energization timelines for the investor-owned utilities (“IOUs”), but
+timelines for constructing grid upgrades are still multiple years long.1 VGIC strongly believes that
+the Commission should take action to address near-term needs by enabling the widespread use of
+flexible service connections. These connections allow customers to energize their load in a flexible
+manner, typically to accommodate distribution grid constraints.
+The Staff Proposal discusses flexible service connections as bridging strategies, stating that
+projects triggering distribution upgrades can be energized “temporarily, until the upgrade is
+completed, using temporary load flexibility via voluntary load curtailment for specific limited
+times or DER assets such as mobile batteries.”2 As discussed in the PD, PG&E and SCE are
+considering different flexible service connections and conducting pilots for different types of
+bridging solutions. These plans should be further outlined for stakeholders, and VGIC supports
+the PD’s requirement that the utilities submit their plans for bridging strategies by December 15,
+2024. The Staff Proposal also recommends that the utilities provide updates on implementing their
+plans in the annual DDOR. The PD adopts the requirement for utilities to provide a bridging
+strategies proposal, but declines to require their implementation or annual reporting. The PD states
+1 D.24-09-020 at 47.
+2 Staff Proposal at 54.
+4
+
+that this is because “processes for long-term, scalable load management as a bridging solution do
+not exist for evaluation and execution.”3 However, the Commission could begin the regulatory
+process to gather proposals for evaluation.
+The Commission should take broader action now to create widely available flexible service
+connections in order to enable near-term and longer-term ratepayer savings. Flexible service
+connections leverage technologies that are available today, and allow load to come online and
+increase efficient use of existing electrical infrastructure. Critically, electrification projects
+leveraging flexible service connections, by definition, add off-peak load, since service upgrades
+need to be made to accommodate peak load. This makes flexible service connections one of the
+only tools the Commission has to curb the outsized ratepayer impacts already felt by millions
+of Californians. While important bridging solutions, the development of flexible service
+connections will lead to the creation of different forms of Limited Load Profiles (“LLPs”), which
+can be used to establish long-term agreements for flexible load.
+Enphase has raised this issue in this instant proceeding and the Energization Timelines
+proceeding (R.24-01-018), submitting motions to open a regulatory process to standardize flexible
+service connections and implement LLPs.4 VGIC strongly believes that Enphase’s motion should
+be approved in the Energization Rulemaking. Importantly, the Commission must not further
+postpone addressing these issues by debating the proper regulatory venue for discussion. As the
+Commission looks to expand the development of flexible service connections, the plans submitted
+3 PD at 89.
+4 Motion of Enphase Energy, Inc. to Amend Scoping Ruling and Schedule to Address Optional Flexible Connection
+Agreements and the Underwriters’ Laboratory 3141 Standard for Power Control Systems in Investor-owned
+Utilities’ Energization Rules filed by Enphase Energy in R.24-01-018 on September 11, 2024.
+5
+
+by the IOUs on bridging strategies can be used as the starting point for broader party proposals,
+workshops, and other discussions.
+III. THE PD SHOULD ENABLE THE IMPLEMENTATION OF LIMITED LOAD
+PROFILES IN THE ICA MAPS.
+VGIC encourages the Commission to direct the utilities to begin planning for incorporating
+Limited Load Profiles in the Load ICA maps now. As discussed above, it is important for the
+Commission to leverage widespread flexible service connections as soon as possible. It is likely
+that this will take the form of LLPs with import limits that vary throughout the day, similar to the
+Limited Generation Profiles (“LGPs”) with varying export schedules. The PD adopts Staff’s
+recommendation to modify the ICA maps to enable straightforward customer creation of LGPs,
+and VGIC recommends that the Commission also adopt plans to enable similar straightforward
+integration for Limited Load Profiles.
+Once a broader flexible service connection framework is adopted, customers will need to
+have access to information on grid constraints throughout the day and year in order to decide
+whether an LLP will work for them. Having data be publicly accessible in the Load ICA will be
+the easiest way for customers to conduct their own inquiries into how different sites can utilize
+LLPs. The ICA maps can also be valuable tools for utilities to use internally to gather information
+to present to customers. VGIC supports the PD’s requirement for PG&E to utilize their Load ICA
+to reduce the length of their intake process for energization applications. Broadly, VGIC sees a
+future where both the utilities and customers utilize the ICA maps to aid in the implementation of
+LLPs for a given site.
+Given the amount of work and data that will be required to integrate LLPs into the ICA
+maps, VGIC suggests that the Commission signal its intention to enable this use case in this
+6
+
+decision. This way, the utilities can provide updates on how they plan to implement LLPs in their
+Annual Load ICA Refinements Reports. There may also be opportunities to leverage the work
+being done for other Load ICA refinements or general ICA refinements to gather the necessary
+information for LLPs, reducing the need for the IOUs to go back to collect this data later.
+IV. THE ELECTRIFICATION IMPACT STUDY PART 2 STUDY SHOULD
+INCLUDE MULTIPLE MANAGED CHARGING SCENARIOS AND
+CONSIDERATIONS FOR EV LOAD MITIGATION STRATEGIES.
+VGIC supports the inclusion of the Load Flexibility Assessment in Part 2 of the
+Electrification Impact Study (“EIS”) being conducted by the utilities. The PD states that the Part
+2 EIS will “estimate and assess potential impacts (e.g., potential costs of upgrading the primary
+and secondary distribution grid) of meeting electrification needs under multiple scenarios.”5 VGIC
+supports the inclusion of multiple scenarios in the Part 2 study, and we reiterate our previous
+recommendations to include the following managed charging scenarios:
+● Baseline EV Load Management, based on the assessment that has already been completed
+in Part 1 of the study.
+● Mid EV Load Management, based on updated IEPR assumptions compared to the Part 1
+study, which reflect higher TOU rate participation from EVs.
+● High EV Load Management, based on the inputs and assumptions for high EV load
+management used in the June 2023 Updated Integrated Resource Planning Inputs and
+Assumptions document.6
+5 PD at 95.
+6 Inputs & Assumptions, 2022-2023 Integrated Resource Planning (IRP), June 2023. https://www.cpuc.ca.gov/-
+/media/cpuc-website/divisions/energy-division/documents/integrated-resourceplan-and-long-term-procurement-
+plan-irp-ltpp/2023-irp-cycle-events-andmaterials/draft_2023_i_and_a.pdf
+7
+
+● High EV Load Management + EV Charger Export, based on the inputs and assumptions
+used in the June 2023 Updated Integrated Resource Planning Inputs and Assumptions
+document.7
+It is clear that EVs will be adding a significant portion of the new load that is triggering distribution
+upgrade needs, and it is therefore clear that management of EV charging load is key to reducing
+the overbuild of the distribution system and reducing the ratepayer costs of this build out. For
+example, the EIS Part 1 Study and Cal Advocates’ Distribution Grid Electrification Model
+(“DGEM”) Study have drastically different cost estimates to upgrade the distribution system
+because their assumptions around EV charging profiles differ, leading to varying load peaks and
+distribution needs. Including multiple scenarios will allow the Commission and stakeholders to
+evaluate how managing charging profiles can help reduce ratepayer costs. This will influence
+California’s efforts to expand managed charging programs and provide a more thorough
+assessment of the ratepayer costs and benefits for different managed charging initiatives.
+For this reason, VGIC also continues to recommend that the Part 2 Study evaluate the
+potential for software- and hardware-based solutions to manage EV charging load specifically for
+local grid constraints (i.e., as opposed to system-level needs), including:
+● Platforms to manage EV charging load on the distribution system.
+● Site-level EV load management utilizing power-sharing software across several chargers
+at a single customer site.
+● Storage-backed EV charging and DER-paired EV charging.
+7 Ibid.
+8
+
+This will provide California with valuable information about how to shape load and maximize
+California’s ability to transition to EVs while also minimizing costs to ratepayers as much as
+possible.
+V. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the Proposed Decision.
+We look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: October 3, 2024
+9

@@ -1,0 +1,95 @@
+July 5, 2021
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle-Grid Integration Council to Advice Letter 4518-E of
+Southern California Edison
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 4518-E of Southern
+California Edison Company (“SCE”), Request for an Exemption to Public Utilities Code Section
+851 and Implementation Plan for Programs and Projects Funded with Low Carbon Fuel Standard
+Holdback Residential Base Charging Credit and Electric Forklift Credit Proceeds (“Advice
+Letter”), submitted on June 15, 2021.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable, and
+efficient electric grid.
+II. DISCUSSION.
+In reviewing the Advice Letter, VGIC supports the proposed 2021-2024 Holdback
+Implementation Plan and recommends it be adopted without delay to fulfill the intent of Decision
+(“D.”) 20-12-027. VGIC is generally supportive of SCE’s proposed plan to direct $2.6 million
+toward a V2B School Bus project providing backup power to a critical IT facility for Baldwin Park
+Unified School District (BPUSD). The Advice Letter also discusses Mid-Term Resiliency Projects,
+
+July 5, 2021
+Page 2 of 3
+stating that “the ability for passenger EVs to participate in V2B or V2G activities is a longer-term
+opportunity for leveraging EVs as a resiliency energy source.”1
+While not objecting to the proposed Implementation Plan, VGIC believes the assertion that
+V2B/V2G activities is a longer-term opportunity is erroneous and should be corrected.
+Commercially-available bidirectional EVs and EVSE have been deployed and are in use today.2
+Additionally, D.20-09-035 confirmed that bidirectional EVSE can interconnect under the Rule 21
+interconnection pathway.
+SCE further states that: “Texas homeowners used onboard generators in pick-up trucks to
+heat their homes, it is anticipated that EV manufacturers will look to provide similar services.
+However, it is unclear what form this will take with regards to EVs.” 3 VGIC notes that the recently
+announced Ford F-150 Lightning – available in early 2022 – will be capable of providing this
+service.4 Therefore, VGIC believes it is not merely anticipated that EV manufacturers will look to
+provide V2B services, but rather a demonstrated certainty that these services will be in use in the
+near-term.
+Furthermore, SCE concludes they will reserve any unspent part of the 20% of LCFS
+holdback used to support resiliency and states, “this would ensure a pool of funding is available to
+support [V2B and V2G] market once solutions are widely available.” VGIC reiterates that solutions
+are available and questions the value of placing unspent funds into a reserve pool, rather than using
+these funds to support market development in the near-term. As such, VGIC respectfully requests
+SCE consider how to accelerate the use of LCFS Holdback Funds – including the anticipated
+unspent pool of funding – for V2B and V2G projects, and we encourage SCE to re-frame the
+1 Advice Letter Appendix A at 68.
+2 See, for example, Fermata https://www.fermataenergy.com/news-press/new-partnership-combines-
+electric-carsharing-with-vehicle-to-grid-technology-alliance-center-colorado-carshare-fermata-energy and
+Nuvve and BlueBird https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/.
+See also announcements from ABB https://cleantechnica.com/2020/10/14/11-kw-bi-directional-abb-
+chargers-coming-to-france-uk-germany-italy-belgium/, Audi https://electrek.co/2020/07/24/audi-bi-
+directional-charging-electric-cars-store-solar-energy/, Daimler https://www.axios.com/electric-school-buses-
+vehicle-to-grid-power-19f7b6b1-662b-4501-a96e-dcf3fd57a886.html, Ford
+https://www.ford.com/trucks/f150/f150-lightning/2022//?intcmp=hp-bb-f150-lightning, Lucid Motors
+https://www.autoblog.com/2020/08/19/lucid-air-ev-charging-v2g-300kw-900v-electrify-america/, Mitsubishi
+https://www.theverge.com/2019/3/6/18252883/mitsubishi-dando-drive-home-power-battery-electric-car-
+plug-in-hybrid, Nissan https://cleantechnica.com/2018/11/29/nissan-using-vehicle-to-grid-technology-to-
+power-us-operations/, dcbel https://cleantechnica.com/2020/08/02/ossiaco-has-built-the-one-home-solar-
+inverter-to-rule-them-all/, Proterra https://www.raconteur.net/infrastructure/v2g-school-buses/, Rhombus
+Energy Solutions
+https://www.prweb.com/releases/rhombus_energy_solutions_announces_ul_1741sa_certification_for_its_a
+c_dc_high_power_conditioning_systems_for_fleet_electric_vehicles/prweb17308158.htm, and Wallbox
+https://electrek.co/2020/01/06/wallbox-quasar-tesla-nissan/.
+3 Advice Letter Appendix A at 68.
+4 Ford Intelligent Backup Power Solution could provide backup power for up to 10 days.
+https://www.ford.com/trucks/f150/f150-lightning/2022//?intcmp=hp-bb-f150-lightning
+
+July 5, 2021
+Page 3 of 3
+opportunity for V2B/V2G as a set of near-term use cases that leverage commercially-available (and
+in many cases, already deployed) technologies, or technologies that will become commercially
+available in the next 1-2 years. As such, VGIC recommends SCE submit an updated implementation
+plan detailing their Mid-Term Resiliency Projects (e.g., in 6 months).
+VGIC thus submits this response to the Advice Letter and respectfully requests that its
+implementation not be unduly delayed due to the issues raised herein. VGIC offers its time and
+resources to Energy Division staff, Commissioners, SCE, and other stakeholders to support
+addressing this issue in a timely manner.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to SCE’s Advice Letter. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+cc: Shinjini C. Menon, SCE (AdviceTariffManager@sce.com)
+Tara S. Kaushik c/o Karyn Gansecki (Karyn.Gansecki@sce.com)
+Rebecca Meiers-De Pastino (Rebecca.Meiers.DePastino.@sce.com)
+Service list R.18-12-006

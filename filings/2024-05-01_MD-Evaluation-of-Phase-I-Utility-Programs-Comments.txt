@@ -1,0 +1,123 @@
+May 1, 2024
+Andrew S. Johnston
+Executive Secretary
+Maryland Public Service Commission
+William Donald Schaefer Tower
+6 St. Paul Street, 16th Floor
+Baltimore, Maryland 21202
+Re: Case No. 9478; Comments of Vehicle-Grid Integration Council on the Evaluation of
+Phase I Utility Programs
+Dear Mr. Johnston,
+Vehicle-Grid Integration Council (VGIC)1 respectfully provides its comments in response to the
+Maryland Public Service Commission’s (“Commission”) April 2, 2024 Notice of Hearing
+(“Notice”) in Case No. 9478, regarding Evaluation of Phase I Utility Programs.
+I. Introduction
+VGIC is a 501(c)(6) membership-based advocacy group committed to advancing the role of
+electric vehicles (EVs) and vehicle-grid integration (VGI) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+II. Comments
+VGIC appreciates the continued reporting by Maryland utilities, including Baltimore Gas and
+Electric, Potomac Edison Company, Potomac Electric Power Company, Delmarva Power &
+Light, and Southern Maryland Electric Cooperative throughout the Phase I program cycle. These
+reports highlight the effectiveness of many of the EV programs as well as lessons learned. In
+VGIC’s view, the Phase I programs have met their intended goals, and the utilities should
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner,
+Fermata Energy, Ford Motor Company, General Motors, Nissan Group of North America, Bidirectional
+Energy, Customized Energy Solutions, dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy,
+FreeWire Technologies, Inc., GridWiz, Kaluza, Landis + Gyr, Leapfrog Power, Inc., Nuvve Holding
+Corporation, Peak Power, PowerFlex, Qcells, Stellantis N.V., Sumitomo Electric, The Mobility House,
+Toyota Motor North America, Inc., WeaveGrid, Hoosier Energy, Peninsula Clean Energy, and
+Sacramento Municipal Utility District. The views expressed in these Comments are those of VGIC, and do
+not necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/)
+1
+
+continue to extend and expand successful pilots and programs and develop new elements that
+address evolving EV charging needs, create benefits for customers and communities, and
+advance Maryland’s state policies focused on promoting transportation electrification and
+reducing greenhouse gas emission.
+EV adoption continues to increase in Maryland as the total number of registered EVs is nearly
+100,000.2 If the electric vehicle transition is done right, the societal benefits will be significant.
+An M.J. Bradley study commissioned by the Union of Concerned Scientists found that
+accelerating the deployment of clean vehicles and fuels at scale could yield a net benefit of
+almost $40 billion by 2050.3 However, the State of Maryland may not realize many of these
+benefits if charging is not managed and largely occurs outside the low-cost times on the grid.
+One common theme seen throughout the reports is participants’ interest and willingness to
+charge during low-cost times. BGE has reached its enrollment cap on the home charging
+incentive (2,500 customers) and now has 2,654 customers on its EV-only time-of-use (TOU) rate
+and has effectively implemented its active managed charging demonstration with 2,804
+customers enrolled, shifting charging to low forecasted PJM times and launching a new phase
+which focuses on distribution asset protection.4 For Potomac Edison, the Company has enrolled
+518 customers in its EV-only time-of-use rate leveraging EVSE and telematics options for
+customers, where only nearly 80% of customers were satisfied with the accuracy of usage data.5
+For Delmarva Power & Light Company and Potomac Electric Power Company (PHI Utilities),
+the Smart Charge Management has demonstrated a significant reduction in on-peak charging.
+PHI Utilities’ most recent semi-annual EV report highlights the benefits of active managed
+charging, where charging is automated to align with PJM signals and minimize loading on
+distribution assets, providing significant costs savings while further reducing non-coincident
+peak.6 In Guidehouse’s Evaluation, the key findings for each program note the general off-peak
+2 Maryland Department of Transportation. Number of Registered BEVs and PHEVs by County.
+March 31, 2024. Online at:
+https://experience.arcgis.com/experience/d8d908d9e62f4054b14ec8f6cbb5392b/page/Dashboa
+rd-%26-Metrics/
+3 Lowell, D., A. Saha, and C. Van Atten. 2018. Decarbonizing transportation: The benefits and
+costs of a clean transportation system in the Northeast and Mid-Atlantic Region. M.J. Bradley &
+Associates, LLC.
+Online at: https://www.ucsusa.org/sites/default/files/attach/2019/02/Cost-and-Benefits-of-Clean-
+Transportation-MD.pdf
+4 Baltimore Gas and Electric Company. Electric Vehicle Program Phase II Proposal of Baltimore
+Gas and Electric Company. May 24, 2023. Pg. 2 and Pg. 8.
+5 The Potomac Edison Company. EV Phase II Program Proposal of The Potomac Edison
+Company. March 1, 2024. Pg. 7 and Pg. 54.
+6 PHI Utilities. Final Program and Semi-Annual Progress Report of Delmarva Power & Light
+Company and Potomac Electric Power Company Regarding Implementation of Approved
+Electric Vehicle Charging Program Offerings. March 1, 2024. Pg. 19 - 24.
+2
+
+benefits of the utilities’ programs with 80% or more of residential charging occurring during off-
+peak (and some with 90% or more).7
+It is our view that a combination of passive managed charging options, like time-of-use,
+alongside active managed charging options, like the BGE and PHI Utilities’ Smart Charge
+Management pilots, generate additional benefits is an important program design for providing
+choice so that customers can participate based on the technologies customers have as well as
+their preferences and mobility needs. We recommend that the Maryland PSC urge the utilities to
+continue to include and expand managed charging offerings in the Phase II program proposals.
+Furthermore, it is our understanding that there are timing sensitivities regarding the procedural
+schedule, and the utilities’ ability to continually implement these programs. In particular, we are
+concerned about managed charging offerings that are currently capped and may not be able to
+run continuously through January 1, 2025, and beyond.
+For instance, BGE has sought to expand the program beyond its current Smart Charge
+Management demonstration phase to reopen enrollment in June 2024, allowing access to this
+expanded program.8 Potomac Edison has also proposed continuing their Phase I programs in a
+Phase II portfolio. 9
+As an industry, we are fortunate in that there have been few pilots or programs that have had a
+temporary discontinuance. Still, we are aware of the negative impacts of starting and stopping
+programs because of the experience in related technology sets. The significant progress made by
+the Maryland utilities with respect to EV program enrollment has been impressive, and VGIC
+respectfully advises against interrupting that progress. The utilities should be encouraged to
+extend and, where possible, expand the current offerings beyond January 1, 2025. This is critical
+to make the most of the significant time, resources, and dedication that Maryland EV
+stakeholders have put forth over the past five years.
+Therefore, VGIC recommends that the Commission act urgently in developing a procedural
+schedule to create the opportunity for the Commission to determine that these programs are in
+the public interest and should be continued without major interruption.
+III. Conclusion
+7 Guidehouse Inc. Maryland Statewide Electric Vehicle Portfolio Evaluation. February 16, 2024.
+Pg. 4-5.
+8 Baltimore Gas and Electric Company. Electric Vehicle Program Phase II Proposal of Baltimore
+Gas and Electric Company. May 24, 2023. Pg. 4.
+9 The Potomac Edison Company. EV Phase II Program Proposal of The Potomac Edison
+Company. March 1, 2024.
+3
+
+VGIC appreciates the opportunity to provide comments on these important issues.
+Sincerely,
+Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+4

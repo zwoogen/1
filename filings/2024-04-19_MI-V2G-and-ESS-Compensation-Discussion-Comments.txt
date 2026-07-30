@@ -1,0 +1,279 @@
+April 19, 2024
+Comments of the Vehicle-Grid Integration Council
+on April 1, 2024, V2G and ESS Tariff Discussions
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) nonprofit trade association
+focused on accelerating the role of smart EV charging and discharging (i.e., vehicle-grid
+integration or “VGI”) through policy development, education, outreach, and research. One widely
+referenced definition of VGI is by the California Energy Commission:
+“Vehicle-grid integration (VGI) refers to technologies, policies, and strategies for electric
+vehicle (EV) charging which alter the time, power level, or location of the charging (or
+discharging) in a manner that benefits the grid while still meeting drivers’ mobility needs.”2
+Scaling VGI should become an essential part of transportation electrification in Michigan
+and will help accomplish the following key policy goals:
+• Benefit drivers and fleet owners by reducing the total cost of ownership.
+• Decarbonize the transportation sector by accelerating EV adoption.
+• Support decarbonization of the power sector by providing necessary grid
+services as renewable energy and distributed energy resource penetration
+increases.
+• Increase affordability by reducing electricity bills for all customers.
+• Improve grid resiliency and security during extreme weather events.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Fermata
+Energy, Ford Motor Company, General Motors, Nissan Group of North America, Bidirectional Energy,
+Customized Energy Solutions, dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy, FreeWire
+Technologies, Inc., GridWiz, Kaluza, Landis + Gyr, Leapfrog Power, Inc., Nuvve Holding Corporation, Peak
+Power, PowerFlex, Qcells, Stellantis N.V., Sumitomo Electric, The Mobility House, Toyota Motor North
+America, Inc., WeaveGrid, Hoosier Energy, Peninsula Clean Energy, and Sacramento Municipal Utility
+District. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views
+of all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+2 See California Energy Commission Vehicle-Grid Integration Program available at
+https://www.energy.ca.gov/programs-and-topics/programs/vehicle-grid-integration-
+program#:~:text=Vehicle%2Dgrid%20integration%20(VGI),still%20meeting%20drivers'%20mobility%20need
+s.
+1
+
+• Foster economic activity through innovation, competition, and market
+transformation.
+With the proper regulatory support and coordination, these goals can be achieved, and EV
+drivers and fleets in Michigan can play a supportive role in the acceleration of both transportation
+electrification and grid decarbonization. Our vision for VGI encompasses the following key
+elements:
+• Ensure customer mobility needs are satisfied. Drivers and fleets can participate
+in a wide variety of VGI services without compromising their mobility needs.
+• Managed charging will benefit EV drivers and fleet operators: Drivers and
+fleets will be given the ability to align charging with the times of day when
+electricity prices are low, reducing operating costs compared to unmanaged
+charging. Lowering the total cost of EV ownership will accelerate overall EV
+adoption by drivers and fleet managers, helping meet important decarbonization
+goals.
+• EVs provide emissions-free emergency power during blackouts: During
+extreme weather blackouts or other power outages, EVs can utilize bidirectional
+charging capabilities to send energy to a home, building, or microgrid, serving as a
+generator and providing safe backup power for households and communities.
+• Charging infrastructure dollars go further: Smarter management of EV
+charging and discharging can help manage the cost of deploying EV charging
+infrastructure, which encourages wider access to EV charging.
+• VGI enables EVs to provide valuable services to the grid and generate
+revenue: V2G (vehicle-to-grid, or bidirectional charging) will enable electric
+vehicles to both receive and feed power back to the grid, supporting advanced grid
+services such as frequency control, demand response, peak shaving, and more.
+Unidirectionla V1G managed charging can also provide grid services by
+modulating the rate of charge at a smaller scale relative to V2G. A number of
+utilities have implemented programs that provide compensation for these valuable
+grid services.
+VGIC is pleased to engage with the Commission, staff, and other stakeholders to consider
+potential V2G and ESS compensation mechanisms. We offer the information below as context to
+support the development of Michigan’s V2G market.
+VGIC Recommends Considering an Array of V2G Compensation Pathways
+2
+
+The VGI market, specifically the V2G market, is relatively nascent. To transition the VGI
+market from early V2G demonstrations and pilots to large-scale deployments that can
+meaningfully support the grid and provide grid edge energy storage capacity at scale, V2G
+customers may benefit from access to a menu of export compensation options. EV customers have
+a diverse set of needs and serve a variety of use cases characterized by various duty cycles, dwell
+times, vehicle battery sizes, charger configurations, and site load characteristics. For example, the
+nation’s largest medium/heavy-duty make-ready program shows a varied assortment of site host
+segments and charger power output:
+Figure 1. Southern California Edison, Transportation Electrification Program Advisory Council, March 8th, 2024, pg. 12
+(Charge Ready Transport).3
+Promoting grid-friendly behavior, including V2G exports, from an exceptionally diverse
+subset of utility customers presents a unique challenge. In 2019-2020, about 100 representatives
+from utilities, state and federal agencies, ISO/RTO, automakers, charging manufacturers, charge
+point operators, transit agencies, research institutions, industry associations, environmental
+nonprofits, consumer groups, ratepayer advocates, and standards development organizations
+3 Southern California Edison, Transportation Electrification Program Advisory Council, March 8th, 2024, pg.
+12 (Charge Ready Transport).
+3
+
+convened to define, sort, assess value, and rank 2,500 potential “VGI use cases.” 4 Figure 2
+below illustrates the various “dimensions” of the use case assessment:
+Given the considerable diversity of relevant use cases, it may be most beneficial for
+customers to be given the choice to participate in the option that best fits their specific needs and
+internal cost-benefit calculations. With this in mind, the examples of V2G compensation
+mechanisms listed herein include both utility export rate designs and non-rate utility programs, as
+well as approaches that do not fall into either of these two categories. For some customers, demand
+response strategies and relatively infrequent event-based programs may be better suited to their
+needs, goals, and technologies. Other customers may be attracted to a 24/7, year-round
+optimization approach. Yet other customers may seek to dual participate in both utility export rates
+and non-rate utility programs, where permitted, to maximize cost-effectiveness. In this way, there
+appears to be no one-size-fits-all approach to unlocking V2G capability to support the grid. Just as
+planners seek fuel diversity in the bulk power generation profile, policymakers may seek V2G
+strategy diversification. This is especially critical within the context of the relatively nascent V2G
+market, where there is a need to prompt initial customer response from a wide array of new vehicle
+classes and use cases, customer segments, charger sizes and types, site hosts, relevant agents and
+actors, and price sensitivities.
+Furthermore, by offering a portfolio of participation options, the Commission and utilities
+can experiment with more innovative rate design approaches, like real-time-equivalent pricing,
+while still maintaining the key rate design principles of gradualism, simplicity, understandability,
+4 See Final Report of the VGI Working Group. https://gridworks.org/2020/09/final-report-of-the-
+california-joint-agencies-vehicle-grid-integration-vgi-working-group/
+4
+
+public acceptability, and feasibility of application through offering more widely used export
+compensation mechanisms.
+Whatever solution(s) the Commission ultimately decides to employ for V2G export
+compensation should clearly signal to consumers that there is value in participating in V2G
+compared to the additional costs to install and enable the technology.
+VGIC shares several examples of V2G compensation models below that have been
+implemented, approved, or proposed throughout the U.S. In some cases, customers may seek to
+participate in more than one of the compensation mechanisms below. This is feasible and
+appropriate only where policymakers have adopted or directed the implementation of design
+elements that avoid double counting and double compensation. For example, customers in
+Massachusetts may dually participate in examples 1a and 3, while customers in California may
+dually participate in examples 1c and 2b.
+Examples of V2G Compensation Mechanisms
+1. V2G in Demand Response Programs
+a. Connected Solutions (Offered by Various Utilities in the Northeast)
+During the MPSC EV Technical Conference – Day 2 hosted on January 25,
+2024, Fermata Energy detailed its facilitation of a customer participating in
+Rhode Island Energy’s Connected Solutions program that earned over $12,500
+with one vehicle over three summers by enabling V2G capability during events
+lasting 2-3 hours each.5 In Massachusetts, National Grid also offers Connected
+Solutions, including a Daily Dispatch option with 30-60 events lasting 2-3
+hours each under a $200/kW-summer incentive.6
+b. Demand Side Grid Support: Market-Aware Behind-the-Meter Battery Storage
+Pilot (Proposed by the California Energy Commission)
+5 Interconnection Opportunities and Obstacles for V2H and V2G. Steve Letendre, Fermata Energy. January
+25, 2024. Slide 4. https://www.michigan.gov/mpsc/-/media/Project/Websites/mpsc/workgroups/technical-
+conference/EV-Techincal-Conference-Presentation-Day-
+2.pdf?rev=5d8df7e45d4d4093add720e2bb8fa9e5&hash=FFC86A3557D5EFFEF7A6D4BAF79666B5
+6 Connected Solutions. National Grid, Massachusetts Business Site. https://www.nationalgridus.com/MA-
+Business/Energy-Saving-Programs/ConnectedSolutions
+5
+
+The California Energy Commission established the Demand Side Grid Support
+Program to compensate customers for upfront capacity commitments and per-
+unit reductions in net energy load during extreme events.7 Market-Aware
+Behind-the-Meter Storage Pilot, one of three incentive options in the program,
+pays aggregators based on the demonstrated capacity of their storage
+aggregation, with different levels of incentives available of varying durations,
+as detailed below:
+Aggregators are expected to dispatch when the wholesale market price reaches
+$200/MWh, and under related price triggers. This participation option was first
+made available to stationary energy storage, but the proposed program revisions
+expand eligibility to V2G customers, pending final approval by the California
+Energy Commission.
+c. Emergency Load Reduction Program
+The three major California investor-owned utilities have established an
+EV/VGI Aggregation pathway within the Emergency Load Reduction Program,
+a voluntary demand response program intended to bolster grid reliability during
+emergencies.8 Under this pathway, V2G customers are compensated $2/kWh
+for load reduction and/or exports during 3-hour event windows, with a
+minimum dispatch of 30 hours per year. Under a separate pathway known as
+Group B, V2G customers that are enrolled with third-party demand response
+providers (i.e., for wholesale market participation) may receive $2/kWh for
+exports during grid emergencies, as these exports would not otherwise be
+7 Demand Side Grid Support (DSGS) Program Guidelines, Third Edition. Proposed Draft Program Guidelines.
+March 2024. Page 23.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=254890&DocumentContentId=90560
+8 See, for example, San Diego Gas & Electric’s Emergency Load Reduction Program Terms & Conditions.
+https://elrp.sdge.com/_files/sdge/elrp/SDGE-ELRP-Group-A-Terms-and-Conditions.pdf.
+6
+
+recognized and compensated, although there is no annual minimum dispatch
+for these customers.
+2. V2G in Export Tariffs
+a. Avoided Cost Calculator-Based Static V2G Export Rate (Proposed by Southern
+California Edison)
+Capitalizing on decades of experience investigating and experimenting with
+V2G, Southern California Edison recently filed its Vehicle to Grid Resource
+Proposal, an export credit design open to both residential and non-residential
+customers on Time-of-Use rates.9 The proposed static time-of-use export rate,
+shown below, is based on values from California’s Avoided Cost Calculator,
+which precisely identifies avoided generation energy, generation capacity,
+ancillary services procurement, losses, transmission, distribution, and other
+avoided costs. Note that the values below represent the export credit for each
+time-of-use period (i.e., the TOU rate under which all consumption is billed is
+not shown below).
+b. Real-Time-Equivalent Pricing (Piloted by New Hampshire Electric
+Cooperative; Offered by Pacific Gas & Electric and Southern California Edison
+Beginning in June 2024)
+New Hampshire Electric Cooperative offers a Transactive Energy Rate to
+compensate devices, including V2G resources, for load shift and/or battery
+9 Southern California Edison. Phase 2 of 2025 General Rate Case Rate Design Proposals. Exhibit 04. Pages
+120-138.
+https://edisonintl.sharepoint.com/:f:/t/Public/regpublic/Ei5_2_TFEhdOo16OosdAmOMB6C5T74brbM2IYweB
+i1lcVw
+7
+
+discharge.10 The Transactive Energy Rate is based on marginal avoided energy,
+capacity, and transmission costs and is communicated on a day-ahead basis to
+customers through the utility’s website as shown below and to capable devices
+through OpenADR.11
+Meanwhile, in California, Pacific Gas and Electric and Southern California
+Edison will begin offering a similar day-ahead hourly real-time marginal-cost-
+based pricing approach based on the “CalFUSE” framework developed by the
+California Public Utilities Commission staff to V2G customers.12 These
+“CalFUSE” rate pilots employ the use of a load subscription for customers
+based on historical usage, such that only deviations from that subscription load
+are subject to the dynamic price, while the subscription load is subject to the
+otherwise-applicable tariff (e.g., the static time-of-use rate). This results in
+“symmetric, bidirectional prices” that apply equally to load reduction and V2G
+exports.
+10 New Hampshire Electric Co-Op. Transactive Energy Rate (TER) Pilot Program.
+https://www.nhec.com/energy-management/transactive-energy-rate-program/
+11 New Hampshire Electric Co-Op. Terms & Conditions. Section X-7. https://www.nhec.com/new-terms-
+conditions/
+12 See, Decision to Expand System Reliability Pilots of Pacific Gas and Electric and Southern California
+Edison. January 25, 2024.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M524/K176/524176497.PDF and Resolution E-
+5192. Pacific Gas and Electric Company Advice Letter 6259-E requests approval of four vehicle-grid
+integration pilots pursuant to Decision 20-12-029.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M474/K369/474369017.PDF
+8
+
+c. Value of Distributed Energy Resources “Value Stack” Tariff (Offered by
+Various Utilities in New York)
+The New York Public Service Commission established the Value of Distributed
+Energy Resources (VDER) or “Value Stack” Tariff to compensate DERs for
+the following components: energy value, capacity value, environmental value,
+demand reduction value, and locational system relief value.13 While some
+utilities have long deemed V2G customers eligible for VDER value stack
+compensation, effective January 1, 2024, all utilities now deem V2G eligible
+for VDER value stack compensation.14
+3. V2G in Clean Peak Standard
+Massachusetts’ Clean Peak Energy Standard provides an opportunity to
+monetize the clean peaking attributes of EVs and EV chargers through the
+generation and sale of Clean Peak Energy Credits.15 V2G customers can
+participate in the program as Qualified Energy Storage Systems, provided that
+the vehicle is charged during periods of typically high renewable energy
+production or otherwise demonstrate storage of primarily renewable energy.
+Customers can even take advantage of distribution circuit multipliers that
+increase the credit value for customers located on congested circuits.16
+4. V2G in New “Virtual Power Plant” Offerings
+a. Direct Automaker-Utility V2G Offering (Announced by Duke Energy)
+13 Order Regarding Value Stack Compensation. NY Public Service Commission. April 18, 2019.
+https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Programs/NY-Sun/Updated-Value-Stack-Order-
+2019-04-18.pdf
+14 Order Approving Midpoint Review Whitepaper’s Recommendations with Modifications. NY Public Service
+Commission. November 16, 2023. Pages 64-67.
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7b6057D98B-0000-C912-9B64-
+A2D769C4790D%7d
+15 Massachusetts 225 CMR 21.00: Clean Peak Energy Portfolio Standard. August 7, 2020.
+https://www.mass.gov/doc/225-cmr-21-clean-peak-energy-portfolio-standard-cps/download
+16 Massachusetts Clean Peak Energy Portfolio Standard: Clean Peak Distribution Circuit Multiplier Guideline.
+December 5, 2023. https://www.mass.gov/doc/cps-distribution-circuit-multiplier-guideline/download
+9
+
+Duke Energy has announced a V2G initiative for residential customers with
+Ford F-150 Lightning vehicles in North Carolina.17
+17 Illuminating possibility: Duke Energy and Ford Motor Company plan to use F-150 Lightning electric trucks to
+help power the grid. Duke Energy. August 16, 2022. https://news.duke-energy.com/releases/illuminating-
+possibility-duke-energy-and-ford-motor-company-plan-to-use-f-150-lightning-electric-trucks-to-help-
+power-the-grid
+10
+
+Conclusion
+VGIC offers itself as a resource to support the Commission, staff, and other relevant stakeholders
+in consideration of V2G compensation mechanisms. We look forward to continuing to collaborate
+in Michigan on this important initiative.
+Respectfully submitted,
+Zach Woogen
+/s/ Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+11

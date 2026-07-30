@@ -1,0 +1,144 @@
+June 26, 2023
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 23-E-0070: Proceeding on Motion of the Commission to Address Barriers to
+Medium- and Heavy-Duty Electric Vehicle Charging Infrastructure
+Joint Reply Comments of the Vehicle-Grid Integration Council (VGIC)
+and New York Battery and Energy Storage Technology Consortium (NY-BEST)
+on Medium- and Heavy-Duty Electric Vehicle Charging Infrastructure
+Introduction
+The Vehicle-Grid Integration Council (VGIC) and New York Battery and Energy Storage
+Technology Consortium (NY-BEST) appreciate the opportunity to respond to other parties’
+comments related to medium- and heavy-duty (“MHD”) EV charging infrastructure. Similar to
+initial comments, our reply comments will also focus on VGI and energy storage issues, in line
+with the Commission’s questions 11 and 12 in the Order Instituting Proceeding and Soliciting
+Comments.
+Benefits of Vehicle-Grid Integration Strategies
+Overall, there is broad agreement among commenters on the benefits and importance of
+VGI strategies, including hardware- and software-based Automated Load Management (“ALM”)
+1
+
+approaches, integration with distributed energy resources (“DERs”), and managed charging.1
+These benefits range from reduced upfront as well as ongoing infrastructure needs to
+opportunities for fleets to lower their charging costs, leading to improved economics for
+transportation electrification.
+However, each of these benefits are unlocked by different types of rules, programs, and
+rates. A suite of utility practices and offerings are necessary to maximize the diverse benefits of
+VGI strategies for the grid, ratepayers, and fleets. For example, managed charging programs
+alone will not help reduce or avoid upfront make-ready infrastructure costs because they only
+provide incentives that encourage fleets to charge off-peak and/or avoid on-peak charging. In
+order for utilities to be able to safely reduce the site connection requirement, utility practices
+need to go beyond only providing incentives for managed charging to also establishing
+contractual requirements under which the charging equipment is limited to a defined level of
+demand.2 This “flexible connection” framework can be enabled by ALM technologies such as
+energy storage and/or power sharing. While managed charging programs can improve the value
+proposition for these technologies through value stacking opportunities (e.g., load shifting,
+demand response), utilities and the Commission still need to take steps to enable and incentivize
+the adoption of ALM technologies up front. Environmental Defense Fund and FreeWire
+provided an example from the New Jersey Board of Public Utilities Staff’s Straw Proposal for
+MHD EV Charging Ecosystem, under which project developers can elect one of two options to
+lower the cost of adopting “load-modifying technologies:”3
+1 See comments from ChargePoint (p. 9-10), City of New York (p. 4), New York Power Authority (p. 4),
+Environmental Defense Fund (p. 27), RMI (p. 6-7), ACE NY and Advanced Energy United (p. 11-12), Earthjustice
+and Sierra Club (p. 11), Joint Utilities (p. 30, 32-33), ABB E-mobility (p. 12-13), Livingston Energy Group (p. 5-6),
+Gage Zero (p. 7-8), PowerFlex (p. 7-8), Metropolitan Transit Authority (p. 8), The Mobility House (p. 5), NineDot
+Energy (p. 3, 5, 7-8), FreeWire (p. 3-4), Alliance for Transportation Electrification (p. 8), World Resources Institute
+(p. 4), Daimler Truck (p. 8), and Highland Electric Fleets (p. 16).
+2 See The Mobility House comments, p. 5.
+3 See comments from Environmental Defense Fund (p. 28) and FreeWire (p. 4). See also NJ BPU December 2022
+Notice, Docket No. QO21060946,
+https://publicaccess.bpu.state.nj.us/DocumentHandler.ashx?document_id=1285620.
+2
+
+1. Interconnect to the utility system based on net energy demand, after considering any
+load-modifying technologies, subject to the utility’s right to physically limit service to
+the modified level; or
+2. Request that the utility evaluate make-ready and distribution system upgrade costs
+without the load-modifying technologies and provide up to the “but for” level of
+funding for the project, including all load-modifying technologies.
+Additionally, VGIC and NY-BEST support FreeWire’s recommendation that the
+Commission consider Earnings Adjustment Mechanisms (“EAMs”) to incentivize utilities to
+promote load management technologies that reduce infrastructure costs.4 The Commission
+should leverage the MHD Make-Ready Pilot in Docket 18-E-0138 as an opportunity to collect
+robust baseline data to inform the design of EAMs for the full MHD Make-Ready Program being
+considered in this proceeding.
+Vehicle-to-Everything Technology Readiness
+In initial comments, some stakeholders expressed skepticism towards the maturity of
+bidirectional charging (i.e., vehicle-to-everything or “V2X”) and advised the Commission
+against considering the impacts of V2X in short-term planning.5 While it is true that V2X is not
+yet mature and commercially deployed in all MHD EV segments, the technology is the most
+suitable for and sufficiently mature in the school bus segment, which is expected to be among the
+first MHD segments to electrify given state and federal policies. In April 2022, Governor Hochul
+signed legislation requiring all new school bus purchases to be zero-emission by 2027 and all
+school buses on the road be zero-emission by 2035.6 With funding from the Bipartisan
+4 See FreeWire comments, p. 3.
+5 See comments from Tesla (p. 4), City of New York (p. 11), Joint Utilities (p. 32), ABB E-mobility (p. 13),
+Livingston Energy Group (p. 5), Gage Zero (p. 7), World Resources Institute (p. 3-4), Daimler Truck (p. 8). While
+the Commission and some of these parties used the term “VGI technology” in this discussion, VGIC and NY-BEST
+interpreted that the parties referred to V2X (bidirectional charging) technology, given that most of the parties also
+voiced support for other VGI strategies (e.g., battery storage, managed charging) in their comments.
+6 https://legiscan.com/NY/text/S08006/id/2567276/New_York-2021-S08006-Amended.html
+3
+
+Infrastructure Law, the Environmental Protection Agency’s (EPA) Clean School Bus Program
+provides $5 billion between 2022 and 2026 to support school bus electrification.7 These state and
+federal programs will lead to significant numbers of electric school buses in the coming years.
+The New York Independent System Operator (NYISO) Gold Book 2023 EV stock forecast
+includes 4,800 electric buses by 2025 and 28,800 electric buses by 2030.8 Assuming half are
+school buses, 20 kW per EV charger, and 100 kWh per vehicle, school buses alone would have
+an aggregate power rating of 48 MW and a storage capacity of 240 MWh in 2025 and 288
+MW/1.44 GWh in 2030. This potential magnitude of load and grid resource would certainly
+warrant consideration in planning processes.
+As discussed by Nuvve, NineDot Energy, and Highland Electric Fleets, the remaining
+barriers to widespread adoption of V2X technology, at least for school buses, are regulatory
+rather than technical.9 Although vehicle-to-grid (“V2G”) exports are eligible for compensation
+under the VDER tariff, it does not account for the full suite of grid and resiliency benefits that
+V2G technology can provide. For example, extreme weather events, which are increasingly
+frequent and severe due to climate change, are challenging the grid’s ability to deliver reliable
+electricity, underlining the need for novel solutions to help utilities meet demand spikes as well
+as for backup power to keep essential services such as schools and healthcare facilities online.
+Electric school buses are ideal candidates to help address this need. The expected compensation
+from VDER alone, however, is unlikely to justify the higher upfront investments in bidirectional
+capability for fleets. Once sufficient revenue streams are unlocked, such as through demand
+response programs, V2G deployment will increase significantly.
+Before these additional compensation mechanisms can be put in place, however, the
+Commission should provide incentives to help offset the higher costs of bidirectional EV supply
+7 https://www.epa.gov/cleanschoolbus
+8 See NYISO Gold Book 2023, Table I-11a: Electric Vehicle Stock Forecast,
+https://www.nyiso.com/documents/20142/2226333/2023-Gold-Book-Public.pdf/c079fc6b-514f-b28d-60e2-
+256546600214
+9 See comments from Nuvve (p. 3-4), NineDot Energy (p. 7), and Highland Electric Fleets (p. 15)
+4
+
+equipment so that fleets adopt the necessary technologies to enable bidirectional charging once
+sufficient revenue streams are available. Without such incentives, school districts and their fleet
+operators will likely be inclined to install unidirectional equipment given project economics in
+the short term. However, passing on bidirectional equipment would preclude these school bus
+fleets from participating in bidirectional charging offerings in the future, leading to a significant
+missed opportunity for New York to leverage the battery capacity of these vehicles. Incentives
+for bidirectional charging infrastructure presents a future-proofing solution that adds only
+marginal incremental cost at present but opens the door to significant benefits for ratepayers,
+fleet owners/operators, and the grid that will accrue over decades to come.
+Conclusion
+VGIC and NY-BEST appreciate the opportunity to provide these comments and look
+forward to working with the Commission, the joint utilities, and other stakeholders to ensure the
+success of New York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+5
+
+William P. Acker
+Executive Director
+New York Battery and Energy Storage Technology Consortium (NY-BEST)
+230 Washington Avenue Ext., Suite 101, Albany NY 12203
+(518) 694-8474
+www.ny-best.org
+6

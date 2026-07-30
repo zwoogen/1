@@ -1,0 +1,526 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+JOINT COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL, ENEL X
+NORTH AMERICA, INC. , ADVANCED ENERGY ECONOMY, CALIFORNIA
+ENERGY STORAGE ALLIANCE, CHARGEPOINT, INC., ENVIRONMENTAL
+DEFENSE FUND, GREENLOTS, NATURAL RESOURCES DEFENSE COUNCIL, AND
+SIEMENS ON EMAIL RULING SEEKING PARTY COMMENT ON VEHICLE-GRID
+INTEGRATION ISSUES
+August 17, 2020
+EDWARD BURGESS MARC MONBOUQUETTE
+ZACH WOOGEN Enel X North America, Inc.
+Vehicle-Grid Integration Council 846 Bransten Road
+2150 Allston Way, Suite 400 San Carlos, CA 94070
+Berkeley, CA 94704 Tel: (415) 488-6035
+Tel: (510) 665-7811 Email: marc.monbouquette@enel.com
+Email: vgicregulatory@vgicouncil.org
+MATT STANBERRY JIN NOH
+Advanced Energy Economy California Energy Storage Alliance
+1000 Vermont Ave. NW, 3rd Floor, 2150 Allston Way, Suite 400
+Washington, D.C. 20005 Berkeley, CA 94704
+Tel: (202) 380-1950 Tel: (510) 665 7811
+Email: mstanberry@aee.net Email: cesa_regulatory@storagealliance.org
+ANTHONY HARRISON LARISSA KOEHLER
+ChargePoint, Inc. PAMELA MACDOUGALL
+1
+
+254 East Hacienda Ave. Environmental Defense Fund
+Campbell, CA 95008 123 Mission Street, 28th Floor
+Tel: (408) 656-4292 San Francisco, CA 94105
+Email: anthony.harrison@chargepoint.com Tel: (415) 293-6093
+Email: lkoehler@edf.org
+THOMAS ASHLEY MILES MULLER
+Greenlots Natural Resources Defense Council
+767 S. Alameda St, Suite 200 111 Sutter Street, 21st Floor
+Los Angeles, CA 90021 San Francisco, CA 94104
+Tel: (802) 922-5585 Tel: (415) 875-8254
+Email: tom@greenlots.com Email: mmuller@nrdc.org
+CHRIS KING
+Siemens
+721 Shell Blvd, Suite 205
+Foster City, CA 94404
+Tel: (510) 435 5189
+Email: chris_king@siemens.com
+2
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+JOINT COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL, ENEL X
+NORTH AMERICA, INC. , ADVANCED ENERGY ECONOMY, CALIFORNIA
+ENERGY STORAGE ALLIANCE, CHARGEPOINT, INC., ENVIRONMENTAL
+DEFENSE FUND, GREENLOTS, NATURAL RESOURCES DEFENSE COUNCIL, AND
+SIEMENS ON EMAIL RULING SEEKING PARTY COMMENT ON VEHICLE-GRID
+INTEGRATION ISSUES
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (VGIC1) is pleased to
+provide these comments on behalf of its members and supporters, as well as Enel X North
+America, Inc., Advanced Energy Economy (“AEE”), California Energy Storage Alliance
+(“CESA”), ChargePoint, Inc., Environmental Defense Fund (“EDF”), Greenlots, Natural
+Resources Defense Council (“NRDC”), and Siemens (“Joint Commenters”) on the
+Administrative Law Judge’s Email Ruling Seeking Party Comment on Vehicle-Grid Integration
+1 The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+3
+
+Issues (“Ruling”) issued by Administrative Law Judge (“ALJ”) Patrick Doherty on July 20,
+2020. Pursuant to the Ruling, we timely file these comments on August 17, 2020.
+I. INTRODUCTION
+The Joint Commenters were among the original supporting coalition for Senate Bill (“SB”) 676
+and have a keen interest in its successful implementation. Additionally, our organizations share
+the common goal of utilizing Vehicle-Grid Integration (“VGI”) solutions as a tool to help
+accomplish key transportation electrification (“TE”) related policy objectives. Specifically, we
+believe that VGI can help to:
+ Decarbonize California’s transportation sector.
+ Support decarbonizing California’s power sector.
+ Increase the affordability of the grid and utility customer bills.
+ Improve grid resiliency and security.
+ Foster economic activity and innovation in a dynamic new sector of California’s clean
+energy economy.
+We view the effective implementation of SB 676 as a key step towards these objectives.
+II. OVERVIEW & PURPOSE OF JOINT COMMENTS
+The Joint Commenters have organized these comments as follows.
+ First, we provide some thoughts and recommendations on preferred procedural pathways
+for SB 676 implementation;
+ Second, we respond to Questions 1-4 that were included in the July 20, 2020 Email
+Ruling Seeking Party Comment on VGI Issues; and
+4
+
+ Finally, as part of our response to Question 2, we describe an idealized “VGI Portfolio”
+framework that we recommend the Commission adopt.
+III. PROCEDURAL PATHWAYS FOR SB 676 IMPLEMENTATION
+The Joint Commenters note that SB 676 was conceived of, and enacted into law, well in advance
+of the Commission’s Draft Transportation Electrification Framework (“TEF”) and subsequent
+activities related to the Draft TEF. These TEF-related activities have understandably diverted a
+considerable amount of Staff resources and stakeholder attention from SB 676 and related issues.
+We anticipate this will likely continue through the end of 2020. As such, it may not be practical
+to develop and execute as robust of a VGI implementation strategy as SB 676 originally
+envisioned before December 31, 2020. However, the Commission can and should take decisive
+action prior to December 31, 2020 to set the state on a path towards robust VGI implementation
+over the next decade. Below, we describe 1) recommended actions for the Commission to take
+prior to the December 31, 2020 statutory deadline, 2) ongoing actions to be taken from January
+1, 2021 through 2030, and 3) how these SB 676-related actions can be linked to similar actions
+under the TEF.
+a. Actions to be taken by 12/31/2020
+In order to comply with SB 676 requirements, the Joint Commenters recommend that the
+Commission issue guidance to the investor-owned utilities (“IOUs”) on future VGI
+implementation (i.e. through a Proposed and Final Decision) prior to December 31, 2020. This
+guidance should include a “Model VGI Portfolio” which we describe in more detail below.
+Additionally, the guidance should include a directive for IOUs to develop their own VGI
+Portfolios and begin implementing the elements of these portfolios in 2021 (if not sooner for
+5
+
+some program elements). We also recommend that these IOU solutions be aligned closely with
+industry developments from OEMs and EVSPs for maximum effectiveness and minimum delay.
+b. Ongoing actions from 1/1/2021 through 2030
+In response to the guidance described above, each IOU would be required to develop an initial
+VGI Portfolio in the 2021 timeframe. We anticipate that each portfolio would require
+Commission approval to the extent that the IOUs seek cost recovery for any incremental new
+VGI program elements. Once each IOU has established an initial VGI Portfolio, each portfolio
+could then be updated and expanded on a regular basis (e.g. every 2 years) throughout the SB
+676 compliance period. This could occur in parallel with, but separate from, other TE activities.
+c. Linkages to TEF
+The Joint Commenters believe that any VGI Portfolio development and approval processes could
+either function as a standalone effort or be incorporated into the TEF/transportation
+electrification plan (“TEP”) process. Presently, the Joint Commenter’s preference is for each
+VGI Portfolio to be a standalone effort, for a few reasons, before being incorporated into the
+final TEPs once that process is approved:
+ As the Final VGI Working Group Report concluded, there are a wide variety of VGI use
+cases that can provide value now, or in the very near term (“[there] are 320 different VGI
+use cases that, for the purposes of this report, should be considered as able to provide
+value by 2022”).2 Thus, there is no reason to wait for the final TEF to be adopted for new
+VGI efforts to be proposed and implemented.
+2 VGI WG Final Report, p 7. https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-Final-Report-
+6.30.20.pdf
+6
+
+ The VGI Portfolios that are developed can ultimately be referenced and incorporated into
+the Final TEF, future TEF updates, and ongoing TEPs. However, the Joint Commenters
+believe these VGI Portfolios can initially exist as independent efforts. This is also
+sensible because not all VGI activities are necessarily contingent on IOU programs or
+ratepayer funding .
+ The development of standalone VGI Portfolios as a complement to the TEPs is consistent
+with the recommendation in the August 10, 2020 Energy Division Staff Paper on VGI
+Implementation. In this paper, Staff calls for the IOUs to conduct a request for proposals
+(“RFP”) for “third party evaluation of the IOUs VGI implementation to complement IOU
+annual reports required under §740.16(i) (as noted under SB 676 above) and scorecard
+reporting under the draft TEF”.3
+IV. ANSWERS TO COMMISSION QUESTIONS
+Q1: Should the Commission adopt a revised definition for “electric vehicle grid integration”?
+If so, what should it be?
+The Joint Commenters generally support the definition included in Public Utilities Code Section
+740.16(b)(1). However, we suggest that the definition be sufficiently broadened to capture
+backup power use cases. This could be done by adding the following language after Section
+740.16(b)(1)(E) “(F) Increase the economic, social or environmental benefits associated with
+transportation electrification.”
+3 Energy Division Staff Paper on Vehicle Grid Integration Implementation and the Draft Transportation
+Electrification Framework
+7
+
+Q2a: Which strategies should the Commission adopt by the end of 2020 to maximize the use of
+feasible and cost-effective VGI by January 1, 2030?
+The Joint Commenters recommend that by the end of 2020, the Commission adopt a flexible
+VGI Portfolio framework that would serve as the basis for ongoing SB 676 compliance through
+January 1, 2030. This framework would include a Model VGI Portfolio, which contains a
+minimum number of VGI elements that IOUs can implement quickly (i.e. in the 2021
+timeframe). However, the portfolio would be flexible enough to grow and evolve over time as
+new VGI approaches are developed and insights are gained about which VGI approaches are
+most feasible, likely to deliver value, and cost-effective. As described above, we envision each
+VGI Portfolio being updated on a regular basis (e.g. every 2 years), after requiring IOUs to
+develop an initial VGI Portfolio in the 2021 timeframe. Ideally, this timeline will align with TEF
+processes once the TEF is finalized.
+Potential Components of a Model VGI Portfolio
+The Model VGI Portfolio would include a broad range of components that support different VGI
+use cases including utility administered programs, rate options, customer rebates, and marketing,
+education, and outreach (“ME&O”) activities. Some of these potential components are described
+below. Notably, while some of these components may be novel, others have overlap with
+existing programs, rates, and incentives.
+ Customer Acquisition/Participation Incentives: This portfolio component is designed
+to attract and retain EV customer participation in VGI-related activities, including but not
+limited to dynamic or time-of-use (“TOU”) charging schedules. This is necessary to
+overcome the significant barriers that EV customers currently face to enroll in even basic
+8
+
+TOU rate options, let alone more advanced smart charging options. The incentive budgets
+can be targeted towards specific market segments such as the following:
+o Light-Duty Vehicle (“LDV”) Upstream: Incents LDV Original Equipment
+Manufacturers (“OEM”)and Electric Vehicle Service Providers (“EVSPs”) to
+engage individual customers and larger clients such as fleets directly in managed
+charging options (e.g. via mobile apps/in-vehicle displays, specialized software,
+etc.). This could also be fair way to compensate OEM and EVSPs for providing
+any data used to measure the effectiveness of managed charging through rate
+options.
+o Medium- and Heavy-Duty Vehicle (“MHDV”) Upstream: Incents MHDV OEMs
+and EVSPs to engage individual customers and larger clients (e.g. fleets) directly
+in managed charging options similar to LDV, as above.
+o Point of Sale / Dealer Training: Incents vehicle dealers to educate or enroll
+customers in managed charging options, and/or offer discounted L2 chargers that
+are VGI-capable.
+o Electric Vehicle Service Equipment (“EVSE”) Workplace Charging: Support
+investments/actions in workplace charging to build permanent mid-day load to
+capture solar generation and avoid curtailments.
+ Automated and/or Active Load Management (“ALM”) Tariff for Distribution
+Upgrade Deferral: This portfolio component enables EV or EVSE customers to
+participate in approved ALM schemes that effectively reduce local demand and
+corresponding distribution upgrade costs (including “make ready” investments).
+Customers could either be incentivized to utilize ALM by way of a rebate or rate
+9
+
+discount, which may be a “revenue neutral” approach versus a non-ALM approach that
+requires distribution upgrades. Additional details about this component are discussed in
+the TEF Section 8 opening comments of Nuvve and Enel X, as well as the TEF Section 8
+reply comments of VGIC. 4
+ Resiliency Programs: This portfolio component is designed to reflect direct investments
+and/or customer rebates that are used to deliver grid resiliency services, including backup
+power solutions via V2B or V2G, or V1G during rolling blackouts. The Joint
+Commenters note that parties to the SGIP proceeding and Microgrid proceeding have
+proposed that EV-enabled backup power solutions be considered in those contexts. If the
+Commission chooses to adopt V2B programs in those proceedings, the associated
+programs could serve as a potential source of funding for this VGI Portfolio element.
+ Dynamic Charging Rate Options: This portfolio component would provide a catalogue
+of all the dynamic EV rate options currently being provided by a given IOU, and could
+also serve as a venue for newly proposed or modified dynamic EV rate options.
+Additionally, to the extent that certain rate options are viewed as containing cross-
+subsidies, those costs could be documented in this portion of the portfolio. Some of the
+dynamic EV rate options that the Model VGI Portfolio should include are briefly
+described below. Note that several of the Joint Commenters plan to provide more detailed
+comments on these options in their upcoming responses to the Commission’s request for
+comments on TEF Section 9:
+o Commercial EV Rates (“EV Fleet Rates”): This should include increasingly
+dynamic rate options such as 1) more dynamic demand charges (e.g., based on
+4 See Joint Comments of Enel X and Nuvve Corporation on TEF Section 8 and Reply Comments of VGIC on TEF
+Section 8.
+10
+
+average daily demand), 2) enhanced TOU rates that include larger differentials
+and have time periods updated on a regular basis, and 3) optional real-time rates
+In all of these cases, the dynamic components should include distribution system
+costs and not just energy costs.
+o Residential EV Rates: Options would be similar to enhanced TOU and real-time
+rates described above for Commercial EVs.
+o V2G Export Bill Credits: This would provide a bill credit to EV customers who
+are able to export to the grid during peak times. The credit would be linked to the
+on-peak retail rate and would be analogous to the Commission’s existing policy
+for net energy metering.
+o Non-metered Residential EV Charging Incremental LCFS Credits: Under the
+existing LCFS framework currently authorized by CARB, there is the potential to
+generate incremental credits through smart charging of EVs that aligns charging
+with availability of clean resources on the grid. These incremental credits are
+above and beyond the base credits currently being pursued through rebate
+programs. However, to our knowledge this existing feature of the LCFS program
+is not being utilized. There has yet to be transparency from the IOUs regarding
+the acquisition of, if any, and use of funds from Unmetered Residential
+Incremental LCFS credits (see § 95483(c)(1)(B)(3) of the LCFS
+Regulation). However, if the IOUs were directed to collect and monetize these
+credits, including the retirement of excess of Renewable Energy Credits (beyond
+or different from their RPS requirements), the CPUC should work with the
+California Air Resources Board to ensure the IOUs use these proceeds to fund
+11
+
+various elements of the VGI Portfolio. The Joint Commenters also note that other
+LSEs (such as CCAs) may be able to pursue this path as well, but this may be
+outside of the PUC’s jurisdiction.
+ Capacity Deferral Programs: This portfolio component would be focused on leveraging
+EV charging as a source of local or system capacity (e.g. as demand response resources).
+At least two potential offerings could exist under this category:
+o DER Tariff: This offering would allow EV customers to take service under DER
+tariff in exchange for upfront “reservation” payment; if need arises, then the
+flexible VGI resource is “activated” and performance-based payments are
+provided based on ability to provide capacity during peak hours.
+o Competitive Solicitations for Local RA: This offering would allow EV customers
+(via aggregation) to offer a bid to meet local capacity needs through the flexibility
+provided by VGI resources and could be eligible for both V1G and V2G
+responses.
+o Distribution Investment Deferral Framework (“DIDF”): VGI-enabled EVs could
+compete as preferred resources in the DIDF construct to defer distribution
+upgrades identified through the annual distribution planning process. The DIDF
+construct should also be extended to upgrades that are identified from the
+interconnection process.
+ Public Charging Enhancements: This component is designed to incent innovation and
+overcome barriers to the provision of incremental grid services from VGI resources at
+public charging stations. For example, funds could be applied towards any necessary
+software, metering, or telemetry equipment needed for EVSEs to provide distribution
+12
+
+grid services, and/or ancillary services in the wholesale market as a demonstration
+project.
+ Advanced Telemetry for Enhanced Distribution System Operations: Vehicle OEMs
+and EVSPs can provide enhanced telemetry-based data and commands which could
+improve distribution system operations in specific locations on an as needed basis. In
+many cases the communications and dispatch can be enabled in real time and adjusted to
+serve purposes with both automated and contingency-focused precision. These services
+can be provided in coordination with and as a complement to IOU distribution operations
+systems such as Distributed Energy Resource Management Systems (DERMS) and
+Outage Management Systems (OMS). During outages or contingency operations, these
+capabilities could provide additional versatility and resilience. This advanced
+functionality could be provided by both public chargers as well as customer-sited EV and
+EVSE equipment.
+ Customer ME&O for VGI-related options/programs: This component is meant to
+address the fact that VGI success is critically dependent upon customer education,
+participation, and value realization. Joint Commenters believe that a meaningful portion
+of the larger TE ME&O budgets (e.g. 10-15%) could ultimately be set aside for VGI
+purposes.
+ Administrative Support: This component is meant to cover the costs of administering
+the overall VGI Portfolio.
+To summarize what a hypothetical VGI Portfolio could look like, the table below provides a
+snapshot of an illustrative budget VGI Portfolio table, showing the associated program costs and
+13
+
+target number of EV customers. Note that the numbers reflected in the table are purely
+illustrative and have no basis in any real-world experience.
+Q2b: Explain how each recommended strategy is feasible and cost-effective.
+The Joint Commenters believe that the recommended VGI Portfolio approach is flexible enough
+to ensure that it ultimately targets the VGI strategies that are the most feasible, likely to deliver
+value, and cost-effective over the next decade. While any individual portfolio element may prove
+to not have long-term success, we are confident that the portfolio as a whole will be successful
+and can evolve according to real-world results. Regarding the specific program components
+described above, the Joint Commenters offer these additional thoughts on feasibility and cost-
+effectiveness.
+Feasibility
+14
+
+Each of the program elements described builds upon some form of prior experience and unique
+benefits. These include existing rates and program structures, as well as demonstration projects
+that have already been undertaken.5 Several members of the Joint Commenters, including VGIC,
+have also commented on the fact that some of the underlying technologies needed to support
+VGI have already been deployed at scale. While there are some remaining barriers in terms of
+interconnection for V2G, there is ample evidence that V1G is widely and effectively deployed
+today. Moreover, there are demonstration projects in California showing a wide variety of use
+cases that have been tested and reported upon, including V2G use cases at UC San Diego and
+UC Davis. As the VGI Working Group report concluded, there are over 300 use cases that can
+already provide value today or in the very near term. Additionally, by taking a portfolio
+approach, certain VGI components can readily be added or subtracted if they are found to be
+more or less feasible than originally anticipated.
+Cost Effectiveness
+Regarding cost-effectiveness, the Joint Commenters agree that this will be an important focal
+point for any VGI-related efforts and is indeed a required consideration of SB 676
+implementation. However, the Joint Commenters caution the Commission against overly strict
+interpretation of the term “cost-effectiveness” as it relates to VGI-related activities and
+investments. Per the requirements of SB 676, we recommend that the Commission focus on
+delivering and maximizing the value of VGI through 2030, while continue to evaluate cost-
+efficiency of VGI as each VGI Portfolio is implemented. Actions that can deliver significant
+value over the longer term, that, may have higher near-term costs but a pathway for cost
+5 https://gridworks.org/wp-content/uploads/2019/08/Gridworks-VGI-Initiative-Framing-Document.pdf
+15
+
+reduction over time, should receive appropriate consideration. The Commission accordingly
+should increasingly target the Portfolio components that prove to deliver the greatest value or be
+most cost-effective. That said, we do not believe the Commission should not establish specific
+cost-effectiveness thresholds as a requirement prior to implementing any specific VGI effort
+(e.g., TRC score >1.0). There are a variety of reasons why this approach is warranted:
+ Transportation electrification as a whole, if integrated optimally into the grid, provides
+ratepayer benefits by putting downward pressure on rates (i.e., “beneficial
+electrification”).6 To the extent VGI services help to accelerate TE, it reinforces this
+overall effect. This dynamic is further described below in response to Question 4b.
+ VGI leverages other investments in EVs and EVSEs and should therefore not be viewed
+in isolation from these. The incremental cost of adding VGI functionality to these much
+larger capital investments will in many cases will be de minimus.
+ The market for VGI solutions is in a very nascent stage and it may be necessary to
+support and encourage stage technologies and applications to foster market
+transformation, even if some of these shovel-ready technologies and applications are not
+yet strictly “cost-effective” in the traditional methods of comparison. Notably,
+interoperable equipment can be beneficial, and maturing the market will require an
+appropriately-balanced deployment of near-term equipment that may not be interoperable
+with long-term progress toward interoperability.
+ The recommended VGI Portfolio approach includes many programmatic elements that
+are as of yet untested. For example, it is unknown what level of incentives may be
+6 See Synapse Energy Economics, Electric Vehicles Are Driving Electric Rates Down, June 2020, available at
+https://www.synapse-energy.com/sites/default/files/EV_Impacts_June_2020_18-122.pdf.
+16
+
+necessary for attracting and retaining customers who enroll in dynamic charging
+programs. These learnings will develop as the program is implemented over the coming
+years, at which point a better evaluation can be conducted.
+ Many of the Portfolio elements could be considered “revenue neutral”, meaning the
+incremental cost to non-participants is close to zero. This includes most of the dynamic
+rate options, as well as the Active Load Management tariff, if implemented correctly. The
+Joint Commenters encourage an emphasis on VGI through revenue neutral rates and price
+signals as much as is practicable, recognizing that there may also be inherent limitations
+in these approaches.
+ In evaluating the costs of VGI Portfolios, the Commission should also consider the fact
+that certain VGI Portfolio components could be supported through existing utility
+programs outside of the TEF. While it may be appropriate to support some forms of VGI
+as an incremental cost of the overall TE Plan budgets, others VGI components may be
+able to rely on support from programs such as the Self-Generation Incentive Program,
+LCFS credits (both through unmetered incremental credits, and hold-back funds),
+Microgrid-related investments, and so on. To reiterate, some Portfolio elements may also
+not even require budget support if they are revenue neutral.
+Q3: For each strategy recommended, what quantifiable metric or metrics should be adopted to
+measure progress?
+Consistent with prior comments on metrics for the TEF, the Joint Commenters support an
+“activity-program-outcome” framework for measuring progress. Below are some specific
+suggestions on the program and outcome metrics that may be appropriate for a VGI Portfolio.
+Program Metrics:
+17
+
+The primary program-related metric we suggest would be the total number of participants in the
+VGI portfolio components described above. This could include TOU and dynamic rates as well
+as the other programs, and participants could include EV customers, as well as EVSE providers.
+Participation numbers should also be categorized by the number of LDV and MDHD vehicles
+served.
+Outcome Metrics:
+There are a variety of outcome metrics that the Joint Commenters recommend for the
+Commission’s consideration. These include the following:
+ Total utility customers with backup power options provided by EVs;
+ MWh of off-peak (e.g. overnight or midday) charging as a percentage of total MWh. This
+can be estimated or measured through EVSE/EV telematics data and will provide a proxy
+for the MW of demand reduction that VGI provides relative to a non-managed charging
+approach.;
+ Marginal emissions rate during charging hours, similar to what is presently orchestrated
+in SGIP;
+ Gross benefits of any grid services provided (e.g., ancillary services, capacity); and
+ Total reduction in distribution system upgrade costs through EV/EVSE active load
+management.
+Q4a: For each strategy recommended, specify how the strategy accounts for the effect of TOU
+rates on demand from EV charging
+The Model VGI Portfolio described above in response to Question 2 specifically identifies TOU
+rates as one of the core components, and participation in these options is included as one of the
+18
+
+recommended metrics described above in response to Question 3. TOU rates provide a
+foundation upon which more advanced forms of load management can be built to help integrate
+and utilize electricity generated from renewable resources. The Joint Commenters also note that
+TOU rates, as they exist today, are only a partial solution for encouraging managed charging and
+other VGI solutions. We believe it is important to establish a framework (i.e. the VGI Portfolio)
+to continuously evaluate and improve upon dynamic rate offerings. Additionally, it is essential
+to offer other ways to encourage VGI where TOU rates are insufficient on their own, or where
+TOU rates might result in unintended consequences (such as creating new, localized TOU timer
+peaks on the distribution system).
+Q4b: For each strategy recommended, specify how the strategy is in the best interests of
+ratepayers
+Generally speaking, VGI solutions benefit ratepayers in three ways: 1) VGI can directly help
+limit overall electricity system costs by providing lower-cost alternatives to traditional supply-
+side resources and 2) VGI can help to accelerate EV adoption, thereby increasing kWh sales and
+in turn placing downward pressure on overall electricity rates. The VGIC provided a more
+detailed description of this latter concept as an input to the VGI Working Group, Subgroup B.7
+In addition to ratepayer costs, VGI will aid the overall integration of renewable energy and
+contribute to grid resiliency, both of which provide positive societal benefits to all ratepayers.
+Q4c: For each strategy recommended, specify how the strategy reflects demand attributable to
+EV charging, including from existing approved rates and programs
+7 See VGI Council Ratepayer Benefits Paper: https://cds03w.dm.files.1drv.com/y4mZ0X155rffb-
+jHpR2XOF48E_Yw6pkt3Zi5KAML9GQr_Gd4dFeZp5UBCkZCt2AXL7KkuYH2RPwDKdpP_uBTj4x103Dg97kB
+WhDtCl9rQRHrbMwaUjb88mMXmPYaoc4J5o1af92bkouXgY0Cp9Rpjg9Y0wzlMof96dYdIUQczWvmz8/VGI%2
+0Council%20Ratepayer%20Impact%20Benefits%20Category.docx?download&psid=1
+19
+
+Please refer to response to Question 4a above.
+Q4d: For each strategy recommended, specify how the strategy is consistent with the TE goals
+described in SB 350
+A robust VGI Portfolio will contribute to the overall goals of SB 350 by 1) directly aiding the
+decarbonization of the transportation sector and 2) supporting the decarbonization of the power
+sector. Regarding the transportation sector, VGI will help meet California’s transportation
+electrification goals by addressing barriers to faster EV adoption. The table below summarizes
+how VGI addresses specific barriers to EV adoption.
+Barriers to faster EV adoption How VGI addresses this
+EV Total Cost of Ownership (TCO) Reduces TCO via lower charging costs
+remains too high and new customer revenue streams
+Value proposition (versus ICE) not Unlock new value propositions beyond
+compelling enough for some customers e-mobility and VGI (e.g., V2H/V2B
+providing backup power – especially
+relevant during COVID-19 and rolling
+brown-outs.)
+Margin on sales not large enough for Unlocks new revenue streams for
+some OEMs to prioritize OEMs; improves business case for EVs
+Lack of TE infrastructure Can help “right-size” TE infrastructure
+investments and unlock revenue streams
+for EVSPs and OEM end users
+Regarding support for decarbonizing the power sector, VGI can aid in providing essential grid
+reliability services as renewable energy penetration increases. As a form of battery storage, VGI-
+enabled EVs can provide many of the same types of grid services that stationary storage can
+provide, including resource adequacy, operating reserves, frequency regulation, and frequency
+response.
+20
+
+V. CONCLUSION:
+Joint Commenters appreciate the opportunity to submit these comments on VGI Issues.
+We look forward to further collaboration with the Commission and stakeholders on this
+initiative.
+Dated: August 17, 2020 Respectfully submitted,
+/s/ Edward Burgess /s/ Marc Monbouquette
+Edward Burgess Marc Monbouquette
+Vehicle-Grid Integration Council Enel X North America, Inc.
+2150 Allston Way, Suite 400 846 Bransten Road
+Berkeley, CA 94704 San Carlos, CA 94070
+Tel: (510) 665-7811 Tel: (415) 488-6035
+Email: vgicregulatory@vgicouncil.org Email: marc.monbouquette@enel.com
+/s/ Matt Stanberry /s/ Jin Noh
+Matt Stanberry Jin Noh
+Advanced Energy Economy California Energy Storage Alliance
+1000 Vermont Ave. NW, 3rd Floor, 2150 Allston Way, Suite 400
+Washington, D.C. 20005 Berkeley, CA 94704
+Tel: (202) 380-1950 Tel: (510) 665 7811
+Email: mstanberry@aee.net Email: cesa_regulatory@storagealliance.org
+/s/ Anthony Harrison /s/ Larissa Koehler
+Anthony Harrison Larissa Koehler
+ChargePoint, Inc. Pamela Macdougall
+254 East Hacienda Ave. Environmental Defense Fund
+Campbell, CA 95008 123 Mission Street, 28th Floor
+Tel: (408) 656-4292 San Francisco, CA 94105
+Email: anthony.harrison@chargepoint.com Tel: (415) 293-6093
+Email: lkoehler@edf.org
+/s/ Thomas Ashley /s/ Miles Muller
+Thomas Ashley Miles Muller
+Greenlots Natural Resources Defense Council
+767 S. Alameda St, Suite 200 111 Sutter Street, 21st Floor
+Los Angeles, CA 90021 San Francisco, CA 94104
+Tel: (802) 922-5585 Tel: (415) 875-8254
+Email: tom@greenlots.com Email: mmuller@nrdc.org
+21
+
+/s/ Chris King
+Chris King
+Siemens
+721 Shell Blvd, Suite 205
+Foster City, CA 94404
+Tel: (510) 435 5189
+Email: chris_king@siemens.com
+22

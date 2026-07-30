@@ -1,0 +1,214 @@
+June 25, 2024
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Comments of the Vehicle Grid Integration Council to Resolution E-5326:
+Approval, with modifications, of the rate design for Phase II of the Pacific
+Gas and Electric Company VGI Pilots RTP rate proposed in Advice Letter
+6694-E.
+Dear Sir or Madam:
+Pursuant to General Order 96-B and the Comment Letter accompanying Draft Resolution
+E-5326 (“Draft Resolution”), the Vehicle Grid Integration Council (“VGIC”) respectfully
+comments on the proposed approval of the Advice Letter (“AL”) 6694-E of Pacific Gas and
+Electric Company (“PG&E”) submitted on September 2, 2022.
+The Draft Resolution approves several rate design elements important to the launch of
+Phase II of PG&E’s Vehicle-Grid Integration (“VGI”) Pilots. VGIC appreciates the Commission’s
+continued efforts to implement Senate Bill (“SB”) 676, which directs the Commission to “establish
+strategies to maximize the use of feasible and cost-effective EV integration into the electric grid
+by January 1, 2030.”1 As the five-year anniversary of SB 676 and the four-year anniversary of
+Decision (“D.”) 20-12-029 implementing SB 676 fast approach, and the 2030 deadline for
+maximizing VGI draws near, VGI programs remain limited in scope and scale. The Commission
+must accelerate support for the state’s VGI goals, particularly given rising concerns about customer
+energy affordability. VGIC believes the Draft Resolution is generally consistent with the 2030 goal
+and the needs of VGI customers and ratepayers more broadly.
+VGIC generally supports the Draft Resolution and offers one recommended modification
+below to ensure customers have more than one choice for export compensation. VGIC does not
+believe our recommendation requires any delay to the planned July 11, 2024 Commission vote or
+the subsequent Phase II launch.
+1. VGIC Recommends a Path Forward That Would Provide VGI Pilot Participants
+with a TOU Export Rate Option Without Compromising Pilot Goals or the
+Commission’s Broader RTP Initiative
+1 Public Utilities Code Section 740.16.
+
+June 25, 2024
+Page 2 of 7
+Resolution E-5192 directs PG&E to offer both a dynamic real-time pricing (“RTP”) option
+and a static time-of-use (“TOU”) export option. However, the Draft Resolution offers a different
+directive, stating “the proposed RTP rate can provide cost-based export compensation for the VGI
+Pilots customers”2 and claims that PG&E did not provide sufficient evidence in the AL to authorize
+a TOU option at this time.
+First, as a matter of process, VGIC posits that the ~20-month gap between the filing of the
+AL and the release of the Draft Resolution would have been enough time for PG&E to be alerted
+to this deficiency and subsequently address it via a Supplemental Advice Letter. VGIC is
+disappointed that an “absence of sufficient evidence” is cited as one of two reasons why a TOU
+export credit will not be authorized at this time. VGIC respectfully requests that the Energy
+Division staff and Commission work proactively with the investor-owned utilities in the future to
+address similar deficiencies, especially for suspended Advice Letters experiencing lengthy delays
+between submission and disposition/resolution.
+The Draft Resolution offers another reason why the TOU option should not be authorized.
+The Draft Resolution asserts that it is reasonable for PG&E to offer only the dynamic rate option
+for its VGI Pilots to:
+“…effectively achieve the policy goals of (1) maximizing the learnings and benefits from
+the ratepayer funds authorized for the VGI Pilots, and (2) ensuring that VGI Pilots
+customers are compensated for their exports in a manner that is aligned with the CPUC’s
+adopted Rate Design and Demand Flexibility Design Principles.”3
+While these are worthy policy objectives that VGIC generally supports, neither D.20-12-029 nor
+Resolution E-5192 require customers enrolled in the VGI Pilots to be compensated for exports in
+a manner that is aligned with the CPUC’s Demand Flexibility Design Principles. Using the
+Demand Flexibility Design Principles as justification for eliminating the static TOU export rate
+option is inappropriate given that the Demand Flexibility Design Principles, although important,
+are not defined goals of the VGI Pilots in Resolution E-5192. VGIC recommends that the
+Commission remove this language from the Draft Resolution.
+Moreover, this reference to and reliance on the Demand Flexibility Design Principles is
+concerning. PG&E’s VGI Pilots, which were a direct result of SB 676 and intended from inception
+to maximize VGI opportunities, seem to have been superseded by the Commission's broader
+demand flexibility efforts. VGIC strongly supports aligning transportation electrification (“TE”)
+efforts and demand flexibility efforts and believes that demand flexibility strategies like RTP are
+an important element of maximizing the VGI potential. However, adopting a new framework for
+success and applying a new set of goals for the VGI Pilots to meet at this late stage overlooks the
+express purpose and importance of the VGI Pilots. The VGI Pilots were never designed to be
+2 Draft Resolution at 8.
+3 Draft Resolution at 8.
+
+June 25, 2024
+Page 3 of 7
+exclusively or even primarily an RTP experiment; they were established to spur the vehicle-to-
+everything (“V2X”) market and maximize VGI pursuant to SB 676.
+Notwithstanding these concerns, VGIC agrees that the RTP option has the potential to
+benefit customers, support the grid, and help achieve the VGI Pilot goals. However, we believe
+there is still value in offering a TOU option, which could be attractive to certain customers. We
+offer additional details and a recommended path forward in the sections below.
+a. Customers Should be Provided a Menu of V2X Compensation Choices.
+In its approval of this Draft Resolution and similar policy innovation efforts, the
+Commission must balance the benefits of providing clear regulatory signals to market actors and
+maintaining momentum on its policy initiatives with the risks of policy lock-in and path
+dependency toward relatively under deployed rate designs. In the case of the VGI Pilots, the
+Commission is “putting all its eggs in one basket” by eliminating the option of a static TOU export
+credit in favor of a single export compensation design.
+To this end, VGIC believes that several export compensation options should be made
+available to customers to increase the likelihood of achieving the VGI Pilot customer enrollment
+goal of 1,200 customers. EV customers have a diverse set of needs and serve a variety of use cases
+characterized by various duty cycles, dwell times, vehicle battery sizes, charge configurations, and
+site load characteristics. This diversity is evident in electric vehicle (“EV”) make-ready program
+reporting. For example, Southern California Edison’s (“SCE”) Charge Ready Transport shows a
+diverse set of site host segments and charger power output:
+
+June 25, 2024
+Page 4 of 7
+Figure 1. Southern California Edison, Transportation Electrification Program Advisory Council, March 8th, 2024, pg. 12 (Charge
+Ready Transport).4
+This diversity was also made clear by the 2019-2020 Joint CPUC-CEC VGI Working Group,
+which convened over 100 representatives from utilities, state and federal agencies, ISO/RTO,
+automakers, charging manufacturers, charge point operators, aggregators, transit agencies,
+research institutions, industry associations, environmental nonprofits, consumer groups, ratepayer
+advocates, standards development organizations, and other key stakeholders to define, sort, assess
+value, and rank 2,500 potential VGI use cases.5 Figure 2 below illustrates the various
+“dimensions” of the use case assessment:
+4 Southern California Edison, Transportation Electrification Program Advisory Council, March 8th, 2024, pg. 12
+(Charge Ready Transport).
+5 See Final Report of the VGI Working Group. https://gridworks.org/2020/09/final-report-of-the-
+california-joint-agencies-vehicle-grid-integration-vgi-working-group/
+
+June 25, 2024
+Page 5 of 7
+Given the considerable diversity of relevant use cases, it is beneficial for customers to be given
+the choice to participate in the option that best fits their specific needs and internal cost-benefit
+calculations.
+In the context of the VGI Pilots Phase II, limiting available V2X compensation options
+solely to the RTP option, rather than offering both RTP and static TOU options – as initially
+directed in Resolution E-5192 – would likely unnecessarily preclude certain eligible customers
+from participating in the pilot. Static TOU price signals may better suit some customers' needs,
+goals, and technologies. Other customers may be attracted to a dynamic optimization approach
+that relies on RTP signals. Yet other customers may seek to not participate in either of these options
+and instead favor the capacity payment structure of the CEC Demand Side Grid Support: Option
+3 or another non-rate program. There may not be a one-size-fits-all approach to unlocking V2X
+capability to support the grid. Just as grid planners seek fuel diversity in the bulk power generation
+profile, the Commission should seek V2X strategy diversification. This is especially critical when
+considering the relative nascency of the V2X market, where there is a need to prompt initial
+customer response from a wide range of new vehicle classes and use cases, customer segments,
+charger sizes and types, site hosts, relevant agents and actors, and price sensitivities.
+By offering a portfolio of participation options, the Commission and utilities can
+experiment with more innovative rate designs, like the RTP approach that would be approved by
+the Draft Resolution, while still maintaining the key rate design principles of gradualism,
+simplicity, understandability, public acceptability, and feasibility of application. More widely
+tested export compensation mechanisms, such as static TOU export rates, can support these rate
+design principles. SCE appears to be developing a balanced portfolio of V2X compensation
+options, given its recent proposal for a static TOU export rate designed for EV customers.6
+Notably, SCE is not proposing to exclude V2X customers from its Phase 2 Dynamic Rate Pilot
+(authorized in D.24-01-032), but rather offering both options and allowing customers to choose
+6 A.24-03-019. SCE-01 at 25; SCE-04 at 121-138.
+
+June 25, 2024
+Page 6 of 7
+which works best for them. As detailed in Section 1.c., VGIC recommends PG&E model a TOU
+option after SCE’s recent proposal.
+b. Offering a TOU Option Would Not Interfere with the Commission’s Broader
+Initiative to Surface Key Learnings About RTP Implementation Ahead of the
+CEC’s 2027 Load Management Standard.
+VGIC appreciates the Commission’s efforts to advance RTP through the CalFUSE
+framework and reiterates its general support for this initiative. We believe that offering a static
+TOU export credit option in the VGI Pilots Phase II would not negatively impact these broader
+RTP efforts, as it will not meaningfully curb the lessons learned from RTP implementation. The
+Commission should look to the PG&E and SCE D.24-01-032 expanded dynamic rate pilots rather
+than the VGI Pilots Phase II for RTP implementation lessons for two reasons.
+First, VGIC believes the expanded dynamic rate pilots authorized in D.24-01-032 will yield
+clearer findings about RTP implementation than the VGI Pilots because the latter are more
+complex. PG&E and SCE’s D.24-01-032 expanded dynamic rate pilots are technology-agnostic.
+As a result, these pilots will see participation from customers with more established technologies
+than V2X charging equipment. In contrast, the VGI Pilots Phase II participants will be faced with
+not only a new RTP rate design but also new equipment, new upfront incentives, new mobile
+applications, and new relationships with vendors. These factors may make it more difficult to
+isolate the impact of the RTP rate design on participant behavior in the VGI Pilots compared to the
+D.24-01-032 pilots.
+Second, the D.24-01-031 dynamic rate pilots will operate at a larger scale than the VGI
+Pilots. The expanded dynamic rate pilot implementation budgets exceed $30 million and aim to
+achieve 50 MW of load reduction, whereas the VGI Pilots Phase II budgets are around $10 million,
+pending resolution on AL 6909-E, and aim to enroll ~1,200 customers. It is reasonable to expect
+much clearer trends in evaluating the impact of RTP pricing on the number of customers needed
+to yield 50 MW of load reduction than the ~1,200 VGI Pilots Phase II customers.
+For these two reasons, VGIC believes the Commission will learn more about RTP
+implementation from these pilots than from VGI Pilots Phase II and, as a result, establishing a
+TOU option should not be viewed as interfering with the Commission’s broader efforts.
+c. Ordering Paragraph 2 Should be Amended to Allow PG&E to Submit a
+Proposal to Offer a Cost-Based Static TOU Export Option to New VGI Pilot
+Participants by May 1, 2025.
+To avoid any further delays to the launch of Phase II, VGIC recommends the Commission
+allow PG&E to submit an Advice Letter requesting approval for a cost-based rate design after the
+launch of Phase II. VGIC recommends PG&E develop its cost-based static TOU rate structure
+using relevant components from the Commission’s Avoided Cost Calculator including GHG cap
+and trade (marginal emissions), generation energy, generation capacity, transmission, distribution,
+
+June 25, 2024
+Page 7 of 7
+ancillary services procurement, and losses. This would offer a straightforward, easy-to-understand,
+and cost-based price signal for summer on-peak exports.
+The VGI Pilots were initially expected to launch in 2022 and run for three years, and there
+have been several delays since the approval of Resolution E-5192. VGIC cannot state for certain
+whether VGI Pilots will run past 2025; however, we believe it is useful to plan for this possibility.
+VGIC recommends the Commission allow PG&E to propose a cost-based TOU export credit,
+effectively correcting the deficiencies in the AL. PG&E should aim to offer this TOU option to
+new VGI Pilot participants by May 1, 2025. VGIC posits that ~10 months would be a reasonable
+timeline for correcting the initial deficiency and subsequent CPUC disposition/resolution, given
+the singular focus of the effort and the foundation provided by SCE’s VGRP. VGIC offers the
+following redline to Ordering Paragraph 2 of the Draft Resolution:
+“2. PG&E is not authorized to offer a TOU option for Phase II of the PG&E Residential
+and Commercial Fleet Vehicle Grid Integration Pilots (VGI Pilots) at this time. PG&E
+may file a Tier 2 advice letter within 90 days of the issuance of this Resolution with a
+cost-based static TOU export rate structure option. This advice letter shall also
+identify the project plan for offering the rate option to new VGI pilot participants by
+May 1, 2025.”
+Conclusion
+VGIC appreciates the opportunity to submit these comments to the Draft Resolution and
+looks forward to future collaboration with the Commission and other stakeholders on this
+initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council
+cc: Achintya Madduri, Energy Division (Achintya.Madduri@cpuc.ca.gov)
+Paul Phillips, Energy Division (Paul.Phillips@cpuc.ca.gov)
+Sidney Bob Dietz II, c/o Stuart Rubio, PG&E (PGETariffs@pge.com)
+Chloe Lukins, Public Advocates Office (Chloe.Lukins@cpuc.ca.gov)
+Service Lists: R.22-07-005 and A.20-12-011

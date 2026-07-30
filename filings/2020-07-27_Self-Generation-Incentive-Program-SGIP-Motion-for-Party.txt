@@ -1,0 +1,113 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Policies, Rulemaking 20-05-012
+Procedures and Rules for the Self-Generation (Filed May 28, 2020)
+Incentive Program and Related Issues
+MOTION FOR PARTY STATUS OF VEHICLE-GRID INTEGRATION
+COUNCIL
+Edward Burgess
+Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+July 27, 2020
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Policies, Rulemaking 20-05-012
+Procedures and Rules for the Self-Generation (Filed May 28, 2020)
+Incentive Program and Related Issues
+MOTION FOR PARTY STATUS OF VEHICLE-GRID INTEGRATION
+COUNCIL
+I. Introduction
+The Vehicle-Grid Integration Council (“VGIC”)1 respectfully moves for party status in
+this proceeding in accordance with Section 1.4 of the California Public Utilities Commission
+(“Commission”) Rules of Practice and Procedure.
+II. Interest in this Proceeding
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+VGIC and its member companies are engaged in developing and deploying technologies
+that could be directly impacted by the Rulemaking (R.) 20-05-012. Specifically, our member
+companies are focused on VGI applications that include bi-directional systems (charging and
+discharging) to leverage the utilization of an EV’s embedded mobile energy storage capacity
+(including batteries or fuel cells) for a number of near-term use cases. VGIC members and
+supporters have already developed, demonstrated, and publicly reported on vehicles and
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California LLC, Enel
+X North America, Inc., Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nissan North
+America, Inc., Nuvve Corporation, and Toyota Motor North America, Inc. The views expressed in these Comments
+are those of VGIC, and do not necessarily reflect the views of all of the individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/).
+2
+
+charging equipment with advanced VGI capabilities, and plan to continue development of
+production-ready vehicles and charging equipment. We believe that these capabilities are
+strongly aligned with the purpose and goals of the Self-Generation Incentive Program (“SGIP”)
+program, including GHG emissions reduction, resiliency, and equity. As such, the SGIP
+technology eligibility policies, procedures, and rules that are being considered in this proceeding
+are of great interest to the VGIC.
+While VGIC firmly believes that a broad set of bi-directional VGI solutions could
+ultimately be considered eligible under the SGIP framework, at this time we believe that it is
+appropriate for a very limited subset of high priority bi-directional solutions to be included in the
+immediate scope of the instant proceeding. Specifically, VGIC would like to focus on the
+opportunities for bi-directional VGI solutions that provide backup power to customers impacted
+by Public Safety Power Shutoffs (“PSPS”). These solutions have the potential to complement the
+suite of other eligible SGIP technologies in providing clean, safe, and affordable backup power
+that are or could be deployed in the very near term to aid larger resiliency efforts within the SGIP
+equity-resiliency framework. This would also provide critical demonstrations for VGI
+technologies that would yield learnings and spillover benefits for other applications.
+As such, VGIC is interested in commenting on the preliminary list of issues in scope,
+including the “consideration of EVs or EV supply equipment (“EVSE”) as eligible technologies,
+beyond existing SGIP processes.” 2
+The outcome of decisions made in this proceeding related to these issues may have
+material impact on the products and services developed by VGIC member companies and
+supporters. VGIC requests party status in order to contribute to the near-term development of
+SGIP rules which could allow bi-directional VGI solutions to support resiliency goals.
+VGIC recognizes that technical considerations and pilot opportunities for the use of bi-
+directional VGI backup power solutions and to provide near-term relief to EV customers
+vulnerable to Public Safety Power Shutoffs (“PSPS”) are actively being discussed in Track 2 of
+the Microgrids and Resiliency Strategies Proceeding (R.19-09-009). However, VGIC believes
+that the SGIP program objectives are particularly well-aligned with the benefits VGI backup
+2 ALJ Email Ruling Noticing July 29, 2020 Pre-Hearing Conference (PHC) and Providing PHC Guidance, July 17, 2020
+3
+
+solutions have to offer.3 VGIC also notes that the VGI resilience solutions being contemplated
+are a form of bidirectional storage that are distinct from “V1G” smart charging, which we do not
+recommend to be considered in scope at this time.
+VGIC and its members companies and supporters are interested in developing market
+pathways for these high-value backup power solutions, and we want to ensure that industry
+perspectives are sufficiently represented. VGIC intends to provide a formal oral statement during
+the upcoming Prehearing Conference scheduled for July 29, 2020. In addition, VGIC plans to
+actively participate in subsequent actions within this proceeding.
+III. Notice
+Service of notices, orders, and other correspondence in this proceeding should be directed
+to VGIC at the address set forth below:
+Edward Burgess
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (501) 655-7811
+E-mail: vgicregulatory@vgicouncil.org
+IV. Conclusion
+VGIC’s participation in this proceeding will not prejudice any party and will not delay
+the schedule or broaden the scope of the issues in the proceeding. For the reasons stated above,
+VGIC respectfully requests that the CPUC grant this Motion for Party Status filing.
+Dated: July 27, 2020
+Respectfully submitted,
+3 California Public Utilities Commission, “Staff Proposal for Facilitating the Commercialization of Microgrids
+Pursuant to Senate Bill 1339” 23-27, Proposal 5: Direct Utilities to Conduct Pilot Studies of Low-cost, Reliable
+Electrical Isolation Methods. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M344/K038/344038386.PDF
+4
+
+Edward Burgess
+Policy Director
+Vehicle-Grid Integration Council
+Tel: (501) 655-7811
+E-mail: vgicregulatory@vgicouncil.org
+5

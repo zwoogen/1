@@ -1,0 +1,273 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 11.1 AND 11.2)
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: September 4, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 11.1 AND 11.2)
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council1 (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Adding Staff Proposal for a Draft
+Transportation Electrification Framework to the Record and Inviting Party Comments issued by
+ALJ Patrick Doherty on February 3, 2020. Pursuant to Email Ruling Resetting Procedural
+Schedule for Comments on Transportation Electrification Framework Sections issued by ALJ
+Sasha Goldberg on August 4, 2020, VGIC timely files these reply comments on Sections 6, 11.1,
+and 11.2 of the Draft Transportation Electrification Framework on September 4, 2020.
+In opening comments, VGIC referenced its Joint Comments on VGI Issues which
+introduced the concept of a VGI Portfolio and gave a brief description of several portfolio
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California
+LLC, Enel X North America, Inc., Fiat Chrysler Automobiles, Ford Motor Company, General Motors
+Company, Nissan North America, Inc., Nuvve Corporation, and Toyota Motor North America, Inc. The
+views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+1
+
+elements. VGIC would like to clarify a few aspects of these elements of its proposed Model VGI
+Portfolio. 2
+1. Priorities and Process
+VGIC recognizes that the Commission and Energy Division Staff may have limited time and
+resources to take on major new initiatives within the DRIVE OIR at this juncture, and that a
+comprehensive VGI Portfolio with many new elements may present a challenge in that regard.
+As such, we recommend the Commission prioritize certain elements of the proposed VGI
+portfolio to be addressed in the near-term within the DRIVE OIR, while recognizing that some of
+the proposed elements of the Portfolio can be added at a later date, or simultaneously addressed
+through parallel proceedings. VGIC suggests that the priority portfolio elements for near-term
+DRIVE OIR consideration should include: (1) Customer acquisition/participation incentives,
+with an emphasis on upstream incentives; (2) Active/Automated Load Management Tariff3 for
+Distribution Upgrade Deferral4; (3) EV Capacity for Resource Adequacy; and (4) V2G Export
+Bill Credits.
+VGIC believes these represent urgent and important VGI strategies that are also
+potentially novel and thus suitable for development through the DRIVE OIR. Note that VGIC
+also views support for resiliency programs as a major priority at this time, and we continue to
+advocate for VGI solutions in the Microgrids and Self Generation Incentive Program (“SGIP”)
+proceedings. Additionally, several ongoing ratemaking proceedings are considering EV-specific
+2 Joint Comments of the Vehicle-Grid Integration Council, Enel X North America, Inc. , Advanced Energy Economy,
+California Energy Storage Alliance, Chargepoint, Inc., Environmental Defense Fund, Greenlots, Natural Resources
+Defense Council, and Siemens on Email Ruling Seeking Party Comment on Vehicle-Grid Integration Issues
+3 Note that while this is a priority for VGIC, we have not added any additional comments in this filing.
+4 See, for example, Joint Comments of Enel X and Nuvve on TEF Technology and Standards and Comments of VGIC
+on TEF Technology and Standards
+2
+
+or tech-agnostic EV-applicable rate structures and are likely to unfold independently of the
+DRIVE OIR and TEF. These are examples where a VGI Portfolio could reference and
+incorporate programs, policies, and funding sources tied to other proceedings, while still
+providing a comprehensive overview of all VGI-related efforts, both those occurring through
+these parallel efforts and any new elements developed within the DRIVE proceeding.
+2. Total VGI Portfolio Budget
+In Opening Comments, VGIC referred to an illustrative VGIC portfolio but did not specify any
+funding levels for this. VGIC believes that as an initial approximation for planning purposes, an
+appropriate budget for the overall VGI Portfolio could be on the order of 10-15% of any
+underlying TE plan. However, VGIC cautions that this should be considered additive to the non-
+VGI components of the TE plan, rather than seen as a replacement for critical investments in TE
+infrastructure. For example, if an existing TE plan budget were $400 million, this could be
+supplemented with a standalone VGI Portfolio budget of $40 million over the same period.
+VGIC also notes that current TE planning approaches include meaningful budget set asides for
+customer ME&O. Some of this ME&O set-aside amount could overlap and substitute for a
+portion of the VGI Portfolio budget, thereby reducing the overall increase in upfront ratepayer
+costs associated with a VGI portfolio. However, there is still a need for non-VGI-related ME&O.
+Finally, VGIC notes that several of the priority elements identified above are designed to be
+“revenue neutral” and may require some upfront investment, but are intended to provide net
+savings to ratepayers over time. If VGI Portfolio budgets were to reflect the net revenue impacts
+of these components, then the VGI Portfolio budget would appear to be significantly smaller.
+3. Customer Acquisition/Participation – Upstream Incentives (priority for DRIVE OIR)
+3
+
+Several parties have observed that the VGI WG efforts significantly lacked focus on customer
+experience of EV owners, drivers, or fleet managers. VGIC believes it is critical to address the
+potential barriers to customer participation in VGI rates, programs, and market opportunities.
+One tool for addressing this is an “upstream” incentive for customer acquisition/participation.
+While many structures could be envisioned, this could take the form of a direct payment to
+OEMs/EVSPs who are successfully able to: (i) Support enrollment in EV rates and VGI
+programs, or (ii) Support and administer successful ongoing participation in EV rates and VGI
+programs.5
+The upstream incentive could be administered in several tiers to encourage both initial
+enrollment as well as sustained and successful ongoing participation. It can also continuously
+evolve to support the array of current and future VGI strategies and use cases. A base incentive
+level could be provided to OEMs/EVSPs for enrolling EV owners in an EV rate or VGI program.
+As VGI strategies and programs grow in both complexity and value to the grid, they could be
+offered additional tiers of incentives for enrollment/participation of EV owners in those
+incremental programs. For example, an automotive OEM could work to sign an EV owner up
+for an EV rate by communicating directly to an EV owner through a mobile app or vehicle
+display in exchange for a one-time rebate. From the EV owner’s perspective, they have been
+informed of the opportunity to save charging costs by responding to the EV rate or participating
+in the VGI program. Additional incentive tiers could then be reserved for OEMs/EVSPs that
+directly engage EV owners to opt into automated charging programs in response to price signals
+5 Research on customer response to time-based rates supports a focus on customer enrollment and behavior. See
+Customer Acceptance, Retention, and Response to Time-Based Rates from the Consumer Behavior Studies, U.S.
+Department of Energy, Electricity Delivery & Energy Reliability, November 2016
+https://www.energy.gov/sites/prod/files/2016/12/f34/CBS_Final_Program_Impact_Report_Draft_20161101_0.pdf
+4
+
+and/or specific VGI program parameters. These actions could be administered “behind the
+scenes” by the OEM/EVSP subject to the owner’s range or state of charge preference.
+A separate category of incentive could be focused on continued participation to prevent
+customer attrition and could be relatively modest if there are meaningful price signals linked to
+actual provision of VGI services. In cases where there are not meaningful price signals,
+incentives could be tied to performance with greater incentive levels tied to better performance
+(although still “behind the scenes” from the EV owner perspective). For the EV owner, the
+OEM/EVSP-managed charging/discharging can lower charging costs “automatically” with
+minimal engagement on their part. Some payments to OEM/EVSPs could also be reserved for
+enrollment and participation in increasingly more advanced VGI use cases, including V2G,
+demand response, ancillary services, and so on, including direct wholesale market participation.
+This would not preclude OEM/EVSP providers from recruiting and retaining customers through
+other means, but simply offers a reward for companies that are successful in doing so.
+Notably, this upstream incentive model would capitalize on the combined centuries of
+experience that OEMs/EVSPs have in marketing and engaging directly with customers in a
+competitive environment. In opening comments Attachment A, SCE included data highlighting
+that OEMs are overwhelmingly the primary channel for customers seeking information on EVs,
+as well as the primary channel for information on incentives. Furthermore, SCE’s findings state
+“most (94%) customers feel that the automotive companies should be responsible for advertising
+related to EVs.”6 This evidence strongly supports an upstream incentive model to meet customer
+needs and expectations for the OEMs’ role in ME&O. By allowing these industry participants to
+6 Southern California Edison Company’s (U 338-E) Opening Comments on Equity, VGI, and ME&O (Sections 6, 11.1,
+and 11.2) – Attachment A “Southern California Edison EV Awareness and Advertising Online Panel Research” at 2-4.
+5
+
+bridge the gap between the complex array of rates/programs and the EV owner/operator, the
+customer experience will be met and made simpler, clearer, and less demanding and less
+dependent on inherently limited IOU ME&O activities.
+An upstream VGI incentive would also directly support broader TE goals by
+incentivizing OEMs/EVSPs to expand their EV advertising and marketing efforts. Additionally,
+these payments could be structured to ensure EV customers also receive some portion of direct
+benefits from participation. This virtuous cycle will scale the market and grid, ratepayer, and
+environmental benefits from widespread VGI and TE.
+4. Workplace Charging
+In Opening Comments (referencing Joint Comments), VGIC briefly described a VGI Portfolio
+element related to incentives for Workplace Charging. VGIC believes a concerted effort on
+workplace charging could be of value to ratepayers if it can 1) aid in absorbing excess day-time
+solar generation and b) shift charging away from the evening peak, thereby minimizing resource
+adequacy capacity needs. VGIC is also aware that TE Plans are likely to contain (and already do)
+workplace charger EVSE investments. However, these investments do not guarantee utilization
+that maximizes day-time charging. As such, incremental incentives to EVs, EVSPs, and/or site
+hosts may be warranted to encourage this behavior and build mid-day charging load through
+VGI, whether EVSE- or EV-based, L2 or L1. These incentives need not be designed to cover the
+full cost of a new charger. VGIC would be eager to work with ED staff to more precisely
+quantify the grid value of workplace charging and to identify the appropriate incentive levels,
+mechanisms, and performance criteria needed to fill the workplace charging gap. Greater access
+to workplace charging may significantly benefit EV drivers residing in multi-unit dwellings,
+6
+
+older homes requiring significant electrical panel upgrades, and disadvantaged communities
+which may not have access to L2 or L1 charging.
+5. EV Capacity for Resource Adequacy (priority for DRIVE OIR)
+In Opening Comments (referencing Joint Comments), VGIC briefly described a VGI Portfolio
+element related to Capacity Deferral, noting that there are both existing and possible new
+capacity-oriented programs that EVs could participate in (including Demand Response).
+Considering the recent August 2020 heat wave blackouts, VGIC believes the Commission should
+accelerate procurement of a wide variety of Resource Adequacy capacity, including capacity
+from EVs. Assuming a 1.5 million LDV population by 2025,7 an average EV/EVSE power rating
+of 10 kW,8 and a modest 5% participation rate in a program/tariff intended to provide RA
+capacity during a grid reliability event, VGIC estimates that EVs existing in 2025 could provide
+over 750 MW of capacity – a significant contribution to California’s urgent RA needs. This
+estimated capacity value is doubled (to 1,500 MW) if vehicles are also encouraged to discharge
+during peak times. Note this estimate does not include the capacity of medium- and heavy-duty
+vehicles, which have a considerably higher average battery energy capacity than LDVs.
+VGIC would be eager to work with ED Staff to estimate the capacity potential of new or
+existing EVs over a 5-10 year time horizon. We recommend applying the widely used EVI-Pro
+tool to better pinpoint the amount of VGI capacity available under different EVSE/EV
+deployment scenarios. To the extent a new EV-specific capacity program is implemented as part
+of a VGI Portfolio, VGIC recommends consideration of a new customer incentive approach that
+7 Under Executive Order B-48-18
+8 Assumes a mix of L1, L2, and DCFC chargers. According to InsideEVs Plug-in EV Sales Scorecard, the most popular
+selling ZEV models in 2019 were Tesla Model 3, Toyota Prius Prime, Tesla Model X, and Chevrolet Bolt EV. A rough
+average of available battery capacity options for each model results in a conservative 66 kWh estimate.
+https://insideevs.com/news/343998/monthly-plug-in-ev-sales-scorecard/
+7
+
+would include an upfront payment for purchase of VGI-enabled EV/EVSE and program
+enrollment, a reservation payment for responding to test events, and a performance payment for
+actual grid events. The reservation payment ensures the capacity remains available and
+responsive, while aiding customer understanding of grid-responsive charging/discharging
+behavior, even if such services are managed “behind the scenes.”
+6. Advanced Telemetry for Distribution System Operations
+Joint Comments on VGI Issues provide further detail on this VGI Portfolio component. VGIC
+believes this service could be delivered to IOUs if they choose to (or are required to) solicit grid
+services (e.g. through an RFP) from VGI-enabled EVs to provide operational support (e.g.,
+voltage support).
+7. Cost-Effectiveness
+In Opening Comments, VGIC recommended against an overly strict cost-effectiveness screening
+in the early stages of VGI. However, we would be supportive of developing a more complete
+cost-effectiveness framework to assess programs and policies following the first full cycle of
+VGI Portfolios (e.g. after ~2 years). This will allow sufficient experience with several VGI
+Portfolio elements, which will be needed to properly evaluate cost-effectiveness. We continue to
+support a staged approach to developing this methodology and a focus on portfolio-level
+outcomes.
+8. VGI Research and Data Collection
+In Opening Comments on VGI Issues, Cal Advocates supported establishing a VGI Data
+Program to help gather, model, and analyze data related to VGI use-cases. VGIC supports Cal
+Advocates’ recommended draft scope of work and recommends a VGI Data Program take place
+8
+
+concurrently with implementation VGI strategies, rather than serving as a prerequisite at this
+time. The following revisions should be made to Cal Advocate’s recommended draft scope:
+ Add: Coordinate with OEMs, EVSPs, and/or third-party entities to collect and share data
+through partnership agreements or data platforms. This will likely require some level of
+investment to attract OEMs and EVSPs as partners and compensate third-parties for costs
+associated with data collection software, aggregation and anonymization, compliance
+with applicable legal and regulatory requirements, protections of customer data privacy,
+anti-competitiveness considerations, and cybersecurity protections.
+ Remove: “Whether the program participants should answer the following question: How
+does the value of VGI use cases compare to other storage or DERs?”9 Given the unique
+nature of VGI use cases, the nascency of the VGI market, the complexity embedded
+within this question, and the opportunity to implement VGI strategies without answering
+it, VGIC recommends that this question not be included in the scope.
+VGIC strongly encourages the Commission and Energy Division to coordinate this VGI Data
+Program with California Energy Commission (“CEC”) to ensure there are no duplicate efforts
+and to leverage each agency’s unique strengths and resources.
+9. Marketing, Education, and Outreach
+As outlined in VGIC’s Opening Comments and above, OEMs and/or EVSPs could provide a
+valuable avenue for direct customer education on rates, programs, or general VGI ME&O
+efforts. VGIC believes that the upstream incentive mechanism discussed above would incent
+OEMs/EVSPs to undertake ME&O efforts on EV rates and VGI programs by necessity.
+Furthermore, areas of overlap between TEP ME&O carveouts and VGI Portfolio ME&O
+carveouts should be identified and coordinated in their approach.
+10. V2G Export Bill Credit (priority for DRIVE OIR)
+VGIC Opening Comments included this as a Portfolio element under the umbrella of “Dynamic
+Rate Options” and reserves more detail for the TEF Rates comment period. As an initial matter,
+9 CalAdvocates Opening Comments on VGI Issues at 6.
+9
+
+VGIC does not believe it is premature to consider V2G compensation structures. The recent Rule
+21 Proposed Decision, if adopted, will significantly advance V2G pilots10. Thus it would be
+prudent to begin exploring V2G compensation structures now.
+11. IOU Coordination
+VGIC supports coordination between IOUs wherever possible to ensure a uniform and
+streamlined implementation process. As national companies, VGIC’s members generally seek to
+minimize the overall number of program administrators they must interact with. A statewide
+approach to VGI can better attract investment and is consistent with the evolution of the Clean
+Fuel Reward.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: September 4, 2020
+10 See Proposed Decision Adopting Recommendations from Working Groups Two, Three, and Subgroup in R.17-07-
+007 https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M345/K380/345380320.PDF
+10

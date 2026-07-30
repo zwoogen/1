@@ -1,0 +1,137 @@
+January 28, 2025
+Email to: docket@energy.ca.gov
+Docket Number: 22-RENEW-01
+Subject: California Energy Commission Demand Side Grid Support Program Guidelines
+RE: Comments of the Vehicle Grid Integration Council on the Revised Demand Side Grid
+Support Program Draft Guidelines, Fourth Edition
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide comments
+on the revised Demand Side Grid Support (DSGS) Program Draft Guidelines, Fourth Edition
+published by the California Energy Commission (CEC) on January 14, 2025.
+VGIC appreciates the inclusion of electric vehicles (EVs) and electric vehicle supply equipment
+(EVSE) in DSGS. Option 3 not only allows vehicle-to-everything (V2X) bidirectional charging
+systems to provide emergency capacity and respond to extreme events, but it also establishes a
+foundation for future V2X programs in California. With the inclusion of EVSE in the proposed
+Option 4, EVs will also be eligible to provide significant amounts of load reduction for near-term
+grid needs through unidirectional managed charging. California already has 1.5 million EVs that
+can contribute to the Strategic Reliability Reserve, and with further growth expected, on-road EVs
+will undoubtedly support California’s long-term reliability and clean energy needs.
+However, VGIC emphasizes that, for existing program options, maintaining stability in DSGS is
+essential so that participants can rely on and plan for the program. Customers and aggregators have
+made investments and plans with the understanding that current participation rules would be
+largely maintained in 2025 and going forward. If the CEC changes program rules frequently such
+that customers lose eligibility between years, or aggregators must adapt to new processes, many
+may withdraw from the program due to increased uncertainty. Frequent rule changes can be
+particularly disruptive for smaller or early-stage participants, including bidirectional charging
+customers and aggregators, who have limited resources to adapt quickly.
+To support success in DSGS and provide additional resources for near-term grid reliability needs,
+VGIC provides the following recommendations:
+● Adding prescriptive baselines for V2X resources in 2026 is premature at this time.
+● The 100-kW minimum aggregation size should be maintained for EV resources in Option
+3.
+1
+
+● VGIC supports including EVSE in option 4, but the minimum aggregation size should be
+modified.
+ADDING PRESCRIPTIVE BASELINES FOR V2X RESOURCES IN 2026 IS
+PREMATURE AT THIS TIME.
+VGIC opposes the CEC’s proposal to add a prescriptive baseline for V2X resources in Option 3.
+Currently, there is no prescriptive baseline applied to EVs participating in Option 3, but the new
+Revised Draft Guidelines propose that “Beginning in the 2026 program season, baselines shall be
+applied to all resources participating in DSGS Option 3.” VGIC strongly believes that applying a
+prescriptive baseline is premature for V2X resources at this time.
+Unlike the landscape for stationary battery resources, bidirectional EVs and V2X remains a
+relatively nascent industry with many barriers, most notably the limited availability and high cost
+of bidirectional chargers and a lack of compensation programs to incentivize V2X installations. In
+fact, DSGS is currently the only statewide program in California that compensates for energy from
+EV discharge and exports. The second most widely available program, the Emergency Load
+Reduction Program (ELRP), has a distinct compensation structure compared to DSGS Option 3
+and is available only for investor-owned utility customers. There are also no widely available rate
+tariffs that compensate for V2X exports. Other programs, rates, and tariffs for V2X are limited
+pilots offered by specific utilities.
+The primary goal of DSGS is to incentivize energy contributions that would not occur otherwise
+during times of grid stress. Given the general lack of V2X program and rate offerings, it is
+likely that V2X discharge provided during a DSGS event would not have been provided
+absent program participation. Baselines are typically utilized in demand response programs to
+measure performance and ensure incrementality. While VGIC understands the CEC’s intent to
+reflect some element of regular discharge, as seen with stationary batteries under the Net Billing
+Tariff (NBT), V2X resources differ significantly in their operational context. There is no widely
+available tariff to allow for V2X discharge to serve behind-the-meter load or exports (unlike NBT
+for stationary batteries) and the IOUs’ Rule 21 interconnection costs to allow for grid parallel V2X
+operations are extremely high ($800 per application vs. the $75 - $145 fee for NBT installations <
+1 MW). DSGS also already explicitly prohibits dual participation in other demand response
+programs that are compensating for the same reduction in use of electricity or export. Therefore,
+applying a prescriptive baseline would erroneously classify V2X participation as non-incremental.
+With this in mind, VGIC believes that imposing a prescriptive baseline for V2X resources in 2026
+is premature and risks undermining the growth and potential of this emerging sector. If a baseline
+is not critical to establish incrementality, it only serves to reduce compensation to customers and
+aggregators. VGIC recommends the CEC remove the language adding baseline requirements until
+2
+
+a clearer understanding of V2X discharging behaviors and patterns emerges, which could occur
+following the 2025 season.
+THE 100 KW MINIMUM AGGREGATION SIZE SHOULD BE MAINTAINED FOR EV
+RESOURCES IN OPTION 3.
+In the prior Draft Fourth Edition DSGS Guidelines, the CEC proposed to increase the minimum
+aggregation size for Option 3 resources from 100 kW to 500 kW across all utility service territories
+and resource durations. The Revised Draft Guidelines released in January now propose 3 different
+minimum aggregation options for participating aggregators in Option 3: 400 kW across all utility
+service territories and resource durations, at least one aggregation with a total minimum nameplate
+power rating of 200 kW, or at least three aggregations with a total minimum nameplate power
+rating of 100 kW each. VGIC believes that this is an improvement over the previous proposal for
+a 500 kW minimum aggregation size, but we recommend that the CEC maintain a 100 kW
+minimum aggregation size for V2X resources currently included in Option 3.
+As discussed above, V2X is still a nascent industry, and many V2X portfolios developed by
+aggregators may struggle to meet the minimum aggregation thresholds proposed above.
+Additionally, aggregators have been planning DSGS participation around the 100 kW minimum
+aggregation size. As discussed in the introduction, the CEC should aim to maintain as much
+program certainty as possible to maximize customer participation in the program. Significant
+changes to the program structure, including the very important minimum aggregation size, will
+discourage aggregators and customers from participating. This is especially true for V2X
+resources, which are less common, face more barriers to deployment, and primarily use their EV
+for mobility needs rather than electric grid services.
+VGIC SUPPORTS INCLUDING EVSE IN OPTION 4, BUT THE MINIMUM
+AGGREGATION SIZE SHOULD BE MODIFIED.
+VGIC appreciates the CEC staff extensive consideration of EVs and EVSE in DSGS, and we
+strongly support the Revised Draft Guidelines inclusion of these resources in the new program
+Option 4, Emergency Load Flexibility Virtual Power Plant Pilot. As discussed above, bidirectional
+V2X equipment is still relatively high-cost and nascent. On the other hand, and as previously
+discussed by VGIC in comments on DSGS, unidirectional EVs and EVSE are much more common
+and EVs are well positioned to provide demand response via load reduction (commonly referred
+to as V1G). With nearly 2 million EVs already sold in California, and millions more expected to
+achieve California’s Advanced Clean Cars II and Advanced Clean Trucks rules, EVs provide
+immense potential load reduction that is only increasing given the scale and pace of EV charging
+load growth.
+3
+
+However, the proposed Option 4 minimum aggregation size risks foregoing greater EV
+participation in DSGS. The Revised Draft Guidelines include similar minimum aggregation terms
+to Option 3, but instead of having aggregation sizes based on nameplate kW, they are based on the
+number of devices enrolled. This means that the fewest EVs that an aggregator would be able to
+amass is 200 EVs in a single utility service territory. This may reduce the number of aggregators
+that can participate in DSGS Option 4. Additionally, in comparison to the HVAC and electric
+water heater loads included in Option 4, EVs are larger and more flexible loads. Light-duty, high-
+powered level 2 chargers often exceed 8 kW and drivers typically charge for only 2 hours during
+a 10 hour plug-in session.1 Medium- and heavy-duty level 2 chargers can be larger, e.g., up to ~20
+kW of power, while very large DC Fast Chargers can draw hundreds of kWs of power.2 With this
+in mind, it is likely that EVs will be able to achieve larger load reductions with fewer devices.
+VGIC therefore recommends that the CEC utilize a minimum aggregation size based on the ability
+for EVs to achieve incremental load reduction, instead of the number of devices. Other programs
+have taken a similar approach. For example, ELRP has a minimum aggregation size of 25 kW of
+incremental load reduction for EVs in a single utility service territory. Given that Option 4 will
+measure performance against nominated capacity, we believe setting a minimum aggregation size
+based on nominated capacity is more appropriate than device number. VGIC suggests that the CEC
+adopt the same 25 kW minimum aggregation size used in ELRP Subgroup A.5: EV Aggregation.
+CONCLUSION.
+VGIC appreciates the opportunity to provide these comments and looks forward to collaborating
+with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+1 SEPA State of Managed Charging 2024. Pg 8. https://sepapower.org/resource/state-of-
+managedcharging-in-2024/
+2 https://afdc.energy.gov/fuels/electricity-stations
+4

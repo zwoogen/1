@@ -1,0 +1,617 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION ADOPTING PLUG-IN ELECTRIC
+VEHICLE SUBMETERING PROTOCOL AND ELECTRIC VEHICLE
+SUPPLY EQUIPMENT COMMUNICATION PROTOCOLS
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+VEHICLE GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, CA 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+July 20, 2022
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION ADOPTING PLUG-IN ELECTRIC
+VEHICLE SUBMETERING PROTOCOL AND ELECTRIC VEHICLE
+SUPPLY EQUIPMENT COMMUNICATION PROTOCOLS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (“VGIC”) 1 hereby submits
+these comments on the Proposed Decision Adopting Plug-In Electric Vehicle Submetering
+Protocol and Electric Vehicle Supply Equipment Communication Protocols (“PD”), issued on June
+30, 2022.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., ENGIE NA, Fermata Energy, FlexCharging, Flo/AddEnergie, Ford Motor Company, General Motors
+Company, Nissan Group of North America, Nuvve Holding Corporation, Sacramento Municipal Utility District,
+Stellantis N.V., Sunrun, Switch EV Ltd, The Mobility House, Toyota Motor North America, Inc., Veloce Energy,
+Inc., Wallbox USA Inc., and WeaveGrid. The views expressed in these Comments are those of VGIC, and do not
+necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/).
+1
+
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+VGIC commends Energy Division Staff for its efforts to advance the use of submetering
+in the PD. While VGI aggregators participating in the Emergency Load Reduction Program
+(“ELRP”) are permitted to use EV supply equipment (“EVSE”) submetering to measure
+incremental load reduction,2 to VGIC’s knowledge this is the only existing submetering pathway
+available in California. If the Commission does not act to adopt an EVSE submetering protocol –
+or take additional steps to leverage vehicle telematics for the same purpose – other states are poised
+to “leapfrog” California by enabling these options at scale. VGIC considers the PD a critical step
+in enabling the transportation electrification (“TE”) future that California seeks and strongly
+encourages the Commission to expeditiously modify and approve the PD to advance EVSE
+submetering and EV telematics.
+Specifically, VGIC supports that the PD allows submetering for residential, non-
+residential, and multiple-customer-of-record (“MCOR”) customers rather than limiting
+submetering to only residential customers. Facilitating customer participation in EV-specific rates,
+Demand Response (“DR”) programs, and other VGI programs without having to install a separate
+meter is a critical and necessary step to unlocking widespread peak load reductions for EV
+charging, enabling key bidirectional charging use cases, accelerating the deployment of EVSE,
+and maximizing ratepayer and societal benefits. VGIC also appreciates that the PD utilizes a 1%
+lab / 2% field accuracy standard, consistent with the National Institute of Standards and
+Technology (“NIST”) Handbook 44 and the California Department of Food and Agriculture’s
+2 Energy Division’s Review and Disposition of Joint Advice Letter 6485-E et al. (June 17, 2022).
+2
+
+Division of Measurement Standards (“CDFA-DMS”) requirements. However, VGIC seeks
+clarification on crucial implementation steps for the submetering and EVSE communications
+protocols. Moreover, VGIC is disappointed that vehicle telematics – a viable form of submetering
+– is absent from the PD and recommends steps to address this oversight. Below is a summary of
+VGIC’s recommended enhancements to the PD:
+ Eligibility
+o The Decision should explicitly state that bidirectional chargers that comply with
+the submetering protocol are permitted to submeter both EV charging and
+discharging.
+o ii. The Decision should clarify that non-residential customers (in addition to
+MCOR customers) shall not be precluded from participation in submetering
+after this Decision, even if there are subsequent efforts to address the remaining
+barriers.
+ Implementation
+o Ordering Paragraph (“OP”) 2 should be modified to direct the utilities to update
+their rate tariff sheets in addition to their respective electric rules.
+o The Decision should direct each investor-owned utility (“IOU”) to assess and
+modify DR programs to ensure customers using EVSE submetering are not
+excluded or otherwise put at a disadvantage relative to customers using
+separately metered EVSE.
+ Approved Submetering List
+o The Decision should clarify that a customer may use a device for submetering
+once it appears on the Approved Submetering List and that no additional
+approvals are necessary. If this is not the case, the Decision should clarify at
+which point customers will be made aware of the devices they may use.
+o The Decision should direct utilities to maintain a single list of devices that
+comply with the applicable accuracy standards rather than duplicate lists.
+ EVSE Standards
+o The Decision should exempt EVSE used for bidirectional charging purposes
+from the proposed Combined Charging System (CCS) and International
+Organization for Standards (“ISO”) 15118 requirements to avoid mistakenly
+putting an abrupt end to critical ongoing efforts to pilot, demonstrate, and scale
+bidirectional charging use cases.
+o The Decision should align the Open Charge Point Protocol (“OCPP”) 1.6 and
+ISO 15118 requirements with the California Energy Commission’s (“CEC”)
+California EV Infrastructure Project (“CALeVIP”) and National EV
+Infrastructure (“NEVI”) program implementation timelines.
+3
+
+o OP 6 should be modified to clarify that “ratepayer-funded or utility-
+administered programs” refers only to EVSE rebates for ratepayer-funded
+“make ready” programs and Low Carbon Fuel Standard (“LCFS”)-funded
+programs and does not include DR programs or pilots, VGI programs or pilots,
+and EV rates.
+o The Decision should reference existing standards for bidirectional chargers to
+promote marketplace awareness.
+ Telematics
+o The Decision should reference the numerous party comments related to
+telematics and include corresponding Findings of Fact (“FOF”).
+o The Decision should direct Energy Division staff to host a workshop within 60
+days to discuss telematics, prepare a workshop report, and seek comments on
+the workshop report.
+Additionally, VGIC has detailed specific redline edits to the PD in Appendix A to this document,
+which address the recommendations above.
+II. RECOMMENDED ENHANCEMENTS TO THE PROPOSED DECISION.
+A. Eligibility
+i. The Decision should explicitly state that bidirectional chargers that comply with the
+submetering protocol are permitted to submeter both EV charging and discharging.
+Bidirectional chargers that comply with the submetering protocol should be eligible for
+submetering. Currently, customers seeking to use bidirectional charging systems to provide
+vehicle-to-home (“V2H”) or vehicle-to-building (“V2B”) backup power to their site must forego
+the opportunity to participate in compelling EV-specific rates, which require separate metering.
+Similarly, customers seeking to use V2B bidirectional charging systems to meet site load, for
+example, to manage demand charges, are unable to do so if they wish to take service under a
+compelling separately-metered EV-specific rate. Lastly, without submetering, bidirectional
+charging customers looking to take advantage of a vehicle-to-grid (“V2G”) export compensation
+mechanism, such as the pending Pacific Gas & Electric (“PG&E”) Day-Ahead Hourly Real-Time
+4
+
+Pricing (“DAHRTP”) V2G Export Rate3 or San Diego Gas & Electric (“SDG&E”) Export Rates4
+would have to install a separate meter to do so, incurring additional costs and potential delays.
+Each of these use cases represents a significant driver of both customer value and ratepayer benefit,
+as determined in the VGI Strategies Decision (“D.”) 20-12-029. However, if a separate meter is
+still required for bidirectional charging (rather than allowing submetering) then the Commission
+would continue to pit two Commission-adopted VGI strategies against each other. Namely, the
+VGI strategy of optional dynamic pricing structures5 would be at odds with the VGI strategy of
+enabling V2H/V2B backup power, V2B bill management, and V2G exports,6 and customers
+would be unable to leverage both. The submetering protocol, however, will unlock tremendous
+participant and ratepayer value if bidirectional chargers are deemed eligible for submetering.
+Meanwhile, VGIC is not aware of any technical barriers to submetering charging load
+using bidirectional chargers. Moreover, there do not appear to be any technical barriers prohibiting
+the submetering of kWh discharged from the EV. Notably, bidirectional charging systems
+participating in ELRP, EV/VGI Aggregation Customer Group A.5 can already use submetering.
+This demonstrates that there are not only no known technical barriers but also likely no
+implementation barriers to using bidirectional chargers to submeter both EV charging and
+discharging.
+The PD and attached submetering protocol as written do not prohibit or exclude
+bidirectional chargers. However, VGIC strongly recommends the Decision explicitly state that
+3 A.20-10-011. Joint Motion of the Public Advocates Office, VGIC, Electrify America, LLC, and PG&E for Adoption
+of Joint Settlement Agreement in PG&E’s DAHRTP Commercial Electric Vehicle Proceeding on Non-NEM Export
+Compensation Pilot. Filed June 17, 2022.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M488/K538/488538216.PDF
+4 A.21-12-006 and A.21-12-008. Administrative Law Judge’s Ruling Regarding Staff Recommendations and
+Workshop. Filed June 15, 2022. Attachment A – Energy Division Recommendations.
+5 VGI Strategies Decision D.20-12-029 at 16.
+6 VGI Strategies Decision D.20-12-029 at 20 and 32.
+5
+
+bidirectional chargers can be used for submetering, including for measuring kWh discharged.
+VGIC believes this is critically necessary based on its recent experience engaging on the issue of
+submetering for ELRP. In D.21-12-015, the Commission unambiguously directed the three major
+IOUs to allow submetering for EVSE participating in ELRP Customer Group A.5, EV/VGI
+Aggregations.7 However, in subsequent implementation Advice Letters, the IOUs did not comply
+with this Commission directive.8 After VGIC and other parties submitted Protests9 and Energy
+Division issued guidance directly to the IOUs,10 they submitted substitute sheets to permit
+submetering in ELRP Customer Group A.5.11 Given the IOUs’ apparent apprehension toward
+facilitating submetering, VGIC believes clarity is needed at this time to ensure that bidirectional
+charging systems are not inappropriately excluded from submetering despite the underlying
+technology and implementation having been proven feasible through ELRP. Appendix A contains
+VGIC’s proposed FOF and OP revisions to implement our recommendation.
+ii. The Decision should clarify that non-residential customers (in addition to MCOR
+customers) shall not be precluded from participation in submetering after this
+Decision, even if there are subsequent efforts to address the remaining barriers.
+The PD appropriately states, “it is reasonable to allow submetering for MCOR and non-
+residential customers, and therefore the utilities shall work to resolve any potential barriers to
+submetering for MCOR and non-residential customers.”12 VGIC supports this finding and believes
+it is essential to unlocking greater participation in non-residential EV-specific rates as well as
+7 D.21-12-015 at 41.
+8 Joint ELRP Implementation Joint Advice Letters PG&E 6485-E, SCE 4708-E, and SDG&E 3939-E Attachment A
+at 15 (PG&E), Attachment D at 16 (SCE), Attachment F (SDG&E) at 10.
+9 Protest of VGIC to Joint Advice Letters 6485-E, 4708-E, 3939-E (February 22, 2022).
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/621661d654000f78c2bf84d0/1645634007397/
+VGIC%27s+Protest+to+ELRP+Phase+2+Implementation+Joint+Advice+Letter.pdf
+10 Energy Division’s Review and Disposition of Joint Advice Letter 6485-E et al. (June 17, 2022).
+11 PG&E, SCE, SDG&E. Second Substitute Sheet for Joint Advice Letter 6485-E et al. (April 11, 2022).
+12 PD at 22.
+6
+
+customer adoption of bidirectional charging use cases such as V2B customer bill management.
+Importantly, the PD then states “these ongoing efforts shall not preclude existing MCOR from
+participating in submetering if they submit a completed application.” VGIC recommends this
+requirement should also apply to non-residential customers, not just MCOR, such that these non-
+residential customers can implement submetering beginning 90-days after the Decision as
+indicated in OP 4. VGIC recommends OP 4 be modified to further clarify and ensure effective
+implementation of this directive. Appendix A contains VGIC’s proposed modification.
+B. Implementation
+i. OP 2 should be modified to direct the utilities to update their rate tariff sheets in
+addition to their respective electric rules.
+The PD clearly directs each IOU to file a Tier 2 Advice Letter within 30 days to update
+their respective electric rules (e.g., Southern California Edison (“SCE”) Electric Rule 18 and
+SDG&E Electric Rule 19) by adding:
+“where electricity is furnished for EV charging, a customer may use the EVSE as a submeter
+to measure EV charge load, and ancillary EV charging service (i.e., demand response, vehicle-
+grid integration, etc.). All EVSE used for submetering purposes must meet the requirements
+established in the Plug-in Electric Vehicle Submetering Protocol.”
+VGIC supports this provision, but it is unsure that this is the only rule or tariff change required to
+unlock submetering for customers. To mitigate against any possible confusion, VGIC respectfully
+requests the Commission clarify in the Decision that utilities need to modify individual rate tariff
+sheets – in addition to electric rules – in order for customers to take service on EV-only rates
+through EVSE submetering. VGIC is concerned about a scenario where, if the existing ruling does
+not sufficiently direct IOUs to enable submetering on EV tariffs, the IOUs will file Tier 2 Advice
+Letters updating each of their respective electric rules for metering, but then the IOUs will have to
+voluntarily update rate tariff sheets before accepting submetering for a customer on a given rate.
+7
+
+For example, PG&E’s Electric Schedule EV, Rate B states, “Applies to all applicable customers
+with a separately metered BEV or PHEV recharging outlet.”13 Meanwhile, SDG&E’s Schedule
+EV-TOU states, “the point of service must contain facilities to separately meter EV charging
+facilities…”14 Based on the text in these and other residential and non-residential electric
+schedules, it is not readily apparent that the submetering option would be available to customers.
+VGIC believes that the IOUs should be required to make minor modifications to each applicable
+rate in their Tier 2 Advice Letters to ensure customers can submeter, for example by adding “per
+the submetering protocol referenced in Rule 18/19” to each rate tariff’s section related to metering.
+VGIC proposes a corresponding modification to OP 2 in Appendix A.
+ii. The Decision should direct each IOU to assess and modify DR programs to ensure
+customers using EVSE submetering are not excluded or otherwise put at a
+disadvantage relative to customers using separately-metered EVSE.
+As detailed above in Section II.A.i, there has been confusion in recent efforts to promote
+submetering in ELRP, an out-of-market, emergency reliability DR program. In the case of ELRP,
+the IOU Terms and Conditions explicitly state that “Upon adoption by the CPUC, the submeter
+must meet applicable standards established by the CPUC.”15 However, to mitigate against any
+future complications in other DR programs, VGIC respectfully requests that the Commission direct
+each IOU to ensure customers using EVSE submetering are not excluded or otherwise put at a
+disadvantage relative to customers using separately metered EVSE. Each IOU should file a Tier 2
+Advice Letter within 45 days detailing how each active or planned utility DR program or pilot
+(i.e., those being considered in DR Portfolio Application A.22-05-002, A.22-05-003, and A.22-
+13 PG&E Electric Schedule EV Residential Time-of-Use Service for Plug-In Electric Vehicle Customers at Sheet 1.
+14 SDG&E Schedule EV-TOU Domestic Time-of-Use for Electric Vehicle Charging at Sheet 3, Special Condition 2:
+Metering.
+15 Energy Division’s Review and Disposition of Joint Advice Letter 6485-E et al. (June 17, 2022).
+8
+
+05-004) can accommodate both separately metered and submetered EVSE. The Advice Letters
+should propose any changes to the DR program or pilot that may be necessary to facilitate customer
+participation for both types of EV charging customers.
+C. Approved Submetering List
+i. The Decision should clarify that a customer may use a device for submetering once
+it appears on the Approved Submetering List and that no additional approvals are
+necessary. If this is not the case, the Decision should clarify at which point customers
+will be made aware of the devices they may use.
+VGIC seeks clarity on whether there are additional steps that a vendor needs to take
+between getting an EVSE on the Approved Submetering List and that EVSE being available for
+immediate use by a customer. As written, the PD depicts the Approved Submetering List as the
+final step in the accuracy testing, certification, and verification process. However, if a device
+appears on the Approved Submetering List, it is unclear whether it will need to go through
+additional steps related to data integration, for example. If this is the case, it is unclear how a
+customer will know when a device on the Approved Submetering List can be used in the field for
+active submetering. VGIC questions whether additional steps need to be added before a device can
+be listed on the Approved Submetering List. Alternatively, the Approved Submetering List could
+include some indication of which devices can be used immediately for submetering and which
+pass the accuracy standard but are still pending data integration with the utility. Yet another
+approach could be for the Approved Submetering List to only contain devices deemed accurate
+and a separate list to be used to indicate which devices are immediately ready for use. In the long
+term, a unified submeter data backhaul protocol from the meter data management system
+(“MDMS”) industry may be needed to streamline data integration and reduce manual billing
+reconciliation.
+9
+
+ii. The Decision should direct utilities to maintain a single list of devices that comply
+with the applicable accuracy standards rather than duplicate lists.
+In the case that the Approved Submetering List is ultimately used to indicate devices that
+are deemed accurate but not used to indicate data integration with a specific utility, VGIC
+recommends a single list be implemented rather than separate lists for each IOU. Since the testing
+requirements are standardized in the submetering protocol and therefore identical across each IOU,
+it is likely unnecessary for each utility to maintain its own separate list. Instead, VGIC recommends
+that the Commission direct the IOUs to collaborate on and maintain a single list of approved
+submetering devices. One approach would be for one IOU to establish and maintain the list, and
+for each other IOU to reference it. VGIC believes this will reduce delay, confusion, and soft costs
+for customers, EV service providers (“EVSP”), and IOUs.
+D. EVSE Standards
+i. The Decision should exempt EVSE used for bidirectional charging purposes from
+the proposed CCS and ISO 15118 requirements to avoid putting an abrupt end to
+critical ongoing efforts to pilot, demonstrate, and scale bidirectional charging use
+cases
+VGIC appreciates the Commission’s overarching efforts to promote standardization as a
+tool to advance TE broadly. However, the PD’s provision requiring CCS and ISO 15118 for all
+EVSE will directly undermine the Commission’s efforts to promote bidirectional charging as a
+VGI Strategy pursuant to SB 676. The Commission recently approved PG&E’s request for VGI
+Pilots, totaling $11.7 million, that will use CHAdeMO connectors to discharge from Nissan
+LEAFs.16 In addition to being able to comply with the CCS requirement, these CHAdeMO
+connectors do not use the ISO 15118 protocol. Meanwhile, the ELRP program is the only large-
+16 See Advice Letter 6259-E and Resolution E-5192.
+10
+
+scale driver for V2G operations in California, and there exist over 25,000 bidirectionally-capable
+Nissan LEAFs in the state that could theoretically support the grid through this critical emergency
+DR program. 17 Aside from CHAdeMO equipment, early bidirectional CCS chargers will likely
+use the DIN 70121 communication protocol for bidirectional functions rather than ISO 15118.
+Lastly, the pending PG&E DAHRTP V2G Export Rate and SDG&E export rate options may soon
+provide yet another opportunity for customers to meaningfully support the grid during times of
+stress through bidirectional charging. All other bidirectionally-capable vehicles in California
+combined amount to a fraction of the Nissan LEAFs currently on California’s roads.18 With this
+in mind, VGIC believes that the PD as written would inadvertently put an abrupt stop to key efforts
+to advance bidirectional charging by removing support for bidirectional chargers using CHAdeMO
+connectors and CCS connectors that do not speak ISO 15118. Given the limited number of
+bidirectionally-capable EVs and EVSE, the value in facilitating the nascent bidirectional charging
+market, and the Commission’s demonstrated priorities to advance these important use cases, VGIC
+strongly recommends the Commission exempt bidirectional chargers from the CCS requirement
+and the ISO 15118 requirement at this time. VGIC recommends the Commission revisit the
+exemption at a later date when CCS-based and ISO 15118-compliant bidirectional charging is
+more commonplace. VGIC recommends corresponding revisions to FOFs and OP 6 in Appendix
+A.
+ii. The Decisions should align the OCPP 1.6 and ISO 15118 requirements with the
+CEC’s CALeVIP and NEVI program implementation timelines.
+17 See VGIC’s estimates for bidirectional vehicle deployment in September 1, 2021 Opening Testimony in R.20-11-
+003 a 4-10.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/6137a2f643f8bc74a42af9ae/1631036151186/20
+21-09-01+VGIC%27s+Opening+Testimony+on+Phase+2+Emergency+Reliability+Proposals+-+FINAL.pdf
+18 Ibid.
+11
+
+The requirement that ratepayer-funded and utility-administered EVSE meet OCPP 1.6 and
+ISO 15118 should align with the CALeVIP and NEVI program implementation timelines. The
+CEC is requiring Level 2 chargers to meet OCPP 1.6 and ISO 15118 by September 1, 2022 and
+July 1, 2023, respectively. For DC fast chargers, the CEC is requiring OCPP 1.6 and ISO 15118
+by September 1, 2022. Meanwhile, the U.S. Department of Transportation Notice of Proposed
+Rulemaking regarding NEVI standards and requirements would also require OCPP and ISO
+15118. The CEC and California Department of Transportation draft NEVI Deployment Plan states
+that projects will commence in Q2 and Q3 of 2023. With this in mind, VGIC recommends that the
+Commission attempt to align its OCPP and ISO 15118 requirements with one or, if possible, both
+the CALeVIP and NEVI timelines to send clear regulatory signals and reduce confusion in the
+marketplace.
+iii. OP 6 should be modified to clarify that “ratepayer-funded or utility-administered
+programs” refers to rebates for ratepayer- or LCFS-funded EVSE rebates and does
+not include DR programs or pilots, VGI programs or pilots, and EV rates.
+As written, OP 6 imposes requirements related to all EVSE qualified for ratepayer-funded or
+utilities-administered programs. VGIC is concerned that the term “utility-administered programs”
+is too broad and could be interpreted to include DR programs and pilots, VGI programs, rates, and
+pilots, and uses of ratepayer funds for TE-related “make ready” upgrades other than EVSE (e.g.,
+panel upgrades, trenching, conduit, etc.). Under this interpretation, existing customers with
+CHAdeMO chargers, Level 1 chargers, and chargers that do not speak ISO 15118 would be shut
+out of participation in ELRP, VGI programs and pilots, and other utility DR programs and pilots.
+This would result in significant lost opportunities to reduce peak demand, integrate renewable
+energy generation, and support the grid during times of extreme stress. VGIC recommends OP 6
+12
+
+be revised as shown in Appendix A to ensure California can maximize the cost-effective use of
+VGI pursuant to SB 676.
+iv. The Decision should reference existing standards for bidirectional chargers to
+promote marketplace awareness.
+The PD discusses and directs standardization around OCPP and ISO 15118 as common
+protocols for ratepayer-funded and utility-administered EVSE. However, VGIC notes that
+bidirectional DC EVSE seeking interconnection under Rule 21 are also subject to certain
+communication standards. Beginning in spring 2023 with the implementation of UL 1741 SB,
+distributed energy resources (“DER”) including bidirectional DC EVSE must be able to speak
+DNP-3, SunSpec Modbus, or IEEE 2030.5. To promote general awareness in the marketplace,
+VGIC recommends that the Decision reference these communication protocols in addition to the
+discussion on OCPP and ISO 15118.
+E. Telematics
+i. The Decision should reference the numerous party comments related to telematics
+and include corresponding FOF.
+VGIC recognizes that the record related to vehicle telematics in this proceeding may not
+be as well-developed as the record related to EVSE submetering. However, it remains unclear why
+party comments related to telematics are entirely absent from the PD’s discussion, FOF,
+Conclusions of Law (“COL”) and OPs. Party comments in this proceeding highlight that using
+vehicle telematics represents an effective strategy to manage charging, can complement networked
+EVSE program participation, and is being implemented around the country to result in up to 95%
+13
+
+off-peak charging.19 Critically, using telematics can support equity, customer choice, and access
+by expanding program and rate participation to customers with non-networked EVSE, those who
+use Level 1 charging, and those who may simply prefer to participate via vehicle telematics rather
+than networked EVSE.20 To unlock telematics as a tool to yield customer, ratepayer, utility, and
+societal value, VGIC recommends (1) the topic of vehicle telematics be discussed and referenced
+in the Decision and (2) FOF, COL, and OPs be modified accordingly.
+Since the issuance of the Draft TE Framework (“TEF”) and filing of the Final EV Submetering
+Protocol (“EVSMP”), the lines between non-TEF and TEF topics (and between different TEF
+topics) have been blurred.21 A reasonable scope of comments and filings in the DRIVE proceeding
+– including those discussing telematics – should therefore be considered in the record for the
+purposes of this Decision. VGIC believes it is appropriate to consider and reference the following
+comments and filings in the DRIVE proceeding that provide information related to telematics:
+ Comments on TEF Sections 9, 10, and 1222
+ Reply Comments on TEF Sections 9, 10, and 1223
+19 See, for example, Comments of WeaveGrid on “Revised TEF” / TE Funding Cycles & Behind-the-Meter
+(“BTM”) Rebate Program Staff Proposal at page 4 and Reply Comments of VGIC on “Revised TEF” / TE Funding
+Cycles & Behind-the-Meter (“BTM”) Rebate Program Staff Proposal at pages 4-5, including footnote 8 showing
+listing VGI programs using EVSE submetering and vehicle telematics and footnote 9 containing studies that show
+value in offering both EVSE submetering and vehicle telematics options
+20 For example, commercial fleet owner/operators that pay for all charging when employees take home vehicles to
+charge overnight.
+21 Since the 2020 Draft TEF comment periods, the Commission issued the VGI Strategies Decision 20-12-029, EV
+Infrastructure Rules Resolution E-5167, and several other key Decisions and Resolutions. In the VGI Strategies
+Decision, the Commission considers party comments on “VGI-related topics in the Draft TEF”, comments in
+response to July 20, 2020 ALJ ruling seeking comments on VGI WG report, and the contents of VGI WG report
+itself. In Resolution E-5167, the Commission addresses both Responses/Protests on the ALs as well as comments on
+January 15, 2021 Assigned Commissioner’s Ruling Regarding Implementation of AB 841. Subsequently,
+Commissioner Rechtschaffen’s February 25, 2022 Assigned Commissioner’s Ruling Adding Staff Proposal to the
+Record and Inviting Party Comments discusses the interactions between AB 841 and the Draft TEF and suggests
+that the EV Infrastructure Rules have deemed sections of the Draft TEF irrelevant. Moreover, the Submetering PD
+itself references comments on the submetering protocol as well as comments on topics in the TEF.
+22 See Comments of VGIC on TEF Sections 9, 10, and 12 at 4-5, 11, and 16-17 detailing vehicle telematics as a low-
+cost metering solution.
+23 See Reply Comments of VGIC on TEF Sections 9, 10, and 12 at 7-8 detailing vehicle telematics as a low-cost
+metering solution.
+14
+
+ Comments on VGI Issues24
+ Comments on the “Revised TEF” / TE Funding Cycles & Behind-the-Meter (“BTM”)
+Rebate Program Staff Proposal25
+ Reply Comments on the “Revised TEF” / TE Funding Cycles & BTM Rebate Program
+Staff Proposal26
+ Comments on Draft Resolution E-516727
+ PG&E Advice Letter 6226-E and Non-Standard Disposition Letter Approving PG&E’s
+2021 LCFS Holdback Implementation Plan28
+ SCE Advice Letter 4542-E Requesting Approval for Proposed VGI Pilots29
+ SDG&E’s 2024-2027 DR Portfolio Application – while not filed in the DRIVE proceeding
+– also discusses telematics-based VGI30
+Below are notable telematics-related findings from these filings that VGIC believes should be
+referenced in the Decision:
+“A recently published Opinion Dynamics study for PG&E’s service territory found that both
+vehicle telematics and EVSE are valuable technologies for responding to demand response
+events.”31
+“Notably, many of these example programs publish a list of eligible equipment, and utilities
+offering both vehicle telematics and EVSE submetering pathways, as expected, have the
+24 See Joint Comments of VGIC, Enel X, AEE, CESA, Chargepoint, EDF, Greenlots, NRDC, Siemens on VGI
+Issues at 18 detailing vehicle telematics as a valuable data source for measuring success of VGI strategies.
+25 See Comments of VGIC on Staff Proposal at 13-14, including footnote 21 listing VGI programs using EVSE
+submetering or vehicle telematics; Comments of WeaveGrid on Staff Proposal at 4 and 8 detailing Baltimore Gas &
+Electric, Xcel Energy, and Portland General Electric telematics programs, PG&E’s Resilient Charging Pilot, and
+SCE’s proposed Large-Scale Residential V1G Pilot; and Comments of Alliance for Automotive Innovation on Staff
+Proposal at 9-10, including footnote 5 detailing Duke Energy’s Managed Charging Pilot.
+26 See Reply Comments of VGIC on Staff Proposal at 4-5, including footnote 8 showing listing VGI programs using
+EVSE submetering and vehicle telematics and footnote 9 containing studies that show value in offering both EVSE
+submetering and vehicle telematics options; and Reply Comments of WeaveGrid on Staff Proposal at 4-5, including
+footnote 3 citing the CEC’s recent managed charging study and footnote 4 citing BG&E’s telematics program
+evaluation.
+27 See Comments of VGIC on Draft Resolution E-5167 at 8 detailing benefits of enabling comingled EV and site
+load through EVSE submetering or vehicle telematics.
+28 See PG&E’s Resilient Charging Pilot relying on vehicle telematics.
+https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6226-E.pdf
+29 See SCE’s proposed Large-Scale Residential V1G Pilot using vehicle telematics.
+30 See SDG&E DR Portfolio Application in A.22-05-003 detailing an EVSE submetering and vehicle telematics-
+based EV DR Pilot.
+31 Reply Comments of WeaveGrid on Staff Proposal at 4. Cites PG&E Electric Vehicle Automated Demand
+Response Study Report. Opinion Dynamics, February 2022.
+CALMAC Study ID PGE0469.01. https://opiniondynamics.com/wp-content/uploads/2022/03/PGE-EV-ADR-Study-
+Report-3-16.pdf
+15
+
+largest list of eligible equipment and, in turn, offer the greatest amount of customer choice and
+access.” 32
+“As part of the rates program, customers using telematics are charging more than 95% off-
+peak.”33
+“[Telematics] would especially benefit Low and Moderate Income EV drivers by giving the
+opportunity to save money on charging without any incremental costs.”34
+“Utilizing lower power and non-networked charging equipment has important equity and
+access benefits” 35
+“Telematics supports more choices in charging for customers participating in managed
+charging programs. Telematics solutions are compatible with networked Level 2 charging as
+well as non-networked and/or Level 1 while enabling customers to participate in managed
+charging programs.”36
+In Appendix A, VGIC recommends new FOFs to better encapsulate the existing record on
+telematics.
+ii. The Decision should direct Energy Division staff to host a workshop within 60 days
+to discuss telematics, prepare a workshop report, and seek comments on the
+workshop report.
+As noted above, telematics has been detailed in numerous party comments as an important
+VGI strategy. However, we recognize that the Commission likely needs additional details on
+telematics before enabling its use for customer billing purposes. To address these outstanding
+issues, VGIC recommends the Commission direct Energy Division staff to host a workshop within
+60 days to discuss telematics, including an overview of the technology and capabilities,
+opportunities for telematics to support California’s TE and grid decarbonization goals, examples
+32 Reply Comments of VGIC on Staff Proposal at 5. Cites list of VGI programs offering both EVSE submetering
+and telematics as participation options.
+33 Comments of WeaveGrid on Staff Proposal at 4.
+34 Comments of Alliance for Automotive Innovators on Staff Proposal at 9.
+35 Reply Comments of WeaveGrid on Staff Proposal at 4.
+36 Comments of WeaveGrid on Staff Proposal at 8.
+16
+
+of telematics use, and barriers and recommendations. Staff should consult with stakeholders before
+finalizing the workshop agenda. Following the workshop, staff should prepare a workshop report
+within 30 days and parties should be invited to submit formal comments on the workshop report.
+VGIC suggests a new OP in Appendix A related to implementing this recommendation in the
+Decision.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the Proposed Decision.
+We look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE GRID INTEGRATION COUNCIL
+July 20, 2022
+17
+
+Appendix A: VGIC Recommended Modifications to the Proposed Decision
+Note: Proposed changes are shown in strikeout and underline
+P.22: “These ongoing efforts shall not preclude existing MCOR and non-residential customers
+from participating in submetering if they submit a completed application”
+Findings of Fact
+2. An embedded submeter in an a unidirectional or bidirectional EVSE either owned by the
+customer or a third party and operated and maintained by either the customer or a third party is the
+best ownership option.
+New FOF: Decision 21-12-015 has resulted in utilities accepting submetering for both EV
+charging and discharging for purposes of the Emergency Load Reduction Program.
+New FOF: Updates to both electric rules and individual rate tariff sheets are necessary to enable
+EV-only billing pursuant to the EV Submetering Protocol.
+New FOF: Utility demand response programs and pilots would benefit from submetering.
+New FOF: The utilities are best positioned to collaborate on a single Approved Submeters List
+that indicates whether an approved submeter is available for use or pending data integration.
+New FOF: Telematics is in use today around the country at a significant scale and can lead to up
+to 95% off-peak charging.
+New FOF: Expanding program and rate participation has important equity and access benefits
+New FOF: Telematics can expand program and rate participation to non-networked EVSE,
+customers who use Level 1 charging, and customers who prefer to participate via vehicle
+telematics rather than networked EVSE.
+New FOF: It is reasonable to pursue submetering via vehicle telematics
+New FOF: Additional understanding of telematics is needed to allow the use of vehicle telematics
+as PEV submeters for participation in EV-only rates.
+New FOF: The bidirectional charging market is still nascent and a limited number of bidirectional
+CHAdeMO and CCS charger models are available currently.
+Conclusions of Law
+1. Customers or third parties should own, operate, and maintain unidirectional and bidirectional
+PEV.
+3. The Commission should require all PEV submeters – including PEV submeters in bidirectional
+chargers - to meet the applicable and most up-to-date certificate tests used by CDFA-DMS to
+18
+
+certify submeter accuracy for non-publicly accessible EVSE (i.e., all tests with the exception of
+display requirements).
+5. The Commission should require the utilities to maintain and publish on their websites a shared
+lists of approved EVSE submeters and/or approved submeter equipment that indicates whether a
+device has certified accuracy and is pending data integration or has already completed the
+necessary data integration steps and is ready for immediate use.
+12. The Commission should require all ratepayer-funded AC-conductive EVSE to utilize SAE
+J1772 connectors and DC-conductive EVSE to utilize CCS connectors for light-duty use cases,
+but the Commission should not extend this requirement to bidirectional EVSE or medium- and
+heavy-duty EVSE.
+14. The Commission should require the utilities to implement the EVSE communication protocols
+recommended by the CEC and adopted in recent Commission decisions for ratepayer- and LCFS-
+funded EVSE, but the Commission should not exclude other EVSE from DR programs or pilots,
+VGI programs or pilots, and EV rates and should not extend this requirement to bidirectional
+EVSE.
+16. While completing the necessary upgrades to the utilities’ billing systems, the Commission
+should require the utilities to perform billing reconciliation for submetered EV charging and
+discharging customers.
+New COL: The Commission shall consider outstanding issues related to the use of vehicle
+telematics for PEV submetering.
+Ordering Paragraphs
+2. Pacific Gas and Electric Company, Southern California Edison Company, San Diego Gas &
+Electric Company, Liberty Utilities (CalPeco Electric) LLC, Bear Valley Electric Service Inc., and
+PacifiCorp d/b/a Pacific Power shall each file a Tier 2 advice letter within 30 days of issuance of
+this decision updating their respective electric rules and individual rate tariff sheets to implement
+the adopted Plug-in Electric Vehicle Submetering Protocol consistent with Section 3 of this
+decision.
+4. Within 90 days of issuance of this decision, Pacific Gas and Electric Company, Southern
+California Edison Company, San Diego Gas & Electric Company, Liberty Utilities (CalPeco
+Electric) LLC, Bear Valley Electric Service Inc., and PacifiCorp d/b/a Pacific Power shall publish
+a shared list of approved submetering equipment and each begin accepting plug-in electric vehicle
+submetering applications and shall perform billing reconciliation for residential, non-residential,
+and multiple customers of record (MCOR) plug-in electric vehicle submetered customers using
+either unidirectional or bidirectional chargers, while completing the necessary upgrades to their
+billing systems.
+6.
+2) By October 2022, all direct current conductive light-duty ratepayer- or LCFS-funded
+EVSE qualified for light-duty use cases in ratepayer-funded or utility-administered
+19
+
+programs must be equipped with a Combined Charge System connector with the exception
+of conductive EVSE capable of bidirectional charging;
+4) By July 2023October 2022, all ratepayer- or LCFS-funded EVSE qualified for
+ratepayer-funded or utility-administered programs must be International Organization for
+Standards (ISO) 15118 ready with the exception of conductive EVSE capable of
+bidirectional charging. ISO 15118-ready chargers are equipped with onboard hardware that
+enable high-level communications with the vehicle using ISO 15118. An ISO 15118-ready
+charger is capable of, at minimum, the following: a) powerline carrier based high-level
+communications as specified in ISO 15118-3; b) secure management and storage of keys
+and certificates; c) Transport Layer Security (TLS) version 1.2, with additional support for
+TLS 1.3 or subsequent versions recommended to prepare for future updates to the ISO
+15118 standard; d) receiving remote updates to activate or enable ISO 15118 use cases; e)
+connecting to a backend network; and f) selecting the appropriate communication protocol
+used by the vehicle.
+New OP: Pacific Gas and Electric Company, Southern California Edison Company, San Diego
+Gas & Electric Company, Liberty Utilities (CalPeco Electric) LLC, Bear Valley Electric Service
+Inc., and PacifiCorp d/b/a Pacific Power shall each file a Tier 2 advice letter within 30 days of
+issuance of this decision detailing how each active or planned utility demand response program or
+pilot can be modified to accommodate both separately metered and submetered EVSE, and request
+any necessary changes to these programs and pilots to facilitate customer participation for both
+types of EV charging customers.
+New OP: Within sixty (60) days of issuance of this decision, Energy Division staff shall host a
+public workshop to explore pathways to allow customers to use vehicle telematics as PEV
+submeters. The Energy Division staff should consult with stakeholders to develop the workshop
+agenda which should address, at a minimum:
+1) Overview of technology & capability
+2) Opportunities for telematics to support California’s TE and grid decarb goals
+3) Example implementations of telematics
+4) Barriers and recommendations
+Within 30 days of hosting the workshop, Energy Division staff shall prepare a workshop
+report summarizing the issues and parties’ positions and recommended solutions to
+overcome the issues. The workshop report shall be entered into the record and parties shall
+be invited to submit comments on the workshop report.
+20

@@ -1,0 +1,138 @@
+September 22, 2022
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle Grid Integration Council to Advice Letter 6694-E of
+Pacific Gas and Electric Company: Rate Structures for Vehicle Grid
+Integration Pilots
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 6694-E of Pacific
+Gas and Electric Company (“PG&E”), Rate Structures for Vehicle Grid Integration Pilots (“Advice
+Letter”) on September 2, 2022.
+VGIC is excited about the November launch of PG&E’s vehicle-grid integration (“VGI”)
+pilots, which will pilot program and rate design for residential vehicle-to-everything (“V2X”),
+commercial V2X, and vehicle-to-microgrid (“V2M”) use cases. VGIC believes that these pilots will
+provide critical insights into how dynamic rates can help to shape electric vehicle (“EV”) load and
+bidirectional charging to reduce the cost of EV ownership, ensure resiliency for customers and
+communities, maximize the use of renewable generation resources, reduce transmission and
+distribution costs, and generally support the evolving electric grid.
+Resolution E-5192 requires that PG&E implement a “dynamic, marginal cost-based rate” for
+Phase II of VGI pilots 1 and 2, including all the following elements:1
+1) This rate shall be bidirectional. All consumption and exports shall be billed or
+credited based on marginal costs;
+2) Energy costs shall be determined based on the CAISO wholesale day-ahead or
+CAISO same-day prices;
+3) Generation capacity costs shall be determined on an hourly basis using the scarcity
+pricing concept so that more fixed costs are recovered when system utilization is
+higher relative to the system capacity limit;
+1 Resolution E-5192 at 20-21.
+1
+
+September 22, 2022
+Page 2 of 4
+4) Line loss costs shall be determined based on volumetric consumption;
+5) Distribution capacity costs shall be determined on an hourly volumetric basis in
+lieu of monthly or annual demand charges.
+Resolution E-5192 highlighted PG&E’s approved day-ahead, hourly real-time pricing (“DAHRTP”)
+rate and the Agricultural Flexible Irrigation Technology (“AgFIT”) pilot being conducted with
+Valley Clean Energy as models for aspects of the required rate for the VGI pilots.
+In alignment with Resolution E-5192, PG&E is proposing to incorporate a real-time pricing
+(“RTP”) rate including the marginal energy costs (“MEC”) and marginal generation capacity costs
+(“MGCC”) from the DAHRTP rate and hourly distribution rate with subscription options, based
+mainly on the AgFIT pilot and discussion in Energy Division’s California Flexible Unified Signal
+for Energy (“CalFUSE”) framework whitepaper. PG&E’s current proposal covers the required
+elements 2 through 5 outlined by the resolution.
+VGIC supports the Advice Letter; however, we provide additional information below to
+support the Energy Division’s analysis of the Advice Letter and PG&E’s implementation of the
+pilots. VGIC recommends that Energy Division approve the Advice Letter without delay, as VGIC’s
+below recommendations can be addressed during pilot implementation and in subsequent VGI
+market development efforts undertaken by PG&E and Energy Division staff.
+I. DISCUSSION.
+A. To facilitate vendor participation, customer acquisition, and broader VGI market
+development, PG&E should clearly communicate that the rate is bidirectional, per
+Resolution E-5192.
+The VGI pilots that PG&E will soon launch focus on bidirectional VGI use cases where customers
+can discharge electricity from their EV battery to the site load, PG&E grid, or a microgrid.
+Accordingly, Resolution E-5192 requires that PG&E implement a bidirectional rate.2 PG&E’s
+proposed rate design does consider the implications of a bidirectional rate, stating on page 10 that
+there is a “Resolution requirement that the real-time price be bidirectional, i.e., the same price for
+consumption and exports.”3 However, beyond this particular reference, the Advice Letter does not
+clearly communicate that the proposed dynamic rate is bidirectional. VGIC appreciates PG&E’s
+detailed Advice Letter, supports the proposed rate design, and believes PG&E does intend to offer
+the rate as bidirectional. As such, VGIC does not view this as a significant omission, error, or
+shortcoming in PG&E analysis and, therefore, does not believe this is grounds for protest or should
+delay Advice Letter approval and pilot implementation.
+2 Resolution E-5192 at 20-21.
+3 Advice Letter at 10.
+2
+
+September 22, 2022
+Page 3 of 4
+However, VGIC recommends that PG&E clearly communicate that the rate is bidirectional in any
+future and related Advice Letters, compliance filings and reports, marketing and outreach materials,
+workshops, and other appropriate venues. VGIC believes this clarity is needed to support customer
+acquisition, vendor participation, and broader VGI market development.
+Meanwhile, the Commission recently issued a Proposed Decision Adopting Settlement on Export
+Compensation for Certain Pacific Gas and Electric Company Customers, which may be voted on
+as early as October 20, 2022.4 If adopted, the proposed decision would implement an optional
+dynamic export compensation rate for commercial EV customers taking service under PG&E’s
+optional DAHRTP EV rate. VGIC commends PG&E for its first-in-the-nation leadership in
+proposing multiple optional dynamic V2G export rate designs in addition to the active Emergency
+Load Reduction Program (“ELRP”). Each export compensation pathway employs different
+eligibility requirements, rate and credit designs, and implementation timelines. As such, VGIC
+respectfully requests that PG&E help facilitate a common understanding for vendors and other VGI
+stakeholders by clearly communicating the nuances of each pathway in upcoming related fillings,
+workshops, and marketing/outreach materials.
+B. PG&E should work with vendors to utilize charger- or vehicle-based measurement
+to compensate exports but should not inadvertently limit device eligibility by
+aligning with D.22-08-024.
+The dynamic rate proposed by PG&E for these VGI pilots is relatively complex and meant to elicit
+responses by EVs, not other customer loads. Given the diversity in customer classes that will
+participate across the residential and commercial pilots, VGIC believes it is appropriate to only
+apply these rates to EV charging/discharging, not the entire site. To implement this, PG&E will
+likely measure and assess charging/discharging at the EV charger or EV itself rather than the
+customer’s utility master meter. Meanwhile, given the residential and commercial V2X pilots will
+focus on backup power use cases in Phase 1, VGIC anticipates that bidirectional chargers will be
+placed behind the same meter as the customer’s site load for many customers in Phase 2. With this
+in mind, VGIC anticipates charger- or vehicle-based submetering approaches will be heavily relied
+on in PG&E’s VGI Pilots.
+Meanwhile, the Commission recently adopted Decision (“D.”) 22-08-024 (“Submetering Decision”)
+that allows customers to use approved submeters to directly measure EV load for participation in
+rates, thereby reducing costs and increasing access to EV-specific rates. The Submetering Decision,
+once implemented through upcoming Tier 2 Advice Letters, will direct technology providers to seek
+approval under the California Department of Food and Agriculture, Division of Measurement
+Standards (“CDFA-DMS”) accuracy testing. VGIC anticipates that implementation of the
+4 A.20-10-011. Proposed Decision Adopting Settlement on Export Compensation for Certain Pacific Gas and Electric
+Company Customers. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M496/K924/496924142.PDF
+3
+
+September 22, 2022
+Page 4 of 4
+Submetering Decision, including the establishment of sufficient CDFA-DMS testing capacity, will
+not align with the PG&E VGI pilots implementation timeline.
+The Submetering Decision applies a specific submetering protocol and testing regime to
+rates but does not extend the protocol to pilots and programs. As such, VGIC does not believe that
+the submetering activity in PG&E’s VGI Pilots needs to comply with the Submetering Decision.
+VGIC advises against aligning the VGI Pilots submetering with the Submetering Decision at this
+time, as we are concerned that imposing overly strict requirements on which devices can be used to
+submeter EV charging and discharging may further limit the already small pool of bidirectional
+chargers eligible to participate in PG&E’s VGI pilots. This would likely lead to further delays to
+pilot implementation. Therefore, VGIC recommends that PG&E work with vendors to utilize
+available charger- and/or vehicle-based approaches to measuring and compensating
+charging/discharging, and recommends PG&E avoid aligning submetering within the pilots with the
+submetering protocol adopted in the Submetering Decision at this time. VGIC believes this flexible
+approach is justified and would not violate any Commission order since the Submetering Decision
+expressly opted not to extend the submetering protocol to programs and pilots.
+II. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to the Advice Letter and looks
+forward to collaborating with the Commission and stakeholders in this proceeding.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Policy Manager
+VEHICLE GRID INTEGRATION COUNCIL
+cc: Sidney Bob Dietz II c/o Megan Lawson (PGETariffs@pge.com)
+Service list R.18-12-006
+4

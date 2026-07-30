@@ -1,0 +1,136 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+RESPONSE OF THE VEHICLE-GRID INTEGRATION COUNCIL TO MOTION OF
+ENPHASE ENERGY, INC. TO AMEND SCOPING RULING AND SCHEDULE TO
+ADDRESS OPTIONAL FLEXIBLE CONNECTION AGREEMENTS AND THE
+UNDERWRITERS’ LABORATORY 3141 STANDARD FOR POWER CONTROL
+SYSTEMS IN INVESTOR-OWNED UTILITIES’ ENERGIZATION RULES
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: May 21, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+RESPONSE OF THE VEHICLE-GRID INTEGRATION COUNCIL TO MOTION OF
+ENPHASE ENERGY, INC. TO AMEND SCOPING RULING AND SCHEDULE TO
+ADDRESS OPTIONAL FLEXIBLE CONNECTION AGREEMENTS AND THE
+UNDERWRITERS’ LABORATORY 3141 STANDARD FOR POWER CONTROL
+SYSTEMS IN INVESTOR-OWNED UTILITIES’ ENERGIZATION RULES
+In accordance with Rule 11.1 of the Rules of Practice and Procedure of the California
+Public Utilities Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1
+hereby submits this response to the Motion of Enphase Energy, Inc. to Amend Scoping Ruling and
+Schedule to Address Optional Flexible Connection Agreements (“FCA”) and the Underwriters’
+Laboratory (“UL”) 3141 Standard for Power Control Systems (“PCS”) in Investor-owned
+Utilities’ (“IOU”) Energization Rules (“Motion”) filed by Enphase Energy on May 6, 2024.
+I. INTRODUCTION.
+It is widely acknowledged that meeting California’s climate goals will require massive
+electrification of transportation, buildings, and industry. At the same time, California’s electric
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner,
+Fermata Energy, Ford Motor Company, General Motors, Nissan Group of North America, Bidirectional
+Energy, Customized Energy Solutions, dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy,
+FreeWire Technologies, Inc., GridWiz, Kaluza, Landis + Gyr, Leapfrog Power, Inc., Nuvve Holding
+Corporation, Peak Power, PowerFlex, Qcells, Stellantis N.V., Sumitomo Electric, The Mobility House,
+Toyota Motor North America, Inc., WeaveGrid, Hoosier Energy, Peninsula Clean Energy, and
+Sacramento Municipal Utility District. The views expressed in these Comments are those of VGIC, and do
+not necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/)
+2
+
+grid has not yet been built out to accommodate this extra load. For this reason, the Commission
+has turned its focus to improving planning and bringing additional generation, transmission, and
+distribution resources online. However, bringing all of these resources online will take significant
+amounts of time, and it is becoming increasingly clear that interim measures are needed to allow
+for electrification ahead of grid upgrades. Additionally, the costs of these upgrades will impact
+ratepayers and additional cost-saving measures of electrification will need to be pursued to ensure
+that electricity remains affordable.
+Enphase’s Motion highlights the need to leverage tools that are currently available to allow
+for faster and cheaper electric energization. VGIC supports Enphase’s Motion and agrees that
+Flexible Connection Agreements (“FCA”) enabled by power control systems (“PCS”) should be
+leveraged by the Commission and is appropriately considered in Track 3 of this High Distributed
+Energy Resource (“DER”) proceeding. VGIC offers additional comments on our support below.
+II. VGIC SUPPORTS ENPHASE’S MOTION TO INCLUDE POWER CONTROL
+SYSTEMS, UL 3141, AND FLEXIBLE CONNECTION AGREEMENTS IN
+TRACK 3 OF THIS PROCEEDING.
+In recognition of the goals and challenges highlighted above, the Smart Inverter
+Operationalization Working Group (“SIOWG”) in this proceeding determined that, “operational
+flexibility [should be] the highest priority, namely the ability of the DSOs in the high DER future
+to flexibly optimize the use of existing capacity, allowing more rapid connections of DER and
+loads, while still maintaining grid safety and reliability.”2 VGIC agrees that this is the most
+important smart inverter operationalization use case, particularly for the development of Flexible
+Connection Agreements or Limited Load Profiles (“LLP”). While the report discussed leveraging
+operational flexibility in “the high DER future”, many of these techniques and technologies can
+2 SIOWG Report at i.
+3
+
+and should be leveraged today or in the very near future to enable customers to energize load
+more quickly and reduce ratepayer costs. As discussed by Enphase, the PCS that would create
+operational flexibility is already widely used to control DERs and is a technology understood by
+utilities.3 The UL standard that would allow PCS to be used for LLPs is expected to be published
+next month, June 2024, and the standards development process relies heavily on utility input.4
+With this in mind, it appears the current barrier to deployment is largely regulatory, since
+the development of LLPs may require updates to utility rules and tariffs. Rules 2, 15, 16, 29, and
+45 may need some modification and specific tariff language and terms and conditions need to be
+developed to enable an LLP, just as was adopted recently for Limited Generation Profiles (“LGP”).
+VGIC supports Enphase’s proposed question to be added to the Track 3, Phase 1 scope to address
+these issues, “Should the investor-owned utilities be ordered to amend their energization rules to
+allow customers to elect optional flexible connection agreements that use UL 3141-certified power
+control systems to implement a Limited Load Profile that avoids distribution upgrades, thus
+enabling rapid and cost-effective project deployment and operations?”5 We also agree that tariff
+provisions and technical requirements for LLPs should be developed.
+Development of these updated rules and tariffs will take time and conversations should
+begin as soon as possible with workshops or other discussion since it requires significant utility
+and stakeholder engagement to develop any necessary tariffs and programs. For example, the
+SIOWG had meetings for two years to develop these report recommendations and the development
+of the Limited Generation Profiles, which creates a flexible export agreement, took 3.5 years to
+finalize. Therefore, while the updated UL 3141 standard has not been published yet, workshops
+3 Enphase Motion at 4.
+4 Enphase Motion at 6.
+5 Enphase Motion at 7.
+4
+
+and other stakeholder discussions must begin now to inform the forthcoming Staff Proposal that
+will cover the SIOWG report and these issues of operational flexibility. Many regulatory details
+can be worked through while the standard is finalized.
+III. DEVELOPMENT OF FLEXIBLE CONNECTION AGREEMENTS SHOULD BE
+CLOSELY COORDINATED WITH THE ENERGIZATION TIMELINE
+RULEMAKING.
+The Commission is currently looking to address difficulties connecting new load to the
+grid by setting target maximum and average energization timelines in Rulemaking (“R.”) 24-01-
+018. As VGIC expressed in comments on Phase 1 of that Rulemaking, the critical topic of flexible
+service connection, which includes elements like FCAs and LLPs, will help the utilities achieve
+reasonable timelines for customer energization.6 In the Energization Timelines OIR, VGIC
+recommends that the utilities include reporting about whether customers were offered and/or will
+use flexible service connections. Once FCAs and LLPs are developed, recording which customers
+leverage these agreements should be included in the utility energization timelines reporting.
+Additionally, reporting which factors are creating energization limitations, what is
+lengthening the energization timeline, and data on which flexible service connection types and
+technologies are most common can help to inform the ongoing development of FCAs and LLPs.
+Therefore, VGIC recommends close coordination between both this High DER proceeding and the
+Energization Timeline proceeding to ensure that the Commission can gather data on how flexible
+service connections are used and how to leverage FCAs to create faster energization timelines for
+customers.
+IV. CONCLUSION.
+6 VGIC Comments at 6.
+5
+
+VGIC appreciates the opportunity to provide this response to the motion. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: May 21, 2024
+6

@@ -1,0 +1,645 @@
+Docket No.: R.20-11-003
+Exhibit No.:
+Date: September 1, 2021
+Witness: Ed Burgess
+OPENING TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Ed Burgess. I am a Senior Director at Strategen Consulting and the Senior
+4 Policy Director for the Vehicle Grid Integration Council (VGIC). My business address is
+5 2150 Allston Way, Suite 400, Berkeley, California 94704.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of the Vehicle Grid Integration Council (VGIC).
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to a
+12 decarbonized transportation and electric sector by ensuring the value from EV
+13 deployments and flexible EV charging and discharging is recognized and compensated in
+14 support of achieving a more reliable, affordable, and efficient electric grid.
+15 Q. Who are VGIC’s current members?
+16 A. VGIC’s members include Enel-X, Ford, General Motors, Honda, Nissan, Nuvve,
+17 Stellantis (formerly Fiat Chrysler), Toyota, dcbel, Fermata Energy, The Mobility House,
+18 Veloce, and Flexcharging.1
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+1
+
+1 Q. Please summarize your professional background and qualifications.
+2 A. I am a leader within Strategen’s consulting practice where one of my primary
+3 responsibilities is managing the VGIC, which is one of Strategen’s primary clients. In
+4 addition to VGIC, I oversee much of the firm’s practice for governmental clients, non-
+5 governmental organizations, and trade associations. Strategen’s team is globally
+6 recognized for its expertise in the electric power sector on issues relating to resource
+7 planning, renewable energy, energy storage, electric vehicles, utility rate design and
+8 program design, and utility business models and strategy. During my time at Strategen, I
+9 have managed or supported projects for numerous client engagements related to these
+10 issues. Before joining Strategen in 2015, I worked as an independent consultant in
+11 Arizona for several years and regularly appeared before the Arizona Corporation
+12 Commission. I also worked for Arizona State University where I helped launch their
+13 Utility of the Future initiative as well as the Energy Policy Innovation Council. I have a
+14 Professional Science Master’s degree in Solar Energy Engineering and
+15 Commercialization from Arizona State University as well as a Master of Science in
+16 Sustainability, also from Arizona State. I also have a Bachelor of Arts degree in
+17 Chemistry from Princeton University.
+18 Q. Have you ever testified before the California Public Utilities Commission, or any
+19 other state regulatory body?
+20 A. Yes. I testified before the California Public Utilities Commission in proceedings A. 19-
+21 08-002 and A. 20-08-002 both of which pertain to PacifiCorp’s 2020 and 2021 Energy
+22 Cost Adjustment Clause. I have also provided expert testimony before the Massachusetts
+23 Department of Public Utilities, the South Carolina Public Service Commission, the
+2
+
+1 Indiana Utility Regulatory Commission, the Nevada Public Utilities Commission, the
+2 Oregon Public Utilities Commission, and the Washington Utilities and Transportation
+3 Commission.
+4 Q. What is the purpose of your testimony?
+5 A. The purpose of my testimony is to describe the incremental role that electric vehicles and
+6 charging stations could play in supporting grid reliability in California, and specifically in
+7 meeting Summer 2022 and 2023 emergency reliability needs. I describe the significant
+8 potential that both V1G and V2B/V2G solutions could offer in meeting these needs. I
+9 provide VGIC’s assessment of the proposed EV/VGI Aggregation Pilot included in the
+10 Staff Concept Paper and offer recommendations for improving it. I also provide
+11 recommendations for other actions the Commission could take to enhance grid reliability
+12 through EVs.
+13 II. BACKGROUND ON CURRENT AND NEAR FUTURE POTENTIAL FOR VGI
+14 TO SUPPORT GRID RELIABILITY DURING NET PEAK LOAD HOURS
+15 Q. The Staff Concept Paper states that efforts to establish an EV/VGI Aggregation
+16 Pilot “could serve to establish a foundation for further deployment of VGI
+17 resources, which is a priority for the CPUC and EV stakeholders given the
+18 enormous potential of these resources.” Does VGIC agree?
+19 A. Yes. VGIC agrees that the creation of this pilot program represents a significant
+20 opportunity to both advance the VGI industry and deliver much needed grid reliability
+21 benefits. There is no doubt that EVs on the road today, plus those that will be by summer
+22 2022, have the technical capability to meaningfully reduce net peak load through both
+23 V1G and V2B/V2G activities. However, market incentives to encourage these reductions
+3
+
+1 through opportunities like those proposed in the Staff Concept Paper have been slower to
+2 develop.
+3 Q. Is VGIC confident that EVs can provide a meaningful contribution, in MW terms,
+4 to grid reliability in summer 2022 and 2023?
+5 A. Yes. VGIC is confident that meaningful EV/EVSE contributions can become a reality
+6 along this timeframe. If the proposed EV/VGI Pilot concept is adopted (with VGIC’s
+7 recommended modifications) there are no fundamental technical barriers that would
+8 prevent EVs/EVSEs from contributing. However, VGIC’s optimism in this regard is also
+9 tempered by the reality that VGI solutions have not yet been deployed at such a
+10 significant scale and that there are still some unknown factors regarding overall customer
+11 acceptance and participation. Unlike power plants that have a singular function, the
+12 primary role of EVs is to support customers’ transportation needs, not grid reliability
+13 needs. As such, to be successful the EV/VGI program must be designed in a manner that
+14 puts the customers’ perspective first and foremost.2 However, VGIC believes this can and
+15 should be achieved. Additionally, since this is a novel type of grid resource, any
+16 incremental participation (even if small) will be beneficial and is still worth pursuing as
+17 part of a comprehensive approach to addressing emergency reliability concerns.
+18 Q. Is there a significant amount of EV/EVSE equipment deployed in California today
+19 that can already provide aggregated, unidirectional (“V1G”) load reduction
+20 capabilities?
+2 One important exception to this are school buses that may not have a primary customer mobility obligation during
+summer months. As such, they are ideal candidates for the EV/VGI Aggregation Pilot.
+4
+
+1 A. Yes. Aggregators of EVs and EVSE in California have already demonstrated their ability
+2 to modify charging schedules. Networked EVSE have the technical capability to be
+3 dispatched by the EVSE provider (or by a utility or third-party aggregator). Similarly,
+4 many EVs – particularly those deployed in recent years – already have built-in telematics
+5 capabilities that OEMs and third-party aggregators can leverage to adjust charging
+6 schedules, if properly incentivized to do so.
+7 At the end of 2020 there were approximately 630,000 EVs registered in California,3 and
+8 another 121,000 have been sold through Q2 of 2021.4 If California EV sales continue at a
+9 similar pace through Q2 2022, it is conceivable there could be close to 1 million EVs on
+10 the road in California before summer 2022. Assuming an average charging load of 5 kW
+11 per vehicle, this represents a total technical potential of 5,000 MW in instantaneous load
+12 that could theoretically be reduced via V1G.5 Obviously the practical potential is only a
+13 small fraction of this since not all of those vehicles will be charging during the critical net
+14 peak load hours of 6-9pm, and not all EV owners will choose to participate in V1G
+15 activities. However, VGIC estimates that even under a more reasonable participation rate
+16 of 5%, approximately 247 MW of net peak load reduction from V1G might be
+17 achievable.
+3 California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and Infrastructure
+Statistics. Data last updated April 30, 2021. Retrieved September 1, 2021 from https://www.energy.ca.gov/zevstats
+4 Veloz (2021). 2019-2021 California Quarterly Electric Vehicle Sales. Q2 2021 Data Update.
+https://www.veloz.org/wp-content/uploads/2021/08/Q2_2021.pdf
+5 VGIC recognizes that a significant share of EV-owners that use Level 2 (or greater) chargers that would likely
+exceed 5 kW per vehicle. However many EV-owners (particularly owners of plug-in hybrid electric vehicles with
+smaller ranges) also primarily rely on Level 1 charging. VGIC believes that 5 kW is a reasonable estimate based on
+an assumed 50/50 split between Level 1 and Level 2 charging. This would be consistent with studies of home
+charging behavior, for example Tal, G., Lee, J., & Nicholas, M. A. (2018). Observed Charging Rates in California.
+UC Davis: Plug-In Hybrid & Electric Vehicle Research Center. Retrieved from
+https://escholarship.org/uc/item/2038613r).
+5
+
+1 Q. Is there a significant amount of EV/EVSE equipment deployed today that can
+2 already provide aggregated V2B/V2G capabilites?
+3 A. Yes, although it is less widespread than V1G capabilities, a meaningful portion of EVs
+4 deployed today have bidirectional capabilities that would allow them to discharge to the
+5 grid, effectively doubling their ability to reduce net load peak. The most significant
+6 sources of V2G potential today are in the form of the Nissan LEAF and certain electric
+7 school buses. As of the end of 2020, there are about 25,000 Nissan Leaf vehicles
+8 registered in California that are model year 2013 or later, which have V2G capabilities.6
+9 VGIC estimates an additional 6,140 Nisan LEAFs could be sold in California by the end
+10 of Q2 2022. Assuming each vehicle could be discharged at 15 kW using an off-board
+11 V2X EVSE device, this equates to 469 MW in total technical potential for incremental
+12 contributions to net peak load.7 As with V1G, not all vehicles will be able to participate at
+13 once. However VGIC estimates that a more reasonable 5% participation rate would
+14 equate to approximately a 23 MW of potential net peak contribution from today’s EV
+15 fleet.
+16 Beyond what is currently in existence, however, it is expected that several EV models
+17 being launched prior to summer 2022 and summer 2023 will have bidirectional charging
+18 capabilities. The table below summarizes the bidirectional-capable vehicles of both
+19 existing and forthcoming vehicle models and charging equipment.
+6 California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and Infrastructure
+Statistics. Data last updated April 30, 2021. Retrieved September 1, 2021 from https://www.energy.ca.gov/zevstats
+7 Fermata Energy. Proven Results and Cost Savings with V2G Technology. October 14, 2020.
+https://www.fermataenergy.com/news-press/proven-results-and-cost-savings-with-v2g-technology
+6
+
+1 Table 1. Bidirectional-capable vehicles on California’s roads today, currently-deployed
+2 bidirectional EVSE, and forthcoming bidirectional products:
+Product Amount Deployed / Notes
+Deployment Date
+Nissan LEAF 25,095 as of the end of 2020,8 -MY 2013 or later are V2G-
+plus an estimated additional capable
+6,143 by the end of Q2 2022.9 -MY 2013-2015 have a 24
+kWh battery, MY 2016 has a
+30 kWh battery, and MY
+2017-present has a 40 kWh
+battery and offers a 62 kWh
+LEAF Plus.10
+-Bidirectional mode requires
+EVSE with V2G-DC
+functionality. This is in use
+today.11
+Blue Bird V2G-Capable >100 -155 kWh battery capacity. In
+School Bus use today.12
+8 California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and Infrastructure
+Statistics. Data last updated April 30, 2021. Retrieved September 1, 2021 from https://www.energy.ca.gov/zevstats
+9 Assuming one third of all US Nissan LEAFs sales are in California (see https://insideevs.com/news/327907/one-
+third-of-nissan-leafs-in-us-were-sold-in-california/), and that quarterly US sales beginning in Q1 2021 are equal to
+2,925 (see https://insideevs.com/news/498344/us-nissan-leaf-sales-q12021/)
+10 2013 Nissan LEAF Press Kit: Overview https://canada.nissannews.com/en-CA/releases/ca-2013-nissan-leaf-
+press-kit. 2016 Nissan LEAF 30 kWh. https://www.caranddriver.com/reviews/a15101006/2016-nissan-leaf-30kwh-
+instrumented-test-review/. 2022 Nissan LEAF Range, Charging & Battery.
+https://www.nissanusa.com/vehicles/electric-cars/leaf/features/range-charging-battery.html
+11 See, for example, Shay Hlavaty. New Partnership Combines Electric Carsharing with Vehicle-to-Grid
+Technology. The Alliance Center. March 11, 2021. https://www.fermataenergy.com/news-press/new-partnership-
+combines-electric-carsharing-with-vehicle-to-grid-technology-alliance-center-colorado-carshare-fermata-energy
+12 Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial Application of Vehicle-to-Grid
+Technology in Electric School Bus Partnership with Nuvve and Illinois School Districts. March 23, 2021.
+https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/
+7
+
+Mitsubishi Outlander PHEV 1,75013 -Each Outlander PHEV is
+equipped with a 12 kWh
+battery pack14
+Thomas Built Buses Saf-T- Unknown -Up to 226 kWh of battery
+Liner C2 Jouley capacity15
+Ford F-150 Lightning Spring 2022; 120,000 pre- -Offers V2H backup power
+orders16 using 9.6 kW bi-directional
+charger17
+Lucid Motors Air Likely Q4 2021/Q1 202218 -Offers V2G-AC capabilities,
+although barriers to mass-
+scale V2G-AC persist19
+Volkswagen ID 2022 -To offer V2G capabilities20
+13 California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and Infrastructure
+Statistics. Data last updated April 30, 2021. Retrieved September 1, 2021 from https://www.energy.ca.gov/zevstats
+14 Roberto Baldwin. 2021 Mitsubishi Outlander PHEV Gets Bigger Motor and Battery at Same Price. Car and
+Driver. February 25, 2021. https://www.caranddriver.com/news/a35605985/2021-mitsubishi-outlander-plug-in-
+hybrid-upgrade/
+15 Thomas Built Buses / Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School
+Bus. Retrieved September 1, 2021 from https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley/
+16 Mark Kane. Ford F-150 Lightning Reservations Reach 120,000. InsideEVs. July 28, 2021.
+https://insideevs.com/news/523153/ford-f150-lightning-reservations-120000/
+17 Ford Motor Company (2021). 2022 Ford F-150 Lightning: Ford Intelligent Backup Power. Retrieved September
+1, 2021 from https://www.ford.com/trucks/f150/f150-lightning/2022/
+18 Andrei Nedelea. Is Lucid Preparing to Kick Off Air Dream Edition Deliveries?. InsideEVs. August 19, 2021.
+https://insideevs.com/news/527609/lucid-air-dream-edition-deliveries/
+19 Note that V2G-AC systems do not have a standard interconnection pathway in California. Decision 20-09-035
+directed the investor-owned utilities (“IOUs”) to establish a temporary interconnection pathway for V2G-AC
+systems. On May 28, 2021, the IOUs jointly filed Advice Letter 3774-E, 4510-E, and 6209-E, which requested
+approval of a temporary interconnection pathway for V2G AC pilots.
+Product announcement available at: Lucid Motors. Lucid Air to be the Fastest Charging EV, Featuring 900 V+
+Architecture Delivering a Charging Rate of Up to 20 Miles Per Minute. August 19, 2020.
+https://www.lucidmotors.com/media-room/lucid-air-fastest-charging-ev
+20 Charles Morris. VW to enable bidirectional charging on all EVs on its MEB platform starting next year. Charged
+Electric Vehicles Magazine. April 8, 2021. https://chargedevs.com/newswire/vw-to-enable-bidirectional-charging-
+on-all-evs-on-its-meb-platform-starting-next-year/. “The Volkswagen Group says it could produce as many as
+300,000 bidirectional charging-enabled vehicles next year, including models from VW, Audi, Skoda, and Seat-
+Cupra.
+8
+
+Nuvve PowerPort21 Available today -Offers V2G-AC capabilities,
+19.2 kW, although barriers to
+mass-scale V2G-AC persist
+Nuvve DC Heavy Duty Available today -Offers V2G-DC capabilities,
+Charging Station22 60 kW
+-UL 1741-SA certified,
+eligible for interconnection
+under CA Rule 21
+Fermata FE-15 Available today -Offers V2G-DC capabilities,
+15 kW23
+Fermata FE-20 Likely early 2022 -To offer V2G-DC
+capabilities, 20 kW
+dcbel r16 Q4 2021 -Will offer V2G-DC or -AC
+capabilities, 7.6 kW24
+-Pending UL 1741-SA
+certification, eligible for
+interconnection under CA
+Rule 21
+Rhombus RES-D2, RES-D3, Available today -Offers V2G-DC ranging
+RES-DCVC60, RES- from 60 up to 250 kW
+DCVC12525 -RES-DCVC models are UL
+1741-SA certified, eligible
+21 Nuvve Corporation (2020). Nuvve PowerPort Specifications Sheet. Retrieved September 1, 2021 from:
+https://nuvve.com/wp-content/uploads/2020/05/nuvve-powerport-spec-sheet-us-ul-energystar-certified-v5.0-may-
+2020.pdf
+22 Nuvve Corporation (2020). Nuvve DC Heavy Duty Charging Station Specifications Sheet. Retrieved September
+1, 2021 from: https://nuvve.com/wp-content/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf
+23 Fermata Energy. Proven Results and Cost Savings with V2G Technology. October 14, 2020.
+https://www.fermataenergy.com/news-press/proven-results-and-cost-savings-with-v2g-technology
+24 dcbel. dcbel r16 Specifications Sheet. Retrieved September 1, 2021 from: https://www.dcbel.energy/wp-
+content/uploads/ossiaco-data-sheet-2021.pdf
+25 Rhombus Energy Solutions. V2G Charging, Control, and Management 50-500 kW: Bidirectional. Retrieved
+September 1, 2021 from: https://rhombusenergysolutions.com/products
+9
+
+for interconnection under CA
+Rule 21
+Wallbox Unknown -Offers V2G-DC, 7.4 kW26
+1
+2 III. VGIC IS GENERALLY SUPPORTIVE OF THE EV/VGI AGGREGATION
+3 PILOT PROPOSED IN THE ENERGY DIVISION STAFF CONCEPT PAPER,
+4 BUT BELIEVES IT COULD BE IMPROVED UPON
+5 Q. Have you reviewed the Energy Division Staff Concept Paper on Proposals for
+6 Summer 2022 and 2023 Reliability Enhancements, and specifically, have you
+7 reviewed the proposed Electric Vehicle/Vehicle to Grid Integration (EV/VGI)
+8 Aggregation Pilot?
+9 A. Yes.
+10 Q. What is VGIC’s perspective on the EV/VGI Aggregation Pilot proposal?
+11 A. VGIC is very encouraged by this initial proposal and is interested in working with Energy
+12 Division and other stakeholders to improve it and ultimately adopt it for implementation
+13 in 2022 and 2023.
+14 Q. Are there specific features of the proposal that you find especially attractive?
+15 A. Yes, there are several important features, including the following:
+16 1) The establishment of a minimum number of dispatch hours per season (i.e., 30 hours),
+17 provides substantial certainty to aggregators in terms of the level of compensation they
+18 can expect to receive for participation.
+26 Wallbox. Quasar DC Charger: Electrical Specifications. Retrieved September 1, 2021 from:
+https://wallbox.com/en_us/quasar-dc-charger
+10
+
+1 2) The use of virtual load aggregation will help overcome a perennial barrier to EV
+2 participation in traditional DR programs – specifically the fact that many EVSEs are on
+3 separate meters and therefore have no meaningful baseline.
+4 3) As with 2 above, the use of EVSE meters or submeters to support incremental load
+5 reduction (“ILR”) settlement will similarly help to overcome traditional barriers to EV
+6 participation in load reduction programs in the absence of a submetering protocol.
+7 4) The inclusion of V2G as an option is also a significant step forward for advancing not
+8 only near-term grid reliability, but also creating a longer-term incentive and regulatory
+9 certainty for EV and EVSE providers to develop V2G products that deliver grid services.
+10 Q. Do you think any potential metering inaccuracies that could arise from the use of
+11 submeters should be a concern in this case?
+12 A. No. Any inaccuracies are likely to be extremely small. In fact, some EVSE equipment
+13 has been tested to demonstrate an accuracy range within 1%.27 Whatever small
+14 percentage of metering inaccuracy that might arise from submetering appears to be an
+15 acceptable risk when weighed against the prospect of rotating outages due to extreme
+16 weather.
+17
+18 Q. If successful, what do you think the reliability and cost impacts of this proposal
+19 could be?
+27 See for example: https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M348/K580/348580310.PDF
+11
+
+1 A. VGIC has conducted an analysis of the potential impact of this program and we believe it
+2 could provide a meaningful contribution to California’s net peak load needs.
+3 Additionally, we think the potential cost impacts are within reason and would likely be
+4 on par with other emergency reliability efforts. VGIC’s analysis is detailed below in
+5 Section 5.
+6
+7 IV. RECOMMENDED MODIFICATIONS TO STAFF’S PROPOSED EV/VGI
+8 AGGREGATION PILOT
+9
+10 Q. Are there features of the staff proposal you believe could be improved upon
+11 regarding V2G?
+12 A. Yes. There are several recommendations I would suggest to improve the EV/VGI Pilot
+13 proposed in the Staff Concept Paper.
+14 1) First, the proposal seems to arbitrarily limit V2G capabilities in multiple ways. For
+15 example, the proposal states that “The virtual load aggregation of all stand-alone EVSEs
+16 and the related host site must not be negative at any time.” It is unclear to VGIC why this
+17 restriction is necessary and it appears counterproductive to the goal of reducing net load
+18 peak. If a virtual load aggregation records a negative value on its metered load, that
+19 would simply mean that the EV/EVSE is discharging to the grid and is actually
+20 increasing its contribution towards reducing the net peak. VGIC believes this behavior
+21 should be encouraged, rather than excluded, and should also be compensated accordingly.
+12
+
+1 2) Second, the proposal states that “V2G discharge is prohibited outside of the IOU
+2 dispatched hours.” Again, the rationale for this restriction is unclear. In fact, this appears
+3 to place unnecessary restrictions on additional value streams that could encourage
+4 customers to adopt V2G capabilities. For example, PG&E has recently proposed several
+5 V2X pilot programs.28 It is conceivable that some of the grid exports associated with
+6 these pilots may occur during off-peak seasons that would have no bearing on summer
+7 net peak load. Restricting export during these times would simply discourage
+8 participation in the EV/VGI Aggregation Pilot since it would close off other potential
+9 value streams. VGIC does acknowledge that some restrictions could be helpful in
+10 ensuring that EVs have a sufficient state of charge to maximize their contribution during
+11 the full 6-9 pm net peak load window. However, this restriction could be much more
+12 limited (e.g., to afternoon hours during summer) without jeopardizing the reliability
+13 contribution.
+14
+15 Q. Are there other use cases that the EV/VGI Aggregation Pilot does not specifically
+16 address?
+17 A. Yes. The proposal is clear that it is focused on aggregators utilizing “networks of V1G or
+18 bi-directionally capable charging stations.”29 While this is a laudable effort that VGIC
+19 supports, it leaves out a very important use case that could significantly support summer
+20 net peak load, namely, vehicle-to-building or “V2B” with isolation techniques. More
+28 Pacific Gas & Electric Company Advice Letter 6259-E: Request for Approval of PG&E’s VGI Pilots in
+Compliance with Decision 20-12-029. July 15, 2021.
+https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6259-E.pdf
+29 Brian Stevens. Email Ruling Issuing Commission Developed Staff Concepts Proposal Document and Seeking
+Comment in Opening Testimony Due September 1, 2021. Rulemaking 20-11-003. August 16, 2021. Page 10.
+13
+
+1 specifically, some vehicles may be able to provide backup power to a home or business,
+2 while invoking isolation technologies that “island” the customer from the grid. This can
+3 potentially be done in conjunction with other behind-the-meter resources (e.g. on-site
+4 generation and battery storage), which has the potential to do much more than simply
+5 reduce EV charging load during net peak load hours, since it will also reduce the
+6 building’s load at that time. While this may be implicitly considered to some degree in
+7 Staff’s proposal, it could be useful to state it more explicitly, and also coordinate this
+8 effort with ongoing efforts underway to advance low-cost isolation techniques in the
+9 Microgrid proceeding (R. 19-09-009).30 It is worth noting, that there is current work
+10 under way to develop the UL 3010 standard which would coordinate DER dispatch under
+11 islanded operations and manage an orderly reconnection process.31 It is VGIC’s
+12 understanding this standards development work could be on track for completion within
+13 the first half of 2022.
+14
+15 Q. Does VGIC believe the proposed ELRP compensation level of $2/kWh (increased
+16 from $1/kWh) is sufficient to support meaningful participation in the EV/VGI Pilot?
+17 A. VGIC believes this is a very important step in the right direction and believes it may be
+18 sufficient to support aggregator interest in participation. However, this may not
+19 necessarily be sufficient to encourage both aggregator interest and EV customer
+30 See, for example, Advice Letter 3734-E of San Diego Gas & Electric Company, 6153-E of Pacific Gas and
+Electric Company, and 4462-E of Southern California Edison Company, and Supplemental Advice Letter 3734-E-A
+of San Diego Gas & Electric Company, 6153-E-A of Pacific Gas and Electric Company, and 4462-E-A of Southern
+California Edison Company: Joint Utility Evaluation Process and Criteria to Assess Microgrid Different Isolation
+Technologies Pursuant to Decision 21-01-018.
+31 For more information, see ANSI/CAN/UL 3010: Standard for Single Site Energy Systems.
+https://www.scc.ca/en/standards/notices-of-intent/ul/standard-for-safety-for-single-site-energy-systems
+14
+
+1 participation. As such, it may be appropriate to supplement this ELRP payment with a
+2 discrete customer enrollment rebate or incentive. For example, VGIC would support an
+3 additional rebate/bill credit provided directly to participating EV customers or EVSE site
+4 hosts of $20/month. Alternatively, this benefit could be provided to customers through a
+5 more marketable approach such as a free gift card to a retail or online store. The
+6 $20/month incentive would be appropriate for a typical residential customer due to the
+7 more limited net peak load contribution per vehicle, whereas a higher incentive level
+8 would also be appropriate for a larger-sized vehicle such as a school bus. In the case of a
+9 school bus, VGIC recommends a $240/month incentive based on an assumed 60 kW
+10 charging level (versus 5 kW for residential).32
+11 To qualify, EV/EVSE owners could sign up through a website/app/EV display interface.
+12 This could include marketing efforts through both the IOUs and/or the EV/EVSE
+13 providers. Participants would then be added to each EV/EVSE company’s aggregation
+14 pool and linked to an IOU customer account. The bill credit would be automatically
+15 applied to that customer account regardless of sign-up option. EV/EVSE companies
+16 could also provide their own direct marketing for this (including any supplemental
+17 rebates the EV/EVSE companies wish to offer). Meanwhile, EV/EVSE aggregators
+18 would then earn payment based on ILR performance of their aggregation pool. Each IOU
+19 could provide a standard offer contract for participating EV/EVSE aggregator companies.
+20 Q. Does VGIC believe the proposed 30-hour minimum number of dispatch hours per
+21 season is appropriate?
+32 See Table 1 for available products, including several commercial offerings for 60 kW V2G-DC chargers.
+15
+
+1 A. VGIC believes this is a good starting point. While we have no specific objection to the
+2 30-hour minimum, we are also open to using a different minimum number so long as it
+3 also provides sufficient certainty to aggregators. Additionally, VGIC believes it may be
+4 useful to consider other limitations on the hours that are selected for dispatch. For
+5 example, since the most acute net peak load needs are between the hours of 6-9pm, it
+6 might be useful to consider limiting dispatch to a maximum of 3 hours on a single day.
+7 This would help ensure that a sufficient amount of overnight charging can still occur such
+8 that customer mobility needs are not compromised.
+9 Q. Does VGIC believe the 25 kW minimum aggregation size threshold is appropriate?
+10 A. VGIC believes this is reasonable, but suggests that a 15 kW minimum is a more
+11 appropriate minimum size threshold to maximize participation from EVs, given the
+12 product nameplate capacities listed in Table 1 above.
+13
+14 V. ANALYSIS OF POTENTIAL CONTRIBUTION
+15
+16 Q. You mentioned that you had conducted some analysis of the potential contribution
+17 that this EV/VGI Pilot could provide to addressing net load peak shortfalls. Can you
+18 provide more detail on your analysis?
+19 A. Yes. According to CA vehicle registration data, the current number of EVs in California
+20 at the end of 2020 was approximately 630,000, and at the current pace of sales, this could
+21 increase to nearly 1,000,000 by summer 2022. Many of these vehicles may already have
+22 inherent telematics capabilities, (or EVSE network communications) that would enable
+16
+
+1 aggregators to reduce charging load for participating customers (i.e., V1G). Assuming
+2 that a typical home charger is 5kW (which approximates the current balance of L1 and
+3 L2 chargers), and a participation rate of about 5% of total vehicles, VGIC estimates that
+4 there is a potential for 247 MW in net peak load reduction from V1G at existing vehicles.
+5 Additionally, there are approximately 25,000 existing vehicles that have V2G capabilities
+6 (primarily in the form of the Nissan Leaf). VGIC projects that this number could increase
+7 to 31,000 by summer 2022. Assuming a similar 5% participation rate from these
+8 vehicles, an additional 23 MW could be added from V2G capabilities, for a total EV/VGI
+9 pilot potential of 271 MW.
+10 Q. What are the biggest uncertainties around these potential contribution levels?
+11 A. A. By far the biggest uncertainty relates to customer participation rates. Since VGI
+12 solutions have not been deployed at scale in California, it is impossible to determine if
+13 participation rates would be higher or lower than the 5% level assumed above, though
+14 VGIC believes this is a sensible guess. VGIC notes that any incremental amount of V1G
+15 or V2G resource would be beneficial and should be considered a “no regrets” option.
+16 Q. What gives you confidence that 5% is within reason?
+17 A. There are two primary reasons. First, there appears to be a large number of EVs that
+18 would normally charge during the summer net load peak hours of 6-9pm. This timeframe
+19 coincides with regular commute patterns such that a significant share of EV owners will
+20 likely be arriving at their home charging station during or prior to this period and would
+21 have the opportunity to begin charging. While many EV owners do already delay
+22 charging to take advantage of EV time of use rates, this behavior is certainly not
+17
+
+1 universal. For example, the chart below shows the load profile for 27,857 accounts on
+2 SCE’s system that were known to own an EV.33
+3
+4
+5 Second, based on communications with VGIC members (who would likely share in the
+6 marketing and recruitment efforts), we believe this is a reasonably conservative estimate
+7 of achievable participation rates through a program like the EV/VGI Pilot.
+8 Q. Are there any additional uncertainties regarding V2G?
+9 A. Yes. An additional uncertainty specific to V2G capabilities is the availability of
+10 bidirectional chargers. VGIC believes that reliable revenue streams, such as the ELRP
+11 payment and VGIC’s proposed customer rebate, will support the development of robust
+33 Joint IOU Electric Vehicle Load Research - 7th Report - Filed on April 2, 2019 (CEC Docket No. 19-IEPR-04),
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=228787-14&DocumentContentId=60075
+18
+
+1 and sufficient supply chains for bidirectional chargers and could therefore accelerate their
+2 deployment, but this is not guaranteed.
+3 Q. Under these assumed participation levels, have you estimated the potential cost to
+4 support the EV/VGI pilots?
+5 A. Yes. Assuming the $2/kWh ELRP payment over 30 dispatch hours and $20/month
+6 monthly rebate, I estimate that the total pilot cost to support the 271 MW contribution
+7 level I estimated above could be on the order of $28 million, which equates to about
+8 $103/kW-yr in capacity costs. This level of funding does not include any set asides for
+9 marketing, education, and outreach activities which may also be needed to maximize
+10 enrollment and participation.
+11 Q. Do you think this is a reasonable cost to support grid reliability from a novel set of
+12 resources?
+13 A. Yes. The 2019 Resource Adequacy Report shows that traditional RA capacity costs for
+14 existing resources are in the $45-60/kW-yr range, while new build resources are
+15 approximately $100/kW-yr and as high as $183/kW-yr.34 Even if the cost is slightly
+16 above other potential capacity resources, VGIC believes this is appropriate since the pilot
+17 is attempting to leverage an entirely novel class of grid resources – namely EVs – to
+18 support reliability. As such, some premium is appropriate as a means of supporting
+19 market transformation and encouraging EV/EVSE providers to develop products and
+20 services that can meet this need over the longer term.
+34 Lakey, Jonathan, Brant, Simone, et al. 2019 Resource Adequacy Report. March 2021. California Public Utilities
+Commission Energy Division. https://www.cpuc.ca.gov/RA/. Page 22.
+19
+
+1
+2 VI. PATHWAYS FOR CONTRACTING AND EXECUTION
+3 Q. What practical steps do you think the IOUs would need to take to secure resources
+4 through the proposed EV/VGI Aggregation Pilot?
+5 A. There are several steps that would need to occur, and which the IOUs may need to be
+6 directed by the Commission to pursue. These include the following items:
+7  Develop a standard offer contract for aggregators participating in the EV/VGI Pilot
+8  Develop a protocol for identifying and communicating the dispatch hours that would be
+9 relatively easy to implement in the near-term
+10  Develop a process for virtually aggregating standalone EVSE meter data with host site
+11 load to calculate the ILR for settlement purposes
+12  Develop a process for collecting EV/EVSE submeter data from participants that use EV-
+13 or EVSE-based measurement.
+14  Develop an EV customer enrollment and participation portal (for some customers who
+15 enroll through their EV/EVSP company, this may not be needed)
+16  Conduct marketing, education, and outreach to recruit participants, including third-party
+17 aggregators, to the program.
+18 VGIC looks forward to working with the Energy Division Staff, IOUs, and other stakeholders on
+19 implementing these necessary steps to ensure the EV/VGI Aggregation Pilot is successful.
+20 Q. How can the Commission assist in making sure these steps are accomplished?
+20
+
+1 A. VGIC recommends that the Commission establish a proposed “go-live” date for the
+2 EV/VGI pilot in 2022 or 2023 (e.g., July 2022). This will help to focus the attention of
+3 the industry and the IOUs on completing the steps above, as well as inform any product
+4 development that is already occurring. Additionally, it may be beneficial for most aspects
+5 of the program to be implemented through a third-party administrator to ensure greater
+6 consistency and simplicity, rather than requiring aggregators to interface with each IOUs
+7 separately.
+8
+9 VII. OTHER NEAR-TERM ACTIONS THAT WOULD LEVERAGE EVS FOR
+10 MEETING NET LOAD PEAK IN 2022 AND 2023
+11 Q. Beyond the proposed EV/VGI Aggregation Pilot, are there other near-term actions
+12 that the CPUC should take to ensure EV’s can maximize their contribution to net
+13 load peak?
+14 A. Yes. There are several actions that VGIC would recommend. These include the following
+15 four described in more detail below:
+16 1. Adopt a Temporary Submetering Pathway Beyond the EV/VGI Aggregation Pilot
+17 VGIC believes the Commission could unlock incremental net load reductions by
+18 establishing a temporary pathway to measure load reduction and EV discharging via
+19 technology within the EVSE and EV for the purposes of settlement. Notably, FERC
+21
+
+1 recently approved the CAISO’s methodology for EVSE submetering.35 IOUs have
+2 previously expressed concern over metering accuracy issues related to using EVSE
+3 submeters. However, VGIC notes that these potential accuracy issues are (1) based on
+4 flawed and out-of-date studies, and (2) less paramount than enabling this resource for
+5 reliability purposes. Simply put, the Governor’s Emergency Proclamation highlights the
+6 threat that current and anticipated extreme weather conditions pose to grid reliability, and
+7 this threat dwarfs the potential metering accuracy concerns that have been posed by
+8 IOUs. Adopting a temporary submetering pathway will enable EV/EVSE that are co-
+9 metered with site load to enroll in dedicated EV TOU rates.
+10 The staff concept VGI pilot would allow for the virtual pairing of EVSE load with site
+11 load. Modeled after this concept, VGIC recommends that any upcoming Decision under
+12 Phase 2 of R.20-11-003 should require the IOUs, as part of or as a supplement to their
+13 fall DR portfolio applications, propose a temporary pathway for EV- and EVSE-based
+14 measurement. Aligning this temporary pathway with the process proposed for the
+15 EV/VGI Aggregation Pilot in the staff concept paper will ensure consistency across
+16 programs.
+17 2. Expedite approval of VGI-supporting rate constructs
+18 VGIC is currently a party to the PG&E DAHRTP Pilot Application (A.20-10-011), which
+19 as VGIC understands it, is under review by the Commission. VGIC believes dynamic
+20 rates are one of the most promising near-term opportunities to unlock incremental V1G
+35 Order Accepting Tariff Revisions issued on September 30, 2020 in Docket No. 20-2443-000 at 8.
+http://www.caiso.com/Documents/Sep30-2020-LetterOrderAccepting-
+EnergyStorageandDistributedEnergyResourceStakeholderESDERPhase3-ER20-2443.pdf
+22
+
+1 load reductions. As such, PG&E’s DAHRTP Pilot Application should be approved by the
+2 Commission as soon as possible, and the Decision should direct PG&E to implement the
+3 rate no later than spring 2022 to ensure resources can respond to DAHRTP price signals
+4 during summer 2022.
+5 In addition, VGIC recommends the Commission direct PG&E to temporarily award
+6 credits for EV exports under PG&E’s DAHRTP pilot. VGIC’s Reply Brief in A.20-10-
+7 012 details the complete justification for awarding these credits, and notes that it would
+8 be a worthwhile expansion.36 Temporary allowing for export crediting should also be
+9 expanded to SDG&E’s Power Your Drive VGI Pilot, which has proven to be a successful
+10 rate in impacting charging behavior and promoting VGI activities.
+11 Lastly, VGIC recommends the Commission also direct PG&E to temporarily expand the
+12 DAHRTP offering to residential customers. Allowing residential customers the option to
+13 enroll in PG&E’s DAHRTP pilot has been recommended by parties in A.20-10-011.
+14 3. Expedite approval of VGI Pilots.
+15 As noted in the IOUs’ Advice Letters seeking approval of proposed VGI pilots, the
+16 proposed pilots were based on the recommendations from the CPUC’s 2019-2020 VGI
+17 Working Group, which brought together a range of stakeholders on a regular basis for
+18 roughly a year. Following the conclusion of the VGI Working Group, several parties filed
+19 comments in R.18-12-006 detailing VGI pilot and demonstration needs. In December,
+20 2020, D.20-12-029 directed the IOUs to conduct a VGI pilots stocktake and workshop to
+36 Reply Brief of the VGIC. July 23, 2021. Application 20-10-011.
+23
+
+1 provide input on up to $35 million in VGI pilots. Following the first VGI Pilots workshop
+2 in March, 2021, the IOUs reached out to individual stakeholders to solicit input on VGI
+3 Pilots, held a second workshop, and sought additional informal feedback from
+4 stakeholders prior to filing the Advice Letters. All told, VGIC believes the VGI Pilots
+5 represent the culmination of over two years of focused stakeholder engagement, and that
+6 the record of R.18-12-006 is well-developed in support of each proposed VGI Pilot.
+7 Moreover, all but two (i.e., V2H backup power and V2M microgrid) proposed VGI Pilots
+8 would support reliability goals. With this in mind, while we understand the Energy
+9 Division Transportation Electrification staff has limited time and resources, we believe
+10 expedited approval of the VGI Pilots is a critical yet relatively straight-forward
+11 opportunity to swiftly support summer 2022 reliability and meaningfully advance VGI in
+12 the long-term.
+13 4. Temporarily waive limited aspects of Rule 21 interconnection smart inverter
+14 requirements that prevent V2G-DC participation
+15 While VGIC recognizes that the Commission recently codified a standard interconnection
+16 pathway for V2G-DC EVSE, there are still practical barriers for certain commercial
+17 V2G-DC products. For example, some devices are presently UL certified, but not
+18 specifically certified to the exact Rule 21 specifications (i.e., UL 1741 SA) that include
+19 smart inverter capabilities.37 Temporarily waiving this smart inverter requirement would
+20 allow existing V2G enabling products like those listed above in Table 1 to provide
+37 See Table 1 above.
+24
+
+1 V2G/V2B services. VGIC anticipates that this waiver would only apply to a very limited
+2 number of products since most vendors are planning to incorporate UL 1741-SA
+3 certification in their product pipeline. However, for existing products, this waiver may be
+4 necessary to support near-term grid reliability needs. VGIC recommends the waiver be
+5 awarded to V2G-DC EVSE vendors that can attest to the safety and reliability of their
+6 systems by citing current deployments and/or custom software configurations.
+7 Additionally, simplified Rule 21 interconnection requirements for non-exporting
+8 configurations (including those coupled with other DERs) should also be considered.
+9 VIII. CONCLUSION
+10 Q. Does this conclude your testimony?
+11 A. Yes.
+25
+
+Appendix A:
+Declaration of Ed Burgess in Support of Opening Testimony on Behalf of the Vehicle Grid
+Integration Council
+1
+
+DECLARATION OF ED BURGESS IN SUPPORT OF OPENING TESTIMONY ON
+BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+I, Ed Burgess, am the Senior Policy Director for the Vehicle Grid Integration Council
+(VGIC). Having worked for VGIC since its founding in 2020, I am currently managing policy
+and regulatory affairs for VGIC and its 13 member companies. My business address is 2150
+Allston Way, Suite 400, Berkeley, CA 94704. I declare under penalty of perjury that the
+foregoing facts in this document are true and correct.
+Executed on September 1, 2021 at Berkeley, California.
+Ed Burgess
+2

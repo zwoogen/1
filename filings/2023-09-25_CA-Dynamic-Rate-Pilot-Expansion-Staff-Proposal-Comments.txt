@@ -1,0 +1,359 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGE’S RULING ON TRACK B STAFF PROPOSAL TO
+EXPAND EXISTING PILOTS
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+September 25, 2023
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGE’S RULING ON TRACK B STAFF PROPOSAL TO
+EXPAND EXISTING PILOTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”) and the email ruling extending comment deadline issued by
+Administrative Law Judge (“ALJ”) Stephanie Wang on September 13, 2023, the Vehicle-Grid
+Integration Council (“VGIC”) hereby submits these comments on Administrative Law Judges
+Ruling on Track B Staff Proposal to Expand Existing Pilots (“Ruling”), issued by the Commission
+on August 15, 2023.
+I. INTRODUCTION.
+VGIC commends Energy Division (“ED”) staff for proposing the Commission direct the
+Investor-Owned Utilities (“IOUs”) to expand certain existing dynamic rate pilots, as presented by
+ED staff at a workshop on August 24, 2023.1 VGIC appreciates the attention given to advancing
+demand flexibility through dynamic rates, especially considering the role Distributed Energy
+Resources (“DER”) play in supporting grid reliability, efficiency, and resiliency. Moreover, VGIC
+commends ED staff for proposing to expand Southern California Edison’s (“SCE’s”) Dynamic
+Rate Pilot and Pacific Gas and Electric’s (“PG&E”) AgFIT Pilot, which could present valuable
+1 Staff Proposal Presentation: Existing Dynamic Rate Pilot Expansion in Demand Flexibility Rulemaking
+R-22-07-005. August 24, 2023.
+1
+
+incentives for customers to shift energy usage, including electric vehicle (“EV”) charging and
+discharging.
+EVs are well-positioned to take advantage of dynamic pricing and provide load flexibility.
+Vehicle Grid Integration (“VGI”) strategies, including managed unidirectional charging,
+bidirectional charging and discharging, and DER-paired charging, can unlock EVs as strategic grid
+assets. These price signals can directly influence customer behavior or integrate with automated
+charge management systems for a “behind the scenes” customer experience. Critically, VGI
+strategies will play a key role in helping California meet its ambitious clean energy and
+transportation electrification goals.
+Dynamic pricing implementations in other jurisdictions demonstrate its success in shifting
+load from peak periods, including EV charging load. For example, a Denmark program produced
+evidence of dynamic pricing leading to grid friendly flexible demand.2
+VGIC is supportive of ED’s proposal to expand certain existing dynamic rate pilots,
+including SCE’s Dynamic Rate Pilot, which was initially authorized by the Commission in
+Decision (“D.”) 21-12-015 for a duration of three years and started enrolling customers in May
+2022, and is scheduled to close enrollment in May 2024. Additionally, VGIC supports the
+proposed expansion of the Agricultural Pumping Dynamic Rate Pilot (“AgFIT”), implemented by
+Valley Clean Energy (“VCE”) in coordination with PG&E, into a dynamic rate pilot that enables
+the participation of bundled and unbundled customers on the B-19, B-20, and E-ELEC rates.
+2 See Presentation: “Flexible Demand in Denmark – Perspectives on Market Framework and Digital
+Infrastructure,” by Claus Korg Ekman (Climate and Energy Attache, Ministry of Foreign Affairs of
+Denmark) presented to R.22-07-005 Working Group 1 on June 23, 2023.
+2
+
+VGIC offers comments, summarized below, in support of the dynamic rate expansion
+proposal but also provides recommendations to enhance the proposed pilot expansions to increase
+EV customer participation.
+• VGIC recommends the Commission direct the IOUs to offer additional no-regrets dynamic
+rate components to a wide set of customers until future Demand Flexibility Guidance is
+issued, including:
+o Marginal energy component and generation capacity
+o Alternatives to circuit-specific dynamic distribution components
+o Shadow billing
+o Forward price curves
+o Rate symmetry for export credit
+o Broad customer eligibility
+o Dual participation in Emergency Load Reduction Program and other nonrate
+incentive programs
+o Extend smart inverter exemption for V2G DC EVSE
+• The Commission should continue support for existing nonrate programs and establish new
+programs that capture VGI benefits and customer participation that are hard to reach
+through rate design alone.
+II. VGIC RECOMMENDS THE COMMISSION DIRECT THE IOUS TO OFFER
+ADDITIONAL NO-REGRETS DYNAMIC RATE COMPONENTS TO A WIDE
+SET OF CUSTOMERS UNTIL FUTURE DEMAND FLEXIBILITY GUIDANCE IS
+ISSUED.
+VGIC reiterates its appreciation of ED Staff for proposing to expand certain dynamic rate
+pilots in recognition of the urgent need for additional resources to enhance summer reliability,
+DERs that can support renewable energy integration, and improve efficiencies in grid utilization.
+Moreover, VGIC believes that the proposed expansion of the pilots comes at a critical point when
+the state is experiencing and anticipating further increased load growth from Transportation
+Electrification (“TE”). As TE rapidly accelerates, shaping load in ways useful to the grid becomes
+simultaneously more feasible and critical for grid reliability and affordability. To harness and
+shape this load, VGIC supports ED Staff’s proposal to expand existing dynamic rate pilots.
+3
+
+However, in light of the magnitude of the opportunity presented by VGI solutions and the unique
+challenges facing California’s electric grid, VGIC strongly recommends that the IOUs
+considerably expand efforts by offering certain no-regrets dynamic rate components to a wide set
+of customers. This approach will help to bridge the gap until the Commission issues guidance for
+demand flexibility rate applications. It will also yield important lessons at a meaningful but cost-
+controlled scale to inform the development of full-scale, optional dynamic rates for all customers
+by 2027. While the demand flexibility guidance proposals developed in Track B Working Group
+1 consider several different rate design elements, a few are shared across all of the proposals and
+some are already implemented in the ongoing CalFUSE pilots. VGIC considers these elements to
+be “no-regrets” rate components and rules that the Commission should direct IOUs to implement
+even though the full, final demand flexibility guidance has not yet been developed.
+Specifically, VGIC urges the Commission to direct SCE and PG&E to expand their
+respective dynamic rate pilots identified in the staff proposal (i.e., SCE’s Dynamic Rates Pilot and
+PG&E’s AgFIT Pilot) to include the following no-regrets elements, beginning in Q2 2024:
+• Marginal energy component and generation capacity. Already central to each pilot, these
+rate components should be maintained for ED staff’s proposed expansions #1, #2, and #3.
+• Alternatives to circuit-specific dynamic distribution components. Dynamic circuit-specific
+distribution rate components can be challenging to calculate, track, and communicate with
+customers. Additionally, distribution grid topology changes relatively quickly due to customer-
+and utility-side actions (e.g., new commercial and industrial solar facilities, transformer and
+substation upgrades, etc.). Dynamic circuit-specific distribution pricing could result in EV
+charging customers making major investment decisions based on patterns in the circuit-specific
+price signals they receive. VGIC is concerned over the relatively fast-moving changes in
+4
+
+dynamic circuit-specific price patterns leading to customer frustration as distribution capacity
+changes due to nearby load growth, generation additions, or expanded distribution capacity
+outside that customer’s control. In contrast, a system-wide dynamic distribution component
+could (1) offer customers a higher degree of certainty to infrastructure deployment decisions,
+(2) be easier for utilities to implement in the near term without significant changes to existing
+pilot methodologies, and (3) be easier to communicate with customers than circuit-specific
+pricing, which relates to more complex rate design and utility cost recovery concepts. This
+system-wide component could be based on average marginal distribution costs. That said,
+VGIC does believe circuit-specific optimization will remain a critical load management
+strategy. Therefore, another set of alternatives to circuit-specific pricing that may promote
+circuit-level optimization is a non-rate program portfolio. The Commission can expand or
+establish new programs to capture these circuit-specific benefits. VGIC also recommends the
+utilities explore which transmission-related costs can be considered marginal and added as a
+dynamic rate component for both EV charging and exports.
+• Shadow billing. Already central to each pilot, the shadow billing structure offers important
+customer bill protection needed during the pilot period and may defer major billing system
+upgrades for the IOUs.
+• Forward price curves. The AgFIT pilot offers participants dynamic hourly prices 1-7 days
+ahead.3 Forward price curves can help EV customers and fleets plan charging and vehicle
+operations well ahead of forecasted high or low-price hours. Moreover, the option to procure
+3 CPUC R.22-07-005. Administrative Law Judges Ruling on Track B staff Proposal to Expand Existing
+Pilots – Attachment B: Preliminary Assessment of VCE’s Agricultural Pumping Dynamic Rate Pilot.
+August 15, 2023.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M517/K408/517408172.PDF
+5
+
+energy based on forward prices can provide additional benefits to flexible EV charging
+customers who wish to transact with other customers and end-users.
+• Rate symmetry and export credit. SCE’s Dynamic Rate Pilot aims to work with automation
+service providers (“ASP”) that can integrate with the TeMix transactive pricing platform.4
+SCE’s Dynamic Rate Pilot also aims to work with behind-the-meter energy storage and EV
+charging customers.5 These technologies can provide net export to the grid in return for
+dynamic export credits. Meanwhile, PG&E’s AgFIT pilot offers only dynamic import rates but
+does not offer compensation for exports, which is a reasonable limitation for pumping
+customers.6 VGIC strongly recommends that the expansion of SCE’s Dynamic Rate and
+PG&E’s AgFIT pilots be paired with an export credit for all components associated with
+marginal costs (e.g., marginal energy costs, marginal generation capacity costs, and
+distribution capacity costs). The Commission can unlock far greater value from EV
+participation by including export compensation in the expanded AgFIT pilot. Shifting charging
+may yield some load reduction from vehicles that would have otherwise charged during a given
+high-priced period. However, promoting EV exports can incentivize customers who would not
+have otherwise been actively charging to discharge their vehicle’s battery. In that sense,
+promoting EV exports offers a “VGI multiplier” compared to price signals that only shift load.
+• Broad customer eligibility. VGIC supports ED staff’s proposal to expand SCE’s Dynamic
+Rate Pilot to include Level 2 Charge Ready customers and PG&E’s AgFIT pilot to include B-
+4 Energy Division Disposition Letter Approving SCE Advice Letter 4684-E, issued April 26, 2022.
+5 Energy Division Disposition Letter Approving SCE Advice Letter 4684-E, issued April 26, 2022.
+6 CPUC R.22-07-005. Administrative Law Judges Ruling on Track B staff Proposal to Expand Existing
+Pilots – Attachment B: Preliminary Assessment of VCE’s Agricultural Pumping Dynamic Rate Pilot.
+August 15, 2023.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M517/K408/517408172.PDF
+6
+
+19, B-20, and E-ELEC customers. Notably, PG&E’s commercial EV charging customers on
+the BEV rate will soon be eligible to enroll in the optional Day-Ahead Hourly Real Time
+Pricing (“DAHRTP”) rate and the associated export rate pilot. However, PG&E’s residential
+EV charging customers on EV2-A and EV-B will have no opportunity to optimize charging
+against a dynamic rate. While some residential EV drivers may be on E-ELEC, VGIC believes
+EV2-A and EV-B customers should also be deemed eligible to enroll in PG&E’s expanded
+AgFIT pilot. Additionally, while ED staff’s proposal does not direct San Diego Gas & Electric
+(“SDG&E”) to take any action to expand existing dynamic rate pilots, VGIC notes that
+SDG&E has run its dynamic Power Your Drive (“PYD”) VGI pilot rate for several years.7
+VGIC recommends the Commission direct SDG&E to (1) expand its VGI rate eligibility
+beyond PYD customers to include both residential and non-PYD commercial EV charging
+customers, (2) include compensation for exports as considered in SDG&E’s Application (“A.”)
+21-12-006/008,8 and (3) include the other no-regrets components detailed in these comments.
+• Dual participation in Emergency Load Reduction Program and other nonrate programs.
+VGIC urges the Commission to enable dual participation between dynamic rate pilots and
+nonrate demand-side management programs like ELRP. By prohibiting dual participation, the
+Commission is pitting two effective load management strategies against one another rather
+than allowing them to work together. In their proposal, ED staff notes that the exclusion of
+dual participation for certain programs is intended to avoid challenges with attribution of the
+7 SDG&E. Power Your Drive Research Report. April 2021.
+https://www.sdge.com/sites/default/files/regulatory/SDG%26E%20FINAL%20Power%20Your%20Drive
+%20Research%20Report%20April%202021.pdf
+8 SDG&E’s A.21-12-006/008 proposal considers a dynamic export pilot for commercial customers on
+SDG&E’s the EV High Power or EV-HP rate. Notably, SDG&E’s proposal does not include dynamic rate
+components for charging or dynamic distribution components for exports, which VGIC recommends be
+directed by the Commission, along with the other “no-regrets” dynamic rate components offered herein.
+7
+
+net load reduction and to avoid potential double-counting.9 VGIC strongly agrees that double
+counting and double compensation must be avoided to mitigate any risk of overpaying or
+creating unintended cost shifts. However, VGIC believes ELRP dual participation represents
+a particularly high-value, low-complexity dual participation use case. Given the urgent need
+for additional resources to enhance summer reliability, ELRP plays an important and unique
+role in unlocking incremental emergency demand flexibility and exports during the periods of
+highest grid stress. Regarding counting methodology, VGIC notes that at least one IOU,
+PG&E, has developed a methodology for enabling dual participation in dynamic rates and
+ELRP, as explicitly required by Commission Resolution E-5192.10 Under the direction of
+Resolution E-5192, PG&E’s VGI Pilots will enroll customers in both ELRP and the dynamic
+rate (with shadow billing). In the case of ELRP and the dynamic rate pilot dual participation,
+IOUs can learn from any initial challenges from AgFIT, SCE’s Dynamic Rate Pilot, and
+PG&E’s VGI Pilots related double counting and better prepare for other dual participation use
+cases ahead of optional dynamic rates being offered to all customers in 2027. VGIC identifies
+below the three primary reasons why dual participation between dynamic pricing pilots and
+nonrate programs like ELRP is appropriate, and one reason why it is specifically important for
+SCE Charge Ready customers.
+o First, nonrate programs and dynamic rates can provide separate grid value streams. In
+the case of ELRP, for example, emergency reliability is unlocked through the nonrate
+program, whereas dynamic rate pilots target year-round load and export optimization.
+Another example would be PG&E’s evPulse program, which supports managed
+9 CPUC R.22-07-005. Administrative Law Judges Ruling on Track B staff Proposal to Expand Existing
+Pilots – Attachment A: Staff Proposal on Existing Dynamic Rate Pilot Expansion. August 15, 2023. Pg. 12.
+10 Resolution E-5192. May 5, 2022. Pg. 20, 22, 23, 32, and 38.
+8
+
+charging in response to Public Safety Power Shutoffs, a value stream that is
+unsupported by dynamic rates. 11 Enabling and promoting dual participation in rate and
+nonrate programs can allow the Commission to maximize the grid support that can
+come from EVs.
+o Second, certain aggregators, EV charging site developers, and technology providers
+must choose where in the country to invest resources in acquiring customers and, in
+turn, supporting the grid. Other jurisdictions, such as New York and Massachusetts,
+permit and even encourage dual participation across several EV rates and programs,
+attracting significant investment in VGI technologies. If California wishes to be viewed
+as a global leader in VGI, it must offer a significant, sackable set of values for VGI
+resources. For reference, V2G electric school buses in Massachusetts can make over
+$10,000 in a single summer in a single program (i.e., Connected Solutions) before value
+stacking with other opportunities.12
+o Third, VGIC does not see a need to meaningfully alter either ELRP or the dynamic
+rates to accommodate dual participation, aside from clarifying that dynamic rate
+participants may participate in ELRP. D.21-12-015 authorizing updates to the ELRP
+program permits dual participation for EV/VGI aggregations in dynamic and real-time
+equivalent rates.13 Namely, ELRP’s existing baselining methodology need not differ
+11 Energy Division Letter Approving PG&E’s 2021 Low Carbon Fuel Standard Implementation Plan
+Detailed in Advice Letter 6226-E. December 24, 2021.
+https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6226-E.pdf
+12 A.22-05-002/003/004, Exhibit VGIC-01, Testimony of Ed Burgess on Behalf of Vehicle-Grid Integration
+Council, pg 22.
+13 D.21-12-015. Attachment 1. Pg 6. “The VGI aggregation or any customer site within the aggregation is
+not simultaneously enrolled in a market-integrated, supply-side DR program offered by an IOU, third-party
+DRP, or CCA.” https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821668.PDF
+9
+
+whether a customer normally charges under a TOU rate (the case for current ELRP
+participants) or a more dynamic time-varying rate (as would be the case for AgFIT and
+SCE’s Dynamic Rate Pilot participants). In either case, incremental load reduction
+below the customer’s baseline can be measured during ELRP hours and compensated
+at the ELRP compensation rate of $2/kWh.
+o Specific to SCE’s Charge Ready Customers: SCE Charge Ready customers should
+be permitted to participate in both ELRP and SCE’s Dynamic Rate Pilot because
+Commission Resolution E-5267 recently directed SCE to transition Charge Ready
+customers to ELRP.14 The Commission made this decision after careful consideration
+in proceedings R.20-11-003 and, likely, a review of SCE’s A.22-05-004, which also
+proposed this transition.15 VGIC recommends that the Commission enable dual
+participation in SCE’s Dynamic Rate Pilot and ELRP to avoid customer confusion and
+remain consistent with recent Commission guidance.
+• Extend smart inverter exemption for V2G DC EVSE. VGIC strongly supports ED staff’s
+proposal to extend the UL 1741 SA/SB exemption for V2G DC EVSE initially ordered in
+D.21-12-015 to the dynamic rate pilots.16 Bidirectional charger manufacturers are working to
+complete certification processes to meet all safety and reliability standards required by
+California’s Rule 21. There is a very limited availability of SA-certified V2G DC EVSE, and
+there are no SB-certified V2G DC EVSE to VGIC’s knowledge. This is also evident in the
+14 Resolution E-5267. May 18, 2023. Pg 2.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M509/K695/509695243.PDF
+15 Application of SCE for Approval of Demand Response Programs and Budgets for 2023-2027. May 2,
+2022. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M472/K478/472478719.PDF
+16 D.21-12-015. Attachment 1. Pg 6.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821668.PDF
+10
+
+CEC’s V2G Equipment List.17 If the Commission does not extend the V2G DC EVSE smart
+inverter exemption to all dynamic rate pilots, California will likely see little-to-no V2G assets
+enrolling in dynamic rate pilots for the foreseeable future. As a result, hundreds of megawatts
+of latent energy storage capacity could go untapped, undermining California’s efforts to bolster
+grid reliability, support renewable energy integration, or achieve its affordability and resiliency
+goals.
+III. THE COMMISSION SHOULD CONTINUE SUPPORT FOR EXISTING
+NONRATE PROGRAMS AND ESTABLISH NEW PROGRAMS THAT CAPTURE
+VGI BENEFITS AND CUSTOMER PARTICIPATION THAT ARE HARD TO
+REACH THROUGH RATE DESIGN ALONE.
+VGIC supports advancing both dynamic rate design and access as required by the CEC’s
+Load Management Standard and envisioned in ED staff’s CalFUSE whitepaper and use of “nonrate
+compensation programs,” as identified in the CEC’s recent Draft AB 2127 Report as an effective
+VGI strategy.18 Dynamic price signals can offer customers opportunities to optimize EV charging
+and discharging behavior to align with system-level needs like peak reduction or charging from
+clean energy, saving money for EV customers, supporting renewable energy integration, and
+reducing total system costs. Regarding nonrate compensation programs, the 2019-2020 Joint
+Agency VGI Working Group detailed hundreds of “VGI Use Cases,” indicating a need for a variety
+of approaches to compensating VGI rather than relying solely on rate design.19 For example, it is
+17 See CEC V2G Equipment List. https://v2gel.energy.ca.gov/Home/ProcessView. Accessed September 25,
+2023.
+18 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report,
+pg. 74.
+19 California Public Utilities Commission. 2020. Final Report of the California Joint Agencies Vehicle-Grid
+Integration Working Group, https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-
+Final-Report-6.30.20.pdf.
+11
+
+unclear exactly how dynamic rates can effectively capture circuit-specific distribution value for
+EV charging and coordinate charging at the circuit level, as detailed above in Section II. All
+customers on a single circuit may respond to the same local circuit-specific price signal, disrupting
+the potential charging cost savings or overloading local circuit limits (i.e., for exports).
+Additionally, the distribution grid changes uniquely fast due to customer- and utility-side decisions
+on any given circuit. Suppose these changes are reflected in local, circuit-specific distribution
+pricing. In that case, it can make VGI investment decisions a challenging and uncertain prospect.
+In contrast, well-designed programs can enable circuit-specific optimization and provide greater
+certainty to encourage customer investments in VGI technologies.
+California is home to several new but relatively small-scale managed charging programs
+that promote single EV demand flexibility value streams by nonrate means, including PG&E’s
+evPulse, Sacramento Municipal Utility District’s (“SMUD”) Managed Charging Program,
+PG&E’s ChargeForward Pilot, ELRP, and the CEC’s emerging Demand Side Grid Support
+Program (“DSGS”). In contrast, Xcel Colorado’s Charging Perks program, for example, is slated
+to be scaled to thousands of vehicles and aims to capture more than one VGI value stream.
+Moreover, while dynamic rates can implement with EV charger-based automated service
+providers that can encourage customer participation through EVSE submetering, telematics-based
+charge management is currently underutilized in California. For example, customers charging on
+non-networked EVSE, Level 1 chargers, or who simply prefer to participate in grid integration
+through their vehicle rather than their charger or site energy management system currently
+represent untapped VGI potential that could be captured through nonrate programs.
+With this in mind, VGIC recommends the Commission, in coordination with the CEC,
+continue to support VGI through both rate design (i.e., ED staff’s proposed dynamic rate pilot
+12
+
+expansions, long-term transition to CalFUSE rates) and nonrate compensation programs (i.e.,
+ELRP, evPulse, ChargeForward). The Commission should also, in coordination with the CEC,
+promote stacking across different participation options such that more than one value (i.e., system
+peak reduction, local distribution optimization, clean energy integration) can be captured at any
+given time, which can support the rapid deployment of managed charging, bidirectional charging,
+and DER-paired charging solutions.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the ED’s Proposed
+Expansion of the Existing Dynamic Rate Pilots. We look forward to further collaboration with the
+Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: September 25, 2023
+13

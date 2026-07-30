@@ -1,0 +1,240 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the Rulemaking 18-12-006
+Development of Rates and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF ENVIRONMENTAL DEFENSE FUND, THE VEHICLE-GRID
+INTEGRATION COUNCIL, CALSTART, SIEMENS, NATURAL RESOURCES
+DEFENSE COUNCIL, ENEL X NORTH AMERICA, INC., ADVANCED ENERGY
+ECONOMY, AND GREENLOTS ON PROPOSED DECISION CONCERNING
+IMPLEMENTATION OF SENATE BILL 676 AND VEHICLE-TO-GRID
+INTEGRATION STRATEGIES
+LARISSA KOEHLER EDWARD BURGESS
+Environmental Defense Fund ZACH WOOGEN
+123 Mission Street, 28th Floor Vehicle-Grid Integration Council
+San Francisco, CA 94105 2150 Allston Way, Suite 400
+Tel: (415) 293-6093 Berkeley, CA 94704
+Email: lkoehler@edf.org Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+MEREDITH ALEXANDER CHRIS KING
+CALSTART Siemens
+2600 Tenth St., Suite 407 721 Shell Blvd, Suite 205
+Berkeley, CA 94710 Foster City, CA 94404
+Tel: (626) 744-5617 Tel: (510) 435-5189
+Email: malexander@calstart.org Email: chris_king@siemens.com
+MILES MULLER MARC MONBOUQUETTE
+Natural Resources Defense Council Enel X North America, Inc.
+111 Sutter Street, 21st Floor 846 Bransten Road
+San Francisco, CA 94104 San Carlos, CA 94070
+Tel: (415) 875-8254 Tel: (415) 488-6035
+Email: mmuller@nrdc.org Email: marc.monbouquette@enel.com
+
+NOAH GARCIA THOMAS ASHLEY
+Advanced Energy Economy Greenlots
+1010 Vermont Ave. NW, Suite 1050 767 S. Alameda St., Suite 200
+Washington, D.C. 20005 Los Angeles, CA 90021
+Tel: (202) 380-1950 Tel: (802) 922-5585
+Email: ngarcia@aee.net Email: tom@greenlots.com
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the Rulemaking 18-12-006
+Development of Rates and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF ENVIRONMENTAL DEFENSE FUND, THE VEHICLE-GRID
+INTEGRATION COUNCIL, CALSTART, SIEMENS, NATURAL RESOURCES
+DEFENSE COUNCIL, ENEL X NORTH AMERICA, INC., ADVANCED ENERGY
+ECONOMY, AND GREENLOTS ON PROPOSED DECISION CONCERNING
+IMPLEMENTATION OF SENATE BILL 676 AND VEHICLE-TO-GRID
+INTEGRATION STRATEGIES
+I. INTRODUCTION
+Environmental Defense Fund, the Vehicle-Grid Integration Council, CALSTART,
+Siemens, Natural Resources Defense Council, Enel X North America, Advanced Energy
+Economy, and Greenlots (Joint Commenters) provide these joint reply comments on the
+Proposed Decision regarding vehicle-grid integration (VGI) and SB 676 implementation (PD)
+issued on November 13, 2020. Joint Commenters address the following topics on reply:
+- Having an opt-out time-varying price signal passed through to the driver should
+provide sufficient flexibility while also encouraging load management through VGI;
+- It will continue to be critically important to collect data of multiple types;
+- There is a great opportunity and need to test out the capability of vehicles to provide
+resiliency services
+- Networked charging will provide valuable insights into charging patterns and load
+shape that would otherwise be difficult to obtain, and will provide a greater level of
+automation;
+- Cost-effectiveness must be assessed on a holistic basis; and
+- Advanced Load Management (ALM) should continue to be explored as way to
+benefit ratepayers.
+II. DISCUSSION
+A. Having an opt-out time-varying price signal passed through to the driver encourages
+load management through VGI without negatively affecting customer experience.
+In opening comments, Tesla expresses concern that the PD contemplates having price signals
+passed through to the driver as the default arrangement,1 stating that Southern California
+1 Joint Commenters note that the PD should be corrected in its reference to the Charge Ready 2 Decision.
+Instead of the reference to pages 93 and 151 in D. 20-08-045, this PD should reference pages 93 and 148.
+1
+
+Edison’s Charge Ready Phase 2 program does not provide “sufficient precedent to make the
+default option for all programs going forward given that [it] is focused on specific use cases in a
+specific program [Level 2 charging]…and did not adequately evaluate the impact of default pass
+through on DCFC [direct current fast charging].”2 Tesla states that this may negatively impact
+the customer experience. However, if passing through a price signal proves to be untenable for
+drivers who are not the site host, site hosts can opt out and provide for additional means of load
+management. Moreover, while Joint Commenters agree that customer experience is important
+for encouraging adoption, EV charging station operators and drivers should be encouraged to
+charge in a manner that responds to grid conditions, which will be aided by passing price signals
+to drivers.
+B. It will continue to be important to collect data on VGI participation and performance,
+even if doing so requires additional resources.
+Pacific Gas & Electric (PG&E) requests that the Commission strike the requirement that they
+“report on VGI participation in their demand response programs,”3 given that those programs do
+not currently collect such data, and it would be overly burdensome to do so. Joint Commenters
+contend that collecting this VGI-related data going forward is not as burdensome as is
+represented by the utilities. More can and should be done. First, difficulty collecting data is not
+an appropriate reason – particularly where such data is necessary to understand how VGI are
+performing and can be improved upon. Additionally, the framework required under SB 676 and
+contemplated by the PD will be in place over the next decade, making VGI participation in DR
+programs a reasonable expectation. Similarly, San Diego Gas & Electric (SDG&E) states that
+“the PD additionally requires utilities to report on aspects of VGI that are only marginally related
+to utility programs.”4 According to SDG&E, this includes “load profiles for managed EV
+charging as opposed to unmanaged charging…[and] “a running list…of utility-side upgrades
+avoided/mitigated for EV charging sites as a result of utilization of behind-the-meter EV
+services.”5 For separately metered EV load, utilities should readily be able to obtain data that
+differentiates participants in TOU rates and/or VGI programs; and for EV load that is not
+separately metered, utilities could seek to acquire data from a third party (e.g., an OEM/EVSP).
+2 Tesla at 6.
+3 PG&E at 7.
+4 SDG&E at 5.
+5 Id.
+2
+
+As well, SDG&E’s position that it is impossible to know what utility-side upgrades can be
+avoided as a result of behind-the-meter activity appears misplaced. While Joint Commenters
+agree that it may be difficult to directly correlate all avoided upgrade costs to behind-the-meter
+EV services, secondary and customer-side upgrades that are avoided by customer election of
+ALM through TE tariffs, rules, and programs, as proposed in our opening comments, should be
+relatively easy to track. More broadly, if the utility is collecting load data, it should be
+reasonably apparent where interventions to manage charging have successfully deterred costly
+infrastructure build-out. For example, if a large commercial fleet plans to add several vehicles
+yet anticipates managing their charging such that they do not foresee needing the utility to build
+out distribution infrastructure, that is an important data point for planning and reporting.
+C. Resiliency will continue to be an important function of EVs.
+Joint Commenters urge the Commission to continue to evaluate the use of EVs to provide
+resiliency services and should consider the emerging capabilities of different vehicle types.
+SDG&E states “as the Nissan Leaf is the only commonly sold EV to use the CHAdeMO
+standard, the opportunities for SDG&E to accelerate the use of EVs as PSPS resiliency resources
+are limited.”6 Several ongoing policy developments7 and product announcements8 indicate the
+increasingly common nature of light-duty EV resiliency solutions. As well, many MHDV
+manufacturers offer bidirectional capability on their vehicles, and SDG&E is piloting
+bidirectional charging in their school bus VGI pilot. The continued evolution of charging
+standards, and the emergence of additional technical configurations for V2G functionality must
+be a perennial topic of consideration. Given the larger battery sizes of MHDVs, as well as the
+fact that the use cases of certain vehicles, like school buses, make them well suited to potentially
+providing resiliency services, the Commission should embrace opportunities to encourage OEMs
+to build V2G capabilities into their products and for IOUs to enable these technologies.
+Further, PG&E’s implication that it is less imperative to test out the capability of EVs to
+provide resiliency services because they are already pursuing other solutions is misplaced.
+While we agree that these solutions should address some grid reliability challenges in the region,
+they do not obviate the need to pursue EV resiliency projects. Compared to many other
+6 SDG&E at 3.
+7 See for example Rule 21, Microgrids PD, SGIP, UL and SAE standards development.
+8 VGIC reply comments on SGIP scoping memo at 9 (Oct. 23, 2020).
+3
+
+customer-side PSPS mitigation solutions, EV-based solutions utilize battery capacity that is
+embedded into the cost of the vehicle, meaning that these solutions serve as a relatively
+inexpensive solution when compared to alternatives such as new microgrid or distributed
+generation investments.
+D. Networked charging provides important benefits.
+Plug In America states that “self-managed charging [i.e., non-networked charging] is an
+important way to address affordability and equity concerns of consumers while also benefiting
+the grid” and expresses “caution against favoring networked charging over self-managed
+charging.” While there are potentially multiple technologies that can help drivers manage their
+load, Plug In America neglects to mention one important factor. Failing to facilitate networked
+charging (including EVSP and OEM solutions) to the extent possible will prevent utilities – and
+ultimately the Commission and stakeholders – from being able to glean important insights from
+having access to load data. Not having that information (and, more to the point, not requiring
+utilities to collect and analyze that data, whether through their own processes or by purchasing
+agreements with third-party data collectors) may very well create a solution where the costs of
+integrated increased EV load into the system are much larger than they otherwise could be, since
+it will not be possible to determine if and when course corrections to better manage load need to
+be made. These benefits are on top of other important benefits that networked chargers provide,
+including providing drivers with enhanced abilities to easily respond to price signals or
+participate in managed charging programs, and otherwise act as an intelligent grid asset, with
+much less risk of becoming stranded. Joint Commenters also strongly disagree with the
+implication that equity considerations should be addressed by providing solutions with lesser
+capabilities to disadvantaged customers or communities.
+E. Establishing whether a solution will be cost-effective should be determined through a
+holistic lens.
+In opening comments, PG&E recommends that “the PD be revised to condition any
+implementation of the three strategies adopted pursuant to SB 676…on demonstration that they
+meet the cost-effectiveness requirements of the statute.”9 Joint Commenters believe this is
+appropriate, with an important caveat: while cost-effectiveness may be an important
+consideration pursuant to the directive of SB 676, PG&E’s assertion highlights the fact that the
+9 PG&E at 13.
+4
+
+Commission has to do a better job of defining what type of cost-benefit analysis is necessary to
+make this determination. Pursuant to the opening comments filed by Joint Commenters, we urge
+the Commission to consider benefits and costs more holistically than what is currently implied,
+which is strictly a qualitative monetary determination based on an assumption of low costs
+without considering the benefits side of the ledger. Significant further analysis is necessary
+across vehicle types and vocations before conclusions can be drawn. Failure to do so may mean
+that projects may be deemed ineligible for further pursuit based on a skewed determination.
+F. The PD is correct to pursue implementation of ALM as a core VGI strategy
+SDG&E and PG&E both rebuke the PD’s order for IOUs to implement ALM as part of all
+TE-related tariffs, rules, and programs, stating that the code-worthiness and cost-effectiveness of
+ALM is not supported by the record of this proceeding,10 and that the Commission has other
+forums, such as the Distribution Resources Planning (DRP) proceeding, to pursue use of VGI for
+distribution deferrals.11 While Joint Commenters agree that ALM capabilities should be
+optional, as these solutions may not be appropriate for all customers, the Commission should
+reject these arguments. First, ALM is recognized in the National Electric Code (NEC) section
+pertaining to EVSE ratings,12 meaning that the largest barriers to deployment come down to
+awareness of the technology on the part of the authority having jurisdiction and allowance in
+local building codes. However, this does not preclude the Commission from ordering the IOUs
+to pursue ALM while addressing related challenges in parallel. Second, distribution deferral
+efforts under the DRP are focused on primary distribution system upgrades identified through
+annual planning processes, whereas ALM, as included in the PD and supported in our opening
+comments, would be deployed to avoid upgrades to customer-specific distribution infrastructure
+and equipment identified through interconnection applications. We agree with TURN that
+further workshops would be helpful to further flesh out the technical implementation details of
+ALM alongside the IOUs’ proposed evaluation criteria for determining where ALM should be
+deployed as a ratepayer-beneficial method to meet customers’ EV charging needs.
+III. CONCLUSION
+Joint Commenters thank the Commission for the opportunity to provide reply comments.
+10 SDG&E at 7-8.
+11 SDG&E at 9; PG&E at 5.
+12 See NEC Article 625 on Electric Vehicle Charging and Supply Equipment Systems, Section 625.42.
+5
+
+Dated: December 8, 2020 Respectfully submitted,
+/s/ Larissa Koehler /s/ Edward Burgess
+Larissa Koehler /s/ Zach Woogen
+Environmental Defense Fund Edward Burgess
+123 Mission Street, 28th Floor Zach Woogen
+San Francisco, CA 94105 Vehicle-Grid Integration Council
+Tel: (415) 293-6093 2150 Allston Way, Suite 400
+Email: lkoehler@edf.org Berkeley, CA 94704
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+/s/ Meredith Alexander /s/ Chris King
+Meredith Alexander Chris King
+CALSTART Siemens
+2600 Tenth St., Suite 407 721 Shell Blvd, Suite 205
+Berkeley, CA 94710 Foster City, CA 94404
+Tel: (626) 744-5617 Tel: (510) 435-5189
+Email: malexander@calstart.org Email: chris_king@siemens.com
+/s/ Miles Muller /s/ Marc Monbouquette
+Miles Muller Marc Monbouquette
+Natural Resources Defense Council Enel X North America, Inc.
+111 Sutter Street, 21st Floor 846 Bransten Road
+San Francisco, CA 94104 San Carlos, CA 94070
+Tel: (415) 875-8254 Tel: (415) 488-6035
+Email: mmuller@nrdc.org Email: marc.monbouquette@enel.com
+/s/ Noah Garcia /s/ Thomas Ashley
+Noah Garcia Thomas Ashley
+Advanced Energy Economy Greenlots
+1010 Vermont Ave. NW, Suite 1050 767 S. Alameda St., Suite 200
+Washington, D.C. 20005 Los Angeles, CA 90021
+Tel: (202) 380-1950 Tel: (802) 922-5585
+Email: ngarcia@aee.net Email: tom@greenlots.com
+6

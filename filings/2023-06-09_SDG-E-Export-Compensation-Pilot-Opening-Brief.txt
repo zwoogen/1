@@ -1,0 +1,467 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Real Time Application No. 21-12-006
+Pricing Pilot Rate. (Filed December 13, 2021)
+Application of San Diego Gas & Electric Application No. 21-12-008
+Company (U902E) for Approval of Commercial (Filed December 17, 2021)
+Electric Vehicle Dynamic Rate.
+OPENING BRIEF OF THE VEHICLE GRID INTEGRATION COUNCIL
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+June 9, 2023
+1
+
+TABLE OF CONTENTS
+I. INTRODUCTION. ............................................................................................................ 3
+II. SDG&E’S PROPOSED EXPORT RATE PILOT WILL NOT YIELD ADEQUATE
+CUSTOMER PARTICIPATION WITHOUT EXPORT RATE DESIGN THAT
+INCLUDES A DYNAMIC DISTRIBUTION COMPONENT. ...................................... 7
+III. RESPONSES TO QUESTIONS IN PROCEDURAL EMAIL ISSUED APRIL 6, 2023
+BY ALJ WANG ................................................................................................................ 11
+IV. IF SDG&E IS DIRECTED TO RESUBMIT A DYNAMIC IMPORT RATE
+APPLICATION IN 2024, IT SHOULD FOLLOW BEST PRACTICES FOR REAL-
+TIME PRICING RATE DESIGN. .................................................................................. 16
+V. CONCLUSION. ............................................................................................................... 18
+2
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Real Time Application No. 21-12-006
+Pricing Pilot Rate. (Filed December 13, 2021)
+Application of San Diego Gas & Electric Application No. 21-12-008
+Company (U902E) for Approval of Commercial (Filed December 17, 2021)
+Electric Vehicle Dynamic Rate.
+OPENING BRIEF OF THE VEHICLE GRID INTEGRATION COUNCIL
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”) the Vehicle-Grid Integration Council (“VGIC”) hereby submits this
+opening brief in the consolidated Application of San Diego Gas & Electric Company (“SDG&E”)
+for Approval of Real Time Pricing Pilot Rate (“Application”), pursuant to the Procedural Email
+Granting Extension Request for Briefs issued by Administrative Law Judge (“ALJ”) Stephanie
+Wang on May 16, 2023.
+I. INTRODUCTION.
+VGIC’s participation in this consolidated proceeding is focused primarily on why and how
+the Commission should direct SDG&E to modify their proposed dynamic rate pilots to ensure the
+rate pilots adequately support participating customers, benefit non-participating ratepayers, and
+yield meaningful lessons learned to inform the long-term development of dynamic pricing in
+California. Specifically, VGIC aims to promote an export rate pilot for non-Net Energy Metering
+3
+
+(“NEM”) distributed energy resources (“DERs”), including bidirectional vehicle-to-everything
+(“V2X”) and storage-backed electric vehicle (“EV”) charging sites, that sufficiently attracts
+customer participation. VGIC believes a successful export rate pilot would compensate customers
+for the full value they provide to the grid. The record in this proceeding viewed as a whole,
+including VGIC’s prepared written testimony, together with prepared written testimony submitted
+by others, including Environmental Defense Fund (“EDF”),1 makes an unassailable case for the
+Commission to direct SDG&E to modify their proposed export compensation pilot to ensure it
+adequately compels customer participation, namely through the addition of a dynamic distribution
+rate component.
+The Advanced Strategies for Demand Flexibility Management and Customer DER
+Compensation whitepaper (“Demand Flex Whitepaper”), which Energy Division staff and
+interested parties are working diligently to implement in Rulemaking (“R.”) 22-07-005 (“Demand
+Flex OIR”) and the Demand Flex Working Groups, establishes a robust framework for export rate
+design. Critically, the Demand Flex Whitepaper asserts that export pricing will support the large-
+scale participation of flexible exports. Furthermore, the Energy Division Recommendations to
+SDG&E to modify its proposed export rate issued on June 15, 2022 (“June 15, 2022, Energy
+Division Recommendations”), unmistakably guides SDG&E toward proposing an export
+compensation rate pilot that better aligns with the framework established in the Demand Flex
+Whitepaper.2 Although the intent of these recommendations was to nudge SDG&E’s application
+toward the Demand Flex Whitepaper framework, SDG&E’s subsequent supplemental testimony
+proposes a limited export compensation pilot that implements the minimum required dynamic rate
+1 EDF-02. Rebuttal Testimony of Steven Moss on Behalf of Environmental Defense Fund, submitted on January 30,
+2023, p. 2.
+2 Administrative Law Judge’s Ruling Regarding Staff Recommendations and Workshop, issued June 15, 2022,
+Attachment A – Energy Staff Recommendations.
+4
+
+components and, critically, lacks a dynamic distribution component. It is clear, however, that the
+overarching public policies involved dictate a pressing need for a more complete dynamic export
+compensation rate that is integrated with the many forward-looking elements of California’s
+energy policy. In VGIC’s view, the Commission should therefore order SDG&E to implement a
+modified export compensation pilot as detailed below in our responses to the questions circulated
+in Procedural email with instructions for opening briefs, issued April 6, 2023, by ALJ Wang
+(“April 6, 2023 Procedural Email”). The framework developed in the Demand Flex Whitepaper,
+together with the record in this proceeding, supports an export compensation pilot that incorporates
+not only marginal energy credits and marginal generation capacity credits but also a dynamic
+distribution component to credit customers for exports that avoid distribution capacity costs.
+The proposed export compensation rate must be evaluated in the context of California’s
+urgent need for distributed energy storage resources, of which V2X and storage-backed EV
+charging resources are strategically vital components.3 Moreover, it is not a sound public policy
+for the Commission to repeatedly urge SDG&E to offer innovative dynamic rate designs, as it has
+done in the EV-HP Decision (“D.”) 20-12-023,4 June 15, 2022, Energy Division
+Recommendations, and Demand Flex Whitepaper, only to allow SDG&E to defer implementation
+of these solutions continually. Allowing SDG&E to defer implementation of dynamic rate designs,
+including compelling export rate offerings, downplays the value of dynamic rate design
+implementation, including its efficiency, reliability, peak load reduction, and renewable energy
+integration benefits. The continued delay also undercuts broader effort to promote customer
+solutions that can maximize load reduction and export, including V2X and storage-backed
+3 Senate Bill 676. Bradford, 2019. Section 1.
+4 D.20-12-023, Decision Authorizing San Diego Gas & Electric Company Rate for Electric Vehicle High Power
+Charging, issued December 21, 2020, Ordering Paragraph 9, p. 38.
+5
+
+charging. As more fully discussed in this opening brief, the Commission cannot afford to miss the
+one-time opportunity presented by this proceeding – at this time – to move SDG&E in the right
+direction regarding dynamic rate design and, in particular, export compensation for non-NEM
+customers.
+California’s policy regarding export compensation for non-NEM resources has changed
+dramatically since SDG&E filed its original export compensation Application on December 17,
+2021. Most prominently, the Commission opened R.22-07-005 (“Demand Flexibility OIR”) in
+July 2022 in recognition of the following factors facing the state: severe weather events,
+affordability, the environmental and social justice action plan, SB 100 goals for renewable
+generation, SB 350 greenhouse gas reduction goals as they relate to transportation electrification,
+SB 1477 and AB 3232 building decarbonization goals, the increased penetration of DERs, outdated
+rate design principles, and the California Energy Commission’s (“CEC”) proposal to establish load
+management standards.5 In the face of these various constraints and mandates, Vehicle-Grid
+Integration (“VGI”) solutions, including V2X and storage-backed charging offerings, represent a
+critical set of tools in the toolkit to implement the vision detailed in the Demand Flex Whitepaper
+and subsequently discussed in the Demand Flex OIR. While export compensation will remain
+important in that proceeding as it unfolds over the next few years, there is an immediate
+opportunity within the scope of this Application as it relates to SDG&E’s proposed export
+compensation rate pilot that, if appropriately modified and implemented, would make significant
+advances in support of the long-term vision detailed in the Demand Flexibility OIR.
+5 R.22-07-005. Order Instituting Rulemaking to Advance Demand Flexibility Through Electric Rates, issued July 22,
+2022, pg. 2-5.
+6
+
+II. SDG&E’S PROPOSED EXPORT RATE PILOT WILL NOT YIELD
+ADEQUATE CUSTOMER PARTICIPATION WITHOUT EXPORT RATE
+DESIGN THAT INCLUDES A DYNAMIC DISTRIBUTION COMPONENT.
+A. The proposed export rate design offers limited energy arbitrage and critical peak
+pricing (“CPP”) revenue opportunity relative to customer participation costs.
+To attract customers, the export rate design must offer a level of financial opportunity that
+makes participation a worthwhile endeavor for customers. EV High Power (“EV-HP”) customers
+using V2X charging equipment or storage-backed EV supply equipment (“EVSE”) that participate
+in the export compensation rate pilot will incur upfront costs associated with installing export-
+capable equipment,6 monthly EV-HP subscription costs for demand, and time-of-use (“TOU”)
+charging costs (presumably, mostly off-peak).7 Meanwhile, the potential revenues of participating
+in the export rate pilot, as proposed by SDG&E, are based on two components: a marginal energy
+component based on CAISO Day-Ahead Market (“DAM”) prices and a marginal generation
+capacity component (“MGCC” – also referred to in this proceeding as a Peak Energy Payment
+[“PEP”] or Critical Peak Pricing [“CPP”] credit).8
+VGIC believes effective export compensation mechanisms, meaning those that enable
+participating customers to capture benefits while also supporting the grid, include energy arbitrage
+opportunities.9 In the case of SDG&E’s proposed export compensation pilot, EV-HP summer off-
+peak charging costs are a static $0.08/kWh, regardless of system conditions, while CAISO Day-
+6 VGIC-01. Opening Testimony of Ed Burgess on Behalf of the Vehicle-Grid Integration Council, served December
+30, 2022, pg. 24.
+7 VGIC-02. Rebuttal Testimony of Ed Burgess on Behalf of the Vehicle-Grid Integration Council, served January 30,
+2023, pg. 4.
+8 Ibid.
+9 As opposed rate arbitrage between different rate schedules, which is inappropriate, as highlighted by Cal
+Advocates in Cal Advocates-01, Prepared Testimony of Thomas Brawley (Chapter 2), served December 30, 2022,
+pg. 2-5 and discussed further by VGIC in VGIC-02, Rebuttal Testimony of Ed Burgess on Behalf of the Vehicle-Grid
+Integration Council, served January 30, 2023, pg. 3.
+7
+
+Ahead Market (“DAM”) prices in summer range from $0.04 to $0.12/kWh.10 With these energy
+values, there may be some hours that the CAISO DAM prices are higher than charging costs,
+although it is likely infrequent. As a result, the energy arbitrage opportunity is significantly limited.
+As for the MGCC/CPP export credit, SDG&E supports a proposal from Cal Advocates to
+ensure the CPP component is based on the recovery of only marginal generation capacity costs,
+which results in a $0.98163/kWh CPP for Medium / Large Commercial customers as detailed in
+SDG&E rebuttal testimony.11 SDG&E also proposes to apply this CPP component during a
+maximum of 18 hours per year,12 while Cal Advocates proposes to modify SDG&E’s CPP by
+creating an event threshold based on an average of 150 CPP hours called per year using CAISO
+net load.13 VGIC believes that both of Cal Advocates’ proposals (i.e., recovering only marginal
+generation capacity costs and spreading these costs over an average 150 hours per year rather than
+a maximum of 18 hours per year) are reasonable, as detailed below in Section III. However, if both
+of Cal Advocates’ proposals are adopted, the non-energy-arbitrage revenue opportunity (i.e., the
+MGCC/CPP credit revenue opportunity) available to participating exporting customers will be
+significantly limited.
+Taken together, these limitations on energy arbitrage opportunity and CPP export revenue
+indicate there will be very few days where participation in the export compensation pilot is
+economically viable for customers. Considering also the significant upfront equipment and
+installation investments required to enable these use cases and the non-volumetric bill charges
+10 VGIC-02, Rebuttal Testimony of Ed Burgess on Behalf of the Vehicle-Grid Integration Council, served January
+30, 2023, pg. 5.
+11 SDGE-10, Prepared Rebuttal Testimony of William G. Saxe (Chapter 3) on Behalf of San Diego Gas & Electric
+Company, served January 30, 2023, Attachment A.
+12 SDGE-03, Prepared Supplemental Testimony of William G. Saxe (Chapter 3) on Behalf of San Diego Gas &
+Electric Company, served August 15, 2022, WS-5.
+13 Cal Advocates-01, Prepared Testimony of Vanessa Martinez (Chapter 1), served December 30, 2022, pg. 1-5.
+8
+
+associated with EV charging (i.e., EV-HP subscription charges), the underlying economics of the
+proposed rate makes participation entirely unattractive to eligible customers. VGIC believes that
+SDG&E’s proposed export rate design – modified with Cal Advocate’s reasonable CPP
+methodology revisions – is insufficient to yield customer participation in the pilot.
+B. The record supports adding a dynamic distribution component to the export pilot and
+offers several pathways to do so.
+Despite the challenging economics of the proposed rate, V2X and storage-backed charging
+export remain compelling value propositions for customers and solution providers if exports are
+compensated commensurate with the value they provide to the grid. To that end, several parties
+align on the need for a dynamic distribution component related to distribution capacity costs.14
+Notably, this is a critical component of the broader Demand Flex Whitepaper and OIR, and, if
+designed and implemented properly, can overcome the fundamental shortcoming of the proposed
+export pilot rate noted above. In response to party alignment on the need for a dynamic distribution
+component, SDG&E proposes in rebuttal testimony to “consider a distribution RTP rate
+component for its Stage 2 RTP pilot” and “hold at least one workshop prior to the Stage 2 RTP
+Piot being filed to discuss Stage 2 rate design, including the inclusion of a distribution RTP rate
+component.”15 Deferring a dynamic distribution component to a later date, rather than
+implementing it through the proposed export rate pilot, would represent a significant missed
+opportunity to support participating customers, non-participating ratepayers, and yield lessons
+learned for broader Demand Flex Whitepaper and OIR framework goals. Moreover, as noted above
+14 Cal Advocates Prepared Testimony of Vanessa Martinez (Chapter 1) at 1-24; VGIC Opening Testimony of Ed
+Burgess at 28; EDF Opening Testimony of Steven Moss at 8-10.
+15 SDGE-10, Prepared Rebuttal Testimony of William G. Saxe (Chapter 3) on Behalf of San Diego Gas & Electric
+Company, served January 30, 2023, pg. WGS-12.
+9
+
+in Section I, further delaying dynamic rate components would send a mixed signal to SDG&E and
+all stakeholders over California’s commitment to its dynamic rate design vision.
+Several reasonable pathways toward implementing a dynamic distribution component in
+the export rate pilot have been raised in the record of this proceeding, including the following:
+• Leveraging SDG&E’s existing Schedule VGI D-CPP component of $0.79594/kWh. In
+Schedule VGI, the D-CPP adder reflects the cost of additional EV load on specific
+distribution circuits during 200 peak hours. Conversely, this cost would be avoided if
+EV customers exported to those circuits during D-CPP event hours.16
+• Leveraging the approach first used by Pacific Gas and Electric Company (“PG&E”) in
+the Dynamic Rate Pilot for Agricultural Pumping authorized in D.21-12-015 and
+developed further for PG&E’s VGI Pilot Rate Design, as directed by Resolution E-
+5192 and proposed in PG&E Advice Letter (“AL”) 6694-E. This methodology clusters
+groups of circuits based on overall load characteristics, such as the timing of peak vs
+off-peak loads and ramp periods. Even where load magnitude or location differs across
+circuits, this methodology enables a drastically reduced load forecasting effort for
+SDG&E, as opposed to modeling every individual circuit that contains a participating
+customer.17
+• Offering customers a straightforward, sector-specific price signal representing “a
+locationally variegated, dynamic generation export rate to encourage carriers/shippers
+to sync charging with time- and location-variant grid conditions and leverage the smart
+charging potential and short-term needs of MHDV fleets,” as proposed by EDF.18
+With this in mind, the ingredients needed to design and implement a dynamic distribution
+component for the proposed export compensation rate pilot are present and need only be unlocked
+through Commission direction to SDG&E. Specifically, merging SDG&E’s $0.79594/kWh D-
+16 VGIC-02, VGIC Data Request #1, SDG&E Real Time Pricing Pilot – A.21-12-006; A.21-12-008, SDG&E
+Response, received March 14, 2023, pg. 3. See also, VGIC-02, Rebuttal Testimony of Ed Burgess on Behalf of the
+Vehicle-Grid Integration Council, served January 30, 2023, pg. 8.
+17 VGIC-01. Opening Testimony of Ed Burgess on Behalf of the Vehicle-Grid Integration Council, served December
+30, 2022, pg. 28.
+18 EDF-02. Opening Testimony of Steven Moss on Behalf of Environmental Defense Fund, submitted on January 30,
+2023, p. 8.
+10
+
+CPP adder from its Schedule VGI rate with PG&E’s circuit clustering methodology results in a
+dynamic distribution export component that is compelling to customers, helps offset distribution
+costs, and is easier to implement for SDG&E than the current circuit-by-circuit modeling
+performed for Schedule VGI.
+III. RESPONSES TO QUESTIONS IN PROCEDURAL EMAIL ISSUED APRIL 6,
+2023 BY ALJ WANG
+A. Should the export rate pilot be conducted as a one-stage pilot instead of as proposed
+(two-stage pilot)? If so:
+• Should pilot eligibility be expanded to all customers or only customers on a
+few import rates commonly used by customers that are more likely to
+participate in the pilot (e.g. EV charging or storage customers)?
+• Should there be a cap on the number of customers that may participate in the
+export rate pilot?
+• Should the pilot duration be modified?
+VGIC does not offer a response to this question at this time but may respond to party comments
+on this topic in its reply brief.
+B. Should the export rate include a capacity price component like a CPP adder? If so,
+how the should the CPP adder be designed? When and how frequently should CPP
+events be called?
+Yes. A capacity price component is a critical element of effective export rate design. As
+detailed above in Section II, SDG&E proposes a CPP export credit of $0.98163/kWh for Medium
+/ Large Commercial customers based on marginal generation capacity costs.19 SDG&E proposes
+to apply this CPP during a maximum of 18 hours per year,20 while Cal Advocates proposes an
+19 SDGE-10, Prepared Rebuttal Testimony of William G. Saxe (Chapter 3) on Behalf of San Diego Gas & Electric
+Company, served January 30, 2023, Attachment A.
+20 SDGE-03, Prepared Supplemental Testimony of William G. Saxe (Chapter 3) on Behalf of San Diego Gas &
+Electric Company, served August 15, 2022, WS-5.
+11
+
+average of 150 CPP hours per year.21 VGIC agrees that this rate component at this time should be
+based only on marginal costs, and believes Cal Advocate’s proposal to offer the CPP credit during
+an average of 150 hours per year is reasonable. This provides a price signal to elicit exports during
+peak hours throughout the year but is not focused narrowly on the most extreme grid reliability
+conditions. In contrast, the Emergency Load Reduction Program (“ELRP”), already provides an
+option for customers who would prefer to export during fewer peak hours (i.e., 30 hours for VGI
+resources).
+By offering an average of 150 hours per year of CPP signals, SDG&E would be working
+toward establishing a “menu” of options for interested customers to choose from. This is
+appropriate given EV charging use cases' incredibly varied and diverse nature, as illustrated by the
+2019-2020 Joint Agency VGI Working Group, which detailed over 300 near-term, high-value use
+cases for vehicle interaction with the electric grid.22 At these relatively early stages in the V2X and
+storage-backed charging markets, maximizing customer choice for engaging in export
+opportunities is critical to early adopter success and, in turn, broader market transition efforts. For
+many customers, year-round export opportunities with 150 CPP hours may make the most sense
+for their vehicle duty cycle. Meanwhile, other customers may only be able to export if the entire
+export signal is condensed into 30 especially high-value hours (i.e., as is the case in ELRP). In
+terms of system efficiency and optimization, VGIC believes that year-round, hourly price or
+control signals for both charging and discharging provide the most opportunity to support both
+customer value and system costs and, therefore, should be the long-term goal and trend of any
+program or policy.
+21 Cal Advocates-01, Prepared Testimony of Vanessa Martinez (Chapter 1), served December 30, 2022, pg. 1-5.
+22 R.18-12-006. E-Mail Ruling Seeking Party Comment on Vehicle-Grid Integration Issues, issued July 20, 2020,
+Attachment A, Final Report of the California Joint Agencies Vehicle-Grid Integration Working Group.
+12
+
+C. Should the export rate pilot include a dynamic distribution component?
+Yes. The export rate pilot should include a dynamic distribution component, as detailed above
+in Section II. VGIC believes it would be a prudent policy decision to allow SDG&E to offer a
+dynamic export rate that incorporates a dynamic distribution component for three reasons: (1) to
+support project economics so that customers enroll in the rate, in turn ensuring pilot costs do not
+unduly burden ratepayers, (2) to yield net ratepayer benefits by reducing local distribution capacity
+needs, and (3) to uncover key lessons learned that will inform California’s dynamic import/export
+rate future.
+1. First, as detailed in Section II above, without a dynamic distribution component, the rate
+will not be compelling enough to attract customer participation. Without this distribution
+component, participants will struggle to recover their charging costs and the upfront costs
+of purchasing, installing, and interconnecting eligible export-capable equipment.23
+Ensuring the pilot administration budget yields ample customer participation (i.e., ensuring
+the pilot includes a dynamic distribution export component) will be critical to protecting
+ratepayers from an undue burden.
+2. Second, the dynamic export compensation component will deliver tangible benefits to the
+grid by reducing local distribution capacity needs in the converse manner that distribution
+adders like SDG&E’s Schedule VGI D-CPP component recover distribution capacity
+costs. Marginal energy export components incentivize exports during times with high
+wholesale market energy prices, and CPP/MGCC credits align exports with times of high
+generation capacity constraints. However, the dynamic distribution component is also
+23 VGIC-01. Opening Testimony of Ed Burgess on Behalf of the Vehicle-Grid Integration Council, served December
+30, 2022, pg. 24.
+13
+
+needed to align exports with periods of constraint on the local distribution system. To the
+extent that SDG&E’s distribution grid is being placed under increasing strain from
+increased building and transportation electrification efforts, a dynamic distribution
+component would provide capacity relief for these stressed locations and, in turn, yield
+benefits for ratepayers in the form of avoided distribution capacity costs.
+3. As detailed in Section I above, the Demand Flex Whitepaper and OIR expressly envision
+a dynamic distribution component, and, as noted in Section II above, ongoing V2X and
+rate design pilots are implementing this in other parts of California. With this innovative
+vision for widespread dynamic import and export rate options for customers set as a desired
+outcome, it’s critical that the Commission ensure SDG&E’s pilot yields lessons learned on
+the implementation of this rate component. These lessons will include technical
+implementation challenges, opportunities for more cost-efficient rate administration,
+customer marketing, education, and outreach best practices, and environmental,
+affordability, and reliability benefits of dynamic rate design.
+D. Should the cost of the export rate be recovered through distribution rate (i.e. from all
+customers, bundled and un-bundled)?
+VGIC does not offer a response to this question at this time but may respond to party comments
+on this topic in its reply brief.
+E. How should the export rate be evaluated? What should be the metrics for pilot
+evaluation? Should the Commission require an analysis of whether the export rate
+shifts costs to non-participants?
+At a minimum, as proposed by EDF, SDG&E’s evaluation should be included in the annual
+reporting requirements imposed by D.20-12-029 (“VGI Strategies and SB 676 Implementation
+14
+
+Decision”).24 As SDG&E’s proposed measurement and evaluation (“M&E”) plan focuses largely
+on the originally-proposed import rate design submitted in A.21-12-006, there is a limited record
+regarding M&E for the export pilot in isolation. However, as a general best practice, VGIC
+recommends that M&E for the export rate assess quantifiable and verifiable metrics that aim to
+achieve the export pilot's overarching outcome(s). The outcome(s) should be purposefully set to
+support the broader policy goal(s) of achieving affordable, clean, and reliable electricity and
+transportation. While the overarching outcome of the export pilot is not well defined in the record
+of this proceeding, VGIC believes that “Decrease Carbon Intensity” and “Improve Affordability,”
+as detailed in the Guidehouse study attached to SDG&E’s opening testimony, offer reasonable
+outcomes to prioritize.25 With this in mind, and to the extent the necessary data is reasonably
+available, the metrics for this pilot should include, at a minimum:
+• number of customers enrolled,
+• number of participating customers utilizing the recently adopted Plug-in EV Submetering
+Protocol, and number of participating customers utilizing a separate utility meter,
+• date and duration of customer participation,
+• number of customers participating within AB 841 disadvantaged communities and number
+of customers participating outside of AB 841 disadvantaged communities,
+• tons of CO avoided through reduced marginal energy consumption,
+2
+• kWh exported during daily, monthly, and annual system peaks,
+• avoided costs of marginal energy (i.e., total marginal energy component paid to
+participants),
+• avoided costs of marginal generation capacity (i.e., total CPP credit paid to customers), and
+• avoided costs of distribution capacity (i.e., total distribution component paid to customers).
+F. Is SDG&E's marketing, education, and outreach proposal sufficient? How should it
+be modified if we adopt a one-stage pilot?
+Establishing an export rate pilot in SDG&E service territory will result in two different but
+valuable export compensation options for EV charging customers: the export rate pilot and the
+24 EDF-02. Opening Testimony of Steven Moss on Behalf of Environmental Defense Fund, submitted on January 30,
+2023, p. 10.
+25 SDGE-01, Prepared Supplemental Testimony of Jeff DeTuri (Chapter 1) on Behalf of San Diego Gas & Electric
+Company, served August 15, 2022, Attachment A, pg. 24.
+15
+
+ongoing ELRP EV/VGI Aggregation Pilot. While SDG&E has a certain amount of discretion over
+how it administers both offerings, including marketing, education, and outreach (“ME&O”), VGIC
+is concerned that SDG&E may inadvertently steer customers toward one program or the other.
+This “nudge” toward one offering or another may not necessarily be based on what is in the best
+interest of that customer but may be a result of other factors and are not likely to be a result of any
+malintent in the part of SDG&E or other stakeholders. However, VGIC strongly believes that the
+implementation of the export rate pilot should not come at the expense of the ELRP and,
+specifically, recommends that ME&O efforts for the export rate pilot should be well-balanced with
+efforts to enroll customers in ELRP.
+IV. IF SDG&E IS DIRECTED TO RESUBMIT A DYNAMIC IMPORT RATE
+APPLICATION IN 2024, IT SHOULD FOLLOW BEST PRACTICES FOR
+REAL-TIME PRICING RATE DESIGN.
+A. The import rate should enable participation in the export rate, such that customers
+can benefit from both EV charging optimization and V2X or storage-backed charging
+export opportunities.
+As detailed in Section I above, SDG&E’s efforts to advance dynamic rate design must
+work toward California’s overarching vision for dynamic rates. VGIC believes dynamic rate
+offerings can promote EV charging optimization, not just V2X and storage-backed charging
+exports, which could unlock significant savings for a greater number of EV customers. While the
+number of V2X-capable products and services is growing, customer adoption is nascent relative
+to unidirectional charging products and services capable of managing EV charging load. It is
+unlikely that a robust market for “export only” V2X and storage-backed charging capabilities will
+emerge in isolation from the broader VGI marketplace. Instead, exports should be considered an
+extension of the benefits that smart, unidirectional charging can provide.
+16
+
+Moreover, VGIC believes the intent behind D.20-12-023, which originally catalyzed
+SDG&E’s proposal for an EV-specific export rate, was to promote VGI broadly, not just V2X and
+exports. OP 9 of D.20-12-023 orders SDG&E to “file an optional dynamic rate application within
+12 months of this decision.”26 With this in mind, VGIC recommends that any future EV-specific
+or general dynamic import rate be stackable with the export rate that may be approved and
+implemented before the dynamic import rate offering.
+B. Customer eligibility should be broad to maximize the intended pilot outcomes.
+VGIC believes eligibility for the import rate should include both commercial and
+residential EV charging customers, including those on separately metered EV charging rates and
+customers on whole-premise TOU rates that utilize the PEV Submetering Protocol to participate
+in EV-specific rates or other dynamic rates.
+C. Dual Participation in other demand flexibility offerings, including ELRP, the CEC’s
+Demand Side Grid Support, and telematics-based programs like SDG&E’s proposed
+EV DR Pilot, should be promoted to maximize grid support opportunities for EVs.
+In prepared supplemental testimony, SDG&E addresses dual participation as follows:
+“Dual participation in a demand response program, such as CPP or ELRP, while on the
+RTP Pilot could also result in over-compensation to a customer since the customer could
+receive savings twice for the same load response (aka “double counting”). This over-
+compensation would be subsidized by other ratepayers.”27
+VGIC agrees that resources should not be “double counted” or receive double compensation for
+the same load reduction or export. However, the use case and grid value from year-round
+EV charging optimization differ from emergency, incremental demand response participation in
+26 D.20-12-023, Decision Authorizing San Diego Gas & Electric Company Rate for Electric Vehicle High Power
+Charging, issued December 21, 2020, Ordering Paragraph 9, p. 38.
+27 SDGE-04, Prepared Supplemental Testimony of Ray Utama (Chapter 4) on Behalf of San Diego Gas & Electric
+Company, served August 15, 2022, pg. RU-6.
+17
+
+programs like ELRP and DSGS. As such, VGIC recommends that the Commission direct
+stakeholders work in the appropriate proceeding, for example, R.22-07-005 or A.22-05-002, to
+revisit dual participation rules.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit this opening brief to SDG&E’s proposed
+import and export rate application. We look forward to further collaboration with the Commission
+and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: June 9, 2023
+18

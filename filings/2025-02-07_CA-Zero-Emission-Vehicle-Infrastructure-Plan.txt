@@ -1,0 +1,261 @@
+DOCKETED
+Docket Number: 24-TRAN-03
+Project Title: 2024 Zero-Emission Vehicle Infrastructure Plan
+TN #: 261642
+Vehicle-Grid Integration Council (VGIC) Comments - VGIC
+Document Title: Comments on 2024 Draft Zero-Emission Vehicle Infrastructure
+Plan
+Description: N/A
+Filer: System
+Organization: Vehicle-Grid Integration Council (VGIC)
+Submitter Role: Public
+Submission Date: 2/7/2025 4:23:46 PM
+Docketed Date: 2/7/2025
+
+Comment Received From: Vehicle-Grid Integration Council (VGIC)
+Submitted On: 2/7/2025
+Docket Number: 24-TRAN-03
+VGIC Comments on 2024 Draft Zero-Emission Vehicle
+Infrastructure Plan
+Additional submitted attachment is included below.
+
+February 7, 2025
+Email to: docket@energy.ca.gov
+Docket Number: 24-TRAN-03
+Subject: 2024 Draft Zero-Emission Vehicle Infrastructure Plan
+RE: Comments of the Vehicle Grid Integration Council on the 2024 Draft Zero-Emission
+Vehicle Infrastructure Plan
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide comments
+on the 2024 Draft Zero-Emission Vehicle Infrastructure Plan (ZIP) published by the California
+Energy Commission (CEC) on January 15, 2025.
+VGIC submits the following comments:
+● Clean Transportation funding plans should target incentives for charging site developments
+that utilize VGI solutions.
+● Level 2 and DC Fast Charging (DCFC) will both be needed to ensure optimal customer
+experience and costs.
+● Modifications should be made to some assumptions in the CEC’s Business Case for Light-
+Duty EV Charging.
+CLEAN TRANSPORTATION FUNDING PLANS SHOULD TARGET INCENTIVES FOR
+CHARGING SITE DEVELOPMENTS THAT UTILIZE VGI SOLUTIONS.
+As California electrifies its transportation sector, significant new electrical load will be added to
+California’s grid, creating opportunities to leverage EVs to not only decarbonize transportation,
+but also support the evolving electric power sector, apply downward pressure on electric utility
+rates through reduced infrastructure costs, ensure community resilience, and foster economic
+activity. However, without an intentional focus on unlocking these benefits, the EV transition may
+only serve to increase the net peak load on the grid as a whole and, notably, trigger significant
+distribution infrastructure upgrades in locally constrained areas of the grid.
+To mitigate these challenges, it is critical that California leverage vehicle-grid integration (VGI)
+strategies, which the CEC defines as “technologies and strategies that alter the time, charging level,
+or location of charging in a manner that benefits the grid while ensuring driver needs are met.”1
+1 CEC, Assembly Bill 2127 Second Electric Vehicle Charging Infrastructure Assessment: Assessing Charging Needs
+to Support Zero-Emission Vehicles in 2030 and 2035 (Second AB 2127 Report) at p.88.
+1
+
+The formal California VGI definition, as adopted by the California Public Utilities Commission in
+Decision 20-12-029 pursuant to Senate Bill 676, includes discharging:
+“Electric vehicle grid integration” means any method of altering the time, charging level,
+or location at which grid-connected light-duty electric vehicles, medium-duty electric
+vehicles, heavy-duty electric vehicles, off-road electric vehicles, or off-road electric
+equipment charge or discharge, in a manner that optimizes plug-in electric vehicle or
+equipment interaction with the electrical grid and provides net benefits to ratepayers by
+doing any of the following:
+(A) Increasing electrical grid asset utilization and operational flexibility.
+(B) Avoiding otherwise necessary distribution infrastructure upgrades and
+supporting resiliency.
+(C) Integrating renewable energy resources.
+(D) Reducing the cost of electricity supply.
+(E) Offering reliability services consistent with the resource adequacy requirements
+established by Section 380 or the Independent System Operator tariff.
+To further simplify references to VGI solutions throughout these comments, we offer the following
+graphic:
+As has already been detailed by the CEC, “VGI could provide significant benefits to the electrical
+grid and customers,”2 and “[w]idespread VGI (and load flexibility generally) will help achieve
+2 Ibid at p.89.
+2
+
+California’s climate and decarbonization goals.”3 In addition to minimizing long-term distribution
+upgrade costs, VGI can help accelerate charger deployment in the near term, allowing the state to
+meet its climate and air quality mandates more quickly.
+Despite the importance of VGI strategies in reaching California’s charging infrastructure
+deployment goals, the ZIP offers little discussion of the topic beyond a high-level acknowledgment
+that it could make charging more profitable and benefit both customers and the grid. The final ZIP
+should address this gap by outlining specific opportunities to target Clean Transportation Program
+funding to accelerate VGI solution deployment. Incremental funding for VGI solutions would also
+help offset the high $800 interconnection fee required for bidirectional charging projects in
+investor-owned utility territories, which is further discussed below.
+One key area of opportunity to support VGI solutions in the ZIP is providing incremental funding
+for managed charging and bidirectional charging systems, which individually require additional
+software and hardware investments upfront but can significantly reduce the overall costs of
+integrating EVs into California’s electric grid in the long-term.
+Regarding flexible service connection and DER-paired charging, the CEC has offered support to
+some extent, but it has been inconsistent, which creates uncertainty and mixed regulatory signals
+for solution providers. For example, demand management software is an eligible cost in
+Communities in Charge, but costs for co-located energy generation, such as battery energy storage
+or solar are explicitly ineligible.4 EnergIIZE for medium and heavy-duty vehicles has a similar
+treatment of including “charge management software” as an eligible cost but not physical DERs.5
+On the other hand, CALeVIP’s Golden State Priority Project did allow solar and storage systems
+to be included as eligible project costs, although these projects were still subject to the same per
+port incentive cap as projects that did not leverage DERs.6 To maximize the benefits of VGI, the
+CEC should ensure that flexible service connection technologies, including charge management
+systems and/or paired DERs are eligible for funding across all Clean Transportation Program
+initiatives and consider providing incremental incentives for projects that integrate grid-supportive
+VGI solutions.
+Bidirectional charging systems remain in the early stages of deployment and face relatively high
+installation costs, including more expensive hardware and the highest DER interconnection fees
+3 Ibid.
+4 Communities in Charge Project Implementation Manual Funding Wave 3 at p.23. Available at:
+https://thecommunitiesincharge.org/wp-content/uploads/2024/11/Communities-in-Charge-Implementation-Manual-
+Funding-Wave-3-ADA.pdf
+5 See the EnerGIIZE eligible equipment here: https://www.energiize.org/infrastructure
+6 Center for Sustainable Energy, Implementation Manual for Golden State Priority Project at p.10. Available at:
+https://calevip.org/sites/default/files/docs/golden-state-priority-project-north-south/gspp2-implementation-
+manual.pdf
+3
+
+in the nation, $800 per interconnection application for California’s investor-owned utilities. This
+fee is roughly ten times the national average. While the CEC has made progress in supporting
+bidirectional charging through the Demand Side Grid Support (DSGS) program, these programs
+alone are insufficient to cover the high upfront costs of bidirectional charging equipment. To
+accelerate adoption, VGIC recommends that additional incentives be provided to offset the higher
+upfront costs of bidirectional charging systems. Increased funding will be crucial in unlocking the
+full potential of bidirectional EV resources, including the opportunity to reduce ratepayer costs
+through deferring and avoiding generation and distribution capacity upgrades, integrate renewable
+energy, and reduce the total cost of EV ownership for customers. These incremental incentives are
+especially critical in these early years of market development.
+Specifically, the CEC can encourage customer adoption of these solutions by supporting
+incremental incentives for bidirectional charging systems through Clean Transportation Program
+block grants and scalable rebate application programs. While the Zero-Emission School Bus and
+Infrastructure Program (ZESBI) currently offers incrementally higher incentives for bidirectional
+DCFC equipment, several key funding gaps remain. First, ZESBI does not offer incremental
+incentives for non-DCFC bidirectional charging equipment. Several existing, UL-certified
+bidirectional DC chargers operate at lower power levels (i.e., non-DCFC) and can meet the needs
+of certain school bus fleets. Second, no other CEC funding program offers incremental incentives
+for bidirectional charging systems. In fact, VGIC is only aware of one other opportunity in
+California for bidirectional chargers to receive an incremental incentive for the bidirectional
+capability.7 Incentivizing the deployment of this equipment through block grants and scalable
+rebate application programs is preferred to ad hoc funding opportunities, which the CEC has
+primarily used to support VGI solutions in the past. These funding opportunities are
+administratively burdensome for solution providers, many of which are small companies and
+startups that have limited resources but earnestly desire to support California’s grid through
+bidirectional charging technologies.
+LEVEL 2 AND DCFC WILL BOTH BE NEEDED FOR OPTIMAL CUSTOMER
+EXPERIENCE AND COSTS.
+In the Draft ZIP, the CEC asks for stakeholder feedback on whether to use a charger deployment
+scenario that includes funding for both Level 2 and DCFC or a scenario that is DCFC-focused.
+VGIC sees a need to support both Level 2 and DCFC charger deployment at this time, as both
+charging types serve distinct needs and face unique deployment challenges.
+7 PG&E’s V2X Pilots include an upfront incentive to achieve several goals, including helping offset the incremental
+bidirectional charging equipment costs, partially mitigating the $800 interconnection application fees, and incenting
+initial customer enrollment.
+4
+
+There is an important role for the “gas station model,” wherein infrastructure deployment centers
+on EV drivers requiring faster charging speeds at public locations to meet mobility needs.
+However, one of the largest benefits of deploying more DCFC is improving customer sentiment
+about EVs generally and increasing the likelihood of consumers adopting EVs. Many drivers are
+concerned about EV charging speeds and want to be able to fully charge their vehicle in 30 minutes
+or less when needed.8 Adding additional DCFC throughout California with high charging speeds
+will allow consumers to meet these charging needs during public outings or other scenarios such
+as road trips. Widely available fast charging can also alleviate concerns around EV range, which
+consumers have consistently raised.9 The CEC should consider the qualitative benefits of
+deploying additional DCFC to improve the customer experience of EV ownership and address
+concerns from customers who would switch to an EV if charging was more convenient.
+Without broad customer acceptance of EVs, California will face difficulties meeting its EV
+adoption goals. The CEC is currently planning for 7.1 million passenger EVs in 2030 and 15.2
+million passenger EVs in 2035, greatly expanding charging demand.10 Meeting EV adoption
+targets is critical to meeting California’s air quality and climate goals, including the mandate from
+AB 32 that California be carbon neutral by 2045.
+Additionally, significant amounts of federal funding have been allocated to deploy DCFC in
+California through the National Electric Vehicle Infrastructure (NEVI) Formula Program and
+Charging and Fueling Infrastructure (CFI) Grant Program. It is currently unclear whether all the
+expected federal funding will be distributed to states and charging projects. If federal funding is
+not available for DCFC as expected, the CEC should evaluate whether additional state funding for
+DCFC is appropriate to fill this gap.
+Level 2 charger deployment also remains critical in the next phase of EV adoption, as Level 2
+charging continues to be less expensive to deploy than DCFC but provides significantly faster
+charging than Level 1 outlets. The infrastructure required for Level 2 chargers often avoids
+extensive distribution grid upgrades and associated costs that would be triggered by DCFC
+deployment. This allows Level 2 charger deployment to be both less expensive and quicker to
+install than DCFC.
+Moreover, Level 2 chargers allow for the expansion of the “charge where you are model.”
+Implementing Level 2 chargers in multifamily housing and workplaces addresses critical charging
+needs, making EV ownership more practical and appealing for a broader range of individuals. The
+8 See e.g., McKinsey, “Exploring consumer sentiment on electric-vehicle charging”, January 9, 2024. Available at:
+https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/exploring-consumer-
+sentiment-on-electric-vehicle-charging
+9 Ibid.
+10 Second AB 2127 Report at ii.
+5
+
+CEC has acknowledged this in the ZIP11 and VGIC supports utilizing funding to support
+deployment of EV chargers at these sites. Critically, in these two charging locations, EVs are likely
+to remain parked and plugged in for extended periods of time. This setup facilitates effective EV
+load management and allows for the deployment of VGI technologies and more widespread
+participation in VGI offerings (i.e., utility dynamic rates and programs like DSGS). Managed
+charging programs can optimize EV charging to periods of low energy demand, high renewable
+energy production, or other selected policy goals, in turn enhancing grid affordability, stability,
+and efficiency while ensuring customer charging needs are met by the end of their time plugged
+in. Furthermore, there is growing recognition of the importance of workplace charging to allow
+EVs to capture excess solar generation during the daytime and shift that power to the early evening
+when it can be injected back to the grid to reduce the net peak load.12
+MODIFICATIONS SHOULD BE MADE TO SOME ASSUMPTIONS IN THE CEC’S
+BUSINESS CASE FOR LIGHT-DUTY EV CHARGING.
+In the Draft ZIP, the CEC provides an overview of the “Business Case for Light-Duty Charging,”
+which includes modeled installation costs and the cost of service for public light-duty charging.
+The report presents cost estimates for both Level 2 and DC fast chargers (DCFC).
+Overall, VGIC finds that many of the CEC’s cost estimates are reasonable for planning purposes.
+However, we offer the following high-level considerations regarding the Draft ZIP key
+assumptions:
+● Extending DCFC lifetimes: The Draft ZIP assumes a 10-year lifespan for Level 2
+chargers but only a 7-year lifespan for DCFC. Based on discussions with VGIC members
+regarding available warranties and EVSE specifications, VGIC anticipates that DCFC
+equipment lifetimes will be greater than 7 years. In general, EVSE equipment lifespans
+are increasing, and as the industry matures, longevity is expected to improve further. We
+recommend that the CEC consider extending the assumed useful life of DCFC equipment
+in its analysis.
+● Increasing energy costs: VGIC urges the CEC to reevaluate its energy cost estimates,
+particularly in light of rate variability and anticipated increases in electricity prices. The
+Draft ZIP categorizes energy costs into fixed costs, demand charges, and volumetric
+energy charges, but it is unclear how the CEC derived the specific figures used in the
+11 Draft ZIP at p.36.
+12 Aligning electric vehicle charging with the sun: An opportunity for daytime charging?, The Electricity Journal,
+February 2025 at:
+https://www.sciencedirect.com/science/article/pii/S1040619025000028/pdfft?md5=188b066bae60f1e557ef1f92c04f
+d4be&pid=1-s2.0-S1040619025000028-main.pdf
+6
+
+report. VGIC believes that these estimates may underestimate the actual energy costs that
+many customers face and do not fully account for projected rate increases. For example,
+PG&E’s Business EV High Use Rate (BEV-2) has a fixed monthly fee of $286.68 for just
+150 kW of service—equivalent to only one port in the CEC’s primary inputs table.13 At a
+larger site, such as a 12-port DCFC installation, peak demand charges would significantly
+increase this fixed fee. Similarly, SCE customers on the EV rate for demand above 500
+kW (TOU-EV-9) face a fixed monthly fee of $470.69 for 2-50 kV of service.14 While
+PG&E’s BEV-2 rate has an average volumetric charge of $0.24/kWh, more closely
+aligned with the CEC’s estimate, SCE’s TOU-EV-9 has a much higher average rate of
+$0.31/kWh.15 Given these variations, VGIC recommends that the CEC account for
+differences in electricity rates across utilities and incorporate future expected rate
+increases into its cost modeling.
+● Potential to include multiple ports on one power control system: The CEC should
+consider scenarios in which multiple charging ports or plugs are supported by a single
+circuit or power control system. This applies to both Level 2 and DCFC installations.
+Such configurations can help distribute fixed hardware costs across more charging ports,
+improving cost efficiency.
+CONCLUSION.
+VGIC appreciates the opportunity to provide these comments and looks forward to collaborating
+with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+13 See PG&E’s current commercial EV BEV rates here:
+https://view.officeapps.live.com/op/view.aspx?src=https://www.pge.com/assets/rates/tariffs/CommlElecVehicle_Cu
+rrent.xlsx
+14 See SCE’s Rate Schedule TOU-EV-9. Accessible at:
+https://edisonintl.sharepoint.com/:f:/t/Public/TM2/El6HQ0Elcq9Lia7wVwVniMoBlqPZDN0gthTXPa2JS_FxkQ?e=
+52kWEU
+15 Note: Both volumetric rates are bundled delivery and energy costs.
+7

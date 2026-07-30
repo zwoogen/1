@@ -1,0 +1,93 @@
+November 20, 2024
+Andrew S. Johnston
+Executive Secretary
+Maryland Public Service Commission
+William Donald Schaefer Tower
+6 St. Paul Street, 16th Floor
+Baltimore, Maryland 21202
+Re: RM 87 – Comments of Vehicle-Grid Integration Council on Draft Regulations for
+Vehicle-to-Grid (“V2G”)
+Dear Mr. Johnston,
+The Vehicle-Grid Integration Council (“VGIC”)1 respectfully provides its comments in response
+to Vehicle-to-Grid (“V2G”) Regulations Proposal filed on October 30, 2024 by the leader of the
+PC 44 Interconnection Work Group (“Work Group”) to the Maryland Public Service
+Commission (“Commission”) in Administrative Docket RM 87.
+I. Introduction
+VGIC is a 501(c)(6) membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from flexible EV charging and discharging is
+recognized and compensated to achieve a more reliable, affordable, and efficient electric grid.
+II. Comments
+VGIC appreciates the work of the PC 44 Work Group in developing the proposed V2G
+interconnection regulations. As a result of the Distributed Renewable Integration and Vehicle
+Electrification (DRIVE) Act, Maryland is poised to become a leader in making the transition to
+EVs affordable, reliable, and clean while also supporting the evolving electric power sector. The
+draft V2G regulations were developed by PC 44 Work Group contributors, including VGIC,
+based on best practices across the U.S., and will provide clear, consistent pathways to safely and
+reliably interconnect both types of bidirectional charging systems: V2G Direct Current (“V2G
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Fermata Energy,
+Ford Motor Company, General Motors, Nissan Group of North America, Bidirectional Energy, Customized Energy
+Solutions, dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy, Flux, Inc., GridBeyond, GridWiz,
+Hyundai Cradle, Kaluza, Landis + Gyr, Leapfrog Power, Inc., Mercedes-Benz USA, Nuvve Holding Corporation,
+Orange Charger, Peak Power, PowerFlex, Qcells, Stellantis N.V., Sumitomo Electric, Tesla, The Mobility House,
+Toyota Motor North America, Inc., WeaveGrid, Clean Power Alliance, Holy Cross Energy, Hoosier Energy, Los
+Angeles Department of Water & Power, Peninsula Clean Energy, and Sacramento Municipal Utility District. The
+views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all individual
+VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+DC”) and V2G Alternating Current (“V2G AC”). The former is most common today, with
+available products from BorgWarner, Fermata Energy, Ford Motor Company, Nissan Group of
+North America, and more. The latter is less common, but emerging, with available products from
+Tesla and other solution providers.
+In developing the draft V2G regulations, the Work Group addressed several important issues
+related to bidirectional charging systems. First, the draft V2G regulations appropriately define
+V2G systems as “a combination of hardware and software in or around the EVSE and EV for the
+purposes of communication with and programmed flow of energy into and out of the vehicle
+battery in support of electrical loads or systems offboard the EV, including the electric grid.”2
+This definition comprehensively encompasses both V2G DC and V2G AC systems, without
+being overly-prescriptive as to the use case for which these systems will be enabled.
+Second, the draft V2G regulations correctly note that, for the purposes of interconnection, a V2G
+system is an energy storage device.3 This is consistent with best practices that VGIC has
+observed, for example in California, where V2G systems, in the context of interconnection, are a
+type of energy storage system. This avoids the need to entirely “reinvent the wheel” for V2G
+systems and, instead, leverages the years of experience that utilities, installers, and solution
+providers have had working with the same underlying safety and reliability standards for
+inverters (i.e., IEEE 1547-2018 and UL 1741).
+Third, the draft V2G regulations establishes a clear pathway for V2G DC systems. The draft also
+establishes two pathways for V2G AC systems, in recognition that both are capable of ensuring
+safety and reliability but the market has not yet coalesced around a single pathway.4 The Draft
+Regulation also notes that the two options for V2G AC interconnection are suited for different
+use cases. Specifically, Certification pathway 1 can support multiple EVs being used at a
+certified EVSE, whereas Certification pathway 2 can support only a single defined EV used as
+part of a certified AC V2G system, for example, in a single-family home context.
+Fourth, the draft V2G regulations set appropriate requirements for V2G systems that operate as
+V1G Ready EVSE. Specifically, the regulations clarify that V2G Systems operating as V1G
+Ready EVSE shall be accepted by utilities without an interconnection request and that V1G
+Ready EVSE shall not be changed to a V2G Ready EVSE without first receiving a permission to
+operate from the utility. Lastly, clear reporting requirements are set to ensure stakeholders can
+track the development of V2G systems and make informed recommendations in the PC 44 Work
+Group or other venues related to DRIVE Act implementation.
+Based on these inclusions, the draft V2G regulations are directly aligned with the DRIVE Act,
+while also supporting the state’s Advanced Clean Cars II policy and Climate Solutions Now Act
+of 2022. VGIC believes the draft V2G regulations are reasonable and appropriate, and we
+commend the leader and other contributors to the PC 44 Work Group for diligently addressing
+the several technical elements needed to ensure safe and reliable V2G interconnection.
+2 Draft V2G Regulations at 4.
+3 Ibid.
+4 Draft V2G Regulations at 5.
+2
+
+With this in mind, VGIC strongly recommends that the Commission approve the draft V2G
+regulations submitted by the PC 44 Work Group. Establishing these rules is important for
+expanding customer access to an available VGI technology that will lead to significant benefits,
+supporting large scale EV adoption and reducing cost impacts to the grid and ratepayers.
+III. Conclusion
+VGIC appreciates the opportunity to provide comments and looks forward to further
+collaboration with stakeholders on this important initiative.
+Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+3

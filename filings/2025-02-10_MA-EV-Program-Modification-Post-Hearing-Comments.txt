@@ -1,0 +1,128 @@
+D.P.U. 24-196: Comments of the Vehicle-Grid Integration Council (VGIC)
+on February 5, 2025 EV Infrastructure Program Hearing
+I. Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from
+flexible EV charging and discharging is recognized and compensated in support of a more
+reliable, affordable, and efficient electric grid. VGIC appreciates the opportunity to provide
+comments to the Department of Public Utilities (DPU) on the February 5 2025 EV Infrastructure
+Program Hearing.
+II. Vehicle-to-Grid Bidirectional Charging Systems Provide Critical Benefits to
+Massachusetts EDC Ratepayers.
+a. Acceleration of Transportation Electrification
+Vehicle-to-grid (“V2G”) bidirectional charging solutions can significantly
+reduce the total cost of ownership for electric vehicles (EV), including both passenger
+vehicles and EV fleets, by enabling participation in grid services programs. A
+pertinent example is the Connected Solutions program, which offers incentives for
+demand response participation. Such performance-based incentives can be key drivers
+for fleets considering the transition to EVs.
+b. Support for the Evolving Power Sector
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Fermata Energy,
+Ford Motor Company, General Motors, Nissan North America, Bidirectional Energy, dcbel, Eaton, Emporia,
+EnergyHub, ev.energy, Gravity, GridBeyond, GridWiz, Hyundai Cradle, Kaluza, Landis and Gyr, Mercedes-Benz,
+Orange Charger, Peak Power, EDF Powerflex, Stellantis N.V., Sumitomo Electric, Sunrun, Tesla, The Mobility House,
+Toyota Motors North America, WeaveGrid, Clean Power Alliance, Holy Cross Energy, Los Angeles Department of
+Water and Power, and Sacramento Municipal Utility District. The views expressed in these comments are those of
+VGIC, and do not necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/).
+1
+
+V2G facilitates the integration of renewable energy sources by providing
+necessary energy storage and grid services. By enabling bidirectional energy flow at
+the grid edge, V2G can assist in balancing supply and demand, thereby enhancing
+grid stability and accommodating higher penetrations of renewable energy.
+c. Downward Pressure on Electric Utility Rates
+Efficient utilization of existing infrastructure through V2G can alleviate
+distribution congestion and defer the need for costly infrastructure upgrades.
+Implementing V2G as a non-wires alternative (NWA) in areas with distribution
+constraints can lead to more efficient grid operations and exert downward pressure on
+utility rates. V2G resources can also offset the use of costly peaking capacity that
+may otherwise be procured in the ISO-NE market.
+d. Enhancement of Resilience
+V2G technology can provide critical backup power during emergencies. For
+instance, electric fleet vehicles equipped with V2G capabilities can supply electricity
+to evacuation centers or other essential facilities during power outages, thereby
+bolstering community resilience. On the residential side, passenger EVs can provide
+home backup power to customers during planned or unplanned outages.
+e. Fostering Economic Activity
+Many of VGIC’s members and supporters have a presence in Massachusetts,
+including offices, manufacturing facilities, dealerships, and/or technical personnel.
+The advancement of V2G technology is poised to stimulate economic growth within
+the Commonwealth by creating jobs and fostering innovation in both the clean energy
+and transportation sectors.
+III. Barriers to Widespread V2G Implementation Persist Despite Massachusetts’ Recent
+Progress.
+VGIC acknowledges the progress made in Massachusetts toward facilitating widespread
+V2G. Notably, the Connected Solutions program provides performance-based compensation for
+customers utilizing bidirectional charging systems, and interconnection with utility distribution
+grids as a form of energy storage is permitted by EDCs, including an exemption from UL 1741 SB
+for certain bidirectional charging equipment. Additionally, V2G equipment and software are
+currently available from major school bus manufacturers and charging equipment providers,
+2
+
+including Fermata Energy, BorgWarner, The Mobility House, Tellus Power Green, InCharge,
+Heliox, and Synop.
+Despite these advancements, significant barriers persist that impede the widespread
+adoption of V2G technology. Foremost among these is the substantial upfront cost associated with
+deploying V2G bidirectional charging solutions compared to unidirectional charging systems.
+Presently, existing energy storage technology deployment incentives do not recognize
+bidirectional charging systems as eligible, and the current slate of utility EV programs lack
+incremental incentives specific to this technology. This absence of financial support significantly
+hinders market transition toward V2G bidirectional charging solutions, which may need this
+support only while in the relatively early stages of market development.
+To overcome these challenges, VGIC strongly recommends the implementation of targeted
+upfront incentives to offset the initial costs of bidirectional charging infrastructure. Such incentives
+are essential to accelerate market adoption and fully realize the potential benefits of V2G
+technology within Massachusetts. VGIC respectfully urges the DPU to allow these incentives to
+be claimed by projects that may claim other federal or state incentives for this technology, so as to
+not preclude projects from successful implementation or overly restrict access to funding intended
+to support market transition for the relatively nascent V2G space.
+IV. VGIC Supports Eversource’s Proposed Incremental V2G Charger Incentive for
+Electric School Bus Sites and Recommends Additional Actions for the EDCs to
+Support V2G.
+VGIC commends Eversource for its recognition of the value of V2G technology in
+supporting electric school buses and strongly supports this element of its proposal. Establishing
+incremental incentives for V2G bidirectional charging infrastructure at electric school bus
+charging sites aligns with emerging national best practices, as seen in California and under early
+consideration in other states like New York, Maryland, and Illinois.
+To ensure that Massachusetts remains at the forefront of vehicle-grid integration, VGIC
+urges the DPU to direct National Grid and Unitil to follow Eversource’s lead by offering
+incrementally higher incentives for bidirectional charging equipment relative to unidirectional
+charging systems. A consistent and equitable approach across all three investor-owned electric
+distribution companies (EDCs) will be critical in fostering a robust and competitive market for
+V2G solutions.
+Further, while Eversource’s proposal focuses on the electric school bus sector, VGIC
+strongly recommends that all three EDCs develop bidirectional charging incentives beyond this
+3
+
+single use case. Residential managed charging programs and medium- and heavy-duty fleet
+applications other than electric school bus charging also stand to benefit from bidirectional
+capabilities, delivering increased grid benefits, improved reliability, and cost savings for both
+participants and non-participating ratepayers. Expanding the scope of V2G incentives will ensure
+that Massachusetts fully leverages the potential of this technology across a broad set of use cases.
+VGIC also urges the DPU to direct all EDCs to implement additional performance-based
+programs and/or optional export compensation rates that are available to a broader set of
+customers, including residential customers with V2G equipment. While programs such as
+Connected Solutions have provided an important pathway for fleet and commercial V2G
+participation, residential customers remain largely excluded from V2G compensation
+opportunities. Ensuring that households with bidirectional EVs can access fair compensation for
+grid exports will further support market growth and enhance grid flexibility.
+Finally, VGIC reiterates its recommendation that all incremental V2G incentives remain
+eligible to be claimed by sites that may also receive other state or federal-funded incentives.
+Layering incentives will be essential to overcoming the high upfront costs of bidirectional
+charging infrastructure and accelerating adoption, especially as the current V2G market is
+relatively nascent. By adopting these recommendations, the DPU can position Massachusetts as a
+leader in V2G deployment, delivering benefits to ratepayers, advancing grid resilience, and
+supporting the state’s clean energy and transportation electrification goals.
+V. Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with Eversource, National Grid, Unitil, the Department, and other stakeholders to
+ensure the success of Massachusetts’s transportation electrification efforts.
+Respectfully submitted,
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+4

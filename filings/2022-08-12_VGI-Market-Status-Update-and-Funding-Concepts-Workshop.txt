@@ -1,0 +1,347 @@
+Comments of the Vehicle-Grid Integration Council (VGIC) on the California Energy
+Commission (CEC) Vehicle-Grid Integration Market Status and Funding Concepts
+Workshop
+Docket # 19-AB-2127
+Implementation of AB 2127 Electric Vehicle Infrastructure Assessments
+Ed Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Filed: August 12, 2022
+Comments submitted via:
+https://efiling.energy.ca.gov/Ecomment/Ecomment.aspx?docketnumber=19-AB-2127
+
+August 12, 2022
+I. Introduction
+The Vehicle-Grid Integration Council (“VGIC”) 1, a 501(c)6 membership-based advocacy
+group, is pleased to provide comments in response to the California Energy Commission (“CEC”)
+Workshop on Vehicle-Grid Integration Market Status and Funding Concepts hosted on July 28,
+2022.
+VGIC is committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid
+integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring the value
+from EV deployments and flexible EV charging and discharging is recognized and compensated
+to achieve a more reliable, affordable, and efficient electric grid.
+II. The CEC should host annual VGI market status updates.
+During the workshop, CEC staff, California Public Utilities Commission (“CPUC”) Energy
+Division staff, and representatives from industry and utilities identified vital policy and market
+developments for VGI solutions. Notably, the term “VGI” encompasses a wide array of strategies,
+including dynamic rates, direct and indirect managed charging programs, automated load
+management (“ALM”) and EV energy management systems, bidirectional charging
+interconnection, standards, programs, and rate design, and EV supply equipment (“EVSE”)
+integrated with co-located or integrated distributed energy resources (“DERs”). Meanwhile, the
+development of the VGI market to support California’s decarbonization goals hinges on actions
+taken by the CEC, CPUC, California Air Resources Board, California Building Standards
+Commission, investor-owned utilities (“IOU”), publicly-owned utilities, community choice
+aggregators, standards developments organizations, national laboratories and research institutions,
+testing laboratories, private companies, environmental justice groups, community-based
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor Company, FreeWire
+Technologies, Inc., General Motors Company, Kaluza, Nissan Group of North America, Nuvve Holding
+Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd, The Mobility House,
+Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed
+in these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC
+member companies or supporters. (https://www.vgicouncil.org/)
+Vehicle-Grid Integration Council Page 2 of 11
+www.vgicouncil.org
+
+August 12, 2022
+organizations, ratepayer advocates, customer groups, and more. Given the complex landscape of
+issues and relevant parties, VGIC believes the CEC should host an annual VGI market status
+update workshop to provide a “health check-up” on progress toward SB 676, discuss remaining
+roadblocks, and consider strategies to alleviate barriers to market development. VGIC believes
+annual workshops can also support the development of an update to the 2014 VGI Roadmap,
+should the CEC intend to lead or support such an effort in the future.
+Regular VGI market status update workshops should feature stakeholders with differing
+perspectives and highlight funding opportunities, dynamic rate options, and critical challenges and
+opportunities for VGI, just as was done during the July 28th workshop. As noted during the
+workshop, dynamic rates are an effective approach to enable VGI and were adopted in the
+December 2020 VGI Strategies Decision (CPUC D.20-12-029) as a VGI strategy according to SB
+676. However, VGIC recommends future VGI market status updates focus on and direct reference
+programmatic VGI approaches – in addition to rates – that have also demonstrated success for
+customers and market actors over the past few years. For example, Pacific Gas & Electric’s
+(“PG&E”) VGI Pilots, which pilot program design rather than technology, the Emergency Load
+Reduction Program (“ELRP”) EV/VGI Aggregator Pathway, Low Carbon Fuel Standard
+(“LCFS”) holdback-funded Resilient Charging Pilot, and demand response (“DR”) options that
+EVs may qualify for all represent proven or promising programmatic approaches to VGI. VGIC
+believes there is a significant education gap related to DR participation options for EVs, which
+was highlighted during the March 9, 2021 “EVs in DR” workshop and the May 10, 2021 workshop
+report.2
+Additionally, VGIC notes the July 28th workshop did not prominently feature ALM solutions
+and options, which were adopted in the December 2020 VGI Strategies Decision as a near-term
+VGI priority. This is not unique to this workshop, as the requirement that IOUs implement ALM
+in EV programs, rules, and tariffs has been largely ignored (except for PG&E’s proposed EV
+Charge 2 program) to date.3 Yet, ALM can accelerate EVSE deployment, reduce customer and
+2 EVs and DR: VGI-DR Workshop Report. May 10, 2021.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/60a452d8c996a914d3c60f1d/1621381853
+358/VGI+DR+Workshop+Report.pdf
+3 See Comments of VGIC on Revised TEF at pg 10 and Reply Comments of VGIC on Revised TEF at pg 6 and pg 8
+footnote 17 for background on ALM implementation in CA:
+Vehicle-Grid Integration Council Page 3 of 11
+www.vgicouncil.org
+
+August 12, 2022
+system costs, and support other VGI use cases and desired policy objectives like demand
+management and increased EVSE uptime. With this in mind, VGIC urges the CEC to host annual
+market status updates that build on the July 28th workshop by additionally including programmatic
+VGI options and ALM as focus areas.
+III. Recommended enhancements to VGI funding concepts.
+VGIC greatly appreciates the CEC staff’s focus and thoughtful development of VGI funding
+concepts presented during the July 28th workshop. VGIC generally supports the four funding
+concepts but recommends targeted modifications and enhancements to address critical gaps in the
+VGI market, detailed below.
+A. Bidirectional Charger Equipment Rebate and Make-Ready Support
+VGIC supports the CEC staff’s proposed Bidirectional Charger Equipment Rebate funding
+concept. Bidirectional charging equipment unlocks:
+ Customer and community resilience by providing clean, low-cost backup power
+solutions
+ Customer bill management opportunities by discharging from a vehicle to meet site
+load, performing energy arbitrage or demand charge management
+ Revenue generation for customers and support for grid reliability and renewable energy
+integration through vehicle-to-grid (“V2G”) exports. Customers can currently
+participate in the ELRP EV/VGI Aggregation pathway and PG&E’s V2G Pilots.
+Additionally, VGIC is hopeful that PG&E’s pending Day-Ahead Hourly Real Time
+Pricing (“DAHRTP”) V2G export compensation mechanism settlement will be
+approved by the CPUC, which would provide a compelling year-round V2G export
+opportunity for commercial customers as early as October 2023.4 Lastly, SDG&E’s
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M471/K485/471485566.PDF and
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M477/K591/477591920.PDF
+4 Joint Motion of Public Advocates Office, VGIC, Electrify America, and PG&E for Adoption of Joint Settlement
+Agreement in PG&E’s DAHRTP Commercial EV Proceeding on Non-NEM Export Compensation Pilot. June 17, 2022.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M488/K538/488538216.PDF
+Vehicle-Grid Integration Council Page 4 of 11
+www.vgicouncil.org
+
+August 12, 2022
+anticipated Real-Time Pricing Import/Export Rate5 and the CPUC staff’s proposed
+CalFUSE concept6 may provide additional future opportunities for export
+compensation.
+Despite the customer and grid benefits of bidirectional charging, deployment numbers and product
+offerings remain relatively nascent and the incremental costs of installing bidirectional chargers
+instead of unidirectional charging remain high – prohibitive in many cases. The CEC’s proposed
+Bidirectional Charging Equipment Rebate will provide much-needed support to reduce the costs
+of purchasing and installing bidirectional chargers and associated electrical equipment, including
+traditional make-ready infrastructure and automatic transfer switches for backup power use cases.
+Notably, bidirectional charging equipment is not currently given incrementally higher funding
+under CEC rebates or make-ready programs. Although a type of energy storage, bidirectional
+charging equipment is not deemed eligible for California’s Self-Generation Incentive Program.
+There exists an uneven level of access to funding for bidirectional charging equipment compared
+to other charging equipment and other energy storage systems.
+As proposed, the Bidirectional Charger Rebate could be open to recipients of CALeVIP,
+EnergIIZE, and, potentially, utility make-ready programs. VGIC urges the CEC to think
+expansively about and take bold action regarding (1) the level of funding offered and (2) charger
+eligibility for a bidirectional adder under these programs. Today’s commercially available
+bidirectional charger equipment are V2X Direct Current (“DC”) configurations, and many V2X
+DC sites, including school bus V2X sites that provide immense value to the grid and customers,
+need to upgrade to 3-phase, higher voltage DC service. These upgrades result in higher costs than
+what is typically covered by utility make-ready programs, which are intended to support Level 2
+Alternating Current (“AC”) charging. Without sufficient funding support for these projects,
+5 Administrative Law Judge’s Ruling Regarding Staff Recommendations and Workshop and Attachment A: Staff
+Recommendations. June 15, 2022.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M485/K625/485625918.PDF and
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M485/K564/485564404.PDF
+6 Advanced Strategies for Demand Flexibility Management and Customer DER Compensation. June 22, 2022.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-
+response/demand-response-workshops/advanced-der---demand-flexibility-management/ed-white-paper---
+advanced-strategies-for-demand-flexibility-management.pdf
+Vehicle-Grid Integration Council Page 5 of 11
+www.vgicouncil.org
+
+August 12, 2022
+customers will be unable to offset high upfront installation costs and may terminate otherwise
+beneficial projects.
+Additionally, not all available bidirectional chargers – of which there is only a handful on
+the market – currently qualify for CEC rebate and utility make-ready programs. The Nissan LEAF
+is the most common bidirectional charging vehicle, with approximately 25,000 currently on
+California’s roads, and uses the CHAdeMO standard for bidirectional charging.7 Meanwhile,
+CALeVIP,8 EnergIIZE,9 utility make-ready programs,10 and National Electric Vehicle
+Infrastructure (“NEVI”) program administrators have decided to end support for CHAdeMO
+connectors.11 VGIC expects all chargers, including bidirectional chargers, will converge on
+common connector types and communication standards in the long term. However, we believe that
+interim or temporary support for CHAdeMO standards is appropriate in recognition of the ability
+for bidirectional charging to meet the unique reliability challenges California faces over the next
+several years due to potential capacity shortfalls and extreme weather events. VGIC estimates that
+California’s 25,000 Nissan LEAFs equate to 469 MW in total technical potential for incremental
+contributions to net peak load. Not all vehicles will be able to participate at once, however, VGIC
+estimates that a 5% participation rate would equate to approximately a 23 MW of potential net
+peak contribution from today’s Nissan LEAFs.12
+Meanwhile, V2X AC configurations can be piloted in California but do not need to comply
+with certain Rule 21 interconnection requirements for smart inverter standards. Instead, the major
+7 See VGIC’s estimates for bidirectional vehicle deployment in September 1, 2021 Opening Testimony in R.20-11-
+003. Pg 4-10.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/6137a2f643f8bc74a42af9ae/16310361511
+86/2021-09-01+VGIC%27s+Opening+Testimony+on+Phase+2+Emergency+Reliability+Proposals+-+FINAL.pdf
+8 Recommendation for Deployment of ISO 15118-Ready Chargers. California Energy Commission. February 24,2022.
+9 Implementation Manual for Energy Infrastructure Incentives for Zero-Emission Commercial Vehicles Projects
+(EnergIIZE). August 2, 2022. Pg 21.
+https://energiize.org/implementationmanual/EnergIIZE_Implementation+Manual_+Q3+2022+vFinal.pdf
+10 Decision Adopting Plug-In Electric Vehicle Submetering Protocol and Electric Vehicle Supply Equipment
+Communication Protocols. August 4, 2022. Pg 44.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M496/K419/496419890.PDF
+11 Notice of Proposed Rulemaking, National Electric Vehicle Infrastructure Formula Program. Federal Highway
+Administration. Pg 37263. https://www.govinfo.gov/content/pkg/FR-2022-06-22/pdf/2022-12704.pdf
+12 See VGIC’s estimates for bidirectional vehicle capabilities to support peak contributions September 1, 2021
+Opening Testimony in R.20-11-
+003. Pg 6.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/6137a2f643f8bc74a42af9ae/16310361511
+86/2021-09-01+VGIC%27s+Opening+Testimony+on+Phase+2+Emergency+Reliability+Proposals+-+FINAL.pdf
+Vehicle-Grid Integration Council Page 6 of 11
+www.vgicouncil.org
+
+August 12, 2022
+investor-owned utilities have adopted a requirement that costly relay equipment be installed to
+ensure safety and reliability.13 The necessary relay equipment to run a V2X AC pilot is
+prohibitively expensive and not a long-term solution. Standards development work is underway at
+the relevant standards development organization, including UL, and is supported by utilities and
+automotive stakeholders alike. The completion and implementation of these standards will unlock
+lower-cost approaches to V2X AC. However, VGIC recognizes that this standards development
+work is not yet completed and anticipates some delay between the publication of relevant standards
+and final incorporation into Rule 21 processes. With this in mind, VGIC recommends the CEC’s
+proposed bidirectional charging equipment adder be open to V2X AC pilot projects and provide
+sufficient funding levels to offset costs installation costs, including safety relay equipment and trip
+schemes.
+Therefore, the CEC’s proposed bidirectional charger rebate could best support the nascent
+bidirectional charging market by ensuring a sufficiently high level of funding support is offered to
+all bidirectional chargers, regardless of what level of funding, if any, they are eligible to receive
+from CEC rebate and make-ready programs. VGIC offers that the defining eligibility requirement
+for the bidirectional charger rebate could be based on whether a bidirectional EVSE can seek
+interconnection with a utility. In the case of V2X DC sites interconnecting to participate in the
+investor-owned utility’s Emergency Load Reduction Programs, EVSE would need to be certified
+to UL 1741, but not UL 1741 SA, SB, or any updated smart inverter standards established by the
+Smart Inverter Working Group. V2X DC sites interconnecting with investor-owned utilities for
+purposes other than ELRP would need to have EVSE certified to UL 1741 SA, but not SB, due to
+the 5-year grace period extended to V2X DC EVSE to meet applicable standards. Lastly, V2X AC
+sites do not need to meet certain Rule 21 interconnection requirements if seeking interconnection
+as a pilot project, as detailed in CPUC Resolution E-5165. VGIC recommends the CEC revisit
+these eligibility requirements once the V2X market is sufficiently developed and it is appropriate
+to impose similar connector and communication standard requirements to what is required under
+CEC rebate and utility make-ready programs.
+13 Resolution E-5165. Approval, with Modifications, of Vehicle-to-Grid Implementation Plans and Technical
+Requirements in Compliance with Decision 20-09-035.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M420/K860/420860657.PDF
+Vehicle-Grid Integration Council Page 7 of 11
+www.vgicouncil.org
+
+August 12, 2022
+B. Automated Load Management (“ALM”) Incentives
+As noted above in Section II, ALM solutions were deemed a near-term policy action in
+recognition that ALM is an important tool for meeting California’s TE goals. Encouraging
+customers to voluntarily choose ALM solutions can be a powerful tool for both streamlining and
+minimizing the total costs of TE. However, to date, ALM has not been promoted or implemented
+by California’s utilities in their TE programs or any other pathway, apart from PG&E’s EV Charge
+Network and the proposed PG&E EV Charge 2. ALM strategies can reduce energization timelines
+and associated costs by deferring or even completely avoiding the need for certain distribution
+utility infrastructure upgrades and other make-ready work. ALM solutions include:
+ Software-based approaches that share available electrical capacity among EVSE: Sites
+with multiple EVSE and long dwell times, including workplace charging sites and multi-
+unit dwellings, are particularly well suited for software-based ALM. Software-based ALM
+is used to draw less total power than the aggregate nameplate charging rate at a site. For
+example, a site with a combined 76 kW maximum charger demand could use software to
+ensure the actual demand does not exceed 62 kW.
+ Battery-integrated EVSE or co-located energy storage systems sized to avoid or defer the
+need for additional electrical capacity and infrastructure on both the utility and customer
+side of the meter: Sites with short dwell times, including public DCFC stations and certain
+fleet charging depots, are particularly well suited to implement integrated or co-located
+energy storage as an ALM solution. Batteries can be integrated into a charging station or
+external to a charging station but co-located behind the same meter. These batteries charge
+from the grid when EVSE utilization and energy costs are low and discharge to meet EVSE
+load when utilization and energy costs are high. For example, using existing battery-
+integrated EVSE or co-located energy storage technologies, a site with less than 30 kW of
+available power could deliver a 200 kW charge to a single vehicle. Said another way, a site
+with a 200 kW EV charging demand can inherently ensure demand will not exceed 30 kW.
+For some EVSE site hosts, ALM solutions can facilitate the interim use of EVSE at a lower power
+until any needed distribution utility and on-site infrastructure upgrades are completed, at which
+Vehicle-Grid Integration Council Page 8 of 11
+www.vgicouncil.org
+
+August 12, 2022
+point they can operate at full power. For others, ALM solutions can defer or avoid the need for
+distribution utility or on-site infrastructure upgrades altogether. In these cases, site hosts
+experience reduced time to connect/energize their EVSE and contribute to infrastructure cost
+savings which accrue to site hosts, drivers, and utility ratepayers at large. Additionally, ALM
+solutions can support other desirable use cases, including managing charging load during peak
+electricity demand, lowering demand charges for the site host, enabling EV charging when the
+grid goes down, providing backup power to the site host to enhance resilience, or providing power
+to the site and ancillary services to the grid. The set of these co-benefits available to a given site
+will depend on whether software-based ALM or integrated/co-located energy storage – or both –
+strategies are implemented.
+Utility make-ready programs do not send the proper price signals to the market and, to
+VGIC’s knowledge, the CEC-funded rebate programs like CALeVIP and EnergIIZE do not
+actively promote ALM solutions. Collectively, these programs inadvertently undermine any
+justification for customers to elect ALM solutions that right-size infrastructure and accelerate
+deployment. As such, VGIC recommends the CEC consider a funding concept to promote ALM.
+VGIC believes the following design elements are key to successful ALM implementation:
+ Ensuring ALM is an option for customers to choose from and not a requirement.
+ Conducting marketing, education, and outreach to inform utilities and customers of
+available ALM solutions and the benefits associated with each.
+ Offering incentives to site hosts that elect ALM, including:
+1) A $/kW rebate for reducing distribution utility infrastructure upgrades, applied to
+each kW reduced below aggregate nameplate charger capacity at a site. Notably,
+total to-the-meter make-ready cost data for non-TE program installations are
+published in the EV Load Research Report, and total kW deployed in non-TE
+program installations is tracked in the same report.14 This data can be used to find
+the average $/kW value of ALM and, in turn, can provide the basis for a $/kW
+14 Joint IOU Electric Vehicle Load Research and Charging Infrastructure Cost Report: 10th Report Filed on March 21,
+2022. Pg 120, Attachment 1 Table 2; Attachment 2 Table 2; Attachment 3 Table 2.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M464/K783/464783120.PDF
+Vehicle-Grid Integration Council Page 9 of 11
+www.vgicouncil.org
+
+August 12, 2022
+incentive applied to each kW an ALM approach reduces below aggregate
+nameplate capacity at a site.
+2) A fixed incentive for installing EVSE behind existing utility meters. The value of
+this incentive should also be commensurate with the average cost of installing a
+new meter.
+VGIC recognizes that technical standards are being developed that may streamline the deployment
+of ALM software.15 Additionally, VGIC has recommended to the CPUC that the above ALM
+incentive approaches be included in Funding Cycle 1 (2025-2030) of the proposed Statewide
+Behind-the-Meter Rebate Program.16 However, these developments may not be realized for several
+years. In the interim, VGIC recommends the CEC consider a new, separate “ALM Incentives”
+funding concept based on the two types of incentives highlighted above.
+C. Support for Meter Socket Based Solutions and Electrical Isolation Methods
+In January 2021, the CPUC issued a Decision directing utilities to develop pathways to
+evaluate and approve low-cost, reliable electrical isolation methods.17 These isolation methods can
+support vehicle-to-home (“V2H”) and vehicle-to-building (“V2B”) backup power solutions for
+customers where an automatic transfer switch is too costly, not possible given physical constraints,
+or simply not the preferred configuration. Although the CPUC has directed the utilities to develop
+pathways to approve such low-cost isolation methods, solutions that rely on a meter socket form
+factor do not qualify for CEC rebates or utility make-ready programs intended to support EVSE.
+For example, the IslandDER18 and Tesla Backup Switch19 are both low-cost isolation solutions
+15 See, for example, IEEE 2030.13 committee.
+16 See Comments of VGIC on Revised TEF at pg 10 and Reply Comments of VGIC on Revised TEF at pg 6 and pg 8
+footnote 17 for recommendations to implement ALM in CA under the proposed BTM Rebate Program:
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M471/K485/471485566.PDF and
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M477/K591/477591920.PDF
+17 Decision Adopting Rates, Tariffs, and Rules Facilitating the Commercialization of Microgrids Pursuant to Senate
+Bill 1339 and Resiliency Strategies. January 14, 2021. Pg 70.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M361/K442/361442167.PDF
+18 https://connca.com/products/islandder/
+19 https://www.tesla.com/support/energy/powerwall/learn/tesla-backup-switch
+Vehicle-Grid Integration Council Page 10 of 11
+www.vgicouncil.org
+
+August 12, 2022
+that utilize meter socket devices and could enable low-cost V2H and V2B but do not qualify for
+incentives.
+With this in mind, VGIC urges the CEC to ensure meter socket-based solutions are deemed
+eligible in current and planned CEC funding concepts to ensure a level playing field for customers
+to access rebates for these solutions. Notably, Siemens and ConnectDER recently announced a
+meter socket product that could facilitate VGI for customers that do not want to upgrade their
+electrical panel. Including meter socket-based VGI technologies in existing and new rebate
+programs would directly reduce customer costs and increase access to low-cost V2H/V2B backup
+power solutions.
+IV. Conclusion
+VGIC appreciates the leadership of the CEC in hosting the VGI market status update workshop
+and developing VGI funding concepts. We look forward to further collaboration with the CEC and
+other stakeholders on this important initiative.
+Respectfully submitted,
+ED BURGESS
+Vehicle-Grid Integration Council Page 11 of 11
+www.vgicouncil.org

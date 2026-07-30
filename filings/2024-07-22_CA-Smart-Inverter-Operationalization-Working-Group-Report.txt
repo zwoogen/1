@@ -1,0 +1,133 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING PROVIDING TWO WORKING GROUP
+REPORTS AND DIRECTING RESPONSES TO QUESTIONS ON REPORTS
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: July 22, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING PROVIDING TWO WORKING GROUP
+REPORTS AND DIRECTING RESPONSES TO QUESTIONS ON REPORTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Administrative Law Judge’s Ruling Providing Two Working Group
+Report And Directing Responses To Questions On Reports (“Ruling”), filed May 29, 2024, as
+modified by the Administrative Law Judges’ Ruling Providing Uncorrupted Attachments, filed
+June 3, 2024, and the Email Ruling Partially Granting Extension of Time for Comments, filed June
+11, 2024.
+I. INTRODUCTION.
+In Opening Comments, VGIC recommended prioritizing the implementation of the
+Limited Load Profiles (“LLP”), and VGIC strongly supports The Public Advocates Office at the
+California Public Utilities Commission’s (“Cal Advocates”) recommendation to “adopt an
+accelerated policy development pathway to enable Limited Load Profiles.”1 Developing LLPs is
+crucial for optimizing the use of the distribution system and enhancing grid reliability and
+efficiency. VGIC urges the Commission to begin work on developing static LLPs that can be used
+1 Cal Advocates Opening Comments at 2.
+2
+
+as a bridge solution to allow electric vehicle (“EV”) chargers to come online while grid upgrades
+are constructed. While the ongoing pilots by Pacific Gas and Electric (“PG&E”) and Southern
+California Edison (“SCE”) to implement flexible connection agreements are important efforts that
+should continue, the Commission should begin discussion on expanding and standardizing these
+efforts. Given the scale of the need for EV charging and the amount of distribution work that will
+be required, VGIC expects LLPs to be heavily leveraged to enable EVs to be adopted in California
+anywhere near the extent envisioned by CARB’s Advanced Clean Cars II, Advanced Clean Fleets,
+and Advanced Clean Truck regulations.
+In response to Opening Comments, VGIC would like to provide additional comments on
+the EV Business Case and cybersecurity questions. Overall, we recommend:
+● Implement LLPs or import schedules that align with customer preferences and ensure
+adequate compensation mechanisms for responding to import limit modifications.
+II. IMPLEMENT LLPS OR IMPORT SCHEDULES THAT ALIGN WITH
+CUSTOMER PREFERENCES AND ENSURE ADEQUATE COMPENSATION
+MECHANISMS FOR RESPONDING TO IMPORT LIMIT MODIFICATIONS.
+VGIC appreciates the comments by parties on question 10 for the EV Business Case
+(Business Case E) on initial efforts to deploy chargers using flexible connection agreements.
+Overall, VGIC strongly supports the further development and rollout of PG&E’s Flexible Service
+Connection pilot and SCE’s Load Control Management Systems (“LCMS”) pilot, as these will
+provide valuable insights for the Commission to further develop LLPs and other forms of firm and
+non-firm capacity agreements. Below, VGIC provides responses to party comments on questions
+10c and 10d.
+3
+
+10c. What is the preferred temporal granularity for power import limiting and/or power export
+limiting schedules?
+In Opening Comments, PG&E and SCE shared the existing temporal granularity for their
+flexible connection pilots. For PG&E, these are, “Static seasonal limits (e.g. 2 seasonal peak
+values); Static temporal limits (e.g. limits based on time of day); Static constant limit (same value
+24/7/365); or, A combination of values.”2 For SCE, options are, “Flat seasonal limits (three limits
+per year); Flat seasonal limits with “on peak” and “off-peak values” (six limits); Year-round flat
+limit (one limit).”3 While neither pilot has robust data yet to determine which schedules are
+preferred by customers or the utilities themselves for various reasons, PG&E does state that
+“PG&E typically provides a limit value that covers two times of day for two times of year.”4 This
+is in line with VGIC’s response in Opening Comments to Question 6b, which recommends
+considering the 4-value structure described by PG&E and simpler structures more generally. VGIC
+notes that there may also be merit to a 288-value approach that mimics the adopted Limited
+Generation Profiles (“LGP”) methodology. It is not yet reasonable to preclude any one approach,
+as customers – and utilities – may reveal a preference for a best-fit approach as the pilots continue.
+PG&E also discusses how their flexible service connection pilot provides non-firm
+capacity in the form of “day-ahead hourly limits, which may be adjusted in real-time under
+emergency scenarios.”5 VGIC looks forward to learning from the PG&E pilot how customers
+leveraged non-firm capacity and utilized the day-ahead schedule. Given the lack of experience
+with import limiting schedules, it is unclear whether this type of hourly schedule provided on a
+day-ahead basis is optimal or preferred by customers. Generally, customers' preference to
+2 PG&E Opening Comments at 10.
+3 SCE Opening Comments Attachment at 16.
+4 PG&E Opening Comments at 8.
+5 PG&E Opening Comments at 11.
+4
+
+leverage non-firm capacity with a particular schedule and notice timeline will depend on (a)
+the costs of implementing the capability to respond and (b) the price signals and
+compensation provided for responding. In some cases, new load customers may be interested
+in providing the utility with non-firm import capacity in exchange for a reduced energization
+timeline in lieu of compensation or for reduced compensation. For the implementation of
+Business Case B, where firm import limits are modified, VGIC reiterates that adequate
+compensation must be provided to respond to these signals and that the desired temporal
+granularity for responding to these firm import modifications will depend wholly or primarily on
+the compensation mechanisms implemented for DER to respond to utility import limit requests.
+10d. What communication pathways or protocols, if any, are required for the DSOs to
+communicate with and send commands to the EVSE at EV charging sites?
+In opening comments, SCE notes that DSOs should implement IEEE 2030.5 as the
+communication protocol for EV use cases, in line with other DER use cases.6 Enphase
+recommends that the utilities, as DSOs, should incorporate IEEE 2030.5 into their backend
+communication systems now instead of waiting for the development of full DER management
+systems (“DERMS”).7
+VGIC would like to emphasize that DSO communication may not be directly to the
+individual EVSE or EV charging sites but rather to a third-party Charge Point Operator (“CPO”)
+or aggregator managing energy usage at EV charging sites. This was discussed by SCE in Opening
+Comments as shown in Figure 2. The third party may receive the signals communicated by the
+DSO, for example, from a DERMS or other IEEE 2030.5 signaling system, and then use best-fit
+6 SCE Opening Comments Attachment at 16.
+7 Enphase Opening Comments at 8-9.
+5
+
+protocols to communicate to the EVSE or EV charging site. These communication protocols may
+include OCPP (e.g., OCPP 1.6j, OCPP 2.0.1, or in-development OCPP 2.1), DNP3, and
+proprietary messaging applications. SCE has also noted OpenADR as a possible protocol.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the Working Group
+Reports. We look forward to further collaboration with the Commission and stakeholders on this
+initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: July 22, 2024
+6

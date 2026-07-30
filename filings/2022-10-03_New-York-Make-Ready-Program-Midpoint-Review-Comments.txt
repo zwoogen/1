@@ -1,0 +1,319 @@
+October 3, 2022
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission Regarding Electric Vehicle
+Supply Equipment and Infrastructure
+Comments the Vehicle-Grid Integration Council (VGIC)
+on the Make-Ready Program Mid-Point Review
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated to
+achieve a more reliable, affordable, and efficient electric grid. VGIC appreciates the opportunity
+to respond to the Commission’s questions in the Notice of Meeting and Commencement of the
+Make-Ready Program Mid-Point Review.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Customized Energy Solutions,
+dcbel, Enel X North America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor
+Company, FreeWire Technologies, Inc., General Motors, Kaluza, Nissan Group of North America, Nuvve Holding
+Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd, The Mobility House,
+Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed
+in these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC member
+companies or supporters. (https://www.vgicouncil.org/)
+1
+
+Should VGI pilots be considered as part of the Midpoint review?
+Yes, VGI pilots should be considered as part of the midpoint review. In fact, VGI
+strategies, such as managed charging programs and time-varying rates, have already been
+successfully implemented by New York’s utilities in parallel to their deployment of EV
+infrastructure. However, VGIC believes there are opportunities to expand and improve upon
+these existing VGI strategies through additional VGI pilots and programs. Moreover, VGIC
+believes it is critical to implement VGI strategies alongside broader transportation electrification
+(TE) infrastructure investments rather than considering VGI only after these investments have
+been made. This proactive approach can increase customer awareness of VGI opportunities,
+facilitate deployment of VGI-enabling technologies, and right-size TE infrastructure, each of
+which have the potential to provide significant customer benefits and, in turn, accelerate TE.
+Moreover, incorporating VGI strategies into TE investment frameworks can reduce ratepayer
+costs compared to introducing VGI concepts after TE investments have already been made. The
+Commission has recently taken steps to facilitate VGI through recently approving the Joint
+Utilities’ Managed Charging Programs. However, VGIC’s September 2021 comments on the
+proposed Managed Charging Programs discussed certain limitations of those programs that we
+believe should be addressed by pursuing additional VGI-related activities (including pilots) as
+part of this Midpoint Review process. One of these limitations is the fact that that the managed
+charging programs are mainly focused on residential EV customers and do not address other
+potential market segments.2 VGIC believes that the importance of VGI for New York’s overall
+TE efforts warrants a more comprehensive approach that address the entire EV charging market,
+including residential, multi-unit dwelling (MUD), fleet, public, and workplace charging, as well
+as both light-duty and medium- and heavy-duty EVs.
+Another limitation of the managed charging programs is that they only focused on
+unidirectional charging, or “V1G.” Thus, these programs do nothing to advance the additional
+benefits to customers and to the grid from equipment with bidirectional functionality. The
+2 Comments of VGIC on Proposals for Managed Charging Programs,
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={519BDFD9-0F70-47F9-968E-
+7E1B924F7635}
+2
+
+Commission should take steps to help develop the bidirectional charging market in New York.
+Vehicle-to-building (V2B) and vehicle-to-grid (V2G) use cases require bidirectional charging
+equipment. However, to date, virtually every EV charging station supported by New York’s
+make-ready programs have been unidirectional. Going forward, support for bidirectional
+charging equipment would serve to complement and enhance the value of unidirectional
+managed charging by allowing EVs to play a more significant role in providing a variety of
+increasingly valuable resiliency and reliability services. Together, both unidirectional and
+bidirectional VGI approaches can provide the following benefits:
+• Accelerate transportation electrification by reducing the total cost of EV
+ownership and, in turn, mitigating harmful pollution and reducing adverse health
+impacts
+• Support the decarbonization of the power grid by utilizing batteries that reduce
+the need for natural gas peaker plants and facilitate additional deployment of
+renewable energy resources
+• Improve customer and community resiliency, for example, during more
+frequent power outages
+• Aid the grid when reliability is most threatened, for example, during
+increasingly common extreme weather events
+• Increase affordability of electricity by deferring or avoiding local distribution
+grid infrastructure upgrades
+• Fostering economic activity for New York-based VGI companies and their
+employees.
+As New York pursues its clean energy transition, it will be especially important to invest
+in resources that can provide emissions-free local generation capacity in densely populated areas
+like New York City. Meanwhile, if EV adoption proceeds as some have predicted, this could
+amount to distributed energy storage on the GW scale. Thus, EV’s with VGI functionality are
+poised to serve in a critical role supporting grid reliability in load areas where new generation is
+hard to site (e.g., Zone J). However, this will only occur if VGI-capable EVs are adequately
+support through appropriate policies and programs. Through aggregation, the fleet of EVs can be
+3
+
+appropriately managed while providing certainty that some fraction of the fleet is available for
+critical reliability functions (and appropriately compensated for doing so).
+To this end, VGIC recommends that the Commission consider adopting a VGI Portfolio
+framework that contains VGI elements that the Joint Utilities can implement in the near term (as
+part of the second half of the make-ready program). The portfolio should be flexible enough to
+grow and evolve as stakeholders develop new VGI approaches and insights about which
+strategies are most feasible, likely to deliver value, and cost-effective. This means that the VGI
+Portfolio should be updated regularly (e.g., every two years or coordinated with the timeline of
+the make-ready program).
+Potential Components of a VGI Portfolio
+The VGI Portfolio should include a broad range of components that support different
+VGI uses cases, including utility-administered programs, rate options, and marketing, education,
+and outreach (ME&O) activities. Some potential components, which may overlap with existing
+offerings, are described below.
+• Dynamic Charging Rate Options: This portfolio component would provide a catalog of
+all the dynamic EV rate options currently offered by a given utility and could also serve
+as a venue for newly proposed or modified dynamic EV rate options. Some of the
+dynamic EV rate options that the VGI Portfolio should include are briefly described
+below.
+o Commercial EV Rates: This should include increasingly dynamic rate options
+such as 1) more dynamic demand charges (e.g., based on average daily demand),
+2) enhanced time-of-use (TOU) rates that include steeper on/off-peak differentials
+and have peak windows updated regularly to reflect changes in wholesale market
+prices, and 3) optional real-time or real-time equivalent rates.
+o Residential EV Rates: This should be similar to the enhanced TOU and real-time
+rates described above for commercial EVs.
+4
+
+o V2G Export Bill Credits: This would provide a bill credit to EV customers who
+can export to the grid during peak times.
+• Managed Charging Programs: This portfolio component would give customers
+incentives to manage their charging or allow a utility or third party to manage their EV
+charging. Examples include off-peak charging incentives, demand response, or active
+managed charging programs, including those contained in the Joint Utilities’ September
+26th Managed Charging Implementation Plan filings.3
+• Vehicle-to-Everything (V2X) Infrastructure Programs or Adders: This portfolio
+component would offset costs of bidirectional charging equipment, including EV supply
+equipment (EVSE), panel upgrades, transfer switches, and other electrical equipment
+needed to support bidirectional charging infrastructure essential to unlocking V2G and
+V2B use cases.
+• Resiliency Programs: This portfolio component is designed to reflect direct investments
+or customer rebates to unlock grid resiliency services, including backup power solutions
+via V2B or V2G, or V1G during grid emergencies (e.g., rolling blackouts).
+• EV Energy Management System (EMS)/Automated Load Management (ALM)
+Tariff for Distribution Upgrade Deferral: This portfolio component enables EV or
+EVSE customers to participate in approved ALM schemes that effectively reduce local
+demand and related distribution upgrade costs (including “make ready” investments).
+Customers could be incentivized to utilize ALM by a rebate or rate discount, which may
+3 See Central Hudson Managed Charging Implementation Plan,
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={347887F4-8AE9-43C7-B9FB-
+B833950FE73A}; Con Edison Managed Charging Implementation Plan,
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={D3DFFD80-F3C2-4A3F-9209-
+DE58FCCEA749}; National Grid Managed Charging Implementation Plan,
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={FDCEFDFB-CA5E-4826-B308-
+C3312CAF281E}; Orange & Rockland Managed Charging Implementation Plan,
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={75BF1D55-087C-4E4C-904C-
+CDAD2B8522A2}. Rochester Gas & Electric and New York State Electric & Gas Managed Charging Implementation
+Plan, https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={80B025E3-42DF-44E6-A9B1-
+D7765832E7A5}
+5
+
+be a “revenue neutral” approach versus a traditional wires solution. Additional details
+about this component are discussed below.
+• Customer ME&O for VGI-related offerings: This component addresses that VGI
+success is critically dependent upon customer education, participation, and value
+realization. The available rates, programs, and relevant equipment should be
+communicated clearly, early, and consistently to customers and vendors.
+• Administrative Support: This component is meant to cover the costs of administering
+the overall VGI Portfolio.
+Should battery energy storage systems be added as eligible equipment for the make-ready
+program?
+Yes. Not only should battery storage systems be considered eligible, but other Automated
+Load Management (ALM) solutions should also be added as eligible equipment for the make-
+ready program. VGIC considers ALM, also known as EV Energy Management Systems (EV
+EMS), to refer to the use of behind-the-meter software (e.g., power sharing) or hardware (e.g.,
+integrated or co-located battery storage) approaches to limit EV charging demand at the service
+connection to a predetermined level below the aggregated charging capacity of the EVSE. For
+example, a charging site with five 10 kW Level 2 chargers can use ALM to limit its peak
+demand to 40 kW, compared to a peak demand of 50 kW without ALM. This can help avoid or
+defer the need to upgrade certain customer-side and utility-side make-ready infrastructure to
+accommodate the new charging load. The reduced need for infrastructure upgrades can generate
+savings for the customer installing EV charging and ratepayers at large. Additionally, ALM can
+be used to overcome physical space constraints in locations where it is difficult to upgrade
+electrical equipment. This can rapidly accelerate installation and energization timelines. As
+examples of potential cost savings, Pacific Gas & Electric has worked with EV service providers
+to implement EV EMS solutions at multi-unit dwellings and workplace host sites as of Q4 2020
+and saved between $30,000 and $200,000 per project.4 Southern California Edison also
+4 Pacific Gas & Electric, Presentation at CPUC ALM/EV EMS Workshop, Panel 2 (2021).
+6
+
+implemented EV EMS to deploy 168 charging stations at $3,000 per port, significantly less than
+comparable deployments at $10,000-$15,000 per port without EV EMS.5
+Encouraging customers to choose ALM solutions voluntarily can be a powerful tool for
+streamlining and minimizing EVSE deployment costs. During the September 20th EV Make-
+Ready Program Midpoint Review Kick-Off workshop, the Joint Utilities highlighted that
+customers in New York are interested in ALM approaches that can reduce infrastructure costs.
+However, these technologies are not eligible under the existing make-ready program. For the
+program’s second phase, the VGIC recommends that the Commission consider a shared cost
+savings model to encourage customers to adopt ALM solutions. Specifically, customers seeking
+rebates under the make-ready program should be eligible to receive an incremental incentive
+commensurate with the estimated load reduction and infrastructure cost savings (including both
+utility-side and customer-side cost savings) resulting from their ALM adoption. Importantly,
+customers should not be required to implement ALM solutions. Instead, customer education
+strategies and a “carrot” rather than a “stick” mechanism should be used to promote ALM.
+Furthermore, given that stakeholders in New York have not had the opportunity to explore and
+discuss ALM in detail, the Commission should convene a technical conference on ALM – or
+include ALM as part of a broader VGI working group meeting – before the release of the Staff
+Whitepaper. This convening should consider suitable ALM solutions, typical configurations,
+minimum technical requirements, ME&O strategies, and potential rebate/shared savings models.
+Are there other forms of advanced technologies that should be considered for eligibility in
+the make-ready program?
+Bidirectional charging use cases can leverage the latest battery capacity in EVs to provide
+backup power to customers, manage customer bills, and support the grid through V2G exports.
+5 EPIC Policy + Innovation Coordination Group, Transportation Electrification Workstream Report
+(2021)
+https://epicpartnership.org/resources/Transportation_Electrification_Workstream_Report_Final.pdf.
+7
+
+V2X systems can receive export compensation through the VDER tariff6 and are commercially
+available across several customer segments.7 At a minimum, V2X equipment should be eligible
+for the same BTM make-ready and charger rebates as V1G equipment. However, given the
+immense potential of V2X to support customer needs, bolster grid reliability, and lower system
+costs, VGIC believes it is reasonable to offer an incremental rebate to V2X customers to partially
+offset the incremental upfront costs of purchasing and installing V2X EVSE and the associated
+equipment. VGIC believes an incremental V2X rebate is critical to spurring the nascent
+bidirectional charging market in New York. VGIC offers itself as a resource and hopes to
+collaborate closely with stakeholders to determine the appropriate incentive level for
+bidirectional charging equipment.
+In addition, while V2X solutions have demonstrated clear benefits to both customers and
+the grid, the technology is new and unfamiliar to most customers. To overcome this gap, VGIC
+recommends that the utilities’ ME&O and technical assistance teams work to educate customers
+on the benefits of V2X use cases, capable chargers, vehicles and associated equipment,
+appropriate interconnection pathways, applicable rates and programs, and any technical
+considerations, including opportunities to co-locate and integrate other types of distributed
+6 V2G systems have been included as energy storage systems in the VDER tariffs of Con Edison, National Grid, and
+Orange & Rockland.
+7 See, for example: Steve Hanley. Clean Technica. Nissan Using Vehicle to Grid Technology to Power US Operations.
+November 29, 2018. https://cleantechnica.com/2018/11/29/nissan-using-vehicle-to-grid-technology-topower-us-
+operations/; Roberto Baldwin. 2021 Mitsubishi Outlander PHEV Gets Bigger Motor and Battery at Same Price. Car
+and Driver. February 25, 2021. https://www.caranddriver.com/news/a35605985/2021-mitsubishioutlander-plug-
+in-hybrid-upgrade/; Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial Application of
+Vehicle-to-Grid Technology in Electric School Bus Partnership with Nuvve and Illinois School Districts. March 23,
+2021. https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/; Thomas Built Buses /
+Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School Bus.
+https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley; Lion Electric. Lion Electric Announces Successful
+Electric School Bus Vehicle-to-Grid Deployment with Con Edison in New York. December 14, 2020.
+https://thelionelectric.com/img/medias/LION_Press_Release_White%20Plains%20EN%20FINAL.pdf; Nuvve
+Corporation (2020). Nuvve DC Heavy Duty Charging Station Specifications Sheet.
+https://nuvve.com/wpcontent/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf; Fermata Energy.
+Proven Results and Cost Savings with V2G Technology. October 14, 2020. https://www.fermataenergy.com/news-
+press/proven-results-andcost-savings-with-v2g-technology; Rhombus Energy Solutions. V2G Charging, Control, and
+Management 50- 500kW: Bidirectional. https://rhombusenergysolutions.com/products; Ford Motor Company.
+Ford Intelligent Backup Power. https://www.ford.com/trucks/f150/f150-lightning/features/intelligent-backup-
+power/
+8
+
+energy resources. Given the potential complexity of interconnecting large V2X sites, the utilities’
+technical assistance teams should – in a technology-neutral manner – actively support individual
+customers and fleets through the design and interconnection process and ensure a streamlined
+customer experience.
+Are there any topics that the Technical Standards Working Group should address that are
+not already delineated in the Make-Ready Order or have not been discussed in previous
+TSWG meetings?
+VGIC believes that the TSWG should continue to focus on enabling networked EVSE
+and vehicle telematics for submetering. As noted in VGIC’s recent TSWG presentation and
+comments, submetering is critical for New York’s transportation electrification efforts by
+mitigating the cost barriers of charging infrastructure installations and encouraging critical V2X
+use cases.8 In addition to technical standards for submetering and telematics standards, another
+potential barrier for certain VGI solutions – specifically V2X solutions – is the process for utility
+interconnection and any required technical standards related to that process. VGIC has worked
+extensively on this issue in California and has also developed recommended best practices for
+addressing V2X interconnection.9 Given the importance of this issue, VGIC believes that the
+Commission should also consider addressing it through the TSWG, or alternatively through the
+Interconnection Working Group. However, in addressing this issue, the Commission should be
+careful not to “reinvent the wheel” for V2X configurations that already have a viable pathway.
+What program modifications would improve the MHD Make-Ready pilot?
+Since the Commission approved the MHD Make-Ready Pilot, New York has adopted
+several policies related to the electrification of MHD vehicles. In December 2021, the
+8 VGIC Technical Standards Working Group Presentation,
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={B2962278-93A4-4D06-87E3-
+8ACEE9EACDF8}.
+9 https://www.vgicouncil.org/s/VGIC-Special-Initiative-2022.pdf
+9
+
+Department of Environmental Conservation adopted California’s Advanced Clean Truck rule,
+setting zero-emission vehicle sales requirements for the MHD sector.10 In April 2022, Governor
+Hochul signed legislation to require all new school bus purchases to be zero-emission by 2027
+and all school buses on the road be zero-emission by 2035.11 However, as the Joint Utilities
+highlighted during the Midpoint Review Kick-off workshop, few MHD fleets have been able to
+participate in the MHD Make-Ready pilot, mainly because customer-side make-ready costs are
+not eligible under the current pilot structure. Without changes to the MDH make-ready offering,
+the pace of MHD charging infrastructure deployment in New York will likely fall short of what
+is required to meet the state’s ambitious MHD electrification goals. MHD vehicles also account
+for an outsized share of local air pollution, which disproportionately affects disadvantaged
+communities, and electrifying these vehicles will result in significant equity benefits. VGIC
+urges the Commission to modify the incentive structure to include both utility-side and
+customer-side make-ready infrastructure, as well as expand the budget for MHD make-ready to
+be more comparable to the Light-Duty Make-Ready Program.
+Moreover, VGI, especially V2X, are particularly important for MHD charging given the
+larger battery capacities in these vehicles and the higher power rating of the associated charging
+infrastructure. Electrifying the MHD sector would enhance opportunities to implement ALM,
+on-site renewables and DER integration, backup power and resilience use cases, and
+participation in DR programs, all of which will generate additional value for fleets as well as the
+grid as a whole. However, in VGIC’s experience, bidirectional charging equipment is often not
+considered through typical approaches to make-ready funding programs or screening metrics. As
+discussed above, make-ready incentives for MHD vehicles should be tailored so that they can
+cover ALM and V2X equipment.
+Provide comments on the potential need for residential make-ready.
+10 https://www.governor.ny.gov/news/governor-hochul-announces-adoption-regulation-transition-zero-emission-
+trucks
+11 https://legiscan.com/NY/text/S08006/id/2567276/New_York-2021-S08006-Amended.html
+10
+
+Residential charging sites have longer dwell times and therefore have greater potential for
+managed charging and/or discharging, thereby using the grid more efficiently and reducing costs
+for ratepayers. This also means that customers who charge at home will have more opportunities
+to lower their charging costs through managed charging compared to those who rely on public
+charging. As such, the Commission should consider extending make-ready incentives to
+residential customers for equipment that can facilitate VGI activities, benefiting both EV drivers
+and the grid.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Commission, the joint utilities, and other stakeholders to ensure the success of
+New York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+11

@@ -1,0 +1,110 @@
+August 22, 2022
+Ms. Stephanie Pollack, Acting Administrator
+Federal Highway Administration (FHWA)
+1200 New Jersey Avenue, SE
+Washington, DC 20590
+RE: Docket No. FHWA-2022-0008: National Electric Vehicle Infrastructure Formula
+Program
+Comments of the Vehicle-Grid Integration Council (VGIC) on the Proposed Regulations
+for the National Electric Vehicle Infrastructure (NEVI) Formula Program
+Introduction
+The Vehicle-Grid Integration Council (“VGIC”)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid
+integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring the value
+from EV deployments and flexible EV charging and discharging is recognized and compensated
+in support of achieving a more reliable, affordable, and efficient electric grid. Scaling VGI will
+help accomplish the following public policy goals:
+• Benefit drivers by reducing the cost of ownership.
+• Decarbonize the transportation sector by accelerating EV adoption.
+• Support decarbonization of the power sector by providing essential grid services as
+renewable energy penetration increases.
+• Increase affordability by reducing electricity bills for all customers.
+• Improve grid resiliency and security during extreme weather events.
+• Foster economic activity through innovation, competition, and market transformation.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor Company, FreeWire
+Technologies, Inc., General Motors Company, Kaluza, Nissan Group of North America, Nuvve Holding
+Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd, The Mobility House,
+Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed
+in these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC member
+companies or supporters. (https://www.vgicouncil.org/)
+Page 1 of 3
+
+With federal support, we believe this vision could become a reality and that EV drivers
+and owners across the United States can take part in the acceleration of both transportation
+electrification and grid decarbonization. Our vision for VGI encompasses the following key
+elements:
+• Ensure customer mobility needs are satisfied. Drivers will be able to participate in a
+wide variety of VGI services, nationwide, without compromising their mobility needs.
+• Managed charging will provide benefits to EV drivers: Drivers in every state will
+be given the choice to align charging with the times of day when electricity prices are
+low, reducing operating costs by 50% compared to unmanaged charging. Lowering the
+total cost of ownership will help to accelerate overall EV adoption by drivers and fleet
+managers.
+• EVs provide emissions-free emergency power during blackouts: During extreme
+weather blackouts or other power outages, EVs can utilize two-way charging and
+discharging capabilities to send energy to a building or home (“V2B” – vehicle-to-
+building), serving as a generator and providing safe and emissions-free backup power.
+• Electricity infrastructure costs become more affordable: Smarter management of
+EV charging will help minimize investments in utility infrastructure to support
+economy-wide electrification, which reduces the overall cost burden on all electricity
+customers.
+• EVs provide necessary services to the grid and get paid for it: Unidirectional
+charging (“V1G”) and bidirectional charging (“V2G” – vehicle-to-grid) will enable
+EVs to both receive and/or feed power back to the grid, supporting advanced grid
+services such as frequency control, demand response, peak shaving, and more.
+Providing these services can unlock new revenue streams for EVs, lowering the total
+cost of ownership. Grid flexibility services will become increasingly valuable as more
+renewable energy is added to the grid.
+Bidirectional EVSE at Non-Corridor Sites Should be Exempt from CCS and ISO 15118
+Requirements
+The proposed regulations include a requirement for EV supply equipment (“EVSE”)
+installed under the NEVI Formula Program to be equipped with CCS connectors2 and be
+compliant with ISO 15118 standards.3 VGIC appreciates the FHWA’s overarching efforts to
+promote standardization and open protocols as a means to advance transportation electrification
+2 Section 680.106(c).
+3 Section 680.108.
+Page 2 of 3
+
+more broadly. However, we encourage the FHWA to consider a more flexible approach when it
+comes to bidirectional chargers as the field is evolving rapidly. Given that Direct Current Fast
+Chargers (“DCFCs”) deployed along Alternative Fuels Corridors are generally not suitable
+candidates for the bidirectional charging use cases described above, VGIC’s comments are
+focused on EVSE, including Level 2 EVSE, that will be deployed at other sites after a state’s
+Alternative Fuels Corridors are fully built out.
+VGIC believes there is value in the FHWA supporting vendors, EV owners, and utilities
+to develop new programs, business models, and participation pathways for bidirectional charging
+in order to facilitate the nascent bidirectional charging market. The importance of bidirectional
+charging infrastructure was recognized by the recently enacted Inflation Reduction Act, which
+clarifies that bidirectional chargers are eligible for the Alternative Fuel Vehicle Refueling
+Property Credit. Moreover, the Department of Energy recently launched the Vehicle-to-
+Everything Memorandum of Understanding (“V2X MOU”) to collect information on real-world
+V2X projects and support critical bidirectional charging market development efforts.
+There are still only a limited number of bidirectionally-capable EVs and EVSE products
+available in today’s market. While some of these products are already compliant with ISO 15118
+(e.g., Nuvve’s bidirectional DCFC), some are not. For example, Nissan LEAFs, which represent
+the majority of the bidirectionally capable EVs on the road today use CHAdeMO connectors that
+do not use the ISO 15118 protocol. While we recognize that the industry has moved towards
+CCS connectors, there may be value in providing near-term support for bidirectional CHAdeMO
+chargers through a temporary exemption of ISO 15118 for bidirectional chargers.
+Any near-term efforts from the federal government or at the state level to advance
+bidirectional charging use cases will likely rely on some participation from Nissan LEAFs. Thus,
+requiring CCS and ISO 15118 could effectively eliminate support for a significant share of the
+bidirectionally capable EVs and EVSEs available today, thereby limiting customer choice and
+delaying market development of an important VGI capability. As such, VGIC recommends the
+FHWA exempt bidirectional chargers deployed at non-corridor sites from any CCS and ISO
+15118 requirements at this time if they instead use CHAdeMO connectors for bidirectional
+charging. VGIC further recommends the FHWA revisit the exemption at a later date when CCS-
+based and ISO 15118-compliant bidirectional charging is more commonplace.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the FHWA and other stakeholders to ensure the success of the NEVI Formula
+Program.
+Page 3 of 3
+
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+Page 4 of 3

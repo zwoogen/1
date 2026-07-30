@@ -1,0 +1,155 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING IMPROVEMENTS TO DISTRIBUTION
+PLANNING AND PROJECT EXECUTION PROCESS, DISTRIBUTION RESOURCE
+PLANNING DATA PORTALS, AND INTEGRATION CAPACITY ANALYSIS MAPS
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: October 8, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ADOPTING IMPROVEMENTS TO DISTRIBUTION
+PLANNING AND PROJECT EXECUTION PROCESS, DISTRIBUTION RESOURCE
+PLANNING DATA PORTALS, AND INTEGRATION CAPACITY ANALYSIS MAPS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Proposed Decision Adopting Improvements to Distribution Planning
+and Project Execution Process, Distribution Resource Planning Data Portals, and Integration
+Capacity Analysis Maps (“PD”) issued by Commissioner Houck on September 13, 2024.
+I. INTRODUCTION.
+As expressed in Opening Comments by VGIC and other parties, California must take
+concrete steps to improve distribution planning for new load growth, and the PD takes many
+important steps towards achieving this goal. At the same time, the major changes identified in the
+PD will require years of implementation, and the additional distribution investments will lead to
+large increases in cost. Therefore, the Commission should seek to expand solutions in the near-
+term to add additional off-peak load and should seek to unlock optimal amounts of load flexibility
+in the longer-term, especially from electric vehicles (“EV”). With these goals in mind, VGIC offers
+the following replies to party comments:
+1
+
+● VGIC agrees with other parties that the Commission should create widespread flexible
+service connection offerings.
+● VGIC agrees with other parties recommending that stakeholder feedback should be taken
+on the scope of the Part 2 Electrification Impact Study and Load Flexibility Assessment.
+II. THE COMMISSION SHOULD CREATE WIDESPREAD FLEXIBLE SERVICE
+CONNECTION OFFERINGS.
+Multiple parties, including Advanced Energy United (“United”), California Communicty
+Choice Association (“CalCCA”), CALSTART, Environmental Defense Fund (“EDF”), and
+Natural Resources Defense Council (“NRDC”), commented on the importance of flexible service
+connections in allowing customers to get energized more quickly and at a lower cost and noted
+that the Commission should take broader action on this issue to scale flexible service connections.1
+EDF and NRDC note that “Limiting solutions like flexible service connections to be pilots or one-
+off narrow programs will inevitably lead to lower uptake and fewer benefits for individual
+customers and ratepayers as a whole.”2 Parties also highlight that while flexible service
+connections are beneficial bridging solutions for temporary energization, they can also be scaled
+to provide permanent operating parameters to reduce costs for customers and ratepayers.3 VGIC
+agrees that these solutions are scalable for bridging and long-term uses and we agree with parties
+that Finding of Fact #14, stating that scalable solutions for evaluation do not exist, should be
+deleted or modified to acknowledge that scalable solutions can be developed in the future.4 The
+1 See Advanced Energy United (“United”) Opening Comments at 3-5; California Community Choice Association
+(“CalCCA”) Opening Comments at 6-7; CALSTART Opening Comments at 5-7; Environmental Defense Fund
+(“EDF”) and Natural Resources Defense Council (“NRDC”) Opening Comments at 4-5.
+2 EDF and NRDC Opening Comments at 5.
+3 United Opening Comments at 4; CalCCA Opening Comments at 7; CALSTART Opening Comments at 5-6; EDF
+and NRDC Opening Comments at 5.
+4 Parties with this recommendation include United and CalCCA.
+2
+
+PD directs utilities to file a singular compliance filing on their current plans in December, with no
+follow-up venues for feedback or discussion. This limitation represents a barrier to the
+development of broader solutions.
+VGIC acknowledges that many elements need clarification to scale broader flexible service
+connections. As highlighted by CALSTART, scaling flexible service connections will require rules
+around the energization study analysis, contractual obligations for the utility or customer, potential
+override and compensation mechanisms, third-party power control system integrations and
+standards, and the tariff modifications required to implement all of these provisions.5 The motion
+by Enphase referenced by VGIC in our opening comments also discusses the development of more
+standardized Limited Load Profiles that would allow for firm import limit schedules and additional
+dynamic, non-firm imports.6 However, the Enphase motion makes clear that the Commission will
+need to take action to develop these options.7
+The Commission could evaluate a variety of scalable flexible service connection solutions
+if a procedural venue is opened for their development and discussion. United and CALSTART
+recommend that the Commission adopt a recommendation made by Cal Advocates for the utilities
+to file a Tier 2 Advice Letter on their bridging strategies and to follow-up during the annual DPAG
+meetings.8 Enphase’s motions have proposed to add scoping questions around flexible service
+connections to existing regulatory proceedings, which would allow the Commission to develop a
+record to evaluate scalable solutions. VGIC is open to addressing these issues through either a
+Rulemaking or an Advice Letter process, but we believe that either process should allow for
+5 CALSTART Opening Comments at 7.
+6 Motion of Enphase Energy, Inc. to Amend Scoping Ruling and Schedule to Address Optional Flexible Connection
+Agreements and the Underwriters’ Laboratory 3141 Standard for Power Control Systems in Investor-owned
+Utilities’ Energization Rules filed by Enphase Energy in R.24-01-018 on September 11, 2024.
+7 Ibid.
+8 United Opening Comments at 4; CALSTART Opening Comments at 6.
+3
+
+stakeholder feedback and discussion to ensure the resulting rules and regulations are well-fit to
+customer needs. Regardless of pathway, the most important action the Commission can take
+is to identify and start the next steps for scaling these solutions now.
+III. STAKEHOLDER FEEDBACK SHOULD BE TAKEN THE SCOPE OF THE PART
+2 ELECTRIFICATION IMPACT STUDY AND LOAD FLEXIBILITY
+ASSESSMENT.
+The Commission should clarify the scope, roles, and timelines for the EIS Part 2 Study and
+associated Load Flexibility Assessment. In Opening Comments, multiple parties commented on
+the confusion on the full scope of the study and the roles and responsibilities of different entities
+such as the utilities, Kevala, and the California Energy Commission (“CEC”). The PD references
+the “Electrification Impact Study Part 2 currently being conducted by Utilities, [emphasis added]”9
+and states that the study “is on track to begin in the near term,”10 implying that the scope of the
+study has already been decided. However, San Diego Gas and Electric (“SDG&E”) states that “the
+scope and timeline for the Utilities’ EIS Part 2 studies are still being developed.”11 United and
+Utility Consumers’ Action Network (“UCAN”) highlight that the Commission has never formally
+indicated that the utilities would be developing the Part 2 study and reference previous
+Commission Rulings and the EIS Part 1 study that suggest that Kevala would be conducting the
+Part 2 study.12 SDG&E also highlights that the CEC is creating a Demand Flexibility (DF)
+Resource Potential tool that could be incorporated into the EIS Part 2 study, Load Flexibility Study,
+or other future studies.13 This has led to uncertainty as to what will be included in the Part 2 study
+9 PD at 90.
+10 PD at 95.
+11 SDG&E Opening Comments at 5.
+12 United Opening Comments at 5-8; UCAN Opening Comments at 2-6.
+13 SDG&E Opening Comments at 5-6.
+4
+
+and the timeframe when this study will be conducted. The Commission should clarify these
+elements in the final decision.
+The Commission should also take additional stakeholder feedback on the scope of the Part
+2 study. For example, in Opening Comments, VGIC recommended that the Part 2 Study include
+different electric vehicle managed charging scenarios (i.e., including a low, medium, and high
+V1G scenario, as well as a V2X bidirectional charging scenario) and to consider the potential for
+software- and hardware-based solutions to manage EV charging load specifically for local grid
+constraints. However, the PD does not propose to allow for any additional stakeholder feedback
+on the Part 2 Study until it is already complete. The EIS Part 1 Study allowed for significant
+stakeholder engagement to develop the scope and process for that study, which led to the study
+providing more important insights on bottom-up forecasting, needed distribution upgrades, and
+cost insights. This stakeholder engagement should be done for the Part 2 study as well. As such,
+VGIC supports United’s recommendation that the PD “be revised to align with the Staff Proposal
+and allow for stakeholder comment on the EIS Part 2 and Flexible Load DPP Assessment.”14
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the Proposed
+Decision. We look forward to further collaboration with the Commission and stakeholders on this
+initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+14 United Opening Comments at 8.
+5
+
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: October 8, 2024
+6

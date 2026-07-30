@@ -1,0 +1,380 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+OPENING COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+TRACK B WORKING GROUP REPORT
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+November 13, 2023
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+OPENING COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+TRACK B WORKING GROUP REPORT
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), and pursuant to Assigned Commissioner’s Phase 1 Scoping Memo
+and Ruling, issued November 2, 2022, and the Email Ruling Modifying Deadlines for Working
+Group Proposal and Comments issued by Administrative Law Judge (“ALJ”) Stephanie Wang
+on September 29, 2023, the Vehicle-Grid Integration Council (“VGIC”) hereby submits these
+opening comments on the Track B Working Group Report, submitted by Southern California
+Edison Company (“SCE”), on October 11, 2023, on behalf of the Track B Working Groups.
+I. INTRODUCTION.
+VGIC commends the Commission for implementing the Order Instituting Rulemaking To
+Advance Demand Flexibility Through Electric Rates (“DFOIR”) on July 22, 2022, to enable
+widespread demand flexibility.1 Furthermore, VGIC appreciates the Energy Division (“ED”)
+staff’s extensive efforts in forming and facilitating the two working groups for Track B of this
+proceeding focused on developing guidance for demand flexibility design (“Working Group 1”)
+as outlined in Issue 3 of Phase 1 Scoping Memo and Ruling, and systems and processes for
+1 CPUC R.22-07-005. Order Instituting Rulemaking to Advance Demand Flexibility Through Electric
+Rates. July 14, 2022.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M496/K285/496285639.PDF
+1
+
+access to process and responding to price signals (“Working Group 2”) outlined in Issue 4.2
+Importantly, VGIC appreciates all efforts from stakeholders involved in the Track B working
+groups’ discussions to streamline and expedite the adoption of demand flexibility rates for large
+investor-owned utilities (“IOUs”) while exploring options for new systems and processes for
+customers and service providers to access dynamic electricity prices.
+VGIC strongly believes that electric vehicles (“EVs”) are well-positioned to take
+advantage of dynamic pricing and provide immense load flexibility value. Vehicle Grid
+Integration (“VGI”) strategies, including managed unidirectional charging, bidirectional charging
+and discharging, and distributed energy resource (“DER”)-paired charging, can unlock EVs as
+strategic grid assets, including through participation in dynamic rates. These price signals can
+directly influence customer behavior or integrate with automated charge management systems
+for a “behind the scenes” customer experience. In other words, VGI strategies will play a key
+role in helping California meet its ambitious clean energy and transportation electrification goals,
+and the rates under consideration in Track B represent one important tool to unlock this
+capability.
+VGIC generally supports various components of the Working Group 1 party proposals
+and notes that the three main party proposals – the ED staff proposal, Joint IOU proposal, and
+Microgrid Resources Coalition (“MRC”) proposal – share a significant share of proposal
+elements. Similarly, VGIC supports certain core elements in proposals made by stakeholders on
+the systems and processes for access to process and respond to price signals in Working Group 2.
+2 CPUC R.22-07-005. Assigned Commissioner’s Phase 1 Scoping Memo and Ruling. November 2, 2022.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M498/K072/498072273.PDF
+2
+
+VGIC offers these comments, summarized below, in support of implementing fair,
+compelling, and productive demand flexibility rate components contemplated in Working Group
+1 and Working Group 2 proposals.
+• VGIC supports including certain key components in the final guidance for demand
+flexibility rate design to ensure the widespread participation of VGI resources, including:
+o Forward Price Curves
+o Import/Export Symmetry
+o Distribution Component
+o Transmission Component
+o Dual Participation
+II. VGIC SUPPORTS INCLUDING CERTAIN KEY COMPONENTS IN THE FINAL
+GUIDANCE FOR DEMAND FLEXIBILITY RATE DESIGN TO ENSURE THE
+WIDESPREAD PARTICIPATION OF VGI RESOURCES.
+VGIC reiterates its appreciation for the immense breadth and depth of stakeholder
+coordination that underpins the Working Group 1 party proposals. We believe that these
+proposals and the broader demand flexibility guidance effort are critical as California faces
+mounting energy and transportation transition challenges. VGIC urges the Commission to adopt
+the below elements of the party proposals in its demand flexibility guidance.
+A. Forward Price Curves and Transactive Element.
+The Energy Division (“ED”) staff proposal would direct the investor-owned utility
+(“IOU”) applications to “include an optional transactive pricing program for customer classes
+that are able to schedule their loads on a forward (e.g., week-ahead) basis in response to a
+3
+
+forecasted price” (emphasis added).3 The Joint IOUs note in their proposal that forward
+transactions (i.e., forward price curves) are too complex for initial offerings and proposes first to
+offer forward transactions in a pilot setting instead.4 Notwithstanding their complex nature,
+forward price curves can help EV customers and fleets plan charging and vehicle operations well
+ahead of forecasted high or low-price hours, providing customers the incentive needed to provide
+demand flexibility and shift load to off-peak times. For example, a fleet may wish to adjust its
+delivery operations in response to a forward contracted price curve. While VGIC appreciates the
+Joint IOUs’ concern about including forward transactions as an initial offering, we believe ED’s
+proposal to offer an optional transaction pricing program for customers who wish to participate
+strikes an appropriately balanced opportunity for participants. First, it provides an option for
+participants but does not require all customers who take service under demand flexibility rates to
+utilize the forward price curves element. This “opt-in” structure means that any complexity,
+perceived or real, is not imposed on customers who do not wish to engage in it. Secondly,
+customers who do wish to engage in the forward price curve element may do so in partnership
+with an automation service provider, energy management service provider, smart device, or any
+other third party that offers relevant services, which means that customers who opt in have
+choices they can make to manage that complexity. VGIC urges the Commission to adopt demand
+flexibility guidance that includes a forward transaction component to ensure the goals set in the
+DFOIR are met.
+3 CPUC R.22-07-005. Track B Working Group Report and Notice of Availability – Attachment A:
+California Public Utilities Commission Demand Flexibility OIR Track B Working Group Report. October
+11, 2023. Pg. 4 and 24.
+4 CPUC R.22-07-005. Track B Working Group Report and Notice of Availability – Attachment A:
+California Public Utilities Commission Demand Flexibility OIR Track B Working Group Report. October
+11, 2023. Pg. 4.
+4
+
+B. Import/Export Price Symmetry.
+VGIC strongly supports ED staff’s Working Group 1 proposal detailing that the dynamic
+price for demand flexibility rates should be symmetric and bidirectional. The Commission can
+unlock far greater value from EV customers and fleets by providing customers the needed price
+signal to not only shift load but also export energy during peak times. This price symmetry offers
+a “V2X multiplier”: dynamic rates can align EV charging load with real-time grid conditions to
+achieve a maximum EV charging load reduction that is fundamentally limited by a customer’s
+initial plan to charge during a given period. However, dynamic export rates can elicit exports
+from EVs that may not have otherwise been planning to charge at all during that period. In other
+words, the maximum EV charging export capability is not limited by a customer’s initial plan to
+charge during a given period, so much deeper net peak system load reductions can be achieved,
+along with other grid benefits. To provide a more specific example, consider EV A charging at 4
+kW during a local or system peak period. High dynamic price signals during that window could
+induce EV A to reduce charging to 0 kW. This achieves a net reduction of 4 kW at the local and
+system level. If exports were encouraged through compelling dynamic export price signals
+during that same period, EV A could stop charging and could export power back to the grid at,
+for example, 10 kW. Through the addition of bidirectional pricing, EV A provides a total net
+local and peak load reduction of 14 kW (i.e., 4 kW load reduction + 10 kW grid export). This
+demonstrates the critical importance of export price signals for bidirectionally capable EVs and
+EV chargers in particular.
+C. Dynamic Distribution Component.
+VGIC supports the inclusion for a dynamic distribution component as part of the demand
+flexibility rates from the outset, as proposed by ED staff, although we are uncertain whether the
+5
+
+circuit-specific scarcity price curves is the best approach for customers.5 It is critical that some
+distribution component is offered to customers, whether through dynamic rates or through a
+programmatic approach that complements dynamic rates, as explained below in Sections II.C.iv
+and IIC.v.
+The 2023 Kevala Electrification Impacts Study Part 1 (“EIS Part 1”) estimates that
+distribution system investment from electrification will amount to $51 billion by 2035. Cal
+Advocates’ recent Distribution Grid Electrification Model (“DGEM”) study and report indicates
+that through load management, including primarily EV load management, this value can be
+reduced to $26 billion. These studies underscore one simple, immutable fact: when and how EV
+charging occurs remains the largest factor in determining future distribution system costs.
+The DGEM study indicates that distribution system investments required to support high
+electrification through 2035 can be cut in half primarily through managing EV charging load.
+We believe there are even greater cost saving opportunities from bidirectional charging and
+Vehicle-to-Grid (“V2G”) solutions. Senate Bill (“SB”) 676 and the VGI Strategies
+Implementation Decision (“D.”) 20-12-029 establish drivers for the Commission to advance VGI
+solutions and transition the VGI technology market from demonstrations and pilots to full-scale,
+sustainable commercialization. However, the comparative findings of EIS and DGEM establish
+an abundantly clear $25 billion core imperative for the Commission to develop and enact VGI
+strategies that target distribution level value.
+A recent IEEE case study indicates how coordinated distribution system EV load
+optimization differs from California’s current patchwork of EV load management strategies,
+5 CPUC R.22-07-005. Track B Working Group Report and Notice of Availability – Attachment A:
+California Public Utilities Commission Demand Flexibility OIR Track B Working Group Report. October
+11, 2023. Pg. 4 and 12.
+6
+
+which rely on traditional demand response, TOU rates, and emerging RTP pricing based solely
+on system conditions:6
+This data demonstrates the potential impacts of EV load management programs that target bulk
+system benefits (“Figure 3” above) compared to those that consider distribution load constraints
+(“Figure 6” above). In both cases, the system peak is reduced, but only in the distribution
+constraint case is the EV charging load kept below the distribution asset limit.
+VGIC lists below several distribution system EV management strategies that can support
+capturing this $25 billion in potential savings, including several rate design components from
+Working Group 1 proposals and additional elements VGIC recommends the Commission
+consider:
+i. Circuit-Specific Pricing (i.e., ED staff proposal, SCE RATES TeMix Pilot).
+This approach promotes economic efficiency and is particularly beneficial for
+exporting customers on congested circuits or EV charging customers on circuits
+6 Utility Planning for Distribution-Optimized Electric Vehicle Charging. Matthew Mills, Manasseh Obi,
+Kendall Cody, Kyle Garton, Amanda Myers Wisser, and Sammy Nabahani. October 19, 2023. IEEE
+Power & Energy Magazine.
+7
+
+with excess capacity. However, this may create challenges for customers that
+require a reasonable degree of reliable and predictable pricing in order to inform
+investment decisions. For example, customers installing bidirectional charging
+equipment will incur a high upfront cost that can be recovered over time through
+V2G revenues based on the various slices of the “value stack,” which may include
+energy and generation capacity, transmission capacity, distribution capacity, and
+ancillary services value streams. While it may be feasible to forecast out changes
+to generation and transmission-related value stack components, the distribution
+component can be much more volatile over a few years as utilities add
+distribution capacity and/or neighbors add rooftop solar, for example. Since
+bidirectional charging equipment is not eligible for Self-Generation Incentive
+Program (“SGIP”) funding or any other consistent market transition support, the
+volatility of circuit-specific pricing over the span of a few years can present a
+barrier to bidirectional equipment adoption. Additionally, utilities may face
+challenges with the computational burden behind circuit-specific pricing. One
+real-world example of circuit-specific pricing is SCE’s ongoing RATES TeMix
+pilot. Another example is San Diego Gas & Electric’s (“SDG&E”) Power Your
+Drive (“PYD”) VGI Rate, which offers a Distribution Critical Peak Pricing (“D-
+CPP”) adder during the top 200 hours for that customer’s circuit. While the D-
+CPP adder price is system-wide, the top 200 hours differ from circuit to circuit.
+Note SDG&E’s PYD VGI Rate D-CPP is not a dynamic distribution component
+compliant with the California Energy Commission’s (“CEC”) Load Management
+Standard (“LMS”), although SCE RATES TeMix likely is compliant.
+8
+
+ii. Circuit Clustering (i.e., Pacific Gas and Electric’s (“PG&E”) Proposed
+Vehicle-to-Everything (“V2X”) Pilots approach). Organizing circuits into
+tranches of circuits that share similar characteristics rather than modeling each
+specific circuit can mitigate both of the challenges cited above with the circuit-
+specific approach: uncertainty and complexity. In addition to PG&E’s proposed
+circuit clustering methodology, utilities in New York have already implemented
+this approach, though with two clusters: congested and non-congested. New
+York’s Value of Distributed Energy Resources (“NY VDER”) tariff includes two
+distribution components: Demand Reduction Value (“DRV”) and Locational
+System Relief Value (“LSRV”). The DRV is a system-wide distribution
+component, whereas the LSRV applies only to the most congested circuits. This is
+effectively the simplest form of PG&E’s clustering methodology, containing two
+clusters. To the extent circuit clustering supports customer equipment investment
+and reduces complexity for utilities relative to ED staff’s circuit-specific
+approach, NY VDER’s LSRV approach may offer further customer support and
+complexity reduction. Note that NY VDER LSRV’s approach is not a dynamic,
+hourly price, whereas PG&E’s proposed clustering methodology would be a
+dynamic, hourly price signal in compliance with the CEC’s LMS.
+iii. System-wide Dynamic Distribution Component (i.e., Joint IOU Proposal).
+The Joint IOUs’ proposal offers the simplest implementation initially for dynamic
+distribution component: a system-wide distribution component. Although this is
+the least economically efficient and fails to meaningfully support circuits that are
+most congested, it is undoubtedly the easiest for utilities to implement initially.
+9
+
+Real-world examples of this include the Net Billing Tarriff’s (“NBT”) Avoided
+Cost Calculator (“ACC”) distribution component and NY VDER’s DRV
+component, which apply equally across each utility’s system and reflect
+distribution value. Note these examples are static and not dynamic distribution
+components.
+iv. Programmatic Distribution Load Optimization. VGIC recommends the
+Commission consider a programmatic alternative to dynamic distribution load
+management. This can be implemented in lieu of a dynamic distribution rate
+component. In this case, customers would receive a dynamic price signal to
+benefit system and transmission conditions but enroll in an EV distribution load
+management program to support local distribution system capacity. The exact
+compensation structure for this could be structured with different options: one that
+provides a relatively high degree of predictable savings/revenue opportunities for
+customers (e.g., fixed monthly compensation) and one that provides relatively less
+predictability but greater volatility for customers (e.g., event-based performance).
+This approach could reduce complexity for utilities as circuit-specific scarcity
+pricing curves do not need to be developed and communicated to customers.
+Instead, third-party aggregators can enroll EV charging customers in the utility
+distribution programs and integrate with the utility’s operations to respond to real-
+time distribution conditions. Notably, this type of programmatic approach is likely
+required for other distribution level grid services, as detailed below. One key
+customer benefit of this programmatic approach is the ability to open enrollment
+10
+
+and participation up to a range of capable end-use devices, including both
+networked EV chargers and connected EVs.
+v. Programmatic Distribution Grid Services Optimization. While either a rate
+component (i.e., i-iii above) or programmatic approach (i.e., iv above) can support
+load reduction and energy export value streams, VGIC is unaware of examples or
+proposals for distribution-level rate components that can promote voltage support,
+frequency regulation, or other distribution level value streams. These grid support
+functions can support the fast-evolving grid, especially on circuits with a
+relatively high penetration of bidirectional energy flow and intermittent
+generation and load. From a customer perspective, program offerings that can
+unlock these grid services can bolster the value proposition of dynamic EV
+charging or exports and exceed the effective “price ceiling” represented by the
+ACC, which does not include these distribution-level values. This programmatic
+approach can also fulfill the vision of California’s smart inverter requirements and
+provide compensation for inverter-based integration with utility DER
+Management System (“DERMS”) platforms.
+Ultimately, whether the Commission adopts circuit-specific methodologies like ED staff’s
+proposal, SCE RATES TeMix Pilot, or SDG&E’s Power Your Drive VGI Rate, clustering
+methodologies like PG&E’s V2X Pilot Rate proposal or NY VDER’s LSRV, system-wide
+distribution components like NBT/ ACC or NY VDER’s DRV, or a programmatic approach to
+distribution optimization as detailed above by VGIC, we strongly urge the Commission to
+adopt some meaningful mechanism for customers to optimize EV charging and export in
+response to distribution system conditions. California has over 1.5 million EVs, including
+11
+
+many light-duty EVs (“LDV”) that co-exist on circuits in areas with uniquely high EV
+concentrations. Meanwhile, utilities can expect to see significant medium- and heavy-duty EVs
+(“MHDV”) charging facilities deployed near one another, e.g., in industrial zones and along
+shipping corridors, where the challenges of distribution system management may quickly eclipse
+other utility priorities. Taken together, these factors paint a clear and daunting picture that can be
+meaningfully addressed through the Commission promoting dynamic EV distribution
+management. Whether this is done through the rate component examples noted above and in the
+Working Group 1 Proposals, VGIC’s proposed programmatic approaches, or a combination of
+rate and nonrate programs, it is critical that this next step be taken.
+VGIC recommends the Commission direct IOUs to implement these approaches sooner
+rather than later to support VGI. If the Commission chooses to adopt a relatively complex
+methodology, e.g., ED's staff’s circuit-specific approach, and IOUs expect this complexity to
+delay implementation, then there should be an interim approach adopted. For example, the IOUs
+can leverage the already-developed PG&E circuit clustering methodology, the already-
+implemented SDG&E PYD VGI Rate D-CPP methodology, or a new but straightforward
+programmatic approach while they develop long-term implementation plans for circuit-specific
+pricing.
+It is important to recognize that VGI solutions, unlike many other DERs, do not benefit
+from any existing market transition support paradigm that encourages the deployment of grid-
+friendly technology. For example, bidirectional charging equipment is not eligible to receive
+SGIP incentives, and networked charging equipment is not eligible to receive smart thermostat
+technology rebates. As a result, the need to adopt meaningful, customer-friendly strategies to
+unlock distribution value should be viewed as a high-priority goal within the Commission’s
+12
+
+upcoming dynamic rate guidance not only to support the grid but also to support the relatively
+nascent VGI market, as envisioned by SB 676 and the VGI Strategies Implementation (D. 20-12-
+029).
+D. Dynamic Transmission Component.
+VGIC supports ED staff’s proposal to include a transmission component as part of the
+demand flexibility rates. As with the distribution and generation components, transmission
+components should also apply to imports and exports to ensure the value from EV customers and
+fleet participation is fully captured.
+E. Dual Participation.
+As indicated in Section II.C above related to distribution value, VGIC considers both
+dynamic rates and nonrate programs referenced in Section II.C.iv-v important levers to
+unleashing EV load flexibility to offset distribution upgrade costs. As demonstrated by the 2020
+VGI Working Group Final Report, there are thousands of VGI use cases, which means a one-
+size-fits-all approach to recruiting and maintaining customer engagement is unlikely to be
+feasible. On the grid operator and utility side, it is clear resource diversity will be needed to
+usher in California’s ambitious clean energy goals. VGIC believes this concept of portfolio
+diversity extends to demand-side reduction/export strategies as well as bulk system generation
+resources. As such, advanced demand flexibility requires a multi-prong approach.
+California’s existing dual participation rules, stemming from the bifurcation of supply-
+side demand response (“DR”) and load modifying approaches, prohibit this diverse portfolio in
+order to guard against double counting and double compensation of resources. While this
+paradigm was appropriate at the time, California has since established programs that exist
+13
+
+outside of both categories, for example, the Emergency Load Reduction Program (“ELRP”),7
+which necessitates updated Commission direction.
+ELRP customers are compensated for reducing energy consumption or increasing
+electricity supply during electrical grid emergencies. However, while ELRP provides critical
+load reduction or capacity during grid emergency events, these events are limited in nature and
+only provide opportunities for customers to respond to these events during system peaks between
+May through October. In stark contrast, the dynamic prices considered in this DFOIR aim to
+promote year-round, 24/7 load and export optimization, including distribution-level benefits.
+In the Emergency Reliability Phase 2 Decision (D.21-12-015), the Commission
+established ELRP Customer Group A.5: EV/VGI Aggregations and authorized dual participation
+between Customer Group A.5 and dynamic or real-time equivalent rate designs. However,
+authorized dynamic rate pilots (PG&E Commercial EV Day-Ahead Hourly Real-Time Pricing,
+or “DAHRTP”, SCE RATES TeMix, and SDG&E’s Export Compensation Pilot) do not permit
+dual participation with ELRP. Only one proposed pilot rate design – PG&E’s V2X Pilots –
+would enable dual participation with ELRP, as required by Commission Resolution E-5192.8
+VGIC believes the Commission appropriately authorized dual participation between ELRP, an
+emergency demand response program existing outside of the existing DR paradigm, and
+dynamic rates in D.21-12-015. The Commission correctly implemented this provision in E-5192
+for PG&E’s V2X Pilots. As confirmed through these Commission directives, dynamic pricing
+should be able to work together with nonrate programs to maximize VGI.
+7 See CPUC Emergency Load Reduction Program. https://www.cpuc.ca.gov/industries-and-
+topics/electrical-energy/electric-costs/demand-response-dr/emergency-load-reduction-program. Accessed
+November 3, 2023.
+8 CPUC Resolution E-5192. May 5, 2022. Pg. 20, 22, 23, 32, and 38.
+14
+
+As such, VGIC strongly recommends the Commission include in its dynamic rate
+guidance a directive for IOUs to enable dual participation between dynamic rates and appropriate
+nonrate programs, including, at a minimum, ELRP. VGIC believes prohibiting dual participation
+sends the wrong signal to customers, making them choose between two strategies that achieve
+different goals. VGIC recommends the Commission avoid pitting these two effective demand-
+side management strategies against one another rather than allowing them to work together.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit these opening comments on the Track B
+Working Group Report. We look forward to further collaboration with the Commission and
+stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: November 13, 2023
+15

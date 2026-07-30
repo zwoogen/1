@@ -1,0 +1,272 @@
+June 5, 2023
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 23-E-0070: Proceeding on Motion of the Commission to Address Barriers to
+Medium- and Heavy-Duty Electric Vehicle Charging Infrastructure
+Joint Comments of the Vehicle-Grid Integration Council (VGIC)
+and New York Battery and Energy Storage Technology Consortium (NY-BEST)
+on Medium- and Heavy-Duty Electric Vehicle Charging Infrastructure
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from EV
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, bp pulse,
+Customized Energy Solutions, dcbel, Enel X North America, Inc., Enphase, Fermata Energy, FlexCharging, FLO
+EV Charging, Ford Motor Company, FreeWire Technologies, Inc., General Motors, GridWiz, Hoosier Energy,
+Innovation Core SEI, IoTecha, Kaluza, Kitu Systems, Ninedot Energy, Nissan Group of North America, Nuvve
+Holding Corporation, Peak Power, Qcells, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, The
+Mobility House, Toyota Motor North America, Inc., Utilidata, Veloce Energy, Inc., Wallbox USA Inc., and
+WeaveGrid. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of
+all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+deployments and flexible EV charging and discharging is recognized and compensated to
+achieve a more reliable, affordable, and efficient electric grid.
+The New York Battery and Energy Storage Technology Consortium (NY-BEST) is a not-
+for-profit industry trade association with a mission to grow the energy storage industry in New
+York. We act as a voice of the energy storage industry for more than 180 member organizations
+on matters related to advanced batteries and energy storage technologies. NY-BEST has
+expanded its work into the transportation electrification space as we see the significant
+opportunity to integrate electric vehicles (EV) onto the grid through dynamic vehicle grid
+integration strategies. EVs will soon represent a large storage resource on New York’s grid and,
+when connected to bi-directional chargers, can support the integration of wind and solar
+necessary to decarbonize the electricity sector and help meet the State’s aggressive goals for
+GHG reductions. Our membership includes global corporations, start-ups, project developers,
+leading research institutions and universities, and numerous companies involved in the electricity
+and transportation sectors.2
+VGIC and NY-BEST appreciate the opportunity to respond to the Commission’s
+questions in the Order Instituting Proceeding and Soliciting Comments. Our comments will
+mainly address the Commission’s questions 11 and 12, which are focused on VGI and energy
+storage issues, as well as discuss the intersection between VGI and the overarching themes of
+future-proofing and proactive planning.
+NY-BEST and VGIC estimate that the electrification of transportation described in the
+New York Climate Action Council Scoping Plan will result in more than 600 GWh of energy
+storage capacity in New York State’s vehicle population by 2050.3 Without proper and proactive
+2 NY-BEST comments represent the interests of the organization as a whole and not the views of any one particular
+member. Our members have diverse interests and the organization’s views are intended to be reflective of the energy
+storage industry collectively and to support the organization’s goals to grow the energy storage industry in New
+York.
+3 Most of the scenarios analyzed have nearly full conversion of the vehicle fleet to electric. Using the CAC scoping
+plan input data of vehicle population of 9,519,878 light-duty and 176,774 medium- and heavy-duty vehicles and
+2
+
+utility planning processes, the EV market will face hurdles that will inhibit adoption of these
+technologies, and further, timely achievement of the State’s Climate Leadership and Community
+Protection Act goals. The potential impacts are even more severe for medium- and heavy-duty
+(MHD) EVs due to the normally increased size of the individual load and the potential
+concentration of charging infrastructure to efficiently serve fleets and long-haul transport. Proper
+planning and managed charging will manage load to mitigate stress on the grid, make the most of
+limited grid capacity, and avoid or defer the need for significant transmission and distribution
+system upgrades and infrastructure investments with less impact to ratepayers than scenarios
+without managed charging. The benefits of managed charging for New York have been modeled
+and documented in several recent studies.4
+The immense storage capacity onboard the batteries powering these vehicles presents an
+opportunity to provide critical grid functions to support a decarbonized electricity system. The
+flexibility of these resources, through managed charging, automated load management (ALM),
+and bidirectional charging can be leveraged to reduce renewable curtailment, provide power
+when renewable generation is insufficient, address the challenges being raised in the new
+Commission Order initiating a process regarding zero emissions target,5 and provide many other
+grid services. Furthermore, incorporating stationary energy storage in combination with these
+assets provides additional optimization and efficiency benefits. A cost-effective transition to
+renewable energy requires that the energy storage capacity of fleet vehicles, along with
+stationary storage, are effectively integrated into the electricity system. This integration will
+contain costs by optimizing grid investments and providing critical grid services as well as—
+assuming a battery size of 75kWh and 150kWh, respectively, results in a storage capacity of 741 GWh for full
+electrification.
+4 See NYSERDA. Transportation Electrification Distribution System Impact Study. 2022.
+https://www.nyserda.ny.gov/-/media/Project/Nyserda/Files/Publications/Research/Transportation/22-13-
+Transportation-Electricification-Distribution-System-Impact-Study.pdf.
+See also Synapse. Distribution System Investments to Enable Medium- and Heavy-Duty Vehicle Electrification: A
+Case Study of New York. 2023. https://www.synapse-
+energy.com/sites/default/files/Synapse%20MHDV%20Integration%20Costs%20Final%20Report.pdf
+55 See Case 15-E-0302.
+3
+
+particularly important for MHD fleets—providing additional value streams to enable the
+conversion to electrification and, in turn, accelerate the transition to electrified transportation.
+Question 11: Discuss how battery energy storage systems and other DERs can be
+implemented in both short-term and long-term planning for EV charging needs across
+vehicle classes. Is VGI technology at a sufficient level of maturity to impact short-term
+planning considerations? If so, describe how; if not, describe why not.
+a. Automated Load Management
+Automated Load Management (ALM), also known as EV Energy Management Systems
+(EMS), refers to the use of behind-the-meter software (e.g., power sharing) or hardware (e.g.,
+integrated or co-located battery storage) approaches to limit EV charging demand at the service
+connection to a predetermined level below the aggregated charging capacity of the EV Supply
+Equipment (EVSE). For example, a charging site with five 150 kW DCFCs can use ALM to
+limit its peak demand to 600 kW, compared to a peak demand of 750 kW without ALM. This
+can help avoid or defer the need to upgrade certain customer-side and utility-side make-ready
+infrastructure to accommodate the new charging load. The reduced need for infrastructure
+upgrades can generate savings for the customer installing EVSE and ratepayers at large and can
+accelerate the energization timeline for that site due to the lower overall engineering and
+construction needs. The potential cost and time savings from ALM can be considerable given the
+significant infrastructure needs of MHD EVs. Additionally, ALM can be used to overcome
+physical space constraints in locations where it is difficult to upgrade electrical equipment, also
+helping to accelerate installation and energization timelines. As examples of potential cost
+savings, Pacific Gas & Electric has worked with EV service providers to implement EV EMS
+solutions at multi-unit dwellings and workplace host sites as of Q4 2020 and saved between
+$30,000 and $200,000 per project.6 Southern California Edison also implemented EV EMS to
+6 Pacific Gas & Electric. Presentation at CPUC ALM/EV EMS Workshop, Panel 2. 2021.
+4
+
+deploy 168 charging stations at $3,000 per port, significantly less than comparable deployments
+at $10,000-$15,000 per port without EV EMS.7
+As one ALM approach, energy storage resources can be deployed with EVSE to provide
+numerous benefits. As discussed above, energy storage, either co-located at the site or integrated
+into EVSE, can reduce the peak load of the site, which both reduces the need for infrastructure
+investment and opens more sites to be available for EVSE installations. Further, energy storage
+can reduce operating cost and grid stress, particularly for lower-utilization sites or sites with high
+co-incident usage, by shifting load timing and reducing ramp rates. Co-located storage can also
+enhance reliability by providing emergency backup power for critical charging needs, by
+providing routine grid support services, and by creating additional revenue streams to accelerate
+the adoption of electrification.
+ALM technologies, including those that incorporate energy storage, are mature and
+already being deployed today and therefore should be considered in all near-term activities
+related to MHD electrification. The Make-Ready Program Midpoint Review Staff Whitepaper in
+Docket 18-E-0138 recognized the benefits of ALM and proposed to extend make-ready
+incentives to these technologies.8 Staff’s recommendation was widely supported by stakeholders,
+including VGIC.9 The Commission also recently directed the Joint Utilities to propose additional
+incentives for ALM technologies in Docket 22-E-0236. Given the significant infrastructure needs
+of MHD EVs, it would be a rational step to also provide ALM incentives to MHD charging sites.
+Any analysis or evaluation of future infrastructure needs for EVs should include an
+assessment of opportunities for ALM. While we support proactive planning and investment in
+grid infrastructure to achieve the pace and scale of charging infrastructure deployment needed to
+achieve NY’s transportation electrification goals, it is critical that ALM be rigorously evaluated
+relative to traditional infrastructure investments to minimize ratepayer impacts. Utilities should
+7 EPIC Policy + Innovation Coordination Group. Transportation Electrification Workstream Report. 2021.
+https://epicpartnership.org/resources/Transportation_Electrification_Workstream_Report_Final.pdf.
+8 Staff refers to the same suite of technologies as “cost-reducing advanced technologies.”
+9 See VGIC’s reply comments, pg. 2. Docket 18-E-0138.
+5
+
+engage in a transparent process to demonstrate that proactive investments are prudent and abide
+by least-cost planning principles.
+b. Vehicle-to-everything (V2X)
+Bidirectional charging use cases can leverage EVs’ latent battery capacity to provide
+backup power to customers, manage customer bills, and support the grid through vehicle-to-grid
+(V2G) exports. Revenues from V2G exports may even be more important for some MHD EVs
+than light-duty EVs, helping offset the relatively higher upfront costs of MHD electric vehicles
+and associated charging infrastructure and improving the financial viability of electrification
+projects. Bidirectional vehicles and EVSE are commercially available for the MHD sector,10 and
+several V2G projects currently participate in and receive compensation from utility programs
+around the country, such as Massachusetts’ ConnectedSolutions Daily Dispatch program and
+California’s Emergency Load Reduction Program.11 The Make-Ready Program Midpoint
+Review Staff Whitepaper also recently recommended that the Joint Utilities update their VDER
+tariffs to specify eligibility for V2X applications.
+At a minimum, bidirectional charging equipment should be eligible for the same BTM
+make-ready and charger rebates as unidirectional equipment. However, given the immense
+10 See, for example: Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial Application of
+Vehicle-to-Grid Technology in Electric School Bus Partnership with Nuvve and Illinois School Districts. March 23,
+2021. https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/; Thomas Built Buses /
+Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School
+Bus. https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley; Lion Electric. Lion Electric Announces
+Successful Electric School Bus Vehicle-to-Grid Deployment with Con Edison in New York. December 14,
+2020. https://thelionelectric.com/img/medias/LION_Press_Release_White%20Plains%20EN%20FINAL.pdf; Nuvve
+Corporation (2020). Nuvve DC Heavy Duty Charging Station Specifications
+Sheet. https://nuvve.com/wpcontent/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf; Fermata Energy.
+Proven Results and Cost Savings with V2G Technology. October 14, 2020. https://www.fermataenergy.com/news-
+press/proven-results-andcost-savings-with-v2g-technology; Rhombus Energy Solutions. V2G Charging, Control,
+and Management 50- 500kW: Bidirectional. https://rhombusenergysolutions.com/products.
+11 See, for example, SDG&E Unveils Region’s First V2G Project https://www.sdgenews.com/article/sdge-unveils-
+regions-first-v2g-project ; Highland Electric Fleets Coordinates Electric School Buses’ Summer Job – Supporting
+Local Grid with Vehicle-to-Grid Technology https://www.prnewswire.com/news-releases/highland-electric-fleets-
+coordinates-electric-school-buses-summer-job--supporting-local-grid-with-vehicle-to-grid-technology-
+301611928.html
+6
+
+potential of V2X to support customer needs, bolster grid reliability, and lower system costs – and
+the higher cost of V2X-capable equipment relative to unidirectional-only equipment – VGIC and
+NY-BEST believe it is reasonable to offer an incremental rebate to V2X customers to partially
+offset the higher upfront costs of purchasing and interconnecting V2X EVSE and the associated
+equipment. Based on our discussions with industry participants, there is an approximately 30%
+cost premium for a bidirectional DCFC compared to a unidirectional DCFC. VGIC and NY-
+BEST believe an incremental V2X rebate is critical to spurring the nascent bidirectional charging
+market in New York. We offer ourselves as a resource and hope to collaborate closely with
+stakeholders to determine the appropriate incentive level for bidirectional charging equipment.
+In addition, while V2X solutions have demonstrated clear benefits to both customers and
+the grid, the technology is new and unfamiliar to most customers. To overcome this gap, VGIC
+and NY-BEST recommend that the utilities’ marketing, education, and outreach and technical
+assistance teams work to educate customers on the benefits of V2X use cases, capable chargers,
+vehicles and associated equipment, appropriate interconnection pathways, applicable rates and
+programs, and any technical considerations, including opportunities to co-locate and integrate
+other types of distributed energy resources. Given the potential complexity of interconnecting
+large V2X sites, the utilities’ technical assistance teams should – in a technology-neutral manner
+– actively support individual customers and fleets through the design and interconnection process
+and ensure a streamlined customer experience.
+The Make-Ready Program Midpoint Review Staff Whitepaper also recommended
+addressing interconnection and other barriers to VGI through a stakeholder process. As discussed
+in VGIC’s reply comments in that proceeding, interconnection issues should be addressed by the
+Interconnection Technical Working Group for both the light-duty and MHD sectors. However,
+the Commission should adopt a UL 1741 SB waiver for V2G DC EVSE. As discussed in VGIC
+and NY-BEST’s recent comments in Docket 18-E-0138, the Joint Utilities began requiring
+interconnecting DERs to be certified to UL 1741 SB on January 1, 2023. Since there is limited
+availability of V2G-capable DC EVSE currently on the market, this requirement effectively
+7
+
+freezes the deployment of V2G-capable DC EVSE until SB-certified DC EVSE are more widely
+available. The new V2G Equipment List recently launched by the California Energy
+Commission serves as a common public database of UL-certified V2G-capable DC EVSE, and
+currently lists three chargers, none of which are certified to UL 1741 SB.12 In order to ensure
+V2G DC EVSE continues to be deployed in the near term, VGIC recommends that the
+Commission consider a temporary exemption for V2G DC EVSE from the UL 1741 SB
+requirement. This would provide critical support to V2G DC EVSE deployment efforts in New
+York and would align well with recent developments in other leading V2G efforts. For example,
+in recognition that availability of UL 1741 SB-certified inverters is extremely limited, the
+California Public Utilities Commission (CPUC) recently pushed back the implementation of UL
+1741 SB to August 29, 2023.
+Question 12: How can managed charging programs reduce upfront infrastructure needs?
+Unlike the ALM approaches discussed above, managed charging programs do not
+directly reduce the upfront infrastructure needs of EV charging equipment itself, but instead help
+mitigate grid system upgrades and the ongoing costs and impacts of EV charging on the grid.
+Managed charging programs can encourage EV owners to shift their charging load to off-peak
+periods and/or limit charging load during periods with high grid stress, thereby avoiding high
+energy costs during peak periods as well as reducing the need to build out distribution and
+transmission infrastructure to accommodate higher peak loads. When incentivized to take such
+actions, MHD EVs can have outsized impacts due to their large battery capacity and potential for
+coordinated response as part of fleets. From the fleet owner’s perspective, managed charging
+also provides an opportunity to lower charging costs, making the economics of electrification
+more favorable.
+12 California Energy Commission. V2G Equipment List. https://v2gel.energy.ca.gov/Home/ProcessView
+8
+
+However, managed charging programs can indirectly help reduce upfront costs by
+encouraging the adoption and use of the ALM approaches discussed above. ALM technologies
+can both help limit upfront infrastructure costs and allow EV charging sites to participate in
+managed charging. For example, co-located or integrated battery storage can limit site utility
+service demand to avoid or reduce upfront infrastructure upgrades and also enable load shifting
+by charging during off-peak periods and serving EV charging load during on-peak periods.
+Similarly, power-sharing software and other EV charge management solutions can maintain EV
+charging peak demand set-points as well as optimize ongoing energy costs with automated
+actions. Managed charging and ALM incentives should consider the various benefits that these
+technologies can deliver to customers and the grid at large.
+The Commission recognized the benefits of managed charging for MHD EVs when it
+directed the Joint Utilities to file Commercial Managed Charging Programs in Docket 22-E-
+0236. VGIC and NY-BEST look forward to engaging in that docket on the specific designs of
+the proposed programs. Additionally, as discussed in VGIC’s reply comments in Docket 18-E-
+0138, the Commission should direct the VGI Working Group to, among other tasks, explore
+steps to incorporate managed charging and VGI into the Joint Utilities’ demand response
+programs.
+Conclusion
+VGIC and NY-BEST appreciate the opportunity to provide these comments and look
+forward to working with the Commission, the joint utilities, and other stakeholders to ensure the
+success of New York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+9
+
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+William P. Acker
+Executive Director
+New York Battery and Energy Storage Technology Consortium (NY-BEST)
+230 Washington Avenue Ext., Suite 101, Albany NY 12203
+(518) 694-8474
+www.ny-best.org
+10

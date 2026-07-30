@@ -1,0 +1,163 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF THE VEHICLE GRID INTEGRATION
+COUNCIL ON THE PROPOSED DECISION ADOPTING PLUG-IN
+ELECTRIC VEHICLE SUBMETERING PROTOCOL AND ELECTRIC
+VEHICLE SUPPLY EQUIPMENT COMMUNICATION PROTOCOLS
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+VEHICLE GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, CA 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+July 25, 2022
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF THE VEHICLE GRID INTEGRATION
+COUNCIL ON THE PROPOSED DECISION ADOPTING PLUG-IN
+ELECTRIC VEHICLE SUBMETERING PROTOCOL AND ELECTRIC
+VEHICLE SUPPLY EQUIPMENT COMMUNICATION PROTOCOLS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Proposed Decision Adopting Plug-In Electric Vehicle Submetering
+Protocol and Electric Vehicle Supply Equipment Communication Protocols (“PD”), issued on June
+30, 2022.
+I. UTILITIES SHOULD FILE A TIER 2 ADVICE LETTER CONTAINING
+IMPLEMENTATION PLANS THAT MEANINGFULLY SUPPORT THE
+DEVELOPMENT OF STANDARDIZED DATA FORMATS.
+In opening comments, each of the three major investor-owned utilities (“IOU”) requested the
+Commission direct them to file a Tier 2 Advice Letter detailing submetering implementation
+plans.1 While VGIC does not oppose this recommendation, we emphasize that the Commission
+should require specific elements be in the IOU implantation plans to ensure the Advice Letters
+result in meaningful action to implement submetering and do not lead to unnecessary delays.
+In opening comments, ChargePoint and Enel X, Environmental Defense Fund, each of the three
+major IOUs, and VGIC highlighted that a standardized data format will need to be developed.2
+1 Opening Comments of PG&E at 2; SCE at 2; SDG&E at 2; and CASMU at 8.
+2 Opening Comments of VGIC at 9; ChargePoint and Enel X at 6; Environmental Defense Fund at 3; PG&E at 2;
+SCE at 2; SDG&E at 2; and CASMU at 8.
+1
+
+Additionally, ChargePoint and Enel X shared VGIC’s recommendation to update each applicable
+rate tariff sheet to enable submetering.3 With this in mind, the IOUs’ Tier 2 Advice Letter
+containing implementation plans should, at a minimum, request approval for the following: (1)
+electric rule updates per Section 3 and OP 2; (2) electric rate tariff sheet updates per opening
+comments from ChargePoint, Enel X, and VGIC4; (3) processes for onboarding EV service
+providers (“EVSP”), not including the standardized data format; and (4) a stakeholder working
+group led by the IOUs to develop a standard data format, as highlighted by several parties in
+opening comments.5 The working group should develop a standard data format within 120 days,
+at which point the IOUs should file an Advice Letter seeking approval for the standardized data
+format. The IOUs should begin accepting submetering 30 days after the effective date of the
+Advice Letter containing the working group-developed standard data format. As detailed in the
+PD, billing system upgrades should not preclude customers from using submetering. VGIC
+believes the development of a standardized data format is needed to facilitate manual reconciliation
+in the interim until billing system upgrades are completed.
+II. VGIC DISAGREES THAT ADDITIONAL ACCURACY TESTING AND FAILURE
+OF COMPLIANCE PROCEDURES ARE NEEDED.
+In opening comments, SCE and SDG&E recommend conducting a one-year accuracy test.6
+Meanwhile, the EV Submetering Protocol (“EVSMP”) detailed in Attachment A to the PD
+includes provisions related to field testing that is based on the comprehensive record developed
+over the past decade.7 VGIC, therefore, disagrees with SCE and SDG&E’s recommendation for a
+3 Opening Comments of VGIC at 7; ChargePoint and Enel X at 11.
+4 Opening Comments of VGIC at 7; ChargePoint and Enel X at 11.
+5 Opening Comments of VGIC at 9; ChargePoint and Enel X at 6; Environmental Defense Fund at 3; PG&E at 2;
+SCE at 2; SDG&E at 2; and CASMU at 8.
+6 Opening Comments of SCE at 4; SDG&E at 4.
+7 PD Attachment A at 16.
+2
+
+one-year field test in addition to the requirements laid out in the EVSMP. Additionally, SDG&E
+requests authority to, “disqualify MDMAs with poor data quality that result in customers being
+regularly billed on the primary meter.”8 VGIC notes that “Failure of Compliance” is sufficiently
+addressed in the EVSMP and recommends against imposing additional terms not in the EVSMP.9
+III. THE SUBMETERING PROTOCOL SHOULD APPLY TO DCFC AND
+EXTERNAL SUBMETERS.
+In opening comments, Enel X and ChargePoint recommend the submetering protocol apply to
+DCFC sites.10 VGIC agrees with these parties and adds that this can facilitate customer adoption
+of Automated Load Management (“ALM”) solutions that use integrated or co-located stationary
+energy storage to defer or avoid infrastructure costs for DCFC site hosts.11 Notably, ALM was
+prioritized as a Commission-adopted VGI strategy pursuant to SB 676 in D.20-12-029.12
+Additionally, EVgo’s opening comments recommend that the submetering protocol apply equally
+to non-utility-owned external submeters and non-utility-owned submeters embedded in the
+EVSE.13 VGIC supports this recommendation and is not aware of any technical or implementation
+barrier to allowing submetering for both types of devices.
+IV. VGIC AGREES WITH THE ALLIANCE FOR AUTOMOTIVE INNOVATION
+THAT NEXT STEPS TO ENABLE TELEMATICS ARE NEEDED.
+In opening comments, Alliance for Automotive Innovation notes that EV-based submetering was
+considered as early as 2011 as a form of submetering but has since been “put on the back burner.”14
+VGIC agrees that the pending CARB Advanced Clean Cars II regulation, utility interest in
+telematics, and current technology collectively indicate that stakeholder work is now needed to
+8 Opening Comments of SDG&E at 4.
+9 PD Attachment A at 17.
+10 Opening Comments of ChargePoint and Enel X at 4.
+11 See, for example, solutions offered by FreeWire Technologies and Veloce Energy.
+12 D.20-12-029 OP 5 at 79.
+13 Opening Comments of EVgo at 4.
+14 Opening Comments of Alliance for Automotive Innovation at 3.
+3
+
+advance telematics for the benefit of all EV drivers, fleet owners, and ratepayers at large. VGIC
+agrees with Alliance for Automotive Innovation’s recommendation for a workplan to unlock
+telematics in California’s EV rates and programs.
+V. VGIC AGREES WITH PARTIES SEEKING CLARITY THAT THE EVSE
+COMMUNICATION REQUIREMENTS APPLY ONLY TO TRANSPORTATION
+ELECTRIFICATION INFRASTRUCTURE PROGRAMS.
+In opening comments, all three IOUs request the Commission clarify that the proposed EVSE
+requirements apply only to TE infrastructure programs, rather than all ratepayer-funded and utility-
+administered programs including the IOUs’ EV Infrastructure Rules.15 This echoes VGIC’s
+opening comments, which state that the EVSE requirements shall not apply to VGI pilots or
+programs, DR pilots or programs, and EV-specific rates, including SDG&E’s PYD VGI Rate,
+PG&E’s Approved V2X Pilots, SCE’s pending Large-Scale V1G Pilot, PG&E’s LCFS Resilient
+Charging Pilot, SDG&E’s pending EV DR Pilot, PG&E’s pending DAHRTP Non-NEM Export
+Compensation Pilot, SCE’s EPIC V2G Pilot, SDG&E’s MHDV V2G Pilot, PG&E’s pending RTP
+pilot, and ELRP Customer Group A.5.
+VI. CERTAIN EXEMPTIONS TO EVSE COMMUNICATION PROTOCOLS
+REQUIREMENTS ARE NECESSARY TO AVOID NULLIFYING COMMISSION
+EFFORTS TO ADVANCE BIDIRECTIONAL CHARGING.
+In opening comments, VGIC and Fermata highlight that the proposed EVSE communication
+protocols would carry the unintended consequence of obstructing ongoing and upcoming
+Commission-ordered bidirectional charging pilots that rely on standards other than those required
+under the PD.16 As noted above in Section V, VGIC believes it is inappropriate to subject all
+ratepayer-funded and utility-administered EVSE to the new EVSE communication protocol
+15 Opening Comments of PG&E at 6; SCE at 6; SDG&E at 8.
+16 Opening Comments of Fermata at 4; VGIC at 10.
+4
+
+requirements. Specifically, bidirectional chargers should be exempt from all EVSE requirements
+detailed in Ordering Paragraph 6 until the bidirectional charging market is more developed.
+Additionally, bidirectional chargers are placed at a disadvantage in IOUs’ TE programs. Since
+existing “make-ready” incentives are available only for separately-metered EVSE, many
+promising bidirectional use cases that rely on co-mingled EVSE and site load, such as V2B backup
+power and V2B customer bill management, are effectively shut out of TE programs and cannot
+take advantage of make-ready incentives. In its opening comments, Fermata Energy captures how
+this places bidirectional chargers at a disadvantage relative to unidirectional chargers.17
+Meanwhile, bidirectional chargers, a type of behind-the-meter energy storage, are not eligible for
+Self-Generation Incentive Program (“SGIP”) funding meant to support behind-the-meter energy
+storage. Representing both a type of EVSE and energy storage, bidirectional chargers are
+effectively shut out of utility programs that are meant to support EVSE and energy storage.
+Considering the many benefits of bidirectional charging highlighted in opening comments, VGIC
+supports Fermata’s recommendation that the Commission undertake a focused effort either in this
+rulemaking or another proceeding to address barriers specific to bidirectional charging.18
+VII. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the Proposed Decision. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE GRID INTEGRATION COUNCIL
+July 25, 2022
+17 Opening Comments of Fermata at 9.
+18 Opening Comments of Fermata at 9.
+5

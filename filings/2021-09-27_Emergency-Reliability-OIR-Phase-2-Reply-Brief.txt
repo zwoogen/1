@@ -1,0 +1,118 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+REPLY BRIEF OF THE VEHICLE GRID INTEGRATION COUNCIL
+Ed Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+September 27, 2021
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+REPLY BRIEF OF THE VEHICLE GRID INTEGRATION COUNCIL
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (“VGIC”) hereby submits this
+reply brief pursuant to the Assigned Commissioner’s Scoping Memo and Ruling (“Scoping
+Memo”), issued by Assigned Commissioner and President Marybel Batjer on August 10, 2021.
+VGIC also timely served opening and reply testimony on September 1 and 10, respectively, in the
+request for party proposals.
+I. SCE’S CONTRIBUTIONS TO THE RECORD REGARDING THE EV/VGI
+AGGREGATION PILOT ARE BASED ON A MISINTERPRETATION OF THE
+PROPOSED PILOT AND SHOULD BE DISMISSED.
+In Opening Testimony, several parties including VGIC, ev.energy, PG&E, Joint DR
+Parties, and California Energy Storage Alliance expressed support for the staff concept EV/VGI
+Aggregation Pilot.1 As detailed in the staff concept paper, the EV/VGI Aggregation Pilot would
+establish a pathway within the Emergency Load Reduction Program (“ELRP”) for EV/VGI
+1 Pacific Gas and Electric Company Emergency Reliability Order Instituting Rulemaking Errata Testimony
+at 7-4; Prepared Direct Testimony of the California Solar & Storage Association at 3; Opening Testimony
+of Ed Burgess on Behalf of the Vehicle Grid Integration Council at 3; Opening Phase II Prepared Testimony
+of Joseph Vellone on Behalf of EV.Energy Corp at 7; Phase 2 Opening Prepared Testimony of Joint DR
+Parties at 4.
+1
+
+aggregators to support the grid. The staff concept clearly states that an EV/VGI aggregation is a
+“network of V1G or bi-directionally capable charging stations” 2 (emphasis added). The above-
+listed parties that indicated support for the pilot also recommended detailed modifications to
+maximize load reduction from the EV/VGI Aggregation Pilot, some of which VGIC support.3 Each
+party clearly understood the proposed pilot concept and the definition of a VGI/EV aggregation,
+and VGIC urges the Commission to consider the pilot design modifications included in VGIC’s
+testimony and reply testimony.4
+Meanwhile, SCE’s contributions to the record with respect to the EV/VGI Aggregation
+Pilot have focused solely on the concept of V2G configurations.5 While VGIC supports the
+inclusion of bidirectional resources in the pilot, it seems clear to all parties – other than SCE – that
+the pilot’s intent is to unlock EV/VGI aggregations. In reply testimony, VGIC flagged this
+inconsistency, stating “SCE’s testimony may be based on a misinterpretation of the staff concept,
+and consideration of SCE’s opposition may distract from the critical opportunity to leverage EVs
+for reliability through this pilot.”6
+In opening briefs, SCE reiterated its concerns about V2G program design, but again failed
+to address the EV/VGI Aggregation Pilot concept as it was proposed in the staff concept paper.7
+VGIC appreciates SCE’s willingness to engage on issues related to V2G generally, and we look
+2 Brian Stevens. Email Ruling Issuing Commission Developed Staff Concepts Proposal Document and
+Seeking Comment in Opening Testimony Due September 1, 2021. Rulemaking 20-11-003. August 16,
+2021. Page 10.
+3 Reply Testimony of Ed Burgess on Behalf of the Vehicle Grid Integration Council at 7.
+4 See Opening Testimony of Ed Burgess on Behalf of the Vehicle Grid Integration Council at 3 and Reply
+Testimony of Ed Burgess on Behalf of the Vehicle Grid Integration Council at 7.
+5 Direct Testimony of Southern California Edison Company – Phase 2 at 68; Southern California Edison
+Company’s Opening Brief at 41.
+6 Reply Testimony of Ed Burgess on Behalf of the Vehicle Grid Integration Council at 2.
+7 Southern California Edison Company’s Opening Brief at 41.
+2
+
+forward to collaborating with SCE to address these concerns through the appropriate proceedings
+and policy forums. However, SCE’s contributions to the record on the EV/VGI Aggregation Pilot
+are unnecessarily complicating what is otherwise a no-regrets strategy to unlock additional load
+reduction for summer 2022 and 2023. VGIC strongly recommends the Commission dismiss SCE’s
+obfuscating opening testimony, reply testimony, and opening brief sections regarding the EV/VGI
+Aggregation Pilot.
+II. PG&E’S CONTRIBUTIONS TO THE RECORD REGARDING THE 30 HOUR
+DISPATCH STRUCTURE SHOULD BE DISMISSED.
+In opening testimony, PG&E states that it does not support the 30 hour per season dispatch
+carveout for VGI resources included in the staff concept EV/VGI Aggregation Pilot.8 PG&E states
+that “mandating IOUs to force dispatch for at least 30 hours without an emergency does not seem
+to align with how and why ELRP was developed.”9 In reply testimony, VGIC provides a
+considerable amount of reasoning behind why the 30-hour minimum dispatch structure is
+appropriate and prudent to support market transformation.10 The 30-hour minimum dispatch
+structure (1) provides a more consistent and predictable dispatch schedule, which can acclimate
+participants to VGI and (2) can target dispatch during high value time periods, including but not
+limited to CAISO Alert, Warning and Emergency events.11 Although VGIC provided a detailed
+explanation in reply testimony, PG&E’s opening brief did not acknowledge the points raised by
+8 Pacific Gas and Electric Company Emergency Reliability Order Instituting Rulemaking Errata Testimony
+at 7-4.
+9 Ibid.
+10 Reply Testimony of Ed Burgess on Behalf of the Vehicle Grid Integration Council at 7.
+11 Reply Testimony of Ed Burgess on Behalf of the Vehicle Grid Integration Council at 7.
+3
+
+VGIC or any other parties in support of the 30-hour requirement.12 Instead, PG&E reiterated its
+objection to the 30-hour requirement, and did not offer additional reasoning as to why the 30-hour
+requirement should not be included in the EV/VGI Aggregation Pilot.13 As such, VGIC
+respectfully requests the Commission dismiss PG&E’s contributions regarding the 30-hour
+requirement for VGI resources participating in the EV/VGI Aggregation Pilot.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this reply brief and looks forward to further
+collaboration with the Commission and stakeholders on this effort.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+VEHICLE GRID INTEGRATION COUNCIL
+Date: September 27, 2021
+12 Opening Brief of Pacific Gas and Electric Company (U 39 E) on Phase 2 Issues at 21.
+13 Opening Brief of Pacific Gas and Electric Company (U 39 E) on Phase 2 Issues at 21.
+4

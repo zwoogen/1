@@ -1,0 +1,141 @@
+Vehicle-Grid Integration Council Responses to CEC Load Shift Goal Questions
+The Vehicle-Grid Integration Council will specifically focus its comments on utilizing electric
+vehicles (EVs) as load flexibility resources.
+1. Are there any policy barriers in California impacting the full utilization of customer
+resources for load flexibility?
+California faces several policy barriers reducing load flexibility potential from EVs:
+Limited managed charging programs: Customers can best provide load flexibility services from
+an EV by having their charging sessions managed in different ways. This can be through price
+signals to encourage customers to engage in certain charging patterns or active managed charging
+programs where charging is coordinated and often controlled by communication signals sent from
+a utility, third-party aggregator, or other solution provider to a vehicle or charger.
+Today, the majority of residential EV customers in California shape charging behavior according
+to utility time-of-use (TOU) rates. While simple and effective at reducing system peak demand,
+TOU rates don't maximize load-shifting potential and can cause "snapback effects" (sometimes
+called “timer peaks” or “secondary peaks”), where charging demand surges immediately after a
+TOU peak period. Though California investor-owned utilities (IOU) have recently launched new
+dynamic rate pilots in preparation for the CEC’s Load Management Standards and designed under
+the CPUC’s CalFUSE framework, real-time pricing rate design, platforms, and communication
+pathways are still under development. Although it is too early to determine whether these pilots
+will successfully attract EV customers, there are several barriers related to the underlying rate
+design, implementation, vendor selection, customer education, deployment of enabling
+technologies, and scalability that concern VGIC.1
+Need for diverse EV load flexibility and managed charging opportunities beyond real-time
+pricing pilots: Beyond TOU and dynamic rates, VGIC strongly recommends that California’s EV
+owners and operators be offered other programmatic (i.e., non-rate) managed charging options,
+such as active managed programs focused on unlocking distribution system benefits, expanded
+emergency demand response programs such as the Demand Side Grid Support Program (DSGS)
+or the Emergency Load Reduction Program (ELRP), load modification contracts that create
+predictable EV load forecasts, and/or other new programs.2 Diverse programs can also include
+different payment designs such as a fixed price per month for services provided, off-bill incentives,
+conditional treatment of charging costs (i.e., low- or no-cost off-peak charging in exchange for
+1 See https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A2403019/7930/553184229.pdf, page 15.
+2 Notably, legacy utility demand response programs like Base Interruptible Program and Capacity Bidding
+Program have prohibitive terms for EV participation (e.g., 6-hour dispatch events), and Demand
+Response Auction Mechanism is being discontinued.
+1
+
+dispatchable EV load flexibility), or other elements. Overall, it will be most beneficial for
+customers to be given a wide range of charging schedule and managed charging program options
+to find what best fits their specific needs and internal cost-benefit calculations. In its response to
+question 3 below, VGIC details the imperative to embrace a range of customer options to unlock
+meaningful load flexibility.
+High interconnection costs for V2X resources: California has the highest DER interconnection
+application fees in the nation for small bidirectional charging systems. The IOUs’ $800 Rule 21
+application fee for non-Net Energy Metering systems discourages the adoption of bidirectional
+chargers. This reduces the ability to use EVs for discharging to homes or buildings, a critical
+behind-the-meter load flexibility solution, in addition to net export to the grid to support system
+reliability and distribution system investment deferral and avoidance.
+2. Do you recommend any successful market or regulatory models/approaches for utilizing
+load flexibility based on your experience outside California?
+To date, California has largely focused on creating a load flexibility framework focused on
+reducing electric system peak demand. This is largely due to a focus on the system Resource
+Adequacy (RA) value of load flexibility. The focus on system-wide peaks is evident in the most
+popular load flexibility programs for EVs in California: TOU rates and emergency demand
+response programs such as DSGS or ELRP.
+However, there are regulatory models and approaches that do not focus as much on utilizing load
+flexibility for system-wide peaks. Instead, there are increasing concerns about distribution
+congestion from EV charging causing “secondary peaks”, “timer peaks”, or “snapback effects”
+that fall outside of the system peak time.
+To manage these secondary peaks, different jurisdictions are developing staggered charging
+approaches. These send tailored signals to individual EVs / EV supply equipment (EVSE) to
+distribute charging load more evenly across a given time period. For example, Baltimore General
+Electric (BGE) has partnered with WeaveGrid to deploy a managed charging program specifically
+focused on distribution asset protection. The program manages overnight charging load on
+individual circuits by sending signals to individual EVs on when to charge. BGE and Weavegrid
+assess total charging demand, individual battery state of charge, and individual charging times.
+Charging is then staggered across customers, prioritizing charging first for customers with the
+lowest state of charge and earliest departure time. The pilot has shown promising results, reducing
+peak demand on individual circuits by 33%.3
+3 Smart Electric Power Alliance (SEPA), The State of Managed Charging in 2024, September 2024, pg. 43.
+Available at: https://sepapower.org/resource/state-of-managed-charging-in-2024/
+2
+
+3. Do you see any emerging trends in California’s market and electricity consumers that
+may impact the state’s load flexibility potential?
+Every year, California adds more EVs to its roads, and the amount of EVs is expected to greatly
+increase in the next decade as the Advanced Clean Cars, Advanced Clean Trucks, and Advanced
+Clean Fleets regulations from the California Air Resources Board (CARB) encourage and
+require additional EV sales. CARB estimates that in order to meet AB 32 goals of carbon
+neutrality in 2045, California will need 105,555 GWh of electricity annually to power over 22
+million light duty and 1.2 million medium and heavy-duty vehicles.4 Notably, this modeling was
+conducted in 2022, before the adoption of Advanced Clean Fleets. The sheer amount of EVs on
+the road, in addition to other newly electrified load, will greatly increase electricity demand but
+will also create additional load flexibility potential on the grid, especially if customers are
+encouraged to participate in VGI programs.
+While there is ample evidence that EV charging preferences are especially diverse, VGIC expects
+that preferences will also change over time. For example, the EV market is currently dominated
+by light-duty consumers that have access to private charging at their home, and most charging is
+currently done at single-family residences.5 However, many Californians, particularly many
+renters, lack access to home charging and will depend on public chargers. Business and municipal
+fleets across light-, medium-, and heavy-duty vehicle classes are also currently exploring how to
+best schedule and manage charging for their own needs. These mobility needs are very different
+from private passenger vehicles and extremely diverse across sectors – even more diverse than
+existing commercial and industrial load. For example, Southern California Edison has shared the
+following range of EVSE power levels by sector, which ranges from 1.5 kW to 1,200 kW.6
+Notably, this data is collected from the nation’s largest medium- and heavy-duty make-ready
+program.
+4 CARB, 2022 Scoping Plan. Available at: https://ww2.arb.ca.gov/sites/default/files/2023-04/2022-sp.pdf
+Data available here: https://ww2.arb.ca.gov/sites/default/files/2022-11/2022-sp-PATHWAYS-data-E3.xlsx
+5 Plug In America, 2024 EV Driver Annual Survey Report, pg. 15. Available at: https://pluginamerica.org/wp-
+content/uploads/2024/09/2024-Plug-In-America-EPRI-EV-Driver-Survey-Report_Final.pdf
+6 Southern California Edison, Transportation Electrification Program Advisory Council, December 13th, 2024, pg.
+14 (Charge Ready Transport).
+3
+
+Given the diversity in EV charging behavior across both residential and non-residential customers,
+a wide range of managed charging opportunities will be needed to meet different customer needs.
+VGIC reiterates its recommendation that customers be provided with a menu of EV load flexibility
+opportunities from which to choose based on their vehicle needs, preferences, and internal cost-
+benefit calculations.
+4. Do you have any other conceptual ideas or feedback for the state to consider?
+To unlock the full potential of EV demand flexibility, ensure an effective focus on vehicle-grid
+integration (VGI), and track policy success and adjust accordingly, the CEC should establish a
+distinct EV load flexibility or VGI goal. This goal would recognize that EVs, as a dual-purpose
+resource providing both transportation and grid services, require tailored policies and
+programmatic approaches that differ from other load flexibility technologies like smart thermostats
+or electric appliances. A dedicated goal for VGI would allow for a nuanced approach that accounts
+for these diverse needs, ensures that mobility needs are met, and considers the broader greenhouse
+gas and air pollution reductions that come from transportation electrification. This goal should be
+defined in megawatt (MW) contributions of EVs to peak load reduction, and further segmented
+into MW contribution from unidirectional charging equipment and MW contribution from
+bidirectional charging equipment. The target could also include or incorporate metrics such as a
+target percentage of EVs participating in managed charging and/or bidirectional charging
+programs (not including TOU rates, which is assumed to be a baseline behavior per the CEC’s
+Integrated Energy Policy Report) or a specified level of bidirectional charging equipment adoption
+by a given date. VGIC offers itself as a resource to support the development of such a target, either
+within the load shift goal or as part of another CEC proceeding or initiative.
+4
+
+To support achieving this goal, the CEC should require IOUs and large publicly-owned utilities to
+develop programs to unlock widespread EV load flexibility. Just as the CEC’s LMS directs these
+utilities to offer optional dynamic rates to all customer in 2027, the CEC’s new VGI target should
+direct these utilities to offer optional managed charging and/or bidirectional charging program
+options to all customers in 2027, or sooner. Given California’s ratepayer affordability crisis and
+restricted state budget, VGIC recommends the CEC direct these utilities to initially leverage non-
+ratepayer funding, which could include Greenhouse Gas Reduction Funds and/or Clean
+Transportation Program funds. Over time, as program cost-effectiveness and success against the
+established VGI target are assessed, the utilities may transition to using ratepayer funding in a
+manner that ensures offerings yield net ratepayer benefit and provide a sustainable, reliable
+regulatory signal to customers and VGI solution providers.
+5

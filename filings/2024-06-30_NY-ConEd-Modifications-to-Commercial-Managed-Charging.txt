@@ -1,0 +1,83 @@
+June 30, 2024
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 22-E-0236: Proceeding to Establish Alternatives to Traditional Demand-Based Rate
+Structures for Commercial Electric Vehicle Charging
+Comments of the Vehicle-Grid Integration Council (VGIC) on ConEd and O&R’s
+Proposed Modifications to the Commercial Managed Charging Program
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) membership-based advocacy
+group committed to advancing the role of electric vehicles (EVs) and vehicle-grid integration
+(VGI) through policy development, education, outreach, and research. VGIC supports the
+transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated to
+achieve a more reliable, affordable, and efficient electric grid.
+ConEd and O&R (collectively, Companies) propose an important modification to the
+commercial managed charging program (CMCP) to ensure a wider set of customers will be
+eligible to participate in the program. Specifically, ConEd proposes to accept charging session
+data rather than 15-minute interval data to ensure enrollment is not unnecessarily limited due to
+the lack of customers with 15-minute interval data. To support this change, ConEd plans to apply
+an adjustment factor to convert the session average demand into an estimated peak demand that
+is then used to calculate the managed charging incentive.
+VGIC generally supports the proposal to apply an adjustment methodology that will
+facilitate the expansion of potential participants and further the goals of the CMCP. However,
+VGIC offers the below enhancements to the petition.
+1
+
+VGIC recommends the adjustment factors be equal to the average demand discrepancy as
+studied by the Companies.
+The Companies state that “Session Average Demand calculation generally
+underestimates demand by ~5% on average for L2 sites and ~9% on average for DCFC sites.”1
+VGIC commends the Companies for conducting a thorough literature review and data analysis to
+identify these values. VGIC recommends these average demand discrepancies serve as the basis
+for the adjustment factors used to convert charging session data into estimated peak demand
+data. In Appendix B of the petition, ConEd provides example calculations showing adjustment
+factors for L2 and DCFC of approximately 5-20% and 10-20%, respectively. The methodology
+in Appendix B details that ConEd will determine an adjustment factor that “1) provides
+reasonable and appropriate operating cost relief and 2) minimizes the likelihood of over-
+incentivization.”2 While minimizing the likelihood of over-incentivizing is a worthy objective,
+VGIC is concerned that the example offered in Appendix B may be far too conservative and
+likely result in significant under-incentivization for participating customers.
+VGIC believes that it would be inappropriate to authorize an adjustment factor that
+exceeds – and may be up to four times the magnitude of – the average demand discrepancy
+without reasonable justification. The risk of under-incentivization would directly undermine the
+goals of the CMCP and New York’s broader initiative to manage EV charging load.
+With this in mind, VGIC respectfully recommends the Commission authorize the
+Companies to proceed with the expanded eligibility approach with the modification that the
+adjustment factor must be set equal to the average demand discrepancy as detailed by the
+Companies in the petition (i.e., 5% and 9%). VGIC also recommends the adjustment factor be
+revisited as additional data is collected and posits the upcoming consideration of the EV Phase-In
+Rate may be an appropriate venue to address this.
+VGIC recommends that future modifications to the Implementation Plan continue to
+require Commission approval.
+VGIC appreciates the Companies’ consideration given to the importance of flexibility
+and agility in responding to the EV market and customer needs to prevent implementation delay.
+Given that the approval of the charging session data adjustment factor that the Companies seek
+within the petition would be a modification to the Implementation Plan, which is a significant
+1 Petition of ConEd and O&R to Expand Data Eligibility Requirement for the Commercial Managed Charging
+Program. Page 5.
+2 Petition of ConEd and O&R to Expand Data Eligibility Requirement for the Commercial Managed Charging
+Program. Appendix B: Session Data Adjustment Factor. Table 1: Sample Adjustment Factor Determination.
+2
+
+modification for the reasons stated above, VGIC prefers that Commission approval continue to
+be required for any future modifications of the Implementation Plan. Although the Companies
+note that eliminating approval would be consistent with the Implementation Plan protocol of
+other similar programs, preserving existing input avenues that help to avoid meaningful
+unfavorable changes through stakeholder input is also paramount to long-term program success.
+Conclusion
+VGIC looks forward to continued engagement with the Commission, Department of
+Public Service Staff, the Companies, and other stakeholders to ensure the success of New York’s
+transportation electrification efforts.
+Respectfully submitted,
+Zach Woogen
+/s/ Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+3

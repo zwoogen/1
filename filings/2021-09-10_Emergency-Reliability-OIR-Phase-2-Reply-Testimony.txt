@@ -1,0 +1,282 @@
+Docket No.: R.20-11-003
+Exhibit No.:
+Date: September 10, 2021
+Witness: Ed Burgess
+REPLY TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+
+1 Q: Please state your name, title, and business address.
+2 A: My name is Ed Burgess. I am a Senior Director at Strategen Consulting and the Senior Policy Director for
+3 the Vehicle Grid Integration Council (VGIC). My business address is 2150 Allston Way, Suite 400, Berkeley,
+4 California 94704.
+5 Q: On whose behalf are you testifying?
+6 A: I am testifying on behalf of the Vehicle Grid Integration Council (VGIC).
+7 Q: What is VGIC?
+8 A: VGIC is a 501(c)6 membership-based trade association committed to advancing the role of electric vehicles
+9 (EV) and vehicle-grid integration (VGI) through policy development, education, outreach, and research. VGIC
+10 supports the transition to a decarbonized transportation and electric sector by ensuring the value from EV
+11 deployments and flexible EV charging and discharging is recognized and compensated in support of achieving a
+12 more reliable, affordable, and efficient electric grid.
+13 Q: Did you submit opening testimony in this proceeding?
+14 A: Yes.
+15 Q: Have you reviewed the opening testimonies of other parties in this proceeding that you wish to reply
+16 to?
+17 A: Yes.
+18 Q: What is the purpose of your reply testimony?
+19 A: The purpose of this reply testimony is to provide my response to the testimonies and proposals submitted by
+20 other parties, including California Solar & Storage Association (CALSSA), ev.energy, Joint DR Parties, Marin
+21 Clean Energy (MCE), Pacific Gas and Electric Company (PG&E), Peninsula Clean Energy (PCE), and
+22 Southern California Edison Company (SCE), on various EV/VGI solutions that could be pursued by the
+23 Commission to support grid reliability in California and meet the Summer 2022 and 2023 emergency reliability
+24 needs. Specifically, we respond to testimony from other parties on the analysis of need, design, and structure of
+25 the EV/VGI Aggregation Pilot and party proposals for other new EV/VGI measures.
+26
+27
+28
+1
+
+1 I. The EV/VGI Aggregation Pilot is Necessary and Appropriate
+2 Q: In Opening Testimony, SCE states the “EV/VGI Aggregation Pilot would not provide system relief in
+3 2022 in light of limited/no MW potential and is unnecessary in light of other participation opportunities
+4 currently open to EV resources.” 1 Do you agree?
+5 A. No. SCE’s testimony related to the EV/VGI aggregation pilot is erroneous in several respects. First, it
+6 assumes that the EV/VGI Aggregation Pilot is designed solely to target bidirectional EV/EVSE in its service
+7 territory. SCE cites the numbers of bidirectional charging stations that are installed, have pending
+8 interconnection applications, and expressed interest in Emergency Load Reduction Program (ELRP) so far, but
+9 offers no data on the number of EVs in SCE’s service territory, let alone the number of potential aggregators
+10 that offer unidirectional “V1G” services in its service territory.2 While VGIC supports the inclusion of
+11 bidirectional resources in the EV/VGI Aggregation Pilot, we note this is not the distinguishing feature of the
+12 EV/VGI Aggregation Pilot. The distinguishing feature of the EV/VGI Aggregation Pilot is the development of a
+13 reliable and accessible pathway for aggregators to leverage EVs, whether through unidirectional or bidirectional
+14 configurations. The staff proposal clearly states its focus on aggregators that use “networks of V1G or bi-
+15 directionally capable charging stations,” 3 (emphasis added). VGIC believes SCE’s testimony regarding the
+16 EV/VGI aggregation pilot may be based on a misinterpretation of the staff concept, and consideration of SCE’s
+17 opposition may distract from the critical opportunity to leverage EVs for reliability through this pilot. As noted
+18 in opening testimony, VGIC’s analysis shows up to 247 MW of net peak load reduction could be achieved from
+19 V1G alone, assuming a modest 5% participation rate.
+20 Q: Regardless of the significant potential for V1G, do SCE’s claims about V2G charging compensation
+21 have any relevance in the context of ELRP?
+22
+23
+24
+25
+1 Direct Testimony of Southern California Edison Company – Phase 2 at 68.
+2 Direct Testimony of Southern California Edison Company – Phase 2 at 68.
+26
+3 Brian Stevens. Email Ruling Issuing Commission Developed Staff Concepts Proposal
+Document and Seeking Comment in Opening Testimony Due September 1, 2021. Rulemaking 20-11-003.
+27
+August 16, 2021. Page 10.
+28
+2
+
+1 A: No. As it relates to bidirectional charging, SCE further states that “V2G charging applications represents a
+2 type of service that is neither entirely retail nor entirely wholesale,” and discusses the need to work through
+3 these complex issues before leveraging the “V2G charging application.”4 However, this appears to be a red
+4 herring designed to overly complicate the issue at hand. The currently effective ELRP program rules already
+5 provide compensation for exports provided by distributed energy resources (DERs) participating in Group A.3.
+6 As VGIC understands it, the EV/VGI Aggregation Pilot would be established as a modification to this existing
+7 ELRP program framework, and therefore the need to sort through the interaction of retail and wholesale
+8 participation is irrelevant in the context of the ELRP. The EV/VGI Aggregation Pilot should be viewed as
+9 merely an extension of the existing pathway for compensating exports from individual Group A.3 DERs to
+10 aggregations of exporting bidirectional chargers, as well as non-exporting bidirectional chargers (i.e., vehicle to
+11 building or V2B) and unidirectional chargers that reduce net peak load.
+12 Q. SCE also states that “it is also worth noting that as of September 1, 2021, SCE has received no interest
+13 from EV aggregators in ELRP participation under the one-way charging option, let alone a two-way
+14 charging option.” 5 Do you think this constitutes evidence that there wouldn’t be interest in the newly
+15 proposed EV/VGI Aggregation Pilot?
+16 A: No. The proposed EV/VGI Aggregation Pilot has key important differences from the initial “Phase 1” ELPR
+17 program that I believe may attract substantially more EV aggregator interest. For example, as noted in my
+18 opening testimony and by several other parties in this proceeding, a critical barrier to EV participation in
+19 conventional load reduction programs is the challenge of measuring EV load reduction versus a “baseline” for
+20 the purposes of settlement. I believe the EV/VGI Aggregation Pilot could effectively address this barrier by
+21 allowing for the virtual pairing of separately metered EV load with other customer load. Additionally, even for
+22 EV loads that are comingled, compensation for load reduction is elusive due to the lack of submetering options.
+23 By implementing EV- or EV supply equipment (EVSE)-based measurement, the EV/VGI Aggregation Pilot can
+24
+25
+26
+4 Direct Testimony of Southern California Edison Company – Phase 2 at 69.
+27
+5 Direct Testimony of Southern California Edison Company – Phase 2 at 68.
+28
+3
+
+1 overcome this barrier as well and incentivize ILR from EV load that is currently comingled with site load. By
+2 addressing these barriers, as well as increasing the ELRP compensation from $1/kWh to $2/kWh and
+3 guaranteeing 30 hours of dispatch, I believe the EV/VGI Aggregation Pilot could attract EV participation in a
+4 way that the initial Phase 1 ELRP was unable to.
+5 Q. Do all the investor-owned utilities (IOUs) share SCE’s opposition to the EV/VGI Aggregation Pilot?
+6 A. No. PG&E supports the pilot, although it also states that a new participation category will need to be created
+7 for aggregators, since they do not currently qualify under ELRP.6 VGIC agrees with PG&E’s assessment that a
+8 new option for aggregators will need to be established to facilitate participation and defers to VGIC’s opening
+9 testimony on potential contracting mechanisms and other remaining implementation details.7
+10 Q. Do you agree with CALSSA’s assertion that the same rules should apply for EV batteries as stationary
+11 storage, “as the two resources employ fundamentally the same technology and stationary storage is more
+12 well prepared to deliver strong performance in the short term.”8
+13 A. Not exactly. While VGIC believes that stationary and mobile storage are technically similar under certain
+14 circumstances, there are practical realities that make these resources fundamentally different in the current
+15 market. A few of these differences are summarized below:
+16  EV owners use their batteries for a different primary use case (i.e., mobility), that is unrelated
+17 to managing electricity consumption.
+18  VGI-enabled EVs do not receive market transformation support through Self Generation
+19 Incentive Program (SGIP), net energy metering (NEM), or other existing pathways that have
+20 been available for stationary storage customers and/or providers.
+21  EVs can be load-only or bidirectional, whereas stationary storage is, by definition,
+22 bidirectional (even if bidirectional means on-site consumption).
+23
+24
+25
+6 Pacific Gas and Electric Company Emergency Reliability Order Instituting Rulemaking
+26
+Errata Testimony at 7-4.
+7 Opening Testimony of Ed Burgess on Behalf of the Vehicle Grid Integration Council at 20.
+27
+8 Prepared Direct Testimony of the California Solar & Storage Association at 3.
+28
+4
+
+1  EV load is often separated from site load as a provision of IOU transportation electrification
+2 infrastructure / make-ready incentive programs or other funding and incentives for charger
+3 deployment, whereas utility programs for behind the meter stationary storage do not nudge
+4 customers toward separating the storage device from site load.
+5 Despite these practical differences, VGIC appreciates CALSSA’s notion that EVs should have access to the
+6 same value streams that stationary storage can access, and in general we support a level playing field in the long
+7 run. However, this must be balanced with the notion that it may be beneficial in the early days of newer
+8 technologies (i.e., EVs with VGI capabilities) to support market transformation.
+9
+10 II. The EV/VGI Aggregation Pilot 30 Hour Dispatch Structure is Appropriate to Support Market
+11 Transformation
+12 Q. How did the IOUs react to the proposed 30-hour minimum dispatch requirement in the EV/VGI
+13 Aggregation Pilot?
+14 A. In Opening Testimony, PG&E states that it does not support the 30 hour per season dispatch carveout for
+15 VGI resources.9 PG&E states that “mandating IOUs to force dispatch for at least 30 hours without an
+16 emergency does not seem to align with how and why ELRP was developed.”10
+17 Q. Do you agree with this assessment?
+18 A. No. I believe that the 30-hour minimum is consistent with the intent of the original ELRP program design.
+19 While it is certainly possible that the 30-hour minimum could lead to dispatch hours outside of a true
+20 “emergency” I believe this is still appropriate for a few reasons. First, having a more consistent and predictable
+21 dispatch schedule will help to acclimate EV customers and aggregators to the overall ELRP regime. While a
+22 more limited number of hours could be contemplated, this would run a greater risk of failing to deliver MW
+23
+24
+25
+9 Pacific Gas and Electric Company Emergency Reliability Order Instituting Rulemaking
+26
+Errata Testimony at 7-4.
+10 Pacific Gas and Electric Company Emergency Reliability Order Instituting Rulemaking
+27
+Errata Testimony at 7-4.
+28
+5
+
+1 during the true emergency periods since customers and aggregators would have less participation experience
+2 and may opt-out during the critical times. In essence there is significant value in the ability to “train” customers
+3 and aggregators on how the ELRP program functions well in advance of a true emergency. Second, even if
+4 dispatch hours occur outside of a true emergency, they can still be targeted to high value time periods. For
+5 instance, it is possible that CAISO LMP prices during summer peak load hours could approach their maximum
+6 (i.e., $1000/MWh) even when there is no threat of a true shortage. In these cases, dispatching EVs via ELRP
+7 still has significant value, even if it is not strictly identical to the ELRP compensation rate. Moreover, the
+8 compensation rate would not necessarily reflect any additional value provided to the distribution system since
+9 EVs function as a distributed resource.
+10 Q. What does PG&E say regarding ELRP eligibility for customers participating in NEM and SGIP?
+11 A. PG&E notes that bidirectional vehicles co-located with solar participating in a NEM tariff cannot also
+12 participate in the ELRP program, and that bidirectional vehicles are not eligible to receive incentives under
+13 SGIP.11
+14 Q. Do you believe this constitutes a rationale to exclude EVs from greater ELRP participation?
+15 A. No. If anything, this emphasizes the need for ELRP to encourage participation from EVs since they are
+16 largely excluded from other DER incentive programs. For example, VGIC notes that EVSE are also not eligible
+17 to receive incentives under the SGIP. The EV/VGI Aggregation Pilot’s 30-hour dispatch requirement will
+18 provide aggregators with a reliable value stream that can support finance-ability, product development, and
+19 overall market development. As such, VGIC strongly recommends the Commission adopt the 30-hour dispatch
+20 requirement in the EV/VGI Aggregation Pilot as it will critically support market transformation for VGI
+21 aggregators and customers alike.
+22
+23
+24
+25
+26
+11 Pacific Gas and Electric Company Emergency Reliability Order Instituting Rulemaking
+27
+Errata Testimony at 7-6.
+28
+6
+
+1 III. VGIC agrees with party recommendations to maximize load reduction from the EV/VGI
+2 Aggregation Pilot.
+3
+4 Q. What other party recommendations were offered related to the EV/VGI Pilot?
+5 A. In Opening Testimony, ev.energy details several recommended improvements to the EV/VGI Aggregation
+6 Pilot.12 These included the following recommendations:
+7 1. The Energy Division should define “aggregators” with sufficient breadth.
+8 2. The EV/VGI Aggregation Pilot should not require aggregators to integrate directly with CAISO.
+9 3. Program settlement should use baseline methodology informed by counterfactuals rather than
+10 historical data.
+11 4. Telematics and L1/L2 EVSE data should all be considered equally for the purposes of
+12 performance settlement.
+13 Q. Does VGIC generally agree with these recommendations?
+14 A. Yes. In addition to these recommendations from ev.energy, VGIC also agrees with the Joint DR Parties’
+15 recommendation to reduce or eliminate interconnection fees in exchange for bidirectional EVSE purchase and
+16 installation.13 This can help overcome barriers to bidirectional charger deployment and level the playing field
+17 with stationary storage, which has access to SGIP technology incentives to help offset the upfront costs of
+18 system installation and interconnection.
+19 IV. The VGI Programs and Pilots Proposed by Community Choice Aggregators (CCAs) Would
+20 Meaningfully Support Reliability
+21 Q. What have the CCAs proposed regarding VGI Programs and Pilots to support grid reliability?
+22
+23
+24
+25
+26
+12 Opening Phase II Prepared Testimony of Joseph Vellone on Behalf of EV.Energy Corp at
+7.
+27
+13 Phase 2 Opening Prepared Testimony of Joint DR Parties at 4.
+28
+7
+
+1 A. Several CCAs have proposed meaningful programs and pilots including MCE’s proposed $1.7 million MCE
+2 Sync and PCE’s proposed $2 million Residential EV Managed Charging program. The CCAs expect these
+3 could result in 2.5 MW and 1 MW, respectfully, during summer 2022.14
+4 Q. Does VGIC support the adoption of these programs?
+5 A. Yes. VGIC is generally encouraged by the CCAs’ eagerness to develop their own VGI Programs and Pilots
+6 to support grid reliability. VGIC believes that the lessons learned from these can inform future policies and
+7 program design for both CCAs and IOUs. For these reasons, VGIC also supports PCE’s proposed Residential
+8 and Heavy-Duty Commercial V2B Pilot. In addition, VGIC believes light-duty commercial V2B applications
+9 should be considered, as there may be additional load reductions available for these use cases. Although VGIC
+10 generally supports the creation of these programs, we would be interested to see more details on how PCE and
+11 MCE intend to recover program costs and how this might evolve over the long-term if these programs are
+12 successful.
+13
+14 V. Conclusion
+15 Q: Does this conclude your reply testimony?
+16 A: Yes.
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+14 Marin Clean Energy Prepared Direct Testimony of Alice Havenar-Daughton in Rulemaking
+27
+20-11-003 at 2-31 and Direct Testimony of Rafael Reyes on Behalf of Peninsula Clean Energy at 13.
+28
+8
+
+Appendix A:
+Declaration in Support of Reply Testimony of Ed Burgess on Behalf
+of the Vehicle Grid Integration Council
+
+DECLARATION IN SUPPORT OF REPLY TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+I, Ed Burgess, am the Senior Policy Director for the Vehicle Grid Integration Council
+(VGIC). Having worked for VGIC since its founding in 2020, I am currently managing policy and
+regulatory affairs for VGIC and its 13 member companies. My business address is 2150 Allston
+Way, Suite 400, Berkeley, CA 94704. I declare under penalty of perjury that the foregoing facts
+in this document are true and correct.
+Executed on September 10, 2021 at Berkeley, California.
+Ed Burgess

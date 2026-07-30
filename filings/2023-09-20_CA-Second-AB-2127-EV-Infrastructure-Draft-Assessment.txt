@@ -1,0 +1,463 @@
+Comments of the Vehicle-Grid Integration Council (VGIC)
+to
+The California Energy Commission (CEC)
+Docket # 19-AB-2127
+Implementation of AB 2127 Electric Vehicle Infrastructure Assessments
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Comments submitted via:
+https://efiling.energy.ca.gov/Ecomment/Ecomment.aspx?docketnumber=19-AB-2127
+
+September 20, 2023
+I. Introduction
+The Vehicle-Grid Integration Council (“VGIC”), a 501(c)6 membership-based advocacy
+group, is pleased to provide comments in response to the California Energy Commission
+(“CEC”) Assembly Bill 2127 Electric Vehicle Charging Infrastructure Assessment: Assessing
+Charging Needs to Support Zero-Emission Vehicles in 2030 and 2035, issued August 2023
+(Docket 19-AB-2127, “Draft AB 2127 Report”).
+VGIC is committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid
+integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring the value
+from EV deployments and flexible EV charging and discharging is recognized and compensated
+in support of a more reliable, affordable, and efficient electric grid.
+VGIC commends Energy Commission staff for its extensive and considered exploration of
+VGI in the Draft AB 2127 Report, including the recommendation to leverage automated load
+management (“ALM”) solutions to support California’s ambitious charging infrastructure
+deployment goals. VGIC’s comments below address specific barriers to charger infrastructure
+deployment, discuss how VGI solutions are critical to overcoming them, emphasize the
+important role of bidirectional charging, and provide several recommendations to support further
+development of the Draft AB 2127 Report. VGIC’s comments are summarized below:
+• California’s Ambitious Clean Energy Goals Demand a Charging Infrastructure
+Deployment Strategy that Prioritizes Solar Charging and Bidirectional Charging to
+Appropriately Balance the Needs of the Electric Grid.
+o The Importance of Balancing Transportation and Electric Sector Goals
+o Promoting Investments that Leverage Excess Clean Energy Generation
+Balances Equity Goals, Grid Needs, and Deployment Cost
+• Promoting Automated Load Management (“ALM”) and Distributed Energy Resource
+(“DER”) Paired Charging Alongside Considerably Improved Planning Tools
+Represents a No-Regrets Solution Set to Support Charging Infrastructure Deployment
+Goals.
+o ALM and DER-Paired Charging Offers an Invaluable “Relief Valve” for
+Mounting Energization Timeline Delays, Which EVSE Deployment and Grid
+Evaluation (“EDGE”) Results Indicate May Otherwise Worsen
+o Recommended Actions for the CEC To Advance ALM and DER-Paired
+Charging
+o The CEC’s EDGE Tool and Other Planning Tools Represent a Crucial and
+No-Regrets Complement to ALM and DER-Paired Charging
+Vehicle-Grid Integration Council Page 2 of 16
+www.vgicouncil.org
+
+September 20, 2023
+• Addressing Remaining Barriers to Widespread VGI is Crucial for California’s
+Charger Deployment Goals.
+o The Draft AB 2127 Report Accurately Identifies VGI as a Key Area for
+Emphasis Moving Forward
+o A Variety of Compensation Mechanisms Should be Advanced to Capture
+Different VGI Use Cases
+o Specifically, the CEC Should Promote Expanded Bidirectional Vehicle-to-
+Everything (“V2X”) Charging Participation in its Emerging DSGS Program.
+o Incremental Funding for VGI Products, Namely Bidirectional Charging
+Equipment and DER-Paired Charging, Should Be Provided Through the
+CEC’s Existing Funding Mechanisms
+o Establish a Bidirectional Charging Capacity Target
+o Additional VGI Potential Can Be Unlocked Through Vehicle Telematics and
+Low-Cost Isolation Technologies
+o The CEC Should Continue Its Efforts to Align Technical Standards
+Expectations with Regulatory Requirements
+II. California’s Ambitious Clean Energy Goals Demand a Charging Infrastructure
+Deployment Strategy that Prioritizes Solar Charging and Bidirectional Charging
+to Appropriately Balance the Needs of the Electric Grid.
+A. The Importance of Balancing Transportation and Electric Sector Goals
+The California Air Resources Board’s Advanced Clean Cars II (“ACC II”), Advanced
+Clean Trucks (“ACT”), and Advanced Clean Fleets (“ACF”) regulations together establish
+an immense driving force toward rapid transportation electrification across the state between
+now and 2035. Over this same period of rapid transformation, California’s electric power
+sector will undergo an equally herculean shift in its resource portfolio and real-time grid
+coordination demands. If the CEC wishes to support either of these transitions and, ideally,
+both effectively, VGIC believes the respective planning efforts – exemplified in the Draft AB
+2127 Report for the transportation sector and the Senate Bill 100 (“SB 100”) Report for the
+power sector – must be closely coordinated. With this in mind, VGIC strongly supports the
+CEC’s notion that “coordinated investments in the grid and charging infrastructure
+[including bidirectional charging] will support charging and community needs locally
+and statewide,” and recommends the Commission adopt this statement with an additional
+Vehicle-Grid Integration Council Page 3 of 16
+www.vgicouncil.org
+
+September 20, 2023
+emphasis on bidirectional charging as noted in the brackets above as a guiding principle for
+charging infrastructure deployment.1
+In pursuit of this increased coordination, the CEC should prioritize infrastructure
+investments in public and workplace Level 2 charging and other daytime charging sites, as
+demonstrated in the Draft AB 2127 Report’s Figure 2 below.2 Combined with bidirectional
+charging, daytime solar energy production can be sent back to buildings and the grid in the
+early evening during the challenging net peak hours that utilities face. Furthermore,
+bidirectional vehicles with V2X technology can help manage the ramping of conventional
+generation resources when the solar resource declines in the late afternoon hours. In essence,
+V2G is the ideal asset class to address California’s worsening “duck” curve challenge.3
+1 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 44.
+2 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 5.
+3 See Center for Community Energy V2X as a Solution to the Duck Curve available at
+https://drive.google.com/file/d/10gOZIQqN52_16esR5I5ywjUERYB6BP-5/view?usp=sharing.
+Vehicle-Grid Integration Council Page 4 of 16
+www.vgicouncil.org
+
+September 20, 2023
+This recommendation emerges as a recurring theme throughout the Draft AB 2127 Report,
+which in discussing the light-duty vehicle segment further suggests, “As PEVs make up a
+larger share of light-duty vehicles on the road, it will be increasingly important to focus
+charging investments in the areas that are most grid-friendly and cost-effective while
+ensuring that the transition to PEVs is equitable and convenient for drivers.”4
+B. Promoting Investments that Leverage Excess Clean Energy Generation Balances Equity
+Goals, Grid Needs, and Deployment Cost
+The Draft AB 2127 Report duly contemplates various alternative future scenarios,
+including higher home access, lower home access, gas station model, low work access, more
+free public L2, and solar priority. The resulting charger counts displayed in the Draft AB
+2127 Report’s Figure 21 below offer significant implications for California’s transportation
+electrification and SB 100 clean energy transition goals, including the total cost and the pace
+at which California can achieve its goals.5
+4 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 47.
+5 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 50.
+Vehicle-Grid Integration Council Page 5 of 16
+www.vgicouncil.org
+
+September 20, 2023
+VGIC respectfully urges the CEC to pursue charging infrastructure investments that facilitate
+increased charging from solar and other clean energy resources. Furthermore, VGIC
+recommends that the CEC establish ambitious state goals for installing bidirectional EV
+chargers.6 This would support an optimal balance of clean transportation and energy goals,
+aligning with CARB’s ACC II, ACT, and ACF regulations and SB 100 goals.
+During the September 7th Draft AB 2127 Report workshop, stakeholders noted that a
+higher Direct Current Fast Charger (“DCFC”) count relative to the baseline, as detailed in the
+solar priority and gas station model scenarios, could support equitable charging access for
+renters and other Californians who may not have long-dwell Level 2 charging at home or
+work. The solar priority scenario appears to result in significantly lower DCFC deployment
+and higher Level 2 charging than the gas station model. While detailed charger counts for
+each scenario are presented in Draft AB 2127 Report: Appendix E, the overall cost impacts
+of each change are unclear at this time. On one hand, the gas station model would require the
+deployment of significantly greater DCFC, which cost more than Level 2 chargers. On the
+other hand, the solar priority scenario results in less DCFC but far more Level 2. Given these
+tradeoffs, VGIC posits the overall costs may be similar for either scenario.
+The CEC’s ongoing efforts to advance load management and demand flexibility will be
+inherently limited by the charging infrastructure decisions made today, as automated
+response to dynamic price signals, for example, can only be utilized to absorb excess
+renewable energy generation if EVs have chargers available where they are parked. Lastly,
+selecting scenarios that emphasize charging from clean energy would maximize solar
+resources and mitigate the need to extend the life of existing natural gas peaking plants and
+other fossil fuel electric generation resources, typically sited in disadvantaged communities.
+In this way, promoting charging from clean energy will accelerate progress toward
+California’s critical equity and environmental justice goals.
+6 In 2013, the California Public Utilities Commission issued Decision 13-10-040, which set an energy storage
+procurement target of 1,325 MW, spurring the now-burgeoning stationary energy storage market (the largest in
+the U.S.). VGIC recommends the CEC work with other state agencies to establish a “Bidirectional Charger
+Deployment Goal” to repeat the same success achieved 10 years ago with stationary energy storage.
+Vehicle-Grid Integration Council Page 6 of 16
+www.vgicouncil.org
+
+September 20, 2023
+Bidirectional charging will also reduce the need for stationary storage and the associated
+costs that are anticipated to be needed to manage the variability of solar production. Given
+that battery suppliers appear to prioritize the needs of the EV industry over the stationary
+storage segment due to the much larger volumes, investments in bidirectional charging can
+hedge against potential supply chain and other stationary storage deployment delays.
+VGIC strongly urges the Commission to strike this appropriate balance of charging
+infrastructure deployment and clean energy goals to achieve California’s ambitious climate
+and environmental justice goals. Moreover, by promoting charging from clean energy, the
+CEC can best support its Draft AB 2127 Report Conclusion’s “key areas for emphasis” #2
+and #7 related to creating an inclusive charging experience and meeting the state’s
+greenhouse gas emissions goals. The CEC has before it a defining opportunity to showcase
+national and global leadership by promoting charging from clean energy and deploying
+bidirectional charging equipment to a much greater extent.
+III. Promoting Automated Load Management (“ALM”) and Distributed Energy
+Resource (“DER”) Paired Charging Alongside Considerably Improved Planning
+Tools Represents a No-Regrets Solution Set to Support Charging Infrastructure
+Deployment Goals.
+A. ALM and DER-Paired Charging Offers an Invaluable “Relief Valve” for Mounting
+Energization Timeline Delays, Which EVSE Deployment and Grid Evaluation (“EDGE”)
+Results Indicate May Otherwise Worsen
+ALM and DER-paired charging solutions can accelerate charger connection timelines and
+limit the overall cost impacts of widespread EV infrastructure deployment. These
+technologies are used today throughout California for these purposes, as detailed in the Draft
+AB 2127 Report’s Chapter 6.7 The report discussion on VGI overall represents a clear and
+thorough description of its role today and in the future. However, VGI Advancement 3: Site-
+Level Electrical Readiness, is unquestionably the most detailed, accurate, and thoughtful
+description of ALM and DER-paired charging appearing in any state document to date, and
+7 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 84.
+Vehicle-Grid Integration Council Page 7 of 16
+www.vgicouncil.org
+
+September 20, 2023
+VGIC commends the CEC staff’s attention to a solution set that is long overdue to be
+formally supported by the state of California.
+Considering the pressing need for additional charging infrastructure driven by ACC II,
+ACT, and ACF and detailed extensively in the Draft AB 2127 Report, ALM and DER-paired
+charging represents a solution set that can provide a “relief valve” on both cost and timeline
+pressures. The CEC’s EDGE modeling results indicate that about 13% of the modeled circuit
+capacity may be overloaded by EV charging peak load by 2025.8 Given the historically long
+lead times associated with major circuit capacity upgrades, VGIC strongly recommends
+prioritizing ALM and DER-paired charging as near-term solutions to address this 13%
+EDGE gap and as a long-term strategy for accelerating charger deployment at the fastest
+speed and lowest cost. The Draft AB 2127 Report accurately shares this conclusion. It
+arguably even understates its importance, stating that "both ALM and DER-integrated
+charging will be crucial in the near term as California faces grid component supply shortages
+and may support an accelerated energization timelines for sites that would otherwise need
+capacity upgrades.”9
+B. Recommended Actions for the CEC To Advance ALM and DER-Paired Charging
+Beyond acknowledging the importance of ALM and DER-paired charging and incorporating
+the solutions within the Draft AB 2127 Report, the CEC has a critical role to play in
+advancing the use of ALM and DER-paired charging. VGIC recommends the following
+actions for the CEC related to ALM and DER-paired charging:
+1. Funding Deployment. The CEC should consider how to best support ALM and DER-
+paired charging solutions through its existing CALeVIP, Communities in Charge, and
+EnergIIZE block grant rebate programs, its emerging portfolio of clean energy reliability
+programs including the Distributed Energy Backup Assets and Demand Side Grid
+Support programs, its Research & Development funding, including EPIC 4 and the
+8 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 64.
+9 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 84.
+Vehicle-Grid Integration Council Page 8 of 16
+www.vgicouncil.org
+
+September 20, 2023
+upcoming EPIC 5, and through remaining clean transportation program funding for both
+light- and medium/heavy-duty vehicle segments.
+2. Streamlining Implementation. The CEC can contribute to the development of
+blueprints and frameworks to streamline the utilization of ALM and DER-paired
+solutions that are currently mired in a lack of clear, consistent utility connection rules and
+requirements.
+3. Leading California’s State Agencies. VGIC recommends the CEC educate the
+California Public Utilities Commission, California Building Standards Commission,
+Governor’s Office of Business Development, and other key agencies on the importance
+of enabling ALM and DER-paired charging.
+4. Convening Stakeholders. The Commission should host stakeholder workshops to
+further discuss ALM and DER-paired charging, its implications for the charger
+deployment goals identified in the Draft AB 2127 Report, and key remaining barriers to
+widespread use.
+5. Improve Planning Tools. As detailed below in Section III.C, the CEC should seek to
+expand the EDGE tool to include more geospatially granular data, which will support
+ALM and DER-paired charging deployment.
+VGIC believes each of these steps are necessary to advance ALM and DER-paired charging
+and offers itself as a resource to support the CEC and other stakeholders in executing an
+infrastructure deployment future that maximizes the use of ALM and DER-paired charging in
+pursuit of a reliable, affordable, and clean charging statewide network.
+C. The CEC’s EDGE Tool and Other Planning Tools Represent a Crucial and No-Regrets
+Complement to ALM and DER-Paired Charging
+VGIC appreciates the CEC staff’s efforts in developing the EDGE tool and is
+encouraged by the detailed results shared in the Draft AB 2127 Report. As detailed in the
+report, the CEC aims to launch the EDGE tool later this year fully and is already considering
+enhancements and refinements to the tool. One such improvement is using “more
+geospatially granular information… to give users the ability to assess particular sites where
+Vehicle-Grid Integration Council Page 9 of 16
+www.vgicouncil.org
+
+September 20, 2023
+they may be interested in deploying charging infrastructure.”10 VGIC supports this
+recommended improvement and respectfully requests the CEC’s EDGE tool be expanded to
+include secondary distribution data. Given the limitations of Integrated Capacity Analysis
+(“ICA”) data detailed in the report, VGIC questions whether any third-party partnerships, for
+example with an academic institution, national laboratory, technical consultant, or other
+third-party entity, could be helpful in developing a methodology and collecting data to model
+these constraints without having access to investor-owned utilities’ static ICA data.
+Alternatively, the CEC could partner with the California Public Utilities Commission and
+investor-owned utilities to explore updates to the ICA maps to make them more dynamic.
+By promoting ALM and DER-paired charging and improving planning tools such as the EDGE
+model align, the CEC can closely align its practices with the Draft AB 2127 Report Conclusion’s
+“key areas for emphasis” #5, #6, and #7 related to ALM, high-powered charging, and grid
+capacity analysis.
+IV. Addressing Remaining Barriers to Widespread VGI is Crucial for California’s
+Charger Deployment Goals.
+A. The Draft AB 2127 Report Accurately Identifies VGI as a Key Area for Emphasis Moving
+Forward
+The Draft AB 2127 Report appropriately concludes that a “key area for emphasis” is to:
+“Leverage VGI technologies to manage charging in ways that benefit consumers
+and move charging to times when there’s excess capacity on the grid and the
+cleanest possible energy. While vehicle charging makes up a small fraction of
+California energy usage today, the rapid increase in ZEV adoption required by
+new regulations will increase the amount of grid capacity needed.”11
+Moreover, the CEC details the many strategies that make up “A Framework for Widespread
+VGI” in Chapter 6, highlighting (1) compensation structures, (2) customer products and
+services, (3) site-level electrical readiness, (4) EV and grid planning processes, and (5)
+customer ease, confidence, and enrollment as key elements. VGIC supports this
+10 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 67.
+11 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 99.
+Vehicle-Grid Integration Council Page 10 of 16
+www.vgicouncil.org
+
+September 20, 2023
+categorization and reiterates its appreciation for CEC staff and Commissioners in explicitly
+prioritizing VGI strategies that are critical to the success of California’s clean transportation
+and energy goals. VGIC offers key recommendations for the Commission’s consideration
+beyond the Draft AB 2127 Report, and looks forward to further collaboration with the CEC
+and other stakeholders to make meaningful progress in developing the VGI market.
+B. A Variety of Compensation Mechanisms Should be Advanced to Capture Different VGI
+Use Cases
+VGIC supports advancing both dynamic rate design and access as required by the CEC’s
+Load Management Standard and envisioned in the California Public Utilities Commission
+(“CPUC”) Energy Division staff’s CalFUSE proposal and use of “nonrate compensation
+programs,” as identified in the Draft AB 2127 Report as an effective VGI strategy.12
+Regarding rates, time-varying price signals can offer customers opportunities to optimize EV
+charging and discharging behavior to align with system level needs like peak reduction or
+charging from clean energy, saving money for EV customers, supporting renewable energy
+integration, and reducing total system costs. Regarding nonrate compensation programs, the
+2019-2020 Joint Agency VGI Working Group detailed hundreds of “VGI Use Cases,”
+indicating a need for a variety of approaches to compensating VGI rather than relying solely
+on rate design.13 For example, it is unclear exactly how dynamic rates can effectively capture
+distribution value for EV charging and coordinate charging at the circuit-level, seeing as all
+customers on a single circuit may be responding to the same local price signal, which may
+disrupt the potential charging cost savings or, in the case of export, may overload local
+circuits. Additionally, the distribution grid changes uniquely fast due to both customer- and
+utility-side decisions made on any given circuit. Suppose these changes are reflected in local,
+circuit-specific distribution pricing. In that case, it can make VGI investment decisions a
+challenging and uncertain prospect. In contrast, well-designed programs can provide a
+greater level of certainty to encourage customer investments in VGI technologies.
+12 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 74.
+13 California Public Utilities Commission. 2020. Final Report of the California Joint Agencies Vehicle-Grid Integration
+Working Group, https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-Final-Report-
+6.30.20.pdf.
+Vehicle-Grid Integration Council Page 11 of 16
+www.vgicouncil.org
+
+September 20, 2023
+California is home to several new but relatively small-scale managed charging programs
+that promote single EV demand flexibility value streams by nonrate means, including Pacific
+Gas & Electric’s (“PG&E”) evPulse, Sacramento Municipal Utility District’s (“SMUD”)
+Managed Charging Program, PG&E’s ChargeForward Pilot, the Emergency Load Reduction
+Program (“ELRP”), and the CEC’s emerging Demand Side Grid Support Program
+(“DSGS”). In contrast, Xcel Colorado’s Charging Perks program, for example, is slated to be
+scaled to thousands of vehicles and aims to capture more than one VGI value stream.
+With this in mind, VGIC recommends the CEC, in coordination with the CPUC, continue
+to support VGI through both rate design (i.e., Load Management Standards, MIDAS platform
+development, and associated efforts) and nonrate compensation programs (i.e., DSGS). The
+CEC should also, in coordination with the CPUC, promote “stacking” across different
+participation options such that more than one value (i.e., system peak reduction, local
+distribution optimization, clean energy integration) can be captured at any given time, which
+can support the rapid deployment of managed charging, bidirectional charging, and DER-
+paired charging solutions.
+C. Specifically, the CEC Should Promote Expanded Bidirectional Vehicle-to-Everything
+(“V2X”) Charging Participation in its Emerging DSGS Program.
+As identified in Chapter 6, the CEC’s recently launched DSGS Program provides a
+similar level of incentives to the ELRP.14 VGIC commends the CEC for the rapid
+development of the DSGS and the ongoing program updates being considered. As the
+program continues to evolve, VGIC strongly urges the CEC take steps to expand EV
+participation in DSGS. This could include opening Option 3 to bidirectional V2X resources
+or creating a new VGI-specific “Option 4,” similar to how the CPUC updated its ELRP
+program to establish customer subgroup A.5: EV/VGI Aggregations. One compelling feature
+of ELRP Subgroup A.5 that can attract V2X investment to the space is the 30-hour minimum
+dispatch provision for VGI aggregations. The CEC should also consider creating an
+interconnection exemption to allow bidirectional chargers that are not UL 1741-SA or UL
+14 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 76.
+Vehicle-Grid Integration Council Page 12 of 16
+www.vgicouncil.org
+
+September 20, 2023
+1741-SB certified to interconnect and participate in the DSGS program, as the CPUC
+adopted in its ELRP decision for Subgroup A.5 participants.
+In the nascent but fast-expanding V2X bidirectional charging market, California is
+competing nationally against other states for VGI leadership and to attract investment so the
+potential of V2X can be unlocked. Other states in the northeast, including Massachusetts and
+New York, offer compelling V2G export opportunities, which may direct private investment
+toward these other markets over California. If California intends to maintain its leadership in
+this space, the CEC should take bold action to bolster compensation for V2G resources
+through its DSGS and other programs.
+D. Incremental Funding for VGI Products, Namely Bidirectional Charging Equipment and
+DER-Paired Charging, Should Be Provided Through the CEC’s Existing Funding
+Mechanisms
+As noted in the Draft AB 2127 Report, VGI products and services “are in an early stage
+of commercialization stage and have seen limited deployment to date.”15 Specifically,
+bidirectional charging solutions and DER-paired charging, which typically demand a higher
+upfront investment than unidirectional and standalone equivalents, exist in a state of
+relatively nascent deployment. Additionally, some VGI equipment, for example, low-power
+DC Vehicle-to-Grid (“V2G”) EV supply equipment (“EVSE”) exists within a funding gap
+unaddressed by utility make-ready and other EV charging infrastructure programs.
+VGIC therefore strongly supports the Draft AB 2127 Report notion that increased rebate
+amounts for bidirectional chargers be included in rebate block programs such as EnergIIZE.16
+Moreover, VGIC recommends that low-power bidirectional DC chargers be supported in
+CEC-funded programs, such as CALeVIP, and that DER-paired charging also be considered
+for increased rebate amounts. Offsetting these upfront costs can support initial deployment
+and yield benefits throughout the asset's lifetime that may outweigh the initial cost support
+needed.
+15 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 74.
+16 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 78-79.
+Vehicle-Grid Integration Council Page 13 of 16
+www.vgicouncil.org
+
+September 20, 2023
+E. Establish a Bidirectional Charging Capacity Target
+As noted throughout these comments, bidirectional charging can play a critical role in
+shifting solar daytime production to the net peak hours and thus save all ratepayers money
+while also minimizing the inefficient ramping of conventional generation resources. The
+market for V2G charging equipment requires a strong signal of commitment to bidirectional
+charging by state regulators. VGIC recommends that the state establish a goal for the
+installation of bidirectional EV chargers. As an example, a goal of 3 GW of charging
+capacity to be deployed in California by 2030 and 10 GW by 2040 could be considered. The
+various state agencies and grid stakeholders (CPUC, CARB, CEC, CAISO and the
+Governor’s Office of Business and Economic Development) should be directed to help
+achieve the goal. Additionally, given the home, site, and microgrid resiliency benefits that
+bidirectional charging provides, disadvantaged communities should be prioritized within this
+goal.
+F. Additional VGI Potential Can Be Unlocked Through Vehicle Telematics and Low-Cost
+Isolation Technologies
+The Draft AB 2127 Report considers that many home chargers are “nonnetworked” and,
+therefore, may not be able to participate in load management opportunities.17 However,
+modern vehicles are networked, as Chapter 6 details, and the CEC should detail its plans to
+enable these capabilities. For example, the CEC can ensure that DSGS participation options
+are available and marketed to automakers and third-party telematics providers measuring
+response to grid emergencies using telematics data.
+Moreover, as CEC works to expand its “Framework for Widespread VGI,” VGIC posits
+that any VGI strategy is incomplete without either the presence of telematics programs
+within a broader portfolio of VGI programs, or an action plan detailing how to enable
+telematics-based managed charging within existing programs, for example as a category for
+DSGS.
+17 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 82.
+Vehicle-Grid Integration Council Page 14 of 16
+www.vgicouncil.org
+
+September 20, 2023
+While Chapter 6 provides careful coverage of telematics generally, VGIC respectfully
+requests that the report be revised to more accurately capture the current state of
+technological capabilities. VGIC recommends the following revisions based on the proven
+capabilities of several VGIC members:
+“The telematics approach may be less useful for enabling VGI away from home, as
+telematics systems currently have limited lack the ability to coordinate with local site
+controllers (for example, automated load management systems) and likely do not have
+limited access to relevant grid signals at every location visited by the vehicle”18
+Lastly, additional VGI potential can be unlocked by promoting low-cost electrical
+isolation mechanisms. For example, meter-socket-based solutions are identified in the Draft
+AB 2127 Report within the context of site-level electrical readiness,19 but should also be
+considered as a safe, low-cost alternative to automated transfer switches. VGIC recommends
+the CEC work to streamline the acceptance of these devices in California, whether through
+streamlined utility testing and approval or incremental funding opportunities, to deploy more
+islanding vehicle-to-home or vehicle-to-building backup power solutions.
+G. The CEC Should Continue Its Efforts to Align Technical Standards Expectations with
+Regulatory Requirements
+The CEC, through its partnership with Elaad NL, has played an important role in
+convening stakeholders for important educational opportunities related to charging standards.
+VGIC recommends the CEC coordinate with key standards development organizations,
+including IEEE, SAE, UL, and/or IEC/ISO to align standards expectations with regulatory
+requirements. For example, successfully outcomes related to key VGI objectives like
+resource aggregation, bidirectional charging, ALM and DER-paired charging, and islanding
+EV charging microgrids may benefit from increased CEC involvement, to the extent this is
+feasible and appropriate for a state agency.
+V. Conclusion
+18 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 82.
+19 California Energy Commission, AB 2127 EV Charging infrastructure Second Assessment Draft Report, pg. 83.
+Vehicle-Grid Integration Council Page 15 of 16
+www.vgicouncil.org
+
+September 20, 2023
+VGIC appreciates the leadership of the CEC in addressing VGI within its Draft AB 2127
+Report, and we look forward to further collaboration with the CEC and other stakeholders on this
+important initiative.
+Respectfully submitted,
+Zach Woogen
+/s/ Zach Woogen
+Vehicle-Grid Integration Council
+vgicregulatory@vgicouncil.org
+Vehicle-Grid Integration Council Page 16 of 16
+www.vgicouncil.org

@@ -1,0 +1,175 @@
+DOCKETED
+Docket Number: 22-RENEW-01
+Project Title: Reliability Reserve Incentive Programs
+TN #: 253700
+Vehicle Grid Integration Council (VGIC) Comments on DSGS
+Document Title:
+Enhancements for Vehicle-to-Everything Systems
+Description: N/A
+Filer: System
+Organization: Vehicle Grid Integration Council (VGIC)
+Submitter Role: Public
+Submission Date: 12/20/2023 6:10:40 PM
+Docketed Date: 12/21/2023
+
+Comment Received From: Vehicle Grid Integration Council (VGIC)
+Submitted On: 12/20/2023
+Docket Number: 22-RENEW-01
+Comments of VGIC on DSGS Enhancements for Vehicle-to-
+Everything Systems
+Additional submitted attachment is included below.
+
+December 20, 2023
+Email to: docket@energy.ca.gov
+Docket Number: 22-RENEW-01
+Subject: California Energy Commission Demand Side Grid Support Program Guidelines
+Re: Comments of the Vehicle Grid Integration Council to Enhance the Demand
+Side Grid Support Program to Unlock Greater EV Participation
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC)1 appreciates the opportunity to provide these
+comments – an informal proposal on the California Energy Commission’s (CEC) Demand Side Grid
+Support (DSGS) Program Guidelines.2 The DSGS program can unlock significant load reductions
+and exports to support system reliability, including during extreme weather events, from California’s
+1.5 million – and counting – EVs. EVs represent a low-cost resource to meet the state’s Strategic
+Reliability Reserves that can be deployed at scale and rapidly relative to other resources. However,
+to achieve this vision, the DSGS program should be enhanced to address key program design gaps
+to enable EV customer participation.
+Proposal: Establish a new “Option 4” based on Option 3 to Target V2X Discharge.
+The CEC has been a national leader in advancing bidirectional charging technologies
+through several significant grant funding opportunities, developing and maintaining the V2G
+equipment list, and leading efforts to support interoperability. Yet, programs in other regions offer
+far more attractive compensation mechanisms for grid-tied bidirectional charging.3 Meanwhile,
+DSGS Option 3 offers a compelling and straightforward ongoing compensation mechanism for
+behind-the-meter stationary energy storage systems that VGIC believes could be easily replicated
+for bidirectional charging. Bidirectional chargers are mobile energy storage systems that are
+operationally similar to stationary energy storage systems, which means replicating the structure
+and provisions of Option 3 would be a good fit for V2X solutions.4 With over 1.5 million EVs sold
+1 The Vehicle Grid Integration Council is a 501(c)(6) membership-based trade association representing over 40
+companies focused on accelerating the role of smart electric vehicle (“EV”) charging and discharging through policy
+development, education, outreach, and research. VGIC supports the transition to a decarbonized transportation and
+electric sector by ensuring the value from flexible EV charging and discharging is recognized and compensated.
+2 CEC DSGS Guidelines, Demand Side Grid Support Program Guidelines, Second Edition. July 26, 2023.
+3 For example, the Connected Solutions Program offered by utilities in Massachusetts, Connecticut, and
+Rhode Island can offer ~$200/kW-season for ~50 events per season lasting 2-3 hours, with some instances
+of even higher compensation and number of events, depending on the utility. See:
+https://www.nationalgridus.com/MA-Business/Energy-Saving-Programs/ConnectedSolutions
+4 In 2020, the CPUC confirmed that, for the purposes of interconnection, V2X-DC chargers are energy
+storage.
+
+December 20, 2023
+Page 2 of 3
+in California, including 35,000 V2X-capable Nissan LEAFs, tens of thousands of V2X-capable Ford
+F-150 Lightnings,5 and hundreds of V2X-capable electric school buses from manufacturers like
+Blue Bird, Lion Electric, and Thomas Built, the stage is set to tap into an immense amount of latent
+mobile energy storage capacity. However, this will not happen overnight and will require additional
+market transition support through both incentives for bidirectional charging equipment and
+compensation for V2X discharging, including through the DSGS program.
+VGIC recommends that the CEC establish a new DSGS “Option 4” closely modeled on
+Option 3 but open to bidirectional chargers instead of stationary batteries. This “low-hanging
+fruit” enhancement can squeeze additional emergency net load reduction out of existing and new
+customer EV energy storage resources without significant program guideline redesign. See
+Attachment A detailing DSGS Program Guidelines – Option 3 provisions that would need to be
+altered in the new Option 4. All other Option 3 provisions not detailed in Attachment A can be
+copied and pasted into the new Option 4.
+Establishing a new “Option 4” would support the independent evaluation of stationary
+energy storage technologies (i.e., Option 3 resources) and bidirectional charging equipment (i.e.,
+Option 4 resources) and would ensure that any future revisions needed to support bidirectional
+charger participation can be made easily without interfering with rules for stationary energy storage.
+As with stationary energy storage in Option 3, we recommend that the CEC’s DSGS
+administrator (i.e., Olivine) accept device-level data for the new Option 4. This device-level data
+can come from either the EV or bidirectional charger.6 The customer/aggregator should elect a single
+data stream to not seek compensation twice for the same kWh discharged.
+Borrowing the core design of Option 3 to establish a new Option 4 specific to bidirectional
+EVSE is an uncomplicated and high “bang-for-buck” revision to promote greater participation from
+bidirectional charging resources in DSGS. VGIC looks forward to collaborating with the CEC and
+other stakeholders on this initiative.
+5 Note the V2X capability for commercially-available Ford F-150 Lightnings are currently limited to electrically
+isolated vehicle-to-home backup power configurations.
+6 Upon initial review of Olivine’s Option 3 Meter Data Format Requirements, it is not immediately clear that
+revisions would need to be made to accommodate bidirectional chargers in the new Option 4. However,
+VGIC is available to collaborate with stakeholders to better understand what revisions may be required.
+https://dsgs.olivineinc.com/wp-content/uploads/sites/13/2023/10/Olivine-Technical-Guide-Interval-Data-
+Format-v2.2-DSGS-Annotations.docx
+
+December 20, 2023
+Page 3 of 3
+Important Note on Available Equipment and Request for CEC Coordination with CPUC.
+Since vehicle-to-grid (V2G) exports would be encouraged under the above proposal, the
+CEC should consider the interactions between DSGS, Rule 21 smart inverter requirements, and
+available UL-certified bidirectional chargers. There are currently no bidirectional chargers certified
+to UL 1741 SB, which is required by Rule 21 as of August 29, 2023. Based on our discussions with
+manufacturers, UL 1741 SB certification for bidirectional chargers is – optimistically – over 18
+months away. As a result, the CPUC has exempted bidirectional chargers participating in ELRP
+and, by extension, PG&E’s VGI Pilots from all UL 1741 SA, SB, and any subsequent smart inverter
+requirements that the CPUC may set. We urge the CEC to coordinate, to the extent feasible, with
+the CPUC to extend this treatment to bidirectional chargers participating in DSGS, including Option
+1 or any new Options that would deem V2G exports eligible. Without this exemption, many
+bidirectional EVSE will become stranded assets when they are most needed and available to provide
+grid flexibility services. DSGS represents a significant near-term opportunity to demonstrate the
+potential for VGI to provide grid services at scale and be compensated for doing so, particularly for
+customers of POUs and municipal utilities that are not eligible to participate in ELRP Subgroup
+A.5/VGI Aggregators. We therefore urge the CEC to make note of the current state of the
+bidirectional charger market and waive the UL1741-SB requirement and allow customers with UL
+1741 and UL1741-SA certified V2G bidirectional chargers to participate in the DSGS program.
+Conclusion.
+VGIC appreciates the opportunity to provide these comments and looks forward to
+collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+Vehicle Grid Integration Council
+Albert Tapia
+Policy Analyst
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+
+Attachment A:
+All Option 3 provisions can be simply “copied-and-pasted” into a new Program Guidelines Chapter
+for a new Option 4, except for the sections detailed below. VGIC has provided redlines to these
+sections to demonstrate what the language could look like in a new Chapter dedicated to a new
+Option 4: “V2X VPP”.
+At Pg 7 – 2.D.1.e, a new 2.D.1.f would be created, copying all elements from 2.D.1.e except for:
+ “Information on each participating site, including a unique identification number, legal
+name of participant, contact name and title (if contact name is different from participant
+name), service account address, phone number, UDC, nominal battery electric vehicle
+supply equipment (EVSE) power rating (kW), nominal storage energy capacity (kWh), and
+nominated duration (hours).
+At Pg 21 – CHAPTER 5, all elements can be copied directly for the new Option 4 except for:
+5.A:
+ “Third-party battery V2X service providers, POUs, and CCAs are eligible to serve as VPP
+aggregators.”
+ “A V2X VPP may consist of bidirectional EVSE storage paired with net-energy metering
+(NEM) solar or stand-alone storage bidirectional EVSE deployed with residential (bundled
+or unbundled) or nonresidential (bundled or unbundled) customers or both.”
+ “At a minimum, each individual customer site participating in a DSGS BTM storage V2X
+VPP must:”
+o “Have an operational stationary battery system capable of discharging at least 1 kW
+for at least 2 hours bidirectional EVSE system capable of discharging at least 1 kW
+for at least 2 hours.”
+Pg 22:
+ “At a minimum, to participate in DSGS as a BTM storage V2X VPP, each aggregation
+must:”
+ “Consist of storage V2X assets nominated for the same duration (number of hours, see
+following section for details).”
+C:
+ Incentive payments shall be made to VPP aggregators based on the demonstrated battery
+V2X capacity of an aggregated VPP. VPP aggregators shall allocate incentive payments
+between the VPP aggregator and its participants pursuant to the terms and conditions
+agreed to between the VPP aggregator and participant. Different levels of incentives for
+capacity (kW) are available for VPPs of varying durations (hours). VPP aggregators shall
+be eligible for a payment for demonstrated capacity at the rates defined in Table 2 based on
+the capacity (kW) and duration (hours) demonstrated by the VPP aggregator in each
+month.
+Pg 24:
+
+E:
+ Hourly battery EVSE performance shall be determined by submeter or inverter-level
+measured battery EVSE discharge, regardless of whether the energy serves BTM load or is
+exported to the grid. For battery resources receiving self-generation incentive program
+(SGIP) funding or with a host utility permission-to-operate date before July 1, 2023, an
+hourly prescriptive baseline shall be applied to battery discharge:
+Pg 25
+ For all other batteries EVSE, the baseline is defined as zero kW.
+Where … is the metered battery EVSE discharge (kW), … is the baseline, and …is the
+day-ahead LMP, all in hour h.

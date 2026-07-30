@@ -1,0 +1,161 @@
+June 3, 2022
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 22-E-0236: Proceeding to Establish Alternatives to Traditional Demand-Based
+Rate Structures for Commercial Electric Vehicle Charging
+Reply Comments of the Vehicle-Grid Integration Council (VGIC)
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based
+advocacy group committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates the
+opportunity to respond to the initial comments filed by parties to the Public Service
+Commission’s proceeding on demand charge alternatives for commercial EV charging.
+VGIC’s Recommendations Have Broad Stakeholder Support
+In initial comments, VGIC provided four recommendations in relation to Question 4
+(“What solution design elements should be considered to best maintain an incentive to manage
+electric demand?”). Each of VGIC’s recommendations were in line with the positions of several
+other parties:
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., ENGIE NA, Fermata Energy, FlexCharging, Flo/AddEnergie, Ford Motor Company, FreeWire Technologies,
+General Motors Company, Nissan Group of North America, Nuvve Holding Corporation, Sacramento Municipal
+Utility District, Stellantis N.V., Sunrun, The Mobility House, Toyota Motor North America, Inc., Veloce Energy,
+Inc., Wallbox USA Inc., and WeaveGrid. The views expressed in these Comments are those of VGIC, and do not
+necessarily reflect the views of all individual VGIC member companies or supporters. https://www.vgicouncil.org/.
+1
+
+• Recommendation 1: The Commission should look beyond a “one size fits all”
+solution and instead consider a range of solutions: Alliance for Transportation
+Electrification (ATE), PowerFlex, Environmental Defense Fund (EDF), the Joint
+Utilities, Advanced Energy Economy (AEE) & Alliance for Clean Energy New York
+(ACE NY), the Metropolitan Transit Authority (MTA), Joint Commenters, Nuvve
+Holding Corporation (Nuvve), and Electrify America urge the Commission to ensure
+flexible solutions that account for the various different EV charging use cases, which
+range from public charging stations along highway corridors to dedicated charging
+stations serving commercial light-duty and heavy-duty fleets. Specifically, both
+programmatic and rate design approaches must be pursued simultaneously to
+meaningfully recognize, value, and compensate flexible EV charging and, in turn,
+accelerate widespread adoption of light-, medium-, and heavy-duty EVs.
+• Recommendation 2: The Commission should enable increased use of dynamic pricing
+as an option for EV customers: The City of New York, PowerFlex, MTA, and
+Electrify America support solutions that enable and incentivize managed charging
+and grid services for long dwell-time sites (i.e., Level 2 chargers) and fleet charging
+(i.e., DC fast charging for school bus fleets, transit bus fleets, or other commercial
+fleets). While the time-varying value of vehicle-to-grid (V2G) exports are already
+compensated through the VDER tariff in New York, load flexibility from imports
+(i.e., charging) can also be incentivized through dynamic pricing. An example of
+dynamic pricing is Pacific Gas & Electric’s (PG&E) Day-Ahead Hourly Real-Time
+Pricing rate, under which marginal energy costs are recovered by a CAISO hourly
+day ahead market rate component, generation costs of service above marginal costs
+are recovered by a time-variable volumetric rate adder, and marginal generation
+capacity costs are recovered by a generation capacity component, while distribution
+costs are recovered through a monthly subscription charge in 50 kW increments.2
+This example is only illustrative, and VGIC does not endorse or oppose the specific
+design of PG&E’s tariff. Instead, VGIC offers itself as a resource to collaborate with
+the Commission, the IOUs, and other stakeholder to develop efficient dynamic
+pricing and other rate designs tailored to the New York context. For example, the
+Commission could consider a dynamic pricing tariff where distribution costs are also
+dynamic.
+• Recommendation 3: Solutions should address customers with EV charging integrated
+with on-site load and distributed energy resources (DERs): PowerFlex, the City of
+New York, New York Battery and Energy Storage Technology Consortium (NY-
+BEST), and Nuvve warn against requiring EV supply equipment (EVSE) to be on a
+2 CPUC Decision 21-11-017. https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M424/K557/424557371.PDF
+2
+
+dedicated meter and/or separate service drop, as this requirement would eliminate
+VGI opportunities and the associated value from co-location with building load and
+DERs. Additionally, solutions that avoid a requirement for a separate meter/service
+drop help facilitate deployment of bidirectional chargers to manage customer bill and
+provide backup power by discharging energy from the vehicle.
+• Recommendation 4: The Commission should explore solutions that incentivize co-
+location with energy storage and other Automated Load Management (ALM)
+approaches: ATE, PowerFlex, EDF, AEE & ACE NY, NY-BEST, Electrify America,
+and Nuvve voiced support for demand management approaches through ALM such as
+on-site storage or power sharing. In addition to cost savings on the larger distribution
+grid from reducing coincident demand, ALM solutions can also deliver cost savings
+on local, site-specific distribution costs (i.e., make-ready infrastructure costs) from
+reducing non-coincident demand. VGIC urges the Commission to consider specific
+incentives to encourage the deployment of these technologies, such as an upfront,
+fixed rebate amount per kW reduced below the cumulative EVSE nameplate capacity,
+based on the average EV make-ready upgrade costs. For example, if average make-
+ready costs are $200/kW and the EVSE nameplate capacity of a site is 200 kW, a site
+host installing an ALM solution that limits the site’s peak demand to 150 kW would
+yield $10,000 in ratepayer savings. The customer and/or service provider
+implementing these solutions should be eligible for a prescribed share of these
+savings, while the remainder would benefit all utility ratepayers.
+VGIC supports Con Edison’s proposed Commercial Managed Charging Program, with
+modifications
+VGIC believes Con Edison’s proposal is a good start in providing an incentive for EV
+charging stations to manage demand. The proposed program is consistent with VGIC’s
+recommendations above by 1) providing incentives for demand management while still being
+flexible and able to provide benefits to charging stations of all types, 2) leveraging the metering
+capabilities of EVSE to avoid a requirement for a separate meter, allowing for integration with
+on-site load and DERs, and 3) incentivizing technological solutions that enable demand
+management, such as co-located energy storage or ALM. VGIC also appreciates the fact that
+such a program can be implemented on a more accelerated timeframe compared to other tariff-
+based solutions, as well as the ability to provide adders for certain sites and use cases with
+beneficial attributes to be identified by the Commission.
+However, VGIC strongly urges that three key modifications be applied to Con Edison’s
+propose program:
+3
+
+A. Leverage EVSE submetering and vehicle telematics. The program should be open to
+customers using either EVSE submetering or vehicle telematics. This could
+significantly expand customer participation by allowing EVs, as well as EVSE, to
+appear on the eligible technologies list. Notably, some customers may not have
+networked EVSE or may simply prefer to enroll and participate via their EV rather
+than EVSE. Among existing programs that use EVSE submetering, vehicle
+telematics, or both, programs that leverage both pathways have a considerably larger
+eligible technologies list and, therefore, are open to a greater number of customers.
+B. Measure performance using average daily demand, rather than monthly peak
+demand. Con Edison’s proposed incentive structure, based on the station’s monthly
+peak demand, can lead to a situation where a single 15-minute period of charging at
+full capacity during a peak window will negate the entire per kW incentive for the
+month. This is especially challenging for public DCFC stations that do not control
+when drivers plug in to charge and where curtailment of charging capacity will
+negatively impact customers’ on-the-go charging experience. Furthermore, once this
+peak has occurred, the station will then no longer have an incentive to further manage
+its demand under the program for the rest of the month. A simple and effective way to
+address this issue is by measuring program performance using the average daily
+demand, rather than the monthly peak demand. Using average daily demand will
+ensure that there is an ongoing incentive to manage demand, while avoiding overly
+penalizing charging stations for unusual demand spikes.
+C. Offer complementary options for customers, including efficient rate design. Lastly, as
+discussed in VGIC’s Recommendation 1, a single solution will be unlikely to
+accommodate the wide range of EV charging use cases. For example, even with
+VGIC’s proposed modification, the program’s reporting requirements and the demand
+charges associated with the underlying tariffs may still present barriers for some EV
+customers. As such, other approaches, including rate designs highlighted by other
+parties and other specific incentives for ALM, are still necessary. Moreover,
+programmatic approaches similar to Con Edison’s proposed program should be
+viewed as time-bound to achieve the level of EVSE deployment needed, but in the
+longer term, efficient rate design should be the primary approach to incentivize the
+desired charging behaviors. One design element that could help achieve this is
+narrowing the time period for which demand charges apply, such as by assessing
+demand charges based on coincident system peak demand as proposed by NY-BEST,
+Nuvve, and AEE & ACE NY or based on network peak periods similar to Con
+Edison’s proposal.
+4
+
+Subscription charges should not act as fixed charges
+Several parties, including ATE, PowerFlex, AEE & ACE NY, and the City of New York,
+highlighted subscription demand charges as a solution that the Commission should consider.
+While VGIC is not opposed to subscription demand charges, subscription rates should be
+carefully designed as to provide customers with an incentive to manage their demand below the
+subscription level. For example, the customer could have an option to lower their subscription
+level if the site demand is lower than the subscription level for three consecutive months.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the IOUs, the Commission, and other stakeholders to ensure the success of New
+York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Policy Director
+Vehicle-Grid Integration Council (VGIC)
+5

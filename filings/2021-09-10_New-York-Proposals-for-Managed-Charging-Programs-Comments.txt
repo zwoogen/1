@@ -1,0 +1,316 @@
+September 10, 2021
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission Regarding Electric Vehicle
+Supply Equipment and Infrastructure
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on Proposals for Managed Charging Programs for Mass Market EV Customers
+I. Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to a decarbonized transportation and electric sector by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates the
+opportunity to provide comments to the Public Service Commission (PSC) on the investor-
+owned utilities’ (IOUs) managed charging program proposals. We also provide some more
+overarching feedback on best practices for managed charging programs as well as steps to move
+beyond simple “V1G” managed charging that should be taken to better integrate EVs into the
+grid. Our comments are organized as follows:
+● General comments on the IOUs’ proposed managed charging programs
+● The need for additional PSC focus on bi-directional charging options
+● Comments on individual IOU managed charging proposals
+o Con Edison
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., Fermata, LLC., FlexCharging, Inc., Ford Motor Company, General Motors Company, Nissan North America, Inc.,
+Nuvve Corporation, Stellantis N.V., The Mobility House, Toyota Motor North America, Inc., and Veloce Energy, Inc.
+The views expressed in these comments are those of VGIC, and do not necessarily reflect the views of all individual
+VGIC member companies or supporters. (https://www.vgicouncil.org/).
+1
+
+o National Grid
+o Central Hudson
+o Orange & Rockland
+o NYSEG and RG&E
+II. General comments on the IOUs’ proposed managed charging programs
+Overall, VGIC is encouraged by the diversity of approaches among the IOUs’ proposals.
+Experimenting with different program structures will help generate lessons learned and best
+practices to help inform New York’s transportation electrification strategy going forward.
+However, we also believe that there are improvements that can and should be considered. As
+such, VGIC provides the following general recommendations to ensure that the collective set of
+proposed managed programs are successfully leveraged to support New York’s decarbonization
+goals:
+1. IOUs’ managed charging programs should strive to be technology-agnostic wherever
+possible
+As discussed throughout the individual IOU comments below, there are several
+technologies and strategies that allow for both the collection of charging data from customers as
+well as for direct load control of customers’ EV charging. For example, these tasks could be
+carried out either by the EV’s onboard telematics or by a networked/smart charger. Rather than
+requiring a single type of technology, programs should allow flexibility by setting minimum
+technical requirements and making any hardware or software solution that meets those
+requirements eligible to participate.
+2. IOUs’ managed charging programs should prioritize customer experience, including
+flexible sign-up and opt-out provisions for participants
+Robust customer participation is crucial for the ability of the proposed programs to
+deliver meaningful grid benefits and to generate useful learnings that inform future offerings.
+However, it is also essential to recognize that the primary role of EVs is to support customers’
+transportation needs, not the grid’s needs. As such, to be successful, managed charging programs
+must be designed in a manner that puts the customers’ perspective first and foremost. VGIC
+believes this can and should be achieved by giving customers an appropriate incentive and
+flexibility in terms of their level of participation. VGIC is aware that historically, opt-in load-
+management programs tend to have lower enrollment rates when compared to opt-out programs.
+Thus, as a means to maximize participation the Commission could consider requiring managed
+charging participation a default arrangement for customers participating in EV charging
+infrastructure programs, while still allowing them to opt-out. However, this could lead to some
+2
+
+unintended consequences in terms of customer experience. As such, VGIC recommends that the
+focus be on making sure that customers are appropriately rewarded (in addition to any
+aggregators), either through direct incentives or reduced charging costs. At a minimum, each
+utility should have a robust plan for marketing and customer outreach – including coordination
+with EV manufacturers and EVSP companies – to ensure high participation.
+3. IOUs should develop managed charging options for other customer segments beyond
+residential
+Residential charging represents only a portion of EV charging. Expanding offerings to
+EV fleet customers would enable a larger number of EVs, which also includes medium-duty and
+heavy-duty (MD/HD) EVs with larger battery capacity than light-duty EVs, to manage their load
+and deliver grid benefits. Fleet customers may also be more sophisticated and more capable of
+consistently responding to program incentives and dispatch signals. For non-fleet customers, the
+high rate of home charging thus far is directly related to the lack of public and workplace
+charging options and therefore may not be representative of the charging behavior of future EV
+owners. As charging options are expanded and the MD/HD EVs segment continues to grow,
+especially as New York considers the adoption of California’s Advanced Clean Trucks rule,2
+utilities should work to ensure that managed charging offerings of these other customer segments
+are available as soon as possible.
+4. There should be data collection and reporting requirements, followed by a structured
+evaluation
+Given the diversity of program structures among the IOUs, clear data collection and
+reporting requirements will be crucial for a useful comparison between different approaches and
+will provide transparency to stakeholders as to the performance of each program. Collecting the
+appropriate data will allow the utilities, the Commission, and other stakeholders to assess what
+works and what needs to be improved. The Commission should establish clear data collection
+guidelines and require frequent (e.g., quarterly or every 6 months) reporting on the programs’
+progress. At minimum, data collection and reporting for each program should include:
+● Number of participating customers/vehicles, broken down by customer segment;
+● Participation rates relative to known EV market in each utility territory;
+● Share of customers enrolled using networked chargers, vehicle telematics, or
+other technologies;
+● Aggregated load profiles for each customer segment, including:
+o Size and timing of peak load;
+2 New York State Register, pg. 11. September 8, 2021.
+https://dos.ny.gov/system/files/documents/2021/09/090821.pdf
+3
+
+o Amount of off-peak charging relative to on-peak charging;
+● Average incentives paid to customers per month;
+● Estimated benefits of program, including grid benefits and/or avoided
+infrastructure costs.
+After 2 years of program implementation, the IOUs should carry out a structured
+evaluation to compare program approaches, informed by the data collection efforts discussed
+above. A structured evaluation would allow the IOUs to glean lessons learned and best practices
+that could inform potential program modifications to maximize the benefits and cost-
+effectiveness of the offerings. These efforts should also inform more advanced VGI offerings
+that deliver more benefits to customers and ratepayers.
+III. In addition to managed charging (V1G), the PSC should establish next steps to
+address barriers and opportunities for bi-directional charging (V2B/V2G)
+While VGIC believes the efforts proposed within the IOUs’ managed charging programs
+are mostly laudable, they are predominately focused on unidirectional charging (i.e., V1G). The
+grid benefits that EVs can provide via V1G could be substantially augmented through strategic
+implementation of bidirectional vehicle-to-building (V2B) or vehicle-to-grid (V2G)
+technologies. V2G can serve as a novel grid resource that provides generation capacity in critical
+downstate areas (such as NYISO zones J and K) where new transmission and generation is
+difficult to site. As the number of EVs scales up, this could be a critical tool to aid with summer
+reliability needs as New York seeks to phase out fossil generation in these constrained areas.
+Additionally, bidirectional capability unlocks new value propositions, such as backup power in
+the event of an outage, that V1G simply cannot provide. The programs currently proposed do not
+adequately address these possibilities and VGIC recommends that the PSC outline a follow-on
+process to address barriers and opportunities for bi-directional charging. VGIC has been an
+active participant in the recent development of V2X pilots, programs, and interconnection rules
+in California and would be eager to share lessons learned from these experiences.
+There are a meaningful number of bidirectional-capable EVs and charging equipment
+that are already or will soon be deployed. The table below summarizes the bidirectional
+capabilities of both existing and forthcoming V2G-capable EV models and charging equipment.
+Product Deployment Notes
+Nissan LEAF Available today 24-62 kWh battery capacity,
+depending on model year3
+3 2013 Nissan LEAF Press Kit: Overview. https://canada.nissannews.com/en-CA/releases/ca-2013-nissan-leaf-press-
+kit.
+4
+
+Blue Bird V2G-Capable School Bus Available today 155 kWh battery capacity4
+Mitsubishi Outlander PHEV Available today 12 kWh battery capacity5
+Thomas Built Buses Saf-T-Liner V2 Unknown Up to 226 kWh battery
+Jouley capacity6
+Ford F-150 Lightning Spring 20227 V2H backup power using 9.6
+kW bidirectional charger8
+Lucid Motors Air9 Q4 2021/Q1 202210
+Volkswagen ID11 2022
+Nuvve PowerPort Available today 19.2 kW12
+2016 Nissan LEAF 30 kWh. https://www.caranddriver.com/reviews/a15101006/2016-nissan-leaf-30kwh-
+instrumented-test-review/.
+2022 Nissan LEAF Range, Charging & Battery. https://www.nissanusa.com/vehicles/electric-
+cars/leaf/features/range-charging-battery.html.
+4 Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial Application of Vehicle-to-Grid
+Technology in Electric School Bus Partnership with Nuvve and Illinois School Districts. March 23, 2021.
+https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/
+5 Roberto Baldwin. 2021 Mitsubishi Outlander PHEV Gets Bigger Motor and Battery at Same Price. Car and Driver.
+February 25, 2021. https://www.caranddriver.com/news/a35605985/2021-mitsubishi-outlander-plug-inhybrid-
+upgrade/
+6 Thomas Built Buses / Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School Bus.
+Retrieved September 1, 2021 from https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley/
+7 Mark Kane. Ford F-150 Lightning Reservations Reach 120,000. InsideEVs. July 28, 2021.
+https://insideevs.com/news/523153/ford-f150-lightning-reservations-120000/
+8 Ford Motor Company (2021). 2022 Ford F-150 Lightning: Ford Intelligent Backup Power. Retrieved September 1,
+2021 from https://www.ford.com/trucks/f150/f150-lightning/2022/
+9 Lucid Motors. Lucid Air to be the Fastest Charging EV, Featuring 900 V+ Architecture Delivering a Charging Rate of
+Up to 20 Miles Per Minute. August 19, 2020. https://www.lucidmotors.com/media-room/lucid-air-fastest-charging-
+ev
+10 Andrei Nedelea. Is Lucid Preparing to Kick Off Air Dream Edition Deliveries?. InsideEVs. August 19, 2021.
+https://insideevs.com/news/527609/lucid-air-dream-edition-deliveries/
+11 Charles Morris. VW to enable bidirectional charging on all EVs on its MEB platform starting next year. Charged
+Electric Vehicles Magazine. April 8, 2021. https://chargedevs.com/newswire/vw-to-enable-bidirectional-
+chargingon-all-evs-on-its-meb-platform-starting-next-year/.
+12 Nuvve Corporation (2020). Nuvve PowerPort Specifications Sheet. Retrieved September 1, 2021 from:
+https://nuvve.com/wp-content/uploads/2020/05/nuvve-powerport-spec-sheet-us-ul-energystar-certified-v5.0-
+may2020.pdf
+5
+
+Nuvve DC Heavy Duty Charging Available today 60 kW13
+Station
+Fermata FE-15 Available today 15 kW14
+Fermata FE-20 2022 20 kW
+dcbel r16 Q4 2021 7.6 kW15
+Rhombus RES-D2, RES-D3, RES- Available today 60-250 kW16
+DCVC60, RESDCVC125
+Wallbox Quasar Unknown 7.4 kW17
+IV. Comments on individual utility proposals
+Con Edison
+Con Edison is the only IOU that did not propose any new managed charging programs in
+its filing. VGIC is concerned by this lack of progress, given that ConEd’s SmartCharge NY
+program has already been under way for several years. As such, ConEd would have had ample
+opportunity to build upon this strong start by develop additional managed charging program
+offerings. These could include approaches such as automated load management systems
+(ALMS), EV demand response (DR), dynamic retail rates, or vehicle-to-grid (V2G), and so on.
+Expanding the suite of VGI offerings is critical as a means to help accelerate EV adoption by
+lowering charging costs and enabling new value streams. Moreover, the high cost of distribution
+infrastructure in ConEd’s territory means there is greater potential to reduce costs for all
+ratepayers by limiting the impact of EV charging on local system peak loads through VGI
+capabilities.
+Regarding Con Edison’s SmartCharge NY program, VGIC appreciates Con Edison’s
+inclusion of both light-duty EVs and medium- and heavy-duty (MHD) EVs. MHD EVs have
+13 Nuvve Corporation (2020). Nuvve DC Heavy Duty Charging Station Specifications Sheet. Retrieved September 1,
+2021 from: https://nuvve.com/wp-content/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf
+14 Fermata Energy. Proven Results and Cost Savings with V2G Technology. October 14, 2020.
+https://www.fermataenergy.com/news-press/proven-results-and-cost-savings-with-v2g-technology
+15 4 dcbel. dcbel r16 Specifications Sheet. Retrieved September 1, 2021 from:
+https://www.dcbel.energy/wpcontent/uploads/ossiaco-data-sheet-2021.pdf
+16 Rhombus Energy Solutions. V2G Charging, Control, and Management 50-500 kW: Bidirectional. Retrieved
+September 1, 2021 from: https://rhombusenergysolutions.com/products
+17 Wallbox. Quasar DC Charger: Electrical Specifications. Retrieved September 1, 2021 from:
+https://wallbox.com/en_us/quasar-dc-charger
+6
+
+larger battery packs than light-duty EVs and are usually part of a fleet, which tends to have more
+control and coordination of charging sessions. Therefore, MHD EVs have more potential to
+deliver grid benefits with charge management. As the program continues to grow and Con
+Edison explores new ways to expand participation, VGIC recommends that, in addition to the
+FleetCarma device, vehicle telematics and networked EVSE equipment be included as options to
+monitor charging behavior and collecting relevant data. This should be considered for all types
+of vehicles, not just for vehicles that are incompatible with the FleetCarma device. Many EV’s
+onboard telematics system can enable customers to automate their charging schedule to align
+with SmartCharge incentives, and allowing billing determinants to be measured through the
+same telematics system would help save on overall program costs and spread the program budget
+across more customers. Participation via telematics or smart chargers would also help alleviate
+some customers’ privacy concerns regarding data sharing with another third-party. Ideally, Con
+Edison should set minimum technical requirements and allow any devices that meet those
+requirements to participate in the program.
+National Grid
+Among the IOUs, VGIC found National Grid’s proposal to be the most thorough
+proposal, and lays out detailed program designs, implementation steps, timelines, and evaluation
+metrics. VGIC particularly commends National Grid’s inclusion of technical standards for both
+telematics- and charger-based participation pathways. As such, VGIC believes National Grid’s
+filing should be considered a model for other New York IOUs to follow in their final program
+implementation plans. Nevertheless, VGIC encourages National Grid to also continue to explore
+more advanced VGI offerings, such as demand response, dynamic rates, or V2G, which enables
+even more flexibility for EVs to deliver grid benefits.
+Central Hudson
+VGIC is encouraged by Central Hudson’s proposal for both passive and active managed
+charging programs in this proceeding to supplement the utility’s existing offerings. Particularly,
+the proposed active managed charging proposal to incorporate EVs into the Non-Wires
+Alternatives (NWA) program represents a unique approach among the utilities and will help
+advance an understanding of the distribution system benefits of VGI in New York. Beyond the
+existing NWA framework, Central Hudson should also consider how an NWA-like approach
+could be incorporated into Central Hudson’s transportation infrastructure programs. For
+example, VGIC notes that automated load management systems (ALMS) have been successfully
+implemented elsewhere to avoid distribution system upgrade costs associated with EV
+infrastructure deployment.
+Based on VGIC’s review of Central Hudson’s plan, it is unclear whether commercial
+customers (i.e., fleets) could participate in the active managed charging offering. In its filing,
+7
+
+Central Hudson states that “customers can purchase an on-site facility (home or nonresidential
+building) charger and apply for a qualifying rebate” but also that “active managed charging
+would be implemented through residential direct load control equipment.” Central Hudson
+should provide clarification and ensure that fleets can participate in the NWA program. Since
+fleets employ several vehicles and may include MD/HD vehicles with larger battery capacity,
+they could provide more meaningful distribution system relief during peak events at a single
+location and thus could represent good candidates for an NWA program. The inclusion of both
+residential EV customers and fleets would also be consistent with the overall NWA program,
+which allows residential as well as commercial & industrial customers to participate.
+The NWA program is also a good opportunity to implement V2G capabilities, rather than
+only reducing EV charging load. Especially with fleet customers with MD/HD EVs, V2G would
+deliver much greater distribution system benefits. Given that Central Hudson already has some
+experience with active managed charging, Central Hudson should pursue a more advanced VGI
+use case and incorporate V2G into its NWA program.
+In addition, VGIC recommends that the incentive structure includes enrollment and/or
+monthly incentives, in order to ensure program participation and offset customers’ setup costs, as
+well as performance incentives for actual load reduction benefits delivered during peak events.
+For the passive managed charging proposal, VGIC recommends that the incentives be
+paid out to participants monthly instead of annually. More frequent incentives would make the
+benefits of participation more visible to customers and encourage ongoing participation. Similar
+to the active managed charging program, providing enrollment incentives would also help
+increase program participation.
+Finally, VGIC urges that both offerings allow participation via vehicle telematics, rather
+than requiring customers to procure networked chargers to be able to participate. Many EVs’
+onboard telematics systems already have the same capabilities as networked chargers, including
+DR capabilities. There is no need to require a specific approach when either option would be
+able to achieve Central Hudson’s program goals. For some customers, being able to participate
+via vehicle telematics would even reduce a participation barrier by reducing the need for a
+networked charger. As such, Central Hudson should establish minimum technical requirements
+and allow any device, be it networked charger or vehicle telematics, to be able to participate in
+the managed charging programs.
+Orange & Rockland
+VGIC appreciates O&R’s consideration of both hardware- and software-based solutions
+in its proposed managed charging program. VGIC recommends that O&R remains flexible as to
+the participation pathways customers can choose, rather than requiring a specific approach. Both
+8
+
+networked chargers and vehicle telematics represent capable and cost-effective options to
+monitor charging behavior and enable customers to schedule their charging with the program
+incentives. O&R should allow any device or pathway to participate in the managed charging
+offering as long as they meet the appropriate technical requirements.
+Furthermore, compared to the other IOUs’ filings, O&R’s filing constituted the least
+detailed proposal. This is especially concerning since O&R’s service territory has a higher level
+of EV penetration than many other locations in the state. VGIC urges O&R to develop a more
+thorough proposal, with specific details on program structure, incentive levels, implementation
+steps, and evaluation criteria in order to provide transparency and ensure successful program
+implementation and evaluation. VGIC also encourages O&R to develop more advanced VGI
+offerings, including V2G. VGIC is eager to work with O&R staff to develop a more robust
+portfolio of managed charging offerings.
+NYSEG and RG&E
+VGIC appreciates NYSEG and RG&E’s well-developed proposal that is informed by the
+IOUs’ experience with the OptimizEV Pilot. VGIC is particularly encouraged by the inclusion of
+multiple options for charging data monitoring and charge management, as well as the inclusion
+of DR. The incorporation of escalating participation levels is an innovative approach that is
+flexible to customers’ preferences and willingness to commit to charge management.
+V. Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the DOER to ensure the success of the Clean Peak Standard DR Program.
+Respectfully submitted,
+Ed Burgess
+Policy Director
+Vehicle-Grid Integration Council (VGIC)
+9

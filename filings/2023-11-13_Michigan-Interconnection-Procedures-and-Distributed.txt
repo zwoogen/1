@@ -1,0 +1,108 @@
+STATE OF MICHIGAN
+BEFORE THE MICHIGAN PUBLIC SERVICE COMMISSION
+In the matter of the application of DTE Case No. U-21482
+ELECTRIC COMPANY for approval of
+interconnection procedures and waivers from
+Interconnection and Distributed Generation
+Standards R 460.901a et seq.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+INTERCONNECTION PROCEDURES AND DISTRIBUTED GENERATION
+STANDARDS
+I. INTRODUCTION.
+The Vehicle-Grid Integration Council (“VGIC”) is a 501(c)(6) nonprofit member-based
+association focused on accelerating the role of smart electric vehicle (“EV”) charging and
+discharging (i.e., vehicle-grid integration or “VGI”) through policy development, education,
+outreach, and research.1 Scaling VGI is an essential component of transportation electrification
+and will help accomplish the following key policy goals:
+• Benefit drivers and fleet owners by reducing the total cost of ownership and providing
+additional value streams like backup power.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Enel
+X North America, Inc., Fermata Energy, Ford Motor Company, General Motors, Nissan Group of North
+America, Nuvve Holding Corporation, Stellantis N.V., Toyota Motor North America, Blue Grid, BP
+Pulse, Customized Energy Solutions, dcbel, Emporia, EnergyHub, Enphase, EV.Energy, FlexCharging,
+FLO EV Charging, FreeWire Technologies, Inc., Gridwiz, Hoosier Energy, Innovation Core
+SEI, IoTecha, Kaluza, Kitu Systems, Landis+Gyr, NineDot Energy, Peak Power, QCells, Sacramento
+Municipal Utility District, Sunrun, Synop, The Mobility House, Inc., Utilidata, Veloce Energy, Inc.,
+Wallbox USA Inc., and WeaveGrid. The views expressed in these comments are those of VGIC, and do
+not necessarily reflect the views of all individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/).
+1
+
+• Decarbonize the transportation sector by accelerating EV adoption through unlocking
+additional benefits to EV drivers and fleet owners.
+• Support the evolving electric grid by providing essential grid services as intermittent
+energy generation and distributed energy resource penetration increases.
+• Increase affordability by placing downward pressure on rates, in turn reducing
+electricity bills for all customers.
+• Improve community resiliency and security during planned and unplanned grid
+outages.
+• Foster economic activity through innovation, competition, and market transformation.
+With the proper utility policy and regulatory support and coordination, these goals can be
+achieved, and EV drivers and fleets in Michigan can play a critical role in accelerating both
+transportation electrification and grid transition. Our vision for VGI encompasses the
+following key elements:
+• Ensure customer mobility needs are satisfied: Drivers and fleets can support the grid
+without compromising their mobility needs.
+• Managed charging will benefit EV drivers and fleet operators: Drivers and fleets in
+Michigan will be provided a menu of opportunities to align charging with the times of
+day when electricity prices are low, reducing EV and fleet operating costs by as much as
+50% compared to unmanaged charging. Lowering the total cost of EV ownership will
+accelerate overall EV adoption by drivers and fleets in Michigan.
+• EVs provide reliable emergency power during blackouts: During extreme weather
+blackouts or other power outages, EV drivers and fleets can utilize bidirectional charging
+2
+
+capabilities to send energy to a home, building, or microgrid, serving as a generator and
+providing safe backup power for households and communities.
+• Charging infrastructure deployment accelerates: Smarter management of EV charging
+can help accelerate the deployment of EV charging infrastructure, encouraging wider
+access to EV charging.
+• VGI enables EVs to provide valuable services to the grid and generate revenue:
+V1G managed charging (unidirectional charging) and V2X (vehicle-to-everything
+bidirectional charging) will enable electric vehicles to both receive and feed power back
+to the grid, providing grid services such as demand response, peak shaving, frequency
+regulation, and more. A number of utilities across the US have implemented programs
+that provide compensation for these valuable grid services.
+VGIC appreciates the opportunity to provide the following recommendations on Michigan’s
+draft interconnection procedures (“MIXDG Procedures”).
+II. VGIC RECOMMENDS THE COMMISSION CONSIDER THE V2X
+BIDIRECTIONAL CHARGING SYSTEMS BEST PRACTICES FOR SERVICE
+CONNECTION OR INTERCONNECTION FOUND IN ATTACHMENT A
+BELOW.
+Since its founding 2020, VGIC has worked with its members, in coordination with
+policymakers, utilities, and other stakeholders, to develop best practices for VGI market
+development. In 2022, VGIC commenced a special initiative to socialize best practices for the
+utility service connection/energization (load) or interconnection (generation) of vehicle-to-
+everything (“V2X”) bidirectional charging systems. As part of this effort, VGIC consulted with
+dozens of utility distribution engineers and interconnection teams, specialists in interconnection
+(e.g., Interstate Renewable Energy Council or “IREC”), and solution providers to “ground-truth”
+3
+
+a series of best practices and recommendations. The resulting findings can be found below in
+Attachment A, V2X Bidirectional Charging Systems Best Practices for Service Connection or
+Interconnection. VGIC respectfully requests that the Commission and its regulated utilities
+consider incorporating these best practices into the MIXDG and any subsequent efforts related to
+service connection or interconnection for EV chargers or energy storage systems.
+III. CONCLUSION
+VGIC appreciates the opportunity to submit these reply comments on the Interconnection
+Procedures and Distributed Generation Standards. We look forward to further collaboration with
+the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: November 13, 2023
+4
+
+Appendix A
+V2X Bidirectional Charging Systems Best Practices for Service Connection or Interconnection
+Vehicle Grid Integration Council (VGIC)
+August 2022
+Available at: https://www.vgicouncil.org/s/VGIC-Special-Initiative-2022.pdf
+5

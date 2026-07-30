@@ -1,0 +1,98 @@
+January 31, 2024
+Comments of the Vehicle-Grid Integration Council
+on Massachusetts’ DOER Charge Forward Report
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) nonprofit trade association
+focused on accelerating the role of smart EV charging and discharging (i.e., vehicle-grid
+integration or “VGI”) through policy development, education, outreach, and research. Scaling VGI
+is an essential part of transportation electrification and will help accomplish the following key
+policy goals:
+• Benefit drivers and fleet owners by reducing the total cost of ownership.
+• Decarbonize the transportation sector by accelerating EV adoption.
+• Support decarbonization of the power sector by providing necessary grid
+services as renewable energy and distributed energy resource penetration increases.
+• Increase affordability by reducing electricity bills for all customers.
+• Improve grid resiliency and security during extreme weather events.
+• Foster economic activity through innovation, competition, and market
+transformation.
+With the proper policy and regulatory support and coordination, these goals can be
+achieved, and EV drivers and EV fleets in Massachusetts can play a supportive role in the
+acceleration of both transportation electrification and grid decarbonization. Our vision for VGI
+encompasses the following key elements:
+• Ensure customer mobility needs are satisfied. Drivers and fleets can participate
+in a wide variety of VGI services without compromising their mobility needs.
+• Managed charging will benefit EV drivers and fleet operators: Drivers and
+fleets will be given the ability to align charging with the times of day when electricity
+prices are low, reducing operating costs by as much as 50% compared to unmanaged
+charging. Lowering the total cost of EV ownership will accelerate overall EV adoption
+by drivers and fleet managers, helping meet Massachusetts’ decarbonization goals.
+• EVs provide emissions-free emergency power during blackouts: During
+extreme weather blackouts or other power outages, EVs can utilize bidirectional
+charging capabilities to send energy to a home, building, or microgrid, serving as a
+generator and providing safe backup power for households and communities.
+1
+
+• Charging infrastructure dollars go further: Smarter management of EV
+charging can help manage the cost of deploying EV charging infrastructure, which
+encourages wider access to EV charging.
+• VGI enables EVs to provide valuable services to the grid and generate
+revenue: V1G (unidirectional charging) and V2G (vehicle-to-grid, or bidirectional
+charging) will enable electric vehicles to both receive and feed power back to the grid,
+supporting advanced grid services such as frequency control, demand response, peak
+shaving, and more. A number of utilities have implemented programs that provide
+compensation for these valuable grid services.
+VGIC appreciates the opportunity to provide the following recommendation on the
+Department of Energy Resources’ (“DOER”) Charging Forward: Energy Storage in a Net Zero
+Commonwealth (“Charging Forward Report”).
+VGIC recommends the 22-page DOER Charging Forward Report Summary be revised to
+accurately reflect the full report’s explicit finding that vehicle-to-everything (“V2X”)
+bidirectional charging technology can support Massachusetts’ energy storage priorities.
+VGIC commends the DOER and the Massachusetts Clean Energy Center (“MassCEC”)
+for commissioning the Charging Forward Report. As VGIC understands, the state’s first energy
+storage study was conducted back in 2016 and, as noted in the December 2023 Charging Forward
+Report, “energy storage encompasses a diverse set of technologies capable of absorbing energy,
+storing it, and later discharging the energy to meet customer and grid demands.” Vehicle-to-
+everything (“V2X”) bidirectional charging solutions unquestionably fit within this definition of
+energy storage, and VGIC notes that V2X has been deemed a type of energy storage technology
+in several other leading jurisdictions throughout the U.S. As such, VGIC supports the following
+finding in the full Charging Forward Report, which explicitly recognizes the value of V2X (i.e.,
+mobile energy storage) as an energy storage technology alongside stationary energy storage:
+“Investment in DERMS and Vehicle-to-Everything (V2X) technologies will also enable
+flexible load and electric vehicle batteries to provide many of the services of standalone
+energy storage. Leveraging these sunk-cost resources will be a valuable strategy in right-
+sizing the Commonwealth’s energy storage buildout and reducing ratepayer costs.”1
+EVs and EV fleets represent latent energy storage capacity that can charge during off-peak hours
+and help support grid reliability, affordability, decarbonization goals, and community resiliency
+by discharging when needed most, such as during on-peak hours. Yet, despite the significant
+1 Charging Forward: Energy Storage in a Net Zero Commonwealth, Prepared for MassCEC and DOER by E3. Full
+Report. December 2023. Pg. 25.
+2
+
+energy storage benefits electric vehicles have to offer via V2X and the recognition by the full
+Charging Forward Report that “[f]lexible load and [V2X] can be considered types of end-user
+energy storage”, the 22-page DOER Charging Forward Report Summary, issued December 31,
+2023, does not make any reference V2X, electric vehicles, bidirectional charging, V2G, V2B, or
+V2H as types of viable energy storage solution.2 Although the market for V2X solutions is in a
+relatively nascent state, it is VGIC’s understanding that Massachusetts may, in fact, be the
+leading state for the deployment of V2X bidirectional charging electric school bus sites, with
+dozens of such sites currently in development and many more coming. The full Charging Forward
+report completed by E3 accurately identifies V2X as a viable energy storage solution, which
+reflects the current reality of growing V2X deployment in Massachusetts. With this in mind, VGIC
+respectfully urges the DOER to revise its 22-page Charging Forward Report Summary to reflect
+E3’s explicit finding that V2X is a viable energy storage solution.
+Conclusion
+VGIC appreciates the opportunity to submit these comments on Massachusetts’ DOER
+Charging Forward report. We look forward to further collaboration with the Commission and
+stakeholders in Massachusetts on this important initiative.
+Respectfully submitted,
+Zach Woogen
+/s/ Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+2 Massachusetts DOER and MassCEC, Charging Forward: Energy Storage in a Net Zero Commonwealth – A Report of
+the Department of Energy Resources in Consultation with the Massachusetts Clean Energy Center. Report
+Summary. December 31, 2023.
+3

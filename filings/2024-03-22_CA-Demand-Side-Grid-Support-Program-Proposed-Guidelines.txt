@@ -1,0 +1,78 @@
+March 22, 2024
+Email to: docket@energy.ca.gov
+Docket Number: 22-RENEW-01
+Subject: California Energy Commission Demand Side Grid Support Program Guidelines
+Re: Comments of the Vehicle Grid Integration Council on Demand Side Grid
+Support Program Proposed Draft Guideline.
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide these
+comments in response to the Demand Side Grid Support (DSGS) Program Proposed Draft
+Guidelines, Third Edition, and the March 12, 2024, Workshop hosted by the California Energy
+Commission reviewing the proposed modifications to the DSGS Program Draft Guidelines. The
+DSGS program can unlock significant load reductions and exports to support system reliability,
+including during extreme weather events, from California’s 1.5 million – and counting – electric
+vehicles (EVs). EVs represent a low-cost resource to meet the state’s Strategic Reliability Reserves
+that can be deployed at scale and rapidly relative to other resources. However, to achieve this vision,
+the DSGS program should be enhanced as detailed below.
+VGIC Strongly Supports the Revised DSGS Program Guidelines, Including the Incorporation
+of Vehicle-to-Everything (“V2X”) Resources into Option 3 and the Extension of the Incentive
+Bonus through 2025.
+On slide 17 of the workshop presentation, the CEC proposes to include V2X bidirectional
+charging technologies in DSGS Option 3. VGIC strongly supports this modification, as bidirectional
+chargers are mobile energy storage systems that are operationally similar to the stationary energy
+storage systems already eligible to participate in Option 3.1 Additionally, the CEC proposes to
+extend the 30% incentive bonus to program year 2025 for DSGS Option 3, which VGIC supports,
+as this will help spur interest in the program and reward early adopters of a valuable but
+underutilized solution set. VGIC commends the CEC for its continued leadership in the V2X space
+and believes that including V2X in DSGS Option 3 will unlock significant emergency net load
+reductions and exports to support system reliability.
+Additionally, the CEC correctly proposes to ensure UL 1741 SB certification is not required
+for EV supply equipment (EVSE) participating in DSGS Option 3 but must still follow all applicable
+1 In 2020, the CPUC confirmed that, for the purposes of interconnection, V2X-DC chargers are energy
+storage. See CPUC Decision 20-09-035.
+1
+
+permission to operate requirements set by the relevant authority. VGIC strongly supports this
+modification, given the lack of available UL 1741 SB-certified V2X equipment.
+CEC Should Clarify Dual Participation Rules Between DSGS Option 3 and Certain CEC and
+Utility Programs.
+The CEC proposes expanding dual participation to “critical peak pricing rate plans.” VGIC supports
+this expansion and recommends the CEC clarify whether dynamic rate (i.e., “CalFUSE” rate pilots)
+participants are eligible to dual participate in DSGS. VGIC recognizes it is critical to avoid double
+counting these resources to ensure DSGS success can be properly measured and evaluated and to
+avoid inefficient use of program budgets. Notably, the CPUC hosted a workshop on March 1st to
+address the issue of double counting/compensation and to discuss methodologies to implement
+certain types of dual participation. The below graphic demonstrates the methodology developed by
+PG&E to avoid double counting/compensation between dynamic pricing pilots (i.e., CalFUSE rates)
+and various other demand-side management measures:
+Given that ELRP and DSGS are both emergency demand response programs, VGIC posits that the
+above graphic would look nearly identical if “ELRP” were replaced with “DSGS.” As such, VGIC
+recommends the CEC explicitly clarify whether dual participation is permitted between DSGS and
+dynamic rates, not just CPP, to allow for “value stacking” and ensure DSGS funds can be
+supplemented to unlock the greatest possible amount of incremental emergency capacity.
+Additionally, the CEC’s Distributed Electricity Backup Assets (DEBA) solicitation concept weighs
+dual participation across DEBA and DSGS for certain customer participation Pathways. VGIC
+recommends that the CEC’s updated DSGS guidance also reflect this dual participation use case to
+avoid customer confusion.
+CEC Should Consider in Future Revisions How to Account for V1G Load Reduction Within
+DSGS.
+2
+
+The CEC should consider how to account for unidirectional or “V1G” load reduction in
+future DSGS revisions. As California experiences consistent growth in EV deployment, using every
+tool in the toolkit will be critical to enable EV load flexibility. VGIC respectfully requests the CEC
+staff to continue collaborating with stakeholders to develop DSGS enhancements that promote
+greater EV participation, including in unidirectional or “V1G” mode.
+Conclusion.
+VGIC appreciates the opportunity to provide these comments and looks forward to
+collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council
+Albert Tapia
+Policy Analyst
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+3

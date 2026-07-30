@@ -1,0 +1,153 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 24-01-018
+Establish Energization Timelines. (Filed January 25, 2024)
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ESTABLISHING TARGET ENERGIZATION TIME PERIODS
+AND PROCEDURE FOR CUSTOMERS TO REPORT ENERGIZATION DELAYS
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: August 29, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 24-01-018
+Establish Energization Timelines. (Filed January 25, 2024)
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PROPOSED DECISION ESTABLISHING TARGET ENERGIZATION TIME PERIODS
+AND PROCEDURE FOR CUSTOMERS TO REPORT ENERGIZATION DELAYS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Decision Establishing Target Energization Time Periods and Procedure
+for Customers to Report Energization Delays (“Proposed Decision” or “PD”) issued by President
+Alice Reynolds on August 12, 2024.
+I. INTRODUCTION.
+VGIC supports the PD’s establishment of energization timelines for the investor-owned
+utilities (“IOUs”). This is an important first step to improving customer experience and satisfaction
+with the energization process. VGIC strongly supports the Commission requiring IOUs to provide
+a wide range of data and information on energization, as outlined in Appendix B to the PD. As the
+PD discusses, “The data collected [...] can improve the Commission’s ability to identify the
+appropriate amount of future acceleration of the large electric IOUs’ energization target(s) in Phase
+2 of this proceeding.”1 The PD correctly explains that the timeline targets laid out in the PD will
+1 PD at 70.
+2
+
+most likely require refinement since, even under the proposed requirements, timelines will remain
+long and exceed customer expectations.
+In this proceeding, VGIC has discussed using flexible service connection approaches as
+important bridge solutions to energize sites that would otherwise face lengthy energization
+timelines. This can be done by energizing only a portion of load, changing import limits according
+to a pre-set schedule, responding dynamically in response to signals from Advanced Distribution
+Management Systems (“ADMS”) or Distributed Energy Resource Management Systems
+(“DERMS”), or other potential pathways. Flexible service connections will be critical in enabling
+the IOUs to better meet energization timelines in the near and even mid-term, especially for
+projects requiring distribution or upstream system upgrades.
+The PD does not discuss flexible service connections, but Appendix B of the PD does
+propose collecting limited data on them. Given that two IOUs are running flexible service
+connection pilots and that the Commission and many stakeholders are actively discussing how to
+expand these offerings, additional data should be gathered on the use of flexible service
+connections within IOU service territory. VGIC respectfully urges the Commission to revise the
+PD to incorporate additional data points in Appendix B supported by the record.
+II. ADDITIONAL DATA SHOULD BE GATHERED ON FLEXIBLE SERVICE
+CONNECTIONS.
+In Appendix B of the PD, Questions 32 and 34 ask whether a flexible service connection
+was used for a given project and “if flexible service was utilized to provide service, the amount of
+load (kW) provided to the applicant, the remaining load requested by the applicant, and an estimate
+for when full service will be provided to the applicant.”2 VGIC strongly supports the inclusion of
+2 PD, Appendix B at 4.
+3
+
+these two questions, which will provide a basic – and currently lacking – understanding of how
+many customers are using flexible service connections.
+However, the PD presents a critical opportunity to gather additional data to inform the
+development of different flexible service connection offerings. VGIC recommends adding the
+following additional data requests to Appendix B:
+● The party proposing the flexible service connection - the utility or the customer.
+● The type of the accepted flexible service connection (pre-programmed schedule, dynamic
+dispatch, etc.)
+● The type of flexible service connection technology in use (e.g., power control systems,
+integrated or co-located generation or storage).
+VGIC recommended these questions in its Opening Comments on the Scoping Memo of
+this proceeding. In those comments, VGIC explained that there is no standardized process for
+flexible service connections and no clear path to better understanding the types and scale of flexible
+service connections in use, the extent to which they can shorten energization timelines, or the
+deferred and/or avoided costs that result from leveraging flexible service connections.
+Pacific Gas and Electric (“PG&E”) and Southern California Edison (“SCE”) are currently
+running separate flexible service connection pilots. Both IOUs will gather and share some data.
+For example, SCE will provide the Commission with biannual updates on its LCMS pilot.
+However, those reports will focus on the technical performance of LCMS equipment and
+accounting of rejected LCMS applications and the reasons for the rejections.3 VGIC supports the
+gathering of this information. However, in developing broader flexible service connection service
+offerings, the additional information requested above will help to guide the Commission towards
+3 SCE Advice Letter 5138-E at 9.
+4
+
+making better-informed choices about how to move forward. Some flexible service options, for
+example, certain schedules may be more popular with customers, and the IOUs and customers may
+find technologies best suited to enabling flexible service connections. Also, while it seems that the
+IOUs are currently the entities that recommend the pilots to their customers, as customers and
+developers become more familiar with new options, they may ask the IOUs if flexible service
+connection options are available to them.
+Given that these pilots are ongoing, the Commission should start to gather as much data as
+possible on customer use of flexible service connections and preferences for different options.
+This is especially important because the Commission should authorize expanded flexible service
+connection offerings before the scheduled end of the pilots. As the IOUs face challenging delays
+in energization timelines for many customers, especially large EV charging customers, the
+Commission should work to allow for more rapid processes as soon as possible. Already, the
+Commission had clawed back its adopted efforts on automated load management, initiated by the
+2020 VGI Strategies and SB 676 Implementation Decision (D.20-12-029), such that two IOUs
+have initiated separate (much-needed) flexible service connection pilots. VGIC urges the
+Commission to avoid once again allowing the situation to evolve without its leadership to ensure
+that policy development is coherent, intentional, and data-backed.
+III. CHANGES TO ENERGIZATION RULES TO ENABLE FLEXIBLE SERVICE
+CONNECTION SHOULD BE TAKEN UP IN A TIMELY MANNER.
+VGIC has commented many times that flexible service connections are a cross-proceeding
+issue. The High DER Proceeding (R.21-06–017) is taking up many issues related to establishing
+the flexible service connection options, including the development of Limited Load Profiles,
+implementation of power control system standards, methods of allocating available Firm and Non-
+5
+
+Firm distribution system hosting capacity, and overall technical requirements and utility business
+practices needed to operationalize flexible service connection. Stakeholders have submitted
+comments on these issues and will continue to engage in the High DER proceeding to develop
+broader offerings.
+At the same time, enabling broad flexible service connection may require changes to the
+IOUs energization rules. In response to a motion from Enphase Energy on flexible service
+connections in R.21-06–017, the Commission stated that “Any changes to the energization rules
+will be addressed in a proceeding specific to energization.”4 Therefore, VGIC recommends that
+modifications to the energization rules to allow for flexible service connections be explicitly
+scoped into in Phase 2 of this proceeding. If the Commission cannot scope this into Phase 2 at this
+time, the issue should be taken up in a timely manner in this proceeding as soon as conversations
+in the High DER proceeding turn towards energization rule modification. VGIC reiterates its above
+caution: the Commission should seize the present opportunity to expeditiously adopt the necessary
+elements of a flexible service connection framework,5 rather than waiting for the on-the-ground
+energization timeline situation to become dire enough to warrant further ad hoc, inconsistent, and
+ill-defined IOU-initiated programs. While energization timeline goals and targets are helpful
+guidance, we still lack the necessary tools to achieve these timelines and flexible service
+connection offers one of the few tools available to us.
+IV. CONCLUSION.
+4 Administrative Law Judges’ Ruling Denying Enphase Motion At 6.
+5 These elements may include, for example, clear and consistent technology eligibility rules, effective channels for
+customers and utilities to initiate and navigate the flexible service connection process, optional flexible service
+connection types (e.g., Firm vs Non-Firm Import Limits, 288-value Limited Load Profiles, dynamic response to
+centralized ADMS/DERMS control, scaled service, etc.) customer enablement tools (e.g., hosting capacity maps that
+can support decisions regarding both where to install equipment and how to operate it), and a clear goals-outcomes-
+metrics framework to track the success of a given flexible service connection program, tariff, or other initiative.
+6
+
+VGIC appreciates the opportunity to provide these comments on the Proposed Decision.
+We look forward to further collaboration with the Commission and stakeholders on this
+initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: August 29, 2024
+7

@@ -1,0 +1,87 @@
+February 28, 2023
+Hon. Michelle L. Phillips
+Secretary to the Commission
+New York State Public Service Commission
+Empire State Plaza
+Agency Building 3
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission Regarding Electric
+Vehicle Supply Equipment and Infrastructure
+Matter 22-02356: In the Matter of EV Technical Standards Working Group
+Comments of the Vehicle-Grid Integration Council (VGIC)
+to the Joint Utilities’ Testing Proposal for Managed Charging-Enabling Technologies
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates the
+opportunity to provide these comments on the Joint Utilities’ proposal for testing the accuracy of
+managed charging-enabling technologies.
+Overall, the Joint Utilities’ proposal will help advance the use of managed charging-
+enabling technologies for submetering purposes, and VGIC commends the Joint Utilities’ effort
+and thought in developing the proposal. The collection of charging data from several sources
+(utility meter, EV supply equipment, onboard diagnostics, telematics aggregator) for the same
+charging session will enable a comparison of the capabilities of each pathway to inform the
+Technical Standards Working Group (TSWG) and the Commission in determining the
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, Inc., bp pulse,
+Customized Energy Solutions, dcbel, Enel X North America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO
+EV Charging, Ford Motor Company, FreeWire Technologies, Inc., General Motors, Gridwiz, Inc., Hoosier Energy,
+Innovation Core SEI, IoTecha, Kaluza, Kitu Systems, NineDot Energy, Nissan Group of North America, Nuvve
+Holding Corporation, Peak Power, Q CELLS USA Corp., Sacramento Municipal Utility District, Stellantis N.V.,
+Sunrun, Switch EV Ltd, The Mobility House, Toyota Motor North America, Inc., Utilidata, Inc., Veloce Energy,
+Inc., Wallbox USA Inc., and WeaveGrid. The views expressed in these Comments are those of VGIC, and do not
+necessarily reflect the views of all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+appropriate data accuracy standards. This exercise will be useful not only for New York’s
+transportation electrification goals but also for other states looking to follow New York’s
+footsteps in exploring and implementing submetering.
+Additionally, VGIC appreciates the Joint Utilities’ willingness to explore incorporating
+Direct Current Fast Chargers (DCFCs) into the testing process, per the discussion during the
+February 15th TSWG meeting, even though it is not a requirement under the July 2022 Managed
+Charging Order. As stakeholders have pointed out, commercial customers with DCFCs also
+stand to benefit from submetering, especially those seeking to leverage their EVs for
+bidirectional use cases such as demand charge management or resiliency (i.e., vehicle-to-
+building or vehicle-to-microgrid). By lowering electric bills and enhancing the value proposition
+of EVs, these use cases will help promote transportation electrification, including the
+electrification of medium- and heavy-duty vehicles.
+Lastly, given the significant potential benefits of submetering, VGIC encourages the Joint
+Utilities and TSWG to conduct the testing process and develop proposals for accuracy standards
+and testing protocols on an accelerated timeline compared to that established in the July 2022
+Managed Charging Order. The July 2024 deadline for completing the testing process and
+October 2024 deadline for submitting a comprehensive filing to the Commission, as laid out in
+the Managed Charging Order, represent the latest possible dates for the completion of these
+actions.2 However, the TSWG is free to target earlier completion dates. Based on the maximum
+timelines (i.e., July 2024 for testing and October 2024 for proposal filing), submetering will
+likely not be enabled for EV customers in New York until 2025-2026 timeframe, much later than
+the likely availability of the EV Phase-In Rate in the 2024-2025 timeframe.3 This means that
+customers with lower charging capacity than other site loads who would otherwise take
+advantage of the submetering capabilities of their EVSE or EVs will either have to 1) install a
+separate meter and bear the associated costs, or 2) forego the potential bill savings under the EV
+Phase-In Rate altogether.4 Therefore, VGIC encourages the Joint Utilities and TSWG to
+accelerate their efforts in order to maximize the number of customers who can leverage
+submetering to participate in the EV Phase-In Rate.
+2 Order Approving Managed Charging Programs with Modifications, pg. 27-28. July 14, 2022. Case 18-E-0138.
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={A1E3F84E-0710-4073-865F-
+FE7D4816B76B}
+3 Order Establishing Framework for Alternatives to Traditional Demand-Based Rate Structures, pg. 10. January 19,
+2023. Case 22-E-0236. https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2043A628-EC7D-
+4064-9F32-662D82598760}
+4 See Order Establishing Framework for Alternatives to Traditional Demand-Based Rate Structures, Appendix C.
+January 19, 2023. Case 22-E-0236.
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={2043A628-EC7D-4064-9F32-
+662D82598760}
+2
+
+VGIC appreciates the opportunity to provide these comments and looks forward to
+continuing working with the Commission, Staff, the Joint Utilities, and other stakeholders to
+ensure the success of New York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+vgicregulatory@vgicouncil.org
++1 (941) 266-0017
+www.vgicouncil.org
+3

@@ -1,0 +1,201 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA FILED
+01/06/20
+04:59 PM
+Order Instituting Rulemaking to Consider
+Streamlining Interconnection of Distributed
+Rulemaking 17-07-007
+Energy Resources and Improvements to
+(Filed July 13, 2017)
+Rule 21.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON VEHICLE TO
+GRID ALTERNATING CURRENT INTERCONNECTION SUBGROUP REPORT
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRIDINTEGRATIONCOUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941)266-0017
+Email: eburgess@vgicouncil.org
+Dated: January 6, 2020
+1 / 8
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Consider
+Rulemaking 17-07-007
+Streamlining Interconnection of Distributed
+(Filed July 13, 2017)
+Energy Resources and Improvements to Rule 21.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON VEHICLE TO
+GRID ALTERNATING CURRENT INTERCONNECTION SUBGROUP REPORT
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1hereby submits
+comments on the Vehicle-to-Grid (“V2G AC”) Interconnection Technical Sub-Group Final
+Report (“Final Report”)submitted in Rulemakings 17-07-007 and R. 18-12-006 on December
+11, 2019. Pursuant to Joint Administrative Law Judges’ Ruling Establishing Subgroup and
+Schedule to Develop Proposal on Mobile Inverter Technical Requirements for Rule 21 and
+Noticing Workshop, issued by Administrative Law Judges Kelly A. Hymes, Sasha Goldberg, and
+Patrick Doherty on August 23, 2019, VGIC timely files these comments on January 6, 2020 in R.
+17-07-007 and 18-12-006. VGIC also previously filed a motion for party status in these
+proceedings on January 6, 2020.
+1VGIC membercompaniesand supportersincludeAmerican Honda Motor Co., Inc.,Enel XNorth America, Inc.,
+Fiat Chrysler Automobiles,Ford Motor Company,General Motors Company,and Nuvve Corporation.The views
+expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the individual
+VGIC member companiesorsupporters. (https://www.vgicouncil.org/).
+1
+2 / 8
+
+I. INTRODUCTION
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”)and vehicle-grid integration (“VGI”)through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid. VGIC appreciates the opportunity to participate in this proceeding to
+inform and shape the development of a pathway to V2G AC interconnection.
+II. COMMENTS
+VGIC commends the considerable effort made by stakeholders that contributed to the
+timely drafting ofthe Final Report submitted on December 11, 2019. In particular, the VGIC
+would like to thank the authors for including several items that reflect the input and perspective
+of the automotive manufacturers (“OEMs”), several of which are VGIC members.
+VGIC believes this Final Report represents a significant step forward in establishing a
+clear pathway for V2GAC interconnection under the Rule 21 tariff, and ultimately towards
+greater provision of grid services from plug-in electric vehicles, (“PEVs”) and increased PEV
+adoption. As the Commission weighs next steps, VGIC has specific comments regarding each of
+the two Recommendations included in the Final Report, which are detailed below.
+A. Comments on Recommendation 1: Pre-conditions for Reconvening Subgroup
+Consistent with Recommendation 1 of the Final Report, VGIC supports reconvening the
+subgroup in the July 2020 timeframe. During the December 17, 2019 subgroup workshop, there
+2
+3 / 8
+
+appeared to be general consensus that a one-day workshop in July 2020 would be an appropriate
+path forward as a way to maintain the subgroup’s momentum, without prematurely
+overcommitting resources to the process. VGIC supports this approach, as it would also allow
+sufficient time for further development of relevant SAE, UL, and IEEE standards, as outlined in
+Section 7A and 7B of the Final Report. VGIC members are actively involved in pursuing these
+updates and believe that this proposed timeline is appropriate. VGIC also agrees with Staff’s
+suggestion that it may be helpful to identify a list of tasks that are expected to be accomplished
+prior to the July 2020 workshop. At a minimum, this list of tasks should include the identified
+updates to SAE J3072 and UL 9741. It could also include further actions surrounding pathways
+forOEM internal testing validation procedures (i.e., “self-certification”).
+While additional time to accomplish these tasks is appropriate, it is important that action
+on V2G AC interconnection be resumed quickly. Meaningful progress on the development of
+V2G AC interconnection pathways has been impeded by the misconceived notion that policies to
+enable the interconnection of V2G AC systems are not yet needed because industry stakeholders
+arenot developing products or services requiring such policies. During the December 17, 2019
+workshop, some stakeholders specifically addressed this and raised questions over whether the
+OEMs’ current product plans include full V2G services, and, if so, in what time frame. VGIC
+can confirm that at least some OEMs have tested operational V2G AC demonstration vehicles,
+and some have product plans that include full V2G services within a five year time horizon. Any
+further delay to the development of interconnection pathways for V2G AC systems may
+unnecessarily hinder such plans. The Commission and this subgroup have built important
+momentum towards developing a well-defined interconnection pathway that can signal to OEMs
+that they should continue their product plans for V2G AC systems. As such, VGIC asserts that
+3
+4 / 8
+
+continued action within this subgroup is required and aligns with the PEV industry stakeholders’
+proposal to reconvene work in mid-2020. The mid-2020 reconvening is necessary to ensure that
+final Rule 21 tariff language can be adopted within the next fewyears, and match OEMs’
+product development targets.
+B. Comments on Recommendation 2: Consider Jurisdictional QuestionsRegarding
+OEM Internal Testing
+OEMs, including VGIC members, have expressed general concerns about the practicality of
+meeting third-party, testing requirements (i.e., performed by a Nationally-Recognized Testing
+Laboratory [“NRTL”]) for on-board inverters including both UL 1741 and a forthcoming IEEE
+1547.1-2020. As described in the Final Report, such practices, which may be the norm for
+stationary solar PV inverters, are not a good fit for the OEM manufacturing process and vehicle
+development cycle. OEMs generally apply extremely rigorous testing procedures for meeting
+vehicle safety and product reliability standards; however, these are typically conducted through
+internal procedures. Requiring third-party testing on a regular basis would place immense
+administrative and logistical burdens on all parties and act as a barrier to V2G market
+development. VGIC believes that the Final Report adequately expresses OEM norms around
+internal testing and effectively describes the nuances of the dynamic, competitive automotive
+industry. Despite these concerns, OEMs are committed to ensuring grid safety and reliability for
+interconnected vehicles and developing methods that communicate compliance to adopted
+standards. Moreover, VGIC recognizes that the Commission and investor-owned utilities
+(“IOUs”)would like to understand possible mechanisms to review and approve validation results
+from OEM internal testing procedures as a means to ensure grid safety and reliability for
+interconnecting V2G AC devices. The VGIC has considered several potential pathways and
+4
+5 / 8
+
+practices that might behelpful in this regard, as reviewed below. Note that these ideas are still
+evolving and should not be interpreted as formal recommendations from any VGIC member
+company. Additional stakeholder discussion is needed for each.
+1. CPUCValidation Process: Stakeholders could collaborate to establish a method that
+allows the Commission to obtain “validation certificates” which confirm compliance
+with the robust protocols executed by the OEMs in their adherence to SAE and other
+relevant internal testing protocols.
+2. Federal Validation Process: In lieu of the CPUC serving as a validation entity, this
+task could also be performed by a Federal entity. This concept was discussed at the
+December 17, 2019 workshop and VGIC has begun exploring solutions to the
+interconnection standards issues at the Federal level. The National Highway Traffic
+Safety Administration (“NHTSA”) audits complete vehicles to ensure OEMs have
+met Federal Motor Vehicle Safety Standards (“FMVSS”). An interim step could be
+taken prior to the July 2020 update to explore the possibility of adding V2G
+interconnection standards to NHTSA’s scope through the FMVSS process. VGIC
+also notes that this sort of process could potentially establish a national framework for
+V2G interconnection that would help provide consistency in markets outside of
+California. The December 17, 2019 workshop also included questions on whether the
+Federal Energy Regulatory Commission (“FERC”)is a candidate for Federal
+validation, though VGIC believes FERC is likely not well-equipped to serve this role
+at present.
+3. IOU Uniform Data Request: Another option entails an IOUrequesting to review
+relevant datasets and/or test reports from the OEMs’internal testing process. Several
+5
+6 / 8
+
+OEMs retain robust records from all vehicle testing. However, this information is
+generally kept confidential. It may be appropriate for a uniform request to be made to
+all OEMs detailing how to confidentially and securely provide this information to
+IOUs for purposes of certifying compliance with applicable V2G AC interconnection
+standards. It may be appropriate for the Commission to have arolein shaping this
+type of request, such that it is amenable to both the IOUs and OEMs needs.
+4. UL 9741 as theRelevant Third-Party Standard: While UL 9741 is not yet a
+published standard for V2G AC-capable EVSE, there was wide acknowledgement in
+the Final Report and at the December 17, 2019 workshop that it could readily be
+developed forthe purposes of interconnecting V2G AC systems. The further
+development and subsequent release of UL 9741 could adequately address both the
+IOUs’grid safety requirements and the OEMs’ issues with third-party certification.
+Under a future where UL 9741 serves as a standard for bi-directional EVSE (either
+for off-board or split inverter configurations), IOUs can certify the stationary V2G
+AC EVSE through a third-party NRTL and OEMs can continue their robust internal
+testing protocols for their vehicles. VGIC recommends that the Commission indicate
+directly to UL that it should begin the development process for UL 9741 prior to the
+July 2020 update. The concurrent timing of SAE J3072 and UL 9741 revisions will
+allow OEMs’ design and engineering teams to continue apace with V2G AC product
+development and deployment.
+5. OEMs as a NRTL: Apossibility someOEMs could explore is pursuing certification
+as aNRTL. Testing labs operated internally by many OEMs have similar test
+equipment, calibration requirements, and qualification protocols as NRTLs. As such,
+6
+7 / 8
+
+some OEMs may be able to provide data output and test results that areconsistent
+with the approach offered by NRTLs. There is someprecedent for this approach, and
+OEMs have had certification approved for specific subsets of tests through
+collaborations with federal agencies and research labs.
+VGIC would like to emphasize that these options represent a limited subset of potential paths
+forward. VGIC would like to continue discussion on these options as well as explore other
+options not listed above.
+III. CONCLUSION
+VGIC appreciates the opportunity to submit thesecomments in response to the Final
+Report and the December 17, 2019 workshop. We look forward to further collaboration with the
+Commission and stakeholders on this initiative.
+Respectfullysubmitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRIDINTEGRATIONCOUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941)266-0017
+Email: eburgess@vgicouncil.org
+Date: January 6, 2020
+7
+Powered by TCPDF (www.tcpdf.org)
+8 / 8

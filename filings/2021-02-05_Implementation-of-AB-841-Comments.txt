@@ -1,0 +1,354 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA FILED
+02/05/21
+04:59 PM
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE ASSIGNED COMMISSIONER’S RULING REGARDING
+IMPLEMENTATION OF ASSEMBLY BILL 841
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+February 5, 2021
+1
+1 / 16
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE ASSIGNED COMMISSIONER’S RULING REGARDING
+IMPLEMENTATION OF ASSEMBLY BILL 841
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission” or “CPUC”), the Vehicle-Grid Integration Council (“VGIC”) 1
+hereby submits these opening comments on the Assigned Commissioner’s Ruling Regarding
+Implementation of Assembly Bill (“AB”) 841, issued on January 15, 2021.
+I. Introduction
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+1 VGIC member companies include American Honda Motor Co., Inc., Connect California LLC, Enel X North
+America, Inc., Fermata, LLC., Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nissan
+North America, Inc., Nuvve Corporation, The Mobility House, Toyota Motor North America, Inc., and Ossiaco, Inc.
+The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2
+2 / 16
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+II. Relationship of AB 841 to Overarching TE Issues and ALM
+In considering how to implement AB 841, the Commission should bear in mind two
+critical facts regarding California’s overall efforts to electrify the transportation sector.
+ Fact 1: There is a significant gap between the chargers currently projected to be
+deployed and the number of chargers needed to reach California’s 2025 and 2030 EV
+goals. The California Energy Commission (“CEC”) recently issued its Electric Vehicle
+Charging Infrastructure Assessment in response to AB 2127. The report showed that
+while there are over 188,000 chargers installed or projected to be installed by 2025, this
+still leaves a gap of about 62,000 chargers needed to meet the state’s goals for 1.5 million
+EVs by 2025. Moreover, there is a gap of over 1.5 million chargers to meet state goals for
+8 million EVs by 2030. Absent significant additional publicly funded chargers, many of
+these will likely need to come from private installations.
+3
+3 / 16
+
+ Fact 2: Ensuring a positive experience for new EV drivers and site hosts is central to
+accelerating EV adoption in support of electrification goals. Meeting California’s
+ambitious transportation electrification goals will be made much more difficult without
+robust demand for EV adoption relative to internal combustion engines (“ICE”). This in
+turn means that the Commission should ensure that EV-related programs and policies are
+able to accommodate a wide range of customer needs and preferences and are designed
+with the customer experience in mind. This concept applies to both new EV drivers who
+may be hesitant about the longer refueling times required for EVs, as well as new EV
+supply equipment (“EVSE”) site hosts who could be deterred from installing charging
+stations if they encounter unexpected cost barriers.
+With respect to the gap in chargers (as well as the customer experience), AB 841 helps to
+overcome this barrier by removing site host cost responsibility for upfront costs related to new or
+upgraded utility service connections that, if not covered by transportation electrification (“TE”)
+program funding, may otherwise be prohibitive. As was discussed by Peninsula Clean Energy in
+4
+4 / 16
+
+the January 29th Automated Load Management (“ALM”) workshop, some site hosts have been
+deterred from installing EVSE due to unforeseen distribution upgrade costs that made the
+projects too expensive to move forward. However, VGIC also recognizes that this presents a new
+challenge for encouraging ALM and ensuring associated benefits to ratepayers. Under AB 841,
+there is no direct incentive for site hosts to pursue load management solutions if they are not
+responsible for utility-side distribution upgrade costs. Meanwhile, allowing virtually unrestricted
+distribution upgrade costs for EVSE deployment could place a potentially significant cost burden
+on all other ratepayers with little means to mitigate those costs.
+One hypothetical solution to this challenge (which VGIC does not support, but is
+implicated in the Assigned Commissioner Ruling (“ACR”)) would be to impose new load
+management requirements (e.g. via ALM) on any ratepayer funded TE infrastructure, including
+those covered by AB 841. However, VGIC is concerned that this approach would risk both: 1)
+failing to close the gap in charger deployment since prospective site hosts could be subject to,
+and deterred by, additional upgrade costs if they do not wish to install ALM, and 2) failing to
+accommodate customers with faster or higher capacity charging, needs thus jeopardizing overall
+EV adoption rates. Moreover, we do not view this approach as consistent with the language of
+AB 841 overall. Instead, ALM should be an option in all EVSE installations, but not a
+requirement. Similarly, there should not be use cases that are automatically considered
+appropriate or inappropriate for ALM. Those decisions should be left to the customer if they
+decide their charging needs can be met using ALM. A good example is DC fast charging at
+destination charging centers. Most likely, EV customer needs at such a location will require an
+immediate, very fast, full charge that will in turn require that the full nameplate of the EVSEs be
+5
+5 / 16
+
+used and ALM is an unfavorable choice. However, if a charging provider believes they can
+provide this service to the satisfaction of their intended customers using a sub-nameplate
+connection with ALM, they should be free to choose to do so. We reiterate however, that ALM
+should not be a requirement under AB 841, and providers should not be forced to accept a
+smaller than nameplate connection (whether explicitly required or implicitly required due to cost
+barriers) if they do not wish to do so. As an alternative, VGIC proposes that the Commission
+could require each investor-owned utility (“IOU”) to develop a new “shared savings” incentive
+mechanism as an option for customers that is designed to encourage (but not require) site hosts to
+incorporate ALM. If implemented successfully, this could provide sufficient flexibility to EV
+customers and site hosts that it would avoid slowing down transportation electrification, while
+also reducing overall costs borne by ratepayers from EV-related distribution upgrades under AB
+841 by encouraging load management. A conceptual version this approach was presented by
+VGIC at the January 29th, 2021 ALM workshop, which was informed by discussion with the
+Joint Commenters2 as represented by the informal comments provided by the Joint Commenters
+on January 15th, 2021.
+III. VGIC Proposed Optional ALM Incentive Mechanism
+Under VGIC’s proposed approach we envision that the utility-side distribution upgrades
+covered by ratepayers under AB 841 would normally be based on the maximum charging level
+required to meet the desired charging needs of a site host installing new EVSE equipment. For
+example, if a multi-unit dwelling (“MUD”) seeks to deploy a charging station with 10 ports, the
+2 Environmental Defense Fund, Enel X, Nuuve, Siemens, Greenlots, the Vehicle-Grid Integration Council,
+Advanced Energy Economy, and the Natural Resources Defense Council (collectively, “Joint Commenters”)
+6
+6 / 16
+
+distribution upgrades would be sized to accommodate a new service with 10 ports charging at
+full load. Assuming 8 kW per port, that would equate to 80 kw of incremental coincident
+charging demand. This is illustrated in the Figure below with the first blue bar on the left meant
+to depict this as the “baseline” level of distribution upgrade, and the associated costs borne by
+ratepayers (note that these are round numbers used for illustrative purposes and may not reflect a
+real-world situation).
+Figure 1. Overview of VGIC's proposed approach (numbers used for illustrative purposes and may not reflect a real-world
+situation)
+The second bar shows what might be practically achievable through ALM. For example,
+perhaps the distribution upgrades could be reduced from what is required for 10 ports to the
+equivalent of 5 ports through ALM thus reducing coincident charging demand to 40 kW, or 4
+kW per port (on average). Using ALM, customers would not be restricted to only charging at
+maximum of 4 kW per port. Rather, some EVs may be charging at 8 kW, while others who do
+not immediately need a charge can delay charging entirely, or charge at a lower rate. The blue
+bar is reduced accordingly, and the hollow portion on top would be the savings realized by utility
+ratepayers. Under a strict interpretation of AB 841, there is no rationale or incentive for the site
+7
+7 / 16
+
+host or EVSE provider to incorporate ALM since there is no way for the site host to directly
+capture the benefits of these avoided upgrade costs. Meanwhile, the third bar on the right shows
+how a shared savings mechanism could work to help encourage ALM deployment on a voluntary
+basis, with an incentive provided to the site host or ALM provider (shown in light blue). The
+level of the incentive would be linked to a percentage of avoided distribution upgrade costs
+realized by implementing ALM. VGIC believes there are many benefits to this approach
+including the following:
+ It allows flexibility for EV customers to choose what level of charging service they need
+without fear of unexpected costs, while still encouraging ALM that yields benefits to all
+ratepayers.
+ It supports achievement of TE goals by helping to defray customer cost of installing new
+EVSE, including customers not otherwise eligible for other rebates.
+ It applies competitive pressure to IOU-owned EVSE and make-ready investments by
+providing a benchmark for achievable ALM-enabled cost reductions.
+ It balances ratepayer savings from ALM with EV customer choice and need to reduce
+cost barriers for site hosts.
+VGIC proposes that the incentive could be comprised of both an upfront payment
+component for non-demand related costs that are readily known in advance without extensive
+engineering studies (e.g. meter, service drop). These would primarily apply to customers using
+ALM to enable EV use on an existing service. In addition, there could be an on-going payment
+(e.g. through a bill credit) reflecting an estimated average of avoided demand-related costs (e.g.
+transformer upgrades) achieved by all ALM customers on a specific circuit. This could apply to
+8
+8 / 16
+
+customers using ALM on both existing or new service and could scale with the amount of ALM
+applied (versus nameplate charging potential). The bill credit mechanism has the added
+advantage of providing greater certainty to new EVSE customers by not requiring them to await
+lengthy engineering studies before determining the incentive level.
+In proposing this solution, VGIC recognizes that there are likely some aspects of this
+mechanism that may take additional time and stakeholder input to resolve. Some relevant
+questions are provided below, though VGIC does not propose specific answers to these at this
+time:
+ What customer types are eligible for an ALM incentive (e.g. MUD, public charging,
+workplace charging, fleets)? Should there be any different treatment for customers
+participating in TE programs?
+ Which specific avoided cost components would be linked to each incentive component
+(upfront, versus ongoing bill credit)?
+ How should the bill credit be calculated (e.g. How are incremental distribution upgrade
+costs identified? Should it be linked to circuit-specific loading levels? Could a similar
+method be used to determine the “circuit adder” included in SDG&E’s Power Your Drive
+VGI Rate?)
+ How should the bill credit be adjusted over time if additional distribution upgrades are
+ultimately needed to accommodate EV charging?
+ What percent of the total savings should be shared with the ALM-provider/host customer
+and what percent should be retained by all ratepayers? Should an additional share of
+9
+9 / 16
+
+savings be offered to customers pursuing ALM-enabled EVSE in underserved
+communities?
+IV. Timeline for Implementation
+VGIC believes that the basic implementation of AB 841 can and should proceed in a
+timely manner to establish the relevant tariffs required under the law even before any ALM
+incentive mechanisms is fully resolved. However, we also believe that it would be beneficial to
+revise those tariffs at a later date to incorporate the ALM incentive component being described
+here. Some additional time is likely needed to develop the details of this component (including
+the questions posed above), which need not be rushed. As such VGIC recommends that any
+Commission Order on AB 841 include an additional process (e.g. workshop and comment
+period) for further developing the ALM incentive that can be incorporated into the tariffs and
+approved in a subsequent Order.
+V. Implications for alleviating primary distribution costs via ALM through
+aggregation.
+While the approach being proposed here is targeted at the secondary distribution system
+upgrades associated with a single location, the general concept could be adapted in the future to
+using ALM to alleviate primary distribution system costs either at one location or across multiple
+locations. This could be performed by an aggregator such as an original equipment manufacturer
+(“OEM”) or EV Service Provider (“EVSP”) using load management in the same distribution grid
+footprint. Since AB 841 requires the Commission to consider implementation of new tariffs,
+VGIC recommends that such tariffs also consider including an aggregator option that would
+10
+10 / 16
+
+perform this function. This may require additional stakeholder input beyond the immediate
+question of how to implement AB 841, but is worth considering as a longer-term objective that
+could leverage the Commission’s experience in this process.
+VI. Response to Specific Questions in the ACR
+VGIC provides the following comments on specific sections of the January 15th ACR.
+Common Treatment for Excess PEV (Plug-in Electric Vehicle) Charging
+VGIC agrees with the ACR’s interpretation of AB 841 and proposal that “the policy
+known as the Common Treatment for Excess PEV Charging continue indefinitely until revised
+by the Commission.”3
+Cost Tracking
+The ACR sought comments on information the Commission would need to collect “with
+respect to cost data and other metrics, to determine the effectiveness of electrical corporation
+spending and promote transparency.”4 VGIC supports collection of additional information on
+costs as proposed in the ACR. Additionally, if VGIC’s proposed shared savings mechanism is
+adopted, we recommend collecting data on the following: 1) total number of new EVSE
+installations that choose to include ALM and total number that do not include ALM, 2) total
+amount of distribution system upgrade cost avoided through ALM, 3) total portion of these
+3 ACR at 3
+4 ACR at 6
+11
+11 / 16
+
+savings (from 2) that were returned to ratepayers, and 4) total portion of these savings that were
+provided as an incentive to site hosts through the shared savings approach. 5) change in average
+utilization rates at EV installations.
+Customer Contributions & Determining Reasonableness
+The ACR requests comment on the interpretation of AB 841 with respect to non-
+residential customer contributions. VGIC believes the plain language of AB 841 broadly
+exempts customers from being required to make contributions to utility-side costs, even beyond
+the current practice of granting allowances under Rules 15 and 16. As such, we do not think that
+overly prescriptive limitations such as those listed on pages 9-10 of the ACR are consistent with
+AB 841.
+That said, we support having some general guidelines of what practices are acceptable to
+help ensure utility-side costs are kept reasonable, as long as these practices are largely consistent
+with current practice and do not place burdensome new restrictions on site host customers
+seeking to install EVSE. It is our understanding that such guidelines may be under development
+from the IOUs and could be a good starting point for further evaluation.
+VGIC is particularly concerned about item 7 on page 10 of the ACR which proposes to
+cap the ratepayer cost contribution based on site host characteristics such as “the number and
+capacity of EV charging ports.” Given the wide range of potential customer charging needs and
+preferences, VGIC strongly recommends against any approach that would limit flexibility for
+new EV customers, such as a capacity-based cap on ratepayer cost contributions. While we
+recognize that techniques like ALM may make these limitations more manageable for some
+customers, we do not think a “one size fits all” approach is appropriate since it could deter new
+12
+12 / 16
+
+EVSE deployments at a time when there is still a significant gap in necessary deployments to
+meet the state’s EV goals. As an alternative, the Commission could implement a shared savings
+mechanism like that proposed by VGIC above as a means to minimize ratepayer costs through a
+“carrot” rather than a “stick” approach. As the market matures, a more stringent approach could
+be considered. However, if any ratepayer cost contribution is capped (which, to reiterate, does
+not appear permissible under AB 841) on the basis of EV charging capacity, it should be done so
+at a sufficiently high enough level of capacity that it does not become a de facto ALM
+requirement.
+With regards to item 4 (“requiring cost-sharing for the customer’s new meter”), VGIC
+urges the Commission to consider approaches (including the use of ALM), that could encourage
+the use of an existing utility service to accommodate new EVSE, thereby eliminating the need
+for a new separate service connection and meter. VGIC believes its proposed shared savings
+mechanism could go a long way towards accomplishing this goal.
+New Tariff, New Electric Rule, or Amended Electric Rules
+VGIC is agnostic as to whether the changes necessary for AB 841 should be
+accomplished through a new tariff, new rule, or amendment to an existing rule. However, we
+believe that whatever approach is adopted should be consistent across IOUs. Additionally, VGIC
+believes that any of these approaches provides an opportunity to develop a systematic process to
+implement the proposed shared savings mechanism described in these comments.
+Load Management Solutions
+13
+13 / 16
+
+The ACR seeks comment on “the question of whether the Commission should require the
+electrical corporations to offer load management solutions to customers taking advantage of the
+new rule or tariff required by AB 841.” VGIC believes that customers should not be required to
+implement load management solutions, since doing so could deter some customers from
+pursuing electrification. However, we support utilities being required to offer load management
+solutions to customers installing EVSE as a matter of course through TE programs or related
+infrastructure tariffs. The aim of ALM solutions in this context is to raise utilization rates of
+existing connections with no noticeable impact on customer experience. However, customers
+must have the choice of rejecting ALM entirely if they wish full nameplate service, or choosing
+an ALM solution if they see that their needs can reasonably be met while using such a system
+and could benefit from doing so. Furthermore, the shared savings mechanism for ALM that
+VGIC has proposed can and should be incorporated as a component of the AB 841-compliant
+tariffs as a means of fulfilling such a requirement, since it inherently encourages customers to
+pursue ALM as a load management solution. VGIC believes this would also be consistent with
+the requirements of D.20-12-029, which the ACR references: “any future tariff or rule filed by a
+large electrical corporation for service line and/or distribution line upgrades to support
+transportation electrification shall provide an option for customer side ALM [Automated Load
+Management] where beneficial to ratepayers while meeting TE charging needs.”5
+With regards to implementation of other VGI services, the CPUC should look to
+implement ALM alongside a broader change in TE program design; namely, the need to consider
+utilization of existing utility service connections as a matter of course. This shift would ensure
+that the Commission meets the directives of Public Utilities Code Sec. 740.16 (a)(2) that “any
+5 D.20-12-029, Section 6.1.
+14
+14 / 16
+
+investments in transportation electrification do not foreclose the electric vehicle grid integration
+potential of these investments.” More specifically, many VGI use cases – such as optimization
+with solar PV or “vehicle-to-load” backup resiliency use cases – are contingent on having EV
+load intermingled with other host-site resources and loads. Put another way, allowing TE
+programs to be designed to require a separate service drop eliminates the potential for many high
+value VGI use cases to be achieved. Although use of ALM may reduce overall demand and thus
+could reduce the baseline available for measuring to grid-facing services like resource adequacy
+or distribution deferral, interconnecting under existing service will enable rather than inhibits a
+greater number of VGI use cases. Moreover, a reduced demand will achieve the same effect on
+the grid as achieving it through a demand response service.
+Otherwise, the shared savings approach proposed by VGIC is voluntary and thus should
+eliminate any unintended consequences for customers that wish to pursue other VGI services. In
+contrast, requiring customers to implement load management as a condition of the AB 841 rule
+or tariff could have unintended consequences that would limit the VGI potential of the EVSE.
+For example, if customers were required to downsize their charging capacity through ALM, then
+that would also reduce their ability to maximize participation in future demand response or V2G
+activities since export capability would also be downsized. This could be especially detrimental
+in light of the rapidly growing potential for VGI to serve as a meaningful capacity resource to the
+grid during extreme weather events. If load management solutions are kept optional as VGIC has
+proposed, then customers can appropriately weigh the costs and benefits of pursuing an ALM
+incentive versus a higher discharge capacity for future VGI opportunities.
+Respectfully submitted,
+15
+15 / 16
+
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+February 5, 2021
+16
+Powered by TCPDF (www.tcpdf.org)
+16 / 16

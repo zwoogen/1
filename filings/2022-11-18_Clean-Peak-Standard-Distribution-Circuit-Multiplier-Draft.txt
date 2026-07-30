@@ -1,0 +1,71 @@
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on the Distribution Circuit Multiplier Draft Guideline
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade
+association focused on accelerating the role of smart electric vehicle (EV) charging and
+discharging through policy development, education, outreach, and research. VGIC supports the
+transition to a decarbonized transportation and electric sector by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates the
+opportunity to provide comments to the Massachusetts Department of Energy Resources
+(DOER) on the Clean Peak Standard Distribution Circuit Multiplier (DCM) Draft Guideline.
+Energy Storage and Demand Response Resources Should be Eligible for the DCM
+EV supply equipment (EVSE) can participate in Clean Peak Standard as either a Demand
+Response Resource (DRR) or a Qualified Energy Storage System (QESS). However, under
+DOER’s Draft Guideline, only Generation Units are eligible for the DCM and are able to reserve
+capacity on DCM-eligible circuits. The exclusion of other resources, including EVSE, fails to
+recognize their potential value in helping to mitigate distribution system upgrades. When EVSE
+– whether participating as a DRR or QESS – reduces charging power and/or discharges energy
+during the Seasonal Peak Periods under the Clean Peak Standard program, these resources help
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Customized Energy Solutions,
+dcbel, Enel X North America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor
+Company, FreeWire Technologies, Inc., General Motors, Kaluza, Nissan Group of North America, Nuvve Holding
+Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd, The Mobility House,
+Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed
+in these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC member
+companies or supporters. (https://www.vgicouncil.org/).
+1
+
+mitigate peak load on distribution circuits in the same way that Generation Units do, helping to
+provide the grid benefits the DCM is intended to support. This is consistent with DOER’s
+previous Straw Proposal, under which Demand Response, RPS Class I/II, BTM storage, and
+standalone storage2 are all eligible to receive the DCM on circuits with increasing peak demand.3
+In fact, EVSE load reduction and exports can even be better candidates for distribution
+upgrade mitigation than generation resources. Unlike generation resources, which may trigger
+capacity upgrades on distribution circuits, load reduction and exports through EVSE are often
+incremental functionalities added on top of equipment and infrastructure that are already
+deployed to provide EV charging services. VGIC strongly urges DOER to revise the Draft
+Guideline to make clear that resources that are not Generation Units are also eligible for the
+DCM. If EVSE is not encouraged by the DCM, Massachusetts will miss out on a significant
+source of load flexibility – including both load reduction and exports – that can help mitigate
+distribution system upgrades and support the Commonwealth’s clean energy and decarbonization
+goals.
+VGIC Supports the Overall Structure of DOER’s DCM Draft Guideline
+Aside from the eligibility issue discussed above, VGIC is encouraged by DOER’s overall
+proposed DCM structure. Simplicity in the design and implementation of the DCM will promote
+administrative efficiency as well as provide more certainty and predictability for VGI efforts,
+including those by charging station developers, aggregators, and other parties such as fleet
+owners.
+Particularly, VGIC appreciates DOER’s proposal to allow resources to reserve capacity
+on specific DCM-eligible circuits. DOER’s Straw Proposal, which was to make the DCM
+available until the calendar quarter in which the designated eligible MW on the circuit is filled,
+would have resulted in significant uncertainty for developers. It would be difficult for a
+2 Standalone storage must accept operating limitations in its ISA and/or accept EDC DERMS signals to limit system
+operations to be eligible for the DCM.
+3 https://www.mass.gov/doc/cps-dcm-straw-proposal/download
+2
+
+developer to predict when the designated MW on a given circuit would be filled since the timing
+would depend on all developers seeking to participate in the Clean Peak Standard program. By
+ensuring that a developer with reserved capacity on DCM-eligible circuits does not face the risk
+of the available eligible capacity running out before the project is completed, the updated DCM
+availability in the Draft Guideline strikes an appropriate balance between providing certainty for
+developers and avoiding the overdevelopment of resources.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the DOER to ensure the success of the Clean Peak Standard Program.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+3

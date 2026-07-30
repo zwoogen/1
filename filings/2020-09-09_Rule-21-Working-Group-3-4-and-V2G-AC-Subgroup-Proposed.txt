@@ -1,0 +1,187 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Consider
+Streamlining Interconnection of Distributed
+Rulemaking 17-07-007
+Energy Resources and Improvements to
+(Filed July 13, 2017)
+Rule 21.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON PROPOSED
+DECISION ADOPTING RECOMMENDATIONS FROM WORKING GROUPS TWO,
+THREE, AND SUBGROUP
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: September 9, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Consider
+Rulemaking 17-07-007
+Streamlining Interconnection of Distributed
+(Filed July 13, 2017)
+Energy Resources and Improvements to Rule 21.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON PROPOSED
+DECISION ADOPTING RECOMMENDATIONS FROM WORKING GROUPS TWO,
+THREE, AND SUBGROUP
+In accordance with Rules of Practice and Procedure of the California Public Utilities Commission
+(“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1 hereby submits these comments
+to the Proposed Decision Adopting Recommendations from Working Groups Two, Three, and
+Subgroup (“PD”), filed by Administrative Law Judge Anne E. Simon (“ALJ”) on August 20, 2020.
+I. INTRODUCTION.
+VGIC commends the Commission for directing the development of a number of plans and
+workshops that represent reasonable and common-sense actions to advance the ability for
+distributed energy resources (“DERs”), including electric vehicles (“EVs”) to help support the
+needs of a rapidly evolving grid. Specifically, VGIC strongly supports the PD’s affirmation that
+Vehicle-to-Grid Direct Current (“V2G DC”) may be interconnected under current Rule 21
+language. VGIC also commends the Commission’s direction to investor-owned utilities (“IOUs”)
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California LLC, Enel
+X North America, Inc., Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nissan North
+America, Inc., Nuvve Corporation, and Toyota Motor North America, Inc. The views expressed in these Comments
+are those of VGIC, and do not necessarily reflect the views of all of the individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/).
+1
+
+to: (1) develop an interconnection pathway for Vehicle-to-Grid Alternating Current (“V2G AC”)
+systems that does not rely on Rule 21 smart inverter requirements, (2) modify interconnection
+portals to enable simple tracking of V2G systems, and (3) host a series of meetings to maintain
+momentum on V2G AC interconnection pathways. While strongly supportive of the PD as it
+relates to most Issue 23 and the V2G AC Subgroup recommendations, VGIC recommends the
+Commission consider the following modifications and clarifications to provide greater certainty
+and effectiveness:
+ The Commission should add a Finding of Fact to reflect the critical need for
+interconnection pathways for V2G AC pilots not just for Commission learnings but to
+enable V2G AC at commercial scale.
+ The Commission should clarify which automotive industry standards will trigger V2G
+AC Subgroup reconvening and revisiting of jurisdictional questions.
+ The Commission should clarify the applicability of the UL PCS CRD referenced in
+Proposal 23d is an option for applicants with a V2G DC system, not a hard requirement
+for interconnection of V2G DC system interconnecting in bi-directional mode.
+II. THE COMMISSION SHOULD ADD A FINDING OF FACT TO REFLECT
+THE CRITICAL NEED FOR INTERCONNECTION PATHWAYS FOR V2G
+AC PILOTS NOT JUST FOR COMMISSION LEARNINGS BUT TO ENABLE
+V2G AC AT COMMERCIAL SCALE.
+The PD makes the following points in the Discussion section regarding the need to develop
+interconnection pathways for V2G AC pilots:2
+“Parties contend that without a pathway to interconnect, these four pilots face
+barriers to operate, gather data, and learn. We find it necessary to create a
+pathway to interconnection to enable the Commission to learn from these and
+other future V2G AC interconnection pilots.”
+VGIC supports this determination. Furthermore, VGIC contends that a near-term interconnection
+pathway is not only necessary for the Commission to learn from current and future V2G AC pilots,
+2 PD at 115.
+2
+
+but is critical for overcoming fundamental barriers to further scaling V2G AC deployments,
+including deployments that are in the public interest. Moreover, we believe there is sufficient
+factual basis within the record of Rulemaking (“R”) 17-07-007 to support this conclusion –
+namely, that allowing interconnection for V2G AC pilots now is critical for unlocking V2G AC at
+scale in the future.3 V2G AC pilots can inform safety and reliability implications of deploying
+V2G AC systems at scale. By granting a temporary exemption from Rule 21 smart inverter
+requirements for V2G AC pilots, the Commission will allow such learnings to take place and help
+build trust and familiarity with V2G AC performance on key safety and reliability criteria. While
+the utilities have raised general concerns with the exemption, VGIC believes this is a step
+Commission must take in order to overcome the “chicken or egg” problem that has plagued V2G
+AC market development to date, including key aspects of testing, product development, and
+ultimately commercial deployment. Moreover, VGIC believes that any safety issues that arise will
+be narrowly limited to the pilots themselves and can be managed appropriately through the
+coordination steps the PD has already laid out. VGIC reaffirms that for all automotive original
+equipment manufacturers (“OEMs”), safety is a paramount concern that permeates all aspects of
+vehicle development and manufacturing. As such, the OEMs are strongly committed to working
+with IOUs and other stakeholders to ensure V2G AC pilots can move forward while guaranteeing
+safety and reliability.
+Given these facts, VGIC recommends the Commission amend the PD to add the following Finding
+of Fact (“FOF”), perhaps to be inserted after FOF 212, to indicate the criticality of developing
+3 See, for example, Final Report of the Vehicle to Grid Alternating Current Interconnection Subgroup at 15.
+3
+
+interconnection pathways not just for V2G AC pilots but also for scaled deployment of V2G AC
+systems:
+“Successful completion of these and other future V2G AC pilots and any associated
+learnings represent a critical step towards scaling up V2G AC deployments that are in the
+public interest.”
+III. THE COMMISSION SHOULD CLARIFY WHICH AUTOMOTIVE
+INDUSTRY STANDARDS WILL TRIGGER V2G AC SUBGROUP
+RECONVENING AND REVISITING OF JURISDICTIONAL QUESTIONS.
+While directing several productive and commendable actions, the PD could be improved by
+clarifying which standards must be “approved”4 to trigger a reconvening of the V2G AC Subgroup.
+Specifically, Ordering Paragraph (“OP”) 55 states:
+“Pacific Gas and Electric Company, San Diego Gas & Electric Company, and Southern
+California Edison Company (Utilities) shall actively participate in the committees that
+update the vehicle to grid alternating current interconnection standards.5
+VGIC supports the requirement for IOUs to actively participate in standards committees focused
+on V2G AC interconnection. VGIC members active in the Society of Automotive Engineers
+(“SAE”) Interoperability Task Force and Standards Committees wholeheartedly welcome
+additional participation by IOU representatives. Moreover, SAE Committee members have
+volunteered to produce a compendium of relevant standards descriptions which can be quickly and
+easily digested by newly participating IOU representatives. However, VGIC recommends that the
+PD clarify that the “standards” referred to in OP 55 may include the automotive industry standards
+referenced in FOF 259 (i.e. SAE).6 For reference, VGIC has included an update on relevant SAE
+Standards in Attachment A to these comments. Furthermore, the PD should be clear about what
+4 PD at 195, OP 55.
+5 Ibid.
+6 Id at 172.
+4
+
+constitutes “approval” in this context. VGIC recommends that publication by a relevant standards
+body could constitute approval.
+Additionally, VGIC disagrees with FOF 263 which states the following:
+“V2G AC interconnection standards need to be adopted prior to the Commission
+considering the jurisdictional question of plug-in electric vehicle equipment requirements
+or self-certification policy issues.”7
+VGIC contends that this reflects a subjective determination of the Commission rather than a true
+finding of fact. Contrary to this statement, it is well within Commission’s power to adopt a general
+policy that self-certification processes could be considered an acceptable approach to V2G AC
+interconnection, as long as the processes meet certain safety and reliability performance criteria.
+This would not predetermine whether a specific self-certification process is in fact acceptable for
+interconnection under Rule 21. Thus, VGIC recommends that the Commission replace FOF 263
+and revise OP 55 as follows:
+FOF 263: “Both third-party certified and self-certified requirements for plug-in vehicle
+equipment could be considered acceptable for interconnection under Rule 21. However,
+each self-certification process may require additional evaluation before being deemed
+acceptable by the Commission.”
+OP 55: “When applicable standards, including automotive industry standards developed
+by the Society of Automotive Engineers, have been approved published, Utilities shall
+inform the Director of the Energy Division, who is authorized to reconvene the Vehicle to
+Grid Alternating Current Subgroup no later than 90 days from the issuance of approved
+updated standards. When applicable standards have been published, the Commission shall
+further consider the jurisdictional question of plug-in electric vehicle equipment
+requirements or self-certification policy issues.”8
+IV. THE COMMISSION SHOULD CLARIFY THE APPLICABILITY OF THE UL
+CRD FOR POWER CONTROL SYSTEMS REFERENCED IN PROPOSAL 23D
+7 Id at 173.
+8 Id at 195.
+5
+
+IS AN OPTION FOR APPLICANTS WITH A V2G DC SYSTEM, NOT A HARD
+REQUIREMENT FOR INTERCONNECTION.
+VGIC finds it imperative that the Commission resolve any remaining ambiguity on interconnection
+pathways for V2G DC systems, wherein the bi-directional inverter is stationary and not located
+onboard the vehicle. FOF 197 states “the existing Rule 21 tariff allows V2G DC EVSE systems to
+be interconnected if the EVSE meets all Rule 21 requirements, including UL 1741 SA,”9 and FOF
+247 and 248 both refer to the “option” of UL Power Control Systems (“PCS”) Certification
+Requirements Decision (“CRD”)10. Together, these FOFs suggest that V2G DC systems
+interconnecting the full capacity of the inverter in bi-directional mode need not comply with UL
+PCS CRD, as it is not a part of UL 1741 SA. VGIC is concerned that the relationship between the
+UL PCS CRD and V2G DC FOFs is not adequately represented, which may lead to ambiguity in
+practice. Thus, VGIC requests that the Commission provide explicit clarification that V2G DC
+systems, if interconnecting the full capacity of the inverter in bi-directional mode from the outset,
+do not require UL PCS CRD.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: September 9, 2020
+9 Id. at 167.
+10 Id. at 171.
+6

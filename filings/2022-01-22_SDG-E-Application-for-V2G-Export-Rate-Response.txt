@@ -1,0 +1,208 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Commercial Application No. 21-12-008
+Electric Vehicle Dynamic Rate. (Filed December 17, 2021)
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL TO
+THE APPLICATION OF SAN DIEGO GAS & ELECTRIC COMPANY
+FOR APPROVAL OF COMMERCIAL ELECTRIC VEHICLE DYNAMIC
+RATE
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+January 20, 2022
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of San Diego Gas & Electric
+Company (U902E) for Approval of Commercial Application No. 21-12-008
+Electric Vehicle Dynamic Rate. (Filed December 17, 2021)
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL TO
+THE APPLICATION OF SAN DIEGO GAS & ELECTRIC COMPANY
+FOR APPROVAL OF COMMERCIAL ELECTRIC VEHICLE DYNAMIC
+RATE
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (“VGIC”) hereby responds on
+behalf of its members to the Application of San Diego Gas & Electric Company (“SDG&E”) for
+Approval of Commercial Electric Vehicle Dynamic Rate (“Application”). Pursuant to Rule 2.6 of
+the Rules of Practice and Procedure, VGIC timely files this response on January 20, 2022.
+I. INTRODUCTION.
+A. Overview of VGIC
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation and
+electric sectors by ensuring the value from EV deployments and flexible EV charging and
+2
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+B. VGIC generally supports the increased use of dynamic pricing as an option for retail
+rate customers with EVs
+As a general principle, VGIC supports dynamic pricing options for Electric Vehicle
+customers. VGIC believes that dynamic pricing options – if designed appropriately – and other
+VGI strategies can help contribute to the following policy objectives:
+ advance the state’s transportation electrification goals by reducing the total cost of EV
+ownership,
+ deliver increased value to utility customers, including both EV and non-EV owners,
+ support customer and community resiliency, including during Public Safety Power
+Shutoffs (“PSPS”) and other resilience events
+ support grid reliability, including during extreme heat events or other times of high
+stress on the grid
+ foster a growing market for VGI services.
+VGIC appreciates SDG&E’s effort to develop a dynamic EV rate option and commends the
+company for being the first California IOU to propose an optional V2G-Export rate. VGIC is
+continuing to review the specific details of SDG&E’s proposal, however based on its initial review
+VGIC believes the proposal could be a constructive step towards encouraging more EV customers
+utilize to dynamic rate options and be adequately compensated for VGI services.
+The Application has the potential to advance VGI by incorporating dynamic rate options
+and promoting the use of bidirectional EV supply equipment (“EVSE”). VGIC believes the V2G-
+Export rate design should be enhanced to be in closer alignment with Ordering Paragraph (“OP”)
+3
+
+9 of Decision (“D.”) 20-12-023, which directs SDG&E to file an application for a dynamic rate
+option for EV customers. VGIC stresses that Commission decisions supporting VGI strategies,
+including those founds in elements of the proposed V2G-Export rate, are critical for manufacturers
+and service providers to accelerate product development activities. VGIC also reserves the right
+to provide more detailed feedback at a later date, including any recommendations for how the
+proposal could be improved.
+II. ISSUES TO BE CONSIDERED.
+A. Applicability to Both Charging Energy and Exported Energy
+In the Application, SDG&E explains that the proposed V2G-Export rate will: “provide
+compensation for grid exports only.”1 SDG&E’s Prepared Testimony further states that “V2G-
+Export does not set rates for energy imports from the grid” and “only this customer’s exports to
+the grid will be compensated by Schedule V2G-Export.”2 While SDG&E makes clear it’s proposal
+to limit the dynamic rate to grid exports, neither the Application or accompanying Testimony offer
+any explanation as to why customers seeking to import energy from the grid may not enroll in the
+dynamic EV rate. Notably, D.20-12-023 directing SDG&E to file the Application cites D.19-10-
+055, which directed PG&E to propose a dynamic commercial EV rate.3 PG&E displayed
+leadership in filing its Day-Ahead Hourly Real-Time Pricing (“DAHRTP”) Application (“A.”) 20-
+10-011, which offers a dynamic rate to commercial EV customers for energy imports. Importantly,
+PG&E’s program offers compensation for exports at the dynamic rate for customers that are
+enrolled in NEM, and a subsequent phase of the proceeding asks PG&E to propose its plan to
+1 Application at 2.
+2 Prepared Testimony of Taylor Marvin at 3.
+3 D.20-12-023 at 27.
+4
+
+expand this eligibility to other customers.4 It is unclear based on SDG&E’s Application and
+Prepared Testimony why it did not follow PG&E’s lead and provide an optional dynamic EV rate
+for customers wishing to charge their vehicles according to a more dynamic price signal, rather
+than limiting this price signal to exports only. VGIC believes dynamic rate offerings can promote
+V1G operations, not just V2G, which could unlock significant savings for a greater number of EV
+customers. While the number of V2G-capable products and services are growing, adoption is
+nascent relative to V1G-capable products and services. It is not clear yet whether a robust market
+for “export only” V2G capabilities will emerge in isolation. Instead, exports should be considered
+an extension of the benefits that V1G and V2B can provide, and VGIC believes the intent behind
+D.20-12-023 was to promote VGI broadly, not just V2G. As such, VGIC strongly urges SDG&E
+file a revised or amended proposal detailing a dynamic EV rate that applies to both energy imports
+to charge EVs and V2G exports.
+B. Customer Eligibility
+OP 9 of D.20-12-023 orders SDG&E to “file an optional dynamic rate application within
+12 months of this decision.” 5 While D.20-12-023 approves a commercial rate for separately
+metered EVs, OP 9 does not specifically direct SDG&E to file an optional dynamic rate that applies
+only to separately-metered commercial customers.
+VGIC believes eligibility should be expanded to include additional customer types, such
+as those with combined EV charger and building/facility load. This would be consistent with the
+2018 Electric Power Research Institute (“EPRI”) Technical Report Commercial Electric Vehicle
+Rate Design: Stakeholder Interview Results, which states that “Most [participants] expressed an
+4 See Assigned Commissioner’s Amended Scoping Memo and Ruling, December 17, 2021 in A.20-10-011.
+5 D.20-12-023, Ordering Paragraph 9 at 38.
+5
+
+interest in combined EV charger and building/facility load.”6 Promoting combined EV charger
+and building/facility loads may also help to enable other VGI strategies, such as vehicle-to-load
+(“V2L”) for both customer bill management or backup power / resiliency applications. VGIC notes
+that the pending EVSE submetering protocol would facilitate expanding the dynamic rate to
+customers with combined EV charger and building/facility loads. Additionally, customer should
+be permitted to use EV-based measurement to participate in the proposed rate.
+Lastly, the Commission’s direction in OP 9 does not appear to limit SDG&E from
+proposing similar dynamic rate constructs to other types of EV customers. As such, VGIC believes
+the V2G-Export rate could serve as a useful model not just for commercial customers, but also for
+residential customers should be evaluated from that perspective as well.
+C. Dual Participation in Emergency Load Reduction Program
+In prepared testimony, SDG&E explains that “to prevent double compensation, customers
+receiving export credit under V2G-Export cannot simultaneously receive export credit through the
+Emergency Load Reduction Program (“ELRP”).” 7 VGIC agrees that resources should not receive
+double compensation, but offers an alternative solution that could meaningfully encourage
+participation in both the V2G-Export rate and ELRP, which would maximize the ability for EVs
+to support grid reliability and affordability while also advancing VGI strategies and TE more
+broadly. SDG&E should compensate V2G exports according to the V2G-Export rate during all
+hours other than ELRP dispatch hours. Notably, the D.21-12-015 approving ELRP Group A.5 had
+initially proposed to prohibit dual participation in ELRP and real-time equivalent rates. However,
+in reviewing the record and revising the proposed decision, the Commission took decisive action
+6 See Prepared Testimony of PG&E in A.20-10-011. Attachment A at 1-AtchA-38.
+7 Prepared Testimony of Taylor Marvin at 5.
+6
+
+to allow dual participation. To remain consistent with Commission direction, SDG&E should
+permit dual participation in the proposed Application.
+D.21-12-015 adopts minimum VGI dispatch hours of 30 hours per season as an incentive
+for customers to participate in ELRP Customer Subgroup A.5.8 Until a more robust framework to
+prevent double compensation for distributed energy resources (“DERs”) is developed, VGIC
+recommends as an interim measure that SDG&E implement a manual system to track when exports
+take place and ensure that exports during the minimum 30-hours of ELRP dispatch are
+compensated at $2/kWh. Any V2G exports made outside of ELRP dispatch hours should be
+compensated based on the CAISO LMP per SDG&E’s proposed V2G-Export rate. VGIC believes
+this to be a reasonable near-term solution given the limited number of customers that will be
+enrolling in the V2G-Export rate at this early stage of market development.
+Furthermore, VGIC is concerned that the proposed exclusion of dual participation will
+effectively mean that SDGE’s V2G-Export program will be competing with the ELRP program.
+Since SDG&E has discretion over how it administers both programs, including marketing,
+education, and outreach (“ME&O”), the utility could attempt to steer customers towards one
+program or the other. VGIC strongly believes that the implementation of the V2G-Export rate
+should not come at the expense of the ELRP and the proposed participation rules should be
+modified as outlined above. Moreover, ME&O efforts for V2G-export should not eclipse efforts
+to enroll customers in ELRP.
+D. Applicability of Smart Inverter Requirements
+8 D.21-12-015 at 39.
+7
+
+In D.21-12-015 and the accompanying Attachment 2 ELRP program guidance, the
+Commission provides flexible options to allow EVs to safely discharge for purposes of ELRP even
+if the system is not certified to the UL 1741 SA smart inverted supplement. As VGIC understands
+it, the core UL 1741 standard covers the safety requirements of Rule 21, whereas the SA smart
+inverter supplement addresses the “smart” features that inverters can also possess, but are not
+required to ensure safe grid operations. In adopting ELRP Subgroup A.5 in D.21-12-015, the
+Commission demonstrated definitive leadership on V2G and capitalized on an “opportunity to
+deploy and scale this resource, which will be critical in the coming years to ensure EVs can
+enhance reliability.” In recognition of this sentiment and California’s broader VGI goals, VGIC
+believes it would be reasonable to consider extending the UL 1741 SA exemption to V2G-Export
+rate customers. VGIC posits a consistent policy for V2G interconnection will promote
+simultaneous customer enrollment in both ELRP and the V2G-Export rate, which is permitted
+under D.21-12-015 and should be similarly permitted under the proposed Application.
+III. CATEGORIZATION, HEARINGS, AND SCHEDULE.
+VGIC agrees that this Application should be categorized as a “ratesetting” proceeding. VGIC
+also agrees that evidentiary hearings are likely necessary.
+IV. SERVICE.
+Service of notices, orders, and other correspondence in this proceeding should be directed to
+VGIC at the address set forth below:
+Edward Burgess
+Vehicle-Grid Integration Council
+8
+
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (501) 665-7811
+E-mail: vgicregulatory@vgicouncil.org
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to SDG&E’s proposed V2G-
+Export rate application. We look forward to further collaboration with the Commission and
+stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: January 20, 2022
+9

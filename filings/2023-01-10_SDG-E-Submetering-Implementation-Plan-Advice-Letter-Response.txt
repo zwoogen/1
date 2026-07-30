@@ -1,0 +1,50 @@
+January 10, 2023
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle Grid Integration Council to Advice Letter 4114-E of
+San Diego Gas & Electric Company: Establishment of the Plug-In Electric
+Vehicle Submetering Protocol Implementation Plan Pursuant to Decision
+(D.) 22-08-024
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B and the extension granted by
+Administrative Law Judge (“ALJ”) Brian Korpics in the November 15, 2022 email ruling, the
+Vehicle Grid Integration Council (“VGIC”) hereby submits this response to the above-referenced
+Advice Letter 4114-E of San Diego Gas & Electric Company (“SDG&E”), Establishment of the
+Plug-In Electric Vehicle Submetering Protocol Implementation Plan Pursuant to Decision (D.) 22-
+08-024 (“Advice Letter”) on January 10, 2023.
+VGIC commends SDG&E’s efforts in developing a thorough implementation plan. VGIC
+supports the Advice Letter; however, we provide additional context for SDG&E’s consideration as
+it implements submetering. VGIC recommends that Energy Division approve the Advice Letter
+without delay, as VGIC’s below recommendation can be addressed during implementation and in
+subsequent efforts undertaken by SDG&E to support EV submetering in its territory.
+I. SDG&E SHOULD ADD ELECTRIC SCHEDULE EV-TOU-5 TO ITS LIST OF
+RULES AND RATE SCHEDULES REQUIRING REVISION UNDER D.22-08-024.
+The Advice Letter proposes tariff changes to implement submetering within the following tariffs:
+ Electric Rules 16, 19, and 45
+ Electric Schedules EV-TOU, TOU-M, and EV-HP1
+VGIC generally supports enabling submetering through revisions to the above-listed rules and rate
+schedules. For residential customers, in addition to EV-TOU, VGIC also recommends SDG&E
+1 Advice Letter at 4.
+1
+
+January 10, 2023
+Page 2 of 2
+permit customers using submetering to enroll in EV-TOU-5. Customers may wish to choose this
+rate, which utilizes a basic service fee and lower TOU prices, over EV-TOU. However, without
+submetering permitted, EV-TOU-5 customers would have to expose all of their load, including both
+EV load and non-EV load, to the TOU price signals intended to shift EV charging. VGIC
+recommends SDG&E enable submetering for EV-TOU-5, so customers can elect to participate in
+this rate using only their approved EVSE submeter, rather than their home master meter.
+II. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to the Advice Letter and looks
+forward to collaborating with the Commission and stakeholders in this proceeding.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE GRID INTEGRATION COUNCIL
+cc: Greg Anderson (GAnderson@sdge.com & SDGETariffs@sdge.com)
+Service list R.18-12-006
+2

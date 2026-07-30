@@ -1,0 +1,326 @@
+DOT Federal Highway Administration
+Response to RFI #FHWA-2021-0022
+To: DOT Federal Highway Administration
+From: Vehicle-Grid Integration Council,
+with support from the following organizations:
+Leadership Circle Members:
+• American Honda Motor Co., Inc.
+• Enel X North America, Inc.
+• Ford Motor Company
+• General Motors Company
+• Nissan
+• Nuvve Holding Corporation
+• Stellantis N.V.
+• Toyota Motor North America, Inc.
+General Members:
+• dcbel
+• ENGIE NA
+• Fermata Energy
+• FlexCharging
+• The Mobility House
+• Sunrun
+• Veloce Energy, Inc.
+• WeaveGrid
+Subject: Response to RFI #FHWA-2021-0022
+Response Date: January 28, 2022
+Contact:
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400, Berkeley, CA 94704
+eburgess@vgicouncil.org
++1 (941) 266-0017
+www.vgicouncil.org
+Page 1 of 8
+
+Executive Summary
+Vehicle-Grid Integration:
+Unlocking EVs as a Strategic Grid Resource
+Vehicle-grid integration represents a unique opportunity to establish and advance US leadership
+at the intersection of a decarbonized transportation and electric sector by ensuring the value
+from flexible electric vehicle charging – and discharging – is recognized and compensated.
+The EV Charging Program and Charging and Fueling Infrastructure Program will support
+widespread adoption of millions of electric vehicles (EVs) which, if enabled, will have untapped
+potential as crucial, flexible resources to support the evolving electricity grid. In doing so, managed
+charging and vehicle-to-grid technology provides opportunities for customers to capture additional
+benefits, from reduced charging costs and integration with on-site generation and storage, to
+payment for exports, to backup power. By unlocking these key customer benefits, the EV Charging
+Program and Charging and Fueling Infrastructure Program can have a much larger impact in
+accelerating the widespread adoption of EVs.
+Vehicle Grid Integration Council (VGIC) is a 501(c)(6) nonprofit trade association focused on
+accelerating the role of smart EV charging and discharging through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid. Scaling VGI will help accomplish the following public policy goals:
+• Benefit drivers and fleet owners by reducing the cost of ownership.
+• Decarbonize the transportation sector by accelerating EV adoption.
+• Support decarbonization of the power sector by providing essential grid services as
+renewable energy and distributed energy resource penetration increases.
+• Increase affordability by reducing electricity bills for all customers.
+• Improve grid resiliency and security during extreme weather events.
+• Foster economic activity through innovation, competition, and market transformation.
+With federal support and thoughtful EV Charging Program and Charging and Fueling
+Infrastructure Program design, we believe this vision could become a reality and that EV
+drivers and owners across the United States can take part in the acceleration of both transportation
+electrification and grid decarbonization. Our vision for VGI encompasses the following key
+elements:
+• Ensure customer mobility needs are satisfied. Drivers will be able to participate in a wide
+variety of VGI services, nationwide, without compromising their mobility needs.
+• Managed charging will provide benefits to EV drivers and fleet operators: Drivers in every
+state will be given the choice to align charging with the times of day when electricity prices
+are low, reducing operating costs by as much as 50% compared to unmanaged charging.
+Lowering the total cost of ownership will help to accelerate overall EV adoption by drivers
+and fleet managers.
+Page 2 of 8
+
+• EVs provide emissions-free emergency power during blackouts: During extreme weather
+blackouts or other power outages, EVs can utilize two-way charging and discharging
+capabilities to send energy to a building or home, serving as a generator and providing safe
+backup power.
+• Charging infrastructure dollars go further: Smarter management of EV charging will help
+manage the cost of deploying EV charging infrastructure, which encourages wider access to
+EV charging with equal or lower overall cost burden.
+• EVs provide necessary services to the grid and get paid for it: V1G (unidirectional
+charging) and vehicle-to-grid (“V2G” – bidirectional charging) will enable EVs to both receive
+and/or feed power back to the grid, supporting advanced grid services such as frequency
+control, demand response, peak shaving, and more. Providing these services can unlock new
+revenue streams for EVs, lowering the total cost of ownership.
+VGI is a unique opportunity for the DOT to establish and advance US leadership in affordable,
+decarbonized, reliable, and resilient transportation and electricity. We are grateful to the US
+Department of Transportation and the Federal Highway Administration for opening this RFI. The
+VGIC would be happy to further discuss any part of this RFI response in a follow-up meeting.
+RFI Response
+Consideration 2: Connections to the electric grid, including electric distribution upgrades;
+vehicle-to-grid integration, including smart charge management or other protocols that can
+minimize impacts to the grid; alignment with electric distribution interconnection processes, and
+plans for the use of renewable energy sources to power charging and energy storage
+The VGIC appreciates the US Department of Transportation and Federal Highway
+Administration’s leadership in considering in the development of guidance for the EV Charging
+Program. There are a number of areas where DOT leadership can significantly accelerate progress
+for VGI through the EV Charging Program:
+1. Allow for some portion of the EV Charging Program funds to be directed towards
+establishing an ongoing, “VGI Collaborative Forum.” This forum would aid EV
+Charging Program applicants in identifying best practices and receiving technical
+assistance for VGI efforts pursued in conjunction with their EV Charging Program
+investments. As charging infrastructure is scaled up through the EV Charging Program, there
+will be a parallel opportunity to scale up VGI-related products and services. However, VGIC
+recognizes that the market for VGI products and services is still in its early stages.1 This may
+create challenges for program applicants who seek to establish VGI programs and activities as
+part of their state plan but are not well versed in its technical details. Thus, VGIC believes
+there is a critical need for a national VGI Collaborative. As the markets, policies, technologies,
+standards and best practices for VGI advance, the national VGI Collaborative should serve as
+an ongoing forum for EV Charging Program applicants to share specific VGI implementation
+strategies and develop unified frameworks for topics such as V2G interconnection,
+1 VGIC considers “VGI” to be a broad category including a variety of technologies and use cases including
+managed/smart charging (i.e., V1G), automated load management, and bidirectional charging such Vehicle-to-
+Building, Vehicle-to-Home, or Vehicle-to-Grid.
+Page 3 of 8
+
+compensation mechanisms, and VGI program design, and interoperability.2 Issues such as
+harmonizing or streamlining V2G interconnection policies across the nation could be of
+particular importance for an entity the VGI Collaborative to address (see Recommendation 5
+below for more detail on V2G interconnection).
+VGIC recognizes that VGI opportunities will be limited at corridor DCFC charging
+stations. However, for states where corridors are deemed “fully built out,” a VGI-focused
+forum will take on increased importance and relevancy as states seek to deploy non-corridor
+charging at workplaces, multi-family homes, and fleet depots using EV Charging Program
+funds. VGIC believes the national VGI Collaborative could be funded partially or wholly
+through the EV Charging Program and could receive supplementary funding from participating
+EV Charging Program funding recipients. For example, when submitting its state plan for
+DOT, each state could indicate whether it is electing to participate in the national VGI
+Collaborative to engage in knowledge sharing around VGI best practices. VGIC recommends
+the DOT or DOE facilitate the national VGI Collaborative with support from a third-party
+consultant.
+2. Encourage transportation electrification investments made through the EV Charging
+Program to include VGI capabilities where and when it makes sense. This could include
+opportunities for applicants to increase or set aside funding for V2X-capable devices
+(especially for non-DCFC chargers). VGI stands to offer substantial public benefits as EV
+deployment scales up. However, for these benefits to be fully realized, it is critical that VGI
+capabilities be considered and built into infrastructure investments as they are deployed, rather
+than after-the-fact. VGIC recognizes that a large share of the infrastructure deployed through
+the EV Charging Program may be in the form of DCFC chargers along designated corridors,
+which are unlikely to be well-suited for VGI in most instances (including both managed
+charging and V2X). However, to the extent that funds are used for other purposes (e.g., L2
+chargers in states where corridors are fully built out, or community grants under the Charging
+and Fueling Infrastructure Program) – or that some sites along designated corridors may
+present the appropriate conditions – there may be significant opportunities to incorporate VGI
+capabilities. This likely needs to be evaluated on a case-by-case basis. Thus, VGIC
+recommends that DOT allow states sufficient flexibility to encourage VGI capabilities in EV
+Charging Program investments where and when it makes sense. For example, states could elect
+to offer a higher level of funding for bidirectional charging infrastructure and/or set aside a
+portion of their overall budget for this purpose. Bidirectional EVs and chargers can support
+grid reliability and community resiliency in the face extreme weather events. The incremental
+costs of deploying and enabling bidirectionality thus can create a significant public benefit that
+should be should be considered under the EV Charging Program.
+One potential model worth considering for this supplemental funding for VGI projects would
+be the Smart Grid Investment Grant Program (SGIG) and the Smart Grid Demonstration
+Program (SGDP), as part of the American Recovery and Reinvestment Act (ARRA). These
+programs implemented over 100 smart grid projects across the U.S. These projects, selected
+and overseen by the Department of Energy (DOE) Office of Electricity (OE), deployed
+2 For example, the collaborative could work to develop strategies for interoperability such that chargers stay
+operable well into the future regardless of the original provider.
+Page 4 of 8
+
+thousands of smart grid devices. Case studies of increased grid reliability and resilience, job
+creation, and electricity customer savings are posted in a DOE OE maintained repository on
+smartgrid.gov. Utilities and state regulators gained confidence in smart grid technology to
+provide infrastructure and public value as a result of these case studies.
+It is also worth noting that incorporation of VGI technologies is not limited to physical
+infrastructure, but extends to communications and control architecture, as well. For example,
+stakeholders should consider the potential benefits of leveraging in-vehicle telematics to enable
+certain VGI use cases. VGIC believes both charging station and EV-based VGI solutions
+should be enabled through the new EV Charging Program. Together with the physical layer,
+the communication and control architecture needed to unlock VGI constitute the guardrails of
+VGI business models. VGIC recommends infrastructure investments remain open to
+supporting various EV aggregator business models, as it is too early – and not the federal
+government’s role – to pick winners and losers in the VGI market. However, VGI-related
+activities should still be an eligible option for any infrastructure investments that states choose
+to pursue.
+Lastly, other infrastructure investments – for example those catalyzed by the DOE – intended
+to support the reliability and resilience of the electric grid (e.g., microgrid investments and
+stationary energy storage or other distributed energy resources or “DERs”) should account for
+the value of VGI. DOT should collaborate with the DOE on integration of these sites with
+renewables and flexible loads. VGIC believes the new joint DOT-DOE office may be a good
+venue for this work.
+3. Conduct a comprehensive, real-world study on the latent potential for EVs to serve as a
+grid resource. A unique aspect of a federal program such as EV Charging Program is its ability
+to systematically gather data and information on customers interactions with technologies
+across many different jurisdictions and market environments. VGIC believes the VGI industry
+in particular would benefit from a comprehensive, large-scale study on the availability and
+dependability of EVs as a grid resource. Such a study could analyze EV availability factors
+across different customer types and regions using real-world data from pilots, demonstrations,
+as well as full-scale programs and markets. This could be modeled after the Department of
+Energy’s Customer Acceptance, Retention, and Response to Time-Based Rates from the
+Consumer Behavior Studies conducted as part of the Smart Grid Investment Grant Program.3
+An EV availability study should conduct randomized controlled trials, assessing the impacts
+of different rate structures and programs across different utilities and customers. It should also
+record which technologies were deployed and analyze the dataset to produce recommendations
+that can inform future programs and rates. Such a study could include 15 or more different
+partnering utilities, and several different customer types per region. The end result would be a
+robust dataset that could be open to the public for additional review and future study. This
+would also provide grid operators with greater confidence that the overall EV fleet can be
+counted upon (statistically speaking) as a robust and reliable grid resource, even if a single EV
+3 US DOE Electricity Delivery and Energy Reliability. Customer Acceptance, Retention, and Response to Time-
+Based Rates from the Consumer Behavior Studies. November 2016.
+https://www.energy.gov/sites/prod/files/2016/12/f34/CBS_Final_Program_Impact_Report_Draft_20161101_0.pdf
+Page 5 of 8
+
+may not be available for grid services 100% of the time. Similar to the opt-in structure proposed
+above in Recommendation 1, VGIC suggests the EV Charging Program include opportunities
+for applicants to participate in such a study as part of submitting their plan.
+4. Prepare for the coming wave of commercially-available VGI offerings by educating
+fleets, homeowners, workplaces, and other customer groups as well as regulators and
+policy-makers. The increasingly rapid deployment of electrified transportation across the US
+represents a paradigm shift and moving customer thinking from “mpg” to “kWh” requires
+considerable outreach and education. In particular, education and outreach to fleets is critically
+needed to inform fleet managers of the potential value of switching to electric transportation.
+For many fleets, converting to electrified transportation is a significant undertaking that lies
+outside of their existing expertise. Given the potential complexity of VGI, more policy support
+is needed to direct funding toward educating fleets – as well as other customer types – not only
+of the benefits of electrification in general, but the enhanced value proposition that VGI
+technologies can offer. These value propositions include new potential revenue streams from
+grid services, reduced charging infrastructure costs, reduced charging energy costs, new bill
+management options, and enhanced resilience of critical facilities. VGIC recommends the EV
+Charging Program require applicants to include a robust marketing, education, and outreach
+plan to ensure fleets and other customer groups understand the opportunities and challenges of
+electrification, as well as their choices for implementing VGI strategies from the outset. The
+EV Charging Program should guide applicants to partner with OEMs and EV service providers
+to ensure existing customer relationships and customer education expertise are adequately
+leveraged. In addition to customer education and outreach, it will also be important to educate
+regulators and policy makers who may play a key role in overseeing the development of VGI
+programs and rules by local utilities or government agencies.
+5. Facilitate streamlined interconnection policies across the country to support advanced
+VGI opportunities. In California, VGIC and other stakeholders have collaborated closely with
+utilities and their regulators to advance V2G functionality, including both V2G Direct Current
+(“V2G-DC”) and V2G Alternating Current (“V2G-AC”) configurations. This has ultimately
+led to the creation of a permanent V2G-DC interconnection pathway, and a temporary V2G-
+AC interconnection pathway. Despite this progress, it is not guaranteed that V2G systems can
+easily interconnect across the country since interconnection rules are governed individually at
+the state level and each utility typically has its own process. Meanwhile, original equipment
+manufacturers (“OEMs”) must design products for a national marketplace and must contend
+with the possibility of a patchwork of interconnection rules and processes. VGIC strongly
+recommends the DOT facilitate efforts to streamline V2G interconnection pathways across the
+U.S., which may include clarifying how V2G systems can interconnect under existing
+interconnection rules. This could be one potential function of the VGI Collaborative Forum
+described above.
+Additionally, there is a growing need to align utility distribution service connection and utility
+DER interconnection approaches, such that customers are subject to a streamlined experience.
+VGIC recommends the EV Charging Program guidance require electric utilities to align
+distribution service connection and DER interconnection approaches, such that customers are
+subject to a streamlined experience. For example, V2G interconnection approval (under current
+DER interconnection processes) has historically been a lengthy process relative to the time it
+Page 6 of 8
+
+takes to connect and begin operating EV chargers in load-only mode. Customers should not be
+prohibited from operating bidirectional chargers in load-only mode while they await approval
+to operate in bidirectional mode. Similarly, customers wishing to deploy co-located renewable
+generation and/or stationary energy storage on-site with the EV charging infrastructure should
+experience a streamlined interconnection process.
+The pathways established in market-leading California could serve as a blueprint for other
+states to follow and refine as necessary. However, in some cases existing interconnection
+pathways may already be sufficient and could be leveraged to streamline the process. VGIC
+believes the development of a national V2G interconnection blueprint could be a high-priority
+item for the national VGI Collaborative we propose in Recommendation 1. VGIC envisions a
+future where EVs move across utility service territories – and even states – with the ability to
+seamlessly charge and discharge energy. This is only possible if states follow a common
+framework, which the DOT could help establish through facilitating the development of a
+simplified customer experience for interconnection.
+Consideration 4: The need for publicly available EV charging infrastructure in rural corridors
+and underserved or disadvantaged communities;
+VGIC supports making charging infrastructure as widely accessible as possible. One
+promising solution towards this goal may be to allow and incentivize optional Automated
+Load Management (ALM) in public buildings, charging depots for commercial vehicles and
+fleets, and other publicly-accessible and/or shared charging infrastructure that may benefit
+underserved and disadvantaged communities
+Many low-income and disadvantaged communities are served by outdated utility infrastructure
+(substations, transformers) that may require significant and costly upgrades to be able to
+accommodate EV charging load. The use of ALM can help mitigate these infrastructure upgrade
+costs by reducing the collective peak load at one site, therefore making charging infrastructure
+more affordable for disadvantaged communities. ALM is a VGI solution that is particularly well-
+suited for multi-charger sites such as publicly-accessible commercial buildings, shared fleet
+charging, workplace charging, multi-unit dwellings and other non-single family home sites, where
+low-income customers may be more likely to charge.
+More specifically, ALM is the use of behind-the-meter technologies that allow for strategic sharing
+of charging capacity across multiple charging ports at the same charging site to help safely connect
+multiple charging ports whose total nameplate load would otherwise exceed the rated capacity of
+the customer connection. This in turn can avoid or defer the need to upgrade certain distribution
+system infrastructure to accommodate the new EV charging load. For example, if a multi-charger
+site seeks to deploy a charging station with 5 ports, each with a 10-kW capacity, the distribution
+upgrades would normally be sized to accommodate 50 kW of incremental coincidental charging
+demand, equal to all 5 ports charging at full capacity. However, ALM can lower the coincident
+charging demand to 30 kW, or 6 kW per port on average, when all 5 ports are occupied, thus
+reducing distribution system upgrades to what is required for only 3 ports. In this scenario, when
+only 3 or fewer ports are occupied, the EVs can still charge at full speed. Having ALM available
+to customers as an option can lead to significant savings and ensure that investments in
+transportation electrification are used efficiently. Pacific Gas & Electric has worked with EV
+service providers to implement ALM solutions at 20 workplace and multi-unit dwelling host sites
+Page 7 of 8
+
+as of Q4 2020 and saved between $30,000 and $200,000 per project.4 Southern California Edison
+also worked with EDF Renewables PowerFlex to implement ALM to deploy 168 charging stations
+at $3,000 per port, significantly less than comparable deployments at $10,000-$15,000 per port
+without ALM.5
+VGIC believes that ALM can stretch the EV Charging Program funds and ensure more chargers
+are installed in more places. We recommend the EV Charging Program promote the use of
+optional ALM to enable charger deployment at a site where doing so may otherwise be cost-
+prohibitive or space-prohibitive due to utility distribution system upgrades. Optional ALM
+solutions should be encouraged and incentivized when they are shown to be comparatively cost
+efficient versus traditional utility system upgrades. VGIC advises against mandating ALM
+requirements on charging infrastructure, as this may result in inequities by limiting charging
+capability for customers. Instead, VGIC recommends ALM be allowed and incentivized (i.e. a
+“carrot” rather than “stick” approach) for so that deploying ALM solutions become a viable
+option for those that wish to deploy, such as fleet operators. VGIC recommends that an optional,
+technology-neutral ALM incentive be included in the EV Charging Program.
+Consideration 11: What topics do you suggest that we address in guidance on project
+development of EV charging infrastructure and hydrogen, propane, and natural gas fueling
+infrastructure at the State, Tribal, and local levels to allow for the predictable deployment of that
+infrastructure?
+VGIC refers to our above recommendations related to Statutory Consideration 2 and 4, as we
+believe each recommendation for incorporating VGI into the EV Charging Program guidance is
+also entirely applicable to the implementation of the Charging and Fueling Infrastructure
+Program.
+4 Pacific Gas & Electric. 2021. Presentation at CPUC ALM/EV EMS Workshop, Panel 2.
+5 EPIC Policy + Innovation Coordination Group. 2021. Transportation Electrification Workstream Report.
+https://epicpartnership.org/resources/Transportation_Electrification_Workstream_Report_Final.pdf
+Page 8 of 8

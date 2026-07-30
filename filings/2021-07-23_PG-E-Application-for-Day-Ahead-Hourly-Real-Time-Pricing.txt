@@ -1,0 +1,198 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+REPLY BRIEF OF THE VEHICLE GRID INTEGRATION COUNCIL
+July 23, 2021 Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, CA 94704
+Telephone: (941) 266-0017
+Email: vgicregulatory@vgicouncil.org
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION OF
+THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 20-10-011
+(U39M) for Approval of its Proposal for a Day-Ahead (Filed October 23, 2020)
+Real Time Rate and Pilot to Evaluate Customer
+Understanding and Supporting Technology.
+REPLY BRIEF OF THE VEHICLE GRID INTEGRATION COUNCIL
+The Vehicle-Grid Integration Council (VGIC) respectfully submits this Reply Brief in Application
+(A.) 20-10-011. By A.20-10-011, Pacific Gas and Electric Company (PG&E) requests approval of
+its proposal for a Day-Ahead Hourly Real Time Pricing (DAHRTP) Rate and Pilot to evaluate
+customer understanding and supporting technology for access to a dynamic EV charging rate. This
+Reply Brief is timely filed and served pursuant to the Commission’s Rules of Practice and
+Procedure (Rule 13.12) and the Administrative Law Judge’s (ALJ’s) Ruling setting the due date
+for Reply Briefs for today, July 23, 2021.1
+1. Enel-X correctly identifies deficiencies in PG&E’s proposal with regard to credits for
+exports
+In its Opening Brief, Enel X argues that the Commission’s decision in this case should “take into
+account the possibility that the Commission may authorize, sometime prior to pilot launch or over
+the course of the pilot, export compensation pathways for non-NEM, behind-the-meter
+resources.”2 VGIC agrees, noting that: 1) compensation for V2G was one of the key
+recommendations in the VGI WG final report,3 and 2) developments have occurred since PG&E’s
+application that have increased the technical potential and likelihood for V2G capabilities in the
+1 Reporter’s Transcript (RT) at 389, ll. 24-25 (ALJ Sisto).
+2 Enel X, Opening Brief at 34.
+3 Final Report of the California Joint Agencies Vehicle-Grid Integration Working Group. June 30, 2020.
+https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf
+2
+
+near future. This includes a variety of recent product announcements, as well as advancements in
+the process for V2G interconnection.
+Enel X goes on to argue that this compensation could be authorized through a future proceeding,
+such as focusing on the Energy Division’s recently announced Proposed Roadmap for DER &
+Flexible Management. While this may be one potential pathway, VGIC believes that it is not the
+only pathway. In fact, given the pace of advancements in V2G capabilities, the need for an export
+compensation mechanism may come well before the resolution of such a future proceeding.
+Additionally, VGIC sees no reason why exports for non-NEM customers cannot be considered by
+the Commission, at least in part, in the current proceeding. The remainder of this Reply Brief
+elaborates on why such consideration is necessary and warranted now.
+2. PG&E’s application is incomplete because it hasn’t fully considered the real
+possibility that a non-NEM customer who is also a Pilot participant may seek to
+export power to the grid
+While PG&E’s application sufficiently details how NEM customers would be compensated for
+exports, it is completely devoid of any information on how non-NEM customers would be
+compensated for similar exports. When asked about this, PG&E’s witness could only state that he
+“can’t speak to the rules on exports by non-NEM customers.”4
+Furthermore, PG&E’s witness on the matter of export compensation appeared completely
+unfamiliar with recent developments that have removed remaining technical barriers for vehicle-
+to-grid (“V2G”) interconnection.5 This includes the CPUC’s Decision No. 20-09-035, which
+established rules for V2G interconnections to occur under the Rule 21 interconnection process.
+These rules have recently been implemented by PG&E through an advice letter submitted on May
+28, 2021.6 Thus, there is theoretically no impediment for a Pilot participant to request and receive
+an exporting interconnection for a V2G-capable system. Finally, there are already a limited number
+4 RT at 164, lines 17-18.
+5 RT at 161, line 24, through 162 line 13.
+6 Advice Letter 6209-E. May 28, 2021. https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6209-
+E.pdf
+3
+
+of commercially available products that have V2G capabilities.7 Beyond these, many more
+commercial products have also been announced in recent months that are expected to be available
+while the pilot is in operation.8
+As such, there is a very real possibility that non-NEM Pilot participants could obtain exporting
+interconnections to pursue V2G opportunities. However, these participants would be left
+wondering what compensation rate – if any – PG&E would offer them for the exported energy.
+3. There is no fundamental reason why exports from non-NEM customers should be
+treated differently from PG&E’s proposed approach for exports from NEM
+customers.
+In PG&E’s testimony in support of its compensation for NEM exports, it stated that “the
+[DAHRTP] rate rider substitutes one set of generation rates for another.”9 Thus, it appears that
+PG&E views the “generation only” subcomponent of rates as being somewhat interchangeable
+7 Bidirectional Capable Vehicles on the Road Today: Nissan LEAF Model Year 2013 and later (requires
+EVSE with V2G-DC functionality) https://cleantechnica.com/2018/11/29/nissan-using-vehicle-to-grid-
+technology-to-power-us-operations, Blue Bird electric buses, Mitsubishi i-MiEV and Outlander
+https://www.theverge.com/2019/3/6/18252883/mitsubishi-dando-drive-home-power-battery-electric-car-
+plug-in-hybrid.
+Examples of deployed bi-directional projects: Fermata Energy https://www.fermataenergy.com/news-
+press/new-partnership-combines-electric-carsharing-with-vehicle-to-grid-technology-alliance-center-
+colorado-carshare-fermata-energy, Nuvve Corporation and BlueBird https://nuvve.com/blue-bird-v2g-
+electric-bus-with-nuvve-and-illinois-school-districts/. See also announcement from Rhombus Energy
+Solutions:
+https://www.prweb.com/releases/rhombus_energy_solutions_announces_ul_1741sa_certification_for_its_
+ac_dc_high_power_conditioning_systems_for_fleet_electric_vehicles/prweb17308158.htm.
+8 See, for example, the following automotive manufacturers: Audi https://electrek.co/2020/07/24/audi-bi-
+directional-charging-electric-cars-store-solar-energy/, Daimler https://www.axios.com/electric-school-
+buses-vehicle-to-grid-power-19f7b6b1-662b-4501-a96e-dcf3fd57a886.html, Ford
+https://www.ford.com/trucks/f150/f150-lightning/2022//?intcmp=hp-bb-f150-lightning, Lucid Motors
+https://www.autoblog.com/2020/08/19/lucid-air-ev-charging-v2g-300kw-900v-electrify-america/,
+Proterra https://www.raconteur.net/infrastructure/v2g-school-buses/, and Volkswagen
+https://electrek.co/2021/04/06/vw-electric-vehicles-bi-directional-charging-next-year/.
+See also the following EV supply equipment companies: ABB https://cleantechnica.com/2020/10/14/11-
+kw-bi-directional-abb-chargers-coming-to-france-uk-germany-italy-belgium/, Dcbel
+https://cleantechnica.com/2020/08/02/ossiaco-has-built-the-one-home-solar-inverter-to-rule-them-all/,
+and Wallbox https://electrek.co/2020/01/06/wallbox-quasar-tesla-nissan/
+9 Direct Testimony of Tysen Strieb, Page 2-15 line 30 through 2-15 line 2.
+4
+
+between tariff options. If this is the case, there is no reason why PG&E’s proposal for exports
+should not be extended to include the exports from non-NEM customers. VGIC recognizes that
+there is a long, complex, and contentious policy history surrounding the total compensation for
+exports for NEM customers. However, these issues should not complicate treatment of the
+“generation only” subcomponent, which is what PG&E has proposed for export compensation in
+this case. By linking the export compensation to generation as PG&E has done, there is no risk of
+potential cross-subsidies associated with the fixed delivery cost component of rates. Therefore,
+VGIC contends that it would be equally appropriate to apply this approach for any exporting Pilot
+participant, regardless of whether they are a NEM customer. Technically, this would be simple to
+implement since, as with NEM, during the exporting interval PG&E’s meter would simply record
+a negative value and this negative value could readily be applied to the hourly DAHRTP rate. This
+is fundamentally the same way that exports for Pilot participants that are NEM customers would
+be treated, as explained by PG&E.10
+4. Encouraging V2G exports can benefit grid reliability
+Broad-based adoption of V2G capabilities through a credit-for-export scheme could essentially
+double the contributions of EVs and EV Service Providers (“EVSPs”) towards meeting net load
+relative to simple managed charging (V1G) approaches. Thus, export credits serve as an essential
+building block for unlocking a potentially valuable grid resource from EVs that can help avoid
+rotating outages during heat storms. From a long-term resource planning perspective, if California
+meets its EV deployment forecasts, then there will be the equivalent of thousands of MWs of
+batteries sitting in garages over the next few years that could be leveraged at relatively low cost to
+help meet summer net peak load. This could in turn displace the costs of other more expensive
+generation resources -- especially in location constrained areas. However, this will only happen if
+there is a clear incentive for exports to be compensated such that the V2G capability is embedded
+in the EV/EVSP equipment manufactured over the coming years and the business models
+developed by EV/EVSP companies.
+10 RT at 163, line 3, through 164, line 9.
+5
+
+5. Other venues for addressing V2G exports may not proceed in a timely enough manner
+to provide fair compensation for near-term V2G opportunities
+As mentioned above, Enel X’s Opening Brief discussed other potential venues for authorizing
+export compensation.
+VGIC is cognizant that there are V2X pilot programs that have been recently developed by PG&E
+as part of the DRIVE OIR proceeding.11 However, these are inherently limited efforts that may not
+necessarily overlap with the customers targeted in this case and may not necessarily address export
+compensation mechanisms. VGIC is also well aware of the possibility that a UNIDE framework
+proceeding could ultimately become a way to address V2G export compensation. However, this
+framework is likely to be developed over the course of several years before a meaningful
+compensation scheme is in place. Meanwhile, there are V2G capable vehicles that are driving
+today, and more V2G capable models will be available imminently. Thus, the Commission should
+consider all avenues to provide near term resolution on export compensation issues, even if they
+are ultimately superseded.
+If no resolution is provided in this proceeding, the Commission will simply be perpetuating the
+“chicken and egg” problem that has delayed deployment of valuable V2G resources. That is:
+EV/EVSE customers are unlikely to pursue V2G interconnection without a clear value proposition,
+and meanwhile, the Commission will not seek to timely resolve V2G compensation issues due to
+a lack of customers seeking V2G interconnection. Thus, lack of fair compensation for V2G can
+become a self-fulfilling prophecy.
+Meanwhile, the Commission has not provided a clear signal regarding where V2G compensation
+issues should be resolved. In the DRIVE OIR proceeding, D.20-12-029 included supportive
+language on the general concept of credit-for-exports stating that “exploration of such a scheme
+should be pursued.”12 However, no tangible steps were identified regarding how such a scheme
+should be pursued, by when, and in which proceeding. This Decision also referenced the current
+Net Energy Metering (“NEM 3.0”) proceeding (R.20-08-020) as a potential venue to explore
+11 Advice Letter 6259-E: Request for Approval of PG&E’s VGI Pilots in Compliance with Decision 20-
+12-029. https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6259-E.pdf
+12 Decision 20-12-029 at 32.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M355/K794/355794454.PDF
+6
+
+compensation for EV exports, however as VGIC and other Joint Commenters had previously
+noted, the Scoping Ruling issued in the NEM proceeding did not include consideration of exports
+from EVs. Since there is currently no venue for exploring broad-based compensation for V2G
+exports, it can only be addressed in piecemeal fashion through proceedings such as this one.13
+6. VGIC recommends that the Commission require PG&E to offer the same export
+credit to any participant as it is offering to NEM customers.
+Consistent with the reasoning established above, VGIC recommends that the Commission offer
+the same export credit to non-NEM pilot participants as it does to NEM customers.
+In the alternative, if the Commission decides the record in this case is not developed enough to
+support this outcome, then VGIC recommends that the Commission require PG&E to file a
+supplemental application in 6 months that specifically addresses export credits for non-NEM V2G
+Pilot participants.
+7. Conclusion
+VGIC appreciates the opportunity to submit this reply brief. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+July 23, 2021
+13 Note pending advice letters from PG&E and SCE indicate that Rule 21 Exporting DERs (Subgroup A.3) with a
+Permission to Operate will be eligible for compensation for exports under the new Emergency Load Reduction
+Program. However, the methodologies to measure incremental load reduction for the purposes of settlement are still
+in development.
+7

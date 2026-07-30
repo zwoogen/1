@@ -1,0 +1,194 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON CAL
+ADVOCATES’ DISTRIBUTION GRID ELECTRIFICATION MODEL STUDY AND
+REPORT
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+November 7, 2023
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON CAL
+ADVOCATES’ DISTRIBUTION GRID ELECTRIFICATION MODEL STUDY AND
+REPORT
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Administrative Law Judges’ Ruling Soliciting Comments on Cal
+Advocates’ Distribution Grid Electrification Model Study and Report (“Ruling”), issued by
+Administrative Law Judge (“ALJ”) Manisha Lakhanpal and Kelly A. Hymes on October 17,
+2023.
+VGIC commends Cal Advocates' for its development of the Distribution Grid
+Electrification Model (“DGEM”) study and report. As stated by Southern California Edison
+Company (“SCE”) in opening comments, the DGEM and Kevala’s Electrification Impacts Study
+Part 1 (“EIS”), taken together, “illustrate the complexity of projecting distribution system
+investments required to support high electrification through 2035.”1 However, both studies
+underscore one simple, immutable fact: when and how EV charging occurs remains the
+largest factor in determining future electrification costs. The DGEM study found that
+distribution system investments required to support high electrification through 2035 can be cut
+1 Opening Comments of SCE, pg. 1.
+1
+
+in half primarily through the use of EV load management strategies. We believe there are even
+greater cost saving opportunities from bidirectional charging and Vehicle-to-Grid (“V2G”)
+solutions. Senate Bill (“SB”) 676 and the VGI Strategies Implementation Decision (“D.”) 20-12-
+029 establish drivers for the Commission to advance VGI solutions and transition the VGI
+technology market from demonstrations and pilots to full-scale, sustainable commercialization.
+However, the comparative findings of EIS and DGEM establish an abundantly clear $25 billion
+core imperative for the Commission to develop and enact a comprehensive VGI strategy to
+reduce the financial burden associated with transportation electrification on ratepayers.
+Within the EIS and DGEM context of distribution system investments, VGIC makes the
+following key recommendations for unlocking latent EV load flexibility and export capability to
+support the potential $25 billion cost savings opportunity:
+• Direct IOUs to establish EV distribution load optimization programs. A
+recent IEEE case study indicates how coordinated distribution system EV load
+optimization differs from California’s current patchwork of EV load management
+strategies, which rely on traditional demand response, TOU rates, and emerging
+RTP pricing based solely on system conditions:2
+2 Utility Planning for Distribution-Optimized Electric Vehicle Charging. Matthew Mills, Manasseh Obi,
+Kendall Cody, Kyle Garton, Amanda Myers Wisser, and Sammy Nabahani. October 19, 2023. IEEE
+Power & Energy Magazine.
+2
+
+This data demonstrates the potential impacts of EV load management programs
+that target bulk system benefits (“Figure 3” above) compared to those that
+consider distribution load constraints (“Figure 6” above). In both cases, the
+system peak is reduced, but only in the distribution constraint case is the EV
+charging load kept below the distribution asset limit. Although California leads
+the nation in EV deployments, VGIC is unaware of any instances where the
+Commission has authorized a single IOU EV program that promotes distribution
+system EV load optimization. In recognition of EV-related distribution
+infrastructure costs causing the immense discrepancy between the DGEM and EIS
+cost studies, VGIC recommends the Commission direct IOUs to establish
+distribution system EV load optimization programs. At a minimum, VGIC
+respectfully urges the Commission to indicate in which proceeding, Advice
+Letter, or other procedural vehicle the IOUs should request approval for such a
+program, as it is unclear where an EV distribution load optimization program
+should be offered. Without the Commission's direction to establish these
+programs, California will steer toward the EIS outcome rather than the DGEM
+3
+
+impact, costing ratepayers an additional $25 billion in distribution system
+investments that can be avoided.
+• Approve proposed EV distribution value adders/subtractors in emerging
+dynamic rate options, and direct IOUs to introduce new distribution
+components where relevant. The Demand Flexibility Rulemaking (“R.”) 22-07-
+005 contemplates near-term proposals for expanding existing real-time pricing
+rate pilots and long-term proposals for the demand flexibility rate design guidance
+for IOUs. In both cases, there are several instances where dynamic distribution
+price components are incorporated, including in PG&E’s existing AgFIT Pilot
+and in SCE’s RATES TeMix Pilot. Other emerging RTP rates and pilots do not
+incorporate dynamic distribution components, including PG&E’s Commercial EV
+DAHRTP rate and SDG&E’s Export Compensation Pilot approved in D.23-11-
+006. VGIC considers both dynamic rates and the nonrate programs referenced
+above important levers to unleashing EV load flexibility to offset distribution
+upgrade costs. As demonstrated by the 2020 VGI Working Group Final Report,
+there are thousands of VGI use cases, which means a one-size-fits-all approach to
+recruiting and maintaining customer engagement is unlikely to be feasible. With
+this in mind, VGIC recommends the Commission direct IOUs in R.22-07-005 to
+update all emerging and proposed dynamic import and export rates to incorporate
+dynamic distribution components as a means to support a path that captures the
+$25 billion in savings indicated by the DGEM findings compared to the EIS
+results.
+4
+
+• Establish a clear framework and loading order guiding the use of automated
+load management solutions, including power sharing software and storage-
+backed charging, and critically evaluating existing make-ready
+incentives/tariffs within the context of ALM. While PG&E has reported
+utilizing automated load management (“ALM”) solutions to mitigate up to
+$200,000 in infrastructure upgrades per site, the Commission remains without a
+clear framework on how to utilize ALM to mitigate distribution infrastructure
+upgrades at the time of site design and construction.3 The rates and nonrate
+programs referenced above can support ongoing distribution optimization to defer
+and avoid distribution system upgrades generally, however, ALM solutions can
+defer and avoid upgrades triggered by specific EVSE deployments. Critically,
+customers should never be required to implement ALM solutions, nor should they
+be steered toward ALM solutions if it is not well-suited for their site. However,
+ALM should be an option for customers who, after receiving education on the
+topic, elect to implement these solutions. Today, the Commission’s policy and, as
+a result, the IOUs implementation of EV infrastructure deployment promote new
+distribution infrastructure upgrades at the time of construction. For example, the
+IOU make-ready programs and the EV Infrastructure Rules 29/45 nudge
+customers onto new service drops and separate meters as a condition of
+participation. While new infrastructure will surely be required to advance
+California’s overall TE goals, VGIC believes that customers should be given the
+3 See Appendix D of D.20-12-029 “PG&E Electric Vehicle Infrastructure OIR Rulemaking 18-12-006
+Data Response” https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M356/K212/356212163.pdf
+5
+
+choice to utilize ALM solutions to mitigate distribution impacts if they would like
+to. In some cases, including the PG&E example cited above, utilities may allow
+the use of an ALM solution, while in other cases, customers seeking to leverage
+an ALM solution may be turned away while being informed that the service
+connection request may not be processed for several years. Customer marketing,
+education, and outreach within existing TE programs and Rule 29/45 websites do
+not mention, explain, or share any information about ALM solutions when they
+may be permitted, and the customer benefits (i.e., reduced service connection
+time). Without remedy, the existing paradigm locks in future grid costs that lean
+much closer to the EIS study than the DGEM study results, potentially triggering
+an additional $25 billion in ratepayer burden. VGIC reiterates that new
+infrastructure will be needed to advance TE, and that ALM alone will not solve
+all of the EV deployment infrastructure challenges facing California. However,
+VGIC urges the Commission to take action in this proceeding to promote flexible
+service connections – and export interconnections – that use software- or
+hardware-based solutions to allow for customers to choose to construct EV
+charging equipment that exceeds the electrical capacity at a given site in
+nameplate but not in operation, including the accommodation of bidirectional
+charging. Promotion of ALM could include (1) establishing a flexible service
+connection tariff, (2) revising to Rules 2, 15/16, 29/45, and/or other Rules that
+define and assess load shapes, (3) incorporating ALM marketing, education, and
+outreach into make-ready programs and tariffs, (4) establishing a shared savings
+model to ensure IOUs are appropriately incentivized to reduce grid connection
+6
+
+size and/or install EVSE on existing service drops, and/or (5) a clear loading order
+for utilities to use before upgrading distribution grid at sites, namely looking at
+whether ALM use at the site would avoid or reduce infrastructure upgrades.
+• Ensure that California’s cost-effectiveness and evaluation frameworks are
+appropriately capturing distribution value. It is expected that the current
+Avoided Cost Calculator (ACC) does not capture the vast majority of distribution
+value derived from load management programs.4 Undervaluing distribution-
+focused load management deters the existence and expansion of load management
+programs, like those referenced above, that can ultimately reduce costs for
+ratepayers. Unfortunately, the Avoided Transmission and Distribution Cost Study
+was not completed in time to be incorporated into the 2024 ACC Update.5
+Looking forward, we recommend that the Study be completed in a timely fashion
+and incorporated into the ACC as soon as possible, potentially in an interim ACC
+update before the 2026 update cycle. Moreover, we recommend that the
+Commission consider this gap in benefits measurement when it is in the process
+of determining which pilots and programs may be approved, particularly on the
+grounds of cost-effectiveness, for example in the recent Proposed Decision
+(“PD”) in A.22-05-002, et al., which proposes declining SDG&E’s proposed EV
+DR Pilot on these grounds.
+4 D.22-05-002 Adopting Changes to the Avoided Cost Calculator.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M474/K624/474624547.PDF
+5 Integrated Distributed Energy Resource (IDER) 2024 Avoided Cost Calculator Staff Proposal –
+Addendum. Pg. 20. https://webproda.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-
+division/documents/energy-efficiency/ider-cost-effectiveness/2024-acc-staff-proposal-with-addendum.pdf
+7
+
+VGIC appreciates the opportunity to submit these reply comments on the DGEM Study and
+Report. We look forward to further collaboration with the Commission and stakeholders on this
+initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: November 7, 2023
+8

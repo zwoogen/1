@@ -1,0 +1,281 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+10/09/23
+Order Instituting Rulemaking to Rulemaking 22-07-005
+04:59 PM
+Advance Demand Flexibility (Filed July 14, 2022)
+R2207005
+Through Electric Rates.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGE’S RULING ON TRACK B STAFF PROPOSAL TO
+EXPAND EXISTING PILOTS
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+October 9, 2023
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ADMINISTRATIVE LAW JUDGE’S RULING ON TRACK B STAFF PROPOSAL TO
+EXPAND EXISTING PILOTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”) and the email ruling extending comment deadline issued by
+Administrative Law Judge (“ALJ”) Stephanie Wang on September 13, 2023, the Vehicle-Grid
+Integration Council (“VGIC”) hereby submits these reply comments on Administrative Law
+Judges Ruling on Track B Staff Proposal to Expand Existing Pilots (“Ruling”), issued by the
+Commission on August 15, 2023.
+I. INTRODUCTION.
+VGIC reiterates its appreciation for Energy Division (“ED”) staff for proposing that the
+Commission direct Investor-Owned Utilities (“IOUs”) to expand certain existing dynamic rate
+pilots, as described in the Staff Proposal on Existing Dynamic Rate Pilot Expansion (“Staff
+Proposal”) issued by ED staff on August 15, 2023.1 VGIC’s reply to opening comments,
+summarized below, aims to further enhance the proposed expansions by recommending measures
+that enable electric vehicles (“EVs”) to provide demand flexibility and grid exports.
+1 CPUC R.22-07-005. Administrative Law Judges Ruling on Track B Staff Proposal to Expand Existing
+Pilots. August 15, 2023.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M517/K407/517407755.PDF
+1
+
+• VGIC supports the Joint Parties’ proposal to expand a CalFUSE-style rate to bundled and
+unbundled customers, which is more appropriately sized to the need for demand flexibility
+than Energy Division Staff expansion proposal #2.
+o VGIC agrees with the Joint Parties proposal elements intended to expand customer
+access through expanded rate eligibility and included programs.
+o VGIC strongly recommends the Commission adopt Joint Parties’ proposal to
+include non-NEM export compensation equal to the generation and distribution
+import price.
+o VGIC agrees with Joint Parties that allowing some flexibility on the exact design
+of the CalFUSE distribution and subscription components is warranted. However,
+the need for flexibility should be balanced with a reasonable degree of certainty for
+participating customers, aggregators, and installers.
+o VGIC recommends that the Distribution Investment Deferral Framework (“DIDF”)
+Partnership Pilot be deemed an included program, in addition to the supply-side
+and load-modifying programs proposed by Joint Parties.
+o VGIC respectfully requests that Energy Division staff and PG&E work to rename
+the “subscription” component in either the dynamic rate pilot expansion proposal
+or PG&E’s Business Electric Vehicles (“BEV”) rate, as each rate uses the term
+differently.
+• To yield any near-term participation from vehicle-to-grid (“V2G”) resources, the smart
+inverter exemption in place for certain V2G resources must apply to SCE’s and PG&E’s
+Dynamic Rate Pilots.
+II. VGIC SUPPORTS THE JOINT PARTIES’ PROPOSAL TO EXPAND A
+CALFUSE-STYLE RATE TO BUNDLED AND UNBUNDLED CUSTOMERS,
+WHICH IS MORE APPROPRIATELY SIZED TO THE NEED FOR DEMAND
+FLEXIBILITY THAN ENERGY DIVISION STAFF EXPANSION PROPOSAL #2.
+In opening comments, GridX, Inc., Polaris Energy Services, Gridtractor Inc., and PG&E
+(together “Joint Parties”) presented and described in detail a more ambitious version of staff’s
+proposal #2 to expand Valley Clean Energy’s (VCE)/PG&E’s Agricultural Flexible Irrigation
+Technology (“AgFIT”) Pilot to additional customer groups. In opening comments, the Joint Parties
+highlight the specific components, terms, and scope necessary to successfully implement ED Staff
+proposal #2 at a more appropriate scale and with a few key pilot design modifications. Joint Parties
+2
+
+refer to the expansion of AgFIT to bundled and unbundled residential, commercial, and industrial
+customers across PG&E’s service territory as the “PG&E CalFUSE Pilot” (Pilot #2).”2
+VGIC commends the Joint Parties for proposing the PG&E CalFUSE Pilot #2, which
+VGIC agrees would “meet and further serve the objectives of the ED Staff’s pilot expansion
+proposal by making a CalFUSE Pilot offering available to more customers”.3 VGIC acknowledges
+the scale of the Joint Parties’ proposal is an order of magnitude greater than ED staff’s proposal.
+However, given the urgent need for demand flexibility to support California’s evolving grid and
+ambitious policy goals, VGIC views the significantly expanded scope as crucial to supporting the
+grid. Considering the California Energy Commission’s Load Management Standard, which
+requires utilities to offer optional CalFUSE-style rates by 2027, VGIC believes it is prudent to
+scale up CalFUSE-style pilots today to yield meaningful lessons for the full-scale implementation
+in just a few years. VGIC posits this would reduce risk for ratepayers, as full-scale, optional
+dynamic rates, if not first carefully tested, can negatively impact customers and, more importantly,
+may lead to unintended cost shifts.
+A. VGIC agrees with the Joint Parties proposal elements intended to expand
+customer access through expanded rate eligibility and included programs.
+VGIC generally supports expanding PG&E CalFUSE Pilot #2 to additional residential
+customers (i.e., EV2-A) and small commercial customers (i.e., B-6 and B-10). VGIC also strongly
+supports the expanded list of eligible programs that customers may dual-enroll in under PG&E’s
+CalFUSE Pilot #2, which extends beyond staff’s list to include the Emergency Load Reduction
+Program (“ELRP”) and Demand Side Grid Support (“DSGS”) program. Joint Parties accurately
+2 Joint Parties opening comments, Pg. 2.
+3 Ibid.
+3
+
+state that “excluding customers on these programs is likely to seriously limit enrollment in and
+learnings from proposed Pilot #1 and #2.”4 VGIC recommends the Commission adopt the
+expanded customer eligibility terms in PG&E CalFUSE Pilot #2.
+B. VGIC strongly recommends the Commission adopt Joint Parties’ proposal to
+include non-NEM export compensation equal to the generation and distribution
+import price.
+Critically, PG&E’s CalFUSE Pilot #2 seeks to incorporate non-NEM export compensation,
+which marks a major enhancement relative to ED staff’s expansion proposal #2 and would provide
+a significant step forward toward ED staff’s CalFUSE vision. VGIC reiterates that bidirectional
+charging solutions represent a major source of latent energy storage capacity waiting to be
+unlocked to support grid reliability, renewable energy integration, community resiliency, and a
+more cost-effective utilization of the grid. VGIC, therefore, strongly supports the Joint Parties’
+recommendation to add a non-NEM export compensation component that applies the same
+generation and distribution import price to exports as it does to imports.
+C. VGIC agrees with Joint Parties that allowing some flexibility on the exact design
+of the CalFUSE distribution and subscription components is warranted. However,
+the need for flexibility should be balanced with a reasonable degree of certainty
+for participating customers, aggregators, and installers.
+In opening comments, the Joint Parties propose using the same dynamic rate elements as
+AgFIT, which includes a dynamic distribution rate component and a subscription element that are
+generally aligned with the CalFUSE framework outlined in the ED White Paper issued on June
+22, 2022.5 However, in opening comments, the Joint Parties state that each component is “subject
+4 Joint Parties opening comments, Pg. 19.
+5 CPUC Energy Division White Paper and Staff Proposal. Advanced Strategies for Advanced Demand
+Flexibility Management and Customer DER Compensation. June 22, 2022.
+4
+
+to change during the pilot based on additional analysis.”6 VGIC understands that these components
+may require enhancements throughout the pilot period and agrees that this type of mid-stream
+modification is appropriate for rates in the pilot stage of development. For example, the
+subscription element could utilize a baseline determined by the prior year’s hourly load as
+envisioned in PG&E’s Vehicle-Grid Integration (“VGI”) Pilots, a monthly average baseline from
+the prior year as utilized in PG&E’s current AgFIT Pilot, or could incorporate flexibility for the
+customer to elect their own baseline as recommended in opening comments of the California Large
+Energy Consumers Association (“CLECA”).7 VGIC believes the second and third examples may
+be simpler to implement, provide more opportunity to optimize EV charging and discharging, and,
+in the case of CLECA’s approach, provide a high degree of optionality to customers. Regarding
+dynamic distribution components, as VGIC notes in opening comments, non-rate programs may
+provide value to utilities, customers, and ratepayers alike, and may offer a helpful alternative to
+circuit-specific pricing.
+With this in mind, VGIC agrees that PG&E should be permitted a certain degree of
+flexibility to modify and enhance the subscription, distribution, and other components of the pilot
+where necessary. However, this flexibility must be balanced with a moderate degree of certainty
+for participating customers, aggregators, and installers. These customers, aggregators, and
+installers may make significant upfront investments in technologies to enable pilot participation
+based on expected rate component design. VGIC recommends the Commission should consider
+how best to balance these needs for implementation flexibility and customer certainty by ensuring
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-
+response/demand-response-workshops/advanced-der---demand-flexibility-management/ed-white-paper---
+advanced-strategies-for-demand-flexibility-management.pdf
+6 Joint Parties opening comments, Pg. 17.
+7 CLECA opening comments, Pg. 6.
+5
+
+stakeholders, including participating or prospective customers, aggregators, and installers, are
+brought in early and often to discuss changes to the pilot methodology.
+D. VGIC recommends that the Distribution Investment Deferral Framework
+(“DIDF”) Partnership Pilot be deemed an included program, in addition to the
+supply-side and load-modifying programs proposed by Joint Parties.
+VGIC reiterates its strong support for including ELRP and DSGS in the “included
+programs” list where dual participation with PG&E CalFUSE Pilot #2 is permitted. In opening
+comments, the California Efficiency and Demand Management Council (“CEDMC”) highlighted
+that “[t]his pilot period is an ideal opportunity to develop and test performance measurement
+methodologies that would enable dual participation models.” CEDMC then notes that given the
+limited scale of the Energy Division staff’s proposed expansion, the possibility of overpaying dual-
+participation customers would be less significant, especially compared to the opportunities to
+support the grid.8 While PG&E CalFUSE Pilot #2 would expand the eligibility to additional rate
+classes and include programs than the ED Staff proposal, VGIC still agrees with the CEDMC’s
+statement and believes that PG&E CalFUSE Pilot #2 proposal is the appropriate, controlled venue
+to pilot dual participation at this time.
+The Joint Parties list most supply-side and load-modifying demand response programs as
+eligible for dual participation with the PG&E CalFUSE Pilot #2. However, VGIC notes that the
+Distribution Investment Deferral Framework (“DIDF”) Partnership Pilot is not listed.9 VGIC urges
+the Commission to include the DIDF Partnership Pilot as an additional “included program” for
+customers, as the Partnership Pilot is an important pathway for identifying and deploying non-
+wires solutions to traditional distribution system upgrades.
+8 California Efficiency and Demand Management Council opening comments, Pg. 6.
+9 Joint Parties opening comments, Pg. 19.
+6
+
+E. VGIC respectfully requests that Energy Division staff and PG&E work to rename
+the “subscription” component in either the dynamic rate pilot expansion proposal
+or PG&E’s BEV rate, as each rate uses the term differently.
+The proposals from ED staff and the PG&E CalFUSE Pilot #2 proposed by the Joint
+Parties, both use a subscription component option based on customer-specific load shapes, which
+is in line with Element 5 of the CalFUSE framework outlined in the ED White Paper, issued on
+June 22, 2022.10 However, VGIC is concerned that the use of the term “subscription” could confuse
+some participating customers given that PG&E’s BEV rate uses the same “subscription” term to
+define a different component. This can lead to confusion for customers, particularly commercial
+fleet customers who may have sites subject to two different types of subscription.
+According to the CalFUSE framework outlined in the ED White Paper, “a subscription
+load shape is billed at the “legacy” rate and any deviation from the subscription load shape is
+billed/credited to the customer based on the CalFUSE price signal”11 and in PG&E’s Electric
+Schedule BEV, the term “subscription” is defined as follows:
+“SUBSCRIPTION: The kW subscription component of the BEV replaces a kW demand
+charge. The BEV rate does not include demand or customer charges and instead uses a
+monthly subscription for customer’s kW demand. The subscription comes in blocks of 10
+kW for the BEV-1 rate option and in blocks of 50 kW or the BEV-2 rate option. A customer
+determines their estimated maximum kW demand and then selects a subscription level to suit
+their need.”12
+10 CPUC Energy Division White Paper and Staff Proposal. Advanced Strategies for Advanced Demand
+Flexibility Management and Customer DER Compensation. June 22, 2022.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-
+response/demand-response-workshops/advanced-der---demand-flexibility-management/ed-white-paper---
+advanced-strategies-for-demand-flexibility-management.pdf
+11 CPUC Energy Division White Paper and Staff Proposal. Advanced Strategies for Advanced Demand
+Flexibility Management and Customer DER Compensation. June 22, 2022. Pg. 66.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/demand-
+response/demand-response-workshops/advanced-der---demand-flexibility-management/ed-white-paper---
+advanced-strategies-for-demand-flexibility-management.pdf
+12 PG&E Electric Schedule BEV – Business Electric Vehicles. Sheet 5.
+https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_BEV.pdf
+7
+
+With this in mind, VGIC recommends stakeholders begin using an alternative term for either
+CalFUSE or the BEV rate to avoid confusion for participating customers.
+III. TO YIELD ANY NEAR-TERM PARTICIPATION FROM VEHICLE-TO-GRID
+(“V2G”) RESOURCES, THE SMART INVERTER EXEMPTION IN PLACE FOR
+CERTAIN V2G RESOURCES MUST APPLY TO SCE’S AND PG&E’S DYNAMIC
+RATE PILOTS.
+The Joint Parties’ opening comments note that the PG&E CalFUSE Pilot #2 proposal
+closely aligns with the ED Staff proposal to expand the AgFIT pilot, which VGIC generally agrees
+with. However, one area where the PG&E CalFUSE Pilot #2 proposal comes short of aligning
+with the ED Staff proposal is the lack of a UL 1741 SA/SB exemption for V2G DC electric vehicle
+supply equipment (“EVSE”). The ED Staff Proposal proposes applying the UL 1741 SA/SB
+certification exemption as adopted by Decision (“D.”) 21-12-015 to the proposed pilots in
+recognition of the nascent market for V2G EVSE.13 As demonstrated by the CEC’s V2G
+Equipment List, there are currently two SA-certified V2G DC EVSE and zero SB-certified V2G
+DC EVSE.14 Simply put, if UL 1741 SA and SB are required for V2G DC EVSE to participate in
+dynamic rates and non-NEM export participation, the utilities will see no customer participation
+for some time.15
+Without this exemption, many bidirectional EVSE will remain latent grid support assets
+when they are most needed and available to provide grid flexibility services. Moreover, for the
+13 CPUC R.22-07-005. Administrative Law Judges Ruling on Track B staff Proposal to Expand Existing
+Pilots – Attachment A: Staff Proposal on Existing Dynamic Rate Pilot Expansion. August 15, 2023. Pg.
+12-13.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M517/K408/517408172.PDF
+14 CEC. V2G Equipment List. Accessed October 9, 2023. https://v2gel.energy.ca.gov/Home/ProcessView
+15 VGIC estimates SB-certified V2G EVSE may be available in 18-24 months, based on our discussions
+with bidirectional charging equipment manufacturers that are seeking UL 1741 SB certification.
+8
+
+nascent V2G services and bidirectional EVSE market to grow and experience market
+transformation, customers and project developers need access to more programs that offer export-
+based compensation that improve the business case for V2G projects. The proposed expansion of
+IOU dynamic rate programs that offer compensation for V2G exports is commendable, as
+previously only ELRP offered compensation for V2G exports. However, if these programs are not
+accessible to the vast majority of VGI aggregators using UL 1741 and UL 1741-SA certified
+EVSE, but not UL 1741-SB certified EVSE, these programs will not support the business case for
+V2G technology to scale. SCE and PG&E’s dynamic rate pilots represent significant near-term
+opportunities to demonstrate the potential for VGI to provide grid services at scale and be
+compensated for doing so. We therefore urge the Commission to make note of the current
+state of the bidirectional charger market and consider ways to support customers with UL
+1741 and UL1741-SA certified V2G bidirectional chargers.
+To that end, VGIC reiterates its support for this exemption and urges the Commission to
+apply it to near-term SCE and PG&E’s dynamic rate pilots. Moreover, VGIC recommends the
+Commission consider modifying the previously approved V2G export opportunities to incorporate
+this exemption for near-term opportunities, including PG&E’s VGI Pilots and PG&E’s
+Commercial EV DAHRTP Export Rate Pilot.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the Proposed
+Expansion of the Existing Dynamic Rate Pilots. We look forward to further collaboration with the
+Commission and stakeholders on this initiative.
+Respectfully submitted,
+9
+
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: October 9, 2023
+10

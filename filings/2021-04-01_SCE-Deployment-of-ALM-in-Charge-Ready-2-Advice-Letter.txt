@@ -1,0 +1,247 @@
+April 1, 2021
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Protest of the Vehicle-Grid Integration Council to Advice Letter 4439-E of
+Southern California Edison
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(“VGIC1”) hereby submits this Protest to the above-referenced Advice Letter 4439-E of Southern
+California Edison Company (“SCE”), Southern California Edison Company’s Recommendations
+Regarding Deployment of Automated Load Management in the Charge Ready 2 Program (“Advice
+Letter”), submitted on March 12, 2021.
+I. INTRODUCTION.
+With the unanimous approval of Decision (“D.”) 20-12-029 on December 17, 2020, VGIC
+commended the Commission for implementing vehicle-grid integration (“VGI”) strategies pursuant
+to SB 676 and other VGI strategies deemed reasonable by the Commission. D.20-12-029 also strove
+to implement some of the primary recommendations and outcomes of the lengthy and resource-
+intensive VGI Working Group process, which produced a Final Report of the California Joint
+Agencies Vehicle-Grid Integration Working Group, as well as subsequent formal party comments
+on VGI issues. VGIC was generally pleased to see party recommendations referenced and adopted
+in D.20-12-029. VGIC thus believed a strong foundation for pursuing VGI strategies had been laid,
+and that subsequent actions taken in response to the Ordering Paragraphs (“OP”) of that Decision
+would follow suit and fulfill the vision of SB 676. VGIC was encouraged by several of the OPs in
+the Decision including OP 7 which required SCE to file a Tier 2 AL within 90 days describing the
+potential for deployment of Automated Load Management (“ALM”) technology and
+recommendations regarding deployment of ALM in the Charge Ready 2 (“CR2”) program.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Enel X North America, Inc.,
+Fermata, LLC., Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nissan North America,
+Inc., Nuvve Corporation, The Mobility House, Toyota Motor North America, Inc., and Ossiaco, Inc. The views
+expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the individual VGIC
+member companies or supporters. (https://www.vgicouncil.org/).
+1
+
+April 1, 2021
+Page 2 of 7
+Subsequently, SCE submitted the Advice Letter on March 12, 2021 pursuant to OP 7. The
+Advice Letter contains SCE’s assessment of the potential for deploying ALM technology. SCE’s
+assessment concluded that existing demand response (“DR”) programs and time-of-use (“TOU”)
+rates already provide incentives to reduce or shift load, and that customers may independently
+choose to install ALM to automate the process of complying with TOU rates. SCE’s Advice Letter
+also notes that site hosts are required to enroll in a DR program and the meter serving the electric
+vehicle supply equipment (“EVSE”) load must be served by a TOU rate plan. The Advice Letter
+therefore contains the recommendation that SCE deems these requirements as appropriate for
+incentivizing and deploying ALM within CR2. The Advice Letter therefore does not propose any
+changes to CR2 beyond those already described in the December 2, 2020 Advice Letter 4363-E, and
+does not include any detailed assessment of ALM potential.2 VGIC views this lack of a potential
+assessment as a major omission and believes it constitutes sufficient justification that the Advice
+Letter should not be approved as submitted.
+In reviewing the Advice Letter, VGIC believes that SCE’s conclusion that existing
+requirements within CR2 are sufficient to incentivize ALM do not align with D.20-12-029 or fulfill
+the vision of SB 676. VGIC believes the Commission’s intent is well-articulated in page 28 of D.20-
+12-029, which directs the IOUs to “identify in all future applications for TE programs how they will
+deploy customer-side ALM at host sites where this technology will support TE installation at equal
+or lesser costs than hardware-based electrical capacity while meeting TE charging needs.” 3
+Moreover, VGIC views the shortcoming of the Advice Letter as particularly troublesome given that
+this may set a precedent that D.20-12-029 and SB 676 need not be taken seriously by investor-
+owned utilities (“IOUs”) as they continue to plan and implement transportation electrification
+programs, rules, and/or tariffs.
+VGIC thus submits this protest to the Advice Letter on the grounds that SCE’s assessment is
+insufficient in evaluating the potential for deploying ALM technology as a means to avoid new
+distribution system upgrades and/or increase charging port deployment on existing services lines.
+These potential uses of ALM are not necessarily incentivized through the DR and TOU rate
+requirements. Subsequently, SCE’s recommendations for deploying ALM in CR2 are not
+commensurate with the full potential of ALM, thereby failing to comply with OP 7 of D.20-12-029.
+II. DISCUSSION.
+2 See SCE AL 4363-E, Southern California Edison Company’s Charge Ready Demand Response Program
+Implementation Plan Pursuant to Decision 20-08-045, which proposes to extend the Charge Ready DR pilot through
+2022 and transition to a full-scale Charge Ready DR program by January 2023.
+3 D.20-12-029 at 28.
+This directive does not apply to CR2, as it is not a “future application” in this context of D.20-12-029.
+
+April 1, 2021
+Page 3 of 7
+A. The Advice Letter’s description of the potential for ALM deployment misses the
+most critical opportunity for the technology to meet California’s transportation
+goals more cost-effectively.
+While VGIC agrees with SCE that “DR programs and TOU rates are currently available to
+provide incentives or rate discounts to customers who respond to signals to reduce or shift their
+load,”4 we believe that this assessment conflates ALM with DR programs and TOU rates. ALM is
+in fact a solution set that can provide distinct grid service benefits from those provided by DR
+programs and TOU rates. This indicates a potential misunderstanding on the part of SCE related to
+the full range of opportunities that could be realized by all utility customers, EV owners, and EVSP
+providers through ALM, in addition to DR and TOU. SCE is correct that ALM software can facilitate
+participation in DR programs by curtailing load during times of grid stress, including by exporting
+energy if the DR program recognizes and compensates vehicle-to-grid (“V2G”) exports. Similarly,
+customers may elect to use ALM software to manage charging (and discharging) in response to TOU
+rates, shifting load to support daily reductions in peak demand. However, in addition to supporting
+system-wide reductions in peak demand through DR and TOU, ALM solutions can also provide
+important benefits at the distribution level by reducing distribution system upgrade costs tied to site-
+specific EVSE installations. If customers are given the opportunity to voluntarily elect ALM
+software during the installation of their EVSE, that ALM software can assure that maximum site
+charging load would not exceed a specified kW capacity that could otherwise trigger an upgrade.
+Not only would this minimize the costs and time of any distribution infrastructure needed to
+accommodate higher a kW charging threshold, but it could also minimize the need for new service
+drops, help accommodate more charging ports in locations where new service drops are infeasible,
+and help stretch authorized TE dollars further.
+With these facts in mind, VGIC notes that the IOUs have an inherent incentive to pursue additional
+distribution upgrades and new service drops (rather than use existing service drops) since these
+incremental capital costs will generally increase the IOUs’ rate base, upon which they earn an
+authorized rate of return. Conversely, the IOUs may have an inherent disincentive to pursue ALM
+solutions, even if doing so might be in the best interest of their customers and California’s
+transportation electrification goals more broadly.
+Likewise, SCE’s notion that ALM is already encouraged by existing DR offerings may be partly
+true for customers on Critical Peak Pricing (“CPP”) rates. However, for EVSE installations that
+require new service drops (which might otherwise be avoided through the use of ALM), many DR
+opportunities are unavailable due to the lack of a baseline load, especially in the case of bidirectional
+(i.e., V2G) EV/EVSE. This reduces the ability of EV load to participate in revenue generating DR
+opportunities that may accelerate EV adoption.
+Additionally, while VGIC believes that ALM can provide broad benefits to a variety of stakeholders,
+it is crucial that ALM be offered as a voluntary option for customers such that that there is no adverse
+impact on EV customer experience. Ensuring a positive experience for EV drivers and site hosts is
+4 Advice Letter at 2.
+
+April 1, 2021
+Page 4 of 7
+central to accelerating EV adoption in support of California’s electrification goals. However, we
+firmly believe that even in a voluntary context, some customers will still choose to pursue ALM,
+particularly if doing so has benefits in terms of reducing the total cost of transportation electrification
+(e.g., if there is an added incentive to do so).
+In the context of CR2, a site host electing an ALM software solution could meet their charging needs
+while potentially reducing utility-side installation costs. On a programmatic level, this could result
+in more chargers being deployed under the same approved $436 million budget for CR2. As
+illustrated in VGIC’s comments on implementation of AB 841, VGIC believes a customer incentive,
+perhaps in the form of a rebate or rate discount, would be warranted and necessary to achieve these
+ratepayer savings and stretch CR2 dollars further.5 A “shared savings” model could be utilized to
+simultaneously achieve ratepayer benefits from reduced utility-side upgrades and site host benefit
+from the incentive. This approach balances ratepayer savings from ALM with customer choice and
+the need to maximize charger deployment under the previously authorized CR2 funds.
+B. Approving the Advice Letter as filed would set a concerning precedent of
+deprioritizing the implementation of SB 676.
+VGIC has major concerns over the precedent that could be set by both this Advice Letter
+and the recent advice letter filings of SCE, San Diego Gas & Electric Company, and Pacific Gas and
+Electric Company for the establishment of new EV Infrastructure Rules.6 Approving the Advice
+Letters without taking any additional actions towards constructive ALM solutions could send signal
+that the IOUs, and the Commission, are not taking certain provisions of SB 676 and D.20-12-029
+seriously. VGIC has appreciated the IOUs’ efforts in the lengthy and arduous VGI Working Group
+process, subsequent formal comment in R.18-12-006, and the many follow-on items related to the
+implementation of SB 676. We recognize that the IOUs have engaged in good faith in these forums
+to advance VGI, however this Advice Letter raises new concerns for VGIC if no further action is
+taken. We hope to work constructively with SCE and the other IOUs towards identifying and
+implementing these additional ALM opportunities, as well as other provisions of D.20-12-029. In
+that regard we urge SCE to consider a revised approach that lays out steps for additional ALM
+evaluation and implementation focusing on the use of ALM for distribution system benefits.
+Finally, the Advice Letter could do more to spell out ALM opportunities for specific
+customer types. While ALM should be offered as an option to all customer types and ultimately be
+up to site hosts to choose if ALM is right for their charging needs, VGIC believes that ALM solutions
+may be a logical fit for certain use cases such as workplace charging and MUDs, where vehicles
+tend to have relatively long dwell times. Notably, these are the same types of site hosts where TE
+could critically benefit disadvantaged communities and low-income customers. While an equity lens
+5 Comments of the Vehicle-Grid Integration Council on the Assigned Commissioner’s Ruling Regarding Implementation
+of Assembly Bill 841 (February 5, 2021) and Reply Comments of the Vehicle-Grid Integration Council on the Assigned
+Commissioner’s Ruling Regarding Implementation of Assembly Bill 841 (February 19, 2021) in R.18-12-006.
+6 See SDG&E AL 3705-E, SCE 4429-E, and PG&E AL 6102-E. VGIC notes these ALs may not fully comply with
+D.20-12-029 OP 5, which requires ALM to be considered into all future applications, rules, and tariff filings that seek
+to advance TE.
+
+April 1, 2021
+Page 5 of 7
+should be applied to all TE programs and VGI strategies, VGIC notes that allowing customers to
+elect ALM solutions may be a particularly effective strategy to ensure equitable deployment of
+EVSE.
+As noted in VGIC’s comments on AB 841 implementation,7 VGIC reiterates that ALM itself
+should not be a requirement for all or any sites, but rather should be offered as an option for
+customers to choose if they determine it best fits their needs, perhaps after consultation with the
+utility and/or a third-party entity.
+III. ALTERNATIVE SOLUTION.
+VGIC notes that the Energy Division has issued an Advice Letter Suspension Notice,
+suspending the Advice Letter 120 days beginning April 11, 2021. VGIC respectfully requests this
+time be used to convene an additional stakeholder workshop or a working group, or otherwise seek
+and further refine proposals from stakeholders on how ALM can be promoted in CR2, and in TE
+activities more broadly. Following a stakeholder workshop or working group, a workshop or
+working group report should be entered into the record and party comments on the report should be
+requested. The process of entering the stakeholder effort into the formal record of the proceeding is
+critical to ensure that Commission action can be taken based on a well-constructed record.
+The focus of this stakeholder effort could include (but not necessarily be limited to) a focus on the
+following key issues:
+1. Technical validation
+VGIC believes that ALM technology is ready for widespread implementation, and notes it is already
+being pursued by many solution providers in today’s market in California and internationally. We
+recognize that there may be some uncertainty on the part of the IOUs on whether certain novel load
+control systems can be depended upon to limit maximum draw. As such, we recommend a process
+to identify which hardware and software solutions are already providing this service and could be
+validated for the purpose of ALM services.
+2. Identification of candidate ALM customers and locations
+As part of a stakeholder process, VGIC recommends that SCE and the IOUs begin an effort to
+generally identify the types of locations and/or customers that may be most suitable for applying
+ALM solutions that limit distribution upgrades.
+7 Comments of the Vehicle-Grid Integration Council on the Assigned Commissioner’s Ruling Regarding Implementation
+of Assembly Bill 841 (February 5, 2021) in R.18-12-006 at 5 and Reply Comments of the Vehicle-Grid Integration
+Council on the Assigned Commissioner’s Ruling Regarding Implementation of Assembly Bill 841 (February 19, 2021)
+in R.18-12-006 at 3.
+
+April 1, 2021
+Page 6 of 7
+3. Incentives for customer participation
+VGIC acknowledges that several important elements of any ALM incentive design need to be further
+developed, particularly with the advent of AB 841 which could eliminate much of the incentive for
+customers to pursue ALM in the first place. Some relevant questions on VGIC’s proposed ALM
+incentive that could be considered at an upcoming stakeholder convening are provided below:
+ Should CR2 site hosts receive different treatment under an ALM incentive than
+EVSE site hosts not participating in a TE program?
+ How could specific avoided cost components be linked to different incentive
+mechanisms for promoting ALM (i.e., upfront incentives vs ongoing bill credit)?
+For example, could an upfront incentive be tied to known costs avoided by using an
+existing service (e.g. new meter and new service drop)? Meanwhile could a
+predetermined bill credit/rate discount be applied to avoided costs associated with
+the secondary distribution system?
+ If a bill credit is used to promote ALM for customer that choose these solutions, how
+should the credit be calculated (e.g., how are incremental upgrade costs identified in
+CR2? Could circuit-specific loading level be considered, like the “circuit adder”
+included in SDG&E’s Power Your Drive VGI Rate?)
+ What percent of total savings from ALM should be shared with the ALM-
+provider/host site and what percent should be reserved in the CR2 budget for other
+sites? Should an additional share of savings be offered to customers pursuing ALM-
+enabled EVSE in underserved communities?
+VGIC believes that such an effort would benefit both an eventual resolution of SCE’s Advice Letter,
+as well as the implementation of both SB 676 and AB 841.
+To be clear, VGIC believes the broader implementation of CR2, as detailed in AL 4438-E
+Southern California Edison Company’s Proposed Schedule CRP, ‘Charge Ready Program’, to
+Implement Charge Ready 2 should not be delayed, as CR2 will meaningfully and directly accelerate
+transportation electrification by supporting EVSE deployment. However, VGIC recommends the
+Commission indicate a date certain for when SCE must offer ALM (for distribution cost avoidance)
+as a voluntary option to participating CR2 site hosts alongside an ALM incentive to promote
+adoption of this option. This implementation of ALM should not be limited to new CR2 site hosts
+assessing their installation needs, but also to both existing TE program customers and customers
+seeking to install EVSE outside of TE programs (including through distribution upgrades covered
+by AB 841).
+If the Commission chooses to approve the Advice Letter as filed – although VGIC reiterates
+this would send a clear signal about the value placed on D.20-12-029 and SB 676 and place a
+concerning precedent – CR2 should be updated in the future to incorporate the strategies to promote
+
+April 1, 2021
+Page 7 of 7
+ALM solutions and standard evaluation criteria to determine host sites where ALM would be
+beneficial to be developed by each IOU pursuant to OP 5.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit this protest to SCE’s Advice Letter. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+cc: Gary A. Stern, SCE (AdviceTariffManager@sce.com)
+Tara S. Kaushik c/o Karyn Gansecki (Karyn.Gansecki@sce.com)
+Service lists R.18-12-006, A.18-06-015

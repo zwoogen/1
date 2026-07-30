@@ -1,0 +1,177 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+(U 39 M) for Approval of its Proposal for a Day-
+Ahead Real Time Rate and Pilot to Evaluate Application No. 20-10-011
+Customer Understanding and Supporting (Filed October 23, 2020)
+Technology
+RESPONSE OF THE VEHICLE-GRID INTEGRATION COUNCIL TO
+THE APPLICATION OF PACIFIC GAS AND ELECTRIC COMPANY (U
+39 M) FOR APPROVAL OF ITS PROPOSAL FOR A DAY-AHEAD REAL
+TIME RATE AND PILOT
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (941) 266-0017
+Email: eburgess@vgicouncil.org
+November 30, 2020
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+(U 39 M) for Approval of its Proposal for a Day- Application No. 20-10-011
+Ahead Real Time Rate and Pilot to Evaluate (Filed October 23, 2020)
+Customer Understanding and Supporting
+Technology
+RESPONSE OF THE VEHICLE-GRID INTEGRATION COUNCIL TO
+THE APPLICATION OF PACIFIC GAS AND ELECTRIC COMPANY (U
+39 M) FOR APPROVAL OF ITS PROPOSAL FOR A DAY-AHEAD REAL
+TIME RATE AND PILOT
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby responds
+on behalf of its members to the Application of Pacific Gas and Electric Company (U 39 M)
+(“PG&E”) for Approval of its Proposal for a Day-Ahead Real Time Rate and Pilot
+(“Application”). Pursuant to Rule 2.6 and Rule 1.15 of the Rules of Practice and Procedure, VGIC
+timely files this response on November 30, 2020.
+I. INTRODUCTION.
+A. Overview of VGIC
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation and
+electric sectors by ensuring the value from EV deployments and flexible EV charging and
+2
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+B. VGIC generally supports the increased use of dynamic pricing as an option for retail
+rate customers with EVs
+As a general principle, VGIC supports dynamic pricing options for Electric Vehicle
+customers. VGIC believes that dynamic pricing options – if designed appropriately – and other
+VGI strategies can help contribute to the following policy objectives:
+ advance the state’s transportation electrification goals by reducing the total cost of EV
+ownership,
+ deliver increased value to utility customers, including both EV and non-EV owners,
+ enhance reliable operations of the grid, and
+ foster a growing market for VGI services.
+VGIC appreciates PG&E’s continued efforts towards developing more dynamic EV rate options
+and commends the company for its innovative proposal for a Commercial Electric Vehicle day-
+ahead hourly real-time pricing (“DAHRTP-CEV”) rate and pilot. VGIC is continuing to review
+the specific details of PG&E’s proposal, however based on its initial review VGIC believes the
+proposal could be a constructive step towards enabling more EV customers access to dynamic rate
+options and VGI services. VGIC stresses that Commission approval of VGI strategies, including
+dynamic rate options, is critical for market participants to accelerate product development
+activities. VGIC also reserves the right to provide more detailed feedback at a later date, including
+any recommendations for how the proposal could be improved.
+3
+
+II. ISSUES TO BE CONSIDERED.
+A. Customer eligibility and target customers
+Decision (“D”) 19-10-055 ordered PG&E to “file an application for a dynamic rate option for
+CEV-S and CEV-L customers no later than 12 months after the effective date of this decision.” 1
+In its prepared testimony, PG&E states the DAHRTP-CEV pilot can begin to address certain key
+information gaps, but that
+…given its narrow focus on PG&E CEV Account Holders, it may not be possible to
+recruit a sufficient number of participants to conclude observed relationships are
+statistically significant. It is also uncertain whether the participating customers will be
+diverse enough to indicate customer understanding and benefits…2
+VGIC agrees that the limited number and diversity of participants may impact the ability to draw
+“statistically significant” conclusions. However, VGIC believes that targeted refinements could
+help to address this shortcoming. For example, eligibility could be expanded to include
+additional customer types, such as those with combined EV charger and building/facility load.
+This would be consistent with Electric Power Research Institute (“EPRI”) Study attached to
+PG&E’s prepared testimony which states that “Most [participants] expressed an interest in
+combined EV charger and building/facility load.”3 Increasing the diversity of customer types
+eligible to participate may provide a stronger indication of customer understanding and benefits.
+Combined EV charger and building/facility loads may also help to enable other VGI strategies,
+such as vehicle-to-load (“V2L”) for both customer bill management or backup power / resiliency
+applications. Several automotive original equipment manufacturers (“OEMs”) and EV supply
+1 D.19-10-055, Ordering Paragraph 9 at 76.
+2 PG&E Commercial EV Day-Ahead Hourly Real Time Pricing Pilot Prepared Testimony (“PG&E Prepared
+Testimony”), Ch. 1 at 1-24.
+3 Id. Attachment A at 1-AtchA-38.
+4
+
+equipment (“EVSE”) providers currently offer commercially-available and certified bi-
+directional technologies to enable these strategies, and more models will become available in the
+near-term.4
+Additionally, the Commission’s directive does not appear to limit PG&E from proposing
+similar dynamic rate constructs to other types of EV customers. As such, VGIC believes the
+DAHRTP-CEV pilot could serve as a useful model not just for commercial customers, but also
+for residential customers in the future and should be evaluated from that perspective as well.
+B. Technology incentive and customer-side integrations
+In prepared testimony, PG&E proposes a technology incentive “with no more than 3 total unique
+customer-side integrations for the duration of the pilot.”5 VGIC strongly supports PG&E’s
+intentions in proposing the Technology Incentive to mitigate technology provider risk, for
+example the risk taken by EV service providers (“EVSP”) to develop software that integrates
+with PG&E’s pricing communication platform. As a general observation, VGIC notes that
+4 See, for example, ABB https://cleantechnica.com/2020/10/14/11-kw-bi-directional-abb-chargers-coming-to-
+france-uk-germany-italy-belgium/, Audi https://electrek.co/2020/07/24/audi-bi-directional-charging-electric-cars-
+store-solar-energy/, Blue Bird https://www.electrive.com/2020/09/16/v2g-charging-with-electric-school-buses-in-
+the-usa/, Coritech https://coritech.com/v2g-architecture, Daimler https://www.axios.com/electric-school-buses-
+vehicle-to-grid-power-19f7b6b1-662b-4501-a96e-dcf3fd57a886.html, Delta https://www.prnewswire.com/news-
+releases/brandenburgische-technische-universitat-and-delta-pave-the-way-for-a-future-smart-grid-for-emobility-
+301154128.html, Fermata https://www.greencarcongress.com/2020/09/20200920-fermata.html, Lucid Motors
+https://www.autoblog.com/2020/08/19/lucid-air-ev-charging-v2g-300kw-900v-electrify-america/, Mitsubishi
+https://www.theverge.com/2019/3/6/18252883/mitsubishi-dando-drive-home-power-battery-electric-car-plug-in-
+hybrid, Nissan https://cleantechnica.com/2018/11/29/nissan-using-vehicle-to-grid-technology-to-power-us-
+operations/, Nuvve https://www.prnewswire.com/news-releases/how-nuvves-vehicle-to-grid-v2g-technology-and-
+electric-school-buses-can-help-curb-power-blackouts-301117324.html, Ossiaco
+https://cleantechnica.com/2020/08/02/ossiaco-has-built-the-one-home-solar-inverter-to-rule-them-all/, OVO
+https://www.current-news.co.uk/news/ovo-claims-world-first-install-of-domestic-v2g-charger, PRE http://www.pr-
+electronics.nl/en/news/58/pre-power-developers-leader-in-v2g-charger-modules/, Proterra
+https://www.raconteur.net/infrastructure/v2g-school-buses/, Rhombus Energy Solutions
+https://www.prweb.com/releases/rhombus_energy_solutions_announces_ul_1741sa_certification_for_its_ac_dc_hig
+h_power_conditioning_systems_for_fleet_electric_vehicles/prweb17308158.htm, and Wallbox
+https://electrek.co/2020/01/06/wallbox-quasar-tesla-nissan/.
+5 Id. Ch. 3 at 3-10.
+5
+
+technology providers capable of integrating with PG&E’s platform and interfacing with CEV
+customers may include other entities not traditionally considered EVSPs, such as automotive
+OEMs. Additionally, VGIC has some concern regarding the initially proposed cap of three
+integrations considering the fast-growing EV technology provider marketplace and the range of
+potential use cases under the proposed pilot. This could be problematic due to the fact that 1)
+some EVSP’s only focus on certain narrowly defined market segments within the Commercial
+class, and 2) pilot participants could include a broad range of potential EVSP companies
+including aggregators, EVSE manufacturers, OEMs, etc. Limiting the program to a number of
+participants that is too small could restrict PG&E’s learning opportunities across a large sample
+of customer types and EVSP provider types. Meanwhile, VGIC recognizes that a higher cap may
+dilute the funding amount (assuming a fixed budget) available to any one entity, which would be
+counterproductive toward the Technology Incentive’s objective of mitigating financial risk to the
+technology provider. VGIC suggests that a modest expansion of the proposed cap (e.g. from 3 to
+6 participants) could be considered to help accommodate the needs of the growing VGI
+marketplace.
+III. CATEGORIZATION, HEARINGS, AND SCHEDULE.
+VGIC agrees that this Application should be categorized as a “ratesetting” proceeding. VGIC
+also agrees that evidentiary hearing are likely necessary.
+IV. SERVICE.
+Service of notices, orders, and other correspondence in this proceeding should be directed to
+VGIC at the address set forth below:
+Edward Burgess
+6
+
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (501) 665-7811
+E-mail: vgicregulatory@vgicouncil.org
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to PG&E’s innovative
+DAHRTP rate and pilot. We look forward to further collaboration with the Commission and
+stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Tel: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: November 30, 2020
+7

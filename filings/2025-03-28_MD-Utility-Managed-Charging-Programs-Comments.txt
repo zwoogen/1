@@ -1,0 +1,149 @@
+March 28, 2025
+Andrew S. Johnston
+Executive Secretary
+Maryland Public Service Commission
+William Donald Schaefer Tower
+6 St. Paul Street, 16th Floor
+Baltimore, Maryland 21202
+Re: Case No. 9478; Comments of VGIC on Utility Managed Charging Programs
+Dear Mr. Johnston,
+The Vehicle-Grid Integration Council (“VGIC”)1 respectfully provides its comments in response
+to Potomac Electric Power Company’s (“PHI”) and Delmarva Power & Light Company
+(“Delmarva Power”; collectively with PHI the “PHI Utilities" or “Utilities”) Load Management
+Programs in their Phase II Electric Vehicle Portfolio to the Maryland Public Service Commission
+(“Commission”) in Case No. 9478. VGIC also respectfully provides comments on Baltimore Gas
+and Electric (“BGE”) and the Potomac Edison Company (“Potomac Edison”) respective EV
+Phase II Proposals in Case No. 9478.
+I. Introduction
+VGIC is a 501(c)(6) membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+II. VGI Programs as a Part of the Phase II EV Portfolios
+VGIC appreciates the PHI Utilities, BGE, and Potomac Edison’s work on advancing managed
+charging. These utilities have been leaders in making the transition to electric vehicles
+affordable, reliable, and clean.
+The PHI Utilities are proposing two load management programs, an EV-TOU rate and Smart
+Charge Management (“SCM”; referred to collectively with EV-TOU as the “EV Load
+Management Programs”). The EV Load Management Programs aim to reduce the cost of service
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Fermata Energy, Ford Motor
+Company, General Motors, Nissan Group of North America, Bidirectional Energy, BorgWarner, ChargeScape,
+dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy, Gravity, GridBeyond, GridWiz, Hyundai Cradle,
+Innovation Core SEI, Kaluza, Landis + Gyr, LG Innotek, Mercedes-Benz, Orange Charger, Peak Power, PowerFlex,
+Stellantis N.V., Sunrun, Tesla, The Mobility House, Toyota Motor North America, Inc., WeaveGrid, Clean Power
+Alliance, Holy Cross Energy, Los Angeles Department of Water & Power, and Sacramento Municipal Utility
+District. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+related to EV load, create net benefits for all of the PHI Utilities' customers, and further
+encourage the electrification of transportation through lowering the cost of charging.
+BGE is proposing a Charge Anywhere program to incentivize off-peak charging for EV drivers
+without dedicated charging access. Shifting EV charging to off-peak periods reduces the cost of
+service, enhances reliability, and creates financial savings for EV drivers who live in multi-
+family dwellings. BGE is also proposing an EV Energy Management System (“EMS”) pilot to
+help residential customers avoid the cost of upgrading their electric service panels when
+installing a level 2 charger, thereby reducing the financial barriers to electrification.
+Potomac Edison is proposing a Managed Charging Pilot that optimizes the charging schedule of
+participants to reduce their cost of service.
+The PHI Utilities, BGE, and Potomac Edison are all helping to realize Maryland’s commitment
+to clean energy and the electrification of transportation through the EV Load Management
+Programs. The programs will aid in Maryland’s achievement of the Advanced Clean Cars IIrule
+(“ACC II”), which requires 100% of passenger car and light truck sales to be EVs by vehicle
+model year 2035. The Programs also further the policy goals of the Maryland Climate Solutions
+Now Act of 2022, which targets a 60% reduction in greenhouse gas emissions by 2031, along
+with a goal to reach net-zero by 2045.
+III. PHI Utilities - Cost Effectiveness
+In their Phase II application, the PHI Utilities filed a cost-effectiveness analysis conducted by
+Brattle (“Brattle analysis”). VGIC believes the full context of the analysis should be taken into
+consideration and that the net benefits of managed charging are significantly higher than it may
+seem.
+The EV-TOU and SCM programs are essentially identical to programs operated by Baltimore
+Gas and Electric (BGE). BGE filed a combined cost-effectiveness of these programs that showed
+a score of 1.58.2
+One possible explanation of the difference between BGE and the PHI Utilities is that Brattle did
+not use actual load shapes from the SCM program. Instead, the Brattle analysis relied on
+estimated load shifts from a passive pilot program in San Diego Gas & Electric (“SDG&E”)3. As
+a result, the analysis may not reflect charging behavior in Maryland, where drivers likely have
+different patterns and behaviors for both TOU and active managed charging programs. We
+believe the estimated benefits would be higher using Maryland data.
+VGIC also believes the distribution benefits of SCM could be higher than included in the Brattle
+analysis. Many avoided cost approaches take a simplified approach to calculating the distribution
+benefits of a program, by basing the benefits on the reduction in the peak of the bulk electric
+system. However, SCM aims to reduce peaks in the distribution system that may occur outside of
+when the bulk system is capacity constrained.
+2 see BGE Smart Charge Management Program Proposal, filed in Case No. 9478 on June 4, 2024, p. 9
+3 see footnote 62 in the Brattle Report
+2
+
+According to the Smart Electric Power Alliance (“SEPA”), “Distribution effects of EV charging
+often manifest at lower levels of EV adoption than those at the bulk level. These impacts are
+closely related to the number of customers sharing a residential transformer and the size of that
+transformer. When transformers serve between 5-10 customers and are only rated between 10-34
+kVA, coincident EV charging can quickly overload circuits, not even taking into account other
+loads on the circuit.” In other words, EV charging can overload many distribution assets during
+hours that are considered “non-peak” for the purposes of the generation and transmission system.
+SCM aims to protect distribution assets, such as secondary transformers, from localized peaks
+primarily caused by EV charging which can often occur during “non-peak” hours4. However, the
+distribution benefits of SCM are not properly valued using the traditional approach of only
+looking at peak reduction at the bulk level.
+Based on independent reports from other states, VGIC expects there to be significant additional
+benefits of SCM compared to EV-TOU alone. For example, a US Department of Energy study
+entitled “Multi-State Transportation Electrification Impact Study” released in March 2024
+explored potential infrastructure costs related to EV load in five states - California, Illinois, New
+York, Oklahoma, and Pennsylvania. The study found that “the incremental distribution grid
+capital investment of $2.3 billion estimated by this study is reduced 30% to $1.6 billion when
+[Plug-in electric vehicles or “PEVs”] charging loads at home and depot locations are managed
+[...] within the context of this study, the [managed charging] strategy is agnostic to non-PEV
+residential, commercial, and industrial loads on the distribution network (meaning simulated
+PEV loads are not optimized relative to non-PEV loads). Accordingly, the results present a
+conservative estimate of the potential distribution grid savings from managing charging load
+locally.”5
+PHI’s load management programs have been effective in shifting load away from peak periods,
+as well as reducing the coincident charging of EVs. Given the promising cost-effectiveness
+results of EV-TOU and SCM conducted by BGE, as well as evidence from other states, VGIC
+urges the Commission to continue expanding the deployment of the load management programs.
+V. BGE - Charge Anywhere Program
+BGE’s Charge Anywhere program will provide financial incentives to customers living in multi-
+family dwellings to charge during off-peak times. This program will expand the scope of
+customers who can participate in managed charging programs, especially given that roughly 25%
+of BGE’s customers live in multi-family dwellings. The Charge Anywhere program supports
+4 There are two definitions of “off-peak” that could be used in this case. The hour can be off-peak based on a
+TOU schedule or off-peak in terms of these hours not having constrained capacity for the generation and
+transmission system. Both definitions would work in this context, since local timer peaks can occur either
+during TOU off-peak hours or when there is plenty of generation and transmission capacity.
+5 https://www.energy.gov/sites/default/files/2024-
+03/2024.03.18%20NREL%20LBNL%20Kevala%20DOE%20Multi-
+State%20Transportation%20Electrification%20Impact%20Study%20FINAL%20DOCKET.pdf
+3
+
+electrification, providing participants with a stronger financial incentive to utilize an EV, while
+also reducing their cost of service. VGIC strongly supports the Charge Anywhere program.
+VI. BGE – EV EMS Demonstration
+EV customers often seek a level 2 charger to be installed in their home. However, installing such
+a charger may require service upgrades which can cost up to $6,000. This high upfront cost can
+be prohibitive for many households to consider purchasing an EV.
+BGE’s EMS demonstration will manage load to avoid the need for service upgrades, thus
+significantly reducing the upfront cost of electrification. Participants would also be enrolled in
+SCM and/or EV TOU to further optimize charging schedules and reduce the cost of charging.
+Therefore, the EV EMS demonstration aims to create cost savings for EV adoption, EV
+ownership, and the entire electric system. VGIC strongly supports BGE’s EV EMS
+Demonstration, as this type of flexible connection is a critical element of a well-balanced
+vehicle-grid integration portoflio.
+VI. Potomac Edison - Managed Charging Pilot
+Potomac Edison’s proposed managed charging pilot has similar goals and design to BGE and the
+PHI Utilities SCM program. As those programs have been a successful and cost-effective way to
+capture a wide range of benefits - enhancing the affordability of EV charging, reducing utility
+costs, and increasing the reliability of the distribution system - VGIC strongly supports Potomac
+Edison’s managed charging pilot.
+VII. Conclusion
+The Phase II proposals submitted by the PHI Utilities, BGE, and Potomac Edison all represent
+significant advancements in the electrification of transportation in a way that creates benefits for
+all Maryland ratepayers and residents. We recommend the Commission approve these pilots and
+the expansion of these programs to ensure Maryland continues to lead on transportation
+electrification, while protecting grid reliability and delivering customer value.
+VGIC appreciates the opportunity to provide comments and looks forward to further
+collaboration with stakeholders on these important initiatives.
+4

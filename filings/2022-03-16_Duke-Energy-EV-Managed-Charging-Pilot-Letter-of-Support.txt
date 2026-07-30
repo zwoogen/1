@@ -1,0 +1,62 @@
+March 16, 2022
+VIA ELECTRONIC FILING
+Ms. A. Shonta Dunston, Chief Clerk
+North Carolina Utilities Commission
+4325 Mail Service Center
+Raleigh, North Carolina 27699-4300
+Re: Duke Energy Carolinas, LLC’s and Duke Energy Progress, LLC’s Application for
+Approval of Electric Vehicle Managed Charging Pilots
+Docket Nos. E-7, Sub 1266 and E-2, Sub 1291
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) nonprofit trade association
+focused on accelerating the role smart EV charging and discharging through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+VGIC is pleased to support Duke Energy’s proposed EV Managed Charging Pilot and
+urges the North Carolina Utilities Commission to approve the proposal. VGIC believes that this
+innovative program will deliver value for program participants, utility ratepayers, and the grid, as
+well as generate valuable lessons learned to support the scaling of vehicle-grid integration (VGI)
+technologies in Duke Energy’s service territory. The scaling of VGI programs and offerings will
+help accomplish the following public policy goals:
+• Benefit drivers and fleet owners by reducing the total cost of EV ownership.
+• Decarbonize the transportation sector by accelerating EV adoption.
+• Support the decarbonization of the power sector by providing essential grid flexibility
+services as renewable energy and distributed energy resource penetration increases.
+• Increase affordability by reducing electricity bills for all customers.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., ENGIE NA, Fermata Energy, FlexCharging, Ford Motor Company, General Motors Company, Nissan, Nuvve
+Holding Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, The Mobility House, Toyota
+Motor North America, Inc., Veloce Energy, Inc., and WeaveGrid. The views expressed in these comments are those
+of VGIC, and do not necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/).
+1
+
+• Improve grid resiliency and security during extreme weather events using vehicle-to-
+building systems.
+• Foster economic activity through innovation, competition, and market transformation.
+Additionally, since the delivery of meaningful system and customer benefits can only be
+achieved at scale, VGIC encourages Duke to ensure that there is a clear path towards scaling the
+program beyond the pilot phase if it is deemed successful. While utility managed charging for
+the pilot is reasonable, any future program should encourage third-party aggregators to serve this
+function. It is worth noting that only a small subset of vehicle models is eligible to participate
+under Duke’s proposal. Although VGIC supports this pilot as a first step, VGIC recommends
+that Duke should soon consider expanding eligibility to include other vehicles with similar
+telematics-based control technologies.
+Lastly, VGIC recommends that Duke should continue to explore additional VGI offerings
+beyond the proposed pilot. Commercial EV fleets with predictable operational schedules may
+similarly have the potential for the coordination and optimization of EV charging and should be
+considered in future program offerings. EVs can also utilize bidirectional capabilities to provide
+on-site backup power and behind-the-meter customer bill management (vehicle-to-building, or
+V2B) as well as exports to the grid (vehicle-to-grid, or V2G) which can enhance system
+reliability. A portfolio of VGI offerings that cover all customer segments and that leverage both
+unidirectional and bidirectional capabilities will help maximize the grid and customer value of
+EVs.
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with Duke and the Commission to ensure that EVs are fully leveraged to support North
+Carolina’s decarbonization goals.
+Respectfully submitted,
+Zach Woogen
+Policy Specialist
+Vehicle-Grid Integration Council (VGIC)
+2

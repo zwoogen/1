@@ -1,0 +1,137 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING SEEKING COMMENTS REGARDING
+FUTURE GRID STUDY REPORT
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: January 10, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING SEEKING COMMENTS REGARDING
+FUTURE GRID STUDY REPORT
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Administrative Law Judge’s Ruling Seeking Comments Regarding
+Future Grid Study Report (“Ruling”), filed October 17, 2024.
+I. INTRODUCTION.
+In opening comments, many parties emphasized the importance of enabling Distributed Energy
+Resources (DERs) to provide grid services, given the expected increase in new flexible electric
+loads across California. VGIC continues to recommend that the Commission focus its resources
+on near-term actions that can enable widespread EV charging while mitigating distribution impacts
+and minimizing ratepayer costs. In particular, the Future Grid Study Report (FGS Report)
+highlights flexible load energization as a strategy that VGIC believes can be implemented within
+a 1–2 year timeframe. In response to party comments on flexible load energization, VGIC provides
+the following insights:
+● The record demonstrates that the Commission should outline next steps for implementing
+flexible load energization immediately.
+2
+
+● Flexible load energization could become a permanent energization pathway if the
+Commission takes action.
+II. THE RECORD SHOWS THAT THE COMMISSION SHOULD OUTLINE NEXT
+STEPS FOR IMPLEMENTING FLEXIBLE LOAD ENERGIZATION
+IMMEDIATELY.
+VGIC strongly supports establishing a broader flexible load energization pathway and
+agrees with parties who have stressed the urgency of enabling this critical transition for California's
+energy future. In opening comments, numerous stakeholders, including Public Advocates Office
+at the California Public Utilities Commission (“Cal Advocates”), California Community Choice
+Association (“CalCCA”), Advanced Energy United (“AEU”), Environmental Defense Fund
+(“EDF”), CALSTART, and Natural Resources Defense Council (“NRDC”) advocated for
+immediate action to create broad flexible load energization frameworks. As stated by Cal
+Advocates, flexible load energization will “allow the IOUs to address immediate operational
+challenges and provide ratepayers benefits without overextending system capabilities and
+increasing costs prematurely.”1 Cal Advocates and CalCCA also highlighted the use of flexible
+load energization pilots, which allow customers to energize while distribution circuits are
+upgraded, a necessity as large fleets increasingly electrify, as EDF, CALSTART, and NRDC
+jointly noted.2 The record underscores that flexible load energization is vital to achieving
+California's decarbonization goals, and the Commission must act promptly to unlock its full
+potential.
+To facilitate broader implementation, i.e., beyond the current limited PG&E and SCE
+pilots, the Commission should designate a venue for creating flexible load energization
+1 Cal Advocates Opening Comments at 15.
+2 EDF, CALSTART, and NRDC Joint Opening Comments at 4.
+3
+
+frameworks and issue a scoping memo in that proceeding to define the appropriate next steps.
+Parties have identified several potential venues for addressing flexible load energization,
+including:
+● Track 2 of this High DER Proceeding (R.21-06-017)
+● Track 3 of this High DER Proceeding (R.21-06-017)
+● Energization Timelines Proceeding (R.24-01-018)
+● A dedicated working group focused solely on flexible load energization
+Given discussion on this issue, it is likely that multiple proceedings will be implicated in the
+creation of flexible load energization, including those mentioned above but also the Transportation
+Electrification proceeding (R.23-12-008) and General Rate Cases given the implications for cost
+recovery. In Opening Comments, AEU and EDF, CALSTART, and NRDC recommend that the
+Commission establish a working group to host stakeholder discussions and create the flexible load
+energization framework. VGIC supports this approach but would also endorse other methods of
+record development, such as workshops with comments or Rulings that allow for stakeholders to
+submit written comments. VGIC is agnostic about the specific venue but urges the Commission to
+take decisive action and identify next steps immediately.
+III. FLEXIBLE LOAD ENERGIZATIONS COULD BECOME PERMANENT
+ENERGIZATION PATHWAYS IF THE COMMISSION TAKES ACTION.
+In Opening Comments, San Diego Gas and Electric (“SDG&E”) states that “Flexible load
+energization is a temporary solution for connecting new loads and does not obviate the need for
+upstream distribution capacity upgrades.” VGIC strongly disagrees with the blanket
+characterization of flexible load energization as merely a temporary solution. The Commission has
+4
+
+the authority to allow customers to opt into permanent flexible load energization agreements,
+enabling them to provide ongoing grid services.
+Multiple parties have outlined the potential for scaling flexible load energization into
+permanent pathways that provide significant grid benefits. Cal Advocates highlight that these types
+of Flexible Service Agreements (“FSAs”) are “foundational to more advanced, long-term use cases
+focused on DER services and load management.”3 By promoting the use of power control systems
+and other mechanisms to establish import limits, for example simple static load limit schedules or
+dynamic load limit approaches, FSAs can create reliable permanent or temporary load curtailment
+strategies, providing system operators with the certainty needed to plan for and manage the
+distribution grid effectively. This will likely be the keystone of future DER grid service programs,
+including the potential transactive markets discussed in the FGS report, but also other dispatchable
+DER programs. Ultimately, VGIC agrees with AEU that “the specific technical requirements,
+operational parameters, and legal and regulatory treatment of FSAs will likely be important to
+many forms of visibility, control, and compensation for these programs.”4
+SDG&E states that customers cannot permanently sign flexible service agreements because
+of the utility’s obligation to serve customer load. However, the Commission could formalize
+pathways for customers to voluntarily opt into scheduled load import limits or FSAs on a
+permanent basis and through a contractual agreement with the utility. Significant record
+development and stakeholder discussions are needed to fully implement a broadly accessible
+flexible load energization framework. The FGS Report, the Smart Inverter Operationalization
+3 Cal Advocates Opening Comments at 15.
+4 Advanced Energy United Opening Comments at 4.
+5
+
+Working Group (“SIOWG”) Report, and Enphase’s motions on FSAs5 have identified outstanding
+issues to be addressed. These issues are largely policy discussions, and the Commission can
+resolve these issues and establish broad flexible load energization as a cornerstone of California’s
+DER strategy. The Commission should begin these discussions without delay.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the Report. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: January 10, 2025
+5 See Motion Of Enphase Energy, Inc. to Amend Scoping Ruling and Schedule to Address Optional Flexible
+Connection Agreements and the Underwriters’ Laboratory 3141 Standard for Power Control Systems in Investor-
+Owned Utilities’ Energization Rules, R.21-06-017, May 6, 2024.
+See also Motion Of Enphase Energy, Inc. to Amend Scoping Ruling and Schedule to Address Optional Flexible
+Connection Agreements and the Underwriters’ Laboratory 3141 Standard for Power Control Systems in Investor-
+Owned Utilities’ Energization Rules, R.24-01-018, September 11, 2024.
+6

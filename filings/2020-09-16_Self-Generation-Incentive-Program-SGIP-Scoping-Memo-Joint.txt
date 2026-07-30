@@ -1,0 +1,372 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Policies, Rulemaking 20-05-012
+Procedures and Rules for the Self-Generation (Filed May 28, 2020)
+Incentive Program and Related Issues
+JOINT COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL AND BMW OF NORTH AMERICA, LLC TO THE ASSIGNED
+COMMISSIONER’S SCOPING MEMO AND RULING
+Edward Burgess Adam Langton
+Policy Director Energy Services Manager
+Vehicle-Grid Integration Council BMW of North America, LLC
+2150 Allston Way, Suite 400 300 Chestnut Ridge Road
+Berkeley, California 94704 Woodcliff Lake, NJ 07677
+Tel: (941) 266-0017 Tel: (201) 675-2701
+Email: eburgess@vgicouncil.org Email: adam.langton@bmwna.com
+September 16, 2020
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking Regarding Policies, Rulemaking 20-05-012
+Procedures and Rules for the Self-Generation (Filed May 28, 2020)
+Incentive Program and Related Issues
+JOINT COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL AND BMW OF NORTH AMERICA, LLC TO THE ASSIGNED
+COMMISSIONER’S SCOPING MEMO AND RULING
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) 1 hereby submits
+these joint comments on behalf of its members and BMW of North America, LLC (together, “Joint
+Commenters”) to the Assigned Commissioner’s Scoping Memo and Ruling (“Scoping Memo”)
+issued by Commissioner Rechtschaffen on August 17, 2020. Pursuant to the Scoping Memo, VGIC
+timely files these comments to the Scoping Memo on September 16, 2020.
+I. INTRODUCTION.
+A. Overview of VGIC
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation and
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California LLC, Enel
+X North America, Inc., Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nissan North
+America, Inc., Nuvve Corporation, and Toyota Motor North America, Inc. The views expressed in these Comments
+are those of VGIC, and do not necessarily reflect the views of all of the individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/).
+2
+
+electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+B. Overview of BMW of North America, LLC
+BMW of North America, LLC was established 1975. The BMW Group in the United States
+is responsible for marketing, sales, and financial service organizations for the BMW brand, the
+MINI brand, and the Rolls-Royce brand of Motor Cars; Designworks USA, an industrial design
+firm in California; a technology office in Silicon Valley and various other operations throughout
+the country. BMW Manufacturing Co., LLC in South Carolina is part of BMW Group’s global
+manufacturing network and is the exclusive manufacturing plant for all X3 and X5 Sports Activity
+Vehicles and the X6 Sport Activity Coupe. The BMW Group sales organization is represented in
+the U.S. through networks of BMW passenger car centers, BMW motorcycle retailers, MINI
+passenger car dealers, and Rolls-Royce Motor Car dealers. BMW (US) Holding Corp., the BMW
+Group’s sales headquarters for North, Central and South America, is located in Woodcliff Lake,
+New Jersey.
+C. Organization of Joint Comments
+Joint Comments are organized as follows:
+ First, Joint Commenters offer overarching recommendations on consideration of
+EVs/EV supply equipment (“EVSE”) in the Self-Generation Incentive Program
+(“SGIP”).
+ Second, Joint Commenters addresses Scoping Memo questions h, i, j, and k related to
+EV/EVSE eligibility in SGIP. Joint Commenters provide several recommendations for the
+Commission’s consideration.
+3
+
+II. OVERARCHING RECOMMENDATIONS RELATING TO EV/EVSE IN SGIP.
+A. SGIP incentives should be made available to eligible vehicle-to-grid (V2G) resources in
+the near-term.
+Joint Commenters believe that a broad set of VGI technologies, including both V2G and
+V1G applications, can and should ultimately be considered for eligibility under the SGIP
+framework. We believe both V2G and V1G have a significant potential to realize the ratepayer,
+resilience, environmental, and equity benefits associated with V2G resources. Moreover, we think
+that V2G solutions in particular are well aligned with the SGIP program objectives. Joint
+Commenters consider V2G to describe bi-directional charging solutions that leverage the
+embedded energy storage capacity embedded within EVs. This is distinct from “V1G” smart
+charging applications. While we believe that V1G offers a similar array of benefits to V2G, we
+also recognize V2G is more likely to receive consensus support as an eligible technology under
+the SGIP framework at this time, due to its closer resemblance to stationary energy storage
+solutions that are currently eligible. Thus, we recognize that the Commission may wish to focus
+any near-term efforts to support VGI through SGIP on V2G resources, though we recommend
+leaving open the possibility for V1G to be included either now or in the future. Expansion of SGIP
+eligibility to VGI solutions would also provide critical information of customer interaction with
+VGI strategies more generally that would yield learnings and spillover benefits that may be
+considered later.
+B. V2G is both an emerging technology and a form of energy storage that fits well within
+SGIP’s overall purpose and program design.
+4
+
+VGIC notes that V2G solutions are fully dispatchable, and can provide injections of electricity to
+the grid. As such, they can be considered a form of generation or energy storage. Thus, to the
+extent SGIP has and continue to play a critical role in supporting market transition for stationary
+energy storage, VGIC believes that V2G, as a form of storage, should also be considered under
+the SGIP framework.
+C. EV/EVSE can serve a critical role in supporting SGIP’s equity and resiliency focus.
+Joint Commenters acknowledge California’s near-term focus in ensuring the current SGIP
+Equity Resiliency Budget be leveraged to benefit our most vulnerable communities in the face of
+wildfires and public safety power shutoffs (“PSPS”). Joint Commenters believe that a subset of
+VGI strategies focused on resiliency could meaningfully support the goals described in Decision
+(D.) 19-09-027 establishing the $100 million equity resiliency budget and D.20-01-021 expanding
+the equity resiliency budget to $613 million over five years. As the Commission continues to
+consider the appropriate balance between broad-based support for energy storage technologies and
+targeted support (including program budget carve-outs) for equity and resilience applications, Joint
+Commenters strongly recommend V2G solutions be viewed through a similar lens. SGIP could
+meaningfully support V2G market development more broadly while providing targeted support
+for EV/EVSE use in resilience applications and to ensure equitable technology deployment. While
+there exists a wide range of use cases that may be applicable in this regard, VGIC offers the
+following specific examples which could benefit from targeted market transition support:
+ Vehicle-to-building (“V2B”) backup power solutions: These solutions use V2G-capable
+EV/EVSE systems to provide backup power to on-site load (e.g., critical facilities as
+defined in D.19-05-012) in the event of a PSPS, rolling blackouts caused by heat waves,
+or other resilience event.
+5
+
+ V2G exports for resiliency: These solutions use V2G-capable EV/EVSE systems to provide
+backup power to islanded sections of the grid (i.e., microgrids) in the event of a PSPS,
+rolling blackouts caused by heat waves, or other resilience event.
+The technology and equipment needed to enable these solutions reflect high technological
+readiness levels, with most either commercially available now or in the near term. The Nissan
+LEAF is currently V2G-capable, and VGIC notes medium- and heavy-duty vehicle (“MHDV”),
+for example school busses, OEMs have announced V2G capability. VGIC believes these solutions
+can efficiently complement the existing suite of energy storage technologies currently eligible for
+the SGIP Equity Resiliency Budget (“ERB”) incentives.
+D. Consideration of SGIP incentives for EVs/EVSE should be developed in close
+coordination with related policies and programs, such as the Transportation
+Electrification Framework (“TEF”)
+Joint Commenters believe that SGIP and TEF budgets – perhaps further supplemented by
+other program budgets in the future – should represent a complete package of funding available to
+the full suite of VGI use cases. To further moderate impacts on SGIP budget, eligibility can be
+targeted to specific V2G use cases, such as those supporting SGIP’s current equity and resiliency
+focus. However, as an emerging technology, VGIC believes the development of SGIP incentives
+for VGI should consider a balance between broad-based support for V2G and targeted support for
+SGIP priorities areas such as equity and resilience
+E. The various EV/EVSE customer types merit separate consideration under the SGIP
+framework due to their important and inherent differences.
+Joint Commenters recommend the Commission consider the important differences
+between EV fleets, commercial EVSE site hosts, and residential customers as they relate to
+EV/EVSE adoption and use. EV fleets, such as commercial delivery fleets, may be more likely to
+6
+
+utilize VGI strategies to optimally shape their charging and discharging profiles in response to
+price signals. Commercial EVSE site hosts, in contrast, may have less flexibility as the EV owner
+is unlikely to be the same as the EVSE owner. While single family home (“SFH”) residential
+customers may not have this split ownership problem, multi-unit dwelling (“MUD”) customers
+may operate under one of several charging and parking norms in which they do not own the EVSE.
+For many SFH residential customers, flexible charging/discharging may need to be performed
+“behind the scenes” by an automotive original equipment manufacturer (“OEM”) or EV service
+provider (“EVSP”) in order to simplify the customer experience. While these example customer
+segments do not reflect the full constellation of EV/EVSE ownership models and customer types,
+they do demonstrate some of the most notable differences. As such, Joint Commenters recommend
+the Commission consider a modest level of customization to accommodate the unique
+characteristics and capabilities of each customer type. At a minimum, SGIP incentives for VGI
+should be allocated separately for commercial and residential customers, similar to the manner in
+which it is allocated for other forms of energy storage.
+Joint Commenters acknowledge California’s near-term focus in ensuring the current SGIP
+ERB be leveraged to benefit our most vulnerable communities in the face of wildfires and public
+safety power shutoffs (“PSPS”). While Joint Commenters support a broad-based strategy to
+accelerate market transformation of VGI overall, we believes that a subset of VGI strategies
+focused on equity and/or resiliency should be considered and could meaningfully support the goals
+described in Decision (D.) 19-09-027 and D.20-01-021 establishing the budgets over the next five
+years. As mentioned above, VGIC has been active in other Commission proceedings and
+stakeholder processes such as the VGI Working Group where we have articulated the meaningful
+role that VGI could play in providing resiliency services the form of backup power (including for
+7
+
+PSPS events). We have also detailed how VGI can help lower the total cost of EV ownership,
+therefore contributing to equity goals. Additionally, SGIP support for VGI could be targeted
+towards deployments of EVs and EVSEs that benefit disadvantaged communities. These benefits
+could accrue both in terms of the direct investment in disadvantaged communities as well as
+through alleviating pollution burden in those communities by accelerated transportation
+electrification.
+III. QUESTION H: HOW CAN SGIP INCENTIVES FACILITATE USE OF EV
+ENERGY STORAGE SYSTEMS AND/OR EVSE TO REDUCE PEAK LOAD ON
+THE GRID AND/OR TO CHARGE THE STORAGE SYSTEM WHEN EXCESS
+ELECTRICITY IS AVAILABLE?
+F. V2G represents an immense potential to reduce peak load.
+Assuming 3.45 million SFH EVSE by 2030,2 an average EVSE power rating of 10 kW,3
+and a modest 5% participation rate in a V2G program, tariff, or incentive intended to provide
+capacity during a grid reliability event, Joint Commenters estimate that California’s SFH-dwelling
+EVs alone could provide over 1,725 MW of peak reduction during peak times in 2030 – a
+significant contribution to California’s resource needs. This estimated capacity value is doubled
+(to 3,450 MW) if vehicles are also encouraged to discharge during peak times. Note this estimate
+does not include the capacity of MHDV, which have a considerably higher average battery energy
+capacity than light-duty vehicles (“LDV”).
+In addition to meeting peak demand, EVs and EVSEs are readily able to absorb excess
+generation from solar as long as retail rate structures, including time of use (TOU) and real-time
+2 Eric Wood et al. Presentation - Electric Vehicle Infrastructure Projection Tool (EVI-Pro). National Renewable
+Energy Laboratory. August 3, 2020. California Energy Commission Docket Number 20-IEPR-02
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=234215&DocumentContentId=67051
+3 Assumes a mix of Level 1 (“L1”) and Level 2 (“L2”) chargers.
+8
+
+pricing (RTP) options are available to encourage this through lower daytime rates. This could be
+further enhanced by support for workplace charging that targets EV charging during daytime
+hours.
+G. Current strategies to promote EV peak load reduction and charging when excess
+electricity is available do not adequately leverage the energy storage capacity embedded
+within EVs.
+All three major investor-owned utilities (“IOUs”) offer time-varying EV rates, and some
+are in the process of developing dynamic EV rates to specifically support peak load reduction. For
+example, Southern California Edison’s (“SCE”) residential EV TOU rate provides a price signal
+to charge during off-peak times, but is not designed to incent increased charging specifically during
+times of excess electricity availability (i.e., either on-site or grid-sourced mid-day solar
+generation). However, these rates fall short of the full potential for integrating EVs with the grid,
+which includes not just charging during off-peak times, but also discharging or exporting during
+peak times through V2G capabilities. Current no retail rates or programs (or even wholesale
+participation options such as Proxy Demand Response) are designed to facilitate bi-directional
+charging capabilities which could essentially double the effectiveness of unidirectional
+capabilities.
+Another significant gap in encouraging flexible EV charging and discharging is the onerous
+requirement for some customers to install a separate meter to be eligible for an EV rate, which
+precludes access to existing demand response market products and other value streams that are
+supported by the presence of behind-the-meter (“BTM”) load. Joint Commenters believe SGIP
+could play a critical role in supporting the nascent EV/EVSE market in this regard by incentivizing
+9
+
+an important technology set that is otherwise prohibited from accessing and stacking value
+streams.
+H. Existing transportation electrification incentives are not designed to promote EV peak
+load reduction and charging when excess electricity is available.
+Joint Commenters acknowledge that a given EV buyer may be eligible to receive both
+federal and/or state tax incentives for their vehicle purchase, and an EVSE buyer may be eligible
+for state, local, and/or utility rebates. Notably, several OEMs have already surpassed or are fast-
+approaching the sales threshold to begin phasing out the federal EV tax credit. Additionally, the
+Furthermore, neither the federal EV tax credit and other EV/EVSE incentives are designed to
+promote vehicle-grid integration and flexible charging and/or discharging behavior. Joint
+Commenters reiterate that no existing EV or EVSE incentives leverage the energy storage
+capabilities of V2G-capable EV/EVSE systems. Therefore, VGIC reiterates the potential for
+SGIP to critically support the nascent market for V2G energy storage capabilities.
+IV. QUESTION I: HOW CAN SGIP INCENTIVES FACILITATE USE OF EV
+STORAGE SYSTEMS AND/OR EVSE TO REDUCE GRID GHG EMISSIONS?
+A. SGIP incentives can play a critical role in encouraging EV/EVSE charging and/or
+discharging behavior that significantly reduces grid GHG emissions.
+SGIP incentives for EV/EVSE can lead to marginal emissions reductions on the grid by
+aligning EV charging with excess renewables and discharging with peak times when GHG
+emissions from grid electricity (due to fossil fuel peaking plants) tend to be greatest. VGIC
+recommends the Commission consider how automotive OEMs and/or EVSPs could support their
+customers in responding to GHG price signals as part of SGIP incentives, including by performing
+“behind the scenes” charge/discharge management.
+10
+
+B. As detailed above, Joint Commenters do not recommend SGIP incentives be
+made available to all EV/EVSE regardless of capabilities. However, to the extent SGIP
+incentives can supportSGIP incentives for EV/EVSE can also promote GHG emissions
+reductions beyond the grid by supporting broader transportation electrification goals.
+If SGIP incentives are provided to VGI-capable EV or EVSE, this would provide an incremental
+financial benefit to either the owner or provider of this equipment and would in turn help to
+accelerate overall EV adoption and transportation electrification goals. However, to the extent
+SGIP incentives can play a role in supporting these broader transportation electrification through
+its focus on a specific subset of V2G-capable EV/EVSE systems as part of the broader portfolio
+of TE and VGI related efforts. , The added financial benefit to EV customers and manufacturers
+will help to displace the sale and, more importantly, vehicle miles travelled (“VMT”) of internal
+combustion engine (“ICE”) vehicles which contribute significantly to transportation sector
+emissions, which represent the largest source of the state’s GHG emissions by sector.
+V. QUESTION J: HOW CAN SGIP INCENTIVES FACILITATE USE OF EV
+STORAGE SYSTEMS AND/OR EVSE TO PROVIDE OTHER BENEFITS OF
+ELECTRIC VEHICLE GRID INTEGRATIONS (AS DEFINED IN SECTION
+740.16)?
+VGIC believes that SGIP incentives can be leveraged to help develop the overall market
+for VGI technologies by filling in certain gaps where there is either no market incentive, or the
+market mechanisms that do exist are ill-suited for EVs and/or EVSEs. The above sections describe
+how we believe SGIP incentives can be coordinated with other VGI program offering being
+developed (e.g. through the TEF) to ensure that any remaining gaps are addressed. Recently VGIC
+joined with several other parties to submit comments on VGI Issues including those related to SB
+11
+
+676 and Section 740.16.4 Through these comments we identified the need for the IOUs to develop
+an overall VGI Portfolio that would include a variety of programs, rates, and market offerings to
+support beneficial VGI in conjunction with overall TE efforts. As port of this portfolio effort, we
+identified several potentially sources of funding, as well as certain “revenue neutral” program
+elements. One of the potential sources of funding identified was the SGIP program, which if
+developed to include EVs and/or EVSEs, could support discrete elements of the overall VGI
+portfolio that were not supported through the TE Plans under the TEF or other funding sources.
+Moreover, Joint Commenters believe that existing market participation options are
+insufficient to support robust VGI activities. Much like stationary energy storage, EVs faces many
+of the same barriers as other distributed resources when attempting to provide wholesale market
+products. For example, existing CAISO participation models such as Proxy Demand Response do
+not allow for storage exports (analogous to V2G) to be properly credited. Moreover, EVs also face
+fundamentally different barriers due to the fact that separately metered charging stations do not
+have any on-site load that would allow for ‘baselining’ under a standard demand response
+approach. Due to these and other market barriers that exist today, Joint Commenters believe it is
+critical for the Commission to provide other avenues of support for V2G. Support for V2G market
+transformation is especially critical now since a large number of new EV models are in stages of
+product development and manufacturing for launch in the 2021-2022 timeframe. Support from
+SGIP would help to ensure this promising technology is indeed included in these new EV models
+even when current market signals are insufficient.
+4 Joint Comments of the Vehicle-Grid Integration Council, Enel X North America, Inc. , Advanced Energy Economy,
+California Energy Storage Alliance, Chargepoint, Inc., Environmental Defense Fund, Greenlots, Natural Resources
+Defense Council, and Siemens on Email Ruling Seeking Party Comment on Vehicle-Grid Integration Issues in R.18-
+12-006 (“DRIVE OIR”)
+12
+
+VI. QUESTION K: HOW CAN THE COMMISSION ENSURE THAT EV STORAGE
+SYSTEMS AND/OR EVSE THAT RECEIVE SGIP INCENTIVES ARE USED TO
+PROVIDE LONG-TERM BENEFITS TO RATEPAYERS?
+Joint Commenters recognize the Commission’s concerns about the “permanence” of EV
+storage systems and/or EVSE that receive incentive from SGIP due to the possibility that EVs may
+ultimately travel out of state and no longer provide benefits to California ratepayers. However,
+Joint Commenters believe there are several mitigating factors that would limit this from happening
+thus ensuring that nearly all SGIP incentives directed towards EV storage systems and EVSE
+would continue to provide long-term benefits to California ratepayers. The two main factors are a)
+the fact that many EV and/or EVSE installations are in fixed locations, and b) the fact that the
+EV/EVSE portion of SGIP can be designed to track performance and respond as issues arise.
+A. A large share of EV storage systems and/or EVSE are in fixed locations
+Joint Commenters note that a large share of potential EV-related facilities eligible for SGIP
+incentives will be in the form of EVSE. Once installed, these facilities are generally fixed to a
+particular location and customer site. This effectively guarantees their permanency within
+California, and in turn guarantees that their usage over the long-term will be for the benefit of
+California ratepayers. Additionally, Joint Commenters anticipate that another large share of the
+available EV-related incentives could go towards EV fleets serving California businesses,
+governments, and schools. These customer types are similarly fixed in terms of their location
+within the state and therefore pose little to no risk of not serving California ratepayers over the
+long term. While not all EV storage and/or EVSE fall into these categories, Joint Commenters
+believe that long-term benefits can still be ensured through good program design.
+B. SGIP incentive program design to help ensure long-term benefits to ratepayers from EV
+and/or EVSE recipients
+13
+
+As mentioned above, other steps can be taken through the design of the SGIP incentives
+for EVs and/or EVSEs to ensure long-term benefits are accruing to California ratepayers. Three
+possible steps are outlined below:
+1. Linking incentive payments to interconnection
+Presently, bi-directionally capable EVs (i.e. V2G systems) may be limited from exporting
+power to the grid in California depending on inverter configuration (i.e., on-board vs contained
+within EVSE), in part due to lack of interconnection pathways under Rule 21. However, VGIC
+notes that this is an issue the Commission is actively addressing. In fact, a Proposed Decision in
+R.17-07-007 was recently issued that could ensure interconnection pathways some configurations
+of bi-directional capabilities (i.e., V2G DC and pilots for V2G AC) and advance the possibility of
+other forms in the future (i.e., V2G AC). Joint Commenters anticipate that all bi-directionally
+capable EV systems would thus likely need to go through some form interconnection process
+before being able to export to the grid. Thus, one way to help ensure permanency in the case of
+EV storage systems would be to link the SGIP incentive payments to the current or future
+interconnection process that may be required for V2G capabilities.
+2. Potential participant data reporting
+Joint Commenters believe that one possible way to help ensure that EV and EVSE systems
+that receive incentives are functioning as intended is to track and monitor program performance
+through reporting requirements. For example, vehicle OEM telematics data and/or EVSE
+submetering could be provided on a regular basis (e.g., annually) to track over time how charging
+and discharging is occurring among participating EVs and EVSEs. If deficiencies are detected
+through this reporting, program elements could be modified as needed over time.
+14
+
+3. Potential performance-based components
+Joint Commenters recognize that other SGIP program participants, particularly those in the
+commercial sector, have been subject to a performance-based requirement for a portion of the
+incentive. Joint Commenters suggest that a similar approach could be explored for any SGIP
+incentives being applied to larger scale EVSE systems (e.g., DCFC) or commercial EV fleets.
+These performance criteria would help ensure long-term benefits to California ratepayers. Much
+like other SGIP technology segments, Joint Commenters also recommend that these performance
+criteria not be applied to residential customers / small scale systems. Instead, the tracking and
+reporting approach described above should be sufficient to monitor performance and ensure long-
+term benefits are being delivered.
+VIII. CONCLUSION.
+Joint Commenters appreciate the opportunity to submit these comments to the SGIP
+Scoping Memo on EV/EVSE eligibility. We look forward to further collaboration with the
+Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess /s/ Adam Langton
+Edward Burgess Adam Langton
+Policy Director Energy Services Manager
+Vehicle-Grid Integration Council BMW of North America, LLC
+2150 Allston Way, Suite 400 300 Chestnut Ridge Road
+Berkeley, California 94704 Woodcliff Lake, NJ 07677
+Tel: (941) 266-0017 Tel: (201) 675-2701
+Email: eburgess@vgicouncil.org Email: adam.langton@bmwna.com
+15
+
+Date: September 16, 2020
+16

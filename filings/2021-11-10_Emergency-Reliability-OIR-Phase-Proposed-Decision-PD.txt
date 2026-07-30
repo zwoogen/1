@@ -1,0 +1,257 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+OPENING COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PHASE 2 PROPOSED DECISION DIRECTING PACIFIC GAS AND ELECTRIC
+COMPANY, SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN DIEGO GAS
+& ELECTRIC COMPANY TO TAKE ACTIONS TO PREPARE FOR POTENTIAL
+EXTREME WEATHER IN THE SUMMERS OF 2022 AND 2023
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+November 10, 2021
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+OPENING COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PHASE 2 PROPOSED DECISION DIRECTING PACIFIC GAS AND ELECTRIC
+COMPANY, SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN DIEGO GAS
+& ELECTRIC COMPANY TO TAKE ACTIONS TO PREPARE FOR POTENTIAL
+EXTREME WEATHER IN THE SUMMERS OF 2022 AND 2023
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these opening comments on the Proposed Phase 2 Decision Directing Pacific Gas and Electric
+Company, Southern California Edison Company, and San Diego Gas & Electric Company to Take
+Actions to Prepare for Potential Extreme Weather in the Summers of 2022 and 2023 (“PD”), issued
+by Administrative Law Judge (“ALJ”) Anne E. Simon on October 29, 2021. Pursuant to the
+guidance provided in the PD, these comments are being timely filed and served on November 10,
+2021.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+1
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+VGIC is generally supportive of the PD establishing Emergency Load Reduction Program
+(“ELRP”) customer group A.5, which represents a significant opportunity to both advance the VGI
+industry and deliver much needed grid reliability benefits. VGIC believes that both EVs and EV
+supply equipment (“EVSE”) that is either currently deployed or expected to be deployed offer the
+technical capabilities to support the grid in times of stress. However, the proper market incentives
+must be put into place to incent load reductions and exports from these resources. The
+establishment of a payment mechanism for EV/VGI aggregations as contemplated in the PD would
+provide such an incentive. Additionally, VGIC supports other aspects of the PD that will further
+help to facilitate this process. This includes: 1) approval of virtual aggregation and submetering
+under group A.5, 2) the provision that Vehicle-to-Grid (“V2G”) EVSE may be exempt from smart
+inverter requirements, 3) eligibility for both V1G and V2G operations, 4) the establishment of a
+30-hour minimum dispatch requirement, and 5) the ELRP rate increase to $2/kWh. With this in
+mind, VGIC offers comments, summarized below, in support of the PD but also provides
+recommendations on how ELRP customer group A.5 can be further enhanced to prepare for
+potential extreme weather events in Summer 2022 and 2023.
+ The blanket prohibition on dual participation for ELRP subgroup A.5 should be modified
+to allow for certain dual uses that are appropriate and consistent with previous commission
+direction to broadly promote optional dynamic EV rates.
+ The PD should more clearly and explicitly state that V2G exports may exceed site load or
+virtually aggregated site load.
+ The PD should provide more detailed direction on ELRP group A.5 implementation,
+including a “go live” date of June 2022, consideration of a third-party administrator to
+2
+
+streamline VGI aggregator participation, a standard offer contract that is easily renewable,
+a process for identifying and communicating the 30 dispatch hours, and the process for
+virtual aggregation of standalone EVSE meter data with host site load.
+ The increased ELRP compensation rate should be adopted, but should be reconsidered if
+group A.5 participation is low after the summer 2022. In such a case an additional rebate
+or compensation rate should be considered.
+ The Commission should not lose sight of additional issues that need to be resolved to
+unlock VGI capabilities, including several key issues specific to bidirectional charging.
+II. THE PROHIBITION ON DUAL PARTICIPATION FOR ELRP SUBGROUP A.5
+SHOULD BE LIFTED AS IT IS INCONSISTENT WITH PREVIOUS
+COMMISSION DIRECTION TO BROADLY PROMOTE OPTIONAL DYNAMIC
+EV RATES.
+VGIC reiterates our support for the Commission establishing ELRP customer group A.5,
+which would create a pathway for aggregations of EV/EVSE resources to support the grid through
+load reductions and bidirectional operations. As proposed, customers in group A are not allowed
+to participate in supply-side demand response programs and customers in subgroup A.5 are not
+permitted to enroll in real-time price (“RTP”) equivalent tariffs.1 VGIC believes this blanket
+prohibition on dual participation is unnecessarily restrictive, especially as ELRP remains the only
+available program that will compensate customers for V2G exports. Meanwhile, the Commission
+has recently proposed to adopt Pacific Gas and Electric Company’s (“PG&E”) Optional Day-
+Ahead Hourly Real-Time Rate (“DAHRTP”) for commercial EV customers, 2 has directed San
+Diego Gas & Electric Company (“SDG&E”) to propose a dynamic rate for commercial EV
+1 PD Attachment 2 at 6.
+2 Proposed Decision Authorizing Pacific Gas and Electric Company to Implement an Optional Day-Ahead
+Real Time Rate for Commercial Electric Vehicle Customers, issued October 18, 2021 in Application 20-
+10-011.
+3
+
+customers,3 and is proposing to authorize an Southern California Edison Company (“SCE”)
+dynamic pricing pilot in this PD.4 This creates an “either or” scenario, in which customers must
+choose to elect a favorable EV rate or enroll in the ELRP program. For example, a customer may
+want to enroll under PG&E’s DAHRTP rate and manage charging to reduce their costs, however
+this would preclude them from participating in ELRP group A.5. Only the latter pathway would
+compensate V2G exports, therefore the customer would have to choose between year-round V1G
+operations to reduce their costs and V2G operations during 30 hours to support the grid. VGIC
+believes this “either or” scenario does not support the overall intent of ELRP to unlock additional
+load reductions in times of extreme grid stress. In addition, it will lead to underutilized EV/EVSE
+assets and does not support the maximization of VGI pursuant to SB 676 and the VGI Strategies
+Decision (D.20-12-029).
+The necessary constructs are already in place to allow for dual participation. While
+customers on these dynamic rates must take service under a separate meter until a submetering
+protocol is adopted,5 customers under subgroup A.5 would be permitted to virtually aggregate load
+with the separately metered EV/EVSE. In addition, the Incremental Load Reduction (“ILR”)
+framework has already been approved and would be used for subgroup A.5 customers, thereby
+offering a tool to mitigate any double counting issues. Notably, subgroup A.3 customers, which
+may include V2G resources, can participate if they are on RTP-equivalent rates, and the ILR is
+used to determine compensation in these cases. VGIC recommends the PD be revised to clarify
+3 D. 20-12-023. Decision Authorizing San Diego Gas & Electric Company Rate for Electric Vehicle High
+Power Charging, issued December 21, 2020 in Application 19-07-006, at page 38, ordering paragraph 9.
+4 PD at 91.
+5 Proposed Decision Authorizing Pacific Gas and Electric Company to Implement an Optional Day-Ahead
+Real Time Rate for Commercial Electric Vehicle Customers, issued October 18, 2021 in Application 20-
+10-011 at 22.
+4
+
+that customers participating in subgroup A.5 may take service under RTP-equivalent tariffs, and
+that the ILR will be used to compensate incremental load reductions to mitigate double counting.
+In other words, EV/EVSE customers on a dynamic rate could be allowed to participate ELRP but
+have compensation limited to exports. At a minimum, dual participation should be permitted for
+months outside of the May through October ELRP season, such that VGI customers can take
+advantage of these other opportunities to reduce their charging costs and support the grid.
+In addition, the PD is silent on the participation of subgroup A.5 resources in the VGI pilots
+proposed per Decision (“D.”) 20-12-029 and currently pending before the Commission.6 Notably,
+both PG&E and SCE proposed VGI pilots that include bidirectional operations. VGIC believes
+VGI pilot participants should be eligible to participate in ELRP subgroup A.5 to support the grid
+during times of extreme need. The PD should clarify that this is the case for VGI pilot participants
+in order to maximize the capabilities from deployed and soon-to-be-deployed VGI-capable
+EV/EVSE.
+III. THE PD SHOULD MORE CLEARLY AND EXPLICITLY STATE THAT V2G
+EXPORTS MAY EXCEED SITE LOAD OR VIRTUALLY AGGREGATED SITE
+LOAD.
+VGIC commends the Commission for allowing bidirectional operations under ELRP. The
+PD states that:
+“the VGI aggregator is permitted to virtually aggregate separately metered EVSE with
+other load and generation (if any) at any electrically contiguous host site to allow export
+from the EVSE to reduce the host site’s load and export from such aggregation up to the
+6 PG&E Advice Letter 6259-E: Request for Approval of PG&E’s VGI Pilots in Compliance with Decision
+20-12-029. July 15, 2021.
+SCE Advice Letter 4542-E: Request for Approval of Proposed Vehicle Grid Integration Pilots. July 15,
+2021.
+5
+
+sum of the net export allowed by any available Rule 21 permits of the EVSE site and
+the host site” 7 (emphases added).
+VGIC believes it is critical that the PD permit V2G exports be limited only by the Rule 21 export
+permit, and generally supports the language quoted above. V2G resources should be able to export
+up to the nameplate export capacity indicated on the Rule 21 interconnection agreement. Notably,
+the Staff Concept Paper detailed that “virtual load aggregation of all stand-alone EVSEs and the
+related host site must not be negative at any time” 8 (emphasis added). Had this language from
+the Staff Concept Paper been preserved, the amount of V2G exports permitted would be limited
+to site load, which would be a critical misstep and fail to leverage latent energy storage capacity.
+As such, VGIC supports the proposed language in the PD, but requests that it be amended to
+provide additional clarity, thereby leaving no doubt to the VGI aggregators and IOU teams
+responsible for coordinating EVSE interconnection and implementation of ELRP. Specifically,
+VGIC recommends the PD Attachment 2 be amended as follows at page 15:
+“the VGI aggregator is permitted to virtually aggregate separately metered EVSE with
+other load and generation (if any) at any electrically contiguous host site to allow export
+from the EVSE to reduce the host site’s load and export from such aggregation up to the
+sum of the net export allowed by any available Rule 21 permits of the EVSE site and the
+host site. To clarify, the VGI aggregator is permitted to allow export from the EVSE that
+may exceed the host site’s load.”
+IV. THE PD SHOULD PROVIDE MORE DETAILED DIRECTION ON
+IMPLEMENTATION OF ELRP CUSTOMER GROUP A.5.
+To ensure the investor owned utilities (“IOUs”) follow through on implementation of
+ELRP customer group A.5, the Commission should establish a “go-live” date for A.5 of June 2022.
+7 PD Attachment 2 at 15.
+8 Staff Concept Paper at 10.
+6
+
+VGIC believes this will help to focus IOU and industry efforts to establish the necessary processes
+to ensure smooth operation of EV/EVSE capabilities for grid reliability during extreme weather
+events. In addition, the PD should specify that IOUs may consider contracting with a third-party
+administrator to ensure consistency across the IOUs, rather than requiring aggregators to interface
+with each IOU separately. VGIC also recommends a standard offer contract be offered to group
+A.5 aggregators, and that this standard offer contract include a simple annual aggregator renewal
+process for summer of 2023 and beyond. Furthermore, the PD should direct IOUs to propose the
+intended protocol for identifying and communicating the 30 dispatch hours that would be relatively
+easy to implement in the near-term. To provide clarity to industry partners, the IOUs’ Advice
+Letter detailing implementation should also describe the process for virtual aggregation of
+standalone EVSE meter data with host site load to calculate the ILR for settlement purposes.
+V. THE PROPOSED ELRP COMPENSATION RATE SHOULD BE ADOPTED, BUT
+AN ADDITIONAL REBATE OR OTHER COMPENSATION SHOULD BE
+ADOPTED IF GROUP A.5 PARTICIPATION IS LOW AFTER THE SUMMER
+2022.
+VGIC believes the establishment of ELRP subgroup A.5 represents a significant step
+forward toward unlocking broader VGI capabilities. The 30-hour dispatch requirement and
+increased ELRP compensation rate will help to support project economics for customers looking
+to install VGI-capable EV/EVSE. However, additional steps should be taken to provide just
+compensation for the full value that these resources can provide to the grid, or allow value-
+stacking. VGIC reiterates its proposal in Opening Testimony to offer an additional rebate, bill
+credit, or gift card to participating residential EV customers or small commercial EVSE site hosts
+of $20/month.9 VGIC believes that a higher rebate amount may be more appropriate for larger EVs
+9 Opening Testimony of Ed Burgess on Behalf of Vehicle Grid Integration Council (September 1, 2021) at
+15.
+7
+
+or EVSE site hosts, for example $240/month (assuming 60 kW charging level versus 5 kW for
+residential). While this recommendation is not incorporated into the PD, VGIC believes this could
+support market transition and initial enrollment for customers if customer or aggregator interest
+and participation is low at the end of summer 2022. VGIC recommends the PD require IOUs to
+present ELRP group A.5 enrollment and participation data at an October 2022 stakeholder
+workshop. At this workshop, stakeholders can engage in discussion on whether a rebate or other
+additional compensation may be needed to facilitate ELRP group A.5 customer and aggregator
+participation in 2023 and beyond. VGIC notes that an additional rebate or other compensation may
+not be needed in the long-term/in future years as customers and aggregators become more familiar
+with the benefits of participating in ELRP. At a minimum, the PD should establish a process to
+consider iterative improvements of this nature in future phases of this proceeding.
+VI. THE COMMISSION SHOULD NOT LOSE SIGHT OF ADDITIONAL ISSUES
+THAT NEED TO BE RESOLVED TO UNLOCK VGI CAPABILITIES,
+INCLUDING SEVERAL KEY ISSUES SPECIFIC TO BIDIRECTIONAL
+CHARGING.
+VGIC reiterates its support for the proposed ELRP group A.5, which represents a
+significant step forward for VGI and bidirectional charging. However, critical barriers to VGI
+implementation remain unaddressed, and establishing ELRP group A.5 should not distract from
+progress on these barriers. For example, VGIC has raised the matter of V2G rate design – critical
+to advancing VGI – in this Emergency Reliability proceeding (R.20-11-003), the DRIVE OIR
+(R.18-12-006), PG&E’s DAHRTP Application (A.20-10-011), the Rule 21 Interconnection
+proceeding (R.17-07-007), and the Self-Generation Incentive Program proceeding (R.20-05-012).
+However, the Commission has yet to provide any indication as to which policy forum will address
+the issue or when it will be addressed. VGIC believes this issue to be incredibly time-sensitive, as
+it may take time to resolve and, if left unaddressed, will result hundreds of megawatts of latent
+8
+
+energy storage capacity in the form of deployed V2G-capable vehicles and EVSE. Another
+important issue that remains unaddressed is the ability for certain classes of V2G EVSE to qualify
+for direct or make-ready funding support.
+With this in mind, VGIC respectfully urges the Commission to indicate how and when it
+plans to address the issue of V2G rate design. In addition, eligibility for certain bidirectional
+chargers under existing or planned programs should be scoped into an existing or future
+proceeding. If left unaddressed, these barriers will severely hamper the ability for California to
+develop its V2G market and maximize VGI pursuant to SB 676.
+VII. CONCLUSION.
+VGIC appreciates the opportunity to these comments on the PD. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: November 10, 2021
+9

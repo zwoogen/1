@@ -1,0 +1,232 @@
+FILED
+BEFORE THE PUBLIC UTILITIES COMMISSION
+02/05/21
+04:59 PM
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Establish Rulemaking 20-11-003
+Policies, Processes, and Rules to Ensure Reliable (Filed November 19, 2020)
+Electric Service in California in the Event of an
+Extreme Weather Event in 2021.
+OPENING BRIEF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+February 5, 2021
+1
+1 / 10
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Establish Rulemaking 20-11-003
+Policies, Processes, and Rules to Ensure Reliable (Filed November 19, 2020)
+Electric Service in California in the Event of an
+Extreme Weather Event in 2021.
+OPENING BRIEF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission” or “CPUC”) and pursuant to the schedule set forth in the Assigned
+Commissioner’s Coping Memo and Ruling (“Scoping Memo”), issued by Commissioner Batjer
+on December 21, 2020, the Vehicle-Grid Integration Council (“VGIC”) 1 hereby submits this
+opening brief addressing issues laid forth in the Scoping Memo.
+1. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+1 VGIC member companies include American Honda Motor Co., Inc., Connect California LLC, Enel X North
+America, Inc., Fermata, LLC., Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nissan
+North America, Inc., Nuvve Corporation, The Mobility House, Toyota Motor North America, Inc., and Ossiaco, Inc.
+The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2
+2 / 10
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+2. ELECTRIC VEHICLES (THROUGH BOTH “V1G” AND “V2G”
+SOLUTIONS) CAN ALREADY CONTRIBUTE TO GRID RELIABILITY
+NEEDS IN 2021 AND 2022
+Electric vehicles (“EVs”) are capable of both load reduction through managed charging (often referred to
+as “V1G”) or battery discharge to serve on-site load (often referred to as “V2L”) as well as serving as a
+temporary generation resource through exports of power to the grid (often referred to as “V2G”).
+Collectively, V1G, V2L, and V2G are often called Vehicle Grid Integration or VGI services. Until
+recently, VGI capabilities were considered to be a future technology. However, latent VGI capability
+already exists among EVs on the road today. This capability is not currently being fully utilized to
+support grid reliability during extreme weather events but could be leveraged to support grid needs in
+2021 and 2022.
+Existing V1G Capability
+For example, an informal survey of VGIC member companies in December 2020 revealed that
+tens of thousands of vehicles in California already exist with the technical capability to receive a
+command to stop charging via telematics instructions from the original equipment manufacturer
+(“OEM”). Vehicle owner consent for this service could be provided through an app-based enrollment
+program. This service could readily be executed through a contracted payment to an OEM provider.
+Similarly, tens of thousands of charging stations already have the ability to schedule curtailment events
+(with pre-consent) due to alerts from an investor-owned utility (“IOU”) or the California Independent
+System Operator (“CAISO”). This service is available for Summer 2021. While VGIC acknowledges that
+3
+3 / 10
+
+vehicle availability is a factor, the testimony of the California Energy Storage Association (“CESA”)
+points out that even a small fraction of the total vehicle population participating in these services could
+still amount to a meaningful contribution to grid reliability – potentially in the hundreds of MWs.2
+Existing V2L/V2G Capability
+By allowing discharge to serve on-site load, or export to the grid, vehicles with bi-directional V2L/V2G
+capability can effectively double an EV’s contribution to net peak load needs versus V1G or other forms
+of load-reduction. In recent months, steps have been taken by this Commission such that V2L/V2G is also
+now technically possible with EVs that are already on the road today. Most notably, through Decision 20-
+09-22, the Commission updated its Rule 21 interconnection standards to enable a permanent
+interconnection pathway for vehicles with a V2G-DC configuration (requiring an external device) and a
+temporary pathway for vehicles with a V2G-AC configuration (embedded in the vehicle itself). At this
+time, tens of thousands of vehicles with V2G-DC capability exist in California in the form of the
+Nissan Leaf and some electric school buses, if specifically-designed Electric Vehicle Supply
+Equipment (EVSE) is installed to provide the V2L/V2G functionality. UL-certified commercial
+EVSE products (such as those offered by VGIC member companies Fermata and Nuvve) are
+already available to enable this V2G functionality and could be deployed before the summer
+2021 timeframe.
+Despite these technical advances, certain administrative barriers still remain for
+V2L/V2G to effectively contribute to grid reliability in 2021. For example, Nuvve – a global
+V2G leader – was recently notified by Southern California Edison (“SCE”) that its Rule 21-
+2 CESA Direct at 29.
+4
+4 / 10
+
+compliant bidirectional chargers do not qualify to participate in SCE’s Charge Ready program
+and therefore cannot use the program’s funds to offer V2L/V2G capabilities in chargers it is
+actively deploying. Fermata Energy, another leading provider of V2L/V2G services, has also
+found similar barriers.3 To briefly summarize, the administrative barriers include the following:
+• CEC’s smart inverter list: CEC’s approved list of smart inverters does not currently
+V2L/V2G inverters, despite them being approved for interconnection.
+• Utility interconnection approval: VGIC member companies have experienced difficulties
+receiving utility interconnection approval under a “continuous export” scheme due
+concerns over customer satisfaction.
+• Utility Transportation Electrification (TE) program requirements: TE programs often
+require new service lines to be established (which can add time and cost to V2L/V2G
+projects being developed) when these projects could instead be deployed at existing
+services. Additionally, as mentioned above, utility TE programs that are currently being
+administered under SB 350 do not allow for funds to be applied to V2L/V2G devices.
+Additionally, to VGIC’s knowledge, there are no existing rates or programs offered by the IOUs
+that would appropriately compensate customers for V2G exports during net peak load hours.
+Existing transportation electrification programs also require a separate service, making
+baselining measurement difficult as required under a traditional demand response framework.
+VGIC believes that future Commission Decisions in this proceeding could play an instrumental
+role in overcoming some of these barriers, if not for summer 2021, then at least for summer
+3 See Fermata’s October 23, 2020 comments in SGIP OIR (R.20-05-012)
+5
+5 / 10
+
+2022. VGIC notes that several more V1G and V2G capable vehicles are expected to be on the
+road in 2022 and future years that could also take advantage of such developments.
+3. EV’S & EVSE’S SHOULD BE EXPLICITLY CONSIDERED AMONG THE
+DEMAND SIDE MEASURES THE COMMISSION DIRECTS THE IOUS
+TO PURSUE IN FUTURE DECISIONS IN THIS PROCEEDING,
+INCLUDING IN THE 2021 TIMEFRAME.
+Several parties in this proceeding testified on the details of existing EV-eligible or EV-specific
+Demand Response programs currently offered by the IOUs and community choice aggregators (“CCAs”).
+For example, SCE noted that “EV customers are eligible to participate in multiple demand response
+(“DR”) programs or pilots such as the capacity bidding program (“CBP”), the demand response auction
+mechanism (“DRAM”), and SCE’s Charge Ready DR pilot (“CRDRP”).”4
+Pacific Gas & Electric (“PG&E”) noted that “DR programs and any third-party contracts (e.g.,
+DRAM) are technology agnostic and currently allow retail customers and third-party providers
+(supporting retail customers) to use any technology, including EV and charging stations, to provide load
+reduction.”5 Furthermore, they described a new demonstration pilot being conducted as part of their
+Demand Response Emerging Technology Program.
+The California Community Choice Association (“CalCCA”) described multiple existing EV DR
+programs being pursued by the CCAs including those by Clean Power Alliance (“CPA”) (Power
+4 SCE Direct at 43
+5 PG&E at 4-21
+6
+6 / 10
+
+Response), Silicon Valley Clean Energy (GridShift), Sonoma Clean Power (GridSavvy), and Pioneer
+Clean Energy (Flex Charging Pilot).
+VGIC believes these existing EV DR programs should be leveraged to their full extent to reduce
+net peak load during critical hours in summer 2021. In the case of the IOUs this may require additional
+resources applied to support incremental procurement activities through these programs.
+In addition, the Commission should consider directing the IOUs to conduct solicitations for new
+demand-side measures focused on EVs prior to summer 2021. These solicitations could be targeted
+toward both EVSEs with existing abilities to schedule curtailment events as well as OEMs with existing
+ability to stop charging via telematics (as described in Section 2 above).
+Finally, EV’s should be considered as a potential participating resource under ELRP efforts that are
+developed as part of this proceeding.
+4. FUTURE DECISIONS IN THIS PROCEEDING SHOULD INCLUDE
+MEANINGFUL ACTIONS TO BE TAKEN THROUGH THE DRIVE OIR
+PROCEEDING (R. 18-12-006) TO SCALE UP V1G, V2L, AND V2G
+RESOURCES DURING NET PEAK LOAD HOURS BEFORE SUMMER
+2022
+While actions the Commission can take to increase EV contributions to summer reliability in
+2021 are more limited, there are many things that could be done in the 2022 timeframe.
+In particular, the DRIVE OIR proceeding (R.18-12-006) can and should be leveraged for this
+purpose. There are several areas where additional efforts in the DRIVE proceeding could be useful
+towards alleviating 2022 summer net load peak.
+7
+7 / 10
+
+Demand Response Workshop
+For example, PG&E’s testimony notes that “a decision adopted in December 2020 calls for a joint
+IOU workshop to be held in the first quarter of 2021 to educate potential Vehicle Grid Integration (VGI)
+providers on DR opportunities and identify any barriers to participation for VGI resources.”6
+While the DR workshop PG&E mentions is a constructive step, the Decision referenced (D.20-
+12-029) fell short of requiring any meaningful follow-on action (besides a post-workshop report) that
+might lead to incremental VGI DR resources being procured prior to summer 2022. VGIC joined with
+nine other parties (“Joint Commenters”) to this proceeding to point out this shortcoming.7 Future
+decisions in this proceeding should aim to resolve this issue.
+Submetering Protocol
+In parallel to the DR workshop and procurement activities mentioned above, a critical step for
+enabling DR from EVs is to resolve the outstanding issues regarding submetering protocols, which have
+been a persistent barrier to wider EV participation in DR programs. Future decisions in this proceeding
+should also aim to resolve this issue.
+VGI Pilots
+A major provision in the December 2020 VGI Decision (D.20-12-029) was the authorization of
+up to $35 million in ratepayer-funded VGI Pilot programs what will be developed over the coming
+months. This could be a constructive avenue for targeted development of new VGI-enabled DR or load
+6 PG&E at 4-22 referencing D.20-12-029, OP 9.
+7 R.18-12-006, Joint Opening Comments Of The Vehicle-Grid Integration Council, American Honda Motor Co.,
+Inc., Enel X North America, Inc., Advanced Energy Economy, California Energy Storage Alliance, Environmental
+Defense Fund, EVBox North America, Greenlots, Natural Resources Defense Council, And Siemens On Proposed
+Decision Concerning Implementation Of Senate Bill 676 at 6.
+8
+8 / 10
+
+reduction activities prior to summer 2022. Future decisions in this proceeding could encourage these to-
+be-developed VGI Pilots to include a focus on summer reliability issues.
+V2G Credit for Exports
+Finally, D.20-12-029 fell short in terms of providing a concrete pathway for compensating V2G
+energy exports during net peak load hours. While it included supportive language on the general concept
+of credit-for-exports stating that “exploration of such a scheme should be pursued” there were no tangible
+steps identified regarding how such a scheme should be pursued, by when, and in which proceeding.
+The Proposed Decision8 on this matter referenced the current Net Energy Metering (“NEM 3.0”)
+proceeding (R.20-08-020) as a potential venue to explore compensation for EV exports, however as the
+Joint Commenters pointed out, the Scoping Ruling issued in the NEM proceeding did not include
+consideration of exports from EVs.9 This fact was ignored in the final Decision (D.20-12-029) meaning
+that there is currently no venue for exploring broad-based compensation for V2G exports during net peak
+load hours that could in turn alleviate strained grid conditions during extreme weather events.
+This oversight is especially concerning because broad-based adoption of V2G capabilities
+through a credit-for-export scheme could essentially double the resource adequacy (“RA”) capacity of
+EVs and EV Service Providers (“EVSPs”). Thus, it is an essential building block for unlocking a
+potentially valuable grid resource from EVs that can help avoid rotating outages during heat storms. From
+a long-term resource planning perspective, if California meets its EV deployment forecasts, then there
+will be the equivalent of thousands of MWs of batteries sitting in garages over the next few years that
+8 R.18-12-006, Proposed Decision Concerning Implementation of Senate Bill 676 And Vehicle- Grid Integration
+Strategies the Joint Commenters.
+9 See Joint Assigned Commissioner’s Scoping Memo and Administrative Law Judge Ruling Directing Comments on
+Proposed Guiding Principles issued in R.20-08-020 on November 19, 2020.
+9
+9 / 10
+
+could be leveraged at relatively low cost to meet summer net peak load. This could in turn displace the
+costs of other more expensive generation resources -- especially in location constrained areas. However
+this will only happen if there is a clear incentive for exports to be compensated such that the V2G
+capability is embedded in the EV/EVSP equipment manufactured over the coming years.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+February 5, 2020
+10
+Powered by TCPDF (www.tcpdf.org)
+10 / 10

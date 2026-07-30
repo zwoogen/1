@@ -1,0 +1,127 @@
+December 5, 2022
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 22-E-0236: Proceeding to Establish Alternatives to Traditional Demand-Based
+Rate Structures for Commercial Electric Vehicle Charging
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on the Demand Charge Alternative Staff Whitepaper
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based
+advocacy group committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates the
+opportunity to provide comments on the Department of Public Service Whitepaper Regarding
+Alternatives to the Traditional Demand Charge for Commercial Customer Electric Vehicle
+Charging (“Staff Whitepaper”). Additionally, VGIC also addresses the proposals made by the
+Joint Utilities and Electrify America at the November 4th Stakeholder Session.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Customized Energy Solutions,
+dcbel, Enel X North America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor
+Company, FreeWire Technologies, Inc., General Motors, IoTecha, Inc., Kaluza, Nissan Group of North America,
+Nuvve Holding Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd, The
+Mobility House, Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The
+views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all individual
+VGIC member companies or supporters. https://www.vgicouncil.org/.
+1
+
+Staff Whitepaper Proposal
+VGIC generally supports the proposal made in the Staff Whitepaper for the immediate
+implementation of a Commercial Managed Charging Program, followed by an EV Phase-In Rate
+Design Solution. Particularly, VGIC is encouraged by Staff’s incorporation of several
+recommendations made in VGIC’s initial and reply comments, including the inclusion of EV
+charging sites with and without separate meters, as well as incentives for energy storage and
+other Automated Load Management (“ALM”) approaches. VGIC also offers the following
+feedback as Staff requested in the Whitepaper:
+• The added incentive for energy storage and other ALM approaches should be in the form
+of an upfront incentive. The deployment of co-located/integrated energy storage or other
+ALM approaches (e.g., power sharing) often comes with incremental upfront costs for the
+EV charging site host. Given that the proposed Peak Avoidance Incentive already
+provides a performance benefit for ongoing peak load reduction, the ALM adder should
+be targeted towards offsetting the incremental upfront costs of the hardware or software
+necessary to install ALM at the front end. VGIC agrees with Staff’s proposal to use
+unspent funds from the DCFC Per-Plug Incentive Program for this purpose. Additionally,
+the use of ALM not only helps the EV charging site reduce ongoing costs associated with
+peak demand, but also mitigates the amount of distribution (i.e., make-ready)
+infrastructure upgrades necessary during the site construction stage. As such, any
+incremental costs to fund the ALM adder may also be offset (at least in part) though
+reduced distribution system costs. This funding source may be more appropriately
+addressed as part of the Make-Ready Program midpoint review, and VGIC encourages
+Staff to coordinate between this proceeding and the Make-Ready Program proceeding on
+the overall structure and funding sources for incentives for ALM.
+• The adder for public chargers and chargers in remote locations should be in the form of
+a percentage discount on the customer’s monthly demand charges. A percentage discount
+on the customer’s demand charge is the most simple and straightforward mechanism to
+provide relief from demand charges for public and remote charging sites. This format is
+similar to the upstate utilities’ proposed Operating Cost Incentive Program and Electrify
+America’s proposed demand charge credit for public DCFC, as presented during the
+November 4th stakeholder session. However, incorporating a demand charge discount
+into the Commercial Managed Charging Program, as opposed to replacing the
+Commercial Managed Charging Program with a demand charge discount, will help
+maintain incentives for load management and help reduce the grid impacts of EV
+charging.
+• Distribution utilities should offer supply rate options and additional distribution rate
+options for EV charging customers. During initial and reply comments, several parties
+2
+
+emphasized the need for the Commission to look beyond a “one size fits all” solution and
+instead consider a range of solutions. However, the only proposed rate option in the Staff
+Whitepaper is the EV Phase-In Rate. VGIC urges Staff and the Commission to explore
+additional rate options for EV customers, including dynamic pricing for both the
+distribution and supply components, which can help incentivize greater load flexibility
+from EV charging customers and unlock significant savings for EV customers who can
+align their EV charging with periods with little to no grid constraints. While dynamic
+pricing may not be a suitable option for public charging sites, many EV fleets, which are
+also a target of PSL §66-s, face the same challenges posed by demand charges but are
+able to align their charging schedules with dynamic, granular price signals. Specifically,
+VGIC recommends that the utilities offer EV customers (and other customers) a real-time
+pricing option for supply. For distribution, Staff and the Joint Utilities should explore
+demand charges that are based on average daily demand or measured only during a
+narrow peak period (e.g., 4 hours). VGIC offers itself as a resource to collaborate with
+Staff, the IOUs, and other stakeholders to develop dynamic pricing tariffs tailored to the
+New York context.
+• The exemption from Standby Service for energy storage facilities should be expanded to
+EV charging customers. As Staff pointed out in the Whitepaper, a situation in which a
+charging station is eligible for the EV Phase-In Rate Solution but defaulted to Standby
+Service rates could occur at large charging stations that install energy storage, such as
+those serving medium- and heavy-duty fleets or large public fast charging sites. This
+potential interference could deter these charging sites from installing energy storage to
+help manage demand and limit make-ready upgrades. To avoid this potential barrier,
+VGIC believes that an exemption from Standby Service rates is warranted for EV
+charging customers who install energy storage.
+Joint Utilities Proposal
+• Joint Utilities’ proposed Immediate-Term Downstate Solution: Con Edison and O&R’s
+proposal to implement a Commercial Managed Charging Program in the immediate term
+is consistent with the Staff Whitepaper. Therefore, VGIC’s position is similar to that
+regarding the Staff Whitepaper, as discussed above.
+• Joint Utilities’ proposed Immediate-Term Upstate Solution: The demand charge discount
+under Central Hudson, National Grid, NYSEG, and RG&E’s proposed Operating Cost
+Incentive Program can be a simple mechanism to help provide relief from demand
+charges for EV charging customers. However, the upstate utilities’ proposal to implement
+the Operating Cost Incentive Program instead of the Commercial Managed Charging
+Program will weaken the incentive for customers to adopt ALM and other strategies to
+manage demand. As discussed above, incorporating a demand charge discount into the
+3
+
+Commercial Managed Charging Program will both provide demand charge relief and
+provide incentives for demand management for commercial EV charging customers in all
+utility service territories. To the extent the upstate utility service territories warrant
+special focus on demand charge discounts, the Commission could consider different
+discount levels for the upstate versus downstate utilities.
+Electrify America Proposal
+• Electrify America’s proposed demand charge credit for public DCFC: Similar to our
+discussion of the upstate utilities’ proposed Operating Cost Incentive Program above, a
+demand charge discount/credit for public chargers should be incorporated into Staff’s
+proposed Commercial Managed Charging Program.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the IOUs, the Commission, and other stakeholders to ensure the success of New
+York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+4

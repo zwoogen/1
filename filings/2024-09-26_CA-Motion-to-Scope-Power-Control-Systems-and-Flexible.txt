@@ -1,0 +1,175 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 24-01-018
+Establish Energization Timelines. (Filed January 25, 2024)
+RESPONSE OF THE VEHICLE-GRID INTEGRATION COUNCIL TO MOTION OF
+ENPHASE ENERGY, INC. TO AMEND SCOPING RULING AND SCHEDULE TO
+ADDRESS OPTIONAL FLEXIBLE CONNECTION AGREEMENTS AND THE
+UNDERWRITERS’ LABORATORY 3141 STANDARD FOR POWER CONTROL
+SYSTEMS IN INVESTOR-OWNED UTILITIES’ ENERGIZATION RULES
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: September 26, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 24-01-018
+Establish Energization Timelines. (Filed January 25, 2024)
+RESPONSE OF THE VEHICLE-GRID INTEGRATION COUNCIL TO MOTION OF
+ENPHASE ENERGY, INC. TO AMEND SCOPING RULING AND SCHEDULE TO
+ADDRESS OPTIONAL FLEXIBLE CONNECTION AGREEMENTS AND THE
+UNDERWRITERS’ LABORATORY 3141 STANDARD FOR POWER CONTROL
+SYSTEMS IN INVESTOR-OWNED UTILITIES’ ENERGIZATION RULES
+In accordance with the Rule 11.1 of the Rules of Practice and Procedure of the California
+Public Utilities Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)
+hereby submits this response to the Motion of Enphase Energy, Inc. to Amend Scoping Ruling and
+Schedule to Address Optional Flexible Connection Agreements (“FCA”) and the Underwriters’
+Laboratory (“UL”) 3141 Standard for Power Control Systems (“PCS”) in Investor-owned
+Utilities’ (“IOU”) Energization Rules (“Motion”) filed by Enphase Energy on September 11,
+2024.
+I. INTRODUCTION.
+It is widely acknowledged that meeting California’s climate goals will require massive
+electrification and that the electric grid has not yet been built to accommodate this extra load. The
+Commission is working to support the build-out of additional distribution capacity and bring
+additional energy resources online. However, bringing all these resources online will take
+significant time. The Phase 1 decision in this proceeding has set energization timelines for the
+investor-owned utilities (“IOUs”) to meet, but the maximum upstream capacity timelines set by
+2
+
+the decision are still incredibly long, with the timeline for a new/upgraded circuit being almost two
+years.1 Given the length of these timelines, it is becoming increasingly clear that interim measures
+are needed to allow for electrification ahead of grid upgrades.
+VGIC has advocated before the Commission since 2020 for leveraging flexible service
+connection technologies, including Power Control Systems (“PCS”), alternatively referred to by
+the Commission as Automated Load Management (“ALM”) in R.18-12-006, as essential tools for
+enabling customers to energize their sites in the face of delays. The Smart Inverter
+Operationalization Working Group in the High DER Proceeding (R.21-06-017) has identified
+increasing operational flexibility of distributed energy resources (“DERs”) and flexible loads on
+the distribution system as a high priority for California.2 This includes the development of flexible
+service connections and Limited Load Profiles to enable additional load to come online and be
+served cost-effectively. However, policy and rule changes are needed to enable these flexible
+service connections.
+Therefore, VGIC supports Enphase’s Motion and agrees that the Commission should
+leverage Flexible Connection Agreements (“FCA”) enabled by PCS/ALM. Importantly, we
+believe that the issues outlined by Enphase must be scoped into a Commission proceeding
+immediately. As discussed by VGIC previously, the “Commission should seize the present
+opportunity to expeditiously adopt the necessary elements of a flexible service connection
+framework.”3 In the four years that VGIC has witnessed this issue be passed between several
+proceedings, including the DRIVE OIR (R.18-12-006), High DER OIR (R.21-06-017), TE OIR
+1 D.24-09-020 at 47.
+2 Smart Inverter Operationalization (SIO) Working Group Report Business Cases and Use Cases, February 1, 2024,
+at p. 115. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M532/K694/532694061.PDF
+3 VGIC Opening Comments on the Proposed Decision Establishing Target Energization Time Periods and
+Procedure for Customers to Report Energization Delays, August 29, 2024, at p. 6.
+3
+
+(R.23-12-008), and the instant Energization Timelines (R.24-01-018), the situation faced by
+customers and installers in the field has become increasingly dire, demanding timely action by the
+Commission. California’s imperative to electrify and decarbonize can no longer afford to suffer
+further consternation from the Commission, which appears to be awaiting an ideal procedural path
+to address this issue rather than taking action to address the critical bottlenecks to widespread
+electrification. Critically, electrification projects leveraging PCS/ALM, by definition, add off-
+peak load, making PCS/ALM one of the only tools the Commission has to curb the outsized
+ratepayer impacts already felt by millions of Californians. Enphase’s Motion includes a
+valuable framework for evaluating and adopting rule changes needed to enable flexible service
+connections. It must be adopted for the Commission to make meaningful progress toward
+supporting electrification while reducing the cost burden of all ratepayers. VGIC offers additional
+comments on our support below.
+II. VGIC SUPPORTS ENPHASE’S MOTION TO INCLUDE POWER CONTROL
+SYSTEMS AND FLEXIBLE CONNECTION AGREEMENTS IN TRACK 2 OF
+THIS PROCEEDING.
+Enphase’s motion requests the modification of Phase 2 Issue 3 to add explicit considerations for
+flexible connection agreements (“FCAs”) and Limited Load Profiles (“LLPs”), asking if the
+utilities should amend their energization rules to allow customers to utilize flexible connection
+agreements that use UL 3141-certified power control systems to implement a Limited Load
+Profile. VGIC generally supports this modification to the scoping question, as it is important to
+explicitly consider energization rule modifications to enable the use of FCAs. However, we
+recommend that the Commission remove the specific reference to UL 3141 in the final scoping
+question, as it is premature to limit the PCS certification pathways currently. VGIC suggests the
+following language for Phase 2 Issue 3:
+4
+
+“Should additional actions beyond compliance with SB 410 and AB 50 be implemented to
+improve energization timelines, processes, or tariffs in Phase 2 of this proceeding, including
+ordering the utilities to amend their energization rules to allow customers to elect optional flexible
+connection agreements that use certified power control systems to implement a Limited Load
+Profile that avoids distribution upgrades, thus enabling rapid and cost effective project deployment
+and operations?” Currently, Pacific Gas and Electric (“PG&E”) and Southern California Edison
+(“SCE”) are conducting pilots for different types of flexible service connections, and VGIC is glad
+that the Phase 1 decision will require these utilities to report on their use of these pilots to quickly
+energize customers.4 However, the technology for widespread use is ready to be deployed in
+California. Enphase highlights that utilizing Power Control Systems (“PCS”) “is the industry
+standard for DER load management.”5 PCS systems have already been incorporated into Rule 21
+to allow for export controls, and this use case has seen widespread adoption.6 While the UL 3141
+standard to enable the full use of PCS for limiting imports is expected to be adopted next month,
+the Commission need not wait for this to begin enabling widespread flexible service connections.
+Expanding the scoping question to remove the specific reference to UL 3141 will also allow
+stakeholders to consider whether other certification pathways could be used to enable the
+development of LLPs.
+VGIC believes the current barrier to deployment is a lack of clear regulatory focus on the
+topic. As discussed by the SIOWG Report, “The CPUC will need to initiate the development of
+one or more proceedings for firm and non-firm import limiting requirements, including
+4 See D.24-09-020 Appendix B, Energization Target Reporting Template Requirements, questions 25 and 26.
+5 Enphase Motion at p. 4.
+6 Enphase Motion at p. 4.
+5
+
+determining any necessary changes to Rule 2, Rule 15, and Rule 16, as well as Rules 29 and 45
+for EVs, plus potentially other Rules.”7 Development of these updated rules and tariffs will take
+time. The Rulings and workshops detailed in Enphase’s motion should begin as soon as possible,
+since significant utility and stakeholder engagement are required to develop these new rules. For
+example, the SIOWG met for two years to develop its report recommendations. The development
+of the Limited Generation Profiles, which creates a flexible export agreement, took 3.5 years to
+finalize. Important policy questions surround the utilities’ obligation to serve and other
+longstanding electric service paradigms may come up during PCS/ALM workshops and reports.
+Therefore, while PCS certification pathways are still being developed, standardized flexible
+service connections should be taken up in Phase 2 of this proceeding.
+III. DEVELOPMENT OF FLEXIBLE SERVICE CONNECTIONS SHOULD BE
+TAKEN UP EXPEDITIOUSLY, NOT CONTINUOUSLY REFERRED ACROSS
+DIFFERENT REGULATORY VENUES.
+VGIC continues to emphasize that the Commission should take up the development of
+standardized flexible service connections now. Enphase has submitted this motion to the instant
+proceeding after submitting a similar motion in the High DER proceeding (R.21-06-017) and
+receiving feedback that “Issues related to energization rules should be addressed in the
+energization proceeding.”8 Based on its interpretation of the Commission’s response to Enphase’s
+similar motion in the High DER proceeding, VGIC believes that discussing rule modification in
+this Energization Timelines proceeding is appropriate. Flexible service connections are a valuable
+tool for improving energization timelines, which is an important goal of Phase 2 of this proceeding.
+7 Smart Inverter Operationalization (SIO) Working Group Report Business Cases and Use Cases, February 1, 2024,
+at p. 115. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M532/K694/532694061.PDF
+8 Administrative Law Judges’ Ruling Denying Enphase Motion, R.21-06-017, June 21, 2024, at p. 1.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M534/K105/534105698.PDF
+6
+
+Importantly, the Commission must not further postpone addressing these issues by again
+stating that they must be taken up in a different regulatory venue. It is likely that the full
+development and implementation of different flexible capacity agreements, especially those that
+operate dynamically, will involve work and findings in both the High DER Proceeding and this
+instant proceeding. As stated by Enphase, when the Commission discusses energization rule
+modification, it will be important to incorporate items from the record of R.21-06-017 Track 3,
+including the SIOWG report.9 That record can then be used to develop the actual language for
+modifications to Rule 2, 15, 16, and 29/45. Ultimately, energization rule modifications will allow
+for the widespread adoption and use of flexible service connections.
+VGIC fears the Commission is “missing the forest for the trees,” as it appears to seek
+procedural purity rather than addressing a critical, time-sensitive issue that remains one of the only
+tools available to address the affordability crisis. VGIC strongly recommends that the Commission
+take timely action on this issue.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide this response to the motion. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: September 26, 2024
+9 Enphase Motion at p. 8.
+7
+
+8

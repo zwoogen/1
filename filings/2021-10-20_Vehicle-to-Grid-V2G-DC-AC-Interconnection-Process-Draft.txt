@@ -1,0 +1,49 @@
+October 20, 2021
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Comments of the Vehicle Grid Integration Council to Resolution E-5165:
+Approval, with Modifications, of Vehicle-to-Grid Implementation Plans and
+Technical Requirements in Compliance with Decision 20-09-035
+Dear Sir or Madam:
+Pursuant to General Order 96-B and the Comment Letter accompanying Draft Resolution
+E-5165 (“Draft Resolution”), the Vehicle Grid Integration Council (“VGIC”) respectfully
+comments on the proposed approval of the Joint Advice Letter 3774-E of San Diego Gas and
+Electric Company (“SDG&E”), Advice Letter 4510-E of Southern California Edison Company
+(“SCE”), and Advice Letter 6209-E of Pacific Gas and Electric Company (“PG&E”) submitted on
+May 28, 2021.
+The proposed approval of the Joint Advice Letters represents the culmination of diligent
+work from stakeholders, including the investor-owned utilities (“IOUs”), that provides a critical
+foundation for the future of bidirectional electric vehicle charging operations (“V2G”). In
+particular, VGIC appreciates the IOUs’ good faith efforts and flexibility during the V2G workshops
+held prior to the Joint Advice Letter filings and pursuant to Decision (“D.”) 20-09-035. In
+approving the Joint ALs, the Draft Resolution is a symbol of progress toward widespread V2G
+operations and is an encouraging reflection of close collaboration between subject matter experts
+at the Commission, IOUs, and industry stakeholders. VGIC is pleased to see V2G DC and V2G
+AC implementation steps that are consistent with the needs of customers and broader V2G market
+development.
+Specifically, the Draft Resolution includes important modifications for both V2G DC
+EVSE and V2G AC pathways that were highlighted in VGIC’s June 17, 2021 response to the Joint
+ALs. VGIC supports the modifications found in the Draft Resolution, including the clarification
+that V2G DC EVSE systems are not required to be certified to the UL PCS CRD if the customer
+seeks interconnection from the outset (as opposed to operating first in load-only or “V1G mode,”
+an approach that is also detailed in the Draft Resolution). VGIC is also encouraged by the
+establishment of lower-cost pathways for V2G AC pilots to interconnect using a trip scheme wired
+into the charger rather than installing a second relay. These modifications and the Draft Resolution
+as a whole will further unlock the safe and reliable interconnection of V2G systems. With this in
+
+October 20, 2021
+Page 2 of 4
+mind, VGIC strongly recommends the Commission adopt the Draft Resolution during the
+November 4th voting meeting.
+VGIC appreciates the opportunity to submit these comments to the Draft Resolution and
+looks forward to future collaboration with the Commission and IOUs on this initiative.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle Grid Integration Council
+cc: Kristin Landry, Energy Division (Kristin.Landry@cpuc.ca.gov)
+Justin Regnier, Energy Division (Justin.Regnier@cpuc.ca.gov)
+Service lists R.17-07-007 and R.18-12-006

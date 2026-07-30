@@ -1,0 +1,125 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Energization Timelines. Rulemaking 24-01-018
+(Filed January 25, 2024)
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ORDER INSTITUTING RULEMAKING TO ESTABLISH ENERGIZATION
+TIMELINES
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+March 1, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Energization Timelines. Rulemaking 24-01-018
+(Filed January 25, 2024)
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ORDER INSTITUTING RULEMAKING TO ESTABLISH ENERGIZATION
+TIMELINES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Order Instituting Rulemaking to Establish Energization Timelines
+(“OIR”), issued by Administrative Law Judge (“ALJ”) on January 30, 2024.
+I. OPENING COMMENTS DEMONSTRATE OVERWHELMING AND URGENT
+SUPPORT FOR PROMOTING “FLEXIBLE ENERGIZATION” SOLUTIONS IN
+THIS PROCEEDING.
+In opening comments, multiple stakeholders highlighted the importance of flexible
+energization as an urgent preliminary issue in this proceeding. VGIC agrees with the Enchanted
+Rock,1 LLC, Environmental Defense Fund,2 Mainspring Energy, Inc.,3 The Mobility House,4
+Powering America’s Commercial Transportation (“PACT”),5 and Southern California Edison
+Company (“SCE”)6 that the matter of flexible energization should be explicitly included in the
+1 Opening Comments of Enchanted Rock, LLC at 3.
+2 Opening Comments of Environmental Defense Fund at 5.
+3 Opening Comments of Mainspring Energy at 3.
+4 Opening Comments of The Mobility House at 3.
+5 Opening Comments of PACT at 7.
+6 Opening Comments of SCE at 11.
+1
+
+scope of this proceeding. Mainspring Energy states that “flexible energization solutions represent
+a powerful tool to not only accelerate energization, but to add valuable capacity to the grid amidst
+significant demand growth – both before and after energization takes place.”7 Whether new
+distributed generation capacity detailed in Mainspring Energy’s comments, new energy storage
+capacity offered by storage-backed charging sites, or a reduction in needed capacity offered by
+power control systems (“PSC”) / automated load management (“ALM”) technologies), flexible
+energization offers a critical “relief valve” for the growing demands on the distribution grid.
+SCE details a specific “bridge solution” in its opening comments: SCE’s Load Control
+Management Systems (“LCMS”) Pilot “allows a customer to use automated load management
+(ALM) systems to begin to receive service (though limited by current capacity) while grid
+upgrades are being completed.”8 Given the overwhelming support from parties to address this
+issue, and the recent emergence of specific solutions like SCE’s LCMS Pilot that represent
+important potential components of a comprehensive framework, VGIC recommends the
+Commission consider the critical issue of flexible energization strategies. Specifically, the
+Commission should develop rules governing the processes, technical requirements, utility
+reporting requirements, customer education and dispute resolution processes, and tools to
+support the widespread deployment of solutions that support flexible energization. Critically,
+flexible energization must be selected by an informed, empowered customer, and should never be
+forced on customers who are not active participants in this choice.
+Frameworks for flexible energization must be developed alongside setting target
+average/maximum energization timelines. Addressing these topics in lockstep will provide a clear
+7 Opening Comments of Mainspring at 3.
+8 Opening Comments of SCE at 11.
+2
+
+pathway to achieving any average and maximum energization timelines. In its opening comments,
+VGIC recommended that the Commission establish a Phase 2 in this proceeding to address these
+issues or, at a minimum, address them in the TE OIR (R.23-12-008). However, based on its review
+of opening comments, VGIC recommends that the Commission establish rules related to
+flexible energization as a parallel track/phase that advances simultaneously alongside a
+track/phase focused on establishing the energization timelines.
+II. PROJECTS REQUIRING INFRASTRUCTURE UPGRADES SHOULD NOT BE
+EXEMPT FROM ANY REQUIREMENTS TO REPORT ON ENERGIZATION
+TIMELINES.
+SCE recommends that projects requiring infrastructure upgrades be exempt from
+energization timeline targets.9 Whether or not these projects are exempt from the energization
+timeline targets, VGIC recommends that these projects be subject to utility reporting requirements.
+The Commission should direct utilities to regularly publish energization timeline data for all
+energization projects, not just projects that require no upgrades. Moreover, the Commission should
+direct utilities to publish data indicating the quantity and type of sites electing a flexible
+energization pathway and/or ALM technology, the milestones achieved under this pathway, and
+the technology used to ensure safe, reliable, and timely energization. This reporting will not only
+support the further evolution of energization timelines and any customer dispute resolution
+processes that emerge but will also be critical to understanding the prevalence of flexible
+energization elections, the technologies used, and the time saved by electing these solutions. Based
+on VGIC’s understanding, this would mirror the IOUs’ long-standing quarterly Rule 21 generator
+interconnection queue reporting requirement, in which utilities must publish an anonymized list of
+Rule 21 projects and the dates of each Rule 21 milestone. VGIC strongly recommends the
+9 Opening Comments of SCE at 5.
+3
+
+Commission consider requirements for IOUs to regularly publish milestones for Rule
+15/16/29/45 projects, including sites electing a flexible energization pathway/technology, in
+its initial set of issues. This proceeding should consider the appropriate project milestones,
+reporting cadence, data collection channels, data anonymization processes, report service list, and
+any other specific elements needed to ensure an accurate and regular public accounting of
+energization timeline data and flexible energization prevalence.
+III. VGIC SUPPORTS THE CALIFORNIA SOLAR AND STORAGE ASSOCIATION
+(CALSSA) AND SOLAR ENERGY INDUSTRIES ASSOCIATION’S (SEIA)
+RECOMMENDATION TO INCLUDE MAIN SERVICE PANEL UPGRADES IN
+SCOPE.
+In opening comments, CALSSA and SEIA both recommend including main service panel
+upgrade timelines and solutions to achieve timely panel upgrades in this proceeding.10 VGIC
+believes this is reasonable, given the coming wave of main panel upgrades required to meet
+California’s TE goals. Ensuring timely main service panel upgrades will face similar bottlenecks
+to energization of new load service requests, and, as such, could be addressed in this proceeding.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the OIR. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: March 1, 2024
+10 Opening Comments of CALSSA at 3.
+4

@@ -1,0 +1,413 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION ON TRANSPORTATION
+ELECTRIFICATION POLICY AND INVESTMENT
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr., Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+November 3, 2022
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE PROPOSED DECISION ON TRANSPORTATION
+ELECTRIFICATION POLICY AND INVESTMENT
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) 1 hereby submits
+these comments on the Proposed Decision on Transportation Electrification Policy and
+Investment, issued on October 14, 2022.
+I. INTRODUCTION.
+VGIC commends Energy Division (“ED”) staff’s diligent efforts in developing the
+sweeping Proposed Decision (“PD”), including the establishment of the statewide Funding Cycle
+1 (“FC1”) rebate program to facilitate transportation electrification (“TE”) infrastructure
+deployment. While VGIC is encouraged by the Vehicle-Grid Integration (“VGI”) Strategy and
+VGI Forum concepts that were absent from the TE Staff Proposal but added to the PD, we remain
+concerned that several critical opportunities to maximize the use of feasible and cost-effective VGI
+per Senate Bill (“SB”) 676 are being overlooked, including establishing a robust portfolio of utility
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Customized Energy Solutions,
+dcbel, Enel X North America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor
+Company, FreeWire Technologies, Inc., General Motors, Kaluza, Nissan Group of North America, Nuvve Holding
+Corporation, Sacramento Municipal Utility District, Stellantis, Sunrun, Switch EV Ltd, The Mobility House, Toyota
+Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed in these
+Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/)
+1
+
+VGI programs and rate offerings. It has been over three years since SB 676 was signed into law
+and nearly two full years since the Commission adopted the VGI Strategies Decision 20-12-029,
+yet most of California’s 1 million electric vehicle (“EV”) drivers and fleets remain without access
+to a mass-market VGI program, VGI rate, or incentive.2 Based on our understanding, the following
+limited VGI offerings are currently available to customers, only one of which is not a pilot:
+VGI Offering Offering Type Status
+Emergency Load Reduction Emergency DR Program Pilot
+Program EV/VGI Aggregation3
+PG&E VGI Pilots4 Technology Incentive and Pilot
+Rate
+PG&E evPulse5 Telematics-based Managed Pilot
+Charging
+PG&E BMW ChargeForward, GM Non-Ratepayer Funded Pilot
+V2X Pilot, Ford V2X Pilot6 Pilots
+SCE RATES Pilot7 Rate Pilot
+SDG&E V2G School Bus Pilot8 Infrastructure Funding Pilot
+SDG&E Power Your Drive VGI Rate Limited to L2 charging at 200 Workplace and
+Rate9 Multi-Unit Dwellings sites installed under
+$43 million PYD make-ready program
+Meanwhile, of the approved and forthcoming VGI offerings, only one is not a pilot: PG&E’s
+Dynamic Commercial EV Charging Rate.10 Given the state’s ambitious EV deployment goals and
+regulations, it is important that the Commission clarify how California will evolve from its existing
+patchwork of VGI pilots to full-scale programs and optional rates that fully leverage flexible EV
+2 While TOU rates promote off-peak charging, this is the baseline assumption used for California’s modeling efforts,
+and VGIC believes implementing TOU rates alone would forego considerable opportunity for both load reduction
+and exports.
+3 https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-costs/demand-response-dr/emergency-
+load-reduction-program
+4 https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-supports-transportation-electrification-with-approval-
+of-pge-vgi-pilots
+5 https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6226-E.pdf
+6 https://cleantechnica.com/2022/03/13/ford-gm-pge-to-begin-vehicle-to-grid-trials/
+https://www.utilitydive.com/news/pge-bmw-smart-charging-pilot-highlights-potential-for-electric-vehicles-
+a/600958/
+7 https://www.dret-ca.com/wp-content/uploads/2022/05/SCE-AL-4684-E-Non-Standard-Disposition-letter.pdf
+8 https://www.sdgenews.com/article/vehicle-grid-pilot-leveraging-big-batteries-electric-school-buses-support-grid
+9 https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M378/K429/378429298.PDF
+10 https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M424/K557/424557371.PDF
+2
+
+charging and discharging capabilities to contribute to California’s increasingly challenged grid.
+VGIC respectfully requests that the Commission modify this PD to provide this clarity, building
+upon the well-established record in this proceeding. Absent a concerted focus on VGI and a
+cohesive portfolio of VGI offerings, the Final Decision would not only represent a missed
+opportunity to unlock millions of EVs as grid resources whilst the grid continues to face reliability
+challenges, but also fail to meet the goals and intent of both SB 676 and the VGI Strategies
+Decision 20-12-029.
+With this in mind, VGIC has identified several enhancements and modifications to the PD
+that would better support California’s broader TE and climate goals, summarized below:
+ The Commission should adopt a VGI strategy that sets specific targets and milestones
+based on the record in this proceeding and the policy imperative established by SB 676.
+ Tier 2 Advice Letters resulting from the Annual VGI Forum should be broadly applicable
+to VGI topics, rather than being restricted to Funding Cycle 1 and other existing TE rebate
+program modifications.
+ The rebate guidelines should acknowledge the incremental capabilities of bidirectional
+chargers and require varying rebate levels for bidirectional chargers based on power ratings
+(e.g., higher incentive for a bidirectional charger relative to a unidirectional charger with
+the same power rating).
+ The PD should clarify that marketing, education, and outreach (“ME&O”) efforts may
+include partnerships between the FC1 third-party administrator and automakers or EV
+service providers.
+ The PD should remove certain minimum EVSE data-sharing requirements that are not
+based on clear justification and offer no explanation of how confidential data will be used.
+ The PD overlooks the extensive argument in support of retaining D.20-12-029’s ALM
+provisions and establishing an ALM incentive.
+ The PD’s revised ALM definition should not be adopted, and stakeholders should be
+convened to develop a consensus definition that fits within the vision of SB 676.
+II. RECOMMENDED MODIFICATIONS TO THE PROPOSED VGI STRATEGY
+AND FORUM
+A. The Commission should adopt a VGI strategy that sets specific targets and milestones
+based on the record in this proceeding and the policy imperative established by SB
+676.
+3
+
+VGIC agrees with the PD’s assertion that “we find it appropriate to establish strategic focus
+areas for VGI: (1) rates and demand flexibility programs; (2) technology enablement; and (3)
+planning.”11 For the first strategic focus area, the PD refers to the Advancing Demand Flexibility
+through Rates Rulemaking (“R.”) 22-07-055 as a dedicated venue to advance leadership on rates.
+The PD describes that the second strategic focus area will be explored through the VGI Forum and
+that “investor-owned utilities (“IOUs”) will have a significant role to play in the enablement of
+VGI technology, including establishing interconnection standards and supporting the development
+of performance requirements for VGI equipment.”12 Lastly, the PD explains that the third strategic
+focus area is already underway as the Commission continues to coordinate with other state
+agencies across “various proceedings and processes” to ensure VGI is adequately considered.
+VGIC urges the Commission to adopt specific VGI targets and milestones to guide progress
+and yield meaningful market development results within each of the three strategic focus areas.
+Moreover, the Commission should consider formalizing the strategic focus areas through a “Goals-
+Outcomes-Metrics” framework, as detailed in VGIC’s Comments on the Draft TE Framework.13
+Per SB 676, the Goal is indisputably to “maximize the use of feasible and cost-effective VGI by
+January 1, 2030.” The Outcome, in turn, should be to make VGI programs and rates available to
+customers, and the appropriate Metric by which to measure progress toward this Outcome would
+be to understand what percentage of customers are participating in a VGI program or rate. To
+accomplish the Outcome, the Commission should set a Target of 100% of customers having
+11 PD at 162.
+12 PD at 162.
+13 Comments of Vehicle-Grid Integration Council on the Transportation Electrification Framework (Sections 3.4
+And 11.3). Pages 3-10.
+4
+
+access to an optional VGI program or rate by 202714 and should consider setting interim targets
+along the way to track progress toward the outcome. Critically, this target should not be satisfied
+simply by enrolling customers on TOU rates, which would fail to maximize VGI by leaving critical
+load reduction and export opportunities untapped and unutilized. Adopting such a framework will
+send a much-needed signal to the industry that California is prepared to evolve from the current
+paradigm of seemingly endless pilots to a new era of mass-market programs and rate offerings that
+meaningfully leverage flexible EV charging and discharging at scale.
+B. Tier 2 Advice Letters resulting from the Annual VGI Forum should be broadly
+applicable to VGI topics, rather than being restricted to Funding Cycle 1 and other
+existing TE rebate program modifications.
+VGIC strongly supports the establishment of an annual VGI Forum to gather the relevant
+stakeholders to co-develop solutions to overcome critical VGI market development barriers. This
+much-needed venue will provide a consistent opportunity for utilities, VGI solution providers
+(including automakers and charging companies), customer groups, and other key stakeholders to
+raise issues and share best practices from real-world deployment around the country. The PD states
+that following each VGI Forum, “the IOUs shall propose any changes to the FC1 program based
+on the VGI Forum’s discussion and the subsequent workshop reports through the Tier 2 Advice
+Letter filing.”15 The PD also states that IOUs may file separate Tier 2 Advice Letters, where
+appropriate, to propose any changes to other existing TE rebate programs. First, VGIC strongly
+supports the inclusion of both FC1 and existing TE rebate programs changes in the Tier 2 Advice
+Letter process. VGIC has flagged several critical deficiencies in existing TE rebate program design
+within this proceeding that severely limit the VGI market, including:
+14 SB 676 suggests a 2030 target, however VGIC believes it would be appropriate to set a more aggressive target to
+better align with the more pressing grid reliability and EV deployment challenges that California faces.
+15 PD at 165.
+5
+
+ Lack of incremental incentives for bidirectional charging equipment that is needed to
+support grid reliability, including during extreme heat events.16
+ Requirements that funded chargers be ISO 15118-capable, thereby excluding over
+30,000 bidirectional-capable Nissan LEAF owners from receiving rebates and
+providing exports to support the grid.17 Notably, this undermines the critical
+technology neutrality provision of SB 676, PUC § 740.16(b)(2) which states “[VGI]
+Strategies shall not require the use of any specific technology.”18
+ Requiring all make-ready rebate recipients take service under a new meter and service
+drop, which limits opportunities for bidirectional use cases (i.e., V2B customer bill
+management and V2B backup power), extends the energization timeline, excludes
+customers with physical constraints that cannot accommodate new meter or service,
+and misses opportunities to deploy more chargers for each segment (e.g., L2, DCFC)
+using a fixed amount of ratepayer funding.19 Although the Submetering Decision 22-
+08-024 was a positive development and can be expected to yield increased EV rate
+participation from co-mingled EV and site load, existing TE rebate programs remain
+exclusive to separately-metered EVSE.
+With this in mind, VGIC strongly supports the provision that IOUs may file a Tier 2 Advice Letter
+to propose any changes to existing TE rebate programs in response to findings from each VGI
+Forum. However, VGIC posits that barriers emerging from VGI Forum discussions will not be
+limited to FC1 and existing TE rebate program design. For example, barriers to maximizing VGI
+may relate to metering, interconnection, standards, rate design, program design (other than existing
+TE rebate programs and FC1), marketing, education, and outreach, and other topic areas not
+considered within the scope of existing TE rebate programs and FC1 but that could be materially
+addressed through a targeted Tier 2 Advice Letter. Therefore, VGIC strongly recommends that
+Tier 2 Advice Letters filed as a result of VGI Forum discussion and workshop reports be permitted
+16 Comments of VGIC on Staff Proposal at 7-10.
+17 Comments of VGIC PEV Submetering Proposed Decision at 10-11.
+18 Public Utilities Code 740.16(b)(2)
+19 Comments on Staff Proposal of AEE at 7, EDF Renewables at 4, SBUA at 16, VGIC at 10. Reply Comments on
+Staff Proposal of VGIC at 6-10.
+6
+
+to apply to VGI-related policies, programs, rates, and rules broadly, rather than limiting
+applicability to FC1 and existing TE rebate programs.
+III. RECOMMENDED MODIFICATIONS TO THE PROPOSED FC1
+ADMINISTRATION, INCLUDING REBATE DESIGN, MARKETING, AND
+TECHNICAL REQUIREMENTS
+A. The rebate guidelines should acknowledge the incremental capabilities of
+bidirectional chargers and require varying rebate levels for bidirectional chargers
+based on power ratings (e.g., higher incentive for a bidirectional charger relative to
+a unidirectional charger with the same power rating)..
+In Section 4.3.2.3, the PD establishes guidelines to apply in setting rebate levels, including
+“vary rebate levels based on power capacity (i.e., Level 2 vs DCFC)” for both LD rebates and
+MDHD rebates. The requirement that rebate levels should differ based on power capacity is based
+on the assumption that Level 2 and DCFC chargers bring varying levels of capability to the
+customer EV charging experience and associated costs. Moreover, bidirectional charging can
+deliver broad societal benefits providing resiliency and contributing to a reliable grid. Meanwhile,
+comments from several parties support the consideration of incremental capabilities of
+bidirectional chargers in the rebate design.20 VGIC believes the rationale for varying rebate levels
+based on power capacity can be similarly applied to bidirectional and unidirectional chargers:
+each charger type brings varying levels of capability to the customer EV charging experience and
+associated costs. With this in mind, and the considerable record providing justification for
+offsetting the incremental costs of bidirectional chargers,21 VGIC strongly recommends the
+Commission include the following additional guideline for setting LD and MDHD rebate levels:
+ “Vary rebate levels based on bidirectional charging capability (i.e., unidirectional vs
+bidirectional”
+20 Comments of on Staff Proposal of AEE at 14, Nuvve at 5, VGIC at 7. Reply Comments of Fermata at 9.
+21 Ibid.
+7
+
+Similar to the VGI topics noted above in Section II of VGIC’s comments, the potential to unlock
+latent energy storage capacity through this modification to the PD, and the risk of missing the
+opportunity to do so, must not be overlooked if the Commission wishes to fulfill the vision of SB
+676. California continues to face dire grid reliability challenges due to extreme heat events and
+foregoing the opportunity to deploy chargers capable of discharging thousands of megawatts from
+millions of EV batteries to provide emergency grid capacity would be a considerable misstep at
+this time forgoing significant benefits to California ratepayers.
+B. The PD should clarify that marketing, education, and outreach (“ME&O”) efforts
+may include partnerships between the FC1 third-party administrator and
+automakers or EV service providers.
+In Section 3 discussing Issues from the Draft TEF Not Included in the Staff Proposal, the
+PD makes note that SANDAG advocates for public-private partnerships to advance ME&O efforts,
+while “VGIC similarly asserts that EVSPs could provide a valuable avenue for direct customer
+education on rates, programs, and ME&O focused on VGI.”22 The PD finds this to be reasonable,
+stating: “We also agree with parties’ arguments that public-private partnerships can advance
+ME&O efforts; therefore, we find that the ME&O performed within the FC1 rebate program would
+benefit from public-private partnerships.”23 VGIC seeks clarity regarding this statement and
+whether automakers, charging providers, and other third-party service providers will be invited to
+partner with the FC1 administrator on ME&O. These entities may have stronger existing customer
+relationships through installed mobile phone apps or connected vehicle infotainment systems and
+would constitute efficient and effective outreach channels.24 VGIC recommends the Commission
+require the FC1 administrator to seek partnerships with these entities for ME&O, specifically for
+22 PD at 60.
+23 PD at 61.
+24 VGIC Reply Comments on Draft TEF Chapters 6 and 11 at 9.
+8
+
+VGI programs, rates, and other offerings. The Commission should consider what budget should
+be allocated to fund these uniquely high impact ME&O partnerships. Moreover, VGIC questions
+whether these partnerships should be limited to FC1, and recommends the Commission consider
+requiring IOUs to fund ME&O partnerships with automakers and EV service providers using
+existing TE program budgets, in addition to FC1.
+C. The PD should remove certain minimum EVSE data-sharing requirements that are
+not based on clear justification and offer no explanation of how confidential data
+will be used.
+VGIC appreciates that data sharing can be valuable in recording specific metrics and
+tracking progress toward defined policy outcomes. However, the PD requires the following:
+“EVSPs shall share, confidentially if needed, the cost of networking and maintenance packages
+they offer to customers,”25 yet the underlying justification and details for how this data will be
+used are not provided or referenced in the PD. First, the PD does not specify whether this data
+must be shared with the IOUs, Program Administrator, CPUC, CEC, or some combination of these
+entities. Second, the PD offers no reasoning as to why this data is needed, and VGIC questions
+whether the CPUC holds the appropriate jurisdiction to require this data from third-parties (i.e.,
+EVSPs) other than the IOUs. Earlier TE rebate programs, such as Charge Ready, may have
+benefited from collecting this data, since they provided networking cost rebates for customer-
+owned stations to create a level playing field with utility-owned options. However, since FC1 will
+not permit utility-owned options and instead focuses on deploying infrastructure, VGIC urges the
+Commission to remove this minimum requirement and asserts that the PD does not provide
+adequate justification for collecting this confidential and competitive data from EVSPs.
+25 PD at 175.
+9
+
+IV. RECOMMENDED MODIFICATIONS TO THE PROPOSED CHANGES TO
+THE COMMISSION’S POLICY ON AUTOMATED LOAD MANAGEMENT
+VGIC appreciates ED staff’s engagement on the issue of ALM, which has understandably
+taken a backseat to more pressing VGI issues before the Commission D.20-12-029. Nevertheless,
+ALM presents an important opportunity to avoid undue and inequitable ratepayer costs, accelerate
+EVSE deployment, promote market-based solutions, align TE policy with state agency directives,
+and free up grid capacity for non-TE electrification efforts and distributed energy resources.
+However, VGIC is concerned that the PD’s ALM provisions, including the updated definition and
+proposed modifications to Ordering Paragraphs 5 and 6 in D.20-12-029 constitute a material
+reversal of the Commission’s progress to date on ALM. VGIC believes the PD contains material
+omissions related to the justification for making these modifications, and ultimately views these
+as steps that inadvertently undermine the requirements in SB 676, overlook the record developed
+in this proceeding, and overturn previous Commission directives without sufficient justification.
+A. The PD overlooks the extensive argument in support of retaining D.20-12-029’s ALM
+provisions and establishing an ALM incentive.
+PD Section 4.3.8.1.4 explores the topic of considering ALM, but does not adequately capture
+the foundational reasoning for retaining the D.20-12-029’s ALM provisions and offering an ALM
+incentive, listed below and constructed throughout the previous three years of this rulemaking:
+i. SB 676 Requirement As a general matter, SB 676 requires the CPUC to “establish strategies to
+maximize feasible and cost-effective VGI” and states that VGI “means any method of altering the
+time, charging level, or location at which… electric vehicles charge…in a manner that…provides
+net benefits to ratepayers by doing any of the following…(B) Avoiding otherwise necessary
+10
+
+distribution infrastructure upgrades.”26 In response to this statutory requirement, the Commission
+adopted strategies in D.20-12-029 to provide these net benefits to ratepayers and maximize VGI,
+including adopting ALM as a near-term VGI strategy pursuant to SB 676 and directing IOUs to
+take specific ALM-related actions in Ordering Paragraphs 5 and 6. SB 676 also requires the
+Commission to reference the VGI strategies adopted in D.20-12-029 in “ongoing and subsequent
+proceedings that address issues of transportation electrification…and shall identify how programs
+and investments that the Commission may approve will advance the achievement of the
+strategies.”27 VGIC considers the statute to be unambiguous, and questions whether the PD’s
+proposed modification to the definition, OPs 5 and 6, and the PD’s lack of development of an ALM
+incentive is sensible given these clear statutory requirements.
+ii. CalGreen stakeholder consensus and implementation of ALM Since the adoption of D.20-12-
+029, the California Green Building Standards Code (“CalGreen”) has embraced ALM, stating:
+“When low power Level 2 EV charging receptacles or Level 2 EVSE are installed beyond the
+minimum required, an automatic load management system (ALMS) may be used to reduce the
+maximum required electrical capacity to each space served by the ALMS. The electrical system
+and any on-site distribution transformers shall have sufficient capacity to deliver at least 3.3 kW
+simultaneously to each EV charging station (EVCS) served by the ALMS.”28
+Notably, the development of CalGreen, including the above language specific to ALM, occurred
+through considerable stakeholder engagement and due diligence. After vetting the application of
+ALM, including potential impacts on equity, the stakeholder consensus determined that CalGreen
+could feasibly promote this ALM approach without risking equity concerns (i.e., namely that
+drivers’ transportation needs would still be met).
+26 SB 676 (Bradford, 2019). Public Utilities Code 740.16.(b)(1).
+27 SB 676 (Bradford, 2019). Public Utilities Code 740.16.(e)
+28 Building Standards of the California Department of Housing and Community Development Regarding the 2022
+California Green Building Standards Code, California Code of Regulations, Title 24, Part 11. Section 4.106.4.2.2
+11
+
+iii. Energization timelines as a Commission priority Promoting ALM can defer or avoid
+distribution infrastructure upgrades, cutting down on energization timelines not only for customers
+electing ALM but for those not electing ALM who benefit from the additional available grid
+capacity that otherwise would have been “used up.” VGIC understands the considerable
+energization timelines for EVSE to be a high-priority issue for the Commission and posits that
+ALM can significantly reduce the energization timeline for sites where it makes sense for the
+customer. Key policy drivers like CARB’s ACC II and the upcoming Advanced Clean Fleets
+Regulation will require innovative approaches to promoting ALM.
+iv. Ratepayer cost burden and disproportionate impact to low-income customers The ability of
+ALM to defer or avoid electrical capacity upgrade costs can benefit all ratepayers under the
+paradigm of ratepayer-funded EV Infrastructure Rules and ratepayer-funded BTM Funding Cycle.
+At a time when utility bills are rising and disproportionately impacting low-income customers,
+VGIC believes ALM could help to partially mitigate the $2.2 billion in ratepayer burden of the EV
+Infrastructure Rules expected by 2030.29 VGIC recognizes that similar claims regarding avoided
+distribution costs have been made in the past regarding other forms of distributed resources (e.g.,
+solar), but in practice these savings have been difficult to capture. However, VGIC believes that
+EVSE’s present a “difference in kind” in terms of the practicality of achieving these savings. This
+is because in each case, EVSE equipment represents a substantial new load addition, not simply a
+reduction or dampening of existing load. Thus, the deferral opportunities are more easily identified
+and attributed.
+29 Reply Comments of Public Advocates Office on AB 841 Implementation. Page 4.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M366/K442/366442085.PDF
+12
+
+v. Customers have no reason to elect ALM solutions, as demonstrated by VGI Reports SCE and
+SDG&E VGI Reports indicate that ALM strategies are not promoted or elected within their service
+territories. VGIC posits that, due to the structure of the EV Infrastructure Rules and make-ready
+programs, site hosts do not get an opportunity to realize significant financial upside from ALM,
+and therefore do not elect these solutions. Furthermore, in some cases ALM can enable customers
+to more efficiently utilize existing grid infrastructure by fitting EVSE onto existing metering and
+service lines, rather than installing new ones. This has the added benefit of allowing greater VGI
+opportunities through co-mingling EV loads with other customer loads. However, to VGIC’s
+knowledge, none of the existing TE rebate programs includes an element that encourages
+customers to use existing meters and service lines.
+B. The PD’s revised ALM definition should not be adopted, and stakeholders should be
+convened to develop a consensus definition that fits within the vision of SB 676.
+The PD offers no justification for the proposed definition, and, to VGIC’s knowledge, did not
+publicly solicit stakeholder feedback from the VGI community on the development of the new
+definition. In contrast, the initial definitions adopted in D.20-12-029 were developed following
+several working group meetings hosted by ED staff and two overlapping comment periods (for a
+total of four formal comment sets) on VGI topics in Q3 2020. Moreover, the definition does not
+align with the definition in CalGreen, which defines ALM as: “a system designed to manage load
+across one or more electric vehicle supply equipment (EVSE) to share electrical capacity and/or
+automatically manage power at each connection point.”30 Specifically, VGIC is concerned that the
+proposed definition is not inclusive of upgrades on the customer side of the meter, and questions
+30 Building Standards of the California Department of Housing and Community Development Regarding the 2022
+California Green Building Standards Code, California Code of Regulations, Title 24, Part 11. Chapter 2. Section
+202.
+13
+
+how ALM would interact with FC1, which is focused on customer-side upgrades. While there may
+be merit in implementing an ALM program specific to either customer-side or utility-side upgrades
+(e.g., separate programs for each), VGIC believes this should be determined in program design,
+not through the definition. As such, VGIC strongly urges the Commission to consider scoping the
+issues of (1) definition of ALM and (2) ALM incentive design into the Annual VGI Forum.
+In conclusion, VGIC is concerned that the PD’s various ALM provisions send a signal to
+utilities that they need not pursue ALM implementation in earnest, and is at odds with SB 676 and
+D.20-12-029 more broadly. Notably, D.20-12-029 directed SCE to implement ALM in Charge
+Ready 2, and D.21-04-014 directed SDG&E to file an Advice Letter to implement ALM in Power
+Your Drive Extension. In contrast, actions taken in this PD appear to roll back progress on ALM,
+specifically by revising OPs 5 and 6 in D.20-12-029, sending a mixed signal to SCE and SDG&E
+on whether or how to encourage ALM as part of ongoing or future TE efforts. Lack of progress on
+ALM implementation risks increasing infrastructure costs to ratepayers, potentially to the tune of
+$2.2 billion.31
+V. CONCLUSION.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+November 3, 2022
+31 Reply Comments of Public Advocates Office on AB 841 Implementation. Page 4.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M366/K442/366442085.PDF
+14

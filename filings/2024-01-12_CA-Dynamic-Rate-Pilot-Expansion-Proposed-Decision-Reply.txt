@@ -1,0 +1,114 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+PROPOSED DECISION ON TRACK B STAFF PROPOSAL TO EXPAND EXISTING
+PILOTS
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+January 12, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+PROPOSED DECISION ON TRACK B STAFF PROPOSAL TO EXPAND EXISTING
+PILOTS
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”) and the email ruling extending comment deadline issued by
+Administrative Law Judge (“ALJ”) Stephanie Wang on December 22, 2023, the Vehicle-Grid
+Integration Council (“VGIC”) hereby submits these reply comments on Proposed Decision to
+Expand System Reliability Pilots of Pacific Gas and Electric Company (“PG&E”) and Southern
+California Edison Company (“SCE”) (“PD”).
+I. MULTIPLE PARTIES IDENTIFY THE IMPORTANCE OF AUTHORIZING
+SUFFICIENT FUNDING TO SECURE THE AUTOMATION SERVICE
+PROVIDER PARTICIPATION THAT IS CENTRAL TO THE SUCCESS OF THE
+EXPANDED PILOTS.
+The expanded PG&E AgFIT and SCE Dynamic Rate Pilots are structured such that
+automation service providers (“ASPs”) are required to facilitate the participation of customer-
+owned equipment in the pilots, enable the equipment to respond to dynamic rates and thus, provide
+benefits to the grid. As such, ASPs, also called aggregators in other contexts, play a key role to the
+success of these pilots. Without their buy-in and support, the pilots will not flourish, reach
+enrollment targets and demonstrate value in supporting grid decarbonization, reliability, and
+affordability goals.
+1
+
+With the expanded pilots, the intent is to bring in new ASPs, new customer rate classes and
+an expanded set of customer assets/equipment. Bringing in new ASPs that service new types of
+customer assets/equipment, such as electric vehicles (“EVs”) and electric vehicle supply
+equipment (“EVSE”), may require the ASP to develop new software and technology to support
+the integration of the customer-owned equipment into the pilots. Sufficient funding mechanisms
+and revenue are needed to entice ASPs to undertake this development effort and provide their
+services to retail customers and the grid throughout the pilots. This is particularly important for
+emerging technologies and customer-owned equipment like bidirectional vehicle-to-everything
+(“V2X”) EVSE, where the underlying technology, integrations, and data flows are not nearly as
+developed as, say, smart thermostats.
+Several parties also detailed the importance of financial incentives for ASPs, including
+Gridtractor, California Efficiency + Demand Management Council, Leapfrog Power Inc., and
+OhmConnect Inc. (collectively, “Joint Parties”) and PG&E.1 It is worth noting that current SCE
+Dynamic Rate Pilot is not currently considered a go-to option for EV/EVSE aggregators/ASPs,
+despite eligibility not being limited to a certain customer group (as is the case for AgFIT which,
+to date, has not been open to residential or medium-/heavy-duty EV customers). Gridtractor
+describes this dynamic in more detail:
+“the SCE DR Provider (DRP) Mid-term evaluation elaborated on the lack of business
+model fit for prospective ASPs and these insights mirror issues raised in the Working
+Group 2 Proposal to Address Third Party Needs. SCE’s evaluation states:…’SCE found in
+their discussions with these parties [ASPs] that the business models for many of these
+entities did not align with the limited value proposition that participating as an ASP in the
+Pilot provided.’ By contrast, the VCE AgFIT model, in which a small number of
+1 Opening Comments of Gridtractor at pg 6-7; Opening Comments of Joint Parties at pg 5-6; Opening
+Comments of PG&E at pg 11.
+2
+
+commercial partners are offered sufficient revenue predictability to develop the necessary
+technologies…has demonstrated the best results so far…”2
+Gridtractor reiterates the importance of supporting ASPs, recommending, “he Commission should
+encourage PG&E to build on the model that has demonstrated the greatest potential so far.”3 Joint
+Parties also explain the value of ensuring ASP participation, offering that “ASPs also need to
+understand the business value proposition over the long run to justify the time, energy, and cost of
+participating in a pilot program. Certainty that the State’s financial support over a three-year
+program is as fundamental to obtaining the ASPs’ commitments as are the financial incentives
+provided to electric customers.”4 Lastly, PG&E expresses its concern, given its experience with
+AgFIT and close working relationship with ASPs, that “…[T]he PD proposed budget significantly
+reduces the incentives budget from $10.0 million to $3.6 million. The incentives budget was
+intended to cover both incentives for customers and for third-party/ASP technology enablement
+and integration. On its own, $3.6 million is unlikely to support any substantial ASP enablement
+costs. If dual participation is not allowed and other incentives are unavailable, ASPs may not
+participate in the pilot.”5
+VGIC strongly agrees with these parties that the revenue opportunities and incentives for
+ASPs are crucial to the success of the expanded pilots. Moreover, this funding is particularly
+important for new players, such as EV charging aggregators, and other new technology providers
+to develop the necessary software and integration technology, and support the ongoing
+participation of these customers in the expanded pilots. VGIC urges the Commission to ensure
+2 Opening Comments of Gridtractor at pg 7.
+3 Opening Comments of Gridtractor at pg 7.
+4 Opening Comments of Joint Parties at pg 5-6.
+5 Opening Comments of PG&E at pg 11.
+3
+
+sufficient funding is included in the expanded pilot budgets to meaningfully support ASPs,
+particularly for technologies that are relatively nascent, like real-time price-responsive managed
+charging platforms and bidirectional V2X charging aggregators.
+II. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the Proposed
+Decision to Expand System Reliability Pilots of PG&E and SCE. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: January 12, 2024
+4

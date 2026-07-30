@@ -1,0 +1,230 @@
+Comments of the Vehicle-Grid Integration Council
+on the EPA Clean School Bus Program
+To: US Environmental Protection Agency, Region 9: Air and Radiation Division
+From: Vehicle-Grid Integration Council,
+with support from the following organizations:
+Leadership Circle Members:
+ American Honda Motor Co., Inc.
+ Enel X North America, Inc.
+ Ford Motor Company
+ General Motors Company
+ Nissan
+ Nuvve Holding Corporation
+ Stellantis N.V.
+ Toyota Motor North America, Inc.
+General Members:
+ dcbel
+ ENGIE NA
+ Fermata Energy
+ FlexCharging
+ The Mobility House
+ Sunrun
+ Veloce Energy, Inc.
+ WeaveGrid
+Subject: Clean School Bus Program
+Contact:
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400, Berkeley, CA 94704
+eburgess@vgicouncil.org
++1 (941) 266-0017
+www.vgicouncil.org
+Page 1 of 5
+
+Vehicle-Grid Integration:
+Unlocking EVs as a Strategic Grid Resource
+Vehicle-grid integration represents a unique opportunity to establish and advance US leadership
+at the intersection of a decarbonized transportation and electric sector by ensuring the value
+from flexible electric vehicle charging – and discharging – is recognized and compensated.
+The Clean School Bus Program will directly support deployment of electric school buses which,
+if enabled, will have untapped potential as crucial, flexible resources to support the evolving
+electricity grid. Managed charging and vehicle-to-grid technology provides opportunities for
+customers to capture additional benefits, from reduced charging costs and integration with on-site
+generation and storage, to backup power and payment for exports. By unlocking these key benefits,
+the Clean School Bus Program can have a much larger impact in accelerating the widespread
+adoption of electric school buses.
+Vehicle Grid Integration Council (VGIC) is a 501(c)(6) nonprofit trade association focused on
+accelerating the role of smart EV charging and discharging through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid. Scaling VGI will help accomplish the following public policy goals:
+ Benefit fleet owners by reducing the cost of ownership.
+ Decarbonize the transportation sector by accelerating EV adoption.
+ Support decarbonization of the power sector by providing essential grid services as
+renewable energy and distributed energy resource penetration increases.
+ Increase affordability by reducing electricity bills for all customers.
+ Improve grid resiliency and security during extreme weather events.
+ Foster economic activity through innovation, competition, and market transformation.
+With federal support and thoughtful Clean School Bus Program design, we believe this vision
+could become a reality and that school districts and other entities across the United States can
+take part in the acceleration of both transportation electrification and grid decarbonization. Our
+vision for VGI encompasses the following key elements:
+ Ensure mobility needs are satisfied. School bus fleets will be able to participate in a wide
+variety of VGI services, nationwide, without compromising their mobility function.
+ Managed charging will provide benefits to school bus fleets: School bus fleets in every state
+will be given the choice to align charging with the times of day when electricity prices are low,
+reducing operating costs by as much as 50% compared to unmanaged charging. Lowering the
+total cost of ownership will help to accelerate overall electric school bus adoption.
+ EVs provide emissions-free emergency power during blackouts: During extreme weather
+blackouts or other power outages, electric school buses can utilize two-way charging and
+discharging capabilities to send energy to a building or microgrid, serving as a generator and
+providing safe backup power.
+Page 2 of 5
+
+ Charging infrastructure dollars go further: Smarter management of EV charging will help
+manage the cost of deploying EV charging infrastructure, which encourages wider access to
+EV charging with equal or lower overall cost burden.
+ Electric school buses provide necessary services to the grid and get paid for it: V1G
+(unidirectional charging) and vehicle-to-grid (“V2G” – bidirectional charging) will enable
+electric school buses to both receive and feed power back to the grid, supporting advanced grid
+services such as frequency control, demand response, peak shaving, and more. For customers
+and end-users such as school districts and their fleet managers, V1G and V2G services (load
+management, demand charge management, and participation in distribution utility demand
+response programs) also provide significant benefits in the form of operational savings.
+Providing these services can unlock new revenue streams for electric school buses, lowering
+the total cost of ownership.
+VGI is a unique opportunity for the EPA to establish and advance US leadership in affordable,
+decarbonized, reliable, and resilient transportation and electricity. We are grateful to the US
+Environmental Protection Agency for this comment opportunity. The VGIC would be happy to
+further discuss any part of these comments in a follow-up meeting.
+1. A higher level of funding should be made available for V2G-capable school buses and
+chargers. V2G stands to offer substantial public benefits as electric school bus deployment
+scales up. However, for these benefits to be fully realized, it is critical that VGI capabilities be
+considered and built into infrastructure investments as they are deployed, rather than after-the-
+fact. Bidirectional electric school buses and chargers can support grid reliability and
+community resiliency in the face of aging grid infrastructure and increasingly frequent extreme
+weather events. The incremental costs of deploying and enabling bidirectionality can thus
+create a significant public benefit that should be partially or fully offset under the Clean School
+Bus Program.
+It is also worth noting that incorporation of VGI technologies is not limited to physical
+infrastructure, but extends to communications and control architecture, as well. For example,
+stakeholders should consider the potential benefits of leveraging in-vehicle telematics to enable
+certain VGI use cases. VGIC believes both charging station and EV-based VGI solutions
+should be enabled through the new Clean School Bus Program. Together with the physical
+layer, the communication and control architecture needed to unlock VGI constitute the
+guardrails of VGI business models. VGIC recommends the Clean School Bus Program support
+VGI use cases while remaining open to supporting various EV aggregator business models, as
+it is too early – and not the federal government’s role – to pick winners and losers in the VGI
+market. However, VGI-related activities should still be an eligible option for any projects
+supported by the Clean School Bus Program.
+2. Prepare for the coming wave of commercially-available VGI offerings by educating
+school districts, school bus fleet operators, as well as regulators and policy-makers. The
+deployment of electrified transportation across the US represents a paradigm shift, and moving
+common thinking from “mpg” to “kWh” requires considerable outreach and education. For
+Page 3 of 5
+
+many school bus fleets, converting to electrified school buses is a significant undertaking that
+lies outside of their existing expertise. Given the potential complexity of VGI, more policy
+support is needed to direct funding toward educating school bus fleets not only of the benefits
+of electrification in general, but the enhanced value proposition that VGI technologies can
+offer. These value propositions include new potential revenue streams from grid services,
+reduced charging infrastructure costs, reduced charging energy costs, new bill management
+options, and enhanced resilience of critical facilities. The Clean School Bus Program should
+guide applicants to partner with original equipment manufacturers (“OEMs”) and EV service
+providers to ensure customer education expertise of these stakeholders are adequately
+leveraged.
+VGIC also suggests the Clean School Bus Program educate local government and municipal
+applicants on the need to assess and enhance their purchasing practices to better facilitate
+electric school bus deployment. Specifically, municipal ledgers should account for savings and
+revenue, such as those generated from VGI, rather than focusing on capital expenses. This will
+help to level the playing field for electric buses that have a higher capital cost but lower total
+cost of ownership. This practice will also more accurately reflect the financial viability of VGI-
+enabled buses and chargers.
+In addition to educating applicants and end-users, it will also be important to educate regulators
+and policy makers who may play a key role in overseeing the development of VGI programs
+and rules by local utilities or government agencies.
+3. Facilitate streamlined interconnection policies across the country to support advanced
+VGI opportunities. In California, VGIC and other stakeholders have collaborated closely with
+utilities and their regulators to advance V2G functionality, including both V2G Direct Current
+(“V2G-DC”) and V2G Alternating Current (“V2G-AC”) configurations. This has ultimately
+led to the creation of a permanent V2G-DC interconnection pathway, and a temporary V2G-
+AC interconnection pathway. Despite this progress, it is not guaranteed that V2G systems can
+easily interconnect across the country since interconnection rules are governed individually at
+the state level and each utility typically has its own process. Meanwhile, OEMs must design
+products for a national marketplace and must contend with the possibility of a patchwork of
+interconnection rules and processes. VGIC strongly recommends the EPA facilitate efforts to
+streamline V2G interconnection pathways across the U.S., which may include clarifying how
+V2G systems can interconnect under existing interconnection rules. This could be done in
+partnership with the Department of Energy and Department of Transportation as these agencies
+implement the EV Charging Program.
+Additionally, there is a growing need to align utility distribution service connection and utility
+distributed energy resource (“DER”) interconnection approaches, such that customers are
+subject to an easy and streamlined process. VGIC recommends that the EPA encourage electric
+utilities involved in Clean School Bus Program projects to align distribution service connection
+and DER interconnection approaches, such that customers are subject to a streamlined
+experience. For example, V2G interconnection approval (under current DER interconnection
+processes) has historically been a lengthy process relative to the time it takes to connect and
+begin operating EV chargers in load-only mode. Customers should not be prohibited from
+operating bidirectional chargers in load-only mode while they await approval to operate in
+bidirectional mode. Similarly, customers wishing to deploy co-located renewable generation
+Page 4 of 5
+
+and/or stationary energy storage on-site with the EV charging infrastructure should experience
+a streamlined interconnection process.
+In some states, existing interconnection pathways may already be sufficient and could serve as
+a blueprint for streamlined processes that could be developed in other states. VGIC believes
+the development of a national V2G interconnection blueprint to be a high-priority task that
+could be conducted in conjunction with the development of the Clean School Bus Program.
+VGIC envisions a future where EVs move across utility service territories – and even states –
+with the ability to seamlessly charge and discharge energy. This is only possible if states follow
+a common framework, which the EPA and other federal agencies could help establish through
+facilitating the development of a simplified customer experience for interconnection.
+4. VGIC supports stretching the Clean School Bus Program funds to electrify as many
+school buses as possible. One promising solution towards this goal may be to allow and
+incentivize optional Automated Load Management (ALM) to install charging
+infrastructure at a lower total cost.
+Many low-income and disadvantaged communities are served by outdated utility infrastructure
+(substations, transformers) that may require significant and costly upgrades to be able to
+accommodate school bus charging load. The use of ALM can help mitigate these infrastructure
+upgrade costs by reducing the collective peak load at one site, therefore making charging
+infrastructure less costly. ALM is a VGI solution that is particularly well-suited for multi-
+charger sites such as school bus charging depots.
+More specifically, ALM is the use of behind-the-meter technologies that allow for strategic
+sharing of charging capacity across multiple charging ports at the same charging site to help
+safely connect multiple charging ports whose total nameplate load would otherwise exceed the
+rated capacity of the customer connection. This in turn can avoid or defer the need to upgrade
+certain distribution system infrastructure to accommodate the new EV charging load. For
+example, if a multi-charger site seeks to deploy a charging station with 5 ports, each with a 10-
+kW capacity, the distribution upgrades would normally be sized to accommodate 50 kW of
+incremental coincidental charging demand, equal to all 5 ports charging at full capacity.
+However, ALM can lower the coincident charging demand to 30 kW, or 6 kW per port on
+average, when all 5 ports are occupied, thus reducing distribution system upgrades to what is
+required for only 3 ports. In this scenario, when only 3 or fewer ports are occupied, the EVs
+can still charge at full speed. Having ALM available to customers as an option can lead to
+significant savings and ensure that investments in transportation electrification are used
+efficiently. Pacific Gas & Electric has worked with EV service providers to implement ALM
+solutions at 20 workplace and multi-unit dwelling host sites as of Q4 2020 and saved between
+$30,000 and $200,000 per project.1 Southern California Edison also worked with EDF
+Renewables PowerFlex to implement ALM to deploy 168 charging stations at $3,000 per port,
+significantly less than comparable deployments at $10,000-$15,000 per port without ALM.2
+1 Pacific Gas & Electric. 2021. Presentation at CPUC ALM/EV EMS Workshop, Panel 2.
+2 EPIC Policy + Innovation Coordination Group. 2021. Transportation Electrification Workstream Report.
+https://epicpartnership.org/resources/Transportation_Electrification_Workstream_Report_Final.pdf
+Page 5 of 5
+
+VGIC believes that ALM can stretch the Clean School Bus Program funds and ensure more
+chargers are installed in more places. We recommend the Clean School Bus Program promote
+the use of optional ALM to enable charger and electric school bus deployment at a site where
+doing so may otherwise be cost-prohibitive or space-prohibitive due to utility distribution
+system upgrades. Optional ALM solutions should be encouraged and incentivized when they
+are shown to be comparatively cost efficient versus traditional utility system upgrades. VGIC
+advises against mandating ALM requirements on charging infrastructure, as this may result in
+inequities by limiting charging capability for end-users. Instead, VGIC recommends ALM be
+allowed and incentivized (i.e. a “carrot” rather than “stick” approach) so that deploying ALM
+solutions becomes a viable option for those that wish to deploy. VGIC recommends that an
+optional, technology-neutral ALM incentive be included in the Clean School Bus Program.
+Conclusion
+VGIC appreciates the opportunity to submit this feedback on the Clean School Bus Program. We
+look forward to further collaboration with the US EPA and stakeholders on this important
+initiative.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+eburgess@vgicouncil.org
++1 (941) 266-0017
+www.vgicouncil.org
+Date: February 10, 2022
+Page 6 of 5

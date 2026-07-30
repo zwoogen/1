@@ -1,0 +1,185 @@
+May 15, 2023
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission Regarding Electric Vehicle
+Supply Equipment and Infrastructure
+Comments the Vehicle-Grid Integration Council (VGIC)
+on the Make-Ready Program Mid-Point Review Staff Whitepaper
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated to
+achieve a more reliable, affordable, and efficient electric grid. VGIC appreciates the opportunity
+to provide these comments on Staff’s Make-Ready Program Midpoint Review and
+Recommendations Whitepaper.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, bp pulse,
+Customized Energy Solutions, dcbel, Enel X North America, Inc., ENGIE NA, Enphase, Fermata Energy,
+FlexCharging, FLO EV Charging, Ford Motor Company, FreeWire Technologies, Inc., General Motors, GridWiz,
+Hoosier Energy, Innovation Core SEI, IoTecha, Kaluza, Kitu Systems, Ninedot Energy, Nissan Group of North
+America, Nuvve Holding Corporation, Peak Power, Sacramento Municipal Utility District, Stellantis N.V., Sunrun,
+The Mobility House, Toyota Motor North America, Inc., Utilidata, Veloce Energy, Inc., Wallbox USA Inc., and
+WeaveGrid. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of
+all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+VGIC Supports Staff’s VGI-Related Proposals
+Overall, the Staff Whitepaper provides constructive proposals for the utilities’ make-
+ready programs going forward and represents a significant step forward for transportation
+electrification in New York. VGIC is particularly encouraged by the inclusion of several VGI-
+related recommendations in line with VGIC’s prior comments:
+• Joint Utilities to update VDER tariffs to clearly define VGI as eligible for
+compensation. VGIC’s comments discussed the importance of compensation for
+vehicle-to-grid (V2G) exports. While some New York utilities have included V2G
+exports in their VDER tariffs as standalone energy storage, this inclusion has not been
+applied across all utilities in the state. Staff’s recommendation would ensure that V2G
+exports are compensated across all utility territories in New York, like other
+distributed energy resources (DERs).
+• Cost-reducing advanced technology to be eligible for make-ready incentives if the
+advanced technology provides grid and ratepayer benefits. As discussed in VGIC’s
+prior comments, the adoption of Automated Load Management (ALM) solutions,
+including those that integrate battery storage, will help avoid or defer the need to
+upgrade certain customer-side and utility-side make-ready infrastructure, resulting in
+savings for EV customers and ratepayers. VGIC strongly supports Staff’s proposal for
+these solutions to be eligible for make-ready incentives. Incentives through the make-
+ready program would complement the potential incremental incentives approved in
+the demand charge alternative proceeding in encouraging customer adoption in
+advanced technologies that provide grid and ratepayer benefits. VGIC is concerned,
+however, regarding the lack of clarity regarding the eligibility of cost-reducing
+advanced technologies. A full cost-effectiveness analysis for each project would be
+prohibitive and potentially lead to lengthy delays for project installations. VGIC
+recommends that the Joint Utilities implement a solution that does not require a case-
+by-case analysis to qualify these advanced technologies for make-ready incentives.
+• Technical Standards Working Group (TSWG) to identify and propose solutions to
+barriers of VGI, including interconnection. The interconnection process for vehicle-
+2
+
+to-everything (V2X) systems and related technical standards can be a complex issue
+that would benefit from further stakeholder input and discussion. However, VGIC
+believes that the VGI Working Group (VGI WG) would be the more appropriate
+venue for this endeavor while the TSWG focuses on the submetering accuracy testing
+process. VGIC looks forward to collaborating with Staff, the Joint Utilities, and other
+stakeholders to ensure that the V2X interconnection process is smooth and efficient.
+The VGI WG should also be reconvened to address a broader set of VGI issues,
+including economics, consumer education, and permitting. Additionally, while there
+has been significant advancement of VGI in New York since VGIC submitted our
+prior comments, such as the commercial managed charging programs in Docket 22-E-
+0236, there have not been substantial efforts to explore the resiliency benefits of VGI
+or to incorporate VGI into the utilities’ existing demand response programs.
+Therefore, VGIC recommends that the Commission direct the Joint Utilities to
+develop and propose pathways to scale these VGI benefits.
+Additionally, Staff requested stakeholder feedback on whether make-ready incentives
+should cover a higher capacity on the customer-side than on the utility-side to encourage power
+sharing. Power sharing is an important ALM solution and can help deploy additional chargers at
+the same site capacity, and Staff’s proposal would enhance the incentives for charging sites to
+adopt this technology, helping to limit infrastructure upgrade costs while expanding charging
+availability. However, power sharing is only one approach to ALM. Rather than focusing
+exclusively on power sharing, VGIC suggests the Commission adopt a more inclusive definition
+of ALM that encompasses the range of potential solutions that may be appropriate for different
+use cases, including power sharing as well as battery storage, rectifier cabinets, and other
+hardware- or software-based approaches.
+VGIC notes that the Staff Whitepaper appears to have made a minor error in the title of
+its VGI section that should be corrected for the sake of clarity and accuracy – rather than
+“vehicle-to-grid integration,” the Staff Whitepaper and subsequent Commission orders should
+reference “vehicle-grid integration strategies,” as vehicle-to-grid (V2G) is a discrete sub-topic to
+VGI more broadly.
+3
+
+The Commission Should Take Additional Steps to Encourage Bidirectional Charging
+While the Staff Whitepaper includes several valuable recommendations for VGI in
+general, as discussed above, there are still additional steps that the Commission should take to
+spur the nascent market for bidirectional charging in New York. Particularly, given the immense
+potential of vehicle-to-everything (V2X) solutions to support customer needs, bolster grid
+reliability, and lower system costs, VGIC believes it is reasonable to offer an incremental rebate
+to V2X customers to partially offset the incremental upfront costs of purchasing and installing
+V2X-capable EV supply equipment (EVSE) and associated infrastructure.
+On average, a unidirectional Level 2 charging system costs $1,300.2 In contrast,
+bidirectional Level 2 charging systems can cost around $5,000.3 Today, commercially available
+and certified V2X equipment is based on a direct current (DC) platform, which results in
+significant cost differences between a Level 2 charger (either unidirectional or bidirectional) and
+a bidirectional DC charger. While public information on the costs of bidirectional DCFC is
+limited, a 30% cost premium for bidirectional capabilities is a reasonable estimate based on
+VGIC’s discussions with industry participants. VGIC recommends that the Commission adopt
+incremental incentives for V2X equipment based on these figures. At a minimum, the
+Commission should task the VGI WG with assessing the necessary incentives to encourage cost-
+effective investments in bidirectional charging. However, a more thorough assessment of
+incentives for V2X-capable EVSE by the VGI WG should not significantly delay progress on
+this issue. VGIC recommends that the Commission convene the VGI WG by Q4 2023 and be
+tasked with a deadline in Q2 2024 to develop appropriate incremental incentives. Such incentives
+for bidirectional charging should be technology-neutral, meaning that all bidirectional charging
+technologies, EVSE connector types, and communication protocols should qualify.
+In addition, while V2X solutions have clear benefits to both customers and the grid, the
+technology is still new and unfamiliar to most customers. To increase customer awareness and
+2 Sebastian Blanco. J.D. Power. What Does an EV Home Charger Cost? August 16, 2022.
+https://www.jdpower.com/cars/shopping-guides/what-does-an-ev-home-charger-cost
+3 See, for example: Fred Lambert. Electrek. Ford F-150 Lightning Electric Pickup needs a $3,900 home device to use
+it as backup power. May 2, 2022. https://electrek.co/2022/05/02/ford-f-150-lightning-electric-pickup-needs-
+a4000-home-device-use-backup-power/; dcbel (2022). r16. https://www.dcbel.energy/r16/
+4
+
+understanding, VGIC recommends that the VGI Working Group also determine the current level
+of customer understanding and recommend a comprehensive set of marketing, education, and
+outreach (ME&O) and technical assistance activities related to V2X. These activities should
+include educating customers on the benefits of V2X use cases, capable vehicles and chargers,
+interconnection pathways, applicable rates and programs, and other technical considerations.
+Lastly, it is VGIC’s understanding that the Joint Utilities began requiring interconnecting
+DERs to be certified to UL 1741 SB on January 1, 2023. Since there is limited availability of
+V2G-capable DC EVSE currently on the market, this requirement effectively freezes the
+deployment of V2G-capable DC EVSE until SB-certified DC EVSE are more widely available.
+The new V2G Equipment List recently launched by the California Energy Commission serves as
+a common public database of UL-certified V2G-capable DC EVSE, and currently lists three
+chargers, none of which are certified to UL 1741 SB.4 In order to ensure V2G DC EVSE
+continues to be deployed in the near term, VGIC recommends that the Commission consider a
+temporary exemption for V2G DC EVSE from the UL 1741 SB requirement. This would provide
+critical support to V2G DC EVSE deployment efforts in New York and would align well with
+recent developments in other leading V2G efforts. For example, in recognition that availability
+of UL 1741 SB-certified inverters is extremely limited, the California Public Utilities
+Commission (CPUC) recently pushed back the implementation of UL 1741 SB to August 29,
+2023. When approving the Emergency Load Reduction Program in 2021, the CPUC also
+exempted V2G DC EVSE from UL 1741 SA, SB, or any other smart inverter requirements if the
+EVSE is participating in the program,5 paving the way for the deployment of commercial V2G
+projects that supported the grid during California’s summer 2022 heat wave.6
+4 California Energy Commission. V2G Equipment List. https://v2gel.energy.ca.gov/Home/ProcessView
+5 California Public Utilities Commission. Decision 21-12-015, Attachment 1, pg. 6. Rulemaking 20-11-003. 2021.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821668.PDF
+6 Nuvve Holding Corp. “SDG&E and Cajon Valley Union School District Flip the Switch on Region’s First Vehicle-to-
+Grid Project Featuring Local Electric School Buses Capable of Sending Power to the Grid.” 2022.
+https://nuvve.com/sdge-and-cajon-valley-union-school-district-flip-the-switch-on-regions-first-vehicle-to-grid-
+project-featuring-local-electric-school-busescapable-of-sending-power-to-the-grid/
+5
+
+VGIC Supports the Proposed Changes to the Medium- and Heavy-Duty Make-Ready Pilot
+In response to VGIC and other stakeholders’ comments, the Staff Whitepaper also
+proposed several positive changes to the Medium- and Heavy-Duty (MHD) Make-Ready Pilot.
+Particularly, VGIC supports Staff’s proposal to increase the overall budget of the pilot as well as
+extend the incentives to apply to both utility-side and customer-side make-ready infrastructure.
+However, VGIC is concerned that the funding may be depleted before the full MHD Make-
+Ready Program being contemplated in Docket 23-E-0070 is available. VGIC encourages the
+Commission and Staff to consider limiting eligibility to segments with the greatest need and
+public benefit, such as school buses and municipal fleets. These changes will help kickstart the
+electrification of MHD vehicles in New York in the near term while a more extensive make-
+ready program and other supportive offerings are explored in the newly opened Docket 23-E-
+0070.
+In addition to Staff’s proposals, VGIC also recommends that ALM technologies,
+including those that incorporate battery storage, be eligible for make-ready incentives under the
+MHD Make-Ready Pilot, consistent with Staff’s recommendation for the Light-Duty Make-
+Ready Program. ALM technologies can benefit not only fleets but the grid as a whole and should
+not be ignored under the Pilot.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Commission, the Joint Utilities, and other stakeholders to ensure the success of
+New York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+6
+
+Vehicle-Grid Integration Council
+vgicregulatory@vgicouncil.org
++1 (941) 266-0017
+www.vgicouncil.org
+7

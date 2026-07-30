@@ -1,0 +1,108 @@
+December 9, 2022
+Commissioner Charles P. Rettig
+Internal Revenue Services
+1111 Constitution Ave., NW
+Washington, DC 20224
+RE: Vehicle Grid Integration Council’s Comments on Request for Information (RFI) to
+Implement Section 30C (Notice 2022-56)
+Introduction
+The Vehicle-Grid Integration Council (“VGIC”)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid
+integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring the value
+from flexible charging and discharging is recognized in support of a more reliable, affordable,
+and efficient electric grid. Scaling VGI will help accomplish the following public policy goals:
+ Benefit drivers by reducing the cost of ownership.
+ Decarbonize the transportation sector by accelerating EV adoption.
+ Support decarbonization of the power sector by providing essential grid flexibility
+services as renewable energy penetration increases.
+ Increase affordability by reducing electricity bills for all customers.
+ Improve grid resiliency and security during extreme weather events.
+ Foster economic activity through innovation, competition, and market transformation.
+With federal support, including key provisions of the Inflation Reduction Act, this vision
+could become a reality, and drivers across the United States can simultaneously accelerate
+transportation electrification and grid decarbonization. Our vision for VGI encompasses the
+following key elements:
+ Ensure customer mobility needs are satisfied. Drivers can participate in various VGI
+services nationwide without compromising their mobility needs.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Customized Energy Solutions,
+dcbel, Enel X North America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor
+Company, FreeWire Technologies, Inc., General Motors Company, IoTecha, Kaluza, Kitu Systems, Nissan Group
+of North America, Nuvve Holding Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun,
+Switch EV Ltd, The Mobility House, Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc.,
+and WeaveGrid. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the
+views of all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+Page 1 of 3
+
+ Managed charging will benefit EV drivers: Drivers in every state will be given a
+choice to align charging with the times of day when electricity prices are low, reducing
+operating costs by 50% compared to unmanaged charging. Lowering the total cost of
+ownership will help to accelerate overall EV adoption.
+ EVs provide emissions-free emergency power during blackouts: During extreme
+weather blackouts or other power outages, EVs can utilize two-way charging and
+discharging capabilities to send energy to a building or home (i.e., vehicle-to-building
+or “V2B”), serving as a generator and providing safe and emissions-free backup power.
+ Electricity infrastructure costs become more affordable: Smarter management of
+EV charging will help minimize investments in utility infrastructure to support
+economy-wide electrification, which reduces the overall cost burden on all electricity
+customers.
+ EVs provide necessary services to the grid and get paid for it: Unidirectional
+managed charging (“V1G”) and bidirectional charging (i.e., vehicle-to-grid or “V2G”)
+will enable EVs to receive and feed power back to the grid, supporting advanced grid
+services such as demand response, peak shaving, and more. Providing these services
+can unlock new revenue streams for EVs, lowering the total cost of ownership. Grid
+flexibility services will become increasingly valuable as more renewable energy is
+added to the grid.
+In recognition of the importance of vehicle-to-grid technology, “bidirectional” charging systems
+were explicitly referenced as being qualified as alternative fuel vehicle refueling property in
+Section 13404 of the Inflation Reduction Act (“IRA”) of 2022.2 The law states that bidirectional
+charging equipment “…allows discharging electricity to an electric load external to such motor
+vehicle.”
+Eligible Costs and Definition of “Single Item” as it Applies to Bidirectional Charging
+Equipment
+The RFI seeks more information on bidirectional charging equipment eligibility for
+Section 30C (Alternative Fuel Refueling Property Credit) and asks, “How should “single item”
+be defined?” VGIC recommends that the full range of costs related to purchasing and installing a
+single bidirectional charge port be deemed eligible. These costs include, but are not limited to:
+ System design and engineering costs
+ Charger dispensers and cables, wall boxes, power cabinets, and utility meters
+ Associated hardware and software, including inverters, transfer switches, energy
+management systems, conduit, pedestals, pads and mounting equipment, safety
+equipment
+2 See SEC 13404. ALTERNATIVE FUEL REFUELING PROPERTY CREDIT. Subsections (2) and (3).
+Page 2 of 3
+
+ Any improvement to, or replacement of, a panelboard, sub-panelboard, branch circuits, or
+feeders that is installed in conjunction with or enables the use of bidirectional charging
+equipment
+ Customer payments toward utility-side infrastructure upgrades
+ Labor, permitting and inspection, and utility interconnection fees
+VGIC believes the Treasury and the IRS should consider these costs eligible for the credit to
+advance the bidirectional charging market as envisioned by the IRA. Several of the above-listed
+items are not necessary for unidirectional charging configurations but are critical to unlocking
+value from bidirectional charger deployment. For example, a bidirectional inverter is needed to
+discharge power from the vehicle. Additionally, a transfer switch is required to provide backup
+power from an EV to a home or business’s electrical panel.
+Regarding the “single item” definition, VGIC recommends that each independently
+operating charge port be considered a “single item,” such that charge ports with a shared wall
+box or power cabinet capable of simultaneous operation are counted as separate units. Costs
+shared by multiple charging ports should be allocated proportionally to each single charging port
+supported by the shared infrastructure and equipment.
+Further, as bidirectional chargers are deployed in a variety of use cases, VGIC
+recommends that Treasury confirms that bidirectional chargers and the associated costs listed
+above are eligible under both the individual (residential) tax credit and the commercial property
+tax credit.
+Treatment of Charging Equipment Paired or Integrated with Stationary Energy Storage
+VGIC believes the IRS should apply appropriate definitions for stationary energy storage
+integrated or co-located with EVSE. Specifically, VGIC recommends that these systems be
+eligible for the Section 48 credit designed to advance stationary energy storage.
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with stakeholders to ensure the success of IRS Section 30C.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Page 3 of 3
+
+Vehicle Grid Integration Council (VGIC)
+Page 4 of 3

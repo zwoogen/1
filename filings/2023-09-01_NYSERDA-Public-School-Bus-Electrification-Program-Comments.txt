@@ -1,0 +1,189 @@
+September 1, 2023
+Vincent Riscica
+NYSERDA
+1359 Broadway
+New York, NY 10018
+Comments of the Vehicle-Grid Integration Council (VGIC)
+on the Eligibility Guidelines for the Public School Bus Electrification Program
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based
+advocacy group committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid
+integration (“VGI”) through policy development, education, outreach, and research. VGIC
+supports the transition to decarbonized transportation and electric sectors by ensuring the value
+from EV deployments and flexible EV charging and discharging is recognized and compensated
+in support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates
+the opportunity to provide comments on NYSERDA’s draft eligibility guidelines for the Public
+School Bus Electrification Program.
+The Public School Bus Electrification Program will directly support deployment of electric
+school buses which, if enabled, will have untapped potential as crucial, flexible resources to
+support the evolving electricity grid. Managed charging and vehicle-to-grid (“V2G”) technology
+provides opportunities for fleets to capture additional benefits, from reduced charging costs and
+integration with on-site generation and storage, to backup power and payment for exports. By
+unlocking these key benefits, the Public School Bus Electrification Program can have a much
+larger impact in accelerating the widespread adoption of electric school buses. Scaling VGI will
+help accomplish the following public policy goals:
+• Benefit school districts by reducing the cost of ownership.
+• Decarbonize the transportation sector by accelerating EV adoption.
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner, bp pulse,
+Customized Energy Solutions, dcbel, Enel X North America, Inc., EnergyHub, Enphase, Fermata Energy,
+FlexCharging, FLO EV Charging, Ford Motor Company, FreeWire Technologies, Inc., General Motors, GridWiz,
+Hoosier Energy, Innovation Core SEI, IoTecha, Kaluza, Kitu Systems, Ninedot Energy, Nissan Group of North
+America, Nuvve Holding Corporation, Peak Power, Qcells, Sacramento Municipal Utility District, Stellantis N.V.,
+Sunrun, The Mobility House, Toyota Motor North America, Inc., Utilidata, Veloce Energy, Inc., Wallbox USA Inc.,
+and WeaveGrid. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the
+views of all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+
+• Support decarbonization of the power sector by providing essential grid services
+as renewable energy and distributed energy resource penetration increases.
+• Increase affordability by reducing electricity bills for all customers.
+• Improve grid resiliency and security during extreme weather events.
+• Foster economic activity through innovation, competition, and market
+transformation.
+With thoughtful program design, we believe this vision could become a reality and that
+school districts and other entities in New York State can take part in the acceleration of both
+transportation electrification and grid decarbonization. Our vision for VGI encompasses the
+following key elements:
+• Ensure mobility needs are satisfied. School bus fleets will be able to participate
+in a wide variety of VGI services without compromising their mobility function.
+• Managed charging will provide benefits to school bus fleets: School bus fleets
+will be given the choice to align charging with the times of day when electricity
+prices are low, reducing operating costs by as much as 50% compared to
+unmanaged charging. Lowering the total cost of ownership will help to accelerate
+overall electric school bus adoption.
+• EVs provide emissions-free emergency power during blackouts: During
+extreme weather blackouts or other power outages, electric school buses can utilize
+two-way charging and discharging capabilities to send energy to a building or
+microgrid, serving as a generator to support essential services and provide safe
+backup power for communities.
+• Charging infrastructure dollars go further: Smarter management of EV
+charging will help manage the cost of deploying EV charging infrastructure,
+encouraging wider access to EV charging with equal or lower overall cost burden.
+• Electric school buses provide necessary services to the grid and get paid for it:
+V1G (unidirectional charging) and V2G (bidirectional charging) will enable
+electric school buses to both receive and feed power back to the grid, supporting
+advanced grid services such as frequency control, demand response, peak shaving,
+and more. For customers and end-users such as school districts and their fleet
+managers, V1G and V2G services (load management, demand charge management,
+and participation in distribution utility demand response programs) also provide
+significant benefits in the form of operational savings. Providing these services can
+unlock new revenue streams for electric school buses, lowering the total cost of
+ownership and accelerating progress towards New York’s climate goals.
+VGI is a unique opportunity for NYSERDA to establish and advance New York’s
+leadership in affordable, decarbonized, reliable, and resilient transportation and electricity. VGIC
+
+provides the following recommendations for the Public School Bus Electrification Program and
+would be happy to further discuss any part of these recommendations in a follow-up meeting.
+A Higher Level of Funding Should be Made Available for V2G-Capable School Buses and
+Chargers
+Bidirectional charging use cases can leverage EVs’ latent battery capacity to provide
+backup power, manage electric bills, and support the grid through V2G exports. Revenues from
+V2G exports can offset the relatively higher upfront costs of electric school buses and associated
+charging infrastructure and improving the financial viability of electrification projects. Electric
+school buses are the premier use case for V2G today: bidirectional vehicles and EVSE are
+commercially available for the electric school bus sector,2 and V2G exports are eligible for
+compensation under the VDER tariff in New York.
+V2G stands to offer substantial public benefits as electric school bus deployment scales up.
+However, for these benefits to be fully realized, it is critical that VGI capabilities be considered
+and built into infrastructure investments as they are deployed, rather than after-the-fact.
+Bidirectional electric school buses and chargers can support grid reliability and community
+resiliency in the face of aging grid infrastructure and increasingly frequent extreme weather events.
+The incremental costs of deploying and enabling bidirectionality can thus create a significant
+public benefit that should be partially or fully offset under the Public School Bus Electrification
+Program, similar to how the U.S. Environmental Protection Agency (EPA) included V2G enabled
+equipment under its Clean School Bus Program.3
+2 See, for example: Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial
+Application of Vehicle-to-Grid Technology in Electric School Bus Partnership with Nuvve and Illinois
+School Districts. March 23, 2021. https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-
+school-districts/; Thomas Built Buses / Daimler Trucks North America LLC (2021). The Safe-T-Liner
+C2 Jouley Electric School Bus. https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley; Lion
+Electric. Lion Electric Announces Successful Electric School Bus Vehicle-to-Grid Deployment with Con
+Edison in New York. December 14,
+2020. https://thelionelectric.com/img/medias/LION_Press_Release_White%20Plains%20EN%20FINAL.
+pdf; NuvveCorporation (2020). Nuvve DC Heavy Duty Charging Station Specifications
+Sheet. https://nuvve.com/wpcontent/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf; Fermata
+Energy. Proven Results and Cost Savings with V2G Technology. October 14,
+2020. https://www.fermataenergy.com/news-press/proven-results-andcost-savings-with-v2g-technology;
+BorgWarner. V2G Charging, Control, and Management 60- 500kW:
+Bidirectional. https://www.borgwarner.com/technologies/chargers#bidirectional-v2g-charger;
+BorgWarner: Pioneering Commercial Vehicle-To-Grid in Electric School Buses.
+https://cdn.borgwarner.com/docs/default-source/san-diego-documents/bw-00369-case-study-highland-
+electric-fleets.pdf?sfvrsn=2efbcc3d_12.
+3 U.S. Environmental Protection Agency. 2023 Clean School Bus Grant Program Notice of Funding Opportunity,
+pg. 18. https://www.epa.gov/system/files/documents/2023-04/2023-csb-grant-nofo-4-20-23.pdf
+
+NYSERDA Should Incentivize Automated Load Management to Install Charging
+Infrastructure at a Lower Total Cost
+Many communities, especially low-income and disadvantaged communities, are served by
+outdated utility infrastructure (e.g., substations, transformers) that may require significant and
+costly upgrades to be able to accommodate school bus charging load. The use of Automated Load
+Management (“ALM”) approaches can help mitigate these infrastructure upgrade costs by
+reducing the collective peak load at one site, therefore making charging infrastructure less costly.
+ALM is a VGI solution that is particularly well-suited for multi-charger sites such as school bus
+charging depots.
+More specifically, ALM is the use of behind-the-meter software (e.g., power sharing) or
+hardware (e.g., integrated or co-located energy storage) approaches to limit EV charging demand
+at the service connection to a predetermined level below the aggregated nameplate charging
+capacity of the EV chargers. For example, a charging site with five 150 kW DCFCs can use ALM
+to limit its peak demand to 600 kW, compared to a peak demand of 750 kW without ALM. This
+in turn can mitigate the need to upgrade certain distribution system infrastructure to accommodate
+the new EV charging load. The reduced need for infrastructure upgrades can generate savings for
+the customer installing EVSE and ratepayers at large and can accelerate the energization timeline
+for that site due to the lower overall engineering and construction needs. The potential cost and
+time savings from ALM can be considerable given the significant infrastructure needs of electric
+school buses. Additionally, ALM can be used to overcome physical space constraints in locations
+where it is difficult to upgrade electrical equipment, also helping to accelerate installation and
+energization timelines. As examples of potential cost savings, Pacific Gas & Electric has worked
+with EV service providers to implement ALM solutions at 20 workplace and multi-unit dwelling
+host sites as of Q4 2020 and saved between $30,000 and $200,000 per project.4 Southern California
+Edison also implemented ALM to deploy 168 charging stations at $3,000 per port, significantly
+less than comparable deployments at $10,000-$15,000 per port without ALM.5
+ALM can stretch the Public School Bus Electrification Program funds and ensure more
+chargers are installed in more places. We recommend the Public School Bus Electrification
+Program promote the use of ALM to enable charger and electric school bus deployment at a site
+where doing so may otherwise be cost-prohibitive or space-prohibitive due to utility distribution
+system upgrades. Optional ALM solutions should be encouraged and incentivized when they are
+shown to be comparatively cost efficient versus traditional utility system upgrades. VGIC advises
+against mandating ALM requirements on charging infrastructure, as this may result in inequities
+by limiting charging capability for end-users. Instead, ALM should be allowed and incentivized
+4 Pacific Gas & Electric. 2021. Presentation at CPUC ALM/EV EMS Workshop, Panel 2.
+5 EPIC Policy + Innovation Coordination Group. 2021. Transportation Electrification Workstream
+Report. https://epicpartnership.org/resources/Transportation_Electrification_Workstream_Report_Final.pdf
+
+so that deploying ALM solutions becomes a viable option for those that wish to do so. The EPA’s
+Clean School Bus Program recognized the benefits of ALM technologies by including “charge
+management software” and “battery energy storage systems” as eligible charging infrastructure
+equipment.6 VGIC recommends that charging infrastructure incentives under the Public School
+Bus Electrification Program similarly cover the costs of ALM technologies.
+Fleet Education Activities, Including Fleet Electrification Plans, Should Account for VGI
+Functionalities
+The deployment of electrified transportation across the US represents a paradigm shift, and
+moving common thinking from “mpg” to “kWh” requires considerable outreach and education.
+For many school bus fleets, converting to electrified school buses is a significant undertaking that
+lies outside of their existing expertise. Given the potential complexity of VGI, more policy support
+is needed to direct funding toward educating school bus fleets not only of the benefits of
+electrification in general, but the enhanced value proposition that VGI technologies can offer.
+These value propositions include new potential revenue streams from grid services, reduced
+charging infrastructure costs, reduced charging energy costs, new bill management options, and
+enhanced resilience of critical facilities. The Public School Bus Electrification Program should
+guide applicants to partner with original equipment manufacturers (“OEMs”) and EV service
+providers to ensure customer education expertise of these stakeholders are adequately leveraged.
+VGIC also suggests that fleet electrification plans funded by the Public School Bus
+Electrification Program account for savings and revenues, such as those generated from VGI,
+rather than focusing only on capital expenses. This will help to level the playing field for electric
+buses that have a higher capital cost but lower total cost of ownership. This practice will also more
+accurately reflect the financial viability of VGI-enabled buses and chargers, helping school
+districts and fleet operators make more informed decisions for their electrification projects.
+Conclusion
+VGIC appreciates the opportunity to provide these comments on the Public School Bus
+Electrification Program. We look forward to further collaboration with NYSERDA and
+stakeholders on this important initiative.
+Respectfully submitted,
+Ed Burgess
+6 U.S. Environmental Protection Agency. 2023 Clean School Bus Grant Program Notice of Funding Opportunity,
+pg. 18. https://www.epa.gov/system/files/documents/2023-04/2023-csb-grant-nofo-4-20-23.pdf
+
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org

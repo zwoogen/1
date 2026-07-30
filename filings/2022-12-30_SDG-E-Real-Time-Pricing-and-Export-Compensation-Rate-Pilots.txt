@@ -1,0 +1,852 @@
+Docket No.: A.21-12-006 / A.21-12-008
+Exhibit No.:
+Date: December 30, 2022
+Witness: Ed Burgess
+OPENING TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+
+Table of Contents
+Contents
+I. INTRODUCTION .................................................................................................................................................. 1
+II. BACKGROUND ON CURRENT AND NEAR FUTURE POTENTIAL FOR ELECTRIC VEHICLES TO
+SUPPORT THE GRID THROUGH LOAD MANAGEMENT AND VEHICLE-TO-GRID EXPORTS. ................... 4
+III. VGIC IS GENERALLY SUPPORTIVE OF THE PROPOSED DYNAMIC PRICING PILOTS BUT
+BELIEVES THEY COULD BE IMPROVED UPON. ................................................................................................ 12
+IV. SDG&E’S PROPOSAL FOR RTP PILOT – ANALYSIS AND RECOMMENDATIONS. .......................... 15
+A. Overview of SDG&E’s proposal ...................................................................................................................... 15
+B. Eligibility for SDG&E’s proposed Stage 1 RTP Pilot 1 should be expanded to include residential customers
+beyond those on the existing EV-TOU-5 rate. ......................................................................................................... 16
+C. Eligibility for SDG&E’s proposed Stage 1 RTP Pilot 1 should be expanded to include commercial EV
+customers enrolled in the EV-HP rate. ..................................................................................................................... 19
+V. SDG&E’S PROPOSAL FOR EXPORT COMPENSATION PILOT – ANALYSIS AND
+RECOMMENDATIONS ............................................................................................................................................. 21
+A. Overview of SDG&E’s proposal ...................................................................................................................... 21
+B. Eligibility for SDG&E’s proposed Export Compensation Pilot Stage 1 should be expanded to allow
+participation from residential EV customers. This is would be consistent with the Energy Division’s June 15
+Recommendations. ................................................................................................................................................... 22
+C. SDG&E should include an upfront incentive to support pilot participation and early-stage development of the
+V2X market .............................................................................................................................................................. 23
+D. SDG&E’s dynamic pricing pilots should consider dynamic transmission and distribution values in both
+import rates and export compensation, consistent with recent Commission decisions. ........................................... 28
+VI. CONCLUSION. ............................................................................................................................................... 29
+Appendix A: ................................................................................................................................................................... 1
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Ed Burgess. I am a Senior Director at Strategen Consulting and the Senior
+4 Policy Director for the Vehicle-Grid Integration Council (“VGIC”). My business address
+5 is 10265 Rockingham Drive, Suite #100-4061, Sacramento, California 95827.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of the Vehicle Grid-Integration Council.
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to a
+12 decarbonized transportation and electric sector by ensuring the value from EV
+13 deployments and flexible EV charging and discharging to customers and the grid is
+14 recognized and compensated to achieve a more reliable, affordable, and efficient electric
+15 grid.
+16 Q. Who are VGIC’s current members?
+17 A. VGIC’s members represent a broad range of transportation electrification industry leaders
+18 including American Honda Motor Co., Inc., Enel X North America, Inc., Ford Motor
+19 Company, General Motors, Nissan Group of North America, Nuvve Holding
+20 Corporation, Stellantis N.V., Toyota Motor North America, Customized Energy
+21 Solutions, dcbel, ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging,
+1
+
+1 FreeWire Technologies, Inc., IoTecha, Kaluza, Kitu Systems, Sunrun, Switch EV Ltd.,
+2 The Mobility House, Veloce Energy, Inc., Wallbox USA Inc., WeaveGrid, and
+3 Sacramento Municipal Utility District.1
+4 Q. Please summarize your professional background and qualifications.
+5 A. I am a leader within Strategen’s consulting practice where one of my primary
+6 responsibilities is managing the VGIC, which is one of Strategen’s primary clients. In
+7 addition to VGIC, I oversee much of the firm’s practice for governmental clients, non-
+8 governmental organizations, and trade associations. Strategen’s team is globally
+9 recognized for its expertise in the electric power sector on issues relating to resource
+10 planning, renewable energy, energy storage, electric vehicles, utility rate design and
+11 program design, and utility business models and strategy. During my time at Strategen, I
+12 have managed or supported projects for numerous client engagements related to these
+13 issues. Before joining Strategen in 2015, I worked as an independent consultant in
+14 Arizona for several years and regularly appeared before the Arizona Corporation
+15 Commission. I also worked for Arizona State University where I helped launch their
+16 Utility of the Future initiative as well as the Energy Policy Innovation Council. I have a
+17 Professional Science Master’s degree in Solar Energy Engineering and
+18 Commercialization from Arizona State University as well as a Master of Science in
+19 Sustainability, also from Arizona State. I also have a Bachelor of Arts degree in
+20 Chemistry from Princeton University.
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+2
+
+1 Q. Have you ever testified before the California Public Utilities Commission, or any
+2 other state regulatory body?
+3 A. Yes. I testified before the California Public Utilities Commission in Application (“A.”)
+4 19-08-002 and A.20-08-002 both of which pertain to PacifiCorp’s 2020 and 2021 Energy
+5 Cost Adjustment Clause, as well as Rulemaking (“R.”) 20-11-003 on Emergency
+6 Reliability, A.21-10-010 related to Pacific Gas and Electric Company’s (“PG&E”)
+7 Electric Vehicle Charge 2 proposal, and A.20-10-011 related to PG&E’s Commercial EV
+8 Rate. I have also provided expert testimony before the Massachusetts Department of
+9 Public Utilities, the South Carolina Public Service Commission, the Indiana Utility
+10 Regulatory Commission, the Nevada Public Utilities Commission, the Oregon Public
+11 Utilities Commission, and the Washington Utilities and Transportation Commission.
+12 Q. What is the purpose of your testimony?
+13 A. The purpose of my testimony is to respond to San Diego Gas & Electric Company’s
+14 (“SDG&E”) proposal for Dynamic Pricing Pilots, including a two-stage Real-Time
+15 Pricing (“RTP”) Pilot and a two-stage Export Compensation Pilot, as filed in
+16 consolidated proceedings A.21-12-006 and A.21-12-008. Specifically, I will analyze
+17 SDG&E’s proposed Dynamic Pricing Pilots in the context of supporting the goals
+18 outlined in A.21-12-006 et al. and address certain deficiencies in SDG&E’s proposal in
+19 complying with Decision (“D.”) 20-12-023 and Energy Division (“ED”) staff
+20 recommendations issued on June 15, 2022. In doing so, I propose alternative eligibility
+21 criteria for participating in the Dynamic Pricing Pilots and offer additional
+22 recommendations for enhancing the proposed pilot designs.
+3
+
+1 II. BACKGROUND ON CURRENT AND NEAR FUTURE POTENTIAL FOR
+2 ELECTRIC VEHICLES TO SUPPORT THE GRID THROUGH LOAD
+3 MANAGEMENT AND VEHICLE-TO-GRID EXPORTS.
+4 Q. SDG&E states that offering export compensation to EV customers “has the
+5 potential to increase grid reliability by sending appropriate price signals that
+6 incentivize grid exports during periods of peak demand.”2 Does VGIC agree?
+7 A. Yes. VGIC agrees that implementing export compensation for EV customers represents a
+8 significant opportunity to advance the VGI industry and deliver much-needed grid
+9 reliability benefits. There is no doubt that EVs on the road today, plus those that will be
+10 deployed through 2024, have the technical capability to meaningfully increase grid
+11 reliability through unidirectional managed charging (“V1G”), vehicle-to-building
+12 discharging (“V2B”), and vehicle-to-grid exporting (“V2G”) activities. EVs can provide
+13 net peak load reductions by exporting to the grid using V2G capabilities as well as
+14 through non-exporting V1G and V2B activities. However, market incentives to
+15 encourage this grid supporting behavior have been slow to develop relative to the
+16 technical capabilities of today’s EVs, chargers, and smart controls.
+17 Q. Is VGIC confident that EVs can contribute meaningfully to grid reliability?
+18 A. Yes. VGIC is confident that meaningful EV contributions can become a reality during the
+19 2024-2028 timeframe being considered in SDG&E’s proposal. If the proposed Dynamic
+20 Pricing Pilots are adopted (with the recommended modifications and enhancements
+21 described in my testimony), no fundamental technical barriers will prevent EVs from
+2 SDG&E. Prepared Supplemental Direct Testimony of Kristie C. Raagas (Chapter 2) on Behalf of SDG&E. August 15,
+2022. Page KCR-3.
+4
+
+1 contributing to grid reliability. EVs have already been used to provide emergency power
+2 to the grid during extreme heat events in California. For example, VGIC member Nuvve
+3 Holding Corporation (“Nuvve”) enrolled several electric school buses (“ESB”) in
+4 SDG&E’s Emergency Load Reduction Program (“ELRP”), which successfully exported
+5 power from the ESBs to the grid during the summer 2022 extreme heat events, thereby
+6 helping to avoid a major power outage. 3 However, unlike power plants with a singular
+7 function, the primary role of EVs is to support customers’ transportation needs, not grid
+8 reliability needs. To be successful, Dynamic Pricing Pilots must be designed to put the
+9 customers’ perspective first and foremost. That said, VGIC believes that both customer
+10 transportation needs, and grid reliability needs, can by served by taking advantage of the
+11 approximately 90% hours of the day when vehicles typically are parked and sitting idle.
+12 Additionally, since this is a novel type of grid resource, any incremental participation
+13 (even if small initially) will be beneficial and is worth pursuing as part of a
+14 comprehensive approach to supporting the grid. The immense potential that VGI offers as
+15 a grid resource is undeniable, as Governor Newsom said at a September 16, 2022, press
+16 event for the signing of several important pieces of climate legislation: “The vehicle-to-
+17 grid capacity is a game changer. You’ll be writing a lot more and talking a lot more about
+3 See Nuvve Holding Corp. SDG&E and Cajon Valley Union School District Flip the Switch on Region’s First Vehicle-
+to-Grid Project Featuring Local Electric School Buses Capable of Sending Power to the Grid. July 26, 2022.
+https://nuvve.com/sdge-and-cajon-valley-union-school-district-flip-the-switch-on-regions-first-vehicle-to-grid-
+project-featuring-local-electric-school-busescapable-of-sending-power-to-the-grid/ ; and Nuvve Holding Corp. San
+Diego County’s Ramona Unified School District, Blue Bird and Nuvve Unveil 8 New V2G-Enabled and Qualified
+Electric School Buses. October 11, 2022. https://nuvve.com/ramona-unified-school-district-blue-bird-nuvve-unveil-
+new-v2g-electric-school-buses/
+5
+
+1 this – the opportunity for vehicles to be battery storage and then export their off-peak
+2 charge back onto the grid during the peak to absorb more load. This is the future.”4
+3 Q. Is there a significant amount of EV/EV supply equipment (“EVSE”) deployed in
+4 SDG&E service territory today that can respond to dynamic price signals using
+5 V1G technologies?
+6 A. Yes. Aggregators of EVs and EVSE in California have already demonstrated their ability
+7 to modify charging schedules, including through SDG&E’s long-standing VGI Rate
+8 implemented as part of Power Your Drive beginning in 2017.5 Networked EVSE have the
+9 technical capability to manage charging in response to dynamic pricing. Similarly, many
+10 EVs – particularly those deployed in recent years – already have built-in telematics
+11 capabilities that automotive original equipment manufacturers (“auto OEMs”) or third-
+12 party aggregators can leverage to adjust charging schedules if properly incentivized. This
+13 is being done today in California, including in Pacific Gas & Electric’s evPulse program.6
+14 At the end of 2021 there were approximately 828,000 EVs registered in California,7 and
+15 another 250,000 have been sold through Q3 of 2022.8 If California EV sales continue at a
+16 similar pace through Q4 2024, there will likely be over 1.5 million EVs in California
+17 before SDG&E’s proposed Q4 2024 pilot launch date. San Diego County is home to
+4 "Governor Newsom Signs World-Leading Climate Action Legislation.” YouTube, uploaded by California Governor
+Gavin Newson, September 16, 2022, https://youtu.be/aG_WDEWnnd0. At 47:30.
+5 SDG&E. Power Your Drive Research Report. April 2021.
+https://www.sdge.com/sites/default/files/regulatory/SDG%26E%20FINAL%20Power%20Your%20Drive%20Researc
+h%20Report%20April%202021.pdf. Page 4.
+6 evPulse (2022). https://join.pge.ev-pulse.com/. Retrieved December 22, 2022.
+7 California Energy Commission (2022). California Energy Commission Zero Emission Vehicle and Infrastructure
+Statistics. Data last updated April 29, 2022. Retrieved December 22, 2022 from https://www.energy.ca.gov/zevstats
+8 Veloz (2022). 2011-2022 Annual EV Sales in California. October 2022 Data Update. https://www.veloz.org/wp-
+content/uploads/2022/10/Q3-2022_Annual-EV-Sales-in-California_Final.png
+6
+
+1 70,000 EVs, representing 8.5% of California’s EVs.9 If this 8.5% share remains
+2 consistent as new vehicles are added, SDG&E can expect over 127,000 EVs located
+3 within its service territory by Q4 2024. Assuming an average charging load of 5 kW per
+4 vehicle,10 this represents a total technical potential of 635 MW in flexible load that could
+5 theoretically be managed to provide reliability benefits via V1G. The practical potential
+6 is only a small fraction of this since not all those vehicles will be charging at a given
+7 time, and not all EV owners will choose to participate in V1G activities. However, VGIC
+8 estimates that even under a more limited participation rate of 5%, approximately 32 MW
+9 of net peak load reduction from V1G might be achievable as early as Q4 2024.
+10 Q. Is there a significant amount of EV/EVSE equipment deployed today that can
+11 already provide V2B or V2G capabilities?
+12 A. Yes, although it is less widespread than V1G capabilities, a meaningful portion of EVs
+13 deployed today have bidirectional capabilities that allow them to discharge to the grid,
+14 effectively doubling their ability to support the grid (relative to V1G alone). Today's most
+15 significant sources of vehicle-to-everything (“V2X”) potential are the Nissan LEAF,
+16 electric school buses, and the Ford F-150 Lightning.11 At the end of 2021, about 2,800
+17 Nissan LEAF vehicles in San Diego County were model year (“MY”) 2013 or later,
+9 California Energy Commission (2022). California Energy Commission Zero Emission Vehicle and Infrastructure
+Statistics. Data last updated April 29, 2022. Retrieved December 22, 2022 from https://www.energy.ca.gov/zevstats
+10 VGIC recognizes that a significant share of EV-owners that use Level 2 (or greater) chargers that would likely
+exceed 5 kW per vehicle. However, many EV-owners (particularly owners of plug-in hybrid electric vehicles with
+smaller ranges) also primarily rely on Level 1 charging. VGIC believes that 5 kW is a reasonable estimate based on
+an assumed 50/50 split between Level 1 and Level 2 charging. This would be consistent with studies of home
+charging behavior, for example Tal, G., Lee, J., & Nicholas, M. A. (2018). Observed Charging Rates in California.
+UC Davis: Plug-In Hybrid & Electric Vehicle Research Center. Retrieved from
+https://escholarship.org/uc/item/2038613r).
+11 The term V2X encompasses both V2B (non-grid-exporting) and V2G (grid-exporting) use cases.
+7
+
+1 equipped with V2X bidirectional charging capabilities.12 Meanwhile, 13,300 Ford F-150
+2 Lightnings have been sold in the US through November 2022.13 Assuming California
+3 sales represent approximately half of these vehicles, and San Diego County represents
+4 8.5% of those sales, VGIC believes roughly 600 V2X-capable Ford F-150s may already
+5 be in SDG&E’s service territory.14 Assuming the Nissan LEAF discharges at 20 kW15
+6 using off-board V2X EVSE, and the Ford F-150 Lightning discharges at 10 kW16 using
+7 off-board V2X EVSE, this equates to 62 MW in total technical potential for incremental
+8 V2X contributions to net peak load.17 As with V1G, not all vehicles are likely to
+9 participate at once. However, VGIC estimates a conservative 5% participation rate would
+10 equate to approximately a 6.2 MW of potential net peak contribution from V2X
+11 capabilities alone from today’s existing San Diego County EV fleet.
+12 Additionally, as referenced above, SDG&E is already home to two electric school bus
+13 deployments totaling 840 kW of operational V2G export capability, which were deployed
+14 within the first four months of ELRP being available to EV/VGI Aggregations.18
+12 California Energy Commission (2022). California Energy Commission Zero Emission Vehicle and Infrastructure
+Statistics. Data last updated April 29, 2022. Retrieved December 22, 2022 from https://www.energy.ca.gov/zevstats
+13 Business Wire. Sales of Ford Electric Vehicles Climb at Twice the Rate of EV Segment; F-150 Lightning, E-Transit
+No. 1 Electric Truck and Van; Retail Orders for ‘23MY Vehicles up 104%, drive by Strong Demand For Super Duty,
+Maverick. December 2, 2022. https://www.businesswire.com/news/home/20221202005219/en/. November 2022
+Sales Release.
+14 Historically, California has represented about half of all EV sales nationwide. See, for example: Veloz (2022).
+Electric Vehicle Market Report. Data last updated October 28, 2022. Retrieved December 23, 2022 from
+https://www.veloz.org/ev-market-report/.
+15 Fermata Energy. October 6, 2022. Fermata Energy’s Newest V2X Bidirectional Charger – the FE-20 – Available
+Q1 2023. https://fermataenergy.com/article/fermata-energys-newest-v2x-bidirectional-charger-
+16 California Energy Commission. July 28, 2022. CEC VGI Workshop: Ford.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=244217. Page 5.
+17 [2,800 LEAFs X 20 kW = 56,000 kW; 600 F-150s X 10 kW = 6,000 kW]
+18 See Nuvve Holding Corp. SDG&E and Cajon Valley Union School District Flip the Switch on Region’s First Vehicle-
+to-Grid Project Featuring Local Electric School Buses Capable of Sending Power to the Grid. July 26, 2022.
+https://nuvve.com/sdge-and-cajon-valley-union-school-district-flip-the-switch-on-regions-first-vehicle-to-grid-
+8
+
+1 According to Nuvve, several additional ESB V2G installations are under various stages
+2 of development in SDG&E’s service territory and represent well over 1 MW of V2G
+3 capacity expected to be online by Q3 2023.
+4 In addition to the 63 MW of technical V2X capability in SDG&E’s service territory
+5 identified above, sales of V2X-capable vehicles are expected to increase as new V2X-
+6 capable EVs and EVSE models become available for purchase in 2023 and 2024
+7 including the Chevrolet Silverado EV and GMC Sierra EV.19 The table below
+8 summarizes VGIC’s estimate of the bidirectional-capable vehicles and charging
+9 equipment in San Diego County for both existing and forthcoming vehicle models.
+10 Table 1. Bidirectional-capable vehicles in San Diego County, currently-available bidirectional
+11 EVSE, and forthcoming bidirectional products:
+Product Amount Deployed / Notes
+Expected Launch Date
+Blue Bird Vision and All 16 as of the end of Q2 2022.20 -155 kWh battery capacity. In
+American RE Bus Models use today.21
+-14 participating in ELRP.22
+project-featuring-local-electric-school-busescapable-of-sending-power-to-the-grid/ ; and Nuvve Holding Corp. San
+Diego County’s Ramona Unified School District, Blue Bird and Nuvve Unveil 8 New V2G-Enabled and Qualified
+Electric School Buses. October 11, 2022. https://nuvve.com/ramona-unified-school-district-blue-bird-nuvve-unveil-
+new-v2g-electric-school-buses/
+19 GM Energy (2022). Ultium Products: Ultium Home. https://gmenergy.gm.com/ultium-products ; GMC (2022).
+Introducing the First Ever Sierra EV Denali Edition 1: Plug and Play. https://www.gmc.com/future-vehicles/sierra-
+ev-denali
+20 California Energy Commission (2022). California Energy Commission Zero Emission Vehicle and Infrastructure
+Statistics. Data last updated April 29, 2022. Retrieved December 22, 2022 from https://www.energy.ca.gov/data-
+reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/medium-and-heavy
+21 See Nuvve Holding Corp. SDG&E and Cajon Valley Union School District Flip the Switch on Region’s First Vehicle-
+to-Grid Project Featuring Local Electric School Buses Capable of Sending Power to the Grid. July 26, 2022.
+https://nuvve.com/sdge-and-cajon-valley-union-school-district-flip-the-switch-on-regions-first-vehicle-to-grid-
+project-featuring-local-electric-school-busescapable-of-sending-power-to-the-grid/ ; and Nuvve Holding Corp. San
+Diego County’s Ramona Unified School District, Blue Bird and Nuvve Unveil 8 New V2G-Enabled and Qualified
+Electric School Buses. October 11, 2022. https://nuvve.com/ramona-unified-school-district-blue-bird-nuvve-unveil-
+new-v2g-electric-school-buses/
+22 Ibid.
+9
+
+Ford F-150 Lightning Electric Approximately 60023 -98 kWh or 131 kWh battery
+capacity in use today.24
+-Offers V2X-DC capability
+using 10 kW bidirectional
+charger.25
+Nissan LEAF 2,800 as of the end of 2021.26 -MY 2013 or later are V2X-
+capable.27
+-MY 2013-2015 have a 24
+kWh battery, MY 2016 has a
+30 kWh battery, and MY
+2017-present has a 40 kWh
+battery and offers a 62 kWh
+LEAF Plus.28
+-Bidirectional mode requires
+V2X-DC EVSE. This is in
+use today.29
+Thomas Built Buses Saf-T- Available for purchase. -Up to 226 kWh of battery
+Liner C2 Jouley capacity.30
+Fermata FE-15 Available for purchase. -Offers V2X-DC capability,
+15 kW.31
+Nuvve PowerPort Available for purchase. -Offers V2X-AC capability,
+19.2 kW, although barriers to
+mass-scale V2X-AC persist.32
+23 Approximately 13,300 Ford F-150 Lightnings have been sold in the US through November 2022. Assuming
+California sales represent half of these vehicles, and San Diego County represents 8.5% of those sales, VGIC
+believes roughly 600 V2X-capable Ford F-150s are already in SDG&E’s service territory.
+24 Connor Hoffman. Car and Driver. Ford Confirms 2022 F-150 Lightning EV Battery Specs. December 17, 2021.
+https://www.caranddriver.com/news/a38552140/2022-ford-f-150-lightning-battery-specs-revealed/
+25 Ford Motor Company (2021). 2022 Ford F-150 Lightning: Ford Intelligent Backup Power. Retrieved September
+1, 2021 from https://www.ford.com/trucks/f150/f150-lightning/2022/
+26 California Energy Commission (2022). California Energy Commission Zero Emission Vehicle and Infrastructure
+Statistics. Data last updated April 29, 2022. Retrieved December 22, 2022 from https://www.energy.ca.gov/zevstats
+27 Electrek. The Nissan LEAF is getting its first-ever V2G charger for selling energy back to the grid. September 7,
+2022. https://electrek.co/2022/09/07/the-nissan-leaf-getting-first-ever-v2g-charger/
+28 2013 Nissan LEAF Press Kit: Overview https://canada.nissannews.com/en-CA/releases/ca-2013-nissan-leaf-
+press-kit. 2016 Nissan LEAF 30 kWh. https://www.caranddriver.com/reviews/a15101006/2016-nissan-leaf-30kwh-
+instrumented-test-review/. 2022 Nissan LEAF Range, Charging & Battery.
+https://www.nissanusa.com/vehicles/electric-cars/leaf/features/range-charging-battery.html
+29 See, for example, Shay Hlavaty. New Partnership Combines Electric Carsharing with Vehicle-to-Grid
+Technology. The Alliance Center. March 11, 2021. https://www.fermataenergy.com/news-press/new-partnership-
+combines-electric-carsharing-with-vehicle-to-grid-technology-alliance-center-colorado-carshare-fermata-energy
+30 Thomas Built Buses / Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School
+Bus. Retrieved September 1, 2021 from https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley/
+31 Fermata Energy. Proven Results and Cost Savings with V2G Technology. October 14, 2020.
+https://www.fermataenergy.com/news-press/proven-results-and-cost-savings-with-v2g-technology
+32 Nuvve Corporation (2020). Nuvve PowerPort Specifications Sheet. Retrieved September 1, 2021 from:
+https://nuvve.com/wp-content/uploads/2020/05/nuvve-powerport-spec-sheet-us-ul-energystar-certified-v5.0-may-
+2020.pdf
+10
+
+Nuvve DC Heavy Duty Available for purchase, and -Offers V2X-DC capability,
+Charging Station currently operating in 60 kW and 125 kW.33
+SDG&E territory.
+Proterra PC-060-PI, PC-090- Available for purchase. -Offers V2X capability
+PI, PC-120-PI, PC-150-PI, ranging from 60 kW to 180
+PC-180-PI kW.34
+Rhombus RES-D2, RES-D3, Available for purchase. -Offers V2X-DC ranging
+RES-DCVC60, RES- from 60 up to 250 kW.35
+DCVC125
+BYD Type A Unknown. -To offer V2X capability.36
+Chevrolet Silverado EV Expected 2023 launch. -To offer bidirectional
+charging. 37
+GMC Sierra EV Expected 2024 launch. -To offer bidirectional
+charging.38
+Autel MaxiCharger DCV2X Expected Q2 2023 launch. -To offer V2X-DC capabliity,
+12 kW.39
+dcbel r16 Unknown. -To offer V2X-DC and V2X-
+AC capabilities, 7.6 kW.40
+Fermata FE-20 Expected Q1 2023 launch. -To offer V2X-DC capability,
+20 kW.41
+33 Nuvve Corporation (2020). Nuvve DC Heavy Duty Charging Station Specifications Sheet. Retrieved September
+1, 2021 from: https://nuvve.com/wp-content/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf. See also
+Nuvve Holding Corp. SDG&E and Cajon Valley Union School District Flip the Switch on Region’s First Vehicle-to-Grid
+Project Featuring Local Electric School Buses Capable of Sending Power to the Grid. July 26, 2022.
+https://nuvve.com/sdge-and-cajon-valley-union-school-district-flip-the-switch-on-regions-first-vehicle-to-grid-
+project-featuring-local-electric-school-busescapable-of-sending-power-to-the-grid/ ; and Nuvve Holding Corp. San
+Diego County’s Ramona Unified School District, Blue Bird and Nuvve Unveil 8 New V2G-Enabled and Qualified
+Electric School Buses. October 11, 2022. https://nuvve.com/ramona-unified-school-district-blue-bird-nuvve-unveil-
+new-v2g-electric-school-buses/
+34 Proterra (2022). Proterra Industrial Charging System. Retrieved December 23, 2022.
+https://www.proterra.com/products/charging-infrastructure/
+35 Rhombus Energy Solutions. V2G Charging, Control, and Management 50-500 kW: Bidirectional. Retrieved
+September 1, 2021 from: https://rhombusenergysolutions.com/products
+36 BYD. BYD Introduces Innovative and Safe Type A Battery Electric School Bus with V2G Technology. January 26,
+2022. https://en.byd.com/news/byd-introduces-innovative-and-safe-type-a-battery-electric-school-bus-with-v2g-
+technology/
+37 GM Energy (2022). Ultium Products: Ultium Home. https://gmenergy.gm.com/ultium-products
+38 GMC (2022). Introducing the First Ever Sierra EV Denali Edition 1: Plug and Play. https://www.gmc.com/future-
+vehicles/sierra-ev-denali
+39 Joanna Hamblin. EnergyTech. Charging Ahead with V2G: Pilots, Challenges and Opportunities. November 28,
+2022. https://www.energytech.com/emobility/article/21255375/charging-ahead-with-v2g-pilots-challenges-and-
+opportunities
+40 dcbel. dcbel r16 Specifications Sheet. Retrieved September 1, 2021 from: https://www.dcbel.energy/wp-
+content/uploads/ossiaco-data-sheet-2021.pdf
+41 Fermata Energy. October 6, 2022. Fermata Energy’s Newest V2X Bidirectional Charger – the FE-20 – Available
+Q1 2023. https://fermataenergy.com/article/fermata-energys-newest-v2x-bidirectional-charger-
+11
+
+Lucid Motors – Charging Unknown. -To offer 19.2 kW
+bidirectional charging.42
+Wallbox Quasar 2 Unknown. -To offer V2X-DC capability,
+11.5 kW.43
+1
+2 Additionally, the following automakers have shared plans to offer V2X capabilities in the future:
+3 Genesis,44 Hyundai,45 Lucid,46 Kia, 47 Polestar,48 Rivian,49 Sono,50 Volkswagen,51 and Volvo.52
+4
+5 III. VGIC IS GENERALLY SUPPORTIVE OF THE PROPOSED DYNAMIC
+6 PRICING PILOTS BUT BELIEVES THEY COULD BE IMPROVED UPON.
+7 Q. Generally speaking, does SDG&E’s proposal have the potential to unlock the latent
+8 V1G and V2G capabilities noted above?
+42 Lucid Motors. Charging. https://www.lucidmotors.com/charging
+43 Wallbox. Quasar DC Charger: Electrical Specifications. Retrieved September 1, 2021 from:
+https://wallbox.com/en_us/quasar-dc-charger
+44 Bengt Halvorson. Green Car Reports. Electric car platform for Hyundai, Kia, Genesis: Bi-directional charging,
+robotaxi ready. https://www.greencarreports.com/news/1130487_ev-platform-hyundai-kia-genesis-bi-directional-
+charging-robotaxi-ready
+45 Chris Randall. Electrive. Hyundai to include V2G capabilities for their EVs. April 12, 2022.
+https://www.electrive.com/2022/04/12/hyundai-to-include-v2g-capabilities-for-their-evs/
+46 Nick Flaherty. Emobility Engineering. Accessed December 22, 2022. https://www.emobility-
+engineering.com/vehicle-to-grid-charging/
+47 Bengt Halvorson. Green Car Reports. Electric car platform for Hyundai, Kia, Genesis: Bi-directional charging,
+robotaxi ready. https://www.greencarreports.com/news/1130487_ev-platform-hyundai-kia-genesis-bi-directional-
+charging-robotaxi-ready
+48 Roberto Baldwin. TechCrunch. Polestar CEO sees value in EVs, even when they’re parked. August 21, 2022.
+https://techcrunch.com/2022/08/21/polestar-ceo-sees-value-in-evs-even-when-theyre-parked/
+49 Charles Morris. Charged. Rivian working on 800-volt architecture, bidirectional charging, in-house drive units and
+battery cells. https://chargedevs.com/newswire/rivian-working-on-800-volt-architecture-bidirectional-charging-in-
+house-drive-units-and-battery-cells/
+50 Vartan Badalian. GreenBiz. Is bidirectional charging becoming more accessible? November 8, 2022.
+https://www.electrive.com/2022/04/12/hyundai-to-include-v2g-capabilities-for-their-evs/
+51 Charles Morris. VW to enable bidirectional charging on all EVs on its MEB platform starting next year. Charged
+Electric Vehicles Magazine. April 8, 2021. https://chargedevs.com/newswire/vw-to-enable-bidirectional-charging-
+on-all-evs-on-its-meb-platform-starting-next-year/. “The Volkswagen Group says it could produce as many as
+300,000 bidirectional charging-enabled vehicles next year, including models from VW, Audi, Skoda, and Seat-
+Cupra.
+52 Yusuf Latief. Smart Energy. Volvo’s first bi-directional EV brings the customer to the grid. October 8, 2022.
+https://www.smart-energy.com/industry-sectors/electric-vehicles/volvos-first-bi-directional-ev-brings-the-
+customer-to-the-grid/
+12
+
+1 A. Yes. VGIC generally supports dynamic pricing options for EV customers. Dynamic
+2 pricing options – if designed appropriately – and other VGI strategies can help contribute
+3 to the following policy objectives:
+4  advance the state’s transportation electrification goals by reducing the total cost of
+5 EV ownership,
+6  deliver increased value to utility customers, including both EV and non-EV
+7 owners,
+8  support customer and community resiliency, including during Public Safety
+9 Power Shutoffs (“PSPS”) and other resilience events,
+10  support grid reliability, including during extreme heat events or other times of
+11 high stress on the grid,
+12  provide flexible grid services needed to support a decarbonized power grid
+13 relying on variable sources of renewable generation, and
+14  foster a growing market for VGI services.
+15 VGIC appreciates SDG&E’s effort to develop a dynamic rate option available to
+16 residential EV customers and commends the company for its innovative Export
+17 Compensation Pilot rate for commercial EV customers. VGIC believes the proposal is a
+18 constructive step towards encouraging more EV customers to utilize dynamic rate options
+19 and be adequately compensated for VGI services.
+20 Q. Does SDG&E’s proposal fully comply with the direction of D.20-12-023 and ED
+21 staff recommendations filed on June 15, 2022?
+22 A. No. The proposal has the potential to advance VGI by incorporating dynamic rate options
+23 and promoting the use of V2X bidirectional charging systems; however, the Dynamic
+24 Pricing Pilots should be modified to bring them in closer alignment with the
+13
+
+1 Commission’s prior directives on this issue. More specifically, Ordering Paragraph
+2 (“OP”) 9 of D.20-12-023, which directs SDG&E to “file an optional dynamic rate
+3 application” to “encourage commercial EV charging.”53 This directive was expanded
+4 upon through ED staff’s June 15th recommendations, which directed SDG&E to
+5 implement two pilots that “should be open to all customers, except for streetlight
+6 customers.”54 ED staff recommended SDG&E offer an optional dynamic import rate and
+7 an optional dynamic export rate, and further specified that both rate options “would be
+8 available to customers on all commercial TOU rates, except the rates specific to street
+9 lighting, and all residential TOU rates, including EV-TOU rates.” However, as detailed in
+10 SDG&E’s supplemental direct testimony of Jeff DeTuri, RTP Pilot Stage 1 and Export
+11 Compensation Pilot Stage 1 would exclude certain customers.55 The Dynamic Pricing
+12 Pilots Stage 1 would fail to offer a dynamic charging rate option for commercial EV
+13 customers as required by D.20-12-023 and suggested by ED staff’s recommendations.
+14 Additionally, customers on several residential EV TOU rates will not be eligible to
+15 participate in RTP Pilot Stage 1, despite explicit ED staff recommendations to make these
+16 rates available to EV TOU customers, including both residential and commercial. Lastly,
+17 all residential EV customers will be ineligible to participate in Export Compensation Pilot
+18 Stage 1, further conflicting with ED staff recommendations to apply broad eligibility to
+19 both the import and export pilot.
+53 D.20-12-023. OP 9.
+54 ALJ Ruling Issued June 15, 2022. Attachment A – Energy Division Recommendations. Page 4.
+55 Prepared Supplemental Direct Testimony of Jeff DeTuri. August 15, 2022. JDT-5.
+14
+
+1 IV. SDG&E’S PROPOSAL FOR RTP PILOT – ANALYSIS AND
+2 RECOMMENDATIONS.
+3 A. Overview of SDG&E’s proposal
+4 Q. Please summarize SDG&E’s overall proposed approach to implementing an RTP
+5 pilot.
+6 A. SDG&E proposes a two-stage optional RTP Pilot. The RTP Pilot Stage 1 rate design will
+7 consist of three rate design components: (a) the CAISO DAM commodity energy prices;
+8 (b) Critical Peak Pricing commodity capacity adder; and (c) total base commodity rate.
+9 The RTP Pilot will be available to bundled customers on the following seven rate
+10 schedules:
+11  TOU-DR1
+12  EV-TOU-5
+13  TOU-A
+14  AL-TOU
+15  A6-TOU
+16  PA-T-1
+17  TOU-PA
+18 Stage 1 will begin in Q4 2023 and run through Q3 2026. SDG&E aims to target 1,391
+19 residential and 70 non-residential customers for Stage 1, with the maximum customer
+20 enrollment limit set at 13,908 residential and 700 non-residential. SG&E estimates
+21 approximately $4.93 million in costs to implement Stage 1, primarily used to support a
+22 billing system update. SDG&E also proposes offering a $300 incentive to the first 1,000
+15
+
+1 residential customers participating in the pilot in exchange for their enrollment and
+2 completion of surveys.
+3 RTP Pilot Stage 2 will be open to all customers, except for street lighting customers, and
+4 will begin in Q4 2026 and run through Q3 2028. SDG&E estimates RTP Pilot Stage 2
+5 will cost $5.9 million to implement and targets to enroll 1,471 customers with a
+6 maximum limit of 14,608 customers.
+7 B. Eligibility for SDG&E’s proposed Stage 1 RTP Pilot 1 should be
+8 expanded to include residential customers beyond those on the existing EV-
+9 TOU-5 rate.
+10 Q. Does the RTP pilot include an option for residential EV customers?
+11 A. Yes. Customers on EV-TOU-5 would be eligible to enroll in Stage 1 of the RTP pilot, as
+12 noted in the supplemental direct testimony of William G. Saxe.56
+13 Q. Are there residential EV charging rates that would not be eligible for Stage 1 RTP
+14 Pilot?
+15 A. Yes. Customers on EV-TOU and EV-TOU-2 would not be eligible to participate in the
+16 RTP pilot.57 EV-TOU-5 and EV-TOU-2 are both “whole-home” TOU rates, meaning that
+17 the time-differentiated prices apply to all load behind the utility meter, including EV and
+18 non-EV load. In contrast, EV-TOU rate enrollment requires that customers install a
+19 separate utility meter (i.e., a EV-TOU is “separately-metered” EV rate). EV-TOU TOU
+20 rates are equal to EV-TOU-2 rates but apply only to separately-metered EV load, whereas
+56 WS-4.
+57 WS-4.
+16
+
+1 EV-TOU-2 rates apply to all load behind the utility meter, including EV and non-EV load
+2 (i.e., the “whole-home” load).
+3 Q. Are separately-metered configurations common in residential settings?
+4 A. No. EV-TOU has seen very limited participation. 58 This is likely due to the requirement
+5 that customers install a separate meter, which is costly and burdensome for most
+6 residential customers.
+7 Q. Do you think residential EV customers are as likely to want expose their whole
+8 home load to RTP price signals as they would be to exposing just their EV load?
+9 A. I don’t believe so. The basis for pursuing dynamic pricing and managed charging
+10 strategies is the unique flexibility that at-home EV charging offers relative to other
+11 household loads. EV charging load reflects an exceptionally elastic type of load (i.e.,
+12 customers have the ability to shift charging patterns to lower cost periods), given that
+13 vehicles typically sit parked in residential settings for longer than a Level 2 charger takes
+14 to deliver a full charge. Furthermore, optimizing EV charging in response to price signals
+15 – but within constraints of the customer’s desired state of charge – is likely a more
+16 convenient proposition for customers than many other load modifying technologies
+17 available to residential customers today. For example, smart thermostat or water heater
+18 programs can reduce load during high-cost periods but could lead to a more noticeable
+19 impact on customer comfort that causes customers to opt out or override the control
+20 period. In contrast, managing EV charging load to reduce charging during system or local
+21 peaks, can be possible while still delivering a customer’s desired state of charge at the
+58 Joint IOU EV Load Research and Charging Infrastructure Cost Report. 10th Report Filed on March 31, 2022. Page
+84.
+17
+
+1 end of the charging session. If done automatically an EV service provider (“EVSP”)
+2 integrating with SDG&E’s proposed API pricing tool, the customer can be minimally
+3 impacted by the behind-the-scenes charge optimization.
+4 Q. Is the newly-adopted submetering protocol likely to increase enrollment in
+5 residential EV TOU rates, including separately-metered EV TOU rates?
+6 A. Yes. D.22-08-024 directs utilities to implement a submetering protocol, allowing
+7 residential customers, including those interested in participating in EV-TOU, to use their
+8 EVSE as a submeter for billing purposes.59 On December 5, 2022, SDG&E submitted
+9 their implementation plan, which details that SDG&E will revise its tariffs, including
+10 both residential and commercial rates, to permit customers to participate using an EVSE
+11 submeter, rather than needing to install a separate meter (in the case of EV-TOU) or
+12 expose their whole home to the TOU rates (in the case of EV-TOU-2 and EV-TOU-5).60
+13 Q. Given these recent developments, how does VGIC propose that SDG&E unlock
+14 additional participation in RTP Stage 1 beyond what the Company originally
+15 proposed?
+16 A. VGIC recommends that any residential customer utilizing an EVSE submeter (pursuant
+17 to the protocol adopted in D. 22-08-024) or enrolled in a separately metered EV-TOU
+18 rate (e.g., EV-TOU-2, EV-TOU) be eligible to participate in RTP Stage 1, rather than
+19 limiting eligibility to just EV-TOU-5. Customers utilizing submetering to enroll in these
+20 rates by definition will own networked chargers which generally have the capability to be
+21 managed by a third-party to respond to dynamic price signals. This configuration
+59 Commission Decision 22-08-024.
+60 SDG&E. Advice Letter 4114-E. Establishment of the Plug-In EV Submetering Protocol Implementation Plan
+Pursuant to D.22-08-024. December 5, 2022. https://tariff.sdge.com/tm2/pdf/submittals/ELEC_4114-E.pdf
+18
+
+1 therefore represents an excellent use case for which to make RTP pricing options
+2 available.
+3 C. Eligibility for SDG&E’s proposed Stage 1 RTP Pilot 1 should be
+4 expanded to include commercial EV customers enrolled in the EV-HP rate.
+5 Q. Is RTP Stage 1 available to customers on SDG&E’s commercial EV rate (EV-HP)?
+6 A. No. The RTP Stage 1 does not appear to be open to customers on SDG&E’s EV-HP rate
+7 option.
+8 Q. Do you think RTP Stage 1 should be made available to commercial EV rate (EV-
+9 HP) customers?
+10 A. Yes, I think customers enrolled in EV-HP should be eligible to participate in the RTP
+11 pilot. I believe this would be more consistent with D.20-12-023. I appreciate SDG&E’s
+12 efforts to establish leadership in the VGI market by proposing a V2G export rate for
+13 commercial EV customers and agrees that this is needed, as discussed below in Section
+14 V. However, I also believe that SDG&E has overlooked a simple way to offer a more
+15 complete suite of VGI offerings by including EV-HP customers.
+16 Q. Does the RTP Pilot Stage 1, as proposed by SDG&E, fully comply with D.20-12-023
+17 (i.e., the EV-HP Decision)?
+18 A. No. My understanding of D.20-12-023, and specifically OP 9, was to create an optional
+19 dynamic rate available to all commercial customers. This is similar to how PG&E’s
+20 recently approved Day-Ahead Hourly Real-Time Pricing (“DAHRTP”) rate option will
+21 operate for commercial customers beginning in Q4 2023.61 Instead, SDG&E proposal
+61 See Docket No. A. 20-10-011. D.21-11-017.
+19
+
+1 excludes EV-HP customers as explained above. If the Company’s proposal were
+2 modified to include EV-HP customers, then I believe it would more fully comply with
+3 D.20-12-023. Absent this change, commercial EV customers may not be encouraged to
+4 manage load year-round through an RTP signal until Q4 2026, when RTP Pilot Stage 2
+5 will launch. This risks missing an important near-term opportunity for EV customers to
+6 manage their electricity bills while supporting the grid.
+7 Q. Does SDG&E already have experience offering a dynamic charging option for
+8 commercial customers?
+9 A. Yes, SDG&E offers its VGI Rate to commercial customers participating in SDG&E’s
+10 Power Your Drive (“PYD”) program.62 SDG&E’s VGI Rate offered through PYD is
+11 similar to the RTP Pilot Stage 1, as it includes a dynamic energy component based on
+12 CAISO DAM prices, as well as a Critical Peak Pricing (“CPP”) adder during times of
+13 grid stress.
+14 Q. Could commercial customers not participating in SDG&E’s PYD benefit from a
+15 dynamic charging rate in the timeframe proposed for RTP Pilot Stage 1?
+16 A. Yes. SDG&E’s VGI rate is limited to customers receiving make-ready incentives, which
+17 will disappear in Q4 2026 or when the $56 million in authorized funding is fully
+18 subscribed, whichever comes first.63 However, VGIC believes commercial customers not
+19 participating in PYD would also benefit from having access to a dynamic charging rate
+20 during the timeframe of RTP Pilot Stage 1 (i.e., 2024-2026), as several fleets will be
+62 SDG&E. Schedule VGI. California PUC Sheet No. 35630-E. https://tariff.sdge.com/tm2/pdf/tariffs/ELEC_ELEC-
+SCHEDS_VGI.pdf
+63 See Decision 21-04-014 Authorizing SDG&E’s PYD Extension EV Charging Program. April 19, 2021. Page 2. See
+also Decision 22-11-040 on Transportation Policy and Investment. November 17, 2022. Page 78.
+20
+
+1 electrifying without make-ready incentives or with make-ready programs other than
+2 PYD.
+3 Q. Did SDG&E provide reasoning behind its proposal to exclude EV-HP from RTP
+4 Pilot Stage, or offer a dynamic export rate (and not import rate) for EV-HP
+5 customers?
+6 A. SDG&E states that the RTP pilot will be limited to seven rate schedules for ease of
+7 implementation and to reduce the costs of the pilots. However, SDG&E considers only
+8 the costs and therefore overlooks the potential benefits from expanding eligibility to
+9 include EV-HP customers. Several EV-HP customer segments, including school buses
+10 and other fleets with predictable duty cycles and long dwell times that overlap with
+11 system peaks, are valuable use cases for dynamic pricing.
+12 V. SDG&E’S PROPOSAL FOR EXPORT COMPENSATION PILOT – ANALYSIS
+13 AND RECOMMENDATIONS
+14 A. Overview of SDG&E’s proposal
+15 Q. Please summarize SDG&E’s overall proposed approach to implementing an Export
+16 Compensation Pilot.
+17 A. SDG&E proposes to implement a two-stage Export Compensation Pilot. Stage 1 will
+18 offer a dynamic export price signal consisting of two components: a CAISO DAM
+19 energy price and a CPP Event Day capacity adder based on marginal costs only. SDG&E
+20 proposes to target 10 customers taking service under EV-HP for participation in the
+21 Export Compensation Pilot Stage 1, and proposes a maximum enrollment of 35,000 EV-
+21
+
+1 HP customer accounts. The proposed Stage 1 implementation timeline is identical to the
+2 RTP Pilot Stage 1, and SDG&E estimates it will cost approximately $1.8 million.
+3 SDG&E does not detail plans or terms for Stage 2 of the Export Compensation Pilot, but
+4 notes that it aims to open Stage 2 of both Dynamic Pricing Pilots to all customers, except
+5 for street lighting customers.
+6 B. Eligibility for SDG&E’s proposed Export Compensation Pilot Stage 1
+7 should be expanded to allow participation from residential EV customers. This
+8 would be consistent with Energy Division staff’s June 15 Recommendations.
+9 Q. Is a V2G export rate appropriate and necessary to advance the transportation
+10 electrification (“TE”) market while supporting the evolving grid at this time?
+11 A. Yes. Establishing an export rate for V2G is necessary to compensate EV customer not
+12 only for the value of providing energy to the grid, but for the additional use of their EV’s
+13 battery for a purpose other than its primary use (i.e., transportation). V2G can also
+14 provide many grid benefits, including energy and ancillary services, as well as serving as
+15 a reliability resource during peak net load hours. Compensation for providing these
+16 services is essential to unlocking the full potential that EVs can provide as grid resources.
+17 Offering a new revenue stream for EV owners can reduce the overall cost of vehicle
+18 ownership, and in turn help to accelerate EV adoption across segments that can access
+19 this compensation.
+20 Q. Does the V2G rate proposed by SDG&E fully comply with the ED staff
+21 recommendations?
+22 A. No. As mentioned above, the Administrative Law Judge (“ALJ”) issued a Ruling in this
+23 proceeding on June 15, 2022 which included several recommendations from ED staff.
+22
+
+1 Specifically, the ED staff recommended that both the RTP import rate and export rate
+2 “would be available to customers on … all residential TOU rates, including EV-TOU
+3 rates.”.64 However, under SDG&E’s proposal, the Export Compensation Pilot Stage 1
+4 would only be available to commercial customers enrolled in EV-HP.
+5 Q. Should the dynamic and V2G rates be available for residential customers, as well as
+6 commercial customers?
+7 A. Yes, given current and expected product availability, as noted above in Section II, there
+8 are likely more light-duty V2X-capable vehicles owned by residential customers today
+9 than by commercial customers eligible for EV-HP. As such, it would be
+10 counterproductive to the Export Compensation Pilot’s success if the larger residential
+11 customer segment were excluded from the outset. Furthermore, excluding residential
+12 customers would be inconsistent with SDG&E’s recent efforts to promote the
+13 deployment of V2X equipment among residential customers. Specifically, SDG&E
+14 recently requested V2X incentives for residential customers, which I describe in more
+15 detail in Section V-D below.
+16 C. SDG&E should include an upfront incentive to support pilot
+17 participation and early-stage development of the V2X market
+18 Q. Do V2X bidirectional charging systems cost more than unidirectional charging
+19 systems?
+64 ALJ Ruling Issued June 15, 2022. Attachment A – Energy Division Recommendations
+23
+
+1 A. Yes. On average, a unidirectional Level 2 charging systems costs $1,300.65 In contrast,
+2 bidirectional Level 2 charging systems can cost around $5,000.66 Today, commercially
+3 available and certified V2X equipment is based on a direct current (“DC”) platform,
+4 which results in significant cost differences between a Level 2 charger (either
+5 unidirectional or bidirectional) and a bidirectional DC charger. Meanwhile, an average
+6 unidirectional DC Fast Charger (“DCFC”) unit cost ranges from about $25,000 to
+7 $45,000, while total project costs range from about $100,000 to $125,000.67 While public
+8 information on the costs of bidirectional DCFC is limited, based on recent discussions I
+9 have had with industry participants I believe a 30% cost premium for bidirectional
+10 capabilities is a reasonable estimate. SDG&E may have a better understanding of these
+11 costs from its V2G school bus pilots, including their Priority Review Pilot with Cajon
+12 Valley Unified School District.
+13 Q. Do California’s primary funding opportunities for EV chargers provide adders or
+14 incremental incentives to account for the incremental costs of V2X systems relative
+15 to V1G systems?
+16 A. No. None of the primary EV infrastructure funding programs in California, including
+17 SDG&E’s PYD programs, CEC CALeVIP, and CEC EnergIIZE offer incremental
+18 incentives for higher cost V2X systems.
+65 Sebastian Blanco. J.D. Power. What Does an EV Home Charger Cost? August 16, 2022.
+https://www.jdpower.com/cars/shopping-guides/what-does-an-ev-home-charger-cost
+66 See, for example: Fred Lambert. Electrek. Ford F-150 Lightning Electric Pickup needs a $3,900 home device to use
+it as backup power. May 2, 2022. https://electrek.co/2022/05/02/ford-f-150-lightning-electric-pickup-needs-a-
+4000-home-device-use-backup-power/; dcbel (2022). r16. https://www.dcbel.energy/r16/
+67 CEC (2022). CALeVIP DC Fast Chargers, Average Rebate, Unit Cost, and Total Project Cost per Charger. Accessed
+December 23, 202. https://www.energy.ca.gov/programs-and-topics/programs/clean-transportation-
+program/california-electric-vehicle/calevip-dc
+24
+
+1 Q. Have incentives that were previously made available for energy storage systems
+2 been applicable to V2X systems?
+3 A. No. Incentives through programs such as the Self-Generation Incentive Program
+4 (“SGIP”) have been limited to stationary energy storage systems and therefore V2X
+5 systems were ineligible to participate.
+6 Q. Do other V2X pilots being offered in California provide funding to customers to
+7 offset the higher upfront costs of deploying V2X systems?
+8 A. In a few limited cases. Examples of this include PG&E’s V2X Pilots68 and PG&E’s
+9 DAHRTP Export Compensation Rate Pilot.69
+10 Q. How are these technology incentives structured?
+11 A. Generally, these include an upfront incentive. PG&E’s V2X Pilots offers upfront
+12 incentives of up to $4,500.70 PG&E’s DAHRTP Export Compensation Rate Pilot offers
+13 an incentive of up to $6,560, with 70% of the incentive paid to customers upon
+14 enrollment and installation and the remaining 30% paid after the first year.71
+15 Q. Has SDG&E considered offering upfront incentives to offset the costs of V2X
+16 equipment in other proceedings?
+17 A. Yes. An upfront incentive was proposed in SDG&E’s recent request for a residential
+18 V2X rebate in their Low-Carbon Fuel Standard (“LCFS”) Holdback Implementation
+68 PG&E (2022). Vehicle to Everything pilot programs: Incentives and Eligibility for Vehicle to Everything Pilot
+Programs. https://www.pge.com/en_US/residential/solar-and-vehicles/options/clean-vehicles/vgi/v2x-pilots.page
+69 CPUC Decision 22-10-024 Adopting Settlement on Export Compensation for Certain PG&E Customers. October 20,
+2022. Page 6.
+70 PG&E (2022). Vehicle to Everything pilot programs: Incentives and Eligibility for Vehicle to Everything Pilot
+Programs. https://www.pge.com/en_US/residential/solar-and-vehicles/options/clean-vehicles/vgi/v2x-pilots.page
+71 CPUC Decision 22-10-024 Adopting Settlement on Export Compensation for Certain PG&E Customers. October 20,
+2022. Page 6.
+25
+
+1 Plan. SDG&E proposed a three-year, $5.8 million program launching in Q2 2023 to
+2 provide roughly 2,000 rebates at $2,000 each.72 The stated goal of this program is to
+3 “demonstrate the value V2X/bidirectional [light-duty] EVs possess for customers
+4 experiencing an interruption in electrical service.”73 As proposed, the V2X Equipment
+5 Rebate Program would provide rebates to residential customers installing V2X
+6 bidirectional chargers.
+7 Q. Is SDG&E’s proposed LCFS-funded V2X Equipment Rebate Program a sufficient
+8 mechanism to offset incremental costs for Dynamic Pricing Pilot participants who
+9 wish to provide export capabilities?
+10 A. No. While SDG&E’s proposed LCFS-funded V2X Equipment Rebate Program is a step
+11 in the right direction, it is insufficient for two reasons. First, it does not apply to
+12 commercial customers, whereas the proposed Export Compensation Pilot Stage 1 would
+13 be open only to commercial customers enrolled in EV-HP. Second, the proposed LCFS-
+14 Funded V2X Equipment Rebate Program incentive is intended to target specific
+15 resilience use cases, rather than provide more broad-based support for grid reliability and
+16 flexible load. Therefore, the LCFS-funded incentive is designed to target a different
+17 subset of customers, as detailed in Advice Letter 4127-E, Section III, and may also
+18 impose different technical requirements than what is relevant to customers installing V2X
+19 systems intended to participate in the Export Compensation Pilot.
+20 Q. Do you think that SDG&E should offer a similar equipment rebate for Dynamic
+21 Pricing Pilot customers who wish to provide V2X bidirectional charging capability?
+72 SDG&E Advice Letter 4127-E. SDG&E’s Second Low Carbon Fuel Standard (LCFS) Holdback Implementation Plan in
+Compliance with Decision 20-12-027. https://tariff.sdge.com/tm2/pdf/submittals/ELEC_4127-E.pdf. Page A-2
+73 Id at A-5.
+26
+
+1 A. Yes. Such a rebate could be structured similarly to what SDG&E has proposed through
+2 its LCFS Holdback Implementation Plan; however, it would be made available to all
+3 Dynamic Pricing Pilot customers using eligible V2X bidirectional charging equipment
+4 and offer a $/kw incentive for bidirectional chargers.
+5 Q. Why do you think such an incentive is appropriate?
+6 A. As a high-level policy consideration, there is significant potential for V2X to serve as
+7 grid reliability resource and help California to meet its net load peak during the critical 6-
+8 8pm hours during the summer. Leveraging even a small fraction of California’s EV
+9 owners for V2X capabilities in the coming years could amount to a GW-scale resource.
+10 However, unlocking this potential requires overcoming three key barriers: 1) a
+11 streamlined interconnection process, 2) a compensation mechanism for discharging from
+12 the vehicle, and 3) the installation of V2X-capable charging equipment. The first of these
+13 has largely been addressed through D.20-09-035 and the Rule 21 Interconnection
+14 proceeding (R. 17-07-007). The second of these will largely be addressed if SDG&E’s
+15 proposal in this proceeding (with VGIC’s recommended modifications) is adopted.
+16 However, the third item listed above still poses a crucial barrier if customers are unable
+17 or unwilling to install bidirectional chargers due to their higher incremental cost. A
+18 simple upfront incentive program can help reduce or eliminate this barrier during the
+19 critical period of time over the next few years when many new EVSEs are being
+20 installed. Like many technology incentive programs, this need not be a permanent
+21 solution, but may be a necessary bridge to help jumpstart the V2X market while it is still
+22 in its infancy.
+27
+
+1 D. SDG&E’s dynamic pricing pilots should consider dynamic transmission
+2 and distribution values in both import rates and export compensation,
+3 consistent with recent Commission decisions.
+4 Q. Should transmission and distribution values be explored in the future as an
+5 additional component for export compensation?
+6 A. Yes. VGIC believes a distribution component or distribution adder for both RTP Pilot
+7 and Export Compensation Pilot should be explored in the future. This would compensate
+8 customers for any additional locational value provided from managing load and
+9 providing exports, such as the alleviation of load on congested circuits. However, VGIC
+10 also recognizes that this adds a layer of complexity that may not be resolved in the near
+11 term. As such, VGIC recommends that SDG&E’s proposed pilots and VGIC’s above
+12 recommendations and enhancements be considered and approved in the current phase of
+13 this proceeding. Meanwhile, the distribution component should be explored in a future
+14 phase of this proceeding, or in another proceeding.
+15 Q. Is there precedent for a dynamic pricing import or export rate that includes a
+16 distribution component?
+17 Yes. Resolution E-5192 directed PG&E to incorporate a distribution component into its
+18 V2X pilots and PG&E recently proposed a methodology to do this.74 Additionally, per
+19 D.21-12-015, PG&E is partnering with Valley Clean Energy (“VCE”) on a Dynamic Rate
+20 Pilot for Agricultural Pumping, which could offer a model to support the development of
+74 PG&E AL 6694-E. Rate Structured for Vehicle Grid Integration Pilots. September 2, 2022.
+https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6694-E.pdf
+28
+
+1 distribution component for a dynamic export rate.75 Lastly, PG&E’s DAHRTP
+2 settlement, which was approved in D.22-10-024, also agreed to consider a distribution
+3 component in a future phase of the pilot once more information is available, (for example
+4 from the above-mentioned V2X Pilots and VCE partnership). Lastly, VGIC notes that
+5 SDG&E’s PYD VGI Rate includes a distribution circuit adder.76
+6 VI. CONCLUSION.
+7 Q. Does this conclude your testimony?
+8 A. Yes.
+75 D.21-12-015 Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California Edison
+Company, and San Diego Gas & Electric Company to Take Actions to Prepare for Potential Extreme Weather in the
+Summers of 2022 and 2023, issued December 6, 2021 in Rulemaking 20-11-003. Ordering Paragraphs 50 through
+58.
+76 SDG&E. Schedule VGI. California PUC Sheet No. 35630-E. https://tariff.sdge.com/tm2/pdf/tariffs/ELEC_ELEC-
+SCHEDS_VGI.pdf
+29
+
+1 Appendix A:
+Declaration of Ed Burgess in Support of Opening Testimony on Behalf of the Vehicle-Grid
+Integration Council
+A-1
+
+DECLARATION OF ED BURGESS IN SUPPORT OF OPENING TESTIMONY ON
+BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+I, Ed Burgess, am the Senior Policy Director for the Vehicle-Grid Integration Council
+(VGIC). Having worked for VGIC since its founding in 2020, I am currently managing policy
+and regulatory affairs for VGIC and its 25 members. My business address is 10265 Rockingham
+Drive, Suite #100-4061, Sacramento, CA 95827. I declare under penalty of perjury that the
+foregoing facts in this document are true and correct.
+Executed on December 30, 2022 at Sacramento, California.
+Ed Burgess
+A-2

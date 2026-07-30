@@ -1,0 +1,220 @@
+October 3, 2023
+Comments of the Vehicle-Grid Integration Council
+on Xcel Colorado’s 2024-2026 Transportation Electrification Plan
+Introduction
+The Vehicle-Grid Integration Council (VGIC) is a 501(c)(6) nonprofit trade association
+focused on accelerating the role of smart EV charging and discharging (i.e., vehicle-grid
+integration or “VGI”) through policy development, education, outreach, and research. Scaling VGI
+is an essential part of transportation electrification and will help accomplish the following key
+policy goals:
+• Benefit drivers and fleet owners by reducing the total cost of ownership.
+• Decarbonize the transportation sector by accelerating EV adoption.
+• Support decarbonization of the power sector by providing necessary grid
+services as renewable energy and distributed energy resource penetration increases.
+• Increase affordability by reducing electricity bills for all customers.
+• Improve grid resiliency and security during extreme weather events.
+• Foster economic activity through innovation, competition, and market
+transformation.
+With the proper policy and regulatory support and coordination, these goals can be
+achieved, and EV drivers and EV fleets in Colorado can play a supportive role in the acceleration
+of both transportation electrification and grid decarbonization. Our vision for VGI encompasses
+the following key elements:
+• Ensure customer mobility needs are satisfied. Drivers and fleets can participate
+in a wide variety of VGI services without compromising their mobility needs.
+• Managed charging will benefit EV drivers and fleet operators: Drivers and
+fleets will be given the ability to align charging with the times of day when electricity
+prices are low, reducing operating costs by as much as 50% compared to unmanaged
+charging. Lowering the total cost of EV ownership will accelerate overall EV adoption
+by drivers and fleet managers, helping meet Colorado’s transportation decarbonization
+goals.
+• EVs provide emissions-free emergency power during blackouts: During
+extreme weather blackouts or other power outages, EVs can utilize bidirectional
+charging capabilities to send energy to a home, building, or microgrid, serving as a
+generator and providing safe backup power for households and communities.
+1
+
+• Charging infrastructure dollars go further: Smarter management of EV
+charging can help manage the cost of deploying EV charging infrastructure, which
+encourages wider access to EV charging.
+• VGI enables EVs to provide valuable services to the grid and generate
+revenue: V1G (unidirectional charging) and V2G (vehicle-to-grid, or bidirectional
+charging) will enable electric vehicles to both receive and feed power back to the grid,
+supporting advanced grid services such as frequency control, demand response, peak
+shaving, and more. A number of utilities have implemented programs that provide
+compensation for these valuable grid services.
+VGIC appreciates the opportunity to provide the following recommendations on Xcel
+Energy’s 2024-2026 Transportation Electrification Plan (“TEP”).
+VGIC Supports Xcel’s Proposal to Evolve Managed Charging Offerings
+Managed charging is a crucial strategy to reduce the impacts of EV charging on the grid
+and contribute to reductions in greenhouse gas emissions and other harmful pollutants. By
+reducing peak load and shifting EV charging to off-peak periods, managed charging helps avoid
+high energy costs and high power plant emissions during peak periods as well as mitigate the need
+to upgrade distribution and transmission systems to accommodate increasing peak demand.
+Managed charging offerings can also reduce renewable curtailment by encouraging EV charging
+to occur during periods with excess renewable energy generation. Xcel’s proposals to evolve its
+managed charging offerings, including expanding the Charging Perks pilot to a full
+program,1 offering an off-peak subscription rate,2 and developing a managed charging pilot
+for commercial and fleet customers,3 are critical to advancing these goals to the benefit of
+EV customers and all ratepayers. VGIC looks forward to engaging with Xcel on the specific
+program details of the commercial and fleet managed charging pilot.
+VGIC Supports Xcel’s Proposals for Vehicle-to-Everything (“V2X”) Pilots with
+Modifications
+As mentioned above and in Xcel’s testimony,4 V2X can offer various benefits to EV
+customers (such as providing backup power and managing electric bills) and can also support the
+grid through exports. VGIC appreciates Xcel’s work investigating V2X capabilities under the
+2021-2023 TEP and supports Xcel’s proposal to continue these efforts in the 2024-2026 TEP.
+Particularly, VGIC supports the inclusion of a variety of V2X applications, including vehicle-to-
+building (“V2B”), vehicle-to-home (“V2H”), and vehicle-to-grid (“V2G”), for both residential and
+1 Xcel Energy Hearing Exhibit 106, pg. 13.
+2 Xcel Energy Hearing Exhibit 108, pg. 8-9.
+3 Xcel Energy Hearing Exhibit 108, pg. 20.
+4 Xcel Energy Hearing Exhibit 106, pg. 26-27.
+2
+
+commercial customers.5 Gaining familiarity with different V2X use cases will better equip Xcel
+to support customer adoption of the full range of potential V2X configurations in the future. These
+pilots should also include a rate demonstration for V2X use cases, so as not to limit the pilots to a
+technology proof of concept.
+Additionally, VGIC supports Xcel’s proposal to integrate the School Bus Electrification
+project with its V2X efforts, including requiring vehicles and charging infrastructure to be
+bidirectionally capable and requiring participants to allow Xcel to access the V2G capabilities of
+buses. Electric school buses are the leading use case for V2G today, with commercially available
+bidirectional vehicles and EVSE6 ready to support such projects. As electric school bus
+deployment scales, V2G offers substantial public benefits, such as supporting grid reliability and
+community resilience in the face of aging grid infrastructure and increasingly frequent and severe
+extreme weather events.
+However, some of the proposed V2X pilots would benefit from modifications:
+1. Xcel should expand the V2G for Residential EVs pilot to include customers
+not participating in the Company’s bidirectional charger rental offering under
+the EV Accelerate at Home (“EVAAH”) program. As proposed, potential
+participants in the V2G for Residential EVs pilot must also participate in the
+bidirectional charger rental offering,7 which is focused on the backup power (V2H)
+use case.8 However, not every customer interested in V2G will also want to
+participate in a V2H offering, and thus the requirement to participate in the EVAAH
+backup power program may inadvertently exclude customers who only wish to
+pursue V2G opportunities. VGIC suggests that Xcel remove this requirement and
+allow customers to bring their own bidirectional charger to the V2G for Residential
+EVs pilot. This change would support customer choice and enable Xcel to gain
+5 Xcel Energy Hearing Exhibit 106, pg. 30.
+6 See, for example: Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial Application of
+Vehicle-to-Grid Technology in Electric School Bus Partnership with Nuvve and Illinois School Districts. March 23,
+2021. https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinoisschool-districts/; Thomas Built Buses /
+Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School
+Bus. https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley; Lion Electric. Lion Electric Announces
+Successful Electric School Bus Vehicle-to-Grid Deployment with Con Edison in New York. December 14,
+2020. https://thelionelectric.com/img/medias/LION_Press_Release_White%20Plains%20EN%20FINAL.
+pdf; NuvveCorporation (2020). Nuvve DC Heavy Duty Charging Station Specifications
+Sheet. https://nuvve.com/wpcontent/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf; Fermata Energy.
+Proven Results and Cost Savings with V2G Technology. October 14, 2020. https://www.fermataenergy.com/news-
+press/proven-results-andcost-savings-with-v2g-technology; BorgWarner. V2G Charging, Control, and Management
+60- 500kW: Bidirectional. https://www.borgwarner.com/technologies/chargers#bidirectional-v2g-charger;
+BorgWarner: Pioneering Commercial Vehicle-To-Grid in Electric School Buses.
+https://cdn.borgwarner.com/docs/default-source/san-diego-documents/bw-00369-case-study-highlandelectric-
+fleets.pdf?sfvrsn=2efbcc3d_12.
+7 Xcel Energy Hearing Exhibit 103, Attachment HS-1, pg. 71
+8 Xcel Energy Hearing Exhibit 103, Attachment HS-1, pg. 38-39.
+3
+
+experience with more use cases, thereby generating more experience that will help
+advance the V2G market in the Company’s service territory.
+2. Xcel should eliminate the requirement for a dedicated meter and EV supply
+infrastructure for customers participating in the V2B for Light-Duty Vehicles
+pilot. Some major benefits of V2B include demand charge management, DER
+integration, and backup power, all of which would necessitate the EV charger to be
+on the same utility meter and service connection as the building load. Requiring a
+separate meter and service connection would preclude these use cases as well as
+add unnecessary costs for customers. VGIC recommends that Xcel allow program
+participants the flexibility to choose whether a separate meter and service
+connection would make sense for them.
+3. Xcel should partner with several OEMs and hardware manufacturers for the
+V2X pilots. There are currently several OEMS selling bidirectional-capable EVs
+and chargers in the US.9 Partnering with as many equipment vendors as possible
+will help Xcel gain valuable experience with diverse set of technical configurations
+as well as support customer choice.
+Given the immense benefits that V2X offers, there should be a clear path for these pilots
+to become full offerings that unlock V2X to the broader customer base. Xcel should use lessons
+learned from the pilots to 1) develop streamlined, customer-friendly interconnection
+guidance for V2X resources, including both export and non-export configurations, and 2)
+sustainable compensation mechanisms for grid services, such as through demand response
+programs or export credits. VGIC recommends that the Commission require Xcel to file
+proposals for these items in the next iteration of the TEP.
+Furthermore, VGIC recommends that Xcel establish targets for bidirectional charging
+infrastructure to spur investment and innovation. Targeted incentives for bidirectional charging
+hardware and software solutions can serve as a “future proofing” strategy to ensure that charging
+infrastructure installed over the course of the 2024-2026 TEP is able to participate in V2X
+offerings once they are available in the future. VGIC members are willing to make the necessary
+investments provided that there is a commitment to support bidirectional charging through
+incentives paired with compensation for V2X grid services that reflects the benefits of V2X to all
+ratepayers, as described above.
+The Commercial Customer Sited Battery Demonstration Should be Expanded
+VGIC supports Xcel’s proposal to explore the use of battery storage to support the
+deployment of Direct Current Fast Chargers (“DCFCs”).10 As discussed by Xcel, co-located
+9 Smart Electric Power Alliance. The State of Bidirectional Charging in 2023, pg. 46-48.
+https://sepapower.org/resource/the-state-of-bidirectional-charging-in-2023/
+10 Xcel Energy Hearing Exhibit 106, pg. 45-46.
+4
+
+energy storage can reduce the peak load of the charging site, thereby helping to avoid or defer the
+need to upgrade certain distribution infrastructure to accommodate the new charging load. The
+reduced need for infrastructure upgrades can generate savings for the customer installing DCFCs
+and ratepayers at large as well as accelerate installation timelines due to the lower overall
+engineering and construction needs.
+However, co-located battery storage is only one approach to achieving these objectives.
+There are several other solutions – collectively called Automated Load Management (“ALM”),
+EV Energy Management Systems (“EMS”), or Demand Management Technologies (“DMT”) –
+that can also limit EV charging demand at the service connection to a predetermined level below
+the aggregated nameplate charging capacity of the EV chargers. These ALM approaches include
+hardware-based solutions (e.g., co-located energy storage, energy storage integrated into chargers,
+etc.) and software-based solutions (e.g., power sharing across multiple chargers). Public DCFCs
+may be more likely to require energy storage solutions, whether co-located or integrated, to ensure
+high charging speeds for EV drivers looking for on-the-go charging. Software-based approaches
+may better suit DCFCs and Level 2 EVSE that serve workplace charging, multi-family housing
+parking, and public or private fleet charging facilities with relatively longer dwell times. VGIC
+recommends expanding the proposed Commercial Customer Sited Battery Demonstration
+to include the full range of possible ALM approaches. In New York, the Joint Utilities’ recently
+proposed a Load Management Technology Incentive Program, which aims to encourage the
+installation of ALM technologies, has broad eligibility guidelines that include “all demand
+management technologies capable of reliably balancing, curtailing, or deferring a customer’s net
+EV charging demand on the electric grid.”11 A similarly broad scope for Xcel’s initial
+pilot/demonstration effort will enable Xcel to better understand the technology's value and
+encourage customer adoption of the wide range of solutions that can deploy EV charging
+infrastructure at lower cost and on quicker timelines.
+Similar to the V2X pilots discussed above, the lessons learned and experience gained from
+this pilot should inform future offerings available to a broader, mass-market customer base. Xcel
+should use the pilot to gather information on the costs and benefits of ALM installations to develop
+an offering incentivizing customer adoption of these technologies in the next TEP. VGIC
+recommends that Xcel and the Commission investigate programs that provide an incentive
+for installing ALM technologies that is commensurate with the demand reduction and
+infrastructure cost savings resulting from the customer’s installation. For example, customers
+could receive a rebate based on a prescribed dollar-per-kW amount for the difference between the
+cumulative nameplate EVSE capacity and site connection requirement. The per-kW incentive
+11 New York Public Service Commission Case 22-E-0236. Joint Utilities’ Electric Vehicle Load Management
+Technology Incentive Program, pg. 3.
+https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={C01E3588-0000-CC11-824F-
+591C19658923}
+5
+
+amount could be based on overall infrastructure costs avoided by ALM installations – such as the
+costs associated with installing EVSE across Xcel’s service territory, regardless of the specific
+ALM approach the customer elects. The customer installing ALM would be eligible for a portion
+of the cost savings enabled by their ALM installation, with the remainder benefiting all ratepayers.
+For example, suppose the average utility-side cost for EVSE installation is $1,000 per kW, and the
+customer installs ALM to reduce 100 kW in total nameplate EVSE capacity to 80 kW site
+connection requirement. In that case, the cost savings enabled by the ALM installation is $20,000.
+Assuming a cost-share share ratio of 80/20 as an example, the customer would be eligible for a
+$16,000 incentive, while ratepayers would benefit from $4,000 in savings and/or unspent program
+budget that can be used for additional charger deployment. VGIC offers itself as a resource to
+collaborate with Xcel and the Commission on the appropriate mechanism to incentivize customer
+adoption of ALM.
+Conclusion
+VGIC appreciates the opportunity to submit these comments on Xcel’s 2024-2026
+Transportation Electrification Plan. We look forward to further collaboration with the
+Commission, Xcel, and other stakeholders in Colorado on this important initiative.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+(510) 665-7811
+www.vgicouncil.org
+6

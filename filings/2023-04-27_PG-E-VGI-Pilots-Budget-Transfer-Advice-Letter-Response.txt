@@ -1,0 +1,98 @@
+April 27, 2023
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle-Grid Integration Council to Advice Letter 6909-E of
+Pacific Gas and Electric Company
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 6909-E of Pacific
+Gas and Electric Company (“PG&E”), Request for Budget Transfer for VGI Dynamic Rate
+Implementation (“Advice Letter”), submitted on April 7, 2023.
+I. INTRODUCTION.
+With the unanimous approval of Decision (“D.”) 20-12-029 on December 17, 2020, VGIC
+commended the Commission for implementing vehicle-grid integration (“VGI”) strategies pursuant
+to SB 676 and other VGI strategies deemed reasonable by the Commission. D. 20-12-029 (the “VGI
+Strategies Decision”) also strove to implement some of the primary recommendations and outcomes
+of the lengthy and resource-intensive VGI Working Group process, which produced a Final Report
+of the California Joint Agencies Vehicle-Grid Integration Working Group, as well as subsequent
+formal party comments on VGI issues. VGIC was encouraged by Ordering Paragraphs (“OPs”) 13,
+14, and 15 directing each investor-owned utility (“IOU”) to develop with stakeholder input VGI
+pilots. Subsequently, PG&E filed Advice Letter 6259-E requesting approval for four VGI pilots. The
+Commission then issued Resolution E-5192, which approved with modifications three of PG&E’s
+four proposed pilots. Notably, Resolution E-5192 authorized PG&E to file a Tier 3 advice letter to
+request to transfer some or all of the unapproved pilot #4 funding (i.e., $2.3 million) to support the
+approved pilots #1, #2, and #3.
+The launch of PG&E’s VGI pilots in late 2022 represented a significant step toward more
+widespread VGI products and services that can benefit both EV and non-EV customers. These pilots
+represent an encouraging reflection of stakeholder feedback in the four years since SB 676 became
+law. VGIC appreciates PG&E’s continued good faith efforts to design and implement timely,
+customer-centric VGI pilots and support various VGI business models – an appropriate approach
+1
+
+April 27, 2023
+Page 2 of 3
+given the relatively nascent state of the VGI market. PG&E’s VGI pilots remain an important set of
+activities to move the market forward and are not duplicative of existing pilots.
+Based on these factors, VGIC largely supports the Advice Letter as filed and believes it aligns with
+the Commission’s intent in Resolution E-5192 and OPs 13, 14, and 15 or D.20-12-029. Moreover,
+evolving PG&E’s pilots to incorporate dynamic pricing is an important stepping stone toward the
+suite of full-scale VGI programs needed to achieve California’s decarbonization and energy
+affordability goals.
+II. DISCUSSION.
+VGIC believes the Advice Letter is ready for Commission approval. In considering PG&E’s
+proposed approach, it is important for the Commission to recognize that these pilots are the only
+active efforts in California aiming to leverage integrations with VGI aggregators to unlock both load
+flexibility and exports from residential and commercial customers in response to an advanced
+dynamic price signal (i.e., real-time rate equivalent that incorporates a dynamic distribution
+component). While PG&E’s Emergency Load Reduction Program EV/VGI Aggregation customer
+group is open to VGI aggregators, it utilizes an event-based structure to induce demand reduction
+and exports from EV chargers rather than a dynamic price signal and, as such, only provides
+opportunities to reduce net peak demand during limited emergency hours from May through
+October. Meanwhile, PG&E’s forthcoming Day-Ahead Hourly Real-Time Pricing (“DAHRTP”)
+export rate pilot is open only to commercial EV charging customers, does not offer a dynamic
+distribution component, and aims to publish a day-ahead price signal but does not aim to integrate
+directly with EV/EVSE service providers and aggregators. In contrast, the implementation of
+dynamic pricing in PG&E’s VGI pilots, as proposed in Advice Letter 6694-E: Rate Structures for
+Vehicle Grid Integration Pilots, would combine the most beneficial components of ELRP and the
+DAHRTP export rate pilot – year-round dynamic pricing that includes a dynamic distribution
+component, broad customer eligibility, and technical integrations with solution providers to support
+a better customer experience.
+Increased funding for PG&E’s VGI pilots will not only reaffirm the technical readiness of VGI
+technologies, which are already well-understood, but also will pilot programmatic and rate design
+approaches for harnessing VGI technologies at a larger scale. By implementing dynamic pricing in
+PG&E’s VGI pilots, California can meaningfully experiment with customer incentive levels,
+marketing, education, outreach, and acquisition methods. PG&E’s VGI pilots are an opportunity to
+explore greater coordination across the power and transportation sectors, and the control architecture
+needed to advance scalable customer interaction models for hardware providers, third-party
+aggregators and service providers, and other solution providers. Each of PG&E’s VGI pilots
+represents a promising candidate to be scaled to full program implementation in the near- and mid-
+term. With this in mind, VGIC stresses the criticality of ensuring the VGI pilots are successful and,
+in turn, yield key data and learnings to inform future VGI program and rate development.
+2
+
+April 27, 2023
+Page 3 of 3
+PG&E’s requested budget transfer will be used to supplement PG&E’s proposed pilot budgets for
+pricing engine development, shadow billing, ME&O and enrollment, technology integration,
+internal labor, and additional customer incentives. VGIC believes this request will meaningfully
+increase the scale and level of effort that can be supported in pursuit of a successful pilot. VGIC
+believes that PG&E’s pilots are ambitious in the sense that they each attempt to tackle multiple
+objectives using a limited budget. Thus, additional funding will be useful to ensure that all of these
+objectives are met.
+VGIC thus respectfully urges that the Commission issue a timely Resolution approving the Advice
+Letter as filed. VGIC offers its time and resources to Energy Division staff, Commissioners, PG&E,
+and other stakeholders to support addressing any related issues in a timely manner to ensure
+authorization of the budget transfer is not unduly delayed.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to PG&E’s Advice Letter. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+cc: Sidney Bob Dietz II, PG&E, c/o Megan Lawson (PGETariffs@pge.com)
+Service list R.18-12-006
+3

@@ -1,0 +1,217 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Energization Timelines. Rulemaking 24-01-018
+(Filed January 25, 2024)
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING TO ESTABLISH ENERGIZATION TIMELINES
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+February 20, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Energization Timelines. Rulemaking 24-01-018
+(Filed January 25, 2024)
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON ORDER
+INSTITUTING RULEMAKING TO ESTABLISH ENERGIZATION TIMELINES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Order Instituting Rulemaking to Establish Energization Timelines (“OIR”),
+issued by Administrative Law Judge (“ALJ”) on January 30, 2024.
+I. INTRODUCTION
+VGIC commends the Commission for issuing the OIR to establish reasonable average and
+maximum target energization timelines and address additional Commission responsibilities under
+Senate Bill (“SB”) 410 and Assembly Bill (“AB”) 50. Electric vehicle (“EV”) adoption in
+California is increasing quickly and bringing with it an urgent need to energize new EV charging
+sites. Given that these energization projects differ in nature from traditional new service requests,
+primarily due to the relatively short timeline in which they can be constructed, and the influx of
+other types of customer end uses seeking to electrify, California is confronted with a unique
+challenge: lengthy energization timelines that frustrate customers and obstruct California’s ability
+to reach its Advanced Clean Cars, Advanced Clean Fleets, Advanced Clean Trucks, and broader
+multi-sector decarbonization goals. VGIC generally supports the Commission’s focus on
+establishing average and maximum energization timelines and establishing a procedure for
+1
+
+customers to report energization delays, as this approach can provide the foundation for achieving
+faster energization timelines. However, as detailed in Section III below, establishing target
+timelines, customer reporting processes, utility reporting requirements, and utility staffing plans
+alone will not be sufficient to achieve timely energization for the coming wave of transportation
+and building electrification.
+To mitigate against worsening energization bottlenecks, it is essential for the Commission
+to explicitly develop a comprehensive suite of solutions to achieve timely energization instead
+of limiting itself to the narrow scope of items considered in SB 410 and AB 50. While VGIC
+believes that establishing reasonable average energization timelines is important, it would be a
+disservice to energizing customers and all ratepayers to overlook inherently flexible vehicle-grid
+integration (“VGI”) solutions and other well-established load flexibility approaches as tools to
+help advance timely energization. Additionally, given the state’s decarbonization goals and the
+growing popularity of customer-sited generation, including vehicle-to-everything (“V2X”)
+solutions, it is reasonable to expect a meaningful portion of new energization projects will include
+customer-sited generation / distributed energy resources (“DERs”) that can export power back to
+the grid and will also need to move through the Rule 21 interconnection process in a timely manner.
+VGIC details in Section III below recommended enhancements to the preliminary scope to
+promote (a) the development of a comprehensive suite of solutions to facilitate timely
+interconnection and (b) adequate coordination between load energization and generation
+interconnection processes.
+II. BACKGROUND & INTEREST IN PROCEEDING.
+VGIC is a 501(c)6 member-based advocacy group committed to advancing the role of EVs and
+VGI through policy development, education, outreach, and research. VGIC supports the transition to
+2
+
+a decarbonized transportation and electric sector by ensuring the value from flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient electric
+grid. VGIC’s members include automotive original equipment manufacturers (“OEMs”), EV service
+providers (“EVSPs”), distributed energy resource (“DER”) aggregators, and publicly-owned electric
+utilities. VGIC holds a direct interest in shaping the policies, procedures, and rules needed to develop
+the infrastructure required to support the timely energization of transportation electrification (“TE”).
+VGIC has been an active party in related rulemakings (“R.”) such as R.18-12-006, R.21-06-017, R.17-
+07-007, R.23-12-008, and R.22-07-005.
+III. COMMENTS ON THE PROPOSED SCOPE.
+VGIC appreciates the magnitude of challenges facing both the IOUs and customers
+regarding the increasingly lengthy gaps between when a customer requests the energization of a
+new electrical connection, including connections used to charge EVs, and the IOU’s ability to
+energize that site. As discussed at the Commission’s recent AB 50 and SB 410 Energization
+Process and Timeline Workshop,1 the challenges related to timely energization range from
+situations that are in the IOUs’ control, such as determining if a grid upgrade is needed through
+the distribution planning process, to situations that are out of the IOUs’ control, such as upgrade
+equipment supply chain constraints (e.g., materials needed to upgrade distribution system). The
+OIR’s preliminary scope seems to account for many of the challenges discussed during the
+Workshop, but VGIC identifies below several key issues that do not appear to be preliminarily
+scoped into the OIR.
+1 CPUC. Administrative Law Judge’s Ruling Admitting the February 2, 2024, Workshop Slides into the
+Record. February 14, 2024. See: https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-
+division/documents/infrastructure/energization/ab50_sb410-energization-workshop_02022024.pdf
+3
+
+A. The Commission should consider scoping in a Phase 2 to focus on flexible service
+connection and other innovative solutions to achieve the energization timeline
+goals established by September 30, 2024, or, at a minimum, ensure these solutions
+are addressed in the new TE OIR (R.23-12-008).
+Setting energization timelines and related processes required by SB 410 and AB 50 is
+necessary to accelerate the energization of new electrical connections but is insufficient. VGIC
+strongly believes utilities and customers should be permitted and incentivized to use every tool
+available to accelerate energization, including VGI and other load flexibility strategies that can
+help avoid or defer infrastructure upgrades. One such tool is currently being facilitated through
+Southern California Edison’s (“SCE”) Automated Load Control Management Systems (“LCMS”)
+pilot, which allows the use of “customer-side, third party owned, automated load management
+systems” to energize EV charging equipment that exceeds the utility’s electrical capacity at that
+site, thereby deferring or avoiding the need for time-consuming – and costly – utility-side
+infrastructure upgrades.2 While there are limited examples of this being permitted in California, it
+is unclear under precisely what framework, incentives, technical requirements, and customer
+education processes this operates. The lack of transparency surrounding the design and extent to
+which these tools are being implemented muddies the emerging picture of energization timeline
+challenges and creates a need for stakeholders to focus on these flexible solutions within the
+context of this OIR. As such, VGIC recommends the Commission consider scoping Phase 2 to
+establish policies, rules, regulations, and guidelines for implementing flexible service connection
+and other tools to mitigate delays to energization. Alternatively, if the Commission does not
+establish a Phase 2 in this OIR to address these solutions, VGIC urges the Commission to at least
+explicitly scope this matter into the new TE OIR (R.23-12-008).
+2 SCE Advice Letter 5138-E and 5138-E-A: Establishment of Southern California Edison Company’s
+Customer-Side, Third Party Owned, Automated Load Control Management Systems Pilot. Approved
+January 16, 2024; Effective January 3, 2024.
+4
+
+VGIC notes solutions and frameworks worth considering include SCE’s LCMS pilot as
+well as: load management software that can ensure site load does not exceed a given threshold;
+storage-backed charging that can provide a “buffer” between load and the grid; maps and other
+planning tools to inform customers and site developers when these solutions could or should be
+used; forms and processes to guide customers and site developers using these solutions through
+the utility energization process; shared savings models or technology deployment incentive
+programs to encourage customer and site host election of these solutions; and utility reporting
+requirements to indicate the amount and characteristics of sites that use these solutions.
+Much progress has been made in California and around the country on these topics. In
+addition to the SCE LCMS pilot detailed above, Pacific Gas and Electric (“PG&E”) has detailed
+the cost savings from using these solutions within their EV Charge Network (“EVCN”) program3;
+UL has recently published the UL 3141 certification standard to ensure safe and reliable use of
+these systems4; New York’s proposed Load Management Technology Incentive Program
+(“LMTIP”) to directly incentivize the deployment of these solutions above what is available
+through make-ready programs to ensure customers in New York can achieve timely energization
+and help meet the state’s transportation decarbonization goals5; and Draft Resolution E-5296
+would establish a Limited Generation Profiles framework to facilitate faster interconnection for
+3 See, A.21-10-010. PG&E Prepared Testimony at Ch 5-2: “ALM us used to share available electrical
+capacity among charging stations to avoid the installation cost of additional electrical capacity. PG&E will
+build off the successful use of ALM in EVCN, whereby costs were reduced and physical design constraints
+were overcome at customer sites that were deemed a good fit to use this technology.” See also, PG&E
+ALM/EV EMS Workshop Presentation. January 29, 2021. “Savings [from ALM] ranged from $30,000 to
+$200,000 per project.”
+4 UL Standards & Engagement. UL 3141: UL LLC Outline of Investigation for Power Control Systems.
+Published January 11, 2024. https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=45654
+5 Joint Utilities’ Electric Vehicle Load Management Technology Incentive Program (“LMTIP”). Case 22-
+E-036. https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7BC01E3588-0000-
+CC11-824F-591C19658923%7D
+5
+
+customer-owned generation utilizing Integration Capacity Map values, which is a related concept
+and framework that could be adapted to support timely energization.6
+Yet another innovative solution that merits consideration in Phase 2 is core energization
+process improvements in which third-party certified electricians can authorize and/or conduct
+necessary upgrades, thereby mitigating the need for utilities to dispatch an employee to every site
+requiring an upgrade. With residential, commercial, and industrial customers seeking upgrades for
+EV charging, solar, energy storage, heat pumps, appliances, and other loads, the current process
+of dispatching utility employees to every individual site will be entirely insufficient at the scale
+anticipated and the pace desired by state policy. VGIC recognizes that utilizing third-party services
+and solutions in this way would represent a relatively novel approach within the energization
+process, and we strongly believe that safety and reliability should always come first when piloting
+or developing mass-market approaches like this. Phase 2 of this OIR or, at a minimum, scoping
+items in the new TE OIR R.23-12-008, is likely the right place to consider these innovative
+solutions given their importance and complexity.
+B. The Commission should ensure close coordination with the Rule 21
+interconnection process is included in the scope of this proceeding.
+Given customer interest in DERs and the inherent capabilities of EVs as grid-supportive
+DERs, VGIC anticipates many customers seeking new or expanded electrical service under Rules
+15/16 and 29/45 might also seek a generation interconnection agreement under Rule 21. With this
+in mind, VGIC believes changes to the energization process, customer reporting process, and
+utility reporting requirements should be closely coordinated with the corresponding policies
+6 CPUC Draft Resolution E-5296. Approving in part and modifying Pacific Gas and Electric Company’s,
+Southern Edison Company’s, and San Diego Gas & Electric Company’s Advice Letters, submitted per
+Resolutions E-5211 and E-5230, providing the specifics and process of Limited Generation Profiles.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M523/K916/523916569.PDF
+6
+
+applicable to Rule 21. For example, the Commission should consider whether customers seeking
+both load energization and generation interconnection should be given the choice to undergo each
+process sequentially or in parallel. Similarly, the two processes should coordinate forms, study
+timelines, utility points of contact for customers, technical assistance, infrastructure upgrades, and
+related steps. VGIC believes customers should be permitted to seek processes either sequentially
+or in parallel and that the necessary information and steps for both pathways are clearly
+communicated and streamlined. As such, VGIC strongly recommends the Commission include in
+the scope of this OIR an issue, track, or Phase dedicated to streamlining the experience for
+customers that are seeking both load energization and Rule 21 generation interconnection. VGIC
+offers this not as a replacement for the open Rule 21 proceeding (R.17-07-007) but as an area
+where increased coordination is needed.
+IV. PROCEDURAL SCHEDULE, CATEGORIZATION, AND NEED FOR
+HEARINGS.
+VGIC supports the categorization and proposed schedule of this proceeding and agrees
+with the preliminary determination that no hearings will be needed.
+V. NOTICES.
+Service of all notices and communications in this proceeding should be directed to the
+following VGIC representative:
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+7
+
+VI. CONCLUSION.
+VGIC appreciates the opportunity to provide these comments on the OIR. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: February 20, 2024
+8

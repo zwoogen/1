@@ -1,0 +1,237 @@
+March 23, 2022
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Comments of the Vehicle Grid Integration Council to Resolution E-5192:
+Approval, with Modifications, of Pacific Gas and Electric Company Vehicle
+Grid Integration Pilots in Compliance with Decision 20-12-029
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B and the Comment Letter accompanying
+Draft Resolution E-5192 (“Draft Resolution”), the Vehicle Grid Integration Council (“VGIC”)
+respectfully comments on the proposed approval of three of the four pilots filed for approval in
+Advice Letter 6259-E of Pacific Gas and Electric Company (“PG&E”), Request for Approval of
+PG&E’s VGI Pilots in Compliance with Decision 20-12-029 (“Advice Letter”) on July 15, 2021.
+The proposed approval of the vehicle-to-grid (“V2G”) residential and commercial pilots
+(pilots #1 and #2) and vehicle-to-microgrid (“V2M”) Public Safety Power Shutoff pilot (pilot #3),
+with modifications, represents the culmination of diligent work from stakeholders, including the
+three major investor-owned utilities (“IOUs”), and offers a critical foundation for the future of
+bidirectional electric vehicle (“EV”) and EV supply equipment (“EVSE”) capabilities. In particular,
+VGIC appreciates PG&E’s good faith efforts and flexibility during the two VGI pilots workshops
+and feedback period that preceded the Advice Letter filing. VGIC is pleased to see the Draft
+Resolution build on PG&E’s efforts to advance VGI. The Draft Resolution takes significant steps to
+strengthen the proposed pilots and, as noted in VGIC’s August 2020 Response to the Advice Letter,
+the proposed VGI pilots are both necessary and not duplicative of existing pilots.
+Based on these factors, VGIC largely supports the Draft Resolution as proposed and believes
+it is aligned with the Commission’s intent per Ordering Paragraphs (“OP”) 13, 14, and 15 of
+Decision (“D.”) 20-12-029. These pilots are an important stepping stone toward the suite of full-
+scale VGI programs needed to achieve the decarbonization goals embedded in Executive Order N-
+79-20, SB 350, ARB’s in-progress 2022 Climate Change Scoping Plan, and SB 100. Moreover, these
+pilots should be approved expeditiously to ensure swift and efficient execution in support of
+California’s pressing near- and mid-term reliability and resiliency needs. However, in these
+comments VGIC highlights several critical areas that could benefit from additional clarifications or
+revisions before final implementation by PG&E. Specifically, VGIC recommends the below
+revisions to the Draft Resolution. To reiterate, VGIC supports the Draft Resolution, and we advise
+against delaying approval of pilots #1, #2, and #3.
+1
+
+March 23, 2022
+Page 2 of 6
+ Pilot #2 Charger Incentives: Allowing light-duty vehicles to apply for participation in Pilot
+#2 merits a tiered incentive approach offering higher incentives for high-powered
+bidirectional chargers. To support the expansion of Pilot #2 to include a wider set of vehicle
+types, the Commission should utilize unallocated or otherwise leftover portions of the
+authorized VGI Pilots funding.
+ Requirements for Dynamic Rate Design: The dynamic rate structures for the residential and
+commercial pilots should differ, however, PG&E should not be given the option to propose
+an alternative rate design as proposed in Section 11.2.
+ Vendor Qualification Process: The Draft Resolution should direct PG&E to detail a vendor
+qualification process consistent with PG&E’s stated goals “to partner with as many
+technology providers as possible.” PG&E should seek to institute a fair and competitive
+process to leverage pilot partners.
+ Clarification of ELRP Requirement: The Draft Resolution should clarify whether Pilot #1
+customers may choose which ELRP group to participate in, or whether they will be placed
+into a specific group by PG&E.
+ Knowledge Sharing: Section 16.1 appropriately directs PG&E to report on communication
+standards in interim and final VGI pilots reporting.
+VGIC believes these issues can be resolved through modest revisions to the Draft Resolution and
+that most of the contents of the Draft Resolution are ready for Commission adoption. In considering
+the Draft Resolution, it is important for the Commission to recognize that the proposed pilots are
+not intended to demonstrate the technical readiness of specific VGI technologies. Many of the
+underlying technical issues are now well understood. Instead, PG&E’s proposals are geared towards
+piloting programmatic approaches for harnessing VGI technologies at a larger scale, including
+experimenting with customer incentive levels, marketing, education, outreach, and acquisition. The
+VGI pilots are notably an opportunity to explore coordination across the power and transportation
+sectors, and the structures needed to advance different business models for industry stakeholders,
+including technology and service providers. With this in mind, VGIC stresses the criticality of
+ensuring any data and takeaways from the VGI pilots are accurately, transparently, and fairly
+represented in interim and final reporting.
+Finally, VGIC respectfully reiterates its request that adoption of the Draft Resolution and
+subsequent implementation of VGI pilots not be unduly delayed due to the issues raised herein.
+VGIC offers its time and resources to Energy Division staff, Commissioners, PG&E, and other
+stakeholders to support addressing each issue in a timely manner.
+2
+
+March 23, 2022
+Page 3 of 6
+I. DISCUSSION.
+A. Pilot #2 Charger Incentives: Allowing light-duty vehicles to apply for participation
+in Pilot #2 merits a tiered incentive approach offering higher incentives for high-
+powered bidirectional chargers. To support the expansion of Pilot #2 to include a
+wider set of vehicle types, the Commission should utilize unallocated or otherwise
+leftover portions of the authorized VGI Pilots funding.
+The Draft Resolution states that “PG&E may expand the scope of the commercial fleets pilot
+in response to stakeholder comments as proposed in PG&E’s November 18, 2021 data response.”1
+Specifically, VGIC reiterates its support for expanding Pilot #2 to include light-duty vehicles at
+commercial sites. Without this expansion, a clear gap in funding and program design would emerge
+and hamstring a significant segment of the EV/VGI market. Excluding light-duty EVs from the
+commercial pilot risks overlooking light duty fleet and workplace charging use cases, which is a
+major market segment. Moreover, light duty V2X at a commercial site can be readily scaled up as
+it has been demonstrated at multiple customer sites across the country and in some cases the benefits
+fully offset the monthly vehicle total cost of ownership.
+The proposed expansion to additional vehicle types would expand the set of bidirectional
+EVSE that would be used in Pilot #2, and bidirectional EVSE for light-duty and medium/heavy-
+duty vehicles are highly differentiated in their cost. The proposed enrollment incentive, which will
+help offset the costs of these EVSE, should therefor be differentiated based on the size of that
+bidirectional EVSE. VGIC recommends a higher incentive be offered to high-powered bidirectional
+EVSE compared to level 2 bidirectional EVSE. To support higher incentive levels for high-powered
+EVSE, VGIC recommends the proposed $500,000 enrollment budget for Pilot #2 and the $2.3
+million budget originally proposed for Pilot #4.
+VGIC notes the use of a significant portion of the previously authorized VGI Pilots is yet to
+be determined. Specifically, there is a $6.3 million gap between the $35 million authorized in OP 14
+of D.20-12-029 and the $29 million ultimately requested by PG&E and Southern California Edison
+Company.2 If PG&E adequately justifies the customer enrollment budget per Draft Resolution
+Section 10 and/or chooses to refile for approval of Pilot #4 per Draft Resolution Section 8, VGIC
+recommends the Commission explore the possibility of using the $6.3 million in authorized, unused
+VGI pilots funding to support higher incentive levels for high-power bidirectional chargers.
+1 Draft Resolution at 23.
+2 D.20-12-029, OP 14 states “The large electrical corporations shall identify any non-ratepayer potential funding sources
+and shall not request, in their combined applications, more than $35 million.” In the March 16, 2021 and June 4, 2021
+workshops, each IOU proposed VGI pilot budgets roughly proportionate to their load share. However, it is VGIC’s
+understanding that this was the preliminary assumed use and that funding need not necessarily be allocated according
+to load share. The $6.3 million in authorized VGI piltos funding that was not ultimately requested by San Diego Gas &
+Electric Company, therefore, could and should be allocated for use in other VGI pilots.
+3
+
+March 23, 2022
+Page 4 of 6
+B. Requirements for Dynamic Rate Design: The dynamic rate structures for the
+residential and commercial pilots should differ, however, PG&E should not be given
+the option to propose an alternative rate design as proposed in Section 11.2.
+Section 11 appropriately directs PG&E to propose a dynamic rate structure based on the
+PG&E Commercial Electric Vehicle day-ahead hourly real time pricing Pilot rate plus a distribution
+component. VGIC strongly supports the use of PG&E’s Commercial Electric Vehicle day-ahead
+hourly real time pricing rate. PG&E itself proposed the rate in October 2020 and the Commission
+has since determined that “it is reasonable to require PG&E to offer its DAHRTP rate to all
+customers that have enrolled, or are eligible to enroll, in its existing BEV schedules.”3 However,
+some differentiation may be needed in the case of residential customers. VGIC notes that the
+pending PG&E General Rate Case (“GRC”) settlement includes a dynamic rate designed for
+residential customers. While the underlying design and methodology is similar to PG&E’s
+DAHRTP rate, the revenue neutral adders differ between the two rates. VGIC recommends the rate
+structure filed for the commercial V2X pilot be based on the DAHRTP rate while the rate structure
+filed for the residential V2X pilot be based on the pending PG&E GRC settlement residential
+dynamic rate design. Importantly, each rate structure incorporates (1) a day-ahead, real-time energy
+component based on the CAISO LMP and (2) a revenue-neutral adder designed specifically for that
+customer class.
+VGIC also supports the incorporation of a distribution component and agrees with the Draft
+Resolution that the PG&E and Valley Clean Energy (“VCE”) Dynamic Rate Pilot for Agricultural
+Pumping design, as directed by D.21-12-015, offers a model to support the development of this
+distribution component.4 The PG&E and VCE Dynamic Rate Pilot approach or another novel
+distribution component design is the exact appropriate type of rate component to test out in PG&E’s
+pilots consistent with the intent of OP 13, 14, and 15 of D.20-12-029.
+With this in mind, VGIC questions whether the provision in Section 11.2 that would allow
+PG&E to propose an alternative rate design is necessary. If PG&E were to propose an alternative
+dynamic rate structure, this could result in duplicative work for PG&E, the Commission, and other
+stakeholders, which VGIC believes may further delay the implementation of pilots #1 and #2.
+Moreover, the intent of the VGI pilots is to pilot program and rate design that could reach full-scale
+implementation in the mid- and long-term. As such, it is important to incorporate the approved and
+pending structures into PG&E’s pilots so that full-scale VGI programs and policies will be
+consistent with rate options that are on track to be offered to a wider set of customers. In the case of
+the commercial DAHRTP, PG&E intends to offer the option to eligible commercial customers in
+2023.5
+3 D.21-11-017 Decision Authorizing Pacific Gas and Electric Company to Implement an Optional Day-Ahead Real
+Time Rate for Commercial Electric Vehicle Customers, issued November 19, 2021 in Application 20-10-011.
+Conclusion of Law 1.
+4 D.21-12-015 Phase 2 Decision Directing Pacific Gas and Electric Company, Southern California Edison Company,
+and San Diego Gas & Electric Company to Take Actions to Prepare for Potential Extreme Weather in the Summers of
+2022 and 2023, issued December 6, 2021 in Rulemaking 20-11-003. Ordering Paragraphs 50 through 58.
+5 Id at pages 32 and 41.
+4
+
+March 23, 2022
+Page 5 of 6
+VGIC recommends that the Draft Resolution be revised to remove Section 11.2 offering
+PG&E an option to propose an alternative rate structure. If PG&E is unable to propose a dynamic
+rate structure that is based on its approved Commercial DAHRTP or pending residential dynamic
+rate pilot, plus a distribution component (e.g., based on the PG&E and VCE Dynamic Rate Pilot for
+Agricultural Pumping), the Commission should allow them the opportunity to request additional
+time to comply with Section 11.1, for example a 30-day extension.
+C. Vendor Qualification Process: The Draft Resolution should direct PG&E to detail
+a vendor qualification process consistent with PG&E’s stated goals “to partner with
+as many technology providers as possible.” PG&E should seek to institute a fair
+and competitive process to leverage pilot partners.
+Upon reviewing the Advice Letter, VGIC was encouraged by PG&E’s stated goal “to partner
+with as many technology providers as possible.”6 VGIC believes PG&E should seek to institute a
+fair and competitive process to leverage pilot partners. While we trust PG&E’s stated goal reflects
+an earnest effort to collaborate with industry partners to advance VGI solutions as they exist today,
+we respectfully request additional clarity on the process by which PG&E will engage with vendors.
+For example, for pilots #1 and #2, beyond the vendors that PG&E identifies, VGIC there are other
+solution providers that would be capable and eager to participate. The Draft Resolution should direct
+PG&E to detail in one of its upcoming advice letters the process for identifying and partnering with
+qualified vendors in addition to those already identified in the Advice Letter. VGIC supports
+PG&E’s intent to open pilot participation to the widest possible variety of potential vendors. VGIC
+offers itself as a resource to facilitate the development of an open vendor qualification and
+partnership process.
+D. Clarification of ELRP Requirement: The Draft Resolution should clarify whether
+Pilot #1 customers may choose which ELRP group to participate in, or whether they
+will be placed into a specific group by PG&E.
+Section 11 would require, for Pilot #1, that “PG&E must ensure that customers are enrolled
+in the Emergency Load Reduction Program (ELRP) during phase 1.”7 VGIC generally supports this
+requirement, but seeks additional clarity on whether customers will choose an ELRP customer group
+or be placed in one by PG&E. For example, ELRP Group A.5 is designed for VGI aggregations and
+may therefore be appropriate for this purpose. If customers were required to enroll in Group A.5,
+the Draft Resolution should clarify the relationship between the VGI aggregator, the pilot
+vendor/partner, and PG&E. While it may make sense for the pilot vendor/partner to be the ELRP
+VGI aggregator, this may place an additional de facto requirement on pilot vendors/partners to
+participate in ELRP as a VGI aggregator. Another applicable ELRP may be Group A.6, which would
+expand load reduction beyond EV/EVSE and to the customer site in general. This Group may also
+be appropriate. Given these considerations, VGIC recommends Pilot #1 customers be provided
+6 Advice Letter Pilot #1 and Pilot #2 at Section V “Scale Up”, and Pilot #3 at Section IV “Pilot Proposal.”
+7 Draft Resolution at 20.
+5
+
+March 23, 2022
+Page 6 of 6
+ample guidance from PG&E, pilot partners/vendors, and ELRP VGI aggregators (if applicable) to
+support their decision over which ELRP program to enroll in.
+E. Knowledge Sharing: Section 16.1 appropriately directs PG&E to report on
+communication standards in interim and final VGI pilots reporting.
+Section 16.1 requires PG&E to “prepare an update to the D.20-12-029 VGI reporting
+template to include both PG&E’s proposed metrics and additional metrics.”8 The Draft Resolution
+specifies:
+“PG&E must report on adoption of communication standards by technology providers
+participating in the pilots. AL 6259-E notes that communication standards including ISO
+15118-2018 and IEEE 2030.5 are not fully adopted in the marketplace and in some
+circumstances PG&E many need to use other standards such as Open ADR as an alternative.
+PG&E must report on these metrics in the interim and final VGI pilots evaluation and, to the
+extent that results are available, in routine VGI reporting. This reporting will provide
+transparency into implementation of V2X functionality and open standards that facilitate
+interoperability and consumer choice of service providers.”9
+VGIC supports the intent to provide transparency into implementation of V2X functionality. As
+such, we agree with the language in Section 16.1, which appropriately balances the need for
+transparency with the nascent state of the market and currently limited adoption of specific
+communication standards for V2X.
+II. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments to the Draft Resolution and
+looks forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+cc: Ed Pike, Energy Division (Ed.Pike@cpuc.ca.gov)
+Paula Gruendling, Energy Division (Paula.Gruendling@cpuc.ca.gov)
+Service list R.18-12-006
+8 Draft Resolution at 27.
+9 Ibid.
+6

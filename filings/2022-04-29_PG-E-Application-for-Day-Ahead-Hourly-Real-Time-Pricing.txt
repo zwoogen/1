@@ -1,0 +1,318 @@
+Docket No.: A.20-10-011
+Exhibit No.:
+Date: April 29, 2022
+Witness: Ed Burgess
+REBUTTAL TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+
+Table of Contents
+I. Introduction 1
+II. PG&E’s April 28th Reply to VGIC’s April 27th Response. 2
+III. PG&E’S Direct Testimony Does Not Offer Any Additional Justification for Its 3
+Proposed Market Participation Approach in Contrast to a Retail Bill Based
+Approach.
+IV. Contested Issues Identified in PG&E’s April 22, 2022 Motion. 7
+Appendix A – Declaration of Ed Burgess in Support of Opening Testimony on A-1
+Behalf of the Vehicle Grid Integration Council
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Ed Burgess. I am a Senior Director at Strategen Consulting and the Senior
+4 Policy Director for the Vehicle Grid Integration Council (“VGIC”). My business address
+5 is 2150 Allston Way, Suite 400, Berkeley, California 94704.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of the Vehicle Grid Integration Council.
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to a
+12 decarbonized transportation and electric sector by ensuring the value from EV
+13 deployments and flexible EV charging and discharging is recognized and compensated in
+14 support of achieving a more reliable, affordable, and efficient electric grid.
+15 Q. Who are VGIC’s current members?
+16 A. VGIC’s members include Enel X, Ford, General Motors, Honda, Nissan, Nuvve,
+17 Stellantis (formerly Fiat-Chrysler), Toyota, dcbel, Engie, Fermata Energy, Flexcharging,
+18 Flo/AddEnergie, Sunrun, The Mobility House, Wallbox, WeaveGrid, Veloce, and
+19 Sacramento Municipal Utility District.1
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+1
+
+1 Q. Did you submit direct testimony in this proceeding?
+2 A. Yes. I submitted direct testimony on April 13th, 2022 that responded to PG&E’s
+3 supplemental application filed on March 24th, 2022.
+4 Q. What is the purpose of your rebuttal testimony?
+5 A. The purpose of my rebuttal testimony is to respond to PG&E’s April 13th Direct
+6 Testimony related to export compensation for non-Net Energy Metering (“NEM”)
+7 customers enrolled in its Commercial DAHRTP rate as filed in A.20-10-011. I will also
+8 address additional issues PG&E raised in its Motion filed on April 22nd and Reply filed
+9 on April 28th replying to VGIC’s Response filed on April 27th.
+10 II. PG&E’s APRIL 28TH REPLY TO VGIC’s APRIL 27TH RESPONSE
+11 Q. PG&E’s Reply on April 28th notes that “PG&E and VGIC have begun good faith
+12 settlement discussions” and that “initial discussions were positive and constructive.”
+13 Do you agree with this characterization?
+14 A. Yes. I participated in the initial discussions referred to by PG&E and agree that the was
+15 positive and constructive. While I have not had the opportunity to review PG&E’s
+16 Rebuttal Testimony being filed concurrently with my own testimony today, I am hopeful
+17 that PG&E’s Rebuttal will reflect some of the progress that was made in these
+18 preliminary discussions. I am also optimistic that VGIC will continue to have productive
+19 discussions with PG&E over the coming weeks towards reaching a settlement.
+20 Q. Given your optimism, how would you characterize the issues addressed in the
+21 remainder of your rebuttal testimony?
+2
+
+1 A. At this point in time, VGIC believes there are still deficiencies with PG&E’s current
+2 proposal put forward in its supplement testimony filed on March 24th and direct
+3 testimony filed on April 13th. However, VGIC is eager to continue a collaborative
+4 dialogue with PG&E that could resolve some, if not all, of these deficiencies. Thus, while
+5 this rebuttal is still critical of PG&E’s initial proposal, VGIC understands that PG&E
+6 may be amenable to alternative solutions and that PG&E may propose such solutions in
+7 its Rebuttal filed today. In that spirit, VGIC believes that this rebuttal is still helpful in
+8 further clarifying why PG&E’s initial proposal, which is further detailed in its April 13th
+9 testimony, is still an inadequate or only partial solution. Additionally, I believe this
+10 Rebuttal could help to narrow the scope of remaining issues that need to be resolved
+11 between VGIC and PG&E through settlement discussions.
+12
+13 III. PG&E’S APRIL 13TH DIRECT TESTIMONY DOES NOT OFFER ANY
+14 ADDITIONAL JUSTIFICATION FOR ITS PROPOSED MARKET
+15 PARTICIPATION APPROACH IN CONTRAST TO A RETAIL BILL BASED
+16 APPROACH.
+17 Q. Please summarize PG&E’s primary justification for proposing a market
+18 participation model rather than a retail bill based model for export compensations
+19 from non-NEM customers.
+20 A. In its Direct Testimony, PG&E cites reliability concerns as a primary justification for
+21 proposing a market participation model – rather than a retail bill-based approach – to
+3
+
+1 compensate non-NEM exports for customers participating in DAHRTP.2 Specifically,
+2 PG&E states that retail bill compensation models allow for distributed energy resources
+3 (“DER”) to send “uninstructed” energy onto the system. PG&E defines “uninstructed” as
+4 “meaning there is no requirement or processes to coordinate the volume of energy that
+5 would flow onto the distribution and transmission systems outside of limitations and
+6 conditions established in the interconnection tariff.”3
+7 Q. Does the established interconnection tariff already impose specific requirements on
+8 exporting DERs to ensure safety and reliability?
+9 A. Yes. PG&E’s own testimony clearly states that the existing interconnection tariff already
+10 provides a set of “limitations and conditions” on exported or uninstructed energy. In fact,
+11 PG&E’s Rule 21 tariff governs interconnection for DERs, and specifically requires that
+12 Rule 21 interconnected DERs (i.e., inverters) meet certain conditions intended to ensure
+13 safety and reliability.4 Notably, Rule 21 was updated pursuant to D.20-09-035
+14 specifically to address concerns related to the safety and reliability of V2G
+15 interconnection.
+16 Q. Does PG&E’s direct testimony in this proceeding detail how the established
+17 interconnection tariff is insufficient to ensure safety and reliability for exports from
+18 DAHRTP customers?
+19 A. No. PG&E does not offer any facts, data, or other evidence to support its claim that the
+20 established interconnection tariff (i.e., Rule 21) is insufficient to ensure safety and
+2 PG&E Direct Testimony at pp. 2-3.
+3 PG&E Direct Testimony at p. 2.
+4 PG&E Electric Rule No. 21. Section Hh. Smart Inverter Generating Facility Design and Operating Requirements at
+p. 187.
+4
+
+1 reliability. VGIC disagrees with PG&E’s implication that the established interconnection
+2 process is not robust enough to ensure safety and reliability concerns. If such reliability
+3 concerns were material, they would have already been addressed in the appropriate Rule
+4 21 proceeding (e.g., R.17-07-007) or will be addressed as additional concerns arise. In
+5 fact, there are already thousands of inverter-based DERs exporting to PG&E’s system in
+6 the form of rooftop solar, and yet PG&E continues to operate its distribution system
+7 reliably. Allowing other types of inverter-based resources, such as V2G EVSE from non-
+8 NEM DAHRTP customers, to be part of this mix will not fundamentally change anything
+9 from a reliability standpoint that the current Rule 21 approach is unable to handle.
+10 Q. PG&E hypothesizes that a significant number of DERs could pose a challenge to a
+11 future Distribution System Operator (“DSO”). Do you agree?
+12 A. No. PG&E states that it believes that the presence of a significant number of DERs could
+13 threaten reliability for the Distribution System Operator (“DSO”), “when the distribution
+14 system is reconfigured in such a way that it cannot accommodate DER exports that are
+15 allowed within the interconnection agreement parameters.”5 Although PG&E uses the
+16 term “DSO” throughout its Direct Testimony, this overlooks the simple fact that there is
+17 no entity in California known as a DSO, and it is unclear whether one will ever be
+18 established. PG&E’s assertions regarding how a high DER future would challenge a DSO
+19 are highly speculative. In addition, PG&E does not define what it means by “when the
+20 distribution system is reconfigured in such a way that it cannot accommodate DER
+21 exports.”6
+5 PG&E Direct Testimony at p. 3.
+6 PG&E Direct Testimony at p. 3.
+5
+
+1
+2 Q. PG&E expresses concern that exports from DAHRTP customers could create
+3 reliability challenges for the CAISO, “as it would need to adjust market dispatches
+4 to accommodate unplanned exports and may need to carry additional reserves if the
+5 volume of exports is large and uncertain.”7 Do you agree?
+6 A. No. PG&E’s description of CAISO’s planning and operations approach is somewhat
+7 misleading. CAISO already deals with significant uncertainty regarding variable system
+8 load and variable generation.8 Advanced forecast techniques and carrying additional
+9 reserves are already standard practices for CAISO to deal with these uncertainties and
+10 would still be implemented if V2X somehow exacerbated uncertainty in net load to a
+11 large degree, although it is unclear to VGIC that this would even be the case any time
+12 soon. Over time, CAISO has continually refined its techniques to better forecast load and
+13 generation elements, including DERs, and VGIC is reasonably confident CAISO will
+14 continue to do so in the event V2X penetration becomes large enough that it significantly
+15 influences CAISO operations. As noted in VGIC’s Opening Testimony, we do not
+16 believe this will happen in the near future given that the DAHRTP non-NEM customers
+17 represent only a small portion of total customer interest in V2X technologies, let alone
+18 BTM resources within CAISO. Additionally, because the DAHRTP pricing is linked to
+19 the CAISO price signal, and customers will be encouraged to respond accordingly,
+20 compensating exports using the DAHRTP price should actually be effective at improving
+21 system reliability from CAISO's perspective relative to a rate that does not encourage
+7 PG&E Direct Testimony at p. 3.
+8 CAISO. Day-Ahead Market Enhancements: Third Revised Straw Proposal. “Need for Day-Ahead Market
+Enhancements”. April 27, 2022. http://www.caiso.com/InitiativeDocuments/Third-Revised-Straw-Proposal-Day-
+Ahead-Market-Enhancements.pdf. Page 14-17.
+6
+
+1 BEV’s to export during scarcity events. Moreover, DAHRTP can be made available in
+2 the near term (i.e., 2023), when California's reliability needs are expected to be most
+3 acute due to potential generation shortfalls in the summer. This contrasts with PG&E’s
+4 proposal which might take many years for a viable market integration option to be
+5 resolved.
+6 Q. Do you agree that implementing a retail bill-based compensation mechanism for
+7 non-NEM DAHRTP customers would result in reliability concerns?
+8 A. No. In fact, VGIC believes that expanding the export approach that it is already offering
+9 to a subset of its DAHRTP customers (i.e., NEM customers) will support reliability by
+10 ensuring resources are compliant with Rule 21 and supporting CAISO system needs
+11 through its underlying rate design.
+12
+13 IV. CONTESTED ISSUES IDENTIFIED IN PG&E’S APRIL 22, 2022 MOTION
+14 Q. Are you familiar with the Motion PG&E filed on April 22, 2022 in this proceeding?
+15 A. Yes. The motion requested an evidentiary hearing and identified several issues PG&E
+16 believes may be contested between the Company and VGIC. These include the
+17 following:
+18  Sub-issue 2.A: Is PG&E’s market participation approach germane such that it belongs in
+19 this proceeding[?]
+20  Sub-issue 2.B: Resource Adequacy Valuation and Compensation Methodology
+21  Sub-issue 2.C: Export Valuation
+7
+
+1  Sub-issue 2.D: Alternative approaches
+2  Sub-issue 2.E: ELRP Dual Participation
+3  Sub-issue 2.F: VGIC’s current position appears to be that PG&E may be open to a
+4 rate/market participation hybrid approach
+5 Q. Do you agree with PG&E’s assessment of these contested issues?
+6 A. There is only minimal detail provided on each of these topics so it is difficult for me to
+7 provide a complete answer. I presume PG&E might expound upon these topics in its
+8 Rebuttal being filed concurrently with my own Rebuttal testimony today. However, I do
+9 have a few preliminary observations on the issues PG&E raised in its April 22, 2022
+10 Motion.
+11 Q. Can you share your preliminary observations on these issues, recognizing that the
+12 information from PG&E is very limited at present?
+13 A. Yes. I will address each sub-issue in turn:
+14 Sub-issue 2.A: Is PG&E’s market participation approach germane such that it belongs in
+15 this proceeding[?]
+16 As addressed in my opening testimony, VGIC reiterates that the overall thrust of the
+17 ALJ’s 1-14-2022 Ruling in this proceeding, including the detailed questions on page 3,
+18 was for PG&E to develop a retail non-NEM export rate. If PG&E had initially followed
+19 the ALJ’s direction, then VGIC believes this would not be a contested issue. Instead,
+20 PG&E chose not to comply with the ALJ’s direction and chose to pursue a totally
+21 different pathway towards V2G compensation that would potentially take years to
+22 resolve. Notably, this conflicts with D. 21-11-017 which states that “to ensure PG&E can
+8
+
+1 fully implement its DAHRTP rate for BEV customers in 2023 as proposed, we will not
+2 delay the second phase of this proceeding indefinitely.”9 Moreover, PG&E’s April 22,
+3 2022 Motion attempted to shift the burden of proof onto VGIC for developing the initial
+4 retail non-NEM export rate. VGIC would have been more than happy to work with
+5 PG&E to provide input to the development of the retail non-NEM export rate, however
+6 VGIC was never consulted prior to PG&E’s Motion being filed. Despite all these
+7 concerns, constructive settlement talks are now under way and VGIC is reasonably
+8 confident that PG&E and VGIC will be able to align on a retail non-NEM export rate
+9 approach. As discussed above, VGIC is participating in productive settlement discussions
+10 with PG&E and is optimistic about continuing these discussions in the near future.
+11 Sub-issue 2.B: Resource Adequacy Valuation and Compensation Methodology
+12 In opening testimony, VGIC addressed PG&E’s discussion of Resource Adequacy
+13 Valuation. However, VGIC does not believe that this issue can be resolved in this
+14 proceeding and does not seek to contest it any further.
+15 Sub-issue 2.C: Export Valuation
+16 In the Motion, PG&E states: “PG&E’s proposal clarifies that it seeks to avoid the
+17 negative consequences of NEM type over-compensation…” As VGIC discussed in its
+18 opening testimony, the export rate VGIC proposed already avoids NEM type over-
+19 compensation since it is a “generation only” rate and does not include any compensation
+20 for the distribution components of retail rates. The only element of the existing DAHRTP
+21 rate that might require some additional scrutiny in this regard is the Revenue Neutral
+9 D. 21-11-017, p 41.
+9
+
+1 Adder. However, any concerns about overcompensation regarding the Revenue Neutral
+2 Adder should also be counterbalanced by the fact that energy exported from a V2G
+3 resource can have increased system value relative to imports, such as avoided line losses
+4 from displaced generation. Thus, for simplicity, VGIC continues to recommend that the
+5 export rate be set equivalent to the DAHRTP charging rate. At a future date these
+6 elements (e.g., revenue neutral adder, line losses, etc.) could be re-examined. Finally,
+7 VGIC reiterates its position that a distribution value component should be considered in
+8 the future.
+9 Sub-issue 2.D: Alternative approaches
+10 PG&E states that it “will explain why compensation at the full generation rate component
+11 would not be appropriate.” VGIC is unable to further assess this critique without more
+12 information. It is not clear that there will be a formal opportunity to do so prior to a
+13 hearing in this case.
+14 Sub-issue 2.E: ELRP Dual Participation
+15 PG&E states that, “Per ELRP decision (D.20-11-003 [sic], p.133) dual participation is not
+16 allowed with RTP.” VGIC believes PG&E is mistaken on this issue. In fact, page 133 of
+17 the Final Decision (D.21-12-015) issued in R.20-11-003 states the following (emphasis
+18 added): "We omit the provision in the Proposed Decision that Residential ELRP
+19 customers or ELRP group A.4 and A.5 may not simultaneously be enrolled in a critical
+20 peak pricing, SmartRate or similar dynamic rate tariff and enroll in the ELRP pilot, since
+21 IOUs do not have visibility into whether customers are taking service under critical peak
+10
+
+1 pricing, SmartRate or similar dynamic rate tariffs."10 As such, BEV customers
+2 participating in ELRP group A.5 should be able to participate in a dynamic tariff rate
+3 such as DAHRTP without requiring a Petition to Modify the ELRP decision. Given this,
+4 VGIC maintains its recommendation in opening testimony to permit dual participation in
+5 DAHRTP and ELRP. More generally, VGIC’s overarching concern here is that the
+6 market for V2G products and services is still emerging, and there are very few stable
+7 revenue streams available that can help this suite of technologies and services to develop
+8 even further. In fact, ELRP is currently the only form of compensation for V2G in
+9 California outside of demonstration projects. Thus, VGIC stresses the importance of
+10 optionality so that new market entrants can test the viability of different operating
+11 paradigms and use cases. A market participant might be hesitant to participate in the new
+12 DAHRTP export rate if that meant foreclosing the opportunity to continue participating
+13 in the more well established ELRP program. Additionally, it's unclear if the DAHRTP
+14 export rate would provide the same level of certainty in compensation as ELRP, and in
+15 turn the same level of beneficial exports, during ELRP events.
+16 Sub-issue 2.F: VGIC’s current position appears to be that PG&E may be open to a
+17 rate/market participation hybrid approach
+18 It is unclear to VGIC what this means. However, as VGIC established in opening
+19 testimony, we are open to a parallel or “hybrid” approach whereby VGIC’s proposed
+20 DAHRTP retail export rate is available as soon as the DAHRTP retail charging rate is
+10 Moreover, this modification is clearly reflected in the revisions made to Attachment 2. See Proposed Decision
+Attachment 2 at p. 6 (https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M419/K191/419191939.PDF) and Final
+Decision 21-12-015 Attachment 2 at p. 6
+(https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821668.PDF).
+11
+
+1 available. Meanwhile, the steps required for PG&E’s market integration effort, including
+2 the proposed Market Assessment Study and Workshop Plan, could continue to be
+3 pursued in parallel. Once the market integration approach is ready for customer
+4 participation, it could be offered as an alternative to the DAHRTP export rate.
+5 VGIC believes this hybrid/parallel approach is appropriate and necessary to avoid a
+6 scenario whereby a DAHRTP customer wishes to export (which will be technically
+7 feasible on Day 1 of DAHRTP’s availability) but would unfairly be compensated $0/kWh
+8 for these exports. This situation could arise as soon as 2023 and potentially far beyond,
+9 until PG&E’s proposed market integration stakeholder process concludes.
+10 If there is no export rate available between the time when the DAHRTP-CEV rate is first
+11 effective and the time PG&E’s proposal is first implemented, VGIC believes this would
+12 send a very confusing signal to the rapidly growing market for V2X products and
+13 services. This would be especially concerning when these products and services are
+14 desperately needed now to shore up summer reliability needs and address PSPS events.
+15
+16 Q. Does this conclude your testimony?
+17 A. Yes.
+12
+
+Appendix A:
+Declaration of Ed Burgess in Support of Rebuttal Testimony on Behalf of the Vehicle Grid
+Integration Council
+A-1
+
+DECLARATION OF ED BURGESS IN SUPPORT OF REBUTTAL TESTIMONY ON
+BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+I, Ed Burgess, am the Senior Policy Director for the Vehicle Grid Integration Council
+(VGIC). Having worked for VGIC since its founding in 2020, I am currently managing policy
+and regulatory affairs for VGIC and its 19 members. My business address is 2150 Allston Way,
+Suite 400, Berkeley, CA 94704. I declare under penalty of perjury that the foregoing facts in this
+document are true and correct.
+Executed on April 29, 2022 at Berkeley, California.
+Ed Burgess
+A-2

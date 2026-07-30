@@ -1,0 +1,183 @@
+Comments of the Vehicle-Grid Integration Council
+on the Proposed Advanced Clean Cars II Battery Durability Requirements
+I. Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade association
+committed to advancing the role of electric vehicles (EVs) and vehicle-grid integration (VGI) through
+policy development, education, outreach, and research. VGIC supports the transition to a decarbonized
+transportation and electric sector by ensuring the value from EV deployments and flexible EV charging
+and discharging is recognized and compensated in support of achieving a more reliable, affordable, and
+efficient electric grid. VGIC appreciates the opportunity to provide comments to the California Air
+Resources Board (CARB) on the proposed Advanced Clean Cars (ACC II) regulations, particularly those
+regarding battery durability requirements.
+II. VGI technologies and services stand to play a pivotal role in helping California achieve several
+important policy goals, including global leadership on greenhouse gas reductions
+VGI is a broad term that includes a variety of possible technologies and use cases for EVs to
+employ unidirectional managed charging (V1G), provide on-site backup power and behind-the-meter
+customer bill management (Vehicle-to-Building, or V2B), or export power to the grid (Vehicle-to-Grid, or
+V2G). Additional applications include residential emergency power backup during blackouts and the use
+of EVs for powering homes during on-peak hours (Vehicle-to-Home or V2H). Importantly, these
+technologies and services operate at the intersection of two of the largest sectors contributing to
+California’s overall greenhouse gas (GHG) emissions contribution. Thus, VGI stands to play a
+fundamental role in helping California achieve its ambitious GHG emissions reduction goals for both of
+these sectors as described below.
+1. VGI aids decarbonization of the transportation sector by accelerating EV adoption
+The transportation sector is the largest source of GHG emissions in California, accounting for
+almost 40% of statewide emissions in 2019.2 To address this Governor Newsom’s Executive Order N-79-
+20 sets a target for 100% of in-state sales of new passenger cars and trucks be zero-emission by 2035
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., Fermata, LLC., FlexCharging, Inc., Ford Motor Company, General Motors Company, Nissan North America, Inc.,
+Nuvve Corporation, Stellantis N.V., The Mobility House, Toyota Motor North America, Inc., and Veloce Energy, Inc.
+The views expressed in these comments are those of VGIC, and do not necessarily reflect the views of all individual
+VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2 CARB. California Greenhouse Gas Emissions for 2000 to 2019: Trends of Emissions and Other Indicators.
+https://ww3.arb.ca.gov/cc/inventory/pubs/reports/2000_2019/ghg_inventory_trends_00-19.pdf
+1
+
+and for 100% of medium- and heavy-duty vehicles in the state be zero-emission by 2045.3 VGI can
+directly help California achieve these goals by accomplishing the following:
+ Reducing the total cost of EV ownership by lowering charging costs and unlocking new
+revenue streams for EV owners and fleet operators
+ Unlocking new customer value proposition beyond mobility, such as home backup
+power and grid services when a vehicle is not in use
+ Unlocking new revenue streams for vehicle manufacturers, thereby improving the
+business case for scaling up EV product design, manufacturing, marketing, and sales
+ Improving the utilization of public charging infrastructure so that investments in
+charging equipment can stretch further.
+2. VGI aids decarbonization of the power sector by providing essential grid services as
+renewable energy penetration increases
+SB 100 requires 100% of electric retail sales to customers in California to be from renewable and
+zero-carbon energy resources by 2045.4 As the share of solar and wind power on the grid increases in
+support of this goal, a number of essential grid reliability services will need to be provided by clean
+resources instead of traditional fossil fuel resources. VGI-enabled EVs can play an important role in this
+transition by providing these services, including:
+ Resource adequacy
+ Flexible operating reserves (spin and non-spin)
+ Frequency regulation
+ Frequency response.
+Crucially, electric vehicles with VGI capabilities stand to provide a new source of generation to the grid
+during critical peak load hours. This can assist in avoiding heat wave-driven blackouts, such as those
+California experienced in August 2020. In fact, in July 2021, Governor Newsom signed an emergency
+proclamation to expedite clean energy projects that relieve demand on the electrical grid during
+extreme weather events this summer and in coming years.5 In response, the California Public Utilities
+Commission issued a proposal that included a prominent role for electric vehicles to contribute to this
+effort.
+3 Executive Order N-79-20. https://www.gov.ca.gov/wp-content/uploads/2020/09/9.23.20-EO-N-79-20-
+Climate.pdff
+4 SB 100. https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB100
+5 https://www.gov.ca.gov/2021/07/30/governor-newsom-signs-emergency-proclamation-to-expedite-clean-
+energy-projects-and-relieve-demand-on-the-electrical-grid-during-extreme-weather-events-this-summer-as-
+climate-crisis-threatens-western-s/
+2
+
+In addition to GHG reductions in the transportation and power sectors, VGI also can assist the
+achievement of other important policy goals described below.
+3. VGI can increase energy affordability by reducing electricity bills for all customers
+VGI can increase the affordability of electricity bills in two distinct ways. First, VGI can help limit
+overall electricity system cost increases and, in turn, limit future customer bill increases. By leveraging
+already deployed EVs to provide necessary grid services, VGI offers an approach that can be more cost-
+effective than traditional means of providing the same services. For example, it can reduce the need to
+build new power plants to meet peak demand. VGI can also provide more flexible resources to manage
+the integration of wind and solar, and it can take advantage of abundant, low-cost solar energy in the
+daytime to power EV charging at night. Second, in addition to directly reducing system costs, VGI can
+help reduce electricity bills, even for non-EV owners. Because VGI plays a role in accelerating EV
+adoption, it also helps place downward pressure on overall electricity rates by increasing the total
+volume of electricity sales (i.e., kWh) relative to the grid’s fixed costs.
+4. VGI can improve grid resiliency and security, including during wildfire risks events
+The prospect of more frequent grid reliability events, such as extreme weather events and
+wildfire risk, creates an urgent need to enhance grid resiliency, as expressed by Governor Newsom’s July
+31st Emergency Proclamation.6 VGI capabilities can be leveraged to reduce EV charging load as well as
+export power to the grid to help ease peak demand and thus are particularly suitable to support
+contingency programs under the Emergency Proclamation. Additionally, California’s public safety power
+shutoff (PSPS) events highlight the need for microgrids to support vulnerable communities, as well as
+the value of on-site backup power for customers experiencing an outage. VGI-enabled vehicles can offer
+a solution by using EV batteries as a source of backup power during outage events. This approach could
+provide a relatively cost-effective microgrid solution as well as unlock a new value proposition for
+customers seeking backup power during a planned or unplanned outage. Meanwhile, by using EVs as
+sources of backup power, this can provide a cleaner alternative to fossil fuel backup generators in
+support of state microgrid and resiliency priorities.
+5. VGI can foster economic activity through innovation, competition, and market
+transformation
+The multifaceted ecosystem of firms engaged in the VGI marketplace reflects the depth and
+diversity of private investment. As an example, over 50 automotive original equipment manufacturers
+(OEMs), EV supply equipment companies, and EV service providers are engaged on the topic of VGI in
+California. These market participants engage with equipment and software providers, project
+developers, financers, engineering, procurement, and construction companies, and operations &
+6 Proclamation of a State of Emergency. https://www.gov.ca.gov/wp-content/uploads/2021/07/Energy-
+Emergency-Proc-7-30-21.pdf
+3
+
+maintenance experts. VGI is well positioned to leverage existing strengths in the high-tech industry to
+build a vital new segment of the clean energy and transportation economies.
+III. Battery durability requirements set by CARB through ACC II should account for VGI activities
+Battery degradation is a complex topic and depends on chemistry, temperature, use case, and
+other factors. Some VGI activities, especially those utilizing V2B or V2G capabilities, will require
+additional battery cycling that will impact long-term battery durability. While the exact level of cycling
+will depend on the specific VGI use case and could vary based on customer behavior, it is reasonable to
+expect that in the future most EVs could experience some incremental level of degradation due to VGI
+activities.
+Given the extensive public and private benefits that VGI can offer, as detailed above in Section II, it is
+paramount that any battery durability and warranty requirements CARB establishes for EVs not
+inadvertently foreclose VGI opportunities. Setting overly-stringent durability requirements that limit VGI
+activities – whether intentionally or not – conflicts with CARB’s larger mission of reducing emissions and
+accelerating EV adoption.
+VGIC is concerned that the battery durability and warranty requirements currently being considered by
+CARB under ACC II could place arbitrary restrictions on VGI activities. Based on the public information
+provided to date, it is not clear to VGIC that CARB has sufficiently accounted for the potential for
+increased battery cycling that may arise from VGI. VGIC appreciates CARB’s intent to ensure consumer
+protection and customer satisfaction with EV ownership through robust durability standards. However,
+overly stringent requirements that constrain battery cycling could also constrain the novel set of value
+propositions that VGI offers and would otherwise spur EV adoption (e.g., home backup power, payment
+for grid services, etc.). Overly stringent durability and warranty requirements could drive OEMs to limit
+the range, performance, and/or state of charge, or take other measures to provide for sufficient
+degradation margin in later years. As such, VGIC believes that CARB should consider an approach to
+durability requirements that balances consumer protection via battery longevity with other near-term
+customer benefits provided through VGI.
+To this end, VGIC believes it may be premature for CARB to set durability requirements that are
+significantly out of step with the international community, which is in the process of trying to address
+these specific VGI-related concerns. For example, there are ongoing efforts by the Informal Working
+Group on Electric Vehicles and the Environment under the United Nations Economic Commission for
+Europe (UN ECE) to develop minimum performance requirements for EV batteries that include V2X
+considerations. This Working Group is chaired by the US Environmental Protection Agency (EPA) and
+includes the European Commission, individual European and Asian countries, as well as industry
+stakeholders from around the world. The overall battery durability requirements currently
+contemplated by the Working Group is 80% of battery energy after 5 years/100,000 kilometers (km) and
+4
+
+70% after 8 years/160,000 km, much lower than CARB’s proposed durability requirement of 80% of
+range for 10 years/150,000 miles (240,000 km).7 In order to account for VGI activities, the Working
+Group is also considering a “virtual km” mechanism, in which the energy discharged by the EV battery in
+V2G/V2B mode is converted to a km equivalent via a predetermined formula.8 The total mileage used
+for confirming the compliance with the performance requirements would consist of the sum of the km
+driven and the virtual km. While VGIC is not necessarily endorsing this specific approach or
+methodology, we believe that CARB must implement an agreed upon method to account for VGI battery
+degradation such as the UN GTR “virtual miles” before adopting a final ACC II regulation. ACC II would
+then enable manufacturers to determine a path forward for customers to access the various additional
+services that EVs can provide besides mobility. VGIC believes that reduced stringency on durability
+standards to accommodate VGI will not only help improve the value proposition of EVs for customers,
+but will help accelerate California’s transition to a ZEV future.
+VGIC is aware that CARB may be considering updates to its current proposal and may share those at the
+upcoming Fall 2021 workshop. We look forward to reviewing these changes and hope that they will
+address the issues raised in this letter.
+IV. CARB should consider how ACC II could accelerate VGI technologies and services.
+CARB has an opportunity in ACC II to not only remove barriers to VGI technologies and services, but also
+to actively promote VGI as a key strategy to reduce both primary and secondary transportation
+emissions. VGIC welcomes a more in-depth dialogue on this and offers itself as a resource on VGI topics
+for ARB staff and decision makers.
+V. Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to working with
+CARB to ensure that EVs are fully leveraged to support California’s decarbonization goals.
+Respectfully submitted,
+Ed Burgess
+7 United Nations Economic Commission for Europe – Informal Working Group on Electric Vehicles and the
+Environment. Proposal for a new UN GTR on In-Vehicle Battery Durability for Electrified Vehicles.
+https://wiki.unece.org/download/attachments/128420965/Based%20on%20GRPE-83-
+09%208%209%20July%202021%20EC%20US%20proposal.docx?api=v2
+8 For example, see the following presentation on V2X virtual mileage at the 50th EVE IWG meeting:
+https://wiki.unece.org/download/attachments/128420289/Input%20on%20V2X%20virtual%20mileage.pptx?api=v
+2
+5
+
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+vgicregulatory@vgicouncil.org
+6

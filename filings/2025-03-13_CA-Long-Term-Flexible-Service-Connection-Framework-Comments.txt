@@ -1,0 +1,217 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+03/13/25
+Order Instituting Rulemaking to Rulemaking 21-06-017
+04:59 PM
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+R2106017
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL TO ASSIGNED
+COMMISSIONER’S AND ADMINISTRATIVE LAW JUDGE’S RULING SEEKING
+ADDITIONAL INFORMATION FROM PARTIES, SETTING FORTH FURTHER
+DIRECTION, AND MODIFYING SCHEDULE FOR TRACK 3
+Zach Woogen
+Executive Director
+Vehicle-Grid Integration Council
+1401 21st St., Suite 5409
+Sacramento, California 95811
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Grace Pratt
+Caliber Strategies
+801 K Street, Suite 2800
+Sacramento, CA 95814
+Telephone: (818) 264-6437
+Email: grace@caliberstrat.com
+Date: March 13, 2025
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL TO ASSIGNED
+COMMISSIONER’S AND ADMINISTRATIVE LAW JUDGE’S RULING SEEKING
+ADDITIONAL INFORMATION FROM PARTIES, SETTING FORTH FURTHER
+DIRECTION, AND MODIFYING SCHEDULE FOR TRACK 3
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments to the Administrative Law Judge’s Ruling Seeking Additional Information from
+Parties, Setting Forth Further Direction, and Modifying Schedule for Track 3 (“Ruling”) filed by
+Commissioner Darcie Houck, Administrative Law Judge (“ALJ”) Justin Regnier, and ALJ
+Manisha Lakhanpal on February 7, 2025 and the Email Ruling Granting Schedule Amendment
+(R.21-06-017) filed by ALJ Justin Regnier on February 20, 2025.
+I. INTRODUCTION.
+VGIC appreciates the Commission moving forward discussions on the development of
+flexible service connections (“FSCs”) and the operational flexibility discussed in the Smart
+Inverter Operationalization Working Group (“SIOWG”). As discussed by many parties in this
+proceeding, there are significant benefits that can be provided by FSCs and general operational
+flexibility, including the potential to save ratepayers over $23 billion in distribution upgrade costs
+by 2035. There are both near- and long-term opportunities for FSCs to provide grid services. Given
+the parallel rulings between this proceeding and the Energization Timelines Rulemaking (R.24-
+2
+
+01-018), VGIC will largely focus this set of comments on longer-term opportunities for FSCs and
+the questions outlined in this Ruling.
+II. RULING QUESTIONS.
+1. In response to the SIO Reports, parties generally supported prioritizing flexible grid
+connections, interconnection and grid services, operational flexibility with firm/non-firm
+capacity, and non-firm export/import limits in Track 3 of this rulemaking. Given these initial
+comments, where do parties believe implementation of changes will be most effective in
+ensuring that Distribution System Operators and DERs have the necessary flexible grid
+connections to enable the use cases outlined in the SIOWG report?
+VGIC believes that the most important steps California can take to enable the business and
+use cases outlined in the SIOWG Report is to create a standardized FSC framework for imports
+and exports that incorporates both firm and non-firm components. This includes the creation of
+customer agreements for these types of arrangements (i.e., Flexible Service Connection
+Agreements or “FSCA”), schedules for firm import and export limits (i.e., Flexible Service
+Connections or “FSC”), rules around the allocation of firm and non-firm import and export
+capacity, and communications protocols for sharing non-firm import and export schedules.
+In the near-term, there is significant potential to leverage static but variable firm import
+limits, or limited load profiles (“LLPs”), to parallel the existing Limited Generation Profiles
+(“LGPs”) to begin to create FSCs. VGIC shares more recommendations for implementing LLPs
+in response to the parallel ALJ Ruling in R.24-01-018. In the long-term, non-firm import and
+export capacity will also need to be unlocked to enable the use cases outlined in the SIOWG report.
+These will all require practical rules and agreements to be implemented.
+3
+
+2. How can flexible grid connections and associated tools contribute to meeting the needs of
+a decarbonized future with regards to addressing timely energization (medium and long
+term), including distribution system capacity shortfalls, equitable access to the grid, and cost
+containment?
+One of the most important benefits of flexible grid connections is allowing for
+electrification to occur more quickly, helping California achieve its air quality and climate goals,
+and saving ratepayers significant amounts of money. Adding new load to the system will put
+downward pressure on rates, but new load will also require additional grid investments. Therefore,
+shaping load, especially EV load, is critical to ensuring affordability. Optimal load shapes will
+maximize the kWh sales of electricity while minimizing the need for additional investments in
+grid infrastructure or electricity generation resources. California has already begun to quantify the
+impact of shaping load. For example, the Electrification Impact Study by Kevala conducted in this
+proceeding estimated that transportation electrification will cost $36.2 billion in distribution
+upgrades by 2035; this is largely due to Kevala’s assumption that there will be little or no managed
+charging and a very high evening peak.1 Cal Advocates has shown that by shaping EV load to the
+average load profile from the Integrated Energy Policy Report (“IEPR”), these costs reduce by
+37% to $22.7 billion.2 Optimizing load profiles based on local feeder conditions can further reduce
+costs, saving ratepayers almost $23 billion or 63% of Kevala’s original estimated distribution
+upgrade costs.3 These significant ratepayer savings should be pursued, and the Commission should
+find ways to shape load to minimize distribution upgrade costs.
+1 Kevala prepared for CPUC. Electrification Impacts Study Part I: Bottom-Up Load Forecasting and System-Level
+Electrification Impacts Cost Estimates. May 9, 2023. https://cdn.prod.website-
+files.com/62a236e9692c48cff36898da/6462917ab8a790b6b85f5fbb_CPUC%20Kevala%20EIS%20Part%201.pdf
+2 Cal Advocates, DGEM 2.0 Preliminary Results, October 21, 2024 at slide 10.
+https://www.publicadvocates.cpuc.ca.gov/-/media/cal-advocates-website/files/press-room/reports-and-
+analyses/241024-public-advocates-office-dgem-20-preliminary-results.pdf
+3 Ibid at slide 11.
+4
+
+While there are many tools to shape load, such as time-varying / dynamic rates and demand
+response programs, FSC is one of the only frameworks that guarantees that load will stay below
+a certain level by utilizing PCS to place physical import limits on a site. Therefore, if a utility or
+LSE is depending on a customer to have a particular load shape or to provide load reduction during
+circuit, there will be a very high degree of trust that the load shape will be adhered to. This can
+increase the ability for DERs, such as EVs, to provide grid services such as Resource Adequacy
+credit from load modification.
+While all stakeholders are concerned about energization as an immediate and near-term
+issue, energization delays are likely to persist for many years. The amount of load expected to be
+added to the grid is expected to increase by over 5,000 GWh each year for the next ten years, a
+30% increase between 2025 and 2036.4 This makes maximizing flexible connection options even
+more important, as customers will likely rely on them for over a decade.
+3. When considering the examination of static (i.e., firm) and dynamic (i.e., non-firm) flexible
+grid connections for imports and exports: (a) What are the project type and specific
+examples that would benefit from the development of the more complex use cases identified
+in the High-DER Proceeding and SIO Report(s) record to date involving non-firm import
+and export limits? Explain if these project types are load only, generation only, or combined
+load and generation.
+For EV customers, VGIC anticipates many customers in different scenarios that could
+leverage the complex use cases identified in the SIOWG report. Specifically, VGIC anticipates
+EV customers leveraging “Use Case 1: Scheduling of Firm Export Limits and Non-Firm Export
+Capacity” and “Use Case 4: Operational Flexibility in Import Limits and Non-Firm Import
+Capacity” to unlock “Business Case A: Operational Flexibility in DER Interconnection or Limited
+4 Data from Draft 2024 Integrated Energy Policy Report. https://www.energy.ca.gov/publications/2024/2024-
+integrated-energy-policy-report-update
+5
+
+Load Profiles” or “Business Case C: Operational Flexibility for Distribution Services under
+Normal Conditions.” VGIC anticipates that there will be both load-only and combined load and
+generation projects that utilize both unidirectional and bidirectional EVs, as well as other DERs
+such as stationary solar and storage.
+One example of a potential complex project that would benefit from the development of
+firm and non-firm import and export limits is a school with a fleet of electric school buses. The
+school bus is a sector where bidirectional vehicles and EVSE are increasingly common. School
+buses also have common and similar schedules day after day, with periods of utilization split across
+the day and longer periods of downtime. This makes school buses ideal to provide vehicle-to-grid
+exports, which is already done today. School buses would also benefit from firm and non-firm
+export capacity to reduce export-related upgrade costs associated with Rule 21, similar to other
+DERs such as solar and stationary storage. A school bus fleet could also leverage firm and non-
+firm import limits to optimize charging, especially in edge use cases. Schools are commonly used
+as community centers, including cooling centers during the summertime and resilience centers
+during power outages. VGIC anticipates a scenario where a school bus fleet could receive a
+relatively low firm import capacity allocation during the summertime, when normal school bus
+routes are reduced. However, if an outage is likely or the school anticipates providing cooling
+services in the summertime, the school bus fleet could leverage hours of increased non-firm
+capacity to charge up over a longer period. The fleet could then discharge to power the school
+during the outage or even during net peak periods when air conditioner is on to reduce electricity
+costs. There is also the potential to create a school microgrid, where the EV fleet, solar, storage,
+and other DERs can coordinate to provide optimal services to the school, fleet, and grid by
+blending flexible import and export capacity.
+6
+
+(b) Based on your response to question 3(a), what import and export limiting technology will
+be needed?
+Power control systems are needed to enable flexible imports and exports overall. In order
+to unlock non-firm import and export capabilities, the DSOs will also need systems to monitor
+distribution system conditions and communicate changes in non-firm import / export limits to
+DERs, likely through a Distributed Energy Resource Management Systems (DERMS).
+4. As the investor-owned utilities operationalize Advanced Distribution Management
+Systems and Distributed Energy Resource Management Systems (DERMS), which types and
+sizes of DERs should be able to communicate with the DERMS in each system development
+stage and for which SIOWG use case?
+To enable Use Cases 1 and 4 on flexible import and export limits with non-firm capacity,
+any device that will be used to control DER operations in response to the grid signal will need to
+be capable of communicating with the DERMS. In many cases, the PCS will need to communicate
+with the DERMS platform, since this device will ensure compliance with sent grid signals.
+However, other devices, such as EV supply equipment (EVSE) or EVs themselves through
+onboard telematics may also be integrated with DERMS platforms. EV drivers often have access
+to apps or other platforms that interact with their EV or EVSE and can be used to provide
+information for charging optimization. By allowing these devices to receive DERMS signals as
+well, it could unlock improved optimization of charging and load shaping in general.
+5. Since the SIO Ruling was issued in May 2024, have any new developments occurred with
+technology, Commission proceedings, certifications or methods for addressing SIO reports,
+or use cases that should be reflected in the record of this proceeding?
+7
+
+The second edition of UL 3141 to certify PCS was published in October 2024, which
+includes parameters for Power Import Limiting and Power Export Limiting schedules.
+6. How should the Commission evaluate the cost-effectiveness and rate impact of SIOWG
+use cases and methods for operationalizing them?
+VGIC recommends that the Commission consider the full benefits of operational flexibility
+with a focus on Business Cases instead of technical use cases. Business Cases, such as Business
+Case A: Operational Flexibility in DER Interconnection or Limited Load Profiles, is ultimately
+what will reduce customer rates. Having the technical capability of scheduling firm or non-firm
+imports or exports does not save ratepayers any money if there is no contractual framework or
+program to enable these capabilities to be used. The Commission also needs to incentivize
+customers to utilize these systems in ways that are beneficial to customers. This will likely involve
+forms of financial compensation, but payments will likely be less than ratepayer savings.
+VGIC also believes that the Commission should conduct specific cost-effectiveness
+evaluations for EV load and bidirectional (V2X) exports utilizing flexible service connections. As
+discussed above, initial investigations have found significant potential or ratepayer savings. These
+analyses should consider savings from reduced distribution infrastructure upgrades, increased
+electricity sales from charging, and the potential for reduced needs for transmission investments
+and new bulk grid capacity resources. Other non-rate benefits, such as reduced air pollution from
+electrified transportation and increased resiliency, should also be considered by the Commission.
+7. What, if any, additional information should the Commission consider in development of a
+proposal for addressing the issues in Track 3?
+VGIC does not have additional feedback at this time.
+8
+
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide this response to the Ruling. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: March 13, 2025
+9

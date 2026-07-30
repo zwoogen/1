@@ -1,0 +1,60 @@
+January 10, 2023
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle Grid Integration Council to Advice Letter 6778-E of
+Pacific Gas and Electric Company: EV Submetering Implementation Plan
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B and the extension granted by
+Administrative Law Judge (“ALJ”) Brian Korpics in the November 15, 2022 email ruling, the
+Vehicle Grid Integration Council (“VGIC”) hereby submits this response to the above-referenced
+Advice Letter 6778-E of Pacific Gas and Electric Company (“PG&E”), EV Submetering
+Implementation Plan (“Advice Letter”) on January 10, 2023.
+VGIC commends PG&E’s efforts in developing a thorough implementation plan. VGIC
+supports the Advice Letter; however, we provide additional context for PG&E’s consideration as it
+implements submetering. VGIC recommends that Energy Division approve the Advice Letter
+without delay, as VGIC’s below recommendation can be addressed during implementation and in
+subsequent efforts undertaken by PG&E to support EV submetering in its territory.
+I. THE ELECTRIC SCHEDULE TO BE ESTABLISHED FOR THE OPTIONAL
+DAY-AHEAD REAL-TIME RATE (“DAHRTP”) MUST CONSIDER
+SUBMETERING ELIGIBILITY UNDER DECISION 21-11-017.
+The Advice Letter proposes tariff changes to implement submetering within the following tariffs:
+ Electric Rules 9, 11, 16, 18, and 29
+ Electric Schedules BEV, EV2, NEM, and NEM21
+VGIC generally supports enabling submetering through revisions to the above-listed rules and rate
+schedules. Regarding tariffs that PG&E will soon establish, the Advice Letter further states:
+1 Advice Letter at 18.
+1
+
+January 10, 2023
+Page 2 of 2
+“As demand for submetering scales up and PG&E launches additional EV rates (e.g.,
+PG&E’s Commercial Electric Vehicle Day-Ahead Hourly Real Time Price rate (DAHRTP-
+CEV RTP), PG&E will assess the opportunity to incorporate additional EV rates for
+submetering, and potentially create new rates for customers billed through a submeter as part
+of our normal course of business.”2
+Meanwhile, Decision (“D.”) 21-11-017 Authorizing PG&E to Implement an Optional Day-Ahead
+Real Time Rate for Commercial EV Customers, or “DAHRTP,” states the following:
+“We find that when submetering becomes an approved and accepted means of metering
+commercial EVSE load, then a separate meter should no longer be required to take service
+on a BEV rate. This applies to all eligible BEV rate customers including those enrolled on
+the DAHRTP rate.”3
+VGIC recognizes that PG&E has not yet established a tariff for the DAHRTP rate.
+Therefore, it is reasonable that PG&E did not list DAHRTP alongside the other tariff revisions in
+the Advice Letter. However, VGIC recommends that PG&E ensure the DAHRTP tariff sheet does
+incorporate submetering eligibility, per D.21-11-017. In other words, under D.21-11-017, PG&E
+must incorporate DAHRTP for submetering once that new rate schedule or rider is made available.
+II. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to the Advice Letter and looks
+forward to collaborating with the Commission and stakeholders in this proceeding.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE GRID INTEGRATION COUNCIL
+cc: Sidney Bob Dietz II c/o Megan Lawson (PGETariffs@pge.com)
+Service list R.18-12-006
+2 Advice Letter at 9.
+3 D.21-11-017 at 31.
+2

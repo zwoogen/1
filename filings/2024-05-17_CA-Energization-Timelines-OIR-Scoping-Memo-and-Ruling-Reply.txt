@@ -1,0 +1,115 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 24-01-018
+Establish Energization Timelines. (Filed January 25, 2024)
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+PHASE 1 SCOPING MEMO ISSUES
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: May 17, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 24-01-018
+Establish Energization Timelines. (Filed January 25, 2024)
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+PHASE 1 SCOPING MEMO ISSUES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”)1 hereby submits
+these reply comments on the Assigned Commissioner’s Scoping Memo and Ruling (“Scoping
+Memo”) and Email Ruling Adjusting Phase 1 Schedule and Addressing the April 2, 2024 Joint
+Investor Owned Utilities’ Motion issued by Administrative Law Judge (“ALJ”) Carolyn Sisto on
+March 28, 2024 and April 8, 2024, respectively.
+I. INTRODUCTION.
+In Opening Comments on Phase 1, many parties outlined their work towards meeting
+transportation electrification mandates and goals largely set by the California Air Resources Board
+(“CARB”) but highlighted that a barrier to achieving these goals is the current energization
+timelines for electric vehicle charging infrastructure. Achieving timely energization to enable the
+needed vehicle electrification will require many modifications to the way California’s investor-
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., BorgWarner,
+Fermata Energy, Ford Motor Company, General Motors, Nissan Group of North America, Bidirectional
+Energy, Customized Energy Solutions, dcbel, Eaton Corporation, Emporia Corp., EnergyHub, EV.Energy,
+FreeWire Technologies, Inc., GridWiz, Kaluza, Landis + Gyr, Leapfrog Power, Inc., Nuvve Holding
+Corporation, Peak Power, PowerFlex, Qcells, Stellantis N.V., Sumitomo Electric, The Mobility House,
+Toyota Motor North America, Inc., WeaveGrid, Hoosier Energy, Peninsula Clean Energy, and
+Sacramento Municipal Utility District. The views expressed in these Comments are those of VGIC, and do
+not necessarily reflect the views of all individual VGIC member companies or supporters.
+(https://www.vgicouncil.org/)
+2
+
+owned utilities (“IOU”) have historically planned for energization of new load and distribution
+upgrades more generally.
+The establishment of energization timelines will help to push the IOUs to move more
+quickly and will also provide customers with expected timelines they can plan around. However,
+as discussed by many parties, many energization projects, especially medium- and heavy-duty
+charging stations, require larger, multi-year distribution upgrades that are harder to establish
+standard timelines for.2 Even if distribution upgrade timelines are established, reasonable timelines
+that are achievable by the IOUs may last multiple years for some sites, and interim or alternative
+energization solutions will be needed. For this reason, the Commission must include flexible
+service connection solutions in the initial energization timelines and reporting requirements set by
+Phase 1 of this proceeding.
+II. MULTIPLE PARTIES SUPPORT INCLUDING FLEXIBLE SERVICE
+CONNECTION IN ENERGIZATION TIMELINES.
+VGIC reiterates the importance of having utilities offer flexible service connection (e.g.,
+automated load management (“ALM”) solutions) to customers with exceptionally long
+energization timelines, as well as tracking use of these strategies in energization timeline reporting,
+which was supported by multiple parties in opening comments. As highlighted by Advanced
+Energy United (“United”), “the establishment of timelines should incorporate the necessary
+discussion and consideration between the customer and utility, and potentially for bifurcated or
+reduced steps in the process,"3 including flexible service connection solutions. Calls for
+2 The Joint IOUs have outlined that distribution capacity upgrade timelines “will vary greatly by upgrade, based
+upon the variables that are unique to that upgrade.” See San Diego Gas & Electric Company (U 902-E), Pacific Gas
+and Electric Company (U 39 E), and Southern California Edison Company (U 338-E) Response to Administrative
+Law Judge Ruling Directing Utility Responses to Questions Regarding Energization Timelines at 5.
+3 United Opening Comments at 13.
+3
+
+consideration and tracking of flexible connection were echoed by the Environmental Defense Fund
+(“EDF”) and Natural Resources Defense Council (“NRDC”),4 Powering America’s Commercial
+Transportation (“PACT”),5 Terrawatt Infrastructure,6 and Voltera.7
+Based on this strong stakeholder support, VGIC believes that, at a minimum, tracking the
+deployment of these flexible service connection solutions should be included in Phase 1 timelines.
+VGIC’s suggested items to include in timeline reporting were outlined in opening comments and
+include: (1) whether flexible connection solutions were proposed or accepted, (2) the type of
+flexible connection, and (3) the type of flexible connection technology used.8 In addition to
+tracking data regarding flexible service connection, VGIC also supports the proposal from EDF
+and NRDC for the IOUs to include “discussion of the process improvement progress completed in
+the prior year, discussion of the customer-specific solutions (e.g. deployment of distributed energy
+resources and flexible interconnection agreements) the utility has offered to customers and/or
+deployed in the prior year, those solutions’ effectiveness at shortening customer-specific timelines,
+and any staffing changes made to implement these solutions and shorten the timelines."9 Written
+discussion on the IOUs’ experience implementing these solutions will provide valuable insights as
+timelines are updated and as the Commission considers broader implications for distribution
+planning and ratepayer costs. As highlighted by Advanced Energy United, flexible service
+connections can “avoid or defer grid upgrades and to reduce costs and maximize the efficient use
+of existing infrastructure.”10 Discussion on the implementation of these solutions can show how
+these solutions are providing cost savings to ratepayers and will inform how the IOUs should plan
+4 EDF and NDRC Opening Comments at 6.
+5 PACT Opening Comments at 5.
+6 Terrawatt Infrastructure Opening Comments at 3.
+7 Voltera Opening Comments at 6.
+8 See additional detail in VGIC Opening Comments at 6-8.
+9 EDF and NRDC Opening Comments at 10.
+10 United Opening Comments at 11.
+4
+
+for large loads as California seeks to electrify. However, VGIC emphasizes that narrative
+discussion detailing process improvements is a complement – not a substitute – to regular
+energization timelines and flexible service connection data reporting.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on Phase 1 of this
+proceeding. We look forward to further collaboration with the Commission and stakeholders on
+this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: May 17, 2024
+5

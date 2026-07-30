@@ -1,0 +1,149 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE HIGH
+DER STAFF PROPOSAL
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: May 28, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 21-06-017
+Modernize the Electric Grid for a High (Filed June 24, 2021)
+Distributed Energy Resources Future.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE HIGH
+DER STAFF PROPOSAL
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the Administrative Law Judges’ Ruling Seeking Comment on the Staff Proposal
+(“Ruling”) and Administrative Law Judges’ Ruling Memorializing Extension of Time to File
+Comments and Providing Corrected Staff Proposal issued by Administrative Law Judges (“ALJ”)
+Kelly A. Hymes and Manisha Lakhanpal on March 13, 2024 and April 5, 2024, respectively.
+I. INTRODUCTION.
+VGIC appreciates Energy Division Staff’s work to create a comprehensive Staff Proposal
+on changes to the investor-owned utilities (“IOUs”) distribution planning processes (“DPP”) and
+project execution process. The Staff Proposal addresses many improvements that need to be made
+to allow for the integration of large amounts of distributed energy resources (“DERs”) that will
+add load and generation capacity to California. This state is facing large amounts of DER
+integration and interconnection in a very short period of time, seriously challenging the existing
+distribution planning process that has had to accommodate relatively small and longer lead time
+load growth. Overall, VGIC supports many of the recommendations made by the Staff Proposal,
+including improving the IOUs mid- and long-term load forecasting and distribution planning,
+2
+
+taking a more proactive approach to executing large distribution upgrades, and ensuring that
+distribution planning and project execution teams are adequately resourced and funded.
+At the same time, nearer-term approaches and improvements can be made to help integrate
+and energize more DERs while longer-term forecasts are improved. To this end, VGIC offers the
+following comments on the Staff Proposal:
+• The Staff Proposal provides further evidence that the Commission should standardize
+flexible service connections and adopt Limited Load Profiles (“LLPs”).
+• Coordination between this proceeding and the Energization Rulemaking (R.24-01-018)
+will continue to be needed.
+• A working group should be established to improve Integration Capacity Analysis
+(“ICA”) maps.
+II. THE STAFF PROPOSAL PROVIDES FURTHER EVIDENCE THAT THE
+COMMISSION SHOULD STANDARDIZE FLEXIBLE SERVICE
+CONNECTIONS AND ADOPT LIMITED LOAD PROFILES.
+VGIC strongly supports Staff’s Key Goal 1 related to delays and long energization
+timelines, “IOUs to develop strategies, such as temporary DER placement or limits on energy use
+as bridging solutions for energization requests that require distribution capacity projects.”1 Staff
+describes how, "When a customer energization request requires a distribution capacity upgrade,
+utilities may be able to energize the customer temporarily, until the upgrade is completed, using
+temporary load flexibility via voluntary load curtailment for specific limited times or DER assets
+such as mobile batteries. [emphasis added]”2 In order to fully develop the ability for customers to
+curtail load during specific times of the day or year, VGIC continues to recommend that the
+1 Staff Proposal at 54.
+2 Ibid.
+3
+
+Commission take up the creation of standardized flexible connection agreements (“FCAs”) and
+Limited Load Profiles (“LLPs”).
+Recently, Enphase submitted a motion in this proceeding to expand the scope to answer
+the question “Should the investor-owned utilities be ordered to amend their energization rules to
+allow customers to elect optional flexible connection agreements that use UL 3141-certified power
+control systems to implement a Limited Load Profile that avoids distribution upgrades, thus
+enabling rapid and cost-effective project deployment and operations?”3 VGIC, as well as Cal
+Advocates, Advanced Energy United, California Solar and Storage Association, Clean Coalition,
+PowerFlex, The Mobility House, and Pacific Gas and Electric (“PG&E”) all expressed support for
+the motion and encouraged near-term record building on these issues. The Staff Report only
+provides another piece of evidence that Enphase’s motion should be adopted, as the development
+of FCAs and LLPs directly implements the key goal outlined in the Staff Proposal.
+III. COORDINATION BETWEEN THIS PROCEEDING AND THE ENERGIZATION
+RULEMAKING (R.24-01-018) WILL CONTINUE TO BE NEEDED.
+In comments in the Energization OIR and in responses to the Enphase Motion, parties have
+discussed whether flexible service connection should be taken up in in this High DER or
+Energization Rulemakings. The issues that need to be resolved to standardize flexible service
+connections and implement LLPs are cross cutting and involve issues of technology eligibility and
+technical requirements (i.e., UL 3141), tariff and rule development, utility operations, customer
+engagement, and data tools and tracking. Some of these issues, such as customer engagement and
+data tracking are being discussed in the Energization Rulemaking, while technical requirements
+3 Motion of Enphase Energy, Inc. to Amend Scoping Ruling and Schedule to Address Optional Flexible Connection
+Agreements and the Underwriters’ Laboratory 3141 Standard for Power Control Systems in Investor-Owned
+Utilities’ Energization Rules at 7.
+4
+
+and standards seem to better fit the High DER proceeding. VGIC is agnostic to which proceeding
+takes up these issues but generally recommends that the Commission find a venue for further
+discussion quickly. Issues also may inevitably be split across proceedings, which is why VGIC has
+recommended, and continues to emphasize the need for, cross-proceeding coordination.4
+IV. A WORKING GROUP SHOULD BE ESTABLISHED TO IMPROVE
+INTEGRATION CAPACITY ANALYSIS MAPS.
+VGIC appreciates Staff’s consideration of improvements to the ICA maps and
+recommendations to improve the use of these tools. VGIC strongly supports Staff’s
+recommendation that the ICA maps add hourly and monthly capacity information to help
+customers implement a Limited Generation Profile (“LGP”), and we are encouraged that PG&E
+and SCE are looking to incorporate this functionality in their ICA maps.5 With the creation of
+LLPs, as discussed above, VGIC recommends that similar granular data be made available on the
+Load ICA to help with the development of LLPs.
+However, the Commission needs to provide additional oversight for ICA development and
+management generally. Fundamentally, the ICAs still suffer from a lack of accuracy and customer
+confidence, and without improvements to these basic elements, these tools are not usable for
+significant project planning. Numerous issues have been identified with the ICA map, but these
+have been largely handled by the Commission in one-off orders to the IOUs for these to be fixed.
+The IOUs do prepare annual reports on refinements to the ICAs but there are no regular venues to
+hear updates between these annual cycles or engage with the utilities on the ICAs.
+4 See Comments of the Vehicle-Grid Integration Council on Phase 1 Scoping Memo Issues submitted in R.24-01-018
+on May 3, 2024 at 5.
+5 Staff Proposal at 116.
+5
+
+VGIC therefore supports the creation of an ongoing working group to discuss needed
+improvements to the ICA and keep the IOUs accountable in remedying issues. This can provide a
+venue for developers and other stakeholders to bring real-time inaccuracies and other issues with
+the maps and dialogue with the IOUs on whether these can be fixed and on what timelines. The
+ongoing working group should focus on improving ICA maps with the goal of providing more
+certainty to project developers and customers looking to energize load-only sites and interconnect
+generation at sites with both new load and generation. The working group could also focus on
+simplifying the energization and/or interconnection process, rather than creating additional
+formalities or "boxes to check" for project developers. The information these maps provide needs
+to be made more up-to-date, accurate, and easy to understand, and they need to convey meaningful
+information for them to be useful. Smaller issues are likely to be resolved with informal
+coordination between the IOUs and oversight from Energy Division Staff and larger issues can be
+refined before being brought to more formal regulatory proceedings. Working groups and
+discussion forums convened by Energy Division have been helpful in other instances. For example,
+the Rule 21 Interconnection Discussion Forum has provided a way for stakeholders to raise issues
+with generation interconnection procedures and work through potential solutions. VGIC
+recommends that a similar approach of having regularly scheduled working group meetings be
+used for ICA improvements.
+V. CONCLUSION.
+VGIC appreciates the opportunity to provide this response to the motion. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+6
+
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: May 28, 2024
+7

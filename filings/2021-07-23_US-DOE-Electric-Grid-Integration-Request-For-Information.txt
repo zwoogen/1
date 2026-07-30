@@ -1,0 +1,460 @@
+DOE Vehicle Technology Office and Advanced Grid Research and Development Division
+Response to RFI #DE-FOA-0002528
+To: DOE Vehicle Technology Office and Advanced Grid Research and Development Division
+From: Vehicle-Grid Integration Council,
+with support from the following organizations:
+Leadership Circle Members:
+ American Honda Motor Co., Inc.
+ Enel X North America, Inc.
+ Ford Motor Company
+ General Motors Company
+ Nissan
+ Nuvve Corporation
+ Stellantis N.V.
+ Toyota Motor North America, Inc.
+General Members:
+ dcbel
+ Fermata Energy
+ The Mobility House
+ Veloce Energy, Inc.
+Subject: Response to RFI #DE-FOA-0002528
+Response Date: July 23, 2021
+Contact:
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+2150 Allston Way, Suite 400, Berkeley, CA 94704
+eburgess@vgicouncil.org
+O: +1 (510) 665-7811
+M: +1 (941) 266-0017
+www.vgicouncil.org
+
+Executive Summary
+Vehicle-Grid Integration:
+Unlocking EVs as a Strategic Grid Resource
+Vehicle-grid integration represents a unique opportunity for the DOE to establish and
+advance US leadership at the intersection of a decarbonized transportation and electric
+sector by ensuring the value from electric vehicle deployment and flexible electric vehicle
+charging is recognized and compensated in support of reliability, affordability, and
+efficiency.
+The Vehicle-Grid Integration Council (“VGIC”) is a 501(c)(6) membership-based advocacy group
+committed to advancing the role of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”)
+through policy development, education, outreach, and research. VGIC supports the transition to a
+decarbonized transportation and electric sector by ensuring the value from EV deployments and
+flexible EV charging and discharging is recognized and compensated in support of achieving a
+more reliable, affordable, and efficient electric grid. Scaling VGI will help accomplish the
+following public policy goals:
+ Benefit drivers by reducing the cost of ownership.
+ Decarbonize the transportation sector by accelerating EV adoption.
+ Support decarbonization of the power sector by providing essential grid services as
+renewable energy penetration increases.
+ Increase affordability by reducing electricity bills for all customers.
+ Improve grid resiliency and security during extreme weather events.
+ Foster economic activity through innovation, competition, and market transformation.
+With federal support, we believe this vision could become a reality and that EV drivers and
+owners across the United States can take part in the acceleration of both transportation
+electrification and grid decarbonization. Our vision for VGI encompasses the following key
+elements:
+ Ensure customer mobility needs are satisfied. Drivers will be able to participate in a wide
+variety of VGI services, nationwide, without compromising their mobility needs.
+ Managed charging will provide benefits to EV drivers: Drivers in every state will be given
+the choice to align charging with the times of day when electricity prices are low, reducing
+operating costs by 50% compared to unmanaged charging. Lowering the total cost of
+ownership will help to accelerate overall EV adoption by drivers and fleet managers.
+ EVs provide emissions-free emergency power during blackouts: During extreme weather
+blackouts or other power outages, EVs can utilize two-way charging and discharging
+capabilities to send energy to a building or home, serving as a generator and providing safe
+backup power.
+ Electricity infrastructure costs become more affordable: Smarter management of EV
+charging will help manage the cost of EV charging infrastructure, which reduces the overall
+cost burden on all electricity customers.
+Page 1 of 10
+
+ EVs provide necessary services to the grid and get paid for it: V1G (unidirectional
+charging) and vehicle-to-grid (“V2G” – bidirectional charging) will enable EVs to both receive
+and/or feed power back to the grid, supporting advanced grid services such as frequency
+control, demand response, peak shaving, and more. Providing these services can unlock new
+revenue streams for EVs, lowering the total cost of ownership.
+The VGIC appreciates the US Department of Energy’s leadership in advancing VGI and
+transportation electrification (“TE”) more generally. There are a number of areas where DOE and
+federal government leadership can significantly accelerate progress for VGI nationally:
+I. Conduct a comprehensive, real-world study on the latent potential for EVs to serve as a
+grid resource. While VGIC hopes this RFI surfaces key insights for the report to be developed
+pursuant to the Energy Act of 2020, a comprehensive, large-scale study on the availability of
+EVs as a grid resource is needed. Such a study should analyze an availability factor across
+different customer types and regions using real-world data. This could be modeled after the
+DOE’s Customer Acceptance, Retention, and Response to Time-Based Rates from the
+Consumer Behavior Studies.1 An EV availability study should conduct randomized controlled
+trials, assessing the impacts of different rate structures and programs across different utilities
+and customers. It should also record which technologies were deployed and analyze the dataset
+to produce recommendations that can inform future programs and rates. Such a study could
+include 15 or more different partnering utilities, and several different customer types per
+region. The end result would be a robust dataset that could be open to the public for additional
+review and future study. This would also provide grid operators with greater confidence that
+the overall EV fleet can be counted upon (statistically speaking) as a robust and reliable grid
+resource, even if a single EV may not be available for grid services 100% of the time.
+II. Future-proof transportation electrification investments by building VGI capabilities into
+new infrastructure. To meet the transportation electrification challenge, public and private
+entities across the US will need to invest in infrastructure to support EV charging. It is critical
+that smart charging/discharging and other VGI capabilities be built into these infrastructure
+investments as they are deployed – rather than after-the-fact. Incorporation of VGI
+technologies is not limited to physical infrastructure, but extends to communications and
+control architecture, as well. For example, stakeholders should consider the potential benefits
+of using in-vehicle telematics to enable certain VGI use cases. VGIC believes both charging
+station and EV-based VGI solutions should be enabled through the coming wave of
+infrastructure investments in support of TE. Together with the physical layer, the
+communication and control architecture needed to unlock VGI constitute the guardrails of VGI
+business models. VGIC recommends infrastructure investments remain open to supporting
+various EV aggregator business models, as it is too early – and not the federal government’s
+role – to pick winners and losers in the VGI market. However, VGI should still be a core
+consideration of any infrastructure investments. Additionally, other infrastructure investments
+intended to support the reliability and resilience of the electric grid (e.g., microgrid investments
+and stationary energy storage or other distributed energy resources or “DERs”) should account
+for the value of VGI.
+1 US DOE Electricity Delivery and Energy Reliability. Customer Acceptance, Retention, and Response to Time-
+Based Rates from the Consumer Behavior Studies. November 2016.
+https://www.energy.gov/sites/prod/files/2016/12/f34/CBS_Final_Program_Impact_Report_Draft_20161101_0.pdf
+Page 2 of 10
+
+III. Prepare for the coming wave of commercial VGI offerings by educating fleets,
+homeowners, workplaces, and other customer groups. The increasingly rapid penetration
+of electrified transportation across the US represents a paradigm shift rivaling the move from
+horses to cars. Moving customer thinking from “mpg” to “kWh” requires considerable
+outreach and education. In particular, education and outreach to fleets is critically needed to
+inform fleet managers of the potential value of switching to electric transportation. For many
+fleets, converting to electrified transportation is a significant undertaking that escapes their
+expertise. Given the potential complexity of VGI, more policy support is needed to direct
+funding toward educating fleets – as well as other customer types – not only of the benefits of
+electrification in general, but the enhanced value proposition that VGI technologies can offer.
+These value propositions include new potential revenue streams from grid services, reduced
+charging infrastructure costs, reduced charging energy costs, new bill management options,
+and enhanced resilience of mission critical facilities.
+IV. Facilitate harmonized interconnection policies across the country to support streamlined
+VGI operations. In California, VGIC and other stakeholders have collaborated closely with
+utilities and their regulators to advance V2G functionality, including both V2G Direct Current
+(“V2G-DC”) and V2G Alternating Current (“V2G-AC”) configurations. This has ultimately
+led to the creation of a permanent V2G-DC interconnection pathway, and a temporary V2G-
+AC interconnection pathway. Despite this progress, it is not guaranteed that similar pathways
+will exist across the country since interconnection rules are governed individually at the state
+level. Meanwhile, original equipment manufacturers (“OEMs”) must design products for a
+national marketplace and must contend with the possibility of a patchwork of interconnection
+rules. VGIC strongly recommends the DOE facilitate efforts to standardize V2G
+interconnection pathways across the U.S. to support and streamline VGI across the country.
+VGIC envisions a future where EVs move across utility service territories – and even states –
+with the ability to seamlessly charge and discharge energy. This is only possible if states follow
+a common framework, which the DOE could help establish through a standardized “VGI
+Playbook” approach.
+VGI is a unique opportunity for the DOE to establish and advance US leadership in affordable,
+decarbonized, reliable, and resilient transportation and electricity. We are grateful to the US
+Department of Energy for opening this RFI. The VGIC would be happy to further discuss any part
+of this RFI response in a follow up meeting.
+RFI Response
+1.1.a – In a 2019 presentation to the California VGI Working Group convened by the California
+Public Utilities Commission (“CPUC”), Fermata Energy provided data from its pilot using a V2G
+system to perform customer bill management for a manufacturing facility in Danville, Virginia.2
+A Nissan LEAF and Fermata Energy’s prototype FE-15 charger were used to discharge power to
+reduce the peak kW demand portion of the facility’s monthly electricity bill, successfully reducing
+the facility’s peak demand by 12.5 kW and leading to $776.51 in savings over five months or an
+annual savings of over $1,800 per deployed charger. This demonstration was performed with
+relatively low demand charges of $15.26/kW but illustrates the revenue potential of such V2G
+2 Fermata Energy. 2019. What VGI use cases can provide value now, and how can that value be captured? VGI
+Working Group. https://gridworks.org/wp-content/uploads/2020/06/Fermata-use-cases-providing-value.pdf
+Page 3 of 10
+
+operation. In California, where demand charges are significantly higher, pro forma operating
+results using a 25kW charger could be as high as $9,000 per year.
+Additionally, Nuvve Corporation, through the INVENT project funded by the California Energy
+Commission (“CEC”)3, piloted V2G to optimize integration of rooftop solar and mitigate demand
+charges. The INVENT project found that operating the fleet in V2G mode had a noticeably larger
+impact for both optimizations (i.e., solar and demand charge management) when compared to
+using EVs in V1G-only mode. However, the full potential of V2G was not unlocked due to the
+lack of rates and programs to facilitate these use case.
+1.1.b – Nuvve Corporation has been successfully participating in frequency regulation markets in
+Denmark for the last five years using only EVs as resources, and earning an average of
+$1,400/EV/year in that market. Nuvve Corporation has also qualified for participation in PJM’s
+frequency regulation-D market using EVs and is continuing to collaborate to ensure PJM’s Federal
+Energy Regulatory Commission Order 2222 compliance streamlines EV access to markets. More
+recently, Nuvve Corporation’s INVENT project demonstrated the technical ability to provide
+regulation up and regulation down services for the California Independent System Operator’s
+(“CAISO”) frequency regulation market.4 However, current rules do not feasibly support the
+participation of EVs in CAISO’s frequency regulation market.
+1.1.c – While consideration of EV load within reliability and resilience frameworks (i.e., SAIDI
+and SAIFI) is important, the value of EVs as a resource within reliability and resilience frameworks
+– especially if bidirectional charging is unlocked – should not be overlooked. One new resilience
+metric that would support VGI is tracking how much EV-based backup power capability is
+available in a given location. Measuring the total backup storage capacity can be done by tracking
+the number and size of bidirectional chargers in a location. In areas of the country faced with
+resilience challenges like wildfires, extreme heat, hurricanes, and winter storms, the ability for
+utilities and grid planners to understand the backup power capacity of customers is critical.
+1.2.b – Vehicle-to-home (“V2H”) or vehicle-to-building (“V2B”) systems can provide backup
+power support. The recently announced Ford F-150 Lightning can provide full-home power for up
+to three days, or up to 10 days if power is rationed.5 A Pacific Gas & Electric pilot project
+documented that a system consisting of an EV paired with rooftop solar and stationary storage
+achieved 31.2 days of reliability during a summer power outage simulation, compared to 5.3 days
+with just the rooftop solar and stationary storage.6
+To meaningfully support this use case and achieve scale, interconnection policies across the
+country should be harmonized to streamline adoption of V2H/V2B systems that provide backup
+power when a customer is islanded from the grid. In addition, low-cost solutions to remotely isolate
+customers should be leveraged, including utilizing smart meters for this purpose.
+3 Nuvve INVENT https://nuvve.com/projects/ucsd-invent/. The project team has submitted the final report to the
+CEC, and anticipates it will be uploaded to the Energy Research and Development Reports webpage in the coming
+months: https://www.energy.ca.gov/resources/publications/energy-research-and-development-reports
+4 Ibid.
+5 Ford. 2021. The Truck of the Future is Here: All-Electric Ford F-150 Lightning.
+https://media.ford.com/content/fordmedia/fna/us/en/news/2021/05/19/all-electric-ford-f-150-lightning.html
+6 EPIC Policy + Innovation Coordination Group. 2021. Transportation Electrification Workstream Report.
+https://epicpartnership.org/resources/Transportation_Electrification_Workstream_Report_Final.pdf
+Page 4 of 10
+
+2.1 – VGI services may help to meet policy goals and could enhance the EV value proposition but
+may also have a negative impact on overall battery durability. The impact of V2G activities on EV
+batteries varies depending on the V2G use case the vehicle/battery is supporting. Dispatching V2G
+functionality for a few hours per year for demand response requires significantly less battery
+cycling than daily uses that require frequent battery cycling. Any future studies on this topic should
+consider variations among different grid applications and duty cycles/driving styles. EV battery
+durability requirements, such as those being contemplated by the California Air Resources Board
+(“CARB”) as part of its Advanced Clean Cars II regulation and the United Nations Council of
+Europe’s Global Test Requirement, should consider the possible implications of those durability
+requirements on V2G.
+2.2 – As national, state, and local policy and decision makers continue to shift their focus toward
+advancing EV adoption, there is increased attention paid to consumer protection. However,
+consumer protection standards set in one policy forum that is not focused on VGI may
+inadvertently limit the opportunity for VGI. Regarding OEM warranties, the VGI market is in its
+infancy. VGI business models, consumer behavior, and regulations will have implications on the
+battery state of health. Building on OEMs strong understanding of these factors, (e.g. technology,
+consumer behavior) and the potential implications on battery impacts, warranties, and driver
+confidence, OEMs must be integrally involved in VGI policy and program development, and will
+remain engaged on this issue.
+3.1 – The CEC’s AB 2127 Report projects the state’s light-duty EV charging load in 2030:7
+The projected load profile indicates a peak load of about 5.4 GW that occurs around midnight from
+the charging of nearly 8 million light-duty EVs. According to the report, this midnight peak, which
+occurs as a result of time-of-use (“TOU”) rates with an off-peak period beginning at midnight, has
+the potential to overload distribution equipment and affect power quality. Infrastructure upgrades
+may be necessary to accommodate this instantaneous load of distribution circuits. The report also
+projects another 2 GW of on-road medium- and heavy-duty EV charging load.
+7 Projected 2030 Statewide PEV Charging Load for Intraregional Travel of 8 Million Light-Duty ZEVs in EVI-Pro
+2. See California Energy Commission. 2021. Assembly Bill 2127 Electric Vehicle Charging Infrastructure
+Assessment. https://efiling.energy.ca.gov/getdocument.aspx?tn=238853.
+Page 5 of 10
+
+3.2.a – Automated Load Management (“ALM”) is the use of software or other behind-the-meter
+technologies strategically share charging capacity across multiple charging ports at the same
+charging site to help safely connect multiple charging ports whose total nameplate load would
+otherwise exceed the rated capacity of the customer connection. This in turn can avoid or defer the
+need to upgrade certain distribution system infrastructure to accommodate the new EV charging
+load. For example, if a multi-unit dwelling seeks to deploy a charging station with 5 ports, each
+with a 10-kW capacity, the distribution upgrades would normally be sized to accommodate 50 kW
+of incremental coincidental charging demand, equal to all 5 ports charging at full capacity.
+However, ALM can lower the coincident charging demand to 30 kW, or 6 kW per port on average,
+when all 5 ports are occupied, thus reducing distribution system upgrades to what is required for
+only 3 ports. In this scenario, when only 3 or fewer ports are occupied, the EVs can still charge at
+full speed. Having ALM available to customers as an option can lead to significant savings and
+ensure that investments in transportation electrification are used efficiently. Pacific Gas & Electric
+has worked with EV service providers to implement ALM solutions at 20 multi-unit dwelling and
+workplace host sites as of Q4 2020 and saved between $30,000 and $200,000 per project.8
+Southern California Edison also worked with EDF Renewables PowerFlex to implement ALM to
+deploy 168 charging stations at $3,000 per port, significantly less than comparable deployments
+at $10,000-$15,000 per port without ALM.9
+Another key strategy to limit infrastructure upgrades is with a DER tariff like California’s new
+Partnership Pilot, which aims to facilitate participation of behind-the-meter DER aggregations in
+distribution deferral opportunities. EVs, like other DERs, can support deferral by limiting load
+and/or exporting power during times that an additional traditional distribution investment would
+have been needed to meet local power needs.
+3.2.b – Many low-income and other disadvantaged communities are served by outdated utility
+infrastructure (substations, transformers) that may require significant and costly upgrades to be
+able to accommodate EV charging load. The use of ALM can help mitigate these infrastructure
+upgrade costs by reducing the collective peak load at one site, therefore making charging
+infrastructure more affordable for disadvantaged communities. ALM is a VGI technology that is
+particularly well-suited for multi-unit dwellings, commercial buildings, workplace charging, and
+other non-single family home sites, where low-income customers may be more likely to charge.
+3.3 – If unmanaged, EV charging load can occur during system peak periods, which for many
+drivers takes place in the late afternoon as they plug their EVs in to charge after arriving home
+from work. A careful approach to managed charging is necessary to ensure that EVs charge during
+off-peak hours to minimize system costs. Note that grid economic dispatch does not always align
+with periods of high renewable energy production. VGI can help address both issues through
+managed charging, such that EVs charge during off-peak hours that are also coincident with hours
+of high renewable energy production, where and when it is feasible. See section 3.5.a for details
+on managed charging approaches to mitigate the impacts of EV charging on the electric grid.
+3.4 – VGIC believes customer outreach, education, and engagement are key issues for both retail
+and fleet customers. Fleets are a particularly promising set of EV resources; however, several key
+8 Pacific Gas & Electric. 2021. Presentation at CPUC ALM/EV EMS Workshop, Panel 2.
+9 EPIC Policy + Innovation Coordination Group. 2021. Transportation Electrification Workstream Report.
+https://epicpartnership.org/resources/Transportation_Electrification_Workstream_Report_Final.pdf
+Page 6 of 10
+
+policy barriers remain. For example, education and outreach to fleets is critically needed to inform
+fleet managers of the potential value of VGI technologies. For many fleets, converting to electrified
+transportation is a significant undertaking that escapes their expertise. Given the relative
+complexity of VGI, more policy support is needed to direct funding toward educating fleets not
+only of the benefits of electrification in general, but the benefits of managed charging, ALM,
+bidirectional charging, and other VGI technologies.
+3.5.a – Managed charging focuses on shifting or modulating charging, either by altering customer
+behavior or automatically shifting charging “behind the scenes” from the customer perspective.
+Managed charging can be promoted through rate design or other incentives to encourage off-peak
+charging. Many utilities have implemented TOU rates for EV charging. To be effective at shifting
+charging load, EV TOU rates must have a significant enough differential between peak and off-
+peak rates to provide a meaningful financial incentive for EV owners to respond to. Moreover,
+customers must be aware of and enrolled in these rates. More advanced rate designs are necessary
+to expand options for customers and ensure EV load is shifted to off-peak periods that are also
+aligned with renewable energy production. For example, Xcel Energy Colorado and Minnesota
+currently offer commercial and industrial customers an EV Critical Peak Pricing Rate, under which
+energy costs are considerably higher during utility-called critical peak events, on top of on-peak
+and off-peak pricing during non-event periods.10 More dynamic rates can also be helpful. San
+Diego Gas & Electric currently offers the EV Grid Integration Pilot Program, a dynamic rate
+schedule that reflects day-ahead wholesale electricity prices.11 Customer-centric VGI solutions can
+help customers understand and realize the benefits of advanced utility rate structures.
+Meanwhile, many utilities have implemented programs that provide customers with a per kWh
+incentive for off-peak charging and/or monthly incentive for avoiding on-peak charging. For
+instance, National Grid in Massachusetts provides residential customers with an Off-Peak
+Charging Rebate of 3-5 cents per kWh (depending on the season) for all off-peak charging.12 In
+New York, Con Edison offers the SmartCharge NY Program, which provides residential customers
+with a 10 cents per kWh incentive for off-peak charging, a $20 per month incentive for avoiding
+summer peak charging, as well as ongoing participation incentives.13 Fleet customers are also able
+to participate in SmartCharge NY, earning 2.21 cents per kWh for off-peak charging and $250 per
+month for avoiding charging during demand response periods. Similar offers and rate structures
+should be available for EVs with bidirectional capability to compensate them for discharging
+during peak load periods and charging at periods of lower overall load. This one change in
+managed charging programs could provide significant economic benefits to EV owners with
+bidirectional capabilities as well as operational benefits for grid operators.
+10 Xcel Energy Colorado. 2021. EV Critical Peak Pricing Information Sheet.
+https://www.xcelenergy.com/staticfiles/xe-responsive/Programs%20and%20Rebates/Business/EV-CPP-Info-
+Sheet.pdf
+11 San Diego Gas & Electric. 2017. Schedule VGI. https://www.sdge.com/sites/default/files/elec_elec-scheds_vgi.pdf
+12 Massachusetts Department of Public Utilities. 2019. September 30 Order, pg. 340-341, 387-392. Proceeding 18-
+150. https://fileservice.eea.comacloud.net/FileService.Api/file/FileRoom/11262053
+13 Con Edison. 2020. “ConEdison EV Managed Charging Filing.” Case 18-E-0138.
+http://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId={F8F2D2E1-B190-4DB4-B3F3-
+2BDC127568F5}
+Page 7 of 10
+
+Other managed charging solutions allow for a utility or third-party (e.g., EV service provider,
+aggregator) to control EV charging via the charger, vehicle telematics, or smart circuit breaker or
+panel. These strategies can enable an even greater degree of flexibility and optimization of EV
+load. A utility or a third party can “smooth” the EV demand curve by scheduling charging sessions.
+The Static Optimization program offered by Xcel Energy Colorado follows this approach.14
+Managed charging approaches can also be used to ensure EVs are charged during periods with the
+lowest energy costs or highest renewable energy penetration. For example, the Charge Smart
+Program offered by Central Hudson and Orange & Rockland in New York leverages networked
+chargers to shift EV charging to periods when greenhouse gas emissions from power generation
+are the lowest, using forecast and real-time emissions data.15 Xcel Energy Colorado is also
+working with automakers to implement the Charging Perks Pilot, which uses vehicle telematics to
+shift charging to hours with the lowest day-ahead power production costs.16 Meanwhile, Xcel
+Energy Minnesota offers an EV subscription service pilot, which allows drivers to lease and install
+a smart charger and offers unlimited off-peak charging for a fixed monthly charge.17 Not only does
+this provide cost certainty, it also allows a driver to see an apples-to-apples comparison between
+the monthly cost of ownership compared to an internal combustion vehicle. Finally, managed
+charging can allow EVs to participate in demand response programs, like the Active Demand
+Reduction programs implemented by utilities in Massachusetts.18
+Providing a variety of rate designs can help accommodate a diversity of customer needs and
+sophistication, thus creating more grid flexibility. The VGI Working Group convened by the
+CPUC identified over 1,000 use cases for VGI. Customers should have the ability to choose what
+works best for them. In addition, it should not be assumed that all customers will perform their
+own charge management. For example, customers may be allowing an aggregator to control their
+EV load and aggregate with other EVs – and even other types of DERs – to participate in demand
+response programs. Program structures and requirements should promote third-party participation
+to support customer choice.
+3.5.b – Billing determinants for VGI rates and programs can be measured via the charger or the
+vehicle’s onboard telematics. By not requiring a separate meter, this type of rate or program would
+accommodate certain VGI use cases that would otherwise be infeasible to measure and account
+for, such as using EVs to reduce a customer’s load during a demand response event, discharging
+to mitigate a customer’s demand charges, or coordinating with on-site solar or stationary energy
+storage resources. In addition, the use of these submetering strategies also lowers the cost of a
+14 Xcel Energy Colorado. 2021. “2021/2022 Demand-Side Management Plan,” pg.262-263.
+https://www.xcelenergy.com/staticfiles/xe-
+responsive/Company/Rates%20&%20Regulations/Regulatory%20Filings/CO-DSM/CO_2021-
+22_DSM_Plan_Final.pdf
+15 Orange & Rockland Store. 2020. “Charge Smart Program.”
+https://myorustore.com/s/ORU/content_charge_smart_program.html
+16 Xcel Energy Colorado. 2021. “2021/2022 Demand-Side Management Plan,” pg. 263-265.
+https://www.xcelenergy.com/staticfiles/xe-
+responsive/Company/Rates%20&%20Regulations/Regulatory%20Filings/CO-DSM/CO_2021-
+22_DSM_Plan_Final.pdf
+17 Xcel Energy Minnesota. 2021. “EV Subscription Service Pilot.” https://ev.xcelenergy.com/subscription-pilot-mn/
+18 Massachusetts Joint Statewide Electric and Gas. 2018. “Three-Year Energy Efficiency Plan 2019-2021.”
+Appendix K. https://ma-eeac.org/wp-content/uploads/Exh.-1-Final-Plan-10-31-18-With-Appendices-no-bulk.pdf
+Page 8 of 10
+
+second meter, which may be borne by the customer or socialized to all of a given utility’s
+customers, and either approach would disproportionately impact low-income customers.
+According to Xcel Energy Minnesota, using the metering capability of smart chargers in lieu of a
+second meter saves customers an average $2,196 each in upfront costs.19
+3.6 – Many V2G technologies have already been piloted and certified to relevant safety standards
+(e.g., IEEE standards for small generators), with more becoming commercially available soon (i.e.,
+next 12-24 months). The challenges that remain are primarily policy and regulatory, rather than
+technological. Many use cases are technically ready but cannot be deployed without appropriate
+value streams, retail rates, interconnection processes, and coordination between EV and DER
+policy streams. Utility systems should be building capabilities now as infrastructure is being
+deployed to prepare the grid for these products. Below we highlight key bidirectional
+configurations, anticipated timeframe, and related barriers:
+V2H/V2B Backup Products 1. Streamlined interconnection needed, including
+Power Available Today; clarification and standardization of transfer switch
+Projects operation and technical requirements
+Currently Being 2. Lack of funding support for low-power DC EV
+Installed20 supply equipment
+3. Low-cost isolation technologies could support
+customer adoption
+4. Nationally standardized regulatory regime needed
+for V2G-AC interconnection for customers
+looking to stack other bidirectional use cases
+V2H/V2B Non- Products (See 1, 2, and 4 above)
+Export (e.g., Available Today; 5. Standard interconnection pathway for V2G AC
+demand charge Projects systems needed
+management, TOU Existing21 6. Submetering protocols needed to enable
+rate optimization, V2H/V2B use cases, rather than separating EVs
+non-exporting from other load
+demand response) 7. Standard utility interconnection agreement and
+consistent treatment of V2G systems
+19 Xcel Energy Minnesota. 2019. Annual Report on Residential EV Charging Tariff and Residential EV Service
+Pilot.
+20 See, for example, Baldwin Park Unified School District School Bus V2B Project as detailed in Southern
+California Edison Company’s Advice Letter 4518-E at 64. https://library.sce.com/content/dam/sce-
+doclib/public/regulatory/filings/pending/electric/ELECTRIC_4518-E.pdf
+21 See, for example, Fermata Energy’s project as detailed in Colorado Smart Cities Alliance’s Spotlight Series on
+Energy: V2B in Focus https://coloradosmart.city/event/spotlight-series-on-energy-v2b-in-focus-panel-discussion/,
+Nuvve Corporation’s V2G school bus project with Lion Electric in ConEdison service territory
+https://nuvve.com/inthenews/nuvve-corporation-activates-bidirectional-flow-of-energy-from-electric-school-buses-
+to-con-edisons-grid-in-new-york/, and Nuvve Corporation’s V2G pilot with San Diego Gas & Electric at Cajon
+Valley Union School District http://www.sdgenews.com/article/vehicle-grid-pilot-leveraging-big-batteries-electric-
+school-buses-support-grid.
+Page 9 of 10
+
+V2G Export (e.g., Product (See 1, 2, 4, 5, 6, and 7)
+energy, capacity, Available Today; 8. Export counting methodology needed
+ancillary services) Demonstration
+Projects
+Completed22
+3.7 – Widescale adoption of smart charging management systems hinges on utility and public
+utility commissioner support for these systems. VGIC highlights the following key needed
+improvements and enhancements:
+ Utilities should incorporate VGI strategies into TE infrastructure programs. This includes both
+deploying networked charging stations, communications platforms and integrations with
+automotive OEMs, and bidirectional charging stations.
+ Offer outside of TE infrastructure programs. Customers installing chargers outside of TE
+infrastructure and make-ready programs should also be presented with VGI options, including
+a menu of technology incentives, VGI rate design, and options to leverage VGI to reduce
+installation costs.
+ Add VGI to DER, demand-side management, energy efficiency, and/or demand response plans
+and programs. As a DER, EVs should be incorporated into utilities’ existing DER strategy and
+placed on a level playing field with other flexible loads or energy storage technologies.
+Interconnection processes, eligibility, incentives, enrollment, and performance compensation
+should be open to EVs and reasonably modified to leverage the latent storage capacity of EVs.
+ Educating fleets and municipalities on the benefits of VGI. Fleets and municipalities should
+be equipped with the tools needed to assess and deploy VGI technologies.
+An example of smart charging management systems that have been developed is The Mobility
+House’s work with Stockton Unified School District (“SUSD”), a disadvantaged community in
+California to deploy smart charging and management solutions for the district’s bus fleet of 11 –
+funded by CARB. The Mobility House’s active intelligent charging management system will save
+SUSD $500,000 over five years in charging costs.23
+4.3 – VGIC recommends a standard interconnection pathway for DER systems be implemented,
+including for both configurations where the inverter is on-board the vehicle and inside a stationary
+charger. Based on our understanding, no state currently allows for the interconnection of
+commercial configurations where the inverter is on-board the vehicle, and several utilities still do
+not trat deployment of bidirectional chargers as equivalent to stationary energy storage systems.
+22 Nuvve INVENT https://nuvve.com/projects/ucsd-invent/. The project team has submitted the final report to the
+CEC, and anticipates it will be uploaded to the Energy Research and Development Reports webpage in the coming
+months: https://www.energy.ca.gov/resources/publications/energy-research-and-development-reports
+23 Taking into account variables such as fleet schedules, equipment requirements and utility rates. See Bloomberg.
+The Mobility House to Save Stockton Unified School District $500k via Smart Charging of New Electric School Bus
+Fleet. May 4, 2021. https://www.bloomberg.com/press-releases/2021-05-04/the-mobility-house-to-save-stockton-
+unified-school-district-500k-via-smart-charging-of-new-electric-school-bus-fleet
+Page 10 of 10

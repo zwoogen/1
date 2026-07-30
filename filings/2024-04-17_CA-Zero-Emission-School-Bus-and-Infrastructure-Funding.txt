@@ -1,0 +1,56 @@
+April 17, 2024
+Email to: docket@energy.ca.gov
+Docket Number: 18-TRAN-01
+Subject: SB 114 Funding Available for Zero Emission School Buses and Infrastructure
+Re: Comments of the Vehicle Grid Integration Council on Work Group #2 to
+Discuss the SB 114 Grants for Zero-Emission School Buses and
+Infrastructure.
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide these
+comments in response to Work Group #2 to Discuss the SB 114 Grants for Zero-Emission School
+Buses and Infrastructure hosted by the California Energy Commission (CEC) and California Air
+Resources Board (CARB) on April 3, 2024. Grants for zero-emission school buses and infrastructure
+offer important support toward achieving California’s clean transportation goals and establish a
+potential opportunity to unlock significant backup power capability to support community resiliency
+and grid-parallel export capability to support grid reliability, including during extreme weather
+events. Electric school buses (“ESBs”) represent a relatively low-cost resource to ensure clean air
+for all, and, in the case of bidirectional-capable ESBs, bolster the evolving grid, support community
+resiliency, and alleviate the financial burden of school bus electrification.
+VGIC supports offering a higher incentive level to bidirectional chargers relative to
+unidirectional chargers and recommends that the CEC consider preferential scoring for
+projects that intend to leverage bidirectional charging capability.
+On slide 32 of the workshop presentation, the CEC proposes to award bidirectional chargers
+using an incentive level of $95,000 per-charger. VGIC supports this proposal, as targeting incentives
+to drive the deployment of bidirectional chargers allows California the opportunity to maximize the
+benefit from its ESB deployment investments. Specifically, leveraging ESBs as mobile energy
+storage systems can defer or avoid certain electric system costs that would otherwise be needed to
+meet grid needs, and can also defer or avoid costly and polluting on-site backup power generation.
+Additionally, in assessing project applications, VGIC recommends the CEC consider
+applying a preferential score to projects that leverage bidirectional charging capability to
+support an identified bidirectional charging use cases. Slide 20 of the work group presentation
+details the requirement for school buses to be “capable of bidirectional electricity flow,” and, as
+detailed above, the CEC proposes to offer a higher award to bidirectional chargers compared to
+unidirectional chargers. However, VGIC notes that neither of these two measures guarantees that
+the equipment will ultimately be used to support community resiliency, bolster grid reliability,
+integrate renewable energy, or any other number of bidirectional charging use cases. With this in
+1
+
+mind, VGIC believes it is reasonable to adopt – on top of these two grant program design elements
+– preferential treatment/scoring for applicants that identify how they will leverage bidirectional
+charging capability. Otherwise, it is possible that funding will support bidirectional charging
+capability that may ultimately sit idle. The CEC and CARB risk coming incredibly close to
+maximizing these ESB investments, but ultimately missing the mark if this equipment is not utilized
+to offer real-world benefits to communities and/or the electric system.
+Conclusion.
+VGIC appreciates the opportunity to provide these comments and looks forward to
+collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council
+Albert Tapia
+Policy Analyst
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+2

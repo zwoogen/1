@@ -1,0 +1,448 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE ENERGY DIVISION STAFF PROPOSAL TO ESTABLISH
+TRANSPORTATION ELECTRIFICATION FUNDING CYCLES AND
+STATEWIDE BEHIND-THE-METER PROGRAM
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+April 25, 2022
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+THE ENERGY DIVISION STAFF PROPOSAL TO ESTABLISH
+TRANSPORTATION ELECTRIFICATION FUNDING CYCLES AND
+STATEWIDE BEHIND-THE-METER PROGRAM
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) 1 hereby submits
+these comments on the Energy Division Staff Proposal to Establish Transportation Electrification
+Funding Cycles and Statewide Behind-the-Meter Program (“Staff Proposal”), issued on February
+25, 2022.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., ENGIE NA, Fermata Energy, FlexCharging, Flo/AddEnergie, Ford Motor Company, General Motors
+Company, Nissan Group of North America, Nuvve Holding Corporation, Sacramento Municipal Utility District,
+Stellantis N.V., Sunrun, The Mobility House, Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox
+USA Inc., and WeaveGrid. The views expressed in these Comments are those of VGIC, and do not necessarily
+reflect the views of all individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+1
+
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+VGIC commends Energy Division Staff for its efforts to develop the Staff Proposal,
+including the elements that would reduce administrative complexity, increase program flexibility,
+and – most importantly – eliminate the gap in program activity that would have likely emerged
+from the protracted timeline originally proposed in the draft transportation electrification
+framework (“2020 Draft TEF”).2 However, VGIC is disappointed that VGI strategies, heralded as
+a key to advancing TE by the Commission upon its unanimous adoption of D.20-12-029, are
+almost entirely absent from the Staff Proposal. It is well-established that VGI strategies can reduce
+the total cost of ownership of EVs and provide non-monetary benefits (i.e., backup power). VGI
+activities can also support the reliability of California’s grid and aid in the rapid transformation it
+is undergoing to achieve power sector decarbonization. Given the opportunity for VGI to
+accelerate TE and grid decarbonization, VGIC believes it would be a significant misstep to
+establish TE funding cycles and statewide behind-the-meter (“BTM”) program that does not
+incorporate VGI as a guiding tenet and integral design component. VGIC offers several key
+enhancements detailing how the program administrators and investor-owned utilities (“IOU”)
+should be required to promote VGI options through marketing, education, and outreach
+(“ME&O”), technical assistance, and rebate program implementation. Below is a summary of five
+key recommendations that are discussed in more detail in Section II of these comments:
+2 The Draft TEF released February 3, 2020 would have placed significant and inflexible limitations on near-term TE
+actions that would have unnecessarily delayed progress toward California’s decarbonization goals. See R.18-12-006.
+Administrative Law Judge’s Ruling Adding Staff Proposal for a Draft Transportation Electrification Framework to
+the Record and Inviting Party Comments. February 3, 2020.
+https://docs.cpuc.ca.gov/SearchRes.aspx?DocFormat=ALL&DocID=326172086
+2
+
+A. Applicable EV-specific and VGI rates should be shared with all customers seeking to
+receive a BTM rebate and/or technical assistance.
+B. Promoting demand response (“DR”) participation options, including the Emergency
+Load Reduction Program (“ELRP”), should be an integral component of the proposed
+TE funding cycles.
+C. Bidirectional charging (“V2X”) equipment should be incentivized through the BTM
+rebate program.
+D. Customers should be incentivized, including fair compensation, when electing ALM
+solutions that reduce TE infrastructure costs that would otherwise be borne by
+ratepayers.
+E. BTM rebates should not be limited to separately-metered EV chargers. Instead,
+customers using both EVSE submetering and EV-based telematics should be eligible
+to receive BTM make-ready and charger rebates.
+In addition, VGIC questions whether the Commission should end support for workplace charging
+due to its potentially significant role in supporting renewable energy integration and grid reliability
+(see Section III).
+II. THE PROGRAM ADMINISTRATORS AND INVESTOR-OWNED
+UTILITIES SHOULD BE REQUIRED TO PROMOTE VGI OPTIONS
+THROUGH ME&O, IOU TECHNICAL ASSISTANCE, AND THE REBATE
+PROGRAM ITSELF.
+VGIC believes it is critical to implement VGI strategies, including those identified in
+Decision (“D.”) 20-12-029 (“VGI Strategies Decision”), alongside broader TE infrastructure
+investments, rather than considering VGI only after these investments have been made. This
+proactive approach can increase customer awareness of VGI opportunities, facilitate deployment
+of VGI-enabling technologies, and right-size TE infrastructure, which each have the potential to
+provide significant customer benefits and, in turn, accelerate TE. Moreover, incorporating VGI
+strategies into TE investment frameworks from the outset can reduce ratepayer costs compared to
+introducing VGI concepts after TE investments have already been made. However, the Staff
+Proposal contains nearly no discussion about the benefits of VGI and its ability to significantly
+3
+
+accelerate TE, and does not propose to incorporate VGI in a meaningful way into the proposed
+BTM rebate program.
+With the unanimous adoption of the VGI Strategies Decision in December 2020, VGIC
+commended the Commission’s leadership in promoting and facilitating a more proactive approach
+to VGI policy. Ordering Paragraph (“OP”) 8 of D.20-12-029 directed each IOU to take specific
+actions related to VGI, “in all of its future applications for TE programs.” 3 Additionally, OP 5 of
+D.20-12-029 directed each IOU to take specific actions related to automated load management
+(“ALM”), a specific VGI strategy, “in all of its future applications for TE programs, or rule or
+tariff to support TE infrastructure installation.” 4 The directives in these OPs are critical to enabling
+VGI alongside – rather than after – TE infrastructure investments. With these clear Commission
+directives in mind, VGIC strongly recommends that VGI play a more integral role in the proposed
+TE funding cycles and statewide BTM program. Specifically, the proposed ME&O and rebate
+administration functions, as well as the technical assistance to be offered by the IOUs should
+promote VGI options, as detailed below.
+A. Applicable EV-specific and VGI rate options should be promoted to all customers
+seeking to receive a BTM rebate and/or technical assistance.
+Currently, customers in the medium- and heavy-duty (“MDHD”) segment, multi-unit
+dwellings (“MUDs”), and public MUD-serving charging sites are eligible for certain EV-specific
+3 R.18-12-006. Decision Concerning Implementation of Senate Bill 676 and Vehicle-Grid Integration Strategies.
+D.20-12-029. (December 17, 2021). OP 8.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M355/K794/355794454.PDF
+4 Id at OP 5.
+4
+
+dynamic time-of-use rates.5 These rates are important tools to save on EV charging costs and
+reduce peak demand by shifting EV charging load toward off-peak hours. In addition, San Diego
+Gas & Electric (“SDG&E”) offers a VGI Pilot rate to Power Your Drive VGI Pilot customers that
+uses a more time-granular commodity component based on CAISO day-ahead hourly prices and a
+distribution adder reflecting the top 200 annual hours of peak demand.6 The Commission also
+recently approved Pacific Gas & Electric’s (“PG&E”) Day-Ahead Hourly Real-Time Pricing
+(“DAHRTP”) rate as an optional tariff for all customers eligible for PG&E’s BEV rates.7 PG&E’s
+DAHRTP rate may be offered to customers as early as 2023.8 Meanwhile, SDG&E is poised to
+offer a similar dynamic rate to a broad range of customers as a result of the recent Assigned
+Commissioner Ruling, which consolidates SDG&E’s proposed V2G Export Rate (A.21-12-008)
+with its General Rate Case Phase 2 real-time pricing rate application (A.21-12-006) to design a
+dynamic rate that applies to both commercial and residential EV customers (as well as non-EV
+customers).9
+Considering this array of available, approved, and pending EV-specific and VGI rates,
+VGIC recommends, at a minimum, the TE funding cycles and BTM rebate program do not in any
+way restrict the rate options that customers may enroll in. Moreover, the ME&O administrator
+should be required to provide customers with a clear explanation of the rate options available to
+5 Customers must meet minimum demand threshold, be metered separately from site load, and meet any other
+requirements detailed in the tariff. See:
+PG&E Electric Schedule BEV https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_BEV.pdf
+SCE TOU EV-7, TOU EV-8, TOU EV-9 https://www.sce.com/sites/default/files/inline-files/TOU-EV-
+7_8_9%20Rate%20Fact%20Sheet_WCAG%20(2).pdf
+SDG&E Schedule EV-HP https://tariff.sdge.com/tm2/pdf/ELEC_ELEC-SCHEDS_EV-HP.pdf
+6 SDG&E. Schedule VGI. https://tariff.sdge.com/tm2/pdf/ELEC_ELEC-SCHEDS_VGI.pdf
+7 A.20-10-011. Decision Authorizing Pacific Gas and Electric Company to Implement an Optional Day-Ahead Real
+Time Rate for Commercial Electric Vehicle Customers. (November 18, 2021).
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M424/K557/424557371.PDF
+8 Id at 32.
+9 A.21-12-006 & A.21-12-008. Assigned Commissioner’s Scoping Memo and Ruling. (April 18, 2022).
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M469/K615/469615155.PDF
+5
+
+them, any approved rates that have not yet opened for enrollment but that customers may soon be
+eligible to take service under, opportunities to stack rate options and programs,10 and a list of EV
+service and technology providers that can help maximize the benefits from enrolling in dynamic
+rates. Moreover, the IOU technical assistance function should provide this education as part of its
+efforts to promote load management and VGI, and do so in coordination with the ME&O
+administrator.
+B. Promoting demand response (“DR”) participation options, including the Emergency
+Load Reduction Program (“ELRP”), should be an integral component of the proposed
+TE funding cycles.
+Demand response (“DR”) programs have immense potential to support the grid during
+times of stress by reducing peak demand. The out-of-market Emergency Load Reduction Program
+(“ELRP”) pilot (if extended)11, existing utility DR programs, utility DR programs that may be
+approved in the future (e.g., resulting from the DR application cycle beginning May 2022), and
+non-utility DR programs (e.g., CAISO DR resource aggregation models) should all be presented
+to customers by the ME&O administrator and IOU technical assistance function. In addition,
+VGIC recommends that customers be considered eligible to receive an upfront incentive, in
+addition to the proposed BTM make-ready and charger rebate, for enrolling in a DR program. The
+exact amount of this additional upfront incentive should be informed and updated by studies,
+program design pilots, and programs. For example, Peninsula Clean Energy’s managed charging
+10 For example, Real-Time Pricing equivalent tariffs and the Emergency Load Reduction Program, per D.21-12-015,
+page 133 and Attachment 2, page 6.
+11 Currently, the ELRP is set to end in 2025. If ELRP is extended/renewed or if elements of ELRP customer group
+A.5 are rolled into a new DR program, these should also be clearly presented to customers.
+6
+
+pilot and PG&E’s VGI Pilots (pending approval)12, which aim to experiment with upfront
+incentive design. Lastly, VGIC notes that DR program enrollment is a condition of receiving
+make-ready rebates in Southern California Edison’s (“SCE”) Charge Ready 2 (“CR 2”).13 VGIC
+posits that most SCE CR 2 and other Funding Cycle 0 (“FC0”) TE program participants are “early
+adopters” and may be more amenable to enrolling in DR programs than “mass-market” customers
+that would be reached through the relatively expanded proposed Funding Cycle 1 (“FC1”). As
+such, VGIC believes it is reasonable to more actively promote – rather than simply require – DR
+program participation in FC1 by providing an upfront enrollment incentive to encourage customer
+enrollment, in addition to the performance-based incentives that encourages ongoing customer
+participation. Upfront incentives may be particularly supportive of customers in AB 841
+Prioritized Communities and other low and middle-income customers.
+C. Bidirectional charging or “V2X” equipment should be incentivized through the BTM
+rebate program.
+Bidirectional charging (“V2X”) use cases can leverage the latent battery capacity in EVs
+to provide backup power to customers, manage customer bills, and support the grid through
+vehicle-to-grid (“V2G”) exports. Currently, V2X systems have a standard interconnection
+12 CPUC Energy Division. Draft Resolution E-5192 Pacific Gas and Electric Company Advice Letter 6259-E
+request approval of four vehicle-grid integration pilots pursuant to Decision 20-12-029. Currently held to May 5,
+2022 CPUC Voting Meeting. https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M355/K794/355794454.PDF
+13 A.18-06-015. Decision Authorizing Southern California Edison Company’s Charge Ready 2 Infrastructure and
+Market Education Programs. D.20-08-045. August 27, 2020.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M346/K230/346230115.PDF
+7
+
+pathway through Rule 21,14 can receive export compensation through the ELRP,15 may soon be
+eligible for retail bill based compensation (pending approval of SDG&E and PG&E rate
+applications, as described above in Section II.A), and are commercially-available across a number
+of customer segments.16 One critical barrier to widespread adoption of V2X technology is that
+existing TE programs require EVSE be placed on a separate meter, a challenge discussed in further
+detail in Section II.E infra. In addition, while V2X solutions have demonstrated clear benefits to
+both customers and the grid, the technology is new and unfamiliar to most customers. To overcome
+this gap, VGIC recommends that the ME&O administrator and IOU technical assistance teams
+work to educate customers on the benefits of V2X use cases, capable chargers, vehicles and
+associated equipment (collectively, “V2X equipment”), appropriate interconnection pathways,
+applicable rates and programs, and any technical considerations, including opportunities to co-
+locate and integrate other types of distributed energy resources (“DER”).17 Additionally, the
+14 Specifically, V2G DC EVSE, where the inverter is located inside the charger, are eligible to interconnect under
+Rule 21.
+15 R.20-11-003. Phase 2 Decision Directing PG&E, SCE, and SDG&E to Take Actions to Prepare for Potential
+Extreme Weather in the Summers of 2022 and 2023. D.21-12-015.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821475.PDF
+16 See, for example: Steve Hanley. Clean Technica. Nissan Using Vehicle to Grid Technology to Power US
+Operations. November 29, 2018. https://cleantechnica.com/2018/11/29/nissan-using-vehicle-to-grid-technology-to-
+power-us-operations/; Roberto Baldwin. 2021 Mitsubishi Outlander PHEV Gets Bigger Motor and Battery at Same
+Price. Car and Driver. February 25, 2021. https://www.caranddriver.com/news/a35605985/2021-mitsubishi-
+outlander-plug-in-hybrid-upgrade/; Nuvve Corporation. Blue Bird Delivers North America’s First-Ever Commercial
+Application of Vehicle-to-Grid Technology in Electric School Bus Partnership with Nuvve and Illinois School
+Districts. March 23, 2021. https://nuvve.com/blue-bird-v2g-electric-bus-with-nuvve-and-illinois-school-districts/;
+Thomas Built Buses / Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School Bus.
+https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley; Lion Electric. Lion Electric Announces Successful
+Electric School Bus Vehicle-to-Grid Deployment with Con Edison in New York. December 14, 2020.
+https://thelionelectric.com/img/medias/LION_Press_Release_White%20Plains%20EN%20FINAL.pdf; Nuvve
+Corporation (2020). Nuvve DC Heavy Duty Charging Station Specifications Sheet. https://nuvve.com/wp-
+content/uploads/2020/04/nuvve-dc-heavy-duty-spec-sheet-1.0.pdf; Fermata Energy. Proven Results and Cost
+Savings with V2G Technology. October 14, 2020. https://www.fermataenergy.com/news-press/proven-results-and-
+cost-savings-with-v2g-technology; Rhombus Energy Solutions. V2G Charging, Control, and Management 50-
+500kW: Bidirectional. https://rhombusenergysolutions.com/products; Ford Motor Company. Ford Intelligent
+Backup Power. https://www.ford.com/trucks/f150/f150-lightning/features/intelligent-backup-power/
+17 Especially for fleet customers that would benefit from BTM DERs that can also manage site load and overall
+operating expenses.
+8
+
+ME&O administrator and IOU technical assistance teams should share with customers a list of
+approved V2X equipment – and create a centralized list if one does not already exist at that time
+– similar to how eligible unidirectional charging (“V1G”) approved product lists are marketed in
+existing IOU TE programs. These could be two separate lists, or one list that indicates to customers
+which EVSE are V2X equipment. Given the potential complexity of interconnecting large V2X
+sites, the IOU technical assistance teams should – in a technology-neutral manner – actively
+support customers through the design and interconnection process and ensure a streamlined
+customer experience.
+At a minimum, V2X equipment should be eligible to receive the same BTM make-ready
+and charger rebates as V1G equipment. However, given the immense potential of V2X to support
+customer needs, bolster grid reliability, and lower system costs, VGIC believes it is reasonable to
+offer an incremental rebate to V2X customers to partially offset the costs of purchasing and
+installing V2X equipment. VGIC believes an incremental V2X rebate is in fact critical to spurring
+the nascent V2X market in California. Despite commercially-available V2X equipment, available
+interconnection pathways, and eligible compensation mechanisms (currently limited to ELRP),
+uptake of V2X equipment is still in its early stages. In contrast, stationary energy storage systems,
+incentivized under the Self Generation Incentive Program (“SGIP”), have been deployed at an
+incredibly rapid pace in California. However, V2X equipment is not eligible for SGIP incentives
+– or Net Energy Metering (“NEM”) compensation – and does not have an analogous technology
+incentive program that aims to deploy V2X equipment. VGIC believes the proposed TE funding
+cycles and BTM program is an appropriate venue to offer an incremental incentive to V2X
+equipment since it is administratively simple, offers consistency to providers and customers
+(compared to the previous patchwork of ad hoc IOU TE programs), and incorporates consistent
+9
+
+treatment across all IOUs in California. VGIC offers itself as a resource and hopes to collaborate
+closely with stakeholders to determine what incentive level would be appropriate for V2X
+equipment. At this time, VGIC suggests that a $10 million annual incentive budget carveout in
+both FC0 and FC1 could meaningfully promote BTM V2X equipment in the near-term. For FC0,
+VGIC recommends these funds be supported from any unused TE program funds. For example,
+there are several previously authorized programs, such as the IOU MDHD programs, SDG&E’s
+Power Your Drive Extension, SCE’s CR 2, PG&E’s EV Charge 2, authorized VGI pilots budget,
+and any other ongoing or proposed TE programs that may not exhaust the remainder of authorized
+funds.
+D. Customers should be incentivized, including fair compensation, when electing ALM
+solutions that reduce TE infrastructure costs that would otherwise be borne by
+ratepayers.
+Encouraging customers to voluntarily choose ALM solutions can be a powerful tool for
+both streamlining and minimizing the costs of EVSE deployment. Notably, D.20-12-029 deemed
+ALM a near-term policy action in recognition that ALM is an important tool for helping to meet
+California’s TE goals.18 OP 5 of D.20-12-029 directs the three major IOUs to take specific actions
+related to ALM, “in all of its future applications for TE programs, or rule or tariff to support TE
+infrastructure installation.” 19 PG&E’s recent EV Charge 2 application intends to meet the
+18 R.18-12-006. Decision Concerning Implementation of Senate Bill 676 and Vehicle-Grid Integration Strategies.
+D.20-12-029. (December 17, 2021). Page 25.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M355/K794/355794454.PDF
+19 R.18-12-006. Decision Concerning Implementation of Senate Bill 676 and Vehicle-Grid Integration Strategies.
+D.20-12-029. (December 17, 2021). OP 5.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M355/K794/355794454.PDF
+10
+
+requirements of D.20-12-029, stating they will “build off the successful use of ALM in EV Charge
+Network [“EVCN”], whereby costs were reduced and physical constraints were overcome at
+customer sites that were deemed a good fit to use this technology.”20 However, the Staff Proposal
+offers no consideration for how ALM solutions can accelerate energization timelines, overcome
+physical constraints, and reduce TE infrastructure costs borne by ratepayers (in other words, stretch
+the proposed FC1 budget to deploy more chargers). Given that ALM is slated to become an integral
+part of TE programs pursuant to D.20-12-029 OP 5, has been proven in EVCN, and is proposed to
+take a larger, structured role in EV Charge 2, VGIC strongly recommends the Commission
+incorporate ALM into the proposed TE funding cycles and statewide BTM program. Specifically,
+the statewide BTM program should ensure customers are permitted to elect third-party ALM
+options including both:
+1. ALM solutions that share available electrical capacity among charging stations to avoid
+the installation cost of additional electrical capacity, for example “software-based
+solutions” as described in D.20-12-029; and,
+2. ALM solutions that share available electrical capacity among charging stations and/or
+utilize on-site DER, such as stationary energy storage systems, to avoid the installation cost
+of additional electrical capacity
+Moreover, the recently updated EV Infrastructure Rules, which removed customer cost
+responsibility for utility-side distribution system upgrades, offer no incentive for customers to elect
+ALM solutions, even though doing so would result in material savings for ratepayers. VGIC is
+20 A.21-11-010. PG&E’s Electric Vehicle Charge 2 Prepared Testimony. (October 26, 2021). At 5-2.
+https://pgeregulation.blob.core.windows.net/electricvehiclecharge2//ElectricVehicleCharge2/Testimony/PGE/2021/
+ElectricVehicleCharge2_Test_PGE_20211026_675449.pdf?sv=2014-02-
+14&sr=b&sig=Plt5dQqlk4Z9PFIUmn3dbtPhPRI32FsWfYOuncQ7S7A%3D&se=2022-04-
+22T22%3A05%3A05Z&sp=rl
+11
+
+concerned that this lack of customer incentive is at odds with D.20-12-029’s prioritization of ALM
+and requirements that utilities incorporate it into applications, rules, or tariffs, but also stands in
+the way of timely and cost-effective fulfilment of California’s broader TE goals. To account for
+this gap and to capture the full value ALM can provide, the proposed statewide BTM program
+should encourage ALM that minimizes both customer- and utility-side costs. This can be
+accomplished either by:
+1. Offering an incremental incentive to host sites voluntarily choosing to implement ALM
+that is linked to both the customer- and utility-side cost savings component, or
+2. Offering an incremental incentive to host sites voluntarily choosing to implement ALM
+that is linked only to customer-side cost savings while simultaneously revising the EV
+Infrastructure Rules to promote optional ALM that reduces utility-side costs.
+VGIC recognizes the scope of the Staff Proposal is limited to BTM infrastructure and investments.
+However, in the absence of any ongoing or upcoming policy forums to consider this issue, it seems
+appropriate to utilize the proposed BTM program to compensate customers that elect ALM for
+both the BTM cost savings as well as the utility-side cost savings. VGIC recommends that a shared
+cost savings model, like that proposed in PG&E’s EVC 2, be applied to ensure customers have an
+incentive to promote ALM. Specifically, customers seeking rebates under the proposed BTM
+make-ready and charger program should be eligible to receive an incremental incentive
+commensurate with the estimated load reduction and/or infrastructure cost savings resulting from
+their ALM election.
+12
+
+E. BTM make-ready and charger rebates should not be limited to separately metered EVSE.
+Instead, customers using both EVSE submetering and EV-based telematics should be
+eligible to receive BTM make-ready and charger rebates.
+To enable VGI, as detailed in Sections II.C and II.D above, it is critical to ensure customers
+can take advantage of rebate programs even if the EV load is comingled with site load. For
+example, if EV load continues to be isolated onto a separate meter, as has been standard practice
+under existing TE programs and the most attractive EV-specific rates, customers will be unable to
+use their vehicles to provide backup power support when needed. It would also be infeasible to
+use V2X capabilities to mitigate demand charges, self-consume rooftop solar production
+(“renewable energy time shifting”), or otherwise support customer bill reduction through V2X.
+Additionally, separately metering EV load undermines a key value proposition of ALM solutions,
+which is to accelerate EVSE deployment and reduce costs by safely and reliably adding EV
+chargers to existing infrastructure (where appropriate and when desired).
+VGIC believes that making TE funding support conditional on EVSE being separately-
+metered is an unfortunate policy that has brought unintended consequences, including missed
+opportunities to unlock VGI value for customers and the grid to date. The Staff Proposal’s TE
+funding cycles and statewide BTM program offers an opportunity to reset California TE policy
+onto the right course by leveraging EVSE submetering and EV telematics approaches to unlock
+substantial value for customers and the grid. Notably, EVSE submetering and EV telematics
+approaches have been widely proven in the field and deployed at program-scale across the
+country.21 VGIC reiterates its recommendation that customers using both EVSE submetering and
+21 See, for example: Xcel Minnesota EV Accelerate At Home Program, where EVSE submetering has saved
+customers an average of $2,196 (pg. 12) in upfront costs; Xcel Colorado Charging Perks Pilot (pg. 263-267), which
+13
+
+EV-based telematics should be eligible to receive BTM make-ready and charger rebates, such that
+not all EV load is separated from site load by default. Given the wide array of EV/EVSE use cases,
+customer types, site constraints, and duty cycles, VGIC strongly encourages enabling both EVSE
+submetering and EV-based telematics options for all customers.
+While VGI aggregators participating in the ELRP are permitted to use EVSE submetering
+to measure incremental load reduction,22 to VGIC’s knowledge this is the only existing EVSE
+submetering pathway available in California. While the Commission continues to defer action on
+adopting an EVSE submetering protocol and has not yet initiated the establishment of an EV
+telematics measurement pathway, other states are poised to “leapfrog” California by enabling these
+options at scale. With this in mind, VGIC strongly encourages the Commission to take swift and
+decisive action to advance the use of EVSE submetering and EV telematics and not require EVSE
+be separately metered in order to receive rebates under the proposed statewide BTM program. In
+addition to EVSE submetering and EV telematics, virtual aggregation of separately-metered EVSE
+load and customer site load should be permitted, as it has been under the ELRP.23 Under this
+approach, separately-metered EVSE accounts can be “linked” to customer accounts for electrically
+contiguous non-EV site load (and generation), and grid imports and exports would be “netted”
+across both accounts.
+uses vehicle telematics to manage EV charging and collect EV charging data; National Grid Massachusetts Off-Peak
+Charging Rebate Program (pg. 3) which uses telematics and networked EVSE (pg. 38) to monitor charging data,
+providing participants with 3-5 cents/kWh for off-peak charging; National Grid Massachusetts Connected Solutions
+Program, which offers an enrollment incentive and annual credits for using vehicle telematics; Eversource and UI
+Connecticut Managed Charging Programs, which use telematics and networked EVSE to enable demand response
+participation for customers; Baltimore Gas & Electric Maryland evPulse, a program offering annual incentives for
+smart charging via vehicle telematics; Xcel Colorado, Minnesota, and New Mexico Optimize Your Charge Program,
+which offers customers an annual bill credit for participation; Smart Charge Rewards Program in New York,
+Portland, Florida, Georgia, and Nashville, which uses a FleetCarma C2 measurement device plug-in to enable VGI;
+(Pending) Duke Energy North Carolina Managed Charging Pilots which would utilize telematics to manage EV
+charging.
+22 PG&E, SCE, SDG&E. Second Substitute Sheet for Joint Advice Letter 6485-E et al. (April 11, 2022).
+23 See D.21-12-015 Attachment 2 page 15.
+14
+
+III. THE COMMISSION SHOULD NOT PREMATURELY DEPRIORITIZE
+WORKPLACE CHARGING USE CASES THAT CAN SUPPORT THE
+INTEGRATION OF RENEWABLE ENERGY.
+As written, the Staff Proposal would “end incentives for workplace charging BTM.”24
+VGIC agrees that workplace charging patterns have changed due to the COVID-19 pandemic and
+there has been much more headway on installations at workplaces as compared to MUDs.
+However, workplace charging remains a potentially vital part of the VGI equation. Because
+workplace chargers are used during normal business hours, they potentially have a critical role to
+play in supporting the grid by absorbing excess mid-day solar generation while also allowing some
+drivers to more easily shift their charging load away from the 4-9 pm peak window. Notably, the
+4-9 pm peak coincides with when many commuters may be returning from home and may desire
+to begin charging if they did not have regular access to a workplace charger. In addition,
+workplace charging sites are likely to provide more opportunities to leverage V2X equipment to
+mitigate demand charges, which tend to be higher for commercial and industrial customers relative
+to MUD customers. Workplace charging sites may also lend themselves to scale, which enhances
+opportunities to implement ALM, on-site renewables and DER integration, aggregation of V2X
+equipment for backup power/resilience, and participation in DR programs with minimum size
+requirements.
+VGIC respectfully recommends the Commission reconsider whether to explicitly end
+support for workplace charging via adoption of the Staff Proposal. Instead, VGIC recommends the
+Commission consider allocating a small portion of FC1 funds toward workplace charging, for
+24 Staff Proposal at 20.
+15
+
+example a percentage of overall funds to be decided on through stakeholder workshops. Given the
+fast-changing nature of the COVID-19 pandemic, the potential for workplace charging to absorb
+excess solar generation, benefits to summer peak reliability, and the explosion of “super
+commuters” that may require workplace charging before a long journey home (in many cases to
+AB 841 prioritized communities),25 the matter of support for workplace charging should be
+revisited on a shorter timeline than other issues highlighted in the Staff Proposal.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the Staff Proposal. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+April 25, 2022
+25 Chris Salviati and Rob Warnock. Apartment List. Explosion of Super Commuters Offers Lessons for Sustainable
+Growth. (August 16, 2021). https://www.apartmentlist.com/research/explosion-of-super-commuters-offers-lessons-
+for-sustainable-growth
+16

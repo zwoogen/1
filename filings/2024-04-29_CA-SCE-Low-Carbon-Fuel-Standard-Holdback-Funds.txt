@@ -1,0 +1,159 @@
+April 29, 2024
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle-Grid Integration Council to Advice Letter 5271-E of
+Southern California Edison
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 5271-E of Southern
+California Edison Company (“SCE”), Request for an Exemption to Public Utilities Code Section
+851 and Implementation Plan for Programs and Projects Funded with Low Carbon Fuel Standard
+Holdback Residential Base Charging Credit and Electric Forklift Credit Proceeds for 2024-2027
+(“Advice Letter”), submitted on April 9, 2024.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+II. DISCUSSION.
+In reviewing the Advice Letter, VGIC recognizes the immense potential of LCFS Holdback
+Funds to maximize VGI and yield tangible benefits for ratepayers. VGI, as recognized in the
+Commission in Decision (“D.”) 20-12-029 and appearing in Public Utilities Code Section 740.16,
+offers critical advantages, including the following: “(A) Increasing electrical grid asset utilization
+and operational flexibility; (B) Avoiding otherwise necessary distribution infrastructure upgrades
+and supporting resiliency;… (D) Reducing the cost of electricity supply.”1 These benefits are
+particularly relevant given California's current affordability crisis. VGI should be a foundational
+1 Public Utilities Code Section 740.16.
+
+April 29, 2024
+Page 2 of 5
+component of California’s clean energy transition given the opportunity to significantly lower
+infrastructure investments and thereby lower system costs, rates, and, in turn, ratepayer’s monthly
+bills.
+However, the nascent state of the VGI market, relative to technologies like smart thermostats
+or stationary energy storage with a history of programmatic cost-effectiveness testing, has made
+justifying ratepayer-funded VGI initiatives challenging. In fact, despite California's substantial EV
+deployment from 2021 to today,2 no new ratepayer-funded VGI programs have been authorized
+since then (i.e., Emergency Load Reductin Program – Group A.5).3 Notably, LCFS Holdback Funds
+offer a unique opportunity, distinct from ratepayer funds, to develop large-scale VGI utility
+programs vital to advancing the VGI market.
+Therefore, VGIC strongly urges SCE and the Commission to capitalize on this opportunity
+by implementing large-scale LCFS-funded (i.e., non-ratepayer-funded) VGI programs with the
+express intent of yielding customer affordability benefits. One high-priority focus area should be
+programmatic approaches to managing the ~$25 billion forecasted investment for distribution
+infrastructure upgrades needed by 2035, as detailed in the recent Electrification Impact Study: Part
+14 conducted by Kevala and the Distribution Grid Electrification Model Study conducted by Cal
+Advocates.5 While it is possible that the marginal distribution pricing considered in R. 22-07-005
+may help mitigate some share of these costs, VGIC advises against over-relying on a single solution.
+SCE details in its Advice Letter that the relevant Commission guidance supports only a
+limited definition of VGI within the LCFS context. SCE also details that its previous LCFS-funded
+V2B project proposal was denied.6 While this proposal, as well as San Diego Gas & Electric’s
+withdrawn proposal to offer a V2B equipment rebate appear to fall well within the scope of
+resiliency applications as envisioned in the D.20-12-027, neither proceeded.
+Moving forward, VGIC strongly urges the Commission and Energy Division staff to
+include the full range of VGI technologies, use cases, and approaches when considering LCFS-
+funded program proposals. This will allow real-world VGI benefits, namely the much-needed
+affordability benefits, to be realized and, ultimately, achieve meaningful scale.
+2 California EV Sales Have Skyrocketed in the Last Decade. Office of Governor Gavin Newsom. February
+22, 2024. https://www.gov.ca.gov/2024/02/22/california-zev-sales-have-skyrocketed-more-than-1000-in-the-
+last-decade/
+3 D.21-11-015. Phase 2 Decision Directing PG&E, SCE, and SDG&E to Take Actions to Prepare for Potential
+Extreme Weather in the Summers of 2022 and 2023. Issued December 6, 2021.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821475.PDF
+4 Electrification Impacts Study Part I: Bottom-Up Load Forecasting and System-Level Electrification Impacts
+Cost Estimates. Kevala, Inc. R.21-06-017. May 9, 2023.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M508/K423/508423247.PDF
+5 Distribution Grid Electrification Model Findings. The Public Advocates Office. Marh 28, 2024.
+https://www.publicadvocates.cpuc.ca.gov/press-room/reports-and-analyses/distribution-grid-electrification-
+model-findings
+6 Resolution E-5236 OP 8 and 9.
+
+April 29, 2024
+Page 3 of 5
+Below, VGIC outlines one specific near-term recommendation to further support VGI
+program development.
+A. VGIC respectfully requests that SCE submit a Supplemental Advice Letter to correct
+erroneous statements related to the state of the VGI market and relevant technologies.
+SCE states that it “does not see a clear pathway for V2B projects in conjunction with current
+utility rules around TE interconnections for commercial customers projects.”7 SCE correctly notes
+that, despite Energy Division’s assertion8, the Charge Ready Transport represents a barrier to
+widespread V2B by isolating customers onto a separate service drop (i.e., away from the “building”
+in “vehicle-to-building”). VGIC has highlighted this tension on several occasions throughout R.18-
+12-006, and we reiterate our long-standing recommendation that make-ready tariffs (i.e., Rule 29
+and Rule 45) and make-ready programs (e.g., Charge Ready Transport) be revised in a timely fashion
+to eliminate this barrier to V2B.
+However, VGIC disagrees with SCE that there is no “clear pathway for V2B projects in
+conjunction with current utility rules around TE interconnections for commercial customer
+projects.” Notably, LCFS Holdback Funds offer precisely this clear pathway, as LCFS-funded
+initiatives can drive V2B site development separate and apart from ratepayer-funded make-ready
+tariffs and programs. SCE appears hesitant to propose funding for V2B efforts given it was denied
+funding for the Baldwin Park Unified School District project proposed in AL 4518-E-A. VGIC
+reiterates its above recommendation that the Commission and Energy Division staff should take a
+broad and constructive view regarding the types of VGI efforts that could be supported using LCFS
+funds. Moreover, VGIC does not believe this singular experience should be abstracted to a broader
+narrative depicting a lack of clarity around how to advance V2B within the current make-ready
+funding paradigm. In addition to the fact that the LCFS Holdback Funds offer this very path forward
+for V2B projects, it is worth noting the growing list of successful V2B projects installed or in the
+late stages of development throughout California and the US. These active V2B pilots and projects
+are currently generating substantial utility bill savings and revenue for customers through demand
+charge management/customer bill management, TOU arbitrage, and participation in demand
+response programs, on the order of thousands of dollars a year per charger. Examples include The
+Mobility House’s deployment in Oakland, California9 and Fermata Energy’s deployment in Denver,
+Colorado.10
+7 Advice Letter at 14.
+8 Resolution E-5236 at 24.
+9 The Mobility House V2B Oakland Project. First-of-its-kind vehicle-to-building resilience hub powered by
+transit buses. October 11, 2022. https://www.mobilityhouse.com/usa_en/our-
+company/newsroom/article/v2b-oakland
+10 Fermata Energy V2B System at The Alliance Center. V2B Technology Coming to Downtown Denver.
+Accessed April 26, 2024. https://fermataenergy.com/article/vehicle-to-building-v2b-technology-coming-to-
+downtown-denver
+
+April 29, 2024
+Page 4 of 5
+With this in mind, VGIC respectfully requests that SCE revise this statement in a
+Supplemental Advice Letter and any future filings related to VGI to more appropriately depict
+the VGI market and avoid prejudicial treatment and presumptive narratives about the
+scalability of the relatively nascent V2X market.
+Along similar lines, SCE states that “V2B options may potentially exist in the residential EV
+market, however, scaling these types of programs today has technological and market challenges.”11
+While VGIC agrees that there are technological and market challenges, we reiterate our above
+recommendation that a single experience should not be used to define the broader narrative
+surrounding residential V2B applications. SCE notes that vehicles with bidirectional charging
+capabilities, such as the Ford F-150 Lightning, are not widely deployed due to costs and availability,
+citing an article from 2023 to demonstrate the high costs of deployment.12 This same article details
+that about 10% of Ford F-150 Lightning customers – a nontrivial share of drivers – are opting for
+the Sunrun Home Integration System, which is the V2B backup equipment associated with the Ford
+F-150 Lightning. Moreover, Chevrolet, GMC, Kia, and Tesla currently offer or plan to offer V2B
+backup power configurations for residential settings. Several charger manufacturers are offering
+low-power DC bidirectional chargers for V2B applications at attractive pricing and other companies
+are pursuing V2X AC configurations that utilize an onboard inverter. As a result, residential V2B
+systems are steadily decreasing in cost and increasing in availability, and this evolving dynamic
+should be well understood and appropriately reflected by SCE.
+In sum, VGIC respectfully requests that SCE replace the unsupported and prejudicial
+conclusions related to the overall state of the bidirectional charging market with a more
+accurate and up-to-date assessment.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to SCE’s Advice Letter. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+11 SCE Advice Letter 5271-E, Appendix A SCE’s 2024-2027 LCFS Holdback Implementation Plan Public
+Version. April 9, 2024. Pg 14.
+12 For Us, It’ll Cost $18K to Power a House With Our Ford F-150 Lightning. Christian Seabaugh, MotorTrend.
+January 27, 2023. https://www.motortrend.com/reviews/2022-ford-f-150-lightning-yearlong-review-update-1-
+sunrun-backup-power/.
+
+April 29, 2024
+Page 5 of 5
+cc: Connor Flanigan, SCE (AdviceTariffManager@sce.com)
+Adam Smith c/o Karyn Gansecki (Karyn.Gansecki@sce.com)
+Service list R.18-12-006
+Service list R.23-12-018

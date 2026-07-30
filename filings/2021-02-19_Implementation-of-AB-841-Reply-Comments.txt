@@ -1,0 +1,208 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL ON THE ASSIGNED COMMISSIONER’S RULING
+REGARDING IMPLEMENTATION OF ASSEMBLY BILL 841
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+February 19, 2021
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Continue the Development of Rates Rulemaking 18-12-006
+and Infrastructure for Vehicle (Filed December 13, 2018)
+Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION
+COUNCIL ON THE ASSIGNED COMMISSIONER’S RULING
+REGARDING IMPLEMENTATION OF ASSEMBLY BILL 841
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission” or “CPUC”), the Vehicle-Grid Integration Council (“VGIC”) 1
+hereby submits these reply comments on the Assigned Commissioner’s Ruling Regarding
+Implementation of Assembly Bill (“AB”) 841, issued on January 15, 2021.
+I. Introduction.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+1 VGIC member companies include American Honda Motor Co., Inc., Connect California LLC, Enel X North
+America, Inc., Fermata, LLC., Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nissan
+North America, Inc., Nuvve Corporation, The Mobility House, Toyota Motor North America, Inc., and Ossiaco, Inc.
+The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of the
+individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2
+
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+II. REQUIRING INVESTOR-OWNED UTILITIES TO OFFER AN ALM
+OPTION IS NOT THE SAME AS REQUIRING CUSTOMERS TO
+IMPLEMENT ALM SOLUTIONS.
+In opening comments, several parties, including VGIC, advocated against requiring
+customers to implement ALM solutions as a condition to take advantage of the EV Infrastructure
+Rules to be proposed by each IOU pursuant to AB 841.2 This is true whether it is an explicit
+requirement or a de facto requirement due to the significant customer costs that could imposed
+due to some Commission-assumed “ALM potential” at host sites. However, VGIC reiterates that
+requiring investor-owned utilities (“IOUs”) to offer an ALM option under their respective EV
+Infrastructure Rules to be proposed pursuant to AB 841 is not the same as requiring customers to
+actually adopt ALM solutions, and could be warranted. Ultimately, customers should be
+provided with the opportunity to decide whether an ALM solution is right for them based on
+their specific site needs, the commercially-available products, and the applicable electric rules
+and tariffs, including any opt-in components of the EV Infrastructure Rules intended to promote
+ALM. VGIC respectfully requests the Commission highlight this distinction to promote clarity
+and ensure parties are operating under a shared set of assumptions.
+III. VGIC BELIEVES THE ALM INCENTIVE STRUCTURE IT PROPOSED IN
+OPENING COMMENTS IS IN ALIGNMENT WITH OTHER PARTIES’
+COMMENTS.
+2 See, for example, Joint Comments of Center for Community Action and Environmental Justice, East Yard
+Communities for Environmental Justice, Sierra Club, and Union of Concerned Scientists, Opening Comments of
+San Diego Gas & Electric, Opening Comments of the Natural Resources Defense Council, the Coalition of
+California Utility Employees, Environmental Defense Fund, Siemens, Greenlots, Enel X North America Inc., and
+EVBox Inc., Opening Comments of ChargePoint, and Opening Comments of Electrify America.
+3
+
+In opening comments, San Diego Gas & Electric (“SDG&E”) states,
+“providing incentives for load reduction beyond existing EV rates—especially
+ones based on the avoided cost of some hypothetical (“kW”) baseline—would be
+difficult to fairly determine for all customers. And it could open up possibilities
+for gaming by customers overstating their hypothetical maximum load.”3
+VGIC acknowledges, and largely agrees with, SDG&E’s concern over providing incentives
+based on a utility-determined, site-specific avoided cost calculation and appreciates the
+challenges this presents in terms of additional complexity and potential gaming. VGIC notes that
+it initially presented its ALM incentive as a preliminary concept at the January 29th, 2021
+workshop, which we believe are the basis for SDG&E’s comments. Since that time, VGIC has
+had further discussions with stakeholders and further refined its proposal as included in Opening
+Comments. This updated proposal in Opening Comment features two possible incentive
+components: 1) an upfront incentive for ALM that can avoid non-demand upgrades via use of
+existing services and 2) an ongoing incentive (via a pre-determined bill credit) for ALM that
+reduces demand on the distribution system. VGIC believes this updated proposal offers a more
+straightforward approach that 1) provides more certainty and simplicity to site hosts, as is the
+intent of AB 841, 2) eliminates the potential for gaming, and 3) still achieves the goal of
+encouraging ALM to reduce distribution system costs.
+The ongoing incentive component proposed in our Opening Comments is roughly based
+on a similar concept to the distribution circuit adder in SDG&E’s Power Your Drive VGI rate,
+though it would be in the form of a credit rather than an adder. Here, we provide an additional
+consideration for an ongoing incentive structure that would better reflect the avoided costs of
+3 Opening Comments of SDG&E at 14.
+4
+
+secondary distribution system upgrades, which has been a major focus of recent procedural
+discussions around ALM deployment, instead of tying the ongoing incentive to primary
+distribution system impacts (although VGIC posits that a similar incentive structure for avoided
+primary distribution costs could also be applied in parallel). AB 841 requires the IOUs to track
+incurred costs in a memorandum account for review and recovery through General Rate Cases.
+We posit that the IOUs could use these tracked costs to develop a demand-indexed cost schedule
+associated with secondary infrastructure for EV charging installed pursuant to AB 841. These
+demand-indexed costs could then in turn be used as a proxy for site-specific avoided costs and be
+used as the basis for ongoing ALM incentives.
+In opening comments, SDG&E also notes “requiring ALM assessments will increase the
+complexity to the SDG&E EV Infrastructure Rule and deter customers from adding EV
+charging.”4 VGIC agrees with SDG&E that dedicated up-front ALM and avoided cost
+assessments could slow down deployment of necessary TE infrastructure. Instead, a standardized
+approach providing upfront incentives or known bill credits to customers that opt-in to an ALM
+option to utilize existing service would avoid significant delays to a customer’s ability to take
+advantage of IOUs’ EV Infrastructure Rule. Under VGIC’s updated proposal (as detailed in
+opening comments and further developed here), an ALM assessment would not be needed for
+each site, and instead could leveraging information already submitted to the IOUs for the upfront
+payment and/or bill credit.
+4 Opening comments of SDG&E at 14.
+5
+
+IV. SUBSCRIPTION RATES ARE NOT AN ADEQUATE SUBSTITUTE FOR AN
+ALM INCENTIVE.
+In opening comments, Pacific Gas and Electric (“PG&E”) and SDG&E argue that
+subscription rates already incent ALM, as customers can save money by reducing their
+maximum demand to a lower demand block and, in turn, reduce their subscription charge.5
+VGIC agrees that a subscription rate structure can encourage load reduction via ALM in some
+cases. However, VGIC does not agree that subscription rate structures encourage ALM in all
+cases, nor that subscription rates on their own promote utilizing ALM as a way to incorporate
+EV charging load on existing service connections and avoid the need to install new, separately
+metered service.
+There are two key aspects to be considered here. First, one of the most effective ways to
+reduce distribution system costs associated with EVs would be to leverage ALM to use an
+existing service to accommodate new charging stations. VGIC recommends first that this option
+be available to all customers who take advantage of programs and tariffs arising from AB 841
+implementation. Since subscription rates are mainly targeted at separately metered EV charging
+– as, for instance, is currently required for eligibility for PG&E’s Business EV rate – to the
+extent that “separate metering” also implies separate utility-side infrastructure6 that is provided
+for by AB 841, this provides little incentive for customers to pursue ALM. In contrast, VGIC’s
+proposal in opening comments contemplates an upfront incentive for customers who successfully
+5 Opening Comments of PG&E at 8 and Opening Comments of SDG&E at 14.
+6 We note that Decision 19-10-055 recognizes the potential for EVSE submetering enable access to the PG&E CEV
+rate: “This decision also recognizes the role that submetering can play in resolving the issues faced by PG&E and
+those CEV customers that would otherwise be required to install a separate meter. If submetering becomes an
+approved and accepted means of metering EVSE load, then a separate meter should no longer be required to take
+service on a CEV rate. This applies to all eligible CEV rate customers, including transit agencies.” (p. 38)
+6
+
+use ALM to fit EV charging onto an existing service, thereby avoiding the need for new non-
+demand-related service upgrades (e.g. meter, service drop). VGIC’s proposal would also comply
+with the SB 676 requirement that investments in transportation electrification do not foreclose
+the VGI potential of those investments,7 and also that VGI is deployed to provide ratepayer
+benefits by increasing electrical grid asset utilization and avoid otherwise necessary distribution
+infrastructure upgrades.8
+Second, if a new service is ultimately pursued to accommodate new EV charging load,
+VGIC agrees that subscription rates can encourage ALM as a means to reduce any immediate
+demand-related distribution upgrade costs directly linked to installing the new service. However,
+in this instance, subscription rates would not encourage any ongoing load management activities
+that could benefit the larger distribution grid over time.9 In fact, they would likely do the
+opposite by giving customers little to no benefit for minimizing day-to-day charging demand
+other than avoiding overage charges. Thus, to the extent that any subscription rates recover
+distribution system costs beyond what is immediately required to interconnect a new charging
+station, they provide a disincentive for ALM. As such, VGIC believes it is still appropriate to
+consider an incentive mechanism for ALM for subscription rate customers but suggests that this
+could be limited to reflect the set of primary distribution costs that are spread across all retail
+customers (including EV customers), rather than those distribution costs that are specific to new
+EV services. Finally, VGIC notes that not all customers types may be eligible for a subscription
+7 Public Utilities Code Sec. 740.16(a)(2)
+8 Public Utilities Code Sec. 740.16(b)(1)
+9 To be clear, VGIC does not believe that AB 841 implementation would require either a new service or a new meter
+in all cases. Instead, the installation of a new meter or new service drop should be an option presented to the
+customer and a decision made in coordination with the utility according to the site-specific needs.
+7
+
+rate option and thus it may be helpful to offer an incentive for those customers not eligible for
+such rates.
+V. VGIC RECOMMENDS THE COMMISSION OUTLINE NEXT STEPS TO
+INCORPORATE AN ALM INCENTIVE INTO ELECTRIC RULES ONCE
+KEY PROGRAM DESIGN ISSUES ARE RESOLVED.
+In opening comments, several parties express that it is premature to explore load
+management as part of the initial implementation of AB 841.10 While VGIC believes ALM
+technologies are ready for widespread implementation, we do agree that it may be premature to
+include an ALM option in the initial EV Infrastructure Rules required by AB 841 since several
+important elements of the ALM incentive design need to be further developed, and may require
+more time than AB 841 would allow. As such, VGIC recommends any Commission Order
+related to implementation of AB 841 include Ordering Paragraphs that detail the steps and
+timeline needed to both 1) develop the ALM incentive mechanism and 2) incorporate this into
+the EV Infrastructure Rules and/or IOU tariffs at a future date. For example, following
+implementation of the IOUs’ EV Infrastructure Rules, the Commission could host a stakeholder
+workshop by May 2021 to address outstanding questions related to an ALM incentive structure
+and solicit other stakeholder proposals. This could be followed by a comment period and
+ultimately a Commission direction in Q3 2021 requiring IOUs update EV Infrastructure Rules to
+include an optional ALM incentive shortly thereafter.
+VI. CONCLUSION.
+10 See, for example, Opening Comments of PG&E at 7, Opening Comments of SDG&E at 13, and Opening
+Comments of the Natural Resources Defense Council, the Coalition of California Utility Employees, Environmental
+Defense Fund, Siemens, Greenlots, Enel X North America Inc., and EVBox Inc. at 9.
+8
+
+VGIC appreciates the opportunity to submit these reply comments on AB 841
+implementation. We look forward to further collaboration with the Commission and stakeholders
+on this initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+February 19, 2021
+9

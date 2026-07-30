@@ -1,0 +1,242 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+FILED
+08/15/22
+Order Instituting Rulemaking to Rulemaking 22-07-005
+03:47 PM
+Advance Demand Flexibility (Filed July 14, 2022)
+R2207005
+Through Electric Rates.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE ORDER
+INSTITUTING RULEMAKING TO ADVANCE DEMAND FLEXIBILITY THROUGH
+ELECTRIC RATES
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+August 15, 2022
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Rulemaking 22-07-005
+Advance Demand Flexibility (Filed July 14, 2022)
+Through Electric Rates.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE ORDER
+INSTITUTING RULEMAKING TO ADVANCE DEMAND FLEXIBILITY THROUGH
+ELECTRIC RATES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) 1 hereby submits
+these comments on the Order Instituting Rulemaking to Advance Demand Flexibility Through
+Electric Rates (“OIR”), adopted by the Joint Commissioners on July 14, 2022.
+I. INTRODUCTION.
+VGIC commends the Commission for issuing the OIR and appreciates the attention given
+to advancing demand flexibility, especially considering the growing integration of distributed
+energy resources (“DERs”), including electric vehicles (“EVs”), into the electric system. VGIC is
+excited to see the continuation of a conversation that began last year surrounding the universally
+accessible, dynamic, and economic signal (“UNIDE”) framework presented by Commission Staff
+at a workshop on May 25, 2021. Shaping DER dispatch and load generally through retail rates
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North
+America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor Company,
+FreeWire Technologies, Inc., General Motors Company, Kaluza, Nissan Group of North America, Nuvve
+Holding Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd, The
+Mobility House, Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and
+WeaveGrid. The views expressed in these Comments are those of VGIC, and do not necessarily reflect the
+views of all individual VGIC member companies or supporters. (https://www.vgicouncil.org/)
+1
+
+provides a path to incentivize these resources to beneficially serve the grid while also allowing for
+costs to be recovered if load is shaped uneconomically. While other mechanisms, such as
+wholesale market integration, can also help achieve these goals, barriers have been faced when
+developing these other pathways. On the other hand, dynamic pricing rates have already been
+deployed in California. They will soon be expanded, for example, through Pacific Gas & Electric’s
+Day-Ahead Hourly Real-Time Pricing (“DAHRTP”) commercial EV rate.
+In support of this OIR, Commission Staff released a whitepaper, “Advanced Strategies for
+Demand Flexibility Management and Customer DER Compensation,” outlining a California
+Flexible Unified Signal for Energy (“CalFUSE”) framework for future dynamic rates in the state
+incorporating real-time pricing (“RTP”) for generation and distribution capacity, as well as
+bidirectional electricity prices and hedging subscription and transactive products.
+EVs are well-positioned to take advantage of dynamic pricing and load flexibility. Vehicle
+Grid Integration (“VGI”) strategies, including managed charging and discharging, can unlock EVs
+as a strategic grid asset with the right price signals. These price signals can directly inform
+customer behavior or integrate with automated charge management systems for a “behind the
+scenes” customer experience.
+VGIC agrees with the Commission that “[t]he rapid growth of electric end uses – including
+electric vehicle charging, distributed energy resources, and building decarbonization – presents
+new challenges and opportunities for coordinating demand flexibility to meet system needs on a
+regular basis.”2 To this end, VGIC offers these comments and recommendations to ensure holistic
+2 OIR at 1-2.
+2
+
+consideration of California’s climate goals and continue near-term progress on enabling dynamic
+rates and managed charging programs for EV customers.
+II. BACKGROUND & INTEREST IN PROCEEDING.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+EVs and VGI through policy development, education, outreach, and research. VGIC supports the
+transition to a decarbonized transportation and electric sector by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated to achieve
+a more reliable, affordable, and efficient electric grid. VGIC currently has 22 members, including
+automotive original equipment manufacturers (“OEMs”) and EV service providers (“EVSPs”),
+and has a direct interest in shaping the policies, procedures, and rules needed to modernize the
+electric grid for a high DER future. VGIC has been an active participant in related rulemakings
+such as the Transportation Electrification or “DRIVE” (R.18-12-006), Self-Generation Incentive
+Program (R.20-05-012), Microgrids and Resiliency (R.19-09-009), Streamlining Interconnection
+of DERs (R.17-07-007), Emergency Summer Reliability (R.20-11-003), and High DER Future
+(R.21-06-017) proceedings.
+III. COMMENTS ON THE PROPOSED SCOPE.
+In recognition of the anticipated growth of DERs, including VGI-capable EVs, VGIC
+appreciates the magnitude of the challenge facing California’s electric grid. Previously, load was
+seen as relatively inflexible demand that had to be met by supply; however, as multiple end-uses
+become electrified, including transportation, shaping load in ways that are useful to the grid
+becomes both more feasible and more critical to maintaining electric reliability and affordability.
+To harness and shape this load, VGIC supports the Commission opening this proceeding to
+consider how to advance demand flexibility.
+3
+
+A. Rate design principles should consider non-electric sector state goals, including
+transportation sector emissions reductions.
+VGIC generally supports the ambitious nature of this proceeding and believes that
+considering rate design principles at this juncture is appropriate. The basic principles of
+maintaining a reliable and affordable grid should remain. However, the Commission should
+consider updating certain principles that do not meet the needs of today’s evolving grid,
+including the following principle: “Rates should encourage the reduction of coincident and
+non-coincident peak demand.”3 Specifically, increased non-coincident peak demand, for
+example, from daytime EV charging load, does not necessarily increase costs or pose reliability
+risks. Therefore, rates need not encourage reductions to non-coincident peak demand. As low-
+cost renewable energy supply grows, increasing the non-coincident peak demand of an
+individual customer through daytime EV charging can benefit the grid by absorbing excess
+solar production, including self-consumption at a site with rooftop solar photovoltaic
+generation.
+To this end, VGIC urges the Commission to consider how rates can advance other goals
+in the state of California, such as greenhouse gas (“GHG”), climate, and air pollution goals
+that extend beyond the electric sector. The transportation sector is California's largest source
+of GHG emissions, accounting for almost 40% of statewide emissions in 2019.4 To address
+this, Governor Newsom’s Executive Order N79-20 targets 100% zero-emission vehicle
+3 D.12-06-029 at 12.
+4 California Air Resources Board. California Greenhouse Gas Emissions for 2000 to 2019: Trends of
+Emissions and Other Indicators. Available at:
+https://ww3.arb.ca.gov/cc/inventory/pubs/reports/2000_2019/ghg_inventory_trends_00-19.pdf
+4
+
+(“ZEV”) market share for in-state sales of new passenger cars and trucks by 2035 and 100%
+ZEV medium- and heavy-duty vehicles by 2045.5
+When considering California’s climate goals, it is appropriate for the Commission to
+take a holistic view of emissions across the state and consider how rate design can promote
+transportation electrification (“TE”) to yield lower transportation sector GHG emissions. The
+Commission should therefore consider adding a rate design principle to directly encourage TE,
+which supports affordability, reliability, and emissions reductions for both the electric and
+transportation sectors.
+B. If the Commission chooses to pursue a unified technology-agnostic rate, progress on
+EV-specific rate offerings should not be delayed or prematurely ended.
+California load-serving entities (“LSE”) have been incorporating aspects of the
+proposed CalFUSE framework into EV-specific rates over the past several years. All three
+investor-owned utilities (“IOUs”) offer residential and commercial EV-specific rates to
+encourage beneficial EV charging behavior and recover appropriate costs of service.
+Generally, these rates are high-differential time-of-use (“TOU”) rates that could be applied to
+the entire customer account or a separately metered EV. The Commission’s recent
+Submetering Decision (“D.”) 22-08-024 provides an alternative to separately metered and
+whole-site TOU rates by utilizing the EVSE to measure charging load. EV-specific TOU rates,
+whether separately metered, submetered, or whole-site, promote demand flexibility and
+introduce customers to the concept of time-differentiated rates.
+5 Executive Order N-79-20. Available at: https://www.gov.ca.gov/wp-content/uploads/2020/09/9.23.20-
+EO-N-79-20- Climate.pdf
+5
+
+In addition to the EV-specific TOU rates currently offered by each IOU, San Diego
+Gas and Electric (“SDG&E”) is piloting an innovative VGI Rate option as part of its Power
+Your Drive program. This rate includes a California Independent System Operator (“CAISO”)
+wholesale market day-ahead energy price component with a day-of adjustment, a peak demand
+adder, and a distribution circuit demand adder. The April 2021 Power Your Drive Research
+Report shows that the VGI rate successfully aligns charging load with grid needs, “reducing
+load when CAISO prices rise or system or circuit adders are applied.” 6 Additionally, Pacific
+Gas and Electric (“PG&E”) plans to offer a dynamic day-ahead, hourly, real time price
+(“DAHRTP”) rate option to all eligible commercial EV customers with a target launch date of
+October 2023.7 Notably, this is not a capped or experimental rate pilot like SDG&E’s VGI
+Rate or TeMix RATES Pilot mentioned in the CalFUSE whitepaper, but rather a full-scale
+optional rate open to all eligible commercial customers. In June 2022, several parties in
+PG&E’s DAHRTP application jointly filed a settlement agreement proposing an export
+compensation mechanism for non-net energy metering (“NEM”) DAHRTP customers, which
+could also be offered to customers as early as October 2023.8 The export compensation
+mechanism, which provides a bidirectional price signal for marginal energy and marginal
+generation capacity costs, is pending before the Commission. Lastly, Resolution E-5192
+directs PG&E to file a Tier 2 Advice Letter by September 2, 2022, proposing a dynamic rate
+6 Power Your Drive Research Report. SDG&E. April 2021. Pg 19.
+https://www.sdge.com/sites/default/files/regulatory/SDG%26E%20FINAL%20Power%20Your%20Drive
+%20Research%20Report%20April%202021.pdf
+7 Decision Authorizing PG&E to Implement an Optional Day-Ahead Real Time Rate for Commercial EV
+Customers. November 19, 2021.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M424/K557/424557371.PDF
+8 Joint Motion of the Public Advocates Office, VGIC, Electrify America, and PG&E for Adoption of Joint
+Settlement Agreement in PG&E’s DAHRTP Commercial EV Proceeding on Non-NEM Export
+Compensation Pilot. June 17, 2022.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M488/K538/488538216.PDF
+6
+
+for its approved VGI pilots. The rate design requirements that PG&E must meet, detailed in
+Section 10 of the Resolution, closely follow the CalFUSE framework, including bidirectional
+pricing, dynamic marginal energy prices based on wholesale electricity costs, and dynamic
+marginal capacity prices based on grid utilization. These developments, specifically PG&E’s
+DAHRTP rate option, represent critical strategies to promote flexible EV charging demand
+and by no means should be delayed, altered, or prematurely concluded.
+The CalFUSE framework contemplates a unified, technology-agnostic rate to simplify
+the menu of options and reduce complexity for customers. VGIC appreciates the underlying
+intent of this approach and understands how it may unlock widespread demand flexibility in
+California. However, if the Commission does decide to adopt a “one size fits all” solution,
+VGIC strongly recommends the Commission use a phased approach that does not abruptly and
+prematurely halt critical progress on the above-mentioned EV-specific rate approaches. At this
+early stage of the market, technology-specific rates, including SDG&E’s PYD VGI rate,
+PG&E’s planned DAHRTP rate, and PG&E’s upcoming dynamic rate design proposal
+according to Resolution E-5192, remain appropriate and should be offered in the interim period
+until - and perhaps even alongside – the phase-in of a potential universal CalFUSE rate.
+C. The Commission should consider looking beyond a “one size fits all” solution and
+instead consider a range of rate design and programmatic approaches.
+The 2019-2020 VGI Working Group identified 320 unique VGI use cases, as different EV
+customers and charging site hosts have different mobility needs, willingness and ability to
+manage charging, and technological capabilities.9 A single solution may not be a good fit for
+9 Final Report of the California Joint Agencies Vehicle-Grid Integration Working Group. June 30, 2020.
+https://gridworks.org/wp-content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf
+7
+
+all passenger EV drivers, fleets (e.g., electric school buses, last-mile delivery, etc.), and public
+fast charging sites. Therefore, a flexible portfolio of rate design options and programmatic
+managed charging approaches should be implemented to accommodate the vast array of
+flexible EV charging use cases.
+With this in mind, VGIC strongly recommends this proceeding not detract from
+Commission efforts to progress programmatic EV demand flexibility strategies. While this
+proceeding is focused on advancing demand flexibility through electric rates, VGIC believes
+it is critical to continue offering non-rate options, including the Emergency Load Reduction
+Program EV/VGI Aggregation Pathway, PG&E’s Low Carbon Fuel Standard-funded Resilient
+Charging Pilot, SCE’s proposed Large-Scale Residential V1G Pilot, and SDG&E’s proposed
+EV DR Pilot. In complement to EV-specific rates, these programmatic approaches represent
+significant drivers for VGI market development and facilitate participation from the broadest
+possible set of customers.
+IV. CATEGORIZATION, HEARINGS, AND SCHEDULE.
+VGIC supports the categorization and proposed schedule of this proceeding and agrees
+with the preliminary determination finding the need for hearings.
+V. NOTICES.
+Services of all notices and communications in this proceeding should be directed to the
+following VGIC representative:
+Ed Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, CA 95827
+8
+
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+VI. CONCLUSION.
+VGIC appreciates the opportunity to submit these comments on the OIR. We look forward
+to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: August 15, 2022
+9

@@ -1,0 +1,191 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 22-05-002
+(U 39 E) for Approval of its Demand Response (Filed May 2, 2022)
+Programs, Pilots, And Budgets for Program
+Years 2023-2027.
+Application 22-05-003
+And Related Matters. Application 22-05-004
+REPLY BRIEF OF THE VEHICLE GRID INTEGRATION COUNCIL
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Senior Policy Manager
+VEHICLE GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+August 11, 2023
+
+TABLE OF CONTENTS
+I. SDG&E STRONGLY DEMONSTRATED A NEED FOR THE ELECTRIC VEHICLE DEMAND
+RESPONSE PILOT, PARTIES SUPPORT THE PILOT DESIGN, AND CAL ADVOCATES’
+CONCERNS ARE INAPPROPRIATE FOR THE CONTEXT. .................................................................. 2
+II. SDG&E’S PROPOSED EV DR PILOT SHOULD BE SCALED UP TO FILL A CRITICAL GAP
+IN VGI OFFERINGS WITHIN SDG&E’S SERVICE TERRITORY. ........................................................ 5
+III. THIS PROCEEDING IS THE APPROPRIATE VENUE TO AUTHORIZE TELEMATICS-BASED
+EV AGGREGATION OFFERINGS, AND THE RECORD PRESENTS AN UNASSAILABLE CASE IN
+SUPPORT OF INCLUDING TELEMATICS AGGREGATORS IN ELRP. .............................................. 5
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company Application 22-05-002
+(U 39 E) for Approval of its Demand Response (Filed May 2, 2022)
+Programs, Pilots, And Budgets for Program
+Years 2023-2027.
+Application 22-05-003
+And Related Matters.
+Application 22-05-004
+REPLY BRIEF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission” or “CPUC”), the Vehicle Grid Integration Council (“VGIC”) hereby
+submits this reply brief in the consolidated Application of Pacific Gas and Electric Company
+(“PG&E”) for Approval of its Demand Response Programs, Pilots, and Budgets for Program
+Years 2023-2027, and Related Matters, pursuant to the Administrative Law Judge’s Ruling
+Admitting Testimony and Exhibits Into the Record and Extending Due Dates for Opening and
+Reply Briefs on Phase II Demand Response Issues, issued by Administrative Law Judge (“ALJ”)
+Garrett Toy on June 28, 2023.
+I. SDG&E STRONGLY DEMONSTRATED A NEED FOR THE ELECTRIC
+VEHICLE DEMAND RESPONSE PILOT, PARTIES SUPPORT THE
+PILOT DESIGN, AND CAL ADVOCATES’ CONCERNS ARE
+INAPPROPRIATE FOR THE CONTEXT.
+2
+
+In opening briefs, SDG&E, Ev.energy, Small Business Utility Advocates, VGIC, and
+WeaveGrid all detail the value of SDG&E’s Electric Vehicle (“EV”) Demand Response (“DR”)
+pilot and highlighted that SDG&E has adequately demonstrated the need for the proposed pilot.1
+SDG&E states that its EV DR pilot will “offer customers the option to optimize charging, receive
+incentives to offset their energy bill and to participate in demand response events that provide
+benefits to the grid,”2 an offering that is currently lacking in SDG&E’s service territory despite the
+large and growing number of EVs. Meanwhile, Cal Advocates recommends that the Commission
+reject all of SDG&E’s proposed pilots and programs, including the proposed EV DR pilot, on the
+grounds that it is not cost-effective.3 VGIC acknowledges Cal Advocates’ concern over cost-
+effectiveness with SDG&E’s portfolio broadly. However, we note that SDG&E cites several major
+issues explaining why their cost-effectiveness scores are insufficient, and VGIC posits these very
+same issues explain why an EV DR pilot is needed at this time. These issues include customer mix
+and enrollment rates.4
+SDG&E states, “Unfortunately, unlike other utilities in the state, SDG&E’s DR programs
+cannot rely on large industrial or manufacturing customers.”5 Currently, EV deployment is much
+larger among residential and small commercial customers than among large commercial and
+industrial customers, which explains SDG&E’s proposed EV DR Pilot focus on residential
+customers. VGIC believes the residential focus of the EV DR Pilot can therefore support
+improvements in program cost-effectiveness by targeting the relatively larger customer segment.
+1 Opening Brief of Ev.energy, pg 2-5; Opening Brief of Small Business Utility Advocates, pg. 7-8; Opening Brief of
+WeaveGrid, pg 2-6; Opening Brief SDG&E, pg. 24-27.
+2 Opening Brief of SDG&E, pg. 25.
+3 Opening Brief of Cal Advocates, pg. 30.
+4 Opening Brief of SDG&E, pg. 48.
+5 Ibid.
+3
+
+In a similar vein, SDG&E states that “SDG&E’s current customer mix... is comprised of
+mostly small to medium commercial accounts and residential customer base, making it a challenge
+to find enough participating customers to shift significant load during a DR event.”6 As noted
+above, EVs are more common for residential and small commercial customers than for large C&I
+customers. Critically, EVs also represent a uniquely flexible load, requiring relatively minimal
+incremental cost and customer interaction to access. Unlike traditional DR technologies, EVs
+leverage embedded technologies, including vehicle telematics or networked EV chargers, to
+manage charging and respond to event signals. Moreover, since EVs are parked for most of the
+day and night, there is enough opportunity to shift load without inconveniencing customers,
+whereas air conditioning load control, for example, would create a noticeably different customer
+experience. With this in mind, VGIC believes the fact that SDG&E’s pilot focuses on residential
+customers supports a higher cost-effectiveness contribution to their portfolio.
+While VGIC acknowledges the importance of ensuring cost-effectiveness in the DR
+portfolio, we believe Cal Advocates’ concern over SDG&E’s Total Resource Cost ("TRC") score
+is inappropriate in the specific context of SDG&E's EV DR Pilot. SDG&E's EV DR Pilot design
+represents a thoughtful, earnest approach to managing residential EV charging that will access
+load flexibility with relatively minimal costs. This reasonableness is clearly demonstrated in the
+record of this proceeding, including in testimony from SDG&E, WeaveGrid, and VGIC.7 We urge
+the Commission to adopt the pilot as proposed, at a minimum, and to consider VGIC’s additional
+proposal for program expansion.
+6 Opening Brief of SDG&E, pg. 49.
+7 Exhibit SDG&E-10, pg. 13-16; Exhibit WG-1, pg. 5-10; Exhibit VGIC-01, pg. 27.
+4
+
+II. SDG&E’S PROPOSED EV DR PILOT SHOULD BE SCALED UP TO FILL
+A CRITICAL GAP IN VGI OFFERINGS WITHIN SDG&E’S SERVICE
+TERRITORY.
+As noted in Section I above, SDG&E sufficiently demonstrates the need for the EV DR
+Pilot, and parties overwhelmingly support the pilot design, apart from Cal Advocates, whose
+dissent is not specific to the EV DR pilot. Several parties further note that SDG&E’s proposed
+pilot could be significantly expanded to unlock greater participation and load flexibility. VGIC
+strongly recommends the Commission direct SDG&E to launch the proposed EV DR Pilot with a
+higher budget and customer enrollment target to achieve a greater impact. Critically, SDG&E
+currently offers Power Your Drive customers a VGI Rate, however, it provides no additional VGI
+offerings to customers, including residential customers who are ineligible for Power Your Drive
+make-ready incentives. In contrast, PG&E has launched three VGI Pilots totaling over $12 million
+in funding, in recognition of the latent load flexibility inherent to EVs. The lack of VGI offerings
+in SDG&E service territory risks not only SDG&E’s ability to manage load but also California’s
+quickly fading position as a leader in VGI.
+III. THIS PROCEEDING IS THE APPROPRIATE VENUE TO AUTHORIZE
+TELEMATICS-BASED EV AGGREGATION OFFERINGS, AND THE
+RECORD PRESENTS AN UNASSAILABLE CASE IN SUPPORT OF
+INCLUDING TELEMATICS AGGREGATORS IN ELRP.
+In opening briefs, PG&E asserts that “no record exists to support VGIC’s request for
+telematics, and there is no opportunity for party comment, particularly when the Commission is
+already addressing the use of telematics as described in D.22-08-024 in R.18-12-006.”8 This
+8 Opening Brief of PG&E, pg. 67-69.
+5
+
+statement is incorrect and should be disregarded for two reasons: this proceeding is the appropriate
+venue to authorize telematics-based EV aggregation offerings, and the record presents an
+unassailable case in support of including telematics aggregators in ELRP.
+Firstly, this proceeding is indisputably the correct policy venue for proposing that an
+existing DR offering be expanded to include a new, low-cost participation pathway, and any
+assertion to the contrary should be disregarded unless sufficiently justified. While PG&E
+references R.18-12-006 as a related proceeding that is addressing aspects of telematics-based rate
+participation, PG&E themselves then state that the Commission directed telematics-based DR
+participation to be addressed outside of R.18-12-006.9 The distinction between these two
+telematics use cases is significant, as the former (i.e., rate participation for customer billing) is
+being addressed in R.18-12-006, whereas the latter (i.e., DR program modification to incorporate
+telematics-based load monitoring and management) is explicitly excluded from R.18-12-006.
+Secondly, the record of this proceeding exists and presents a strong case for a telematics-
+based pathway within ELRP and, moreover, has offered several opportunities for parties to weigh
+in. VGIC raised the prospect of telematics-based participation in its initial application response,10
+proposed telematics-based participation in opening testimony,11 responded to other party remarks
+on the topic in rebuttal testimony and summarized the case for telematics-based participation in
+opening briefs. VGIC’s proposal laid out across this proceeding, namely through opening and
+rebuttal testimony accomplished the following: (a) details the equity, customer choice, and
+customer cost benefits of promoting telematics-based participation, (b) incorporates California
+9 Opening Brief of PG&E, pg. 67-69.
+10 Response of VGIC, June 6, 2022, pg. 2, 4, 6-7, and 11.
+11 Exhibit VGIC-01, pg. 24-30.
+6
+
+Energy Commission-funded research and other third-party results demonstrating up to 95% off-
+peak charging achieved through telematics-based manage charging programs, (c) lists existing
+telematics participation throughout California, Colorado, New York, Massachusetts, Connecticut,
+Portland, and North Carolina, (d) describes the implementation details for an interim approach that
+should be used in the near-term in recognition of the potential that the Commission may adopt a
+telematics submetering protocol in the medium-to-long-term, and (e) references the established
+Commission precedence to support the proposed expansion. WeaveGrid and Ev.energy also
+provide extensive detail on the issue throughout this proceeding, namely in opening and rebuttal
+testimony.12 Additionally, SCE weighed in on the issue in rebuttal testimony13 and SDG&E
+proposed telematics-based participation throughout this proceeding as part of their EV DR Pilot,
+discussed above in Sections I and II. In fact, PG&E appears to be the only interested party that
+opted not to weigh in on this issue despite the extensive back-and-forth between parties in this
+proceeding. With this in mind, we strongly recommend the Commission disregard PG&E's
+assertion that parties have had no opportunities to weigh in on the issue and that the record does
+not exist to support telematics-based participation, as this assertion is plainly inaccurate.
+Establishing telematics-based managed charging pathways remains a no-regrets portfolio
+enhancement, including to ELRP, to support increased EV participation in DR. VGIC urges the
+Commission to, at a minimum, direct utilities to modify ELRP to explicitly allow for telematics-
+based aggregation. The Commission should also consider how to evolve and scale telematics-
+12 Exhibit WG-1, pg. 6; Exhibit EVE-1, pg. 3.
+13 Exhibit SCE-14, pg. 4.
+7
+
+based DR program participation beyond ELRP to ensure the greatest level of EV load flexibility
+is unlocked in support of a more efficient, reliable, and low-cost grid.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit this reply brief. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+August 11, 2023
+8

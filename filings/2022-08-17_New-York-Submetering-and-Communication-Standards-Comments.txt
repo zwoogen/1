@@ -1,0 +1,230 @@
+August 17, 2022
+Hon. Michelle L. Phillips
+Secretary
+New York Public Service Commission
+3 Empire State Plaza
+Albany, NY 12223-1350
+RE: Case 18-E-0138: Proceeding on Motion of the Commission Regarding Electric Vehicle
+Supply Equipment and Infrastructure
+Response of the Vehicle-Grid Integration Council (VGIC)
+to the Notice Announcing Technical Standards Working Group Meeting
+Introduction
+The Vehicle-Grid Integration Council (VGIC)1 is a 501(c)(6) membership-based trade
+association committed to advancing the role of electric vehicles (EVs) and vehicle-grid
+integration (VGI) through policy development, education, outreach, and research. VGIC supports
+the transition to decarbonized transportation and electric sectors by ensuring the value from EV
+deployments and flexible EV charging and discharging is recognized and compensated in
+support of achieving a more reliable, affordable, and efficient electric grid. VGIC appreciates the
+opportunity to provide response to the Commission’s questions in the Notice Announcing
+Technical Standards Working Group Meeting.
+Question 1: How do utilities anticipate using telematics/EVSE to engage with EV load in
+the next 3 years? If the telematics/EVSE will be used for submetering, what are the
+necessary attributes of the telematics/EVSE that would give confidence that EV load is
+measured accurately? What is the state of the market for these products today? What
+would the testing process look like for evaluating telematics/EVSE meter reading ability?
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., dcbel, Enel X North America,
+Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor Company, FreeWire
+Technologies, Inc., General Motors Company, Kaluza, Nissan Group of North America, Nuvve Holding
+Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd, The Mobility House,
+Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid. The views expressed
+in these Comments are those of VGIC, and do not necessarily reflect the views of all individual VGIC member
+companies or supporters. (https://www.vgicouncil.org/)
+1
+
+a) Submetering for programs versus rates
+First, VGIC would like to highlight the distinction between using the metering
+capabilities of vehicle telematics and the metering capabilities embedded within EV supply
+equipment (EVSE) to measure customers’ energy consumption for 1) managed charging
+programs that provide off-bill incentives, versus 2) rates and tariffs that determine the customers’
+monthly bill.
+Under scenario 1, the customer’s total usage, including for EV charging and the rest of
+the home/facility, are billed under the same rate by a utility revenue-grade meter, and the
+submetered usage for EV charging only affects off-bill incentives (e.g., $/kWh of off-peak
+charging, $/kW of peak load reduction during demand response events) offered by the managed
+charging program. This type of arrangement has been widely implemented at program-scale
+around the country, including in New York, without addressing accuracy standards.2
+Under scenario 2, the submetered EV charging usage is billed under a different rate
+schedule than the rest of the home/facility. The total usage is still captured by the primary utility
+meter, but the utility nets out the submetered EV charging usage to determine the usage of the
+rest of the home/facility. This arrangement is less common for EV charging than scenario 1 and
+has only been explored by a few states, with each state following a different approach for
+accuracy standards as detailed in Appendix B of the Commission’s July 14th Order Approving
+Managed Charging Programs with Modifications (Managed Charging Order).
+More stringent accuracy standards (i.e., revenue-grade) have been typical for billing
+purposes since they are potentially applicable to all customers and inform general rate recovery.
+However, since managed charging programs are likely separately funded and overly stringent
+requirements could unnecessarily exclude willing customers from program participation, data
+only needs to be generally correct in order to encourage broader program participation.
+Therefore, VGIC does not believe it is necessary for the Commission to adopt submetering
+2 See, for example: Xcel Energy Colorado Charging Perks Pilot (pg. 263-267, which uses vehicle telematics to
+manage EV charging and collect EV charging data; National Grid Massachusetts Off-Peak Charging Rebate
+Program (pg. 3), which uses telematics and networked EVSE (pg. 38) to monitor charging data, providing
+participants with 3-5 cents/kWh for off-peak charging; National Grid Massachusetts ConnectedSolutions Program,
+which offers an enrollment incentive and annual credits for demand response participation enabled by vehicle
+telematics; Eversource and UI Connecticut Managed Charging Programs, which use telematics and networked
+EVSE to enable demand response participation for customers; Baltimore Gas & Electric Maryland evPulse, which
+offers annual incentives for smart charging via vehicle telematics; Xcel Energy Colorado, Minnesota, and New
+Mexico Optimize Your Charge Program, which offers customers an annual bill credit for participation; Smart
+Charge Rewards Program in New York, Oregon, Florida, Georgia, and Tennessee, which uses a FleetCarma C2
+measurement device plug-in to enable VGI; Duke Energy North Carolina Managed Charging Pilot, which uses
+vehicle telematics to manage EV charging.
+2
+
+accuracy standards for the recently approved managed charging programs (scenario 1). VGIC’s
+comments below will focus on submetering standards for billing purposes (scenario 2).
+b) EVSE submetering
+Since the Commission issued the Managed Charging Order, the California Public
+Utilities Commission issued a Decision adopting a submetering protocol for EVs.3 VGIC is
+providing a summary of a few key provisions of the submetering protocol for the Commission’s
+awareness:
+• Applicable to all residential and non-residential customers, bidirectional charging and
+discharging, Level 2 and DCFC EVSE, and external submeters (no onboard
+telematics yet);
+• 1 percent in the lab and 2 percent in the field accuracy requirement;
+• Submeters must be tested at a Nationally Recognized Testing Laboratory (NRTL) or
+a comparable facility according to testing procedures developed by the California
+Department of Food and Agriculture – Division of Measurement Standards (CDFA-
+DMS);
+• Ownership of the submeter is limited to the customer or a customer-selected third-
+party (i.e., no utility-owned submeters);
+• Submeters shall use a WiFi connection or cellular network for data communication;
+• Submeters must store data on-site for 30 days and remotely for 90 days to support
+billing disputes;
+• Utilities must enable submetering with manual billing reconciliation within 90 days
+of the Decision, and incorporate submetering into utility billing systems within 24
+months.
+As stated in the California Submetering Protocol Decision, the industry has coalesced
+around accuracy standards of 1 percent in the lab and 2 percent in the field, consistent with the
+standards under the National Institute of Standards and Technology (NIST) Handbook 44
+(HB44).4 In the Managed Charging Order, the Commission acknowledged CDFA-DMS’s
+adoption of HB44 standards but noted that “the Commission find that requiring compliance with
+HB44in the managed charging programs is premature given that it is not yet a final code.”5 As
+stated above, VGIC does not deem it necessary to adopt metering standards for managed
+charging programs.
+3 https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M496/K419/496419890.PDF.
+4 https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M496/K419/496419890.PDF, pg. 15.
+5 Managed Charging Order, Appendix B, pg. 1-2.
+3
+
+However, the adoption of submetering standards can provide widespread benefits beyond
+the approved managed charging programs by enabling use cases under scenario 2 described
+above. For example, submetering can enable EV customers to participate in EV-only time-of-use
+(TOU) rates without having to install a separate meter.6 Additionally, EV customers with
+vehicle-to-everything (V2X) capabilities currently have to pick between 1) low-cost EV charging
+(e.g., EV-only TOU rates) that requires a costly separate meter, and 2) key V2X use cases (e.g.,
+backup power and bill management) that require the EV to be on the same service connection
+and meter as the rest of the home or facility. Submetering would enable EV customers to
+simultaneously take advantage of these V2X applications and access EV-only rates. Facilitating
+the adoption and use of these technologies will not only promote transportation electrification by
+lowering charging costs and enhancing the value proposition of EVs for EV owners, but also
+encourage VGI use cases that generate savings for all ratepayers.
+VGIC believes that adopting the NIST HB44 standards, even if they are only “tentative,”
+in order to enable EVSE submetering in the near term is preferrable to not having these options
+available to customers at all. To the extent HB44-compliant EVSE submeters fall short of
+revenue-grade metering standards, the total energy consumption of the site is still measured by a
+primary revenue-grade utility meter.7 Thus, VGIC recommends that the Commission adopt the
+current NIST HB44 standards for EVSE submetering, instead of developing new standards
+through the Technical Standards Working Group (TSWG) process laid out in the Managed
+Charging Order.
+Adopting NIST HB44 standards now will help enable EVSE submetering for EV
+customers in New York in the near term (as opposed to likely the 2025-2026 timeframe as
+provided by the Managed Charging Order), as well as avoid the market fragmentation that may
+result from the development and adoption of multiple redundant standards by different
+jurisdictions. If different states adopt different standards, it will be difficult for the industry to
+align its product design and development with such standards. Additionally, the HB44 standards
+may become final before the conclusion of the TSWG’s work in October 2024. If the
+Commission adopts NIST HB44 standards in the near term, the Commission can simply revise
+its rules at a later date to reflect any updates to the HB44 standards once they are finalized.
+When it comes to testing standards and procedures, VGIC similarly recommends that the
+Commission learn from existing efforts in California. Any potential testing procedures developed
+and testing performed by the TSWG would be redundant to efforts that have already been
+6 Several of the IOUs currently offer whole-home TOU rates with the option for EV-only TOU rates if the customer
+installs a separate meter.
+7 For example, California’s Submetering Protocol states that if any issues arise with a customer’s submeter data, the
+customer should be billed at the primary meter rate for the time intervals during which the disputed charging
+occurred. See https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M489/K140/489140936.PDF, pg. 20.
+4
+
+completed to arrive at the accuracy and testing standards adopted in California and would
+unnecessarily delay the availability of EVSE submetering for EV customers in New York.
+c) Telematics submetering
+The implementation of onboard telematics as a submetering option can support equity,
+customer choice, and access by extending the aforementioned benefits of submetering to
+customers with non-networked EVSE, those who use Level 1 charging, and those who may
+simply prefer to participate via telematics rather than networked EVSE. However, unlike for
+EVSE submeters, there is limited publicly available data on the accuracy of telematics-based
+submeters. More work is needed before onboard telematics can be used for billing purposes to
+enable EV-specific rates.8 Given that EVSE submeters can already be enabled without
+developing additional standards for accuracy and testing, as discussed above, VGIC recommends
+that advancing telematics for submetering be the focus of the TSWG. Specifically, the TSWG
+should consider three sub-issues related to the use of vehicle telematics for billing purposes:
+• Accuracy standards: Can OEMs or third-party telematics providers meet the accuracy
+standard that EVSE submeters meet (e.g., NIST HB44)? Is this necessary, or are there
+justifications for telematics to meet a higher or lower accuracy standard?
+• Testing/verifying accuracy standards: How do you verify that an OEM or telematics
+provider can meet the adopted accuracy standard? Does each vehicle model need to
+be type tested at a NRTL or comparable facility? With vehicles receiving over-the-air
+updates, is there value to testing vehicles/telematics solutions at a third-party lab?
+• Geotagging/geofencing charging: How can the utility determine whether the customer
+is charging at “home base” (e.g., at home for residential customers, or at fleet depots
+for commercial fleets) or elsewhere (e.g., public charging) and bill the customer
+accordingly to avoid double counting?9
+Question 2: Department of Public Service staff is recommending that certain open and
+interoperable communication standards (Open Charge Point Protocol, ISO 15118) for
+EVSE be adopted. Please provide feedback on this recommendation.
+The Federal Highway Administration’s proposed regulations for the National Electric
+Vehicle Infrastructure (NEVI) Formula Program would require compliance with OCPP and ISO
+8 The California submetering protocol does not apply to onboard telematics. Instead, the decision requires
+stakeholders to convene for a telematics workshop within one year, followed by stakeholder proposals for a
+telematics protocol or the incorporation of telematics into the submetering protocol.
+9 For example, under California’s Low Carbon Fuel Standard program, any charging within 110 meters of a home is
+attributed to that home account, and any charging within 220 meters of a non-residential site is associated with that
+non-residential site. See https://ww2.arb.ca.gov/sites/default/files/classic/fuels/lcfs/guidance/lcfsguidance_19-03.pdf
+5
+
+15118.10 In the spirit of providing consistent regulatory and market signals, VGIC recommends
+that the Commission align the OCPP and ISO 15118 requirements with NEVI program
+implementation timelines if possible.
+VGIC appreciates the Commission’s overarching efforts to promote standardization and
+open protocols as a means to advance transportation electrification more broadly. However, we
+encourage the Commission to consider a more flexible approach when it comes to bidirectional
+chargers as the field is evolving rapidly.
+VGIC believes there is value in New York facilitating the nascent bidirectional charging
+market, in order to allow vendors, EV owners, and utilities to develop new programs, business
+models, and participation pathways for bidirectional charging. However, there are still only a
+limited number of bidirectionally-capable EVs and EVSEs products available in today’s market.
+While some of these products are already compliant with ISO 15118 (e.g., Nuvve’s bidirectional
+DCFC charger), some are not. For example, Nissan LEAFs, which represent the majority of the
+V2X-capable EVs on the road, today use CHAdeMO connectors that do not use the ISO 15118
+protocol. While we recognize that the industry has moved towards CCS connectors, there may be
+value in providing near-term support for CHAdeMO through a temporary exemption of ISO
+15118.
+Any near-term efforts to advance bidirectional charging use cases will likely rely on
+some participation from Nissan LEAFs. Thus, requiring ISO 15118 could effectively eliminate a
+significant share of the bidirectionally capable EVs and EVSEs available today, thereby delaying
+market development of an important VGI capability. As such, VGIC recommends the
+Commission exempt bidirectional chargers from any ISO 15118 requirements at this time. VGIC
+further recommends the Commission revisit the exemption at a later date when CCS-based and
+ISO 15118-compliant bidirectional charging is more commonplace.
+Question 3: Should the PSC adopt communication, plug type, and other standards that are
+consistent with the outcome of the June 22 Federal Highway Administration’s Notice of
+Proposed Rulemaking on the National Electric Vehicle Infrastructure Formula Program?
+The proposed regulations for the NEVI Formula Program includes a requirement for
+EVSE to be equipped with CCS connectors.11 Similar to VGIC’s recommendation regarding ISO
+15118 above, VGIC also recommends that the Commission exempt bidirectional EVSE from
+CCS requirements at this time and revisit the exemption at a later date.
+10 https://www.federalregister.gov/documents/2022/06/22/2022-12704/national-electric-vehicle-infrastructure-
+formula-program
+11 https://www.federalregister.gov/documents/2022/06/22/2022-12704/national-electric-vehicle-infrastructure-
+formula-program
+6
+
+Conclusion
+VGIC appreciates the opportunity to provide these comments and looks forward to
+working with the Commission, the joint utilities, and other stakeholders to ensure the success of
+New York’s transportation electrification efforts.
+Respectfully submitted,
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council (VGIC)
+7

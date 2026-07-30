@@ -1,0 +1,132 @@
+June 17, 2022
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Protest of the Vehicle Grid Integration Council to Advice Letter 6609-E of
+Pacific Gas and Electric Company
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle Grid Integration Council (“VGIC”)
+hereby submits this Protest to the above-referenced Advice Letter 6609-E of Pacific Gas and
+Electric Company, (“PG&E”), Modifications to PG&E’s Form 79-1174-02 (“Rule 21 Generator
+Interconnection Application”) Attachments to Incorporate an Exception Option to the Latest Smart
+Inverter Requirements for Interconnections Participating in the Emergency Load Reduction
+Program submitted on May 31, 2022.
+I. INTRODUCTION.
+Decision (“D.”) 21-12-015 details several critical updates to the Emergency Load Reduction
+Program (“ELRP”) pilot, including expanding ELRP to include customer group A.5 for Electric
+Vehicle (“EV”)/Vehicle-Grid Integration (“VGI”) Aggregations. Notably, under D.21-12-015,
+customers may seek to interconnect Vehicle-to-Grid (“V2G”) Direct Current (“DC”) devices (i.e.,
+where the inverter is in the charger) certified to UL 1741 – but not smart inverter supplements or
+functions – for the purposes of participating in ELRP. PG&E then filed Advice Letter (“AL”)
+6543-E which, effective May 1, 2022, modified its Rule 21 tariff to accommodate the ELRP smart
+inverter exemption detailed as in D.21-12-015. In AL 6609-E, PG&E now requests to modify its
+Rule 21 Interconnection Application Form to accommodate customer requests to interconnect
+V2G DC devices that are exempt from UL 1741 SA or any future smart inverter supplements that
+may be required under Rule 21.
+VGIC appreciates PG&E’s efforts to update the interconnection application to align with the smart
+inverter exemption as detailed in D.21-12-015 and AL 6543-E. Streamlined and clear processes
+for customer enrollment in ELRP, including during interconnection, is critical to supporting grid
+reliability, providing additional value for customers, and developing the broader VGI industry.
+However, in reviewing AL 6609-E, VGIC believes elements of PG&E’s proposed form are not
+well aligned with other Commission directions related to Rule 21. Specifically, the requirement
+that applicants provide the vehicle make, model, and year is inappropriate for both V2G DC and
+V2G Alternating Current (“AC”) (i.e., inverter is onboard the vehicle) configurations. VGIC thus
+
+June 17, 2022
+Page 2 of 5
+submits this Protest with this deficiency in mind and believes it can be remedied through the
+following changes:
+• The following items should be removed from the form:
+o “Please provide Electric Vehicle details”
+o “Vehicle Make”
+o “Vehicle Model”
+o “EV Year”
+• PG&E should continue to attend relevant meetings at Standards Development
+Organizations (“SDOs”), per D.20-09-035, to ensure any future proposed form
+revisions are in closer alignment with ongoing standards development work.
+II. INTERCONNECTION OF V2G DC SYSTEMS
+VGIC reiterates its appreciation and support for incorporating the ELRP smart inverter exemption
+into PG&E’s Interconnection Application Form rather than continuing to manage those requests
+“manually.”1 However, customers seeking interconnection for V2G DC EV supply equipment
+(“EVSE”) should not be required to provide the vehicle make, model, and year, as suggested by
+the AL 6609-E. The device seeking interconnection is the EVSE, not the vehicle, and vehicle
+characteristics are not referenced anywhere in PG&E’s Rule 21. Moreover, the Commission has
+found explicitly in D.20-09-035 that “The existing Rule 21 tariff allows for V2G DC EVSE
+systems to be interconnected if the EVSE meets all Rule 21 requirements,” which clarifies that the
+EVSE is the relevant device for interconnection, not the EV.2 Additionally, multiple vehicles may
+be discharging through a single interconnected V2G DC EVSE. Lastly, the exporting vehicle(s)
+may change over time as fleets or owners replace older vehicles with newer models, or the
+exporting capabilities of a given vehicle may change due to over-the-air (“OTA”) software
+updates. With this in mind, requiring vehicle make, model, and year information would not be
+useful to the utility (as it is the EVSE that must meet Rule 21 requirements), could be confusing
+to customers, and may lead to perceived limitations that do not exist (i.e., that customers need to
+re-apply for interconnection if the vehicle changes).
+III. INTERCONNECTION OF V2G AC SYSTEMS.
+VGIC commends PG&E for its attempt to future-proof its Interconnection Application Form by
+accommodating V2G AC systems. Currently, V2G AC pilots can seek interconnection under a
+temporary pathway as detailed in Resolution E-5196 approving Joint Advice Letters SDG&E
+1 Advice Letter 6609-E at 2.
+2 D.20-09-035 Finding of Fact 197.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M347/K953/347953769.PDF
+
+June 17, 2022
+Page 3 of 5
+3774-E, SCE 4510-E, and PG&E 6209-E (“Joint V2G Interconnection Advice Letter”). Therefore,
+VGIC understands PG&E’s intent to incorporate V2G AC systems into the Interconnection
+Application Form. However, the Joint V2G Interconnection Advice Letter does not list vehicle
+make, model, or year as necessary information that customers must provide as part of their
+interconnection application.3 Moreover, in a 2021 V2G AC workshop, PG&E detailed the
+following implementation process for V2G AC pilots, which does not indicate that customers must
+provide vehicle make, model, and year in their interconnection application:
+AL 6609-E does not provide any justification for adding vehicle make, model, and year to the
+Interconnection Application Form. Moreover, as noted in Section II above, increased use of OTA
+updates suggests that a vehicle’s make, model, and year may not determine export capability
+and, therefore, will not be the most relevant information for interconnection purposes.
+Meanwhile, SDOs are actively working to enable a permanent V2G AC interconnection pathway
+(i.e., to replace the temporary V2G AC pilots interconnection pathway that uses relays), for
+example, by developing UL 1741 SC in alignment with SAE J3072. As VGIC understands, in
+addition to the relevant standards, stakeholders are still considering interactions with Rule 21, the
+interconnection process, and related issues identified in the V2G AC Subgroup. For example, Rule
+3 Joint Advice Letter SDG&E 3774-E, SCE 4510-E, PG&E 6209-E at 6. https://tariff.sdge.com/tm2/pdf/3774-
+E.pdf
+
+June 17, 2022
+Page 4 of 5
+21 does not currently reference the applicable V2G AC standards that could facilitate full-scale
+V2G AC interconnection (including the in-development UL 741 SC). Stakeholders have not yet
+concluded precisely how the Interconnection Application Form may need to be revised. VGIC is
+concerned that PG&E’s good faith attempt to prepare for a permanent V2G AC interconnection
+pathway may inadvertently create regulatory and process headwinds that could delay
+implementation once V2G AC systems are incorporated into the Rule 21 process following the
+completion of necessary standards development and stakeholder work.
+Therefore, until the relevant standards and related issues are fully resolved, it is inappropriate to
+require that the vehicle make, model, and year be provided on Interconnection Application Forms.
+VGIC recommends PG&E remove the below phrases from the form, as it is not yet clear that this
+information will be needed for V2G AC interconnection (additionally, they are not relevant for
+V2G DC EVSE, as detailed above in Section II):
+ “Please provide Electric Vehicle details”
+ “Vehicle Make”
+ “Vehicle Model”
+ “EV Year”
+Lastly, to ensure any future requested updates to the Interconnection Application Form or related
+interconnection processes are better aligned with ongoing standards development work, VGIC
+strongly encourages PG&E to attend relevant SDO meetings as required under D.20-09-035.4 In
+these early stages of V2G market development, PG&E and other utilities must remain closely
+engaged with standards development efforts to avoid prematurely implementing confusing,
+unnecessary, or unsupportive processes.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to submit this Protest to the AL 6609-E. We look forward
+to collaborating with stakeholders on this important initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Policy Specialist
+Vehicle Grid Integration Council
+4 D.20-09-035 at Conclusion of Law 76, Ordering Paragraph 54.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M347/K953/347953769.PDF
+
+June 17, 2022
+Page 5 of 5
+cc: Sidney Bob Dietz II c/o Megan Lawson, PG&E (PGETariffs@pge.com)
+Service list of R.20-11-003 and R.17-07-007.

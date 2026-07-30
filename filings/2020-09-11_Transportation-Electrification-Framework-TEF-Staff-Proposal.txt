@@ -1,0 +1,488 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTION 9, 10, AND 12)
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: September 11, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTION 9, 10, AND 12)
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council1 (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Adding Staff Proposal for a Draft
+Transportation Electrification Framework to the Record and Inviting Party Comments
+(“Ruling”) issued by Administrative Law Judge (“ALJ”) Patrick Doherty on February 3, 2020.
+Pursuant to Email Ruling Resetting Procedural Schedule for Comments on Transportation
+Electrification Framework Sections issued by ALJ Sasha Goldberg on August 4, 2020, VGIC
+timely files these comments on Section 9, 10, and 12 of the Draft Transportation Electrification
+Framework (“Draft TEF”) on September 11, 2020.
+I. INTRODUCTION.
+A. Overview of VGIC
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California
+LLC, Enel X North America, Inc., Fiat Chrysler Automobiles, Ford Motor Company, General Motors
+Company, Nissan North America, Inc., Nuvve Corporation, and Toyota Motor North America, Inc. The
+views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2
+
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the multidimensional value from EV adoption and flexible EV
+charging and discharging is recognized and compensated in support of achieving a more reliable,
+affordable, and efficient electric grid.
+B. Organization of VGIC’s Comments
+VGIC’s comments are organized as follows:
+ First, VGIC provides several general observations and recommendations on
+Transportation Electrification and Customer Rates for the Commission’s
+consideration.
+ Second, VGIC addresses specific questions on Sections 9 and 10 of the Draft TEF
+posed by the Commission and in Energy Division Staff Paper on VGI Issues.2
+II. OVERARCHING OBSERVATIONS REGARDING EV CUSTOMER RATES
+VGIC responds to the Commission’s specific questions on TEF Section 9 in Section III of our
+comments below. However at the outset we would like to make a few general observations about
+the role of rates in promoting VGI and TE overall.
+ Rate design can be an effective tool to help accelerate TE overall and VGI in
+particular.
+VGIC believes that EV rate design can be leveraged to accelerate EV and EVSE
+production by enabling VGI as a means of a) lowering the total cost of EV ownership, b)
+providing a revenue to OEMs and EVSPs for administering certain rate programs, rebates
+2 Vehicle Grid Integration Implementation and the Draft Transportation Electrification Framework,
+Energy Division Staff Paper (August 10, 2020)
+3
+
+or load management schemes, and c) assuring that vehicles remain connected to allow for
+automated dispatch in support of VGI goals.
+ Increasingly dynamic rate options are generally more favorable for VGI:
+VGIC generally supports increased use of dynamic rates, which we believe can
+ultimately be accomplished in a variety of ways (some of which are not mutually
+exclusive) including the following:
+o Real-time options including 1) direct wholesale market participation, 2) indirect
+wholesale price exposure (e.g. like SDG&E’s Power Your Drive program)
+o Enhanced TOU options, including, 1) Increased CPP options with tiered
+structures for competitive kW pricing, 2) Increased on/off peak price differentials.
+o Extension of dynamic rate concepts above to distribution system costs.
+ In designing EV rates, consideration should be given to the fact that EV adoption
+generally provides to downward pressure on rates.
+VGIC notes that EVs contrasts with other forms of DER (e.g. rooftop solar) that typically
+lead to lower volumetric sales, thereby putting upward pressure on rates. As such, we
+believe there should be less emphasis or concern about potential cross-subsidies within
+EV rates, and more emphasis on exploring EV rate design as a means to further TE
+policy objectives and introduce new business opportunities for EV industry participants
+and vehicle owners.
+ Advanced rate options can be implemented without the need for new direct
+metering equipment
+4
+
+Implementing advanced rate or bill credit options can be achieved without resorting to
+expensive new metering infrastructure that will likely deter customer participation.
+Instead, interval data can be more cost effectively be provided through EVSE
+submetering or advanced OEM telematics. These approaches have been proposed in other
+jurisdictions as a means for calculating bill credits. Additionally, if OEMs’ or EVSPs’
+capabilities are leveraged to provide this data and recruit customers to perform grid-
+beneficial behavior, VGIC believes they should be appropriately compensated for doing
+so.
+III. COMMENTS ON DRAFT TEF SECTION 9 (TRANSPORTATION
+ELECTRIFICATION AND CUSTOMER RATES) AND STAFF PAPER ON VGI
+ISSUES.
+A. Section 9, Question 1: To what extent should investor-owned utilities (IOU)
+collaborate on rate designs and related customer education efforts across service
+territories? Could one IOUs take the lead in providing guidance on future electric
+vehicle (EV) rate design plans or should each IOU file separate plans that comply
+with the guidance described below?
+VGIC commends the Commission and IOUs for their commitment to improving the EV rate
+design process, and we offer several specific recommendations in response to this question. First,
+VGIC recommends the Commission allow pathways for IOUs within California to replicate
+successful rate options on an expedited basis. For example, if a rate has been successfully
+implemented by one IOU, another IOU should be able to replicate is on an expedited basis. This
+can facilitate further standardization across IOU service territories, and is a necessary step to
+maintain momentum in implementing successful EV rates on a statewide basis. Second, VGIC
+strongly encourages the Commission to issue guidance that maximizes the level of IOU
+5
+
+coordination on customer education efforts related to rates. It is imperative that a coordinated
+approach to marketing, education, and outreach (“ME&O”) related to rates be implemented not
+only across IOUs, but also in close collaboration with EV original equipment manufacturers
+(“OEMs”), EVSE OEMs, and EV service providers (“EVSP”), given the opportunity to leverage
+the unique and strong position of these competitive customer-facing market actors.3 VGIC
+addresses this potential in greater detail in its Comments and Reply Comments on the TEF VGI
+Section, which discusses the potential for “upstream” incentives for customer recruitment and
+retention.
+B. Section 9, Question 2: What aspects of rate design and related outreach are most
+important to improve the customer experience and advance widespread
+transportation electrification?
+As an initial matter, VGIC commends the PUC, the IOUs, and other California stakeholders for
+the significant progress that has been made in recent years on improving rate design for EV
+customers. In many respects, California is the most advanced state in the U.S. in terms of the
+variety and sophistication of EV retail rate options. However, that does not mean that there is no
+room for improvement, nor does it mean that current rate options are sufficient to support
+California’s ambitious transportation electrification goals. VGIC sees three main aspects of rate
+design that could be improved to advance widespread transportation electrification:
+1. Create more widely available dynamic EV rate options and/or improve the non-dynamic
+components of existing EV rate options
+2. Offer discount rate options for advanced/automated load management
+3 See Comments of VGIC on TEF VGI and ME&O and Reply Comments of VGIC on TEF VGI and ME&O for
+detailed recommendations.
+6
+
+3. Offer rate or bill credits to encourage and compensate customers for the value of energy
+exported to the grid from vehicles
+We describe each of these below in greater detail.
+1. As part of the TEF, the PUC should direct IOUs to create more widely available
+dynamic EV rate options and/or improve the non-dynamic components of existing EV
+rate options
+VGIC and many other parties have identified TOU rates as one of the core components of
+encouraging robust managed charging and ultimately providing value to V2G functionality if
+appropriate retail rate credits are provided to exported energy. Additionally, VGIC recognizes
+that California is generally a leader in developing advanced TOU rates for electric vehicles.
+However, VGIC notes that even the advanced TOU rates that exist in California today are still
+only a partial solution for encouraging managed charging and other VGI functionality that is
+dependent on dynamic rates. For example, we observe the following regarding to the IOUs’
+current or proposed commercial EV rate options:
+ PG&E’s subscription rate concept is essentially a flat monthly charge, which gives
+customers little-to-no control over minimizing day to day charging costs other than
+avoiding overage charges.4
+ SCE’s current commercial EV rates include a demand charge holiday, however as
+these demand charges are restored in 2024, they will return to a non-dynamic rate
+structure that will remain a barrier to EV adoption.
+4 While the subscription level could theoretically be reset on a periodic basis, this does not provide a level of
+dynamic pricing incentives that would affect day-to-day charging decisions.
+7
+
+ SDG&E’s Power Your Drive rate, while perhaps the most dynamic retail rate option
+in California, also includes a static “Base Rate” component of $0.14/kWh. Moreover,
+this option is limited to only a small pool of eligible participants.
+Given these limitations, we believe it is important to establish a framework to continuously
+evaluate and improve upon dynamic rate offerings. The Electric Vehicle Rate Evolution
+(EVREV) plan approach outlined in the Draft TEF could be one avenue for this. Additionally, in
+its August 17, 2020 comments VGIC and other joint stakeholders proposed a VGI Portfolio
+approach that could also be a venue for holistically evaluating EV rate options.
+In each of the three rate examples outlined above, VGIC believes that even more
+dynamic rate options can and should be considered, and should also made available to all
+commercial EV customers, and as an option for residential customers. To do so, VGIC believes
+the dynamic elements of these rates could also be extended to the portion of distribution system
+costs associated with the subscription charge (PG&E), demand charge (SCE), or base rate
+(SDG&E) components.5 Temporarily setting aside the commodity portion of rates (which are
+addressed further below), below are some conceptual approaches for how these currently non-
+dynamic components could be made more dynamic:
+Dynamic Distribution Rate Approaches
+ Approach 1 - Enhanced Volumetric TOU:
+This approach would simply convert each non-dynamic rate components to a volumetric
+TOU rate. This is similar to how SCE is currently operating under its present demand
+charge holiday (in SCE’s case, this would depend upon the holiday being extended,
+5 VGIC notes that SDG&E’s dynamic rate option does have a distribution adder component, but that it is limited to
+200 hours per year, rather than being reflected in all hours.
+8
+
+and/or the volumetric components being updated). In many respects this would
+approximate a coincident demand charge, in lieu of the traditional non-coincident
+demand charge. An adaptive framework could also be used to update the TOU time
+periods on a more frequent and regular basis as the needs of the grid evolve. These
+frequent updates would match the capabilities of EV Fleet owners to actively manage
+charging load, which may contrast with a typical residential customer. To the extent that
+OEMs or EVSPs can serve as an intermediary for managing charging load, residential
+customers could also increasingly be exposed to these frequent updates. OEMs and
+EVSPs can help customers adapt to new EV TOU rate windows “behind the scenes”
+while minimizing customer confusion.
+ Approach 2 - Partially Dynamic Demand Charge:
+VGIC views this approach as “second best” alternative to a volumetric TOU (or fully
+dynamic rate), would be a more dynamic demand charge could be considered in lieu of
+traditional demand charge approaches.6 Traditional demand charges typically do not
+work well for EV customers because they penalize customers for a single hour of high
+demand, even if that hour is not peak coincident, and even if their overall charging
+behavior over the course of a month is generally aligned with the needs of the grid.
+Moreover, if a customer records a high demand early in the month, there is little-to-no
+incentive to optimize charging behavior for the rest of the month. Instead, it should be
+possible to design a demand rate that is more flexible and dynamic, which would
+encourage customers to charge in an optimal manner on every day during the month,
+6 Note that this approach could also be used for facility-specific, or non-coincident secondary distribution system
+costs for which a TOU rate may not be appropriate. Additionally, this is applicable only if demand charge holidays
+are phased out as planned (VGIC may support continuation of current demand charge holidays).
+9
+
+while still reflecting the principles of cost causation. One approach might be an “average
+of daily maximum demand” whereby the billing determinant is based on the average of
+daily maximum demand values (versus a single monthly maximum value). This would
+give customers a clear incentive to optimize charging behavior by reducing demand every
+single day, and receive a commensurate benefit for doing so. The chart below illustrates
+the concept for a hypothetical commercial customer. This option could also be further
+enhanced by allowing for aggregating (or submetering) of charging stations in similar
+locations on the primary distribution system to take advantage of load diversity (while
+recognizing that this may not be feasible for customer-specific facilities, or secondary
+distribution costs).
+Dynamic Commodity Charges
+Under either of the two approaches outlined above, or for any other approach, VGIC
+recommends evolving the commodity portion of EV rates towards a fully dynamic or “real-time”
+10
+
+option. This could be through a similar approach to SDG&E’s Power Your Drive Program, but
+offered to all EV customers, including residential customers, instead of only a small subset. For
+residential customers, VGIC further recommends that vehicle telematics and EVSE submetering
+could be used as a means of recording real-time charging behavior in lieu of expensive new
+metering equipment that is likely to present a major barrier to adoption.
+2. As part of the TEF, the PUC should direct IOUs to offer discounted rate options
+for Active/Automated Load Management (“ALM”)
+As discussed in VGIC’s Reply Comments on TEF Sections 7 and 8, an Automated/Active Load
+Management (“ALM”) approach could help to defer distribution system upgrades required for
+new charging equipment and/or overall EV load.7 The entities responsible for implementing
+these load management actions (e.g. EV owners, OEMs, EVSPs, etc.) should be provided
+corresponding compensation for avoiding these costs that benefit all ratepayers. In the case
+where the ALM provider is also the retail customer this compensation could be offered in the
+form of a retail rate discount or bill credit. For example, as detailed in the Reply Comments
+referenced above, a discount of $0.14/kWh could be applied to a hypothetical ALM system that
+helped to avoid $2,800 in distribution system upgrades or make-ready improvements.8 Since
+these discounts are intended to capture marginal distribution system costs, they could be applied
+under any of the Dynamic Distribution Rate options described above. Alternatively, the
+compensation could be provided as a direct payment or rebate to an OEM or EVSP who
+successfully manages the customer’s charging load rather than through a retail rate discount.
+7 Reply Comments of VGIC on TEF Sections 7 and 8 at 5-9.
+8 Assumes 2000 kWh/yr in charging load, and 10-year EVSE life. See Reply Comments of VGIC on TEF Sections 7
+and 8 at 5-9 for more information on cost recovery and potential revenue sharing options.
+11
+
+3. As part of the TEF, the PUC should direct IOUs to offer rate offsets or bill
+credits to compensate for the value of energy exported to the grid from EVs
+through V2G capabilities.
+VGIC believes that V2G compensation is a high priority issue, and associated compensation
+mechanisms must be addressed in parallel to addressing technical barriers in order to unlock the
+full potential of VGI. One such compensation mechanism is a retail rate offset or bill credit
+associated with exports. This is discussed more fully in our comments in Section E below.
+C. VGI Staff Paper, VGI WG Recommendation 1.01: Rate design for demand
+charge mitigation.
+Please refer to VGIC comments above in Section B-1 on “Dynamic Distribution Rate
+Approaches”
+D. VGI Staff Paper, VGI WG Recommendation 1.09: NEM for EVs
+VGIC is generally supportive of increasing the number of rate options available to EV
+customers, including NEM options. We believe that optionality is critical to developing nascent
+markets and allowing customers to choose the solutions which are optimal for their unique
+needs. As such, we believe that expanding the eligibility of NEM for SCE and SDG&E
+commercial EV customers to match what already is available for PG&E customers is a sensible
+approach.
+E. VGI Staff Paper, VGI WG Recommendation 1.16: Credit for V2G Exports
+The VGI WG Final Report clearly concluded that the potential to leverage V2G technology
+represents a tremendous opportunity for the state of California. As discussed in comments on the
+12
+
+TEF VGI Section and VGI Issues, the VGIC finds ample justification for the Commission to
+issue guidance on VGI that promotes no-regrets investments in V2G. Most notably, V2G can
+support grid reliability (including meeting peak net load), help integrate renewables, aid
+community resilience, and accelerate transportation electrification. Standards development
+organizations (“SDOs”) are actively advancing strategies to alleviate technical barriers to V2G
+Alternating Current (“V2G AC”) interconnection. If adopted, the recent Rule 21 Proposed
+Decision will require IOUs to support the work of SDOs, develop pathways to interconnect V2G
+AC pilots, and streamline processes to interconnect and track V2G Direct Current (“V2G DC”).9
+These technology and standards developments have provided greater certainty to OEMs as they
+pursue new product developments. However, technology and standards work must be
+accomplished in parallel to the development of compensation mechanisms to incentivize
+customers and market actors to deploy beneficial V2G capabilities. This is especially true if
+these capabilities are expected to be deployed at scale to support the grid’s needs.
+VGIC recognizes that some VGI compensation pathways could involve direct
+participation in CAISO wholesale markets through either the Non-Generator Resource or Proxy-
+Demand Response models. VGIC supports continued development of these options through
+engagement with the CAISO. However, VGIC believes that these direct wholesale pathways
+may not be appropriate for V2G due their exclusion of exports. Even if exports were included,
+they may not be appropriate for all retail customers due to a) the complexity of wholesale market
+participation and cost-prohibitive requirements for metering and telemetry, b) ongoing
+controversies over retail versus wholesale charging rates for behind-the-meter resources, and c)
+9 Proposed Decision Adopting Recommendations from Working Groups Two, Three, and Subgroup, filed by
+Administrative Law Judge Anne E. Simon (“ALJ”) on August 20, 2020 in R.17-07-007.
+13
+
+the fact that these approaches narrowly limit compensation to wholesale market values which
+may not capture the full set of societal and economic benefits V2G can provide.
+As such, VGIC strongly encourages the Commission to explore additional options for
+compensating energy exported to the grid under a V2G approach. As highlighted in the VGI
+Staff Paper, several mechanisms warrant consideration, and VGIC believes the following options
+may represent some possible compensation pathways:
+ Integration into Net Energy Metering (“NEM”) Tariff options (either in its current
+iteration or as part of the forthcoming “NEM 3.0”)
+ A new, standalone feed-in tariff
+ A V2G export bill credit administered as part of the TEPs or proposed VGI Portfolio.
+Each of these strategies has advantages and drawbacks. Under the NEM approach, VGIC could
+envision a similar approach to stationary energy storage which would involve revising the
+California Energy Commission’s (“CEC”) Renewable Portfolio Standard (“RPS”) Guidebook to
+allow V2G to become eligible as an “addition or enhancement.” This approach would offer the
+same advantages that has made NEM a successful program for helping to scale up distributed
+solar resources such as simplicity for customers and streamlined interconnection. However,
+unless changes are made to the definition of NEM-eligible resources, current NEM rules could
+limit compensation to the subset of V2G use cases in which V2G exports are paired with eligible
+renewable generation. This would effectively exclude all EV customers who do not have on-site
+renewable energy generation. Additionally, for certain OEMs, a compensation pathway that is
+solely dependent on retail customer rate offsets via NEM presents a challenge in terms of
+justifying investments in V2G technologies. While there are advantages to being able to
+advertise these features to new EV owners, a more direct revenue stream could enhance the
+business case for OEMs to build robust V2G capabilities into future EV model designs.
+14
+
+A feed-in tariff approach represents a sensible alternative to NEM, however it also faces
+some similar challenges. Specifically, if the feed-in tariff is designed similarly to CPUC’s
+existing ReMAT program, it may be constrained by the limitations of PURPA which would also
+require pairing with an eligible generator. This would similarly exclude use cases without on-site
+renewables. Notwithstanding these issues, VGIC strongly supports further exploration of a feed-
+in tariff-style approach as a medium-term strategy for enabling V2G. In particular, this could
+offer a more direct revenue stream for OEMs and EVSPs to help justify robust V2G investments.
+However, certain challenges would still need to be resolved regarding eligibility, compensation
+structure, and other program features. We would encourage the PUC staff to consider a separate
+proceeding that could help to begin developing this program and resolve these issues.
+Given these limitations, at this time, VGIC recommends the Commission focus on
+developing a V2G Export Bill Credit option as a primary near-term option for retail customer
+V2G compensation. As discussed in previous comments, VGIC envisions a VGI Portfolio
+framework, which includes a V2G bill credit program, could be developed within the DRIVE
+OIR and eventually integrated into each IOU’s TEPs. A V2G Export Bill Credit would provide a
+bill credit to retail customers (or V2G providers) that export power from their V2G-capable
+EV/EVSE that the ￼value to the grid￼at the time of export (and any other values deemed
+appropriate). To accelerate the nascent V2G market, VGIC posits the credit value will need to be
+large enough to meaningfully spur customer adoption and familiarity with V2G technologies. As
+a starting point, VGIC recommends the Commission consider setting a compensation level that is
+commensurate with the customer’s 10 retail rate option.￼ This approach has similar advantages
+to net energy metering which was instrumental in advancing distributed solar in its infancy.
+10 A secondary option could be to provide credit at hourly wholesale rates similar to the Power Your Drive program.
+However, VGIC does not recommend this approach given the drawbacks described in these comments.
+15
+
+Namely, it is simple for customers to understand, limits administrative burden, and is a good
+proxy for grid value (at least for low penetration levels). Meanwhile, the credit can be
+administered transparently in accordance with CPUC Rate Principle 8 (“Incentives should be
+explicit and transparent”) and gradually adjusted upward or downward as experience is gained.
+Moreover, VGIC believes that tying a credit to prevailing ￼EV TOU rates ￼could provide a
+substantial customer benefit that would encourage both overall EV adoption and V2G
+participation. The table below provides an illustrative example of the potential V2G value for an
+EV customer (or V2G implementer) using their vehicle to export energy during peak hours:
+[A] 300 Wh per mile vehicle efficiency
+[B] 25 miles per day traveled
+[C]=[A]*[B] 7.5 kWh mobility usage per day
+[D] 5 kW charging power
+[E]=[C]/[D] 1.5 hours to recharge mobility power
+[F] 8 hours of dwell time during off-peak
+rate window
+[G]=[F]-[G] 6.5 available off-peak hours for arbitrage
+[H] 6 hours of dwell time during on-peak
+rate window
+[I] $0.15 off-peak rate per kWh
+[J] $0.45 on-peak rate per kWh
+[K]=[D]*[H] 30 kWh charging for V2G
+[L]=[K]*0.9 27.0 kWh discharging for V2G (assumes
+90% RTE)
+[M]=[J]*[L]- $7.65 V2G credit (less charging cost)
+[I]*[K]
+[N] 200 days per year
+[O]=[M]*[N] $1,530 annual V2G value
+Furthermore, VGIC recommends the Commission and IOUs consider how vehicle
+telematics and/or EVSE submetering can assist tracking V2G exports, as opposed to requiring
+new metering equipment. VGIC has observed that onerous metering requirements tend to limit
+customer enrollment in EV rates and VGI programs, and strongly recommends the Commission
+16
+
+avoid imposing such requirements whenever possible. Instead, the Commission should consider
+the lower-cost options embedded within the EV and/or EVSE. For example, V2G bill credits
+could be easily determined using OEM telematics or EVSE submetering data on hourly vehicle
+charging/discharging either independently or in combination with existing utility interval meter
+data. Additionally, VGIC previously commented on the role OEMs/EVSPs could play in
+enrolling customers and promoting ongoing participation in VGI rates and programs through
+upstream incentives. These enrollment and participation incentives could be co-developed with a
+V2G credit program and any associated data requirements. VGIC also encourages the
+Commission to consider how an approach that directly includes OEMs in delivering bill credits
+could also help resolve the challenge of offering a direct revenue stream to justify V2G
+investment. For example, one approach would be to remunerate the bill credits directly to OEMs
+that could demonstrate verified V2G exports and allow them to pass a significant fraction of
+these savings on to participating EV customers through a lease or other arrangement. This is
+somewhat analogous to a “community solar”-style approach for V2G. Regarding the feasibility
+of this arrangement, VGIC notes that vehicle telematics and EVSE submetering have been
+leveraged for EV TOU charging incentive programs proposed by utilities in other jurisdictions
+(e.g. National Grid in Massachusetts, or Xcel Energy in Minnesota), and thus there is some
+precedent for this type of approach.
+VGIC recognizes VGIC recognizes IOUs and other parties have previously cautioned
+against exploring V2G export compensation, citing the nascency of the market. VGIC believes
+the development of a compensation mechanism for V2G exports is one of the central catalysts
+required to overcome the “chicken or egg” problem that has plagued V2G market development
+17
+
+to date. Even so, to address these concerns VGIC offers the following recommendations on
+appropriately scaling the V2G export bill credit and ensuring value of V2G is fully considered.
+1. Appropriately scaling V2G
+VGIC recognizes that there may be concerns with the possible ratepayer cost impacts of an open-
+ended V2G export credit option. While we believe it is premature to determine the net impact to
+ratepayers at this time (including costs, benefits, and participation rates), we acknowledge that
+some safeguards may be appropriate. As such, we recommend the Commission consider an
+initial V2G bill credit participation cap of 450,000 customers which roughly equates to 30% of
+California’s 1.5 million EV by 2025 target. Priority should be provided to EV customers on TOU
+rates that can provide (or have an OEM/EVSP provide) hourly charging data. We believe that
+this cap should be reevaluated if it is reached. Additionally, as noted above, an alternative
+crediting option may to link the bill credit to hourly wholesale market rates (rather than retail
+TOU rates), similar to the SDG&E Power Your Drive program. If customers choose this option,
+we believe there should be no cap on the number of eligible participants.
+2. Additional studies can help inform future V2G export credit options.
+As mentioned, additional studies on the value of V2G may be helpful in informing the future
+direction of V2G bill credits. However, VGIC believes it is premature to conduct these until
+there is more experience with how EV customers, OEMs, and EVSPs are actually performing on
+V2G deployment. It is also premature to determine if our recommended approach would yield a
+net cost or net benefit to customers, however we are eager to engage with the PUC and other
+stakeholders to discuss how this analysis should be conducted. In conducting this valuation,
+VGIC notes that it will be important to weigh not only the potential ratepayer cost of V2G bill
+credits, but also:
+18
+
+a) the grid value from the following: avoided energy costs, avoided capacity costs, avoided
+line losses, avoided GHG emissions, avoided transmission and distribution costs, etc., and
+b) the ratepayer impact value to non-participants from increased kWh sales as EV adoption
+rates increase.
+F. VGI Staff Paper, VGI WG Recommendation 1.18: Partially dynamic rates
+VGIC is generally supportive of fully dynamic rates to the extent they are feasible. VGIC
+believes they are feasible in most cases, however, we recognize that in some cases, IOUs may
+not be able to offer fully dynamic rates for certain secondary distribution system related costs
+and would encourage consideration of partially dynamic rates as a “second best” option in those
+instances. This was discussed above in Section B-1.
+IV. COMMENTS ON DRAFT TEF SECTION 10
+A. Section 10.4, Question 1: Should the California Public Utilities Commission (CPUC)
+consider applications from community choice aggregators (CCA) for approval to
+develop their own programs, or administer a portion of the investor-owned utilities’
+(IOU) authorized transportation electrification (TE) programs using budgets that are
+recovered through IOU customer rates?
+At this time, VGIC does not have a view on whether CCAs should be considered as program
+implementers but is open to the concept. That said, we believe the Commission has little to no
+jurisdiction over CCAs in this matter and this would only be viable if the CCAs did so
+voluntarily. If they did choose to participate, VGIC views CCAs as potentially constructive
+partners in helping deliver VGI related programs and activities. Specifically, CCAs have a
+unique and important understanding of local issues and complexities within their service
+territories, and this capability should be leveraged to advance VGI and TE more broadly. For
+19
+
+example, implementation of the ALM tariff concept described above is well suited for CCAs to
+leverage both due to their need to lower charging infrastructure costs, and due to their knowledge
+of local electrical codes and standards that can ensure safe implementation ALM requirements.
+Additionally, CCAs may have useful knowledge of how best to harmonize OEM telematics data
+for use in VGI-related activities.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these opening comments on Rates,
+Partnerships, and Emerging Technology sections of the Draft TEF. We look forward to further
+collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: September 11, 2020
+20

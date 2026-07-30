@@ -1,0 +1,182 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PHASE 2 PROPOSED DECISION DIRECTING PACIFIC GAS AND ELECTRIC
+COMPANY, SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN DIEGO GAS
+& ELECTRIC COMPANY TO TAKE ACTIONS TO PREPARE FOR POTENTIAL
+EXTREME WEATHER IN THE SUMMERS OF 2022 AND 2023
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+November 16, 2021
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+PHASE 2 PROPOSED DECISION DIRECTING PACIFIC GAS AND ELECTRIC
+COMPANY, SOUTHERN CALIFORNIA EDISON COMPANY, AND SAN DIEGO GAS
+& ELECTRIC COMPANY TO TAKE ACTIONS TO PREPARE FOR POTENTIAL
+EXTREME WEATHER IN THE SUMMERS OF 2022 AND 2023
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Proposed Phase 2 Decision Directing Pacific Gas and Electric
+Company (“PG&E”), Southern California Edison Company (“SCE”), and San Diego Gas &
+Electric Company (“SDG&E”) to Take Actions to Prepare for Potential Extreme Weather in the
+Summers of 2022 and 2023 (“PD”), issued by Administrative Law Judge Anne E. Simon on
+October 29, 2021. Pursuant to the guidance provided in the PD, these reply comments are being
+timely filed and served on November 16, 2021.
+I. THE PD – IN RECOGNITION OF A NASCENT MARKET – APPROPRIATELY
+PROPOSES FLEXIBLE OPTIONS TO ALLOW ELECTRIC VEHICLES TO
+SAFELY DISCHARGE.
+The PD would adopt a flexible approach to interconnecting Vehicle-to-Grid (“V2G”) direct
+current (“DC”) electric vehicle supply equipment (“EVSE”) as detailed in Attachment 2:
+“In recognition of a nascent market, any direct current (DC) V2G electric vehicle supply
+equipment (EVSE) that has been certified to UL 1741, but not the updated smart inverter
+certification standard required in Rule 21, may interconnect for the purposes of
+participating in the ELRP, subject to all other Rule 21 interconnection requirements.” 1
+VGIC strongly supports this provision and agrees that it will significantly support the development
+of California’s V2G market and VGI goals pursuant to SB 676. However, in opening comments
+1 PD Attachment 2 at 6.
+1
+
+on the PD, PG&E and SCE opposed this approach.2 SCE argues that exempting V2G DC EVSE
+from updated smart inverter certification standard (i.e., UL 1741 SA) “should only be adopted in
+the Rule 21 Proceeding.”3 PG&E asserts that “any modifications to these requirements should be
+appropriately considered within the Rule 21 proceeding, instead of this Rulemaking.”4
+VGIC disagrees with the assertion that modifications to interconnection requirements
+should be considered exclusively within the Rule 21 proceeding. Interconnection topics, including
+revisions to interconnection processes, fall within the defined scope of this proceeding as detailed
+in Assigned Commissioner’s Amended Scoping Memo and Ruling for Phase 2, which lists
+“interconnection” and “other opportunities to reduce demand or net demand including virtual
+power plants, distributed energy resource (DER) export, distributed generation” as in-scope
+topics.5 Furthermore, the clear intent of the July 30, 2021 emergency proclamation supports the
+consideration of any and all reasonable pathways to expedite and expand interconnection to
+additional resources, including V2G DC EVSE, that can increase supply or reduce peak load and
+net peak load.6
+Moreover, this specific exemption is both appropriate and critically necessary to leverage
+the latent V2G capacity that is currently or will soon be deployed.7 VGIC believes this will provide
+important support for the nascent V2G market, and strongly urges the Commission to adopt the
+language proposed in Attachment 2 exempting V2G DC EVSE from the updated smart inverter
+certification standard required in Rule 21.
+2 PG&E Opening Comments at 11 and SCE Opening Comments at 7.
+3 SCE Opening Comments at 7.
+4 PG&E Opening Comments at 11.
+5 Assigned Commissioner’s Amended Scoping Memo and Ruling for Phase 2 issued on August 10, 2021 by
+Assigned Commissioner Marybel Batjer. Pages 4-5.
+6 See https://www.gov.ca.gov/2021/07/30/governor-newsom-signs-emergency-proclamation-to-expedite-
+clean-energy-projects-and-relieve-demand-on-the-electrical-grid-during-extreme-weather-events-this-
+summer-as-climate-crisis-threatens-western-s/ (Press Release) and https://www.gov.ca.gov/wp-
+content/uploads/2021/07/Energy-Emergency-Proc-7-30-21.pdf (Proclamation of a State of Emergency).
+7 See VGIC Opening Testimony at pages 7-9 for a list of available and upcoming V2G products and
+available information on the certifications of each product.
+2
+
+In addition, VGIC opposes PG&E’s assertion that “any references to UL 1741 should be
+specified with the letters ‘SA’ for consistency purposes.” 8 The PD at Attachment 2 explicitly states
+that UL 1741 is required for participating V2G DC EVSE, and specifies that the updated smart
+inverter standard required in Rule 21 (i.e., UL 1741 SA) is not required. PG&E’s conflation of the
+standard (UL 1741) and its smart inverter supplement (UL 1741 SA) is concerning. If the CPUC
+were to consider PG&E’s recommendation, it would risk undermining the clear intent of the PD
+and Attachment 2 to support the nascent V2G market by exempting ELRP Group A.5 customers
+with V2G DC EVSE from Rule 21 smart inverter requirements (i.e., UL 1741 SA). Moreover, in
+contrast with PG&E’s assertion, the smart inverter supplement (UL 1741 SA) is focused on smart
+inverter capabilities, rather than safety. The critical safety elements of the standard are found in
+UL 1741, not the SA supplement. Notably, systems that have safely interconnected and operated
+in parallel to the grid to date have been certified only to UL 1741, and not the updated smart
+inverter, therefore VGIC questions PG&E’s assertion that being certified to the SA supplement is
+an important safety measure. With this in mind, VGIC reiterates its recommendation that the
+Commission adopt the language on this issue as proposed in the PD and Attachment 2.
+II. PG&E’S OPENING COMMENTS REGARDING V2G EXPORTS HIGHLIGHT
+VGIC’S RECOMMENDATION THAT THE PD SHOULD MORE CLEARLY AND
+EXPLICITLY STATE THAT V2G EXPORTS MAY EXCEED SITE LOAD OR
+VIRTUALLY AGGREGATED SITE LOAD.
+VGIC reiterates its support for the Commission allowing bidirectional operations under
+ELRP. The PD Attachment 2 states:
+“the VGI aggregator is permitted to virtually aggregate separately metered EVSE with
+other load and generation (if any) at any electrically contiguous host site to allow export
+from the EVSE to reduce the host site’s load and export from such aggregation up to the
+sum of the net export allowed by any available Rule 21 permits of the EVSE site and
+the host site” 9 (emphases added).
+In VGIC’s opening comments, we noted that the Staff Concept Paper detailed that “virtual load
+aggregation of all stand-alone EVSEs and the related host site must not be negative at any time”
+10 (emphasis added). The language in the Staff Concept Paper therefore appears to be replaced by
+8 PG&E Opening Comments at 11.
+9 PD Attachment 2 at 15.
+10 Staff Concept Paper at 10.
+3
+
+the language in the PD. VGIC supports the proposed language in the PD, and in opening comments
+requested that it be amended to provide additional clarity, thereby leaving no doubt to the VGI
+aggregators and IOU teams responsible for coordinating EVSE interconnection and
+implementation of ELRP. In opening comments, PG&E states the following:
+“The PD states that ‘the virtual load aggregation of all stand-alone EVSEs and related host
+site must not be negative at any time.’ PG&E requests clarification on how NEM customers
+can participate under the restriction if emergency events are called when the customer’s
+NEM generator is exporting to the grid.”11
+In citing the Staff Concept Paper language (i.e. “must not be negative at any time”), PG&E
+demonstrates the precise misinterpretation of the PD that VGIC expressed concern over in our
+opening comments. PG&E appears to interpret the Staff Concept Paper language, found in PD
+Section 4.1.7.1 “Background on ELRP EV/VGI” merely as context, as the PD’s adopted direction.
+Based on PG&E’s misinterpretation, VGIC remains convinced that the PD should be revised to
+clarify that the language in PD Section 4.1.7.3 “Adopted Direction for ELRP Group A.5, EV/VGI
+Aggregation” and Attachment 2 supersedes the proposed language in the Staff Concept Paper. The
+California Energy Storage Alliance (“CESA”) also highlighted this issue and recommended that
+additional clarity be provided to specify that V2G exports may exceed site load.12
+VGIC is concerned that the lack of clarity in the PD as written may undermine the
+underlying intent of the PD to allow V2G exports that exceed site load. With this in mind, VGIC
+reiterates its recommendation that the PD Attachment 2 be amended as follows at page 15:
+“the VGI aggregator is permitted to virtually aggregate separately metered EVSE with
+other load and generation (if any) at any electrically contiguous host site to allow export
+from the EVSE to reduce the host site’s load and export from such aggregation up to the
+sum of the net export allowed by any available Rule 21 permits of the EVSE site and the
+host site. To clarify, the VGI aggregator is permitted to allow export from the EVSE that
+may exceed the host site’s load.”
+11 PG&E Opening Comments at 12.
+12 CESA Opening Comments at 13.
+4
+
+III. VGIC STRONGLY OPPOSES PG&E’S ASSERTION THAT A RULE 21
+INTERCONNECTION AGREEMENT IS NECESSARY TO PARTICIPATE IN
+ELRP GROUP A.5.
+The PD Attachment states that an ELRP group A.5-eligible VGI aggregation may consist
+of “any combination of electric vehicles and charging stations – including those that are capable
+of managed one-way charging (V1G) and bi-directional charging and discharging (V2G).” 13
+Meanwhile, in opening comments on the PD, PG&E states “PG&E would like to clarify that a
+Rule 21 Interconnection Agreement (IA) is necessary regardless of whether there is an export
+permit needed to be a pre-requisite to participate in A.4 (VPP) and A.5 (VGI)” (emphasis added).
+14 VGIC disagrees with PG&E’s assertion that a Rule 21 IA is necessary to participate in ELRP
+group A.5, as customers participating only in one-way charging mode should under no
+circumstances be subject to Rule 21. PG&E’s suggestion is wholly inconsistent with Decision 20-
+09-035, Finding of Fact 191, which states that “current rules and practice confirm that, in the case
+of unidirectional charge-only V1G, Rule 21 does not apply but Rules 2, 15, and 16 are
+applicable.”15 VGIC therefore opposes PG&E’s assertion that a Rule 21 Interconnection
+Agreement be required for participation in ELRP Group A.5.
+IV. CONCLUSION.
+VGIC appreciates the opportunity to these reply comments on the PD. We look forward to
+further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: November 16, 2021
+13 PD Attachment 2 at 6.
+14 PG&E Opening Comments at 4.
+15 D.20-09-035 at 194. See also Ordering Paragraph 38 at 218.
+5

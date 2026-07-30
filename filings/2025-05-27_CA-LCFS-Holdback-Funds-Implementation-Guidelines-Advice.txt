@@ -1,0 +1,143 @@
+May 27, 2025
+CPUC Energy Division Tariff Unit
+505 Van Ness Avenue
+San Francisco, California 94102
+EDTariffUnit@cpuc.ca.gov
+Re: Response of the Vehicle-Grid Integration Council to Advice Letter 4655-E of
+San Diego Gas & Electric Company, Advice Letter 7591-E of Pacific Gas and
+Electric Company, Advice Letter 5544-E of Southern California Edison
+Company
+Dear Sir or Madam:
+Pursuant to the provisions of General Order 96-B, the Vehicle-Grid Integration Council
+(“VGIC”) hereby submits this response to the above-referenced Advice Letter 4655-E of San Diego
+Gas & Electric Company (“SDG&E”), Advice Letter 7591-E of Pacific Gas and Electric Company
+(“PG&E”), Advice Letter 5544-E of Southern California Edison Company (“SCE”), Joint Request
+to Streamline Low Carbon Fuel Standard Processes and Align with California Air Resources Board
+Regulation (“Joint Advice Letter”), submitted on May 7, 2025.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated to achieve a more reliable, affordable, and efficient
+electric grid.
+II. DISCUSSION.
+VGIC strongly supports the overall intent of the Joint Advice Letter and streamlining
+approvals for the use of LCFS holdback funds. These funds offer a valuable opportunity to support
+transportation electrification and advance grid-beneficial EV programs. Critically, VGI initiatives
+offer one of the only tools to increase the efficiency of the existing grid and mitigate the need for
+new distribution system upgrades, which, in turn, can stave off the mounting pressure on utility
+rates. VGIC welcomes the California Air Resources Board’s (“CARB”) updated LCFS regulation,
+
+May 27, 2025
+Page 2 of 4
+which positions California to remain a leader in transportation emissions reduction. The LCFS latest
+regulation also explicitly details Pre-approved Holdback Projects, including the following uses:
+i.Investments in grid-side distribution infrastructure necessary for EV charging.
+ii.Support for vehicle-grid integration with projects such as:
+I.Encouraging the optimization of EV charging through education in the following
+areas: peak demand, rate pricing, grid emergencies, potential power shutoffs,
+infrastructure deferral, renewable integration, and/or other signals and grid needs to
+provide grid and customer benefits.
+II.Providing program incentives to encourage driver participation in
+monitored/managed charging, demand response, or vehicle-to-load / vehicle-to-grid
+applications.
+III.Supporting the deployment and installation of bidirectional charging equipment.
+IV.Other innovative approaches to promoting and managing EV charging and
+discharging that provides benefits to customers and the grid.
+iii.Hardware and software that decrease the cost of or avoid updates to infrastructure,
+including load management software or outlet splitting.1
+Holdback funding represents a no-regrets strategy to launch innovative, non-ratepayer-
+funded programs that can deliver ratepayer benefits and generate critical data to inform broader VGI
+market development to ensure the availability of EVs as DERs in the California’s long-term energy
+planning toolkit.
+A. VGIC Strongly Supports CPUC Directing the IOUs to Comply with the Latest CARB
+Regulation and Guidance to Minimize Misalignment.
+As detailed in the Advice Letter, substantial changes to the LCFS regulation were made in
+the 2024 Amendments adopted by CARB. The IOUs find themselves in a unique situation, required
+to comply with both CARB’s guidance in the LCFS regulation and CPUC’s guidance in Decision
+(“D.”) 20-12-027. VGIC agrees with the Joint Utilities that “there may be downstream adjustments
+that the IOUs cannot foresee now.”2 The Advice Letter’s request for the resolution to “direct the
+IOUs to comply with the most recent CARB regulation and guidance documents”3 represents the
+most effective pathway forward to avoid unnecessary delays and conflicts. VGIC strongly
+recommends that CARB’s new Pre-approved Holdback Projects not be improperly obscured by
+conflicting guidance, as it risks undermining CARB’s explicit intent for the use of these funds. In
+the case of any conflict, IOUs must comply with CARB’s language regarding the use of these
+holdback revenues, as LCFS is designed and approved by CARB. This is the case not only for these
+recently adopted amendments, but also future LCFS amendments that CARB may adopt. The
+1 See CARB’s recent LCFS Amendments, Attachment A-1: Final Regulation Order (Proposed Sections for
+Amendments) at p.49-50.
+2 Advice Letter at 9.
+3 Ibid.
+
+May 27, 2025
+Page 3 of 4
+Commission should therefore direct the utilities to follow CARB guidance on a going forward basis
+to encompass current and future changes to LCFS.
+B. VGIC Supports Streamlining of LCFS Holdback Program Creation and Approval.
+VGIC strongly supports efforts to streamline the process for submitting and approving
+programs funded by LCFS holdback proceeds. Having holdback programs proposed and updated
+on an ad hoc basis appears to create unnecessary friction in the processing of Advice Letters. This
+has created administrative burdens and made it harder for stakeholders to track program
+developments. VGIC agrees that having an annual filing process will help stakeholders better
+evaluate utility LCFS portfolios and ensure more orderly and transparent review.
+However, the benefits of this streamlined proposal process will only be realized if the
+Commission also commits to predictable and timely approvals. VGIC respectfully urges the
+Commission to adopt and communicate its timeline for approving both annual implementation plans
+and annual forecast advice letters. Committing to approval by July 31st for implementation plans
+submitted each January, and by December 31st for September forecast filings, would provide much-
+needed regulatory certainty and reduce the bottlenecks that often delay program deployment. These
+deadlines will enable utilities and partners to make timely investments that align with policy
+priorities and grid needs.
+VGIC also encourages the Commission to consider other methods of increasing transparency
+around LCFS holdback programs. This could be via a webpage on the Commission website with
+approved LCFS programs and pending Advice Letters or another central repository for information.
+C. VGIC Encourages IOUs to Include Expected Multi-Year Budgets for Programs
+Anticipated to Extend Beyond Two Years.
+While the Joint Advice Letter proposes that IOUs include two years of budget in
+implementation plans for new programs, VGIC recommends that utilities also include estimated
+budgets for the full expected program duration when programs are anticipated to last longer than
+two years. Even if only the first two years are formally approved, providing a forecast of future
+years will improve transparency and support more effective long-term planning by stakeholders and
+the Commission.
+VGIC is supportive of annual budgets true-ups through the September forecast advice letter
+to reflect actual LCFS credit generation and revenue availability. Including longer-term projections
+upfront does not limit the flexibility to adjust budgets later; instead, it enables stakeholders to better
+understand funding expectations, program scalability, and resource needs at the outset. This
+visibility is particularly important for programs involving infrastructure development or requiring
+significant customer outreach and onboarding.
+D. VGIC Supports Preserving Flexibility for Near-Term LCFS Filings
+
+May 27, 2025
+Page 4 of 4
+VGIC supports the Joint Utilities’ proposal to establish an annual January 31 Tier 2 Advice
+Letter deadline for new LCFS program proposals. A regular cadence should improve regulatory
+certainty, streamline Energy Division review, and allow more orderly evaluation of LCFS-funded
+portfolios. Because 2025 is a transition year, VGIC respectfully requests that the Commission clarify
+that utilities may continue to submit—and Energy Division may continue to act upon—additional
+LCFS program Advice Letters during 2025, prior to the first formal January 31, 2026 filing cycle.
+Restricting Advice Letter activity this year could delay timely, high-value vehicle-grid-
+integration initiatives that fall within CARB’s pre-approved Holdback Projects. VGIC therefore
+urges the Commission to state that utilities may still file LCFS-funded proposals on an ad-hoc basis
+in 2025 and that such filings will remain eligible for review and disposition outside the annual cycle
+when appropriate.
+Maintaining this flexibility will sustain momentum. VGIC recently supported Southern
+California Edison’s Advice Letter 5536-E a Tier 2 advice letter that proposes a large-scale managed
+charging program, the Orchestrated Charging and Advanced Resiliency for Distribution
+(“ORCHARD”) Program, consistent with CARB guidance and Commission direction in Decision
+20-12-027. VGIC encourages the Commission to ensure that Advice Letter 5536-E, and any similar
+proposals that Pacific Gas and Electric or San Diego Gas and Electric may advance in the coming
+months, can be processed without deferral to 2026.
+III. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to the Joint Advice Letter. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Executive Director
+VEHICLE-GRID INTEGRATION COUNCIL
+cc: Greg Anderson, SDG&E (GAnderson@sdge.com, SDGETariffs@sdge.com)
+Connor Flanigan, SCE (AdviceTariffManager@sce.com)
+Adam Smith c/o Karyn Gansecki, SCE (Karyn.Gansecki@sce.com)
+Sidney Bob Dietz II c/o Megan Lawson, PG&E (PGETariffs@pge.com)
+Service list R.23-12-008

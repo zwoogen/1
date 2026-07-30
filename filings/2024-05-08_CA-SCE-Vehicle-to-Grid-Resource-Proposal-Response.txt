@@ -1,0 +1,224 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Costs, Application No. 24-03-019
+Allocate Revenues, and Design Rates. (Filed March 29, 2024)
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL TO
+THE APPLICATION OF SOUTHERN CALIFORNIA EDISON COMPANY
+(U 338-E) TO ESTABLISH MARGINAL COSTS, ALLOCATE REVENUES,
+AND DESIGN RATES
+Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+May 8, 2024
+1
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Southern California Edison
+Company (U 338-E) to Establish Marginal Costs, Application No. 24-03-019
+Allocate Revenues, and Design Rates. (Filed March 29, 2024)
+RESPONSE OF THE VEHICLE GRID INTEGRATION COUNCIL TO
+THE APPLICATION OF SOUTHERN CALIFORNIA EDISON COMPANY
+(U 338-E) TO ESTABLISH MARGINAL COSTS, ALLOCATE REVENUES,
+AND DESIGN RATES
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle Grid Integration Council (“VGIC”) hereby responds to
+the Application of Southern California Edison Company (”SCE”) (U 338-E) to Establish Marginal
+Costs, Allocate Revenues, and Design Rates (“Application”). Pursuant to Rule 2.6 of the Rules of
+Practice and Procedure, VGIC timely files this response on May 8, 2024.
+I. INTRODUCTION.
+A. Overview of VGIC
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation and
+electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized with appropriate incentives and compensation to achieve a more reliable,
+affordable, and efficient electric grid.
+2
+
+B. VGIC generally supports the increased use of export compensation as an option for retail
+rate customers with EVs.
+As a general principle, VGIC supports export compensation options for EV customers.
+VGIC believes that incentives and export compensation options – if designed appropriately – and
+other VGI strategies can help contribute to the following policy objectives:
+• reduce costs to ratepayers, including both EV owners and non-EV customers,
+• advance the state’s transportation electrification goals by reducing the total cost of EV
+ownership,
+• support grid reliability, including during extreme heat events or other times of high
+stress on the grid,
+• support customer and community resiliency, including during Public Safety Power
+Shutoffs (“PSPS”) and other resilience events, and
+• foster a growing market for VGI services.
+VGIC appreciates SCE’s effort to develop its Vehicle-to-Grid Resource Proposal (“VGRP”) and
+commends the company for being the first California investor-owned utility (“IOU”) to propose a
+static time-of-use (“TOU”) export rate designed for EV customers, as detailed in SCE’s Policy and
+Rate Design Application.1 VGIC continues to review the specific details of SCE’s proposal;
+however, based on its initial review, VGIC believes the proposal could be a constructive step
+toward encouraging more EV customers to purchase, install, and use V2G bidirectional charging
+equipment.
+VGIC believes the VGRP rate design should be enhanced to align with the vision of Senate
+Bill 676, which adopts that California must “maximize the use of feasible and cost-effective
+1 SCE-01 at 25; SCE-04 at 121-138.
+3
+
+electric vehicle grid integration by January 31, 2030.”2 VGIC stresses that Commission decisions
+supporting VGI strategies, including those found in elements of the proposed VGRP, are critical
+for manufacturers and service providers to accelerate product development, technology
+standardization and integration, and customer acquisition activities.
+II. ISSUES TO BE CONSIDERED.
+A. Avoided Cost Calculator (“ACC”) components included in VGRP export rate.
+In its Application, SCE explains that the proposed VGRP rate: “is determined by using
+specific avoided cost components of the CPUC’s Avoided Cost Calculator (ACC).”3 SCE’s
+Prepared Testimony further states that:
+“SCE’s export price includes the following five components from the CPUC’s ACC: (1)
+GHG Cap and Trade (Marginal Emissions); (2) Generation Energy; (3) Generation
+Capacity; (4) Ancillary Services Procurement; and (5) Losses. Because SCE’s proposal is
+intended as a first step on the path to enabling this still nascent market segment, the
+following ACC components are not included in SCE’s V2G export price: (1) GHG Adder
+(Marginal Emissions); (2) GHG Portfolio Rebalancing; (3) Transmission; (4) Distribution;
+and (5) Methane Leakage. As the market matures, SCE expects price valuation to further
+evolve in support of the potential array of services that can be harvested from EV exports
+to support the grid.”4
+While SCE makes clear its proposal to limit the applicable ACC components, its testimony does
+not explain why certain components are included, and others are excluded. For example, the
+generation capacity ACC component is included, but the transmission and distribution ACC
+components are excluded. Notably, Decision (“D.”) 20-12-029 Concerning Implementation of
+Senate Bill 676 and Vehicle-Grid Integration Strategies details the generation, transmission, and
+2 Senate Bill 676. Section 1.
+3 SCE-04 at 132-133.
+4 Id. at 133.
+4
+
+distribution benefits of V2G exports.5 Specifically, the Commission adopts a definition for VGI
+that explicitly includes “avoiding otherwise necessary distribution infrastructure upgrades.”6
+Moreover, SCE has displayed leadership in export rate design in its Dynamic Rate Pilot, which
+compensates exports, including V2G exports, under a rate that includes a distribution component.7
+Similarly, V2G exports in Pacific Gas & Electric (“PG&E”) Dynamic Rate Pilot Phase 28 and
+V2X Pilots Phase 29 will be compensated under an export rate that includes a distribution
+component. It is unclear, based on SCE’s Application and Prepared Testimony, why it did not
+maintain consistency with its only other V2G export rate (i.e., Dynamic Rate Pilot) and PG&E’s
+approach of including a distribution component in the export rate. As such, VGIC strongly urges
+the Commission to consider whether the VGRP should include a different set of ACC components
+in its rate design to better align with SCE and PG&E’s emergent V2G export rate design and
+induce the desired response from participating V2G customers.
+B. Alignment of VGRP Time-of-Use (TOU) window with 4 P.M. to 9 P.M. SCE Rate Design
+Window.
+SCE proposes a VGRP export rate that “generally aligns with [customers’] current on-peak
+and off-peak TOU periods on the retail rates.”10 However, Table IX-31 Illustrative VGRP Export
+Rate indicates an On-Peak window of 6 P.M. to 9 P.M.,11 and SCE states, regarding the VGRP
+5 D.20-12-029 at 7-13.
+6 Id. at 12.
+7 See, for example, SCE Advice Letter 4684-E SCE’s Dynamic Rate Pilot Pursuant to D.21-12-015. January 5,
+2022. https://www.dret-ca.com/wp-content/uploads/2022/02/Advice-Letter-4684-E.pdf and D.24-01-032 To Expand
+System Reliability Pilots of PG&E and SCE. January 26, 2024.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M524/K176/524176497.PDF. Pg. 36.
+8 Id. at 8-36.
+9 PG&E Advice Letter 6694-E. Rate Structured for Vehicle Grid Integration Pilots. September 2, 2022.
+https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6694-E.pdf
+10 SCE-04 at 133.
+11 Id. at 134.
+5
+
+customer credit estimate in Table IX-32, that “The estimates also assume that a residential
+customer will first offset the average summer total site load of 6.75 kWh on a weekday and 6.73
+kWh on a weekend for the time-period from 6 – 9 p.m.…”12 SCE does not detail why the 6 P.M.
+to 9 P.M. window indicated in the VGRP section is inconsistent with the 4 P.M. to 9 P.M. peak
+window indicated elsewhere in SCE’s application and applicable for the TOU rates under which
+VGRP participants would be importing electricity. As such, VGIC recommends the Commission
+consider the appropriateness of aligning the VGRP export TOU window with the other applicable
+TOU windows, including the window for VGRP customers’ charging.
+C. Clarification of dual participation rules for VGRP customers.
+In prepared testimony, SCE proposes eligible VGRP customers include bundled non-
+lighting residential, commercial, industrial, and agricultural & pumping customers. Residential
+VGRP customers must take service under either PRIME or PRIME Plus, and non-residential
+customers must take service under a currently available TOU rate plan.13 Additionally, customers
+enrolled in NEM and NBT would be eligible to enroll in VGRP. However, SCE does not address
+whether customers may also enroll in utility-administered demand response (“DR”) or VGI
+programs. For example, the Emergency Load Reduction Program (“ELRP”), currently authorized
+through 2027 per D.23-12-005,14 presents an opportunity for V2G customers to receive
+12 Ibid.
+13 Id. at 131.
+14 D.23-12-005. Decision Directing Certain Investor-Owned Utilities’ Demand Response Programs, Pilots, and
+Budgets for the Years 2024-2027. A.22-05-002. December 20, 2023.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M521/K486/521486520.PDF
+6
+
+compensation for emergency reliability contributions.15 VGIC believes that resources should not
+be double counted nor receive double compensation. However, dual participation mechanisms are
+currently being developed as directed by the Commission to guard against double
+counting/compensation, and these mechanisms will apply to V2G export customers participating
+in both retail export rates and ELRP.16 These mechanisms are developing because the Commission
+recognized the grid and customer values stemming from dual participation. Customers could offer
+separate services through both VGRP and ELRP or other utility-administered DR/VGI programs,
+which would maximize the ability for EVs to support grid reliability and affordability while also
+maximizing feasible and cost-effective VGI, per SB 676, and transportation electrification more
+broadly.
+This proceeding should clarify dual participation rules for customers participating in SCE’s
+proposed VGRP, including dual participation in ELRP or other relevant DR and/or VGI programs
+while ensuring contributions are not double counted or double compensated.
+D. Roles of V2G Net Generation Output Meter (“V2G-NGOM”) and Commission’s Plug-
+In EV Submetering Protocol customers enrolled in VGRP.
+15 D.21-12-015. Decision Directing PG&E, SCE, and SDG&E to Take Actions to Prepare for Potential Extreme
+Weather in the Summers of 2022 and 2023. R.20-11-003. December 6, 2021.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M428/K821/428821475.PDF. Pg. 34-41.
+16 See, D.24-01-032 To Expand System Reliability Pilots of PG&E and SCE. January 26, 2024.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M524/K176/524176497.PDF. Pg. 58-64 and PG&E
+Advice Letter 7223-E: Dual Participation in PG&E’s Agricultural Pilot and Expanded Pilot 2. March 25, 2024.
+https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_7223-E.pdf
+7
+
+In prepared testimony regarding the VGRP, SCE explains that a V2G-NGOM will “act in
+concert with SCE’s main retail meter to determine exports from the EV separately from exports
+from the NEM or NBT eligible resource.”17 SCE further states:
+“for customers without NEM or NBT eligible systems (solar systems), where a bidirectional
+V2G resource(s) is installed on the customer site, the V2G-NGOM will be used to measure
+the EV exports and will prepare the customer for any future NBT installations.”18
+Based on these details, it is unclear whether SCE proposes to use a V2G-NGOM for all VGRP
+sites or only for VGRP sites using NEM or NBT-eligible systems or other distributed energy
+resources (“DERs”) like stationary energy storage. This proceeding should weigh whether a V2G-
+NGOM is required for all VGRP sites or just for certain VGRP sites with co-located DERs.
+Additionally, in Decision (“D.”) 22-08-024, the Commission adopts a Plug-In Electric
+Vehicle Submetering Protocol (“Submetering Protocol”) and states that “DCFC and bidirectional
+charging and discharging are eligible for submetering if submeters meet the requirements of this
+decision.”19 Given the eligibility of bidirectional charging and discharging for submetering in the
+Submetering Protocol, one important issue that should be considered in this proceeding is the role
+of the Submetering Protocol in measuring EV exports for VGRP participants.
+III. CATEGORIZATION, HEARINGS, AND SCHEDULE.
+VGIC agrees that this Application should be categorized as a “ratesetting” proceeding. VGIC
+also agrees that evidentiary hearings are likely necessary.
+IV. SERVICE.
+17 SCE-04 at 131.
+18 SCE-04 at 131-132.
+19 D.22-08-024 at 34.
+8
+
+Service of notices, orders, and other correspondence in this proceeding should be directed to
+VGIC at the address set forth below:
+Zach Woogen
+Vehicle-Grid Integration Council
+10265 Rockingham Dr., Suite #100-4061
+Sacramento, California 95827
+Tel: (501) 665-7811
+E-mail: vgicregulatory@vgicouncil.org
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit this response to SCE’s General Rate Case
+Phase 2 Application. We look forward to further collaboration with the Commission and
+stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle-Grid Integration Council
+10265 Rockingham Dr.
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: May 8, 2024
+9

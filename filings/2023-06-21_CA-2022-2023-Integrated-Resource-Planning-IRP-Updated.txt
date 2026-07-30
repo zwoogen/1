@@ -1,0 +1,202 @@
+June 21, 2023
+Email to: IRPDataRequest@cpuc.ca.gov
+Subject: VGIC’s Informal Comments regarding the Draft 2022-2023 Integrated Resource
+Planning (“IRP”) Inputs and Assumptions (“I&A”)
+Re: Informal Comments of the Vehicle Grid Integration Council Regarding the
+Draft 2022-2023 Integrated Resource Planning Inputs and Assumptions
+The Vehicle Grid Integration Council (“VGIC”) appreciates the opportunity to comment on
+the California Public Utilities Commission’s (“CPUC”) Draft 2022-2023 Integrated Resource
+Planning (“IRP”) Inputs and Assumptions (“I&A”). VGIC appreciates the CPUC and Energy
+Division (“ED”) staff’s commitment and efforts to engage stakeholders on this critical initiative.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from flexible EV charging and discharging is recognized
+and compensated to achieve a more reliable, affordable, and efficient electric grid. VGIC has
+actively engaged in policy and research efforts to understand the need and opportunity for VGI
+better. As such, we offer the below recommendations for ED staff’s consideration.
+I. INTRODUCTION & SUMMARY.
+VGIC commends the ED for its efforts to evolve the treatment of EVs within the IRP from
+rudimentary load assumptions to modeling incremental VGI within the IRP. EVs are unlike any
+other modifiable load or dispatchable resource type because individual EVs represent a more
+significant potential load shift and energy storage capacity than the typical customer-sited
+distributed energy resource (“DER”). Moreover, the deployment of EVs and flexible EV charging
+and discharging solutions is expected to grow at an extraordinary rate due to underlying policy
+drivers and regulations like the California Air Resources Board’s (“CARB”) Advanced Clean Cars
+II regulation. As a result, the statewide fleet of deployed EVs and installed EV chargers will offer
+immense latent load flexibility and energy storage capacity that may eclipse California’s need for
+stationary energy storage and availability of other DERs, even at very modest EV customer
+participation rates.
+While VGIC commends the critical improvements to the IRP process, we recommend that
+the ED and E3 staff take additional steps to better model VGI within the IRP. VGIC’s comments can
+be summarized as follows:
+ VGIC strongly supports the updated assumptions for Level 2 (“L2”) charging capability.
+1
+
+ VGIC strongly supports the updated assumptions for residential program enrollment
+scenarios.
+ VGIC reiterates its recommendation to incorporate electric school buses (“ESBs”) in
+addition to Light Duty Vehicles (“LDV”) based on recent findings about ESB deployment.
+ VGIC respectfully requests the IRP modeling team conduct a sensitivity analysis for a higher
+level of V2G potential as a percentage of V1G potential.
+ VGIC looks forward to working with the IRP modeling team to continue strengthening
+inputs and assumptions for the current and future cycles.
+II. COMMENTS.
+A. VGIC strongly supports the updated assumptions for L2 charging capability.
+VGIC appreciates the ED staff’s focus on applying appropriate treatment to EVs and
+further considering the capabilities of EV charging equipment within the IRP modeling
+effort. As mentioned in VGIC’s October 6 informal comments on the IRP I&A Modeling
+Advisory Group (“MAG”) presentation, assuming a 5 kW weighted average for L2 charging
+power as originally presented by ED staff would be an overly conservative assumption.1
+Having said that, VGIC strongly supports the updated assumption of using a 7 kW weighted
+average for the default EV charger capacity, given that this updated assumption better aligns
+with the California Energy Commission’s (“CEC”) AB 2127 report.2
+B. VGIC strongly supports the updated assumptions for residential program
+enrollment scenarios.
+VGIC recognizes that considering VGI resources in this IRP cycle is no small feat and
+reiterates its appreciation for the work performed by ED staff in collaboration with E3 to
+produce the Draft 2022-2023 IRP I&A. Specifically, VGIC commends the updated
+assumption for residential program enrollment scenarios, which uses more appropriate and
+applicable programs to gauge residential program enrollment. In previous comments, VGIC
+highlighted that using LBNL’s propensity scores for air conditioning programs as the basis
+for VGI participation rates would not accurately reflect VGI participation rates due to a
+significant difference between the programs. Air conditioning or “smart thermostat”
+programs might struggle with participation due to perceived or actual inconvenience the
+customer might experience if they’re unable to turn down their thermostat during intense
+heat waves, which can lead to material impacts on customer comfort and well-being.3 In
+1 Informal Comments of the Vehicle Grid Integration Council Regarding the September 22nd Modeling
+Advisory Group Meeting on Input and Assumptions. Page 5. https://www.vgicouncil.org/s/2022-10-06-
+VGICs-Informal-Comments-on-IA-MAG-Meeting.pdf
+2 AB 2127 Report at page 12. https://efiling.energy.ca.gov/getdocument.aspx?tn=238853
+3 Informal Comments of the Vehicle Grid Integration Council Regarding the September 22nd Modeling
+Advisory Group Meeting on Input and Assumptions. Page 6.
+2
+
+sharp contrast, the Draft IRP I&A appropriately notes that “VGI programs are less
+interruptive to customers than DR programs since they are mostly designed not to interrupt
+drivers’ driving needs and change driving behaviors, thus resulting in higher enrollment
+potential.”4 That said, VGIC strongly supports using EV-TOU participation rates as a basis
+for developing enrollment scenarios in the IRP I&A. Moreover, VGIC recommends that ED
+staff continue to revisit this topic in future IRP cycles as the VGI market matures and more
+participation data is available to ensure that the most accurate VGI program enrollment
+forecast is considered.
+C. VGIC reiterates its recommendation to incorporate electric school buses in addition
+to LDVs.
+VGIC understands limiting the modeling to LDVs given that LDVs are projected to
+comprise the majority of transportation load by 2035 (i.e., 82%).5 However, VGIC reiterates
+its recommendation to incorporate electric school buses (“ESBs”) in IRP modeling, given
+that ESBs represent an ideal Vehicle-to-Grid (“V2G”) use case due to the predictable and
+consistent alignment between ESB dwell times and summer system peaks. The ESB market
+is growing at a rapid pace. The World Resources Institute (“WRI”) conducted an extensive
+data collection effort that revealed California has 526 ESB committed as of June 2021.6 As
+of December 2022, that number has increased to 1,852 ESB.7 Overall, WRI has observed a
+doubling in ESB commitments from September 2022 to December 2022, largely due to the
+EPA’s Clean School Bus Program funding. Four of the school districts with the five largest
+ESB commitments are in California. VGIC believes the exceptional anticipated growth in
+latent battery capacity from ESBs and the significant alignment between dwell time and
+system peak merits consideration in the IRP modeling effort.
+As noted above, California can expect 1,852 ESBs to be deployed by 2025. Meanwhile,
+WRI and School Bus Fleet Magazine have found that a majority of these ESBs will be Type
+C and Type D, which come equipped with between 126 kWh and 315 kWh of battery
+capacity.8 These buses are typically sold with 20 kW, 60 kW, or 120 kW charging stations,9
+4 2022-2023 Integrated Resource Plan Inputs & Assumptions. June 6, 2023. Page 105.
+https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/integrated-resource-
+plan-and-long-term-procurement-plan-irp-ltpp/2023-irp-cycle-events-and-materials/draft_2023_i_and_a.pdf
+5 2022-2023 Integrated Resource Plan Inputs & Assumptions. June 6, 2023. Page 103.
+6 Lydia Freehafer, Leah Lazer. The State of Electric School Bus Adoption in the US. April 26, 2023.
+https://www.wri.org/insights/where-electric-school-buses-us. Raw data available at:
+https://datasets.wri.org/dataset/electric_school_bus_adoption
+7 Lazer, L. and L. Freehafer. March 2023. “A Dataset of Electric School Bus Adoption in the United States.”
+Washington, DC: World Resources Institute. https://datasets.wri.org/dataset/electric_school_bus_adoption
+8 Alissa Huntington, Jessica Wang, Phillip Burgoyne-Allen, Emmett Werthmann and Eleanor Jackson. June
+2022. “Electric School Bus U.S. Market Study and Buyer’s Guide: A Resource for School Bus Operators
+Pursuing Fleet Electrification.” Washington, DC: World Resources Institute. See pages 21-23.
+https://files.wri.org/d8/s3fs-public/2022-08/electric-school-bus-us-market-study-buyers-
+guide.pdf?VersionId=eU.ZS.cHfSm5amd2VnUej22wtMhKyXLL
+9 ESB charger specification sheets for 20 kW, 60 kW, and 120 kW.
+Lion Electric Company ESB 20kW onboard charger. See: https://thelionelectric.com/documents/en/LionC-
+SpecSheet-202305-SCREEN-ENUS.pdf
+3
+
+and the currently available bidirectional charging products are 60 kW10 and 125 kW.11 For
+load and generation profiles for the IRP modeling effort, VGIC recommends leveraging load
+and generation profiles from existing ESB deployments, including managed charging and
+bidirectional charging pilots such as those implemented by SDG&E. VGIC believes these
+inputs could support modeling and offers its time and network to help collect any additional
+inputs needed.
+D. VGIC respectfully requests that the IRP modeling team conduct a sensitivity
+analysis for a higher level of V2G potential as a percentage of V1G potential.
+In discussing V2G potential, the June 2023 updated inputs and assumptions states, “however,
+sensitivity analysis with higher V2G penetration levels could be explored to inform a broader
+range of potential VGI outcomes.”12 VGIC respectfully requests that the IRP modeling team
+conduct one or more sensitivity analyses to model higher values of V2G potential as a
+percentage of V1G potential. This will be an incredibly meaningful effort to inform ongoing
+CPUC and CEC initiatives aiming to better understand V2G resource potential.
+VGIC believes it is reasonable to model at least one sensitivity for higher V2G potential
+based on three incorrect assumptions made by the updated inputs and assumptions. Firstly,
+the updated inputs and assumptions document references FERC Order 2222 as an example
+policy framework on which scaling V2G hinges. V2G compensation mechanisms, including
+ELRP, PG&E’s V2X Pilots, PG&E’s DAHRTP Export Rate, and SDG&E’s proposed Export
+Compensation Rate, are fast emerging. None of them are currently tied to the FERC Order
+2222 implementation timeline.
+Second, the updated inputs and assumptions document states the 50% in 2050 “is entirely
+for planning purposes, considering that not all OEMs are willing to enable vehicles to be
+V2G capable and warranty battery for grid use by 2050 and not all drivers will want to use
+their vehicles as a grid asset.” Today, more than 50% of OEMs, representing far greater than
+50% of California EV sales, have publicly stated they will enable vehicles to be V2G
+Nuvve ESB 60 kW charger. See: https://nuvve.com/wp-content/uploads/2022/01/nuvve-dcfc-res-hd60-v2g-
+spec-sheet-jan2022_r2.pdf
+Blue Bird Corporation ESB 120kW charger. See: https://inchargeus.com/wp-
+content/uploads/2022/12/inCharge-spec-sheet-ice120-221130.pdf.
+10 Nuvve, “Nuvve DC Heavy Duty Charging Station,” Version 6.0, January 2022. See:
+https://nuvve.com/wp-content/uploads/2022/01/nuvve-dcfc-res-hd60-v2g-spec-sheet-jan2022_r2.pdf
+11 BorgWarner, “RES-DCVC125-480 EV DC Fast Charging Power Conversion System (PCS),” Rev
+11082022, 2022. See: https://d1c96hlcey6qkb.cloudfront.net/89fabced-d43f-4899-8f1a-
+3631233e4bb0/9f9cd76638914a89b116ac79fece6d23?response-content-
+disposition=inline%3B%20filename%2A%3DUTF-
+8%27%27Product%2520Sheet%2520Rhombus%2520RES-DCVC125-480%2520PCS.pdf&response-
+content-type=application%2Fpdf&Expires=1687392000&Signature=QVItsgObKKrmxl11-bmZ4choq-
+6uhMSR3cwZ3EdhPHB4YOmlIv2q9n9qcrX7uJohwaNvA~oqQQxzfONjKMuaKCl-JEsDoWV-
+YMzAnTRqSU4arRwH6D5tYrQ84NJyebvjnG3oA~h4u7ys41EXzq~pCBULw3lJ5HSVEN8U3wZFwypyCdga
+7rubZgeghgf2uw4g12fYootypUnsqEwXyxxLHa5yaOjvfN3BSYe92c~QtGDSCYtaJAGnPFaS0kXSNyTvhAJ
+hiKCzKPM~a1rnI-g54U8qC3HaR9b1m7Mqc56uVh-
+fndkLD~ZdVBDP5tieX49dTi1wMjBYMKTFc5C8NxxP8Q__&Key-Pair-Id=APKAI33AGAEAYCXFBDTA
+12 Inputs & Assumptions, 2022-2023 IRP, June, 2023, pg. 107.
+4
+
+capable. Light-duty vehicle OEMs that have made these statements include Nissan, Ford,
+Chevrolet, GMC, Hyundai, Kia, Volkswagen, Lucid, Audi, Volvo, Polestar, Rivian, and
+Tesla. In the competitive US automotive market, public statements made by major
+automakers regarding future vehicle capabilities are not made lightly. Regarding the second
+statement that not all drivers will want to use their vehicles as a grid asset, this is already
+accounted for in the V1G potential curve.
+Third, scaling V2G does require technology readiness, as noted in the updated inputs and
+assumptions. However, the technology readiness level (“TRL”) of V2G is currently a 9:
+Actual System Proven in Operational Environment. V2G technology is currently operational
+across the world, including in SDG&E’s service territory, Colorado, Illinois, New
+Hampshire, Virginia, North Carolina, and in many places in Europe.
+With this in mind, VGIC respectfully requests the IRP modeling team conduct a
+“V2G_High” sensitivity analysis that assumes a ramp-up in V2G potential as a percentage
+of V1G potential from 10% in 2025 to 90% in 2050.
+E. VGIC looks forward to working with the IRP modeling team to continue
+strengthening inputs and assumptions of the current and future cycles.
+VGIC understands the complexity of accurately incorporating all aspects of an emerging
+market into a model. That said, VGIC commends ED staff and the IRP modeling team for
+the extensive work performed to accurately model future transportation electrification for
+the sake of the IRP cycle. To that end, VGIC appreciates the opportunity to provide the above
+recommendations and looks forward to working with ED staff and the IRP modeling team
+to continue strengthening inputs and assumptions of the current and future cycles.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide these informal comments on the ED’s Draft
+2022-2023 IRP Inputs & Assumptions. We look forward to further collaboration with the Energy
+Division and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+Vehicle Grid Integration Council
+Albert Tapia
+Policy Analyst
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+5

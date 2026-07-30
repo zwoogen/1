@@ -1,0 +1,132 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 3.4 AND 11.3)
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: June 19, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 3.4 AND 11.3)
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Administrative Law Judge’s Ruling Adding Staff Proposal for a
+Draft Transportation Electrification Framework to the Record and Inviting Party Comments
+(“Ruling”) issued by Administrative Law Judge (“ALJ”) Patrick Doherty on February 3, 2020.
+Pursuant to E-mail Ruling Denying Joint Motion to Stay Proceeding and Resetting Procedural
+Schedule issued by ALJ Patrick Doherty on March 24, 2020 and the modified schedule adopted
+therein, VGIC timely files these reply comments on Sections 3.4 and 11.3 of the Draft
+Transportation Electrification Framework (“Draft TEF”) on June 19, 2020.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+1
+
+II. RESPONSES TO OPENING COMMENTS AND COMMISSION WORKSHOP
+ON THE DRAFT TEF SCORECARD FRAMEWORK PROPOSED IN SECTION 3.4.
+The Scorecard included in Appendix E of the Draft TEF includes targets and metrics for
+charging infrastructure and VGI. VGIC believes that VGI targets and metrics used to track
+progress toward statutory and regulatory goals should be well-coordinated with the efforts and
+outcomes of the VGI Working Group and the implementation of SB 676 (Bradford, 2019), which
+requires the Commission to establish “quantifiable metrics” to track the implementation of VGI
+strategies. As written, Appendix E may not appropriately incorporate strategies to measure VGI.
+Environmental Defense Fund (“EDF”) noted this in their opening comments.1 VGIC supports
+added attention for VGI concepts, and believes that the integration of VGI concepts into the TEF
+is necessary to avoid foregoing environmental, ratepayer, and grid balancing benefits VGI can
+offer.
+In opening comments, EDF also raised that the Commission needs to address the
+“uncertain timelines for interconnection, and unclear standards for critical VGI components.”2
+VGIC strongly agrees with EDF’s identification and characterization of these two key barriers to
+VGI market development. The interconnection process must be streamlined, including for
+vehicle-to-grid (“V2G”) systems, and there exists a considerable need for clarity around the
+standards for VGI technologies. As VGIC has expressed before in this proceeding, Commission
+direction on standards for VGI, including for V2G interconnection, can provide much-needed
+regulatory certainty to market participants, which would allow them to pursue product
+1 EDF Opening Comments on Sections 3.4 and 11.3 at 2.
+2 EDF Opening Comments on Sections 3.4 and 11.3 at 4.
+2
+
+development activities that can ultimately support California policy goals for decarbonization,
+resilience, and job growth. VGIC appreciates the focus that the Commission and Energy
+Division Staff have dedicated to understanding and convening stakeholders over the past year to
+provide clarity on V2G interconnection. We urge the Commission to relieve this barrier to VGI
+market development by signaling to market participants the interconnection pathways available
+for V2G in California. Depending on the timing of Final TEF adoption and direction on VGI-
+related items within the Order Instituting Rulemaking to Consider Streamlining Interconnection
+of Distributed Energy Resources and Improvements to Rule 21 (R.17-07-007) – specifically,
+Working Group 3 and the V2G-Alternating Current Interconnection Subgroup – the Commission
+should consider how best to clarify VGI interconnection and standards within the Final TEF.
+In opening comments, EDF also offers specific changes to Appendix E. VGIC supports
+EDF’s recommendations that load shapes should be recorded to track renewables integration and
+that the availability of VGI incentives should be tracked, including EV rates, DR program
+enrollment, and any future V2G programs.3 In coordination with the VGI Working Group and
+SB 676 (Bradford, 2019), VGIC believes the TEF Scorecard should include these items as
+metrics and consider tracking VGI incentive payments from utilities to customers as a means of
+gathering data, as mentioned by EDF. Data pathways that leverage data from the EV or EV
+supply equipment (“EVSE”) should also be used to measure progress on VGI targets and
+metrics, such as VGI program participation or grid services, as detailed in VGIC’s opening
+comments.4 VGIC recommends the Commission explore pathways for data collection
+partnerships with market participants and other stakeholders.
+3 EDF Opening Comments on Sections 3.4 and 11.3 at 9 and 12.
+4 VGIC Opening Comments on Sections 3.4 and 11.3 at 16-17.
+3
+
+During the TEF Workshop #3 held on June 8-9, 2020, an advisor to Commissioner
+Rechtschaffen noted that ratepayer funds should not be viewed as endless and the Commission’s
+mandate to prudently direct ratepayer funds persists and permeates into the TEF. As VGIC has
+highlighted in this proceeding more than once, enabling widespread VGI can significantly
+increase the likelihood of putting downward pressure on rates to benefit all utility customers. In
+opening comments, several other parties described the opportunity to “provide significant new
+revenue that has far outweighed the costs associated with serving the new load and deploying
+infrastructure to date” and the additional benefits from VGI strategies5.
+During the June 8-9 TEF Workshop #3, several stakeholders alluded to an inherent
+challenge of the TEF: the TEF aims to drive EV adoption primarily through the development of
+TE infrastructure, however, that is not the only prominent barrier to EV adoption that currently
+exists. Several comments made during the workshop included the sentiment that the
+Commission’s jurisdiction limits its ability to thoroughly address EV adoption by providing
+meaningful support beyond TE infrastructure. Parties referenced the state legislature as the
+necessary forum for lowering the total cost of EV ownership. VGIC notes that areas of the Draft
+TEF that implement and encourage VGI applications can lower the total cost of EV ownership,
+and is, therefore, a valuable tool for the Commission to pursue without delay.
+5 Opening Comments of Natural Resource Defense Council, the Coalition of California Utility Employees, Plug In
+America, Greenlots, Enel X North America Inc., Siemens, EVBox Inc., and the Alliance for Automotive Innovation at
+6-7.
+4
+
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments on the TEF Scorecard
+and LCFS Programs sections of the Draft TEF. We look forward to further collaboration with the
+Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: June 19, 2020
+5

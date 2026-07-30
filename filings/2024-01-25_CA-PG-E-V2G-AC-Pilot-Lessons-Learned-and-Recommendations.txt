@@ -1,0 +1,165 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking
+Regarding Transportation Rulemaking 23-12-008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ORDER INSTITUTING RULEMAKING REGARDING TRANSPORTATION
+ELECTRIFICATION POLICY AND INFRASTRUCTURE AND CLOSING
+RULEMAKING 18-12-006
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+February 2, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking
+Regarding Transportation Rulemaking 23-12-008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+ORDER INSTITUTING RULEMAKING REGARDING TRANSPORTATION
+ELECTRIFICATION POLICY AND INFRASTRUCTURE AND CLOSING
+RULEMAKING 18-12-006
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Order Instituting Rulemaking Regarding Transportation
+Electrification Policy and Infrastructure and Closing Rulemaking 18-12-006 (“TE OIR”), issued
+by Administrative Law Judge (“ALJ”) on December 14, 2023.
+I. INTRODUCTION
+VGIC reiterates its support for the issuance of the TE OIR and appreciates the attention
+given to timely energization of electric vehicle (“EV”) charging infrastructure, transportation
+electrification (“TE”) grid planning to support charging infrastructure deployment, deployment of
+behind-the-meter (“BTM”) charging infrastructure to support state goals, vehicle-grid integration
+(“VGI”), and ongoing TE policy development and collaboration. VGIC notes that several opening
+comments focused on the issue of energization timelines, which the TE OIR details as follows:
+“[E]nergization requests are often large in scale and require electric distribution capacity
+additions and/or distribution line extensions as well as service line extensions. This can
+1
+
+add to the time it takes for site energization. As new zero-emission vehicle regulations
+accelerate timelines for transportation electrification over the next decade, it is critical that
+the Commission assess how the IOUs can support this accelerated need within the electric
+vehicle market while ensuring investments are affordable for ratepayers.”1
+VGIC appreciates the magnitude of challenges facing the Investor-Owned Utilities (“IOUs”) to
+support the fast-paced TE transition effectively while balancing affordability for ratepayers. VGIC
+believes that the solutions-oriented elements of this issue, or “the how” to ensure timely
+energization (as opposed to setting target timelines or “the what”) will play a critical role in
+achieving the state’s TE goals. However, in light of the new Order Instituting Rulemaking to
+Establish Energization Timelines (“Energization OIR”), adopted on January 25, 2024, multiple
+party opening comments, including VGIC’s, recommend the Commission clarify which timely
+energization issues would be addressed in the TE OIR proceeding and the newly adopted
+Energization OIR proceeding.
+In opening comments, Pacific Gas & Electric Company (“PG&E”) recommends the
+Commission “remove this TE-focused energization timeline issue from this proceeding and instead
+review it in the Energization OIR to ensure that all energization timeline issues are heard in one
+place to further consistency and efficiency.”2 VGIC understands the need for energization timeline
+issues to be addressed in a single proceeding to ensure consistency and efficiency. However, as
+noted in our opening comments,3 the new Energization OIR appears focused on establishing
+average and maximum energization timeline targets. Meanwhile, the TE OIR adopts a more
+holistic focus on considering timeline targets but also strategies (i.e., solutions) to support the
+increased need for faster energization. The “significant increase in energization requests from
+1 OIR at 8.
+2 PG&E Opening Comments at 3.
+3 VGIC Opening Comments at 9.
+2
+
+customers, particularly from EV service providers,”4 creates a critical need to consider strategies
+that can support achieving the target energization timelines. To be clear, VGIC does not oppose
+removing the energization timelines target item from the TE OIR scope, as long as the matter of
+strategies to ensure timely energization does not get lost in the migration. Therefore, VGIC
+recommends the Commission either:
+• Move all energization timeline issues to the new Energization OIR, and explicitly
+include a scoping item in that OIR to develop strategies to achieve timely
+energization, including the use of software- and/or hardware-based automated load
+management (“ALM”) solutions;
+• Move energization timeline target setting (i.e., maximum and average timelines) to
+the new Energization OIR, and ensure that developing strategies to achieve timely
+energization is retained within the scope of the new TE OIR; or,
+• Keep all EV-specific energization timeline issues within the new TE OIR, including
+development of strategies to achieve timely energization.
+VGIC is concerned over the possibility that the energization timelines topic gets simply excluded
+from the new TE OIR and the new Energization OIR does not sufficiently develop solutions and
+the appropriate definitions, parameters, and technology requirements needed to enable the target
+timelines. Given that the new Energization OIR is poised to proceed under an exceedingly fast
+procedural schedule, with a final decision being adopted as early as September, VGIC is concerned
+that, unless explicitly scoped and prioritized in the new Energization OIR, the “how” will get
+lost and the utilities will be left with little-to-no tools or direction that will support them in
+4 OIR at 8.
+3
+
+achieving the energization timelines. The Commission must explicitly scope this topic of strategies
+to achieve energization timelines, including ALM, into one of these two new proceedings.
+II. IF THE ENERGIZATION TIMELINES TOPIC IS REMOVED FROM THE TE
+OIR SCOPE AND ADDRESSED ONLY IN THE ENERGIZATION OIR, THE
+COMMISSION MUST ENSURE THAT THE STRATEGIES TO ACHIEVE
+FASTER ENERGIZATION (E.G., USING SOFTWARE-BASED ALM AND
+STORAGE-BACKED CHARGING) ARE EXPLICITLY SCOPED INTO ONE OF
+THESE TWO NEW PROCEEDINGS.
+A. The new Energization OIR is primarily focused on establishing average and
+maximum energization timelines, instead of developing the solutions to achieve
+them.
+With the newly adopted Energization OIR, which was voted on and approved at the January
+25, 2024, Commission voting meeting, the Commission correctly highlights that “[t]here are
+significant concerns about current and future energization delays across all of California’s major
+economic sectors” (i.e., agricultural, buildings, transportation, and industrial).5 Additionally, at the
+Commission voting meeting, staff also presented on the “high-level” scope of the Energization
+OIR, which is conducive to the primary directives of SB 410 and AB 50. The primary directives
+of SB 410 and AB 50 will require the newly approved Energization OIR to focus on developing
+energization timelines and various reporting requirements. As such, the preliminary OIR scope is
+focused on the following three topics:
+• Energization Timelines and Criteria for Timely Service.
+• Customer Process to Report Delays.
+• Annual Energization Reporting Requirements.6
+5 CPUC Public Agenda 3540. January 25, 2024. Slide 18.
+https://www.cpuc.ca.gov/-/media/cpuc-website/transparency/voting-meetings/presentations-
+archive/2024/1-25-24_commeeting.pdf
+6 Ibid.
+4
+
+Additionally, the preliminary procedural schedule indicates that this work will be accomplished in
+an exceptionally short ~8-month period.
+In contrast, the TE OIR preliminary scope appears to support consideration of how the
+IOUs can support the increased energization requests from customers, particularly EV service
+providers, “while ensuring investments are affordable for ratepayers.”7 This includes enabling the
+technologies and processes that will help achieve the shorter energization timeline goals set in the
+DRIVE OIR and/or the new Energization OIR. As detailed in opening comments and throughout
+the DRIVE OIR, VGI solutions such as ALM “can help manage charging load with the objective
+of reducing or eliminating the need for electrical capacity upgrades on the utility or customer side
+of the meter or both.”8 Critically, this will support the Commission and utilities’ goals of timely
+energization for new TE load.
+With this in mind, VGIC notes that Energization Timelines within the TE OIR can
+effectively and prudently develop strategies and solutions that will help alleviate the increase in
+energization requests as a result of accelerated EV adoption.
+B. If the Energization Timelines topic does move entirely to the Energization OIR,
+the Commission must ensure that the “solutions” aspect of the topic does not get
+lost in the process.
+If the Commission decides that the Energization OIR is the only appropriate venue for the
+Energization Timelines topic proposed in the TE OIR – which VGIC does not oppose – then the
+Commission must ensure that the strategies/solutions portion of the issue is sufficiently addressed.
+VGIC strongly believes that the Commission must explicitly define the appropriate venue for
+7 OIR at 8.
+8 CPUC R.18-12-006, November 2022.
+5
+
+strategies to achieve energization timelines (including ALM) to be addressed. VGIC does not offer
+a strong recommendation on whether that venue is the TE OIR or the new Energization OIR.
+III. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments on the OIR. We look
+forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: February 2, 2024
+6

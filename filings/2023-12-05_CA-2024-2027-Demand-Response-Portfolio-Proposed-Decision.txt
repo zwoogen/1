@@ -1,0 +1,169 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+(U 39 E) for Approval of its Demand Response Application 22-05-002
+Programs, Pilots, And Budgets for Programs (Filed May 2, 2022)
+Years 2023-2027.
+And Related Matters. Application 22-05-003
+Application 22-05-004
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+PROPOSED DECISION DIRECTING CERTAIN INVESTOR-OWNED UTILITIES’
+DEMAND RESPONSE PROGRAMS, PILOTS, AND BUDGETS FOR THE YEARS 2024-
+2027
+Ed Burgess
+Senior Policy Director
+Zach Woogen
+Senior Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email:vgicregulatory@vgicouncil.org
+December 5, 2023
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+(U 39 E) for Approval of its Demand Response Application 22-05-002
+Programs, Pilots, And Budgets for Programs (Filed May 2, 2022)
+Years 2023-2027.
+And Related Matters. Application 22-05-003
+Application 22-05-004
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON
+PROPOSED DECISION DIRECTING CERTAIN INVESTOR-OWNED UTILITIES’
+DEMAND RESPONSE PROGRAMS, PILOTS, AND BUDGETS FOR THE YEARS 2024-
+2027
+In accordance with the Rules of Practice and Procedure, Rule 14.3 of the California Public
+Utilities Commission (“Commission”) and the email ruling extending comment deadline issued
+by Administrative Law Judge (“ALJ”) Jason Jungreis on November 22, 2023, the Vehicle-Grid
+Integration Council (“VGIC”) herby submits these reply comments on the Proposed Decision
+Directing Certain Investor-Owned Utilities’ Demand Response Programs, Pilots, and Budgets for
+the Years 2024-2027 (“PD”), issued by the Commission on November 6, 2023.
+Opening comments reveal broad dissatisfaction by stakeholders in the PD’s extensive
+rejection of programmatic approaches to demand response (“DR”). It is not lost on VGIC that the
+investor-owned utilities (“IOUs”) applications are not being assessed in a vacuum. IOU ratepayers
+will be subject to a truly unprecedented cost burden over the next decade. In just the next couple
+of years, Pacific Gas and Electric Company (“PG&E”) and Southern California Edison (“SCE”)
+1
+
+may invest over $23 billion in wildfire mitigation/undergrounding measures.1 The CPUC-
+commissioned Electrification Impacts Study estimates that $50 billion of distribution upgrades will
+be needed by 2035 to support the state’s electrification policy goals, namely transportation
+electrification (“TE”).2 VGIC recognizes the risk of overburdening ratepayers with these costs and
+believes the Commission should do everything in its authority to mitigate these costs while still
+achieving these important policy goals. However, party opening comments on the PD make
+abundantly clear that the Commission is on the verge of erroneously rejecting several
+sensible pilots that could mitigate these costs and are, in fact, some of the only tools the
+Commission has at its disposal to do so. VGIC acknowledges that the Commission is also
+seeding long-term load management strategies through the CalFUSE framework contemplated in
+R.22-07-005. While VGIC generally supports the CalFUSE framework for long-term dynamic rate
+implementation, we caution against putting all eggs into one basket, as this creates unnecessary
+risk. We also reiterate that California cannot afford to restrict the load management tools it can
+use. Given the tight system constraints posed by extreme weather, aging infrastructure, increased
+renewable penetration, wildfire mitigation costs, and transportation electrification, there is no
+option but for the Commission to use every justifiable tool in its toolbox to achieve the many goals
+and constraints of the state. With this in mind, VGIC summarizes below in Table 1 the opening
+comments demonstrating the many factual errors and erroneous claims of justification for rejecting
+what VGIC considers to be no-regrets EV DR pilots and measures:
+1 Kavya Balaraman. PG&E, SCE detail plans to spend more than $23B through 2025 to prevent wildfires
+in their footprints. Utility Dive. March 28, 2023. https://www.utilitydive.com/news/pge-sce-vegetation-
+management-resilience-california-wildfires/646163/
+2 Kevala, Inc. Electrification Impacts Study Part 1: Bottom-Up Load Forecasting and System-Level
+Electrification Impacts Cost Estimates. Adopted in R.21-06-017. May 9, 2023.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M508/K423/508423247.PDF
+2
+
+Table 1
+Utility 2024-2027 DR Proposed PD Errors as Cited in Impact on Commission’s Broader
+Portfolio Decision Opening Comments Ratepayer Cost Concerns
+Application Determination
+Element
+All Emergency Load Reduces sub-group Tesla, CALSSA, and VGIC Given the limited enrollment in
+Reduction A.5 minimum cite the lack of record A.5, the cost is extremely minimal.
+Program dispatch from 30 evidence, flawed logic, and
+(“ELRP”) Pilot to 20 hours incorrect assertions.3
+Finds it reasonable Auto Innovators’ and VGIC Minimal incremental cost is
+to address cite the Commission’s required as capabilities are already
+telematics-based glaring misreading of D.22- embedded in many EVs.
+participation in 011-040.4
+ELRP in DRIVE
+OIR only.
+PG&E Multi-DER ART budget set at Uplight and Google The high TRC test scores indicate
+Automated $23.8 million over demonstrate that the budget is little risk to ratepayers of
+Response 4 years, a ~32% insufficient to integrate new expanding this program budget so it
+Technology reduction in annual DERs, like EVs, citing the can enroll other DERs. VGIC notes
+(“ART”) allowance Total Resource Cost test of that DR reduction potential is likely
+Program compared to the 4.48 indicates a no-regrets even greater for EVs relative to
+legacy SmartAC opportunity to scale ART thermostats, given that the
+program. participation beyond the customer experience is more
+currently-enrolled “behind-the-scenes,” with the
+thermostats.5 desired state of charge achieved by
+morning to be ready for the daily
+commute.
+SCE Mass Market Rejects MMDR Auto Innovators’ and The proposed MMDR budget of
+DR (“MMDR”) Pilot, which would WeaveGrid cite the PD’s $1.46 million is an order of
+Pilot have supported EV erroneous claim that the magnitude less than SCE’s SB 676
+participation in MMDR is duplicative of VGI pilot budget filed in AL 4542-
+California’s SCE’s Smart Energy E and authorized up to $12 million
+demand response Program, which does not under D.20-12-029.
+portfolio. cater to multi-DER customers
+or incorporate sophisticated
+but proven load
+management.6
+SDG&E EV DR Pilot Rejects EVDRP, Auto Innovators’, ev.energy, The proposed EVDRP budget of
+(“EVDRP”) which would have VGIC, and WeaveGrid cite $3.3 million is a fraction of
+3 See Opening Comments of Tesla and CALSSA at 2-6 and Opening Comments of VGIC at 4-9.
+4 See Opening Comments of Auto Innovators’ at 10-11 and Opening Comments of VGIC at 13-15.
+5 See Opening Comments of Uplight at 5-7 and Opening Comments of Google at 5-7.
+6 See Opening Comments of Auto Innovators’ at 8 and Opening Comments of WeaveGrid at 6-7.
+3
+
+supported EV the PD’s misunderstanding of SDG&E’s SB 676 VGI pilot budget
+participation in how EVDRP fundamentally authorized under D.20-12-029.
+California’s differs from SCE’s Charge
+demand response Ready DR Program and CCA
+portfolio. Pilots, which do not cater to
+residential bundled
+customers, manage
+distribution system peaks, or
+incorporate sophisticated but
+proven load management
+techniques.7
+In addition to the above-listed arguments detailing the factual errors and inconsistencies
+within the PD, Cal Advocates makes a critical point in opening comments regarding cost-
+effectiveness testing and the applicability of the Total Resource Cost (“TRC”) 1.0 score criteria.
+Cal Advocates accurately details the TRC’s importance for approving DR program expansions
+that have demonstrated poor TRC scores and that carry significant costs give the program scale.
+However, VGIC notes that the above-referenced proposals, except for PG&E’s ART program, are
+all new pilots that should not be assessed only on the merits of the TRC test. With this in mind,
+VGIC urges the Commission to correct the errors cited in opening comments and adopt a Final
+Decision that embraces the net benefits of authorizing DR pilot efforts that unlock EV load
+flexibility in the face of mounting wildfire mitigation and distribution system electrification costs
+through 2035.
+7 See Opening Comments of Auto Innovators’ at 9-10, Opening Comments of ev.energy at 2-5, Opening
+Comments of VGIC at 9-13, and Opening Comments of WeaveGrid at 2-6. See also Charge Ready DR
+Pilot 2022 Results in SCE’s eMobility Q3 Program Advisory Committee (PAC) Meeting, which detailed
+~25% peak load reduction through the program and described 2022 as the “Best performance of Charge
+Ready DR Pilot in terms of kWh reduction.” Critically, the Charge Ready DR Pilot is not focused on
+distribution system peaks and only focused on system-level peaks, as ELRP is. In contrast, SDG&E’s
+EVDRP may target distribution system peaks, as well, offering an entirely new suite of grid support
+capabilities from EV DR resources, namely in congested EV-heavy residential circuits and industrial areas
+with multiple electrified fleets.
+4
+
+VGIC appreciates the opportunity to submit these reply comments on the Proposed
+Decision. We look forward to further collaboration with the Commission and stakeholders on this
+important initiative.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+10265 Rockingham Drive
+Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Date: December 5, 2023
+5

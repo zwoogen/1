@@ -1,0 +1,352 @@
+November 30, 2022
+Email to: docket@energy.ca.gov
+Docket Number: 21-ESR-01
+Subject: Request for Information on Clean Energy Resources for Reliability
+Re: Comments of the Vehicle Grid Integration Council on Request for
+Information on Clean Energy Resources for Reliability
+Dear Sir or Madam:
+The Vehicle Grid Integration Council (“VGIC”) 1 appreciates the opportunity to comment
+on the Request for Information on Clean Energy Resources for Reliability (“RFI”) released on
+November 3, 2022. VGIC commends the California Energy Commission (“CEC”) for its efforts to
+bolster grid reliability in the face of increased risk of extreme weather events.
+I. INTRODUCTION AND SUMMARY.
+The Vehicle Grid Integration Council is a 501(c)(6) membership-based trade association
+focused on accelerating the role of smart electric vehicle (“EV”) charging and discharging through
+policy development, education, outreach, and research. VGIC supports the transition to a
+decarbonized transportation and electric sector by ensuring the value from EV deployments and
+flexible EV charging and discharging is recognized and compensated in support of a more reliable,
+affordable, and efficient electric grid.
+Senate Bill (“SB”) 846 has tasked the CEC to develop a Clean Energy Reliability Investment
+Plan (“CERIP”) and a goal for load shifting. Meanwhile, Assembly Bill (“AB”) 205 has tasked the
+CEC with developing the Distributed Electric Backup Asset (“DEBA”) program to “incentivize the
+construction of cleaner and more efficient distributed energy assets that would serve as on-call
+emergency supply or load reduction for the state’s electrical grid during extreme events.”2 VGIC
+strongly believes the DEBA program guidelines be simple, universally accessible, and prioritize
+clean resources, as recommended in stakeholder comments submitted on November 10, 2022 in
+response to the October 28, 2022 workshop on Clean Energy Alternatives for Reliability. It is critical
+that the DEBA program yield real-world load reductions and exports that will meaningfully support
+grid reliability, and to do so the DEBA must fill existing gaps in policy and funding support. With
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Customized Energy Solutions,
+dcbel, Enel X North America, Inc., ENGIE NA, Fermata Energy, FlexCharging, FLO EV Charging, Ford Motor
+Company, FreeWire Technologies, Inc., General Motors, IoTecha, Kaluza, Kitu Systems, Nissan Group of North
+America, Nuvve Holding Corporation, Sacramento Municipal Utility District, Stellantis N.V., Sunrun, Switch EV Ltd,
+The Mobility House, Toyota Motor North America, Inc., Veloce Energy, Inc., Wallbox USA Inc., and WeaveGrid.
+The views expressed in these Comments are those of VGIC, and do not necessarily reflect the views of all individual
+VGIC member companies or supporters. (https://www.vgicouncil.org/).
+2 AB 205 Energy. Article 2, Section 25791(a).
+
+November 30, 2022
+Page 2 of 10
+this in mind, VGIC offers the below overarching recommendations to the CEC in Sections II-IV, in
+addition to detailed responses to the RFI questions in Sections V-VII:
+ DEBA program design should include a $/kW incentive program to offset the
+incremental upfront costs of installing bidirectional EV chargers and storage-backed
+managed charging that act as on-call resources during grid emergencies.
+ CEC should coordinate with the CPUC to establish a pathway to participating in ELRP
+and other DR programs using onboard vehicle telematics.
+ Storage-backed managed charging should be assessed as part of CERIP and be eligible
+for DEBA incentives.
+II. DEBA PROGRAM DESIGN SHOULD INCLUDE A $/KW INCENTIVE
+PROGRAM TO OFFSET THE INCREMENTAL UPFRONT COSTS OF
+INSTALLING BIDIRECTIONAL EV CHARGERS AND STORAGE-BACKED
+MANAGED CHARGING THAT ACT AS ON-CALL RESOURCES DURING GRID
+EMERGENCIES.
+The potential of California’s EVs to provide vehicle-to-building (“V2B”) discharge (i.e., to
+meet site load) and vehicle-to-grid (“V2G”) export through bidirectional chargers is immense.
+Today’s commercially-available bidirectional chargers range from 10 kW to 125 kW of export
+capacity. Even with a conservative 5% of California’s approximately 1 million EVs discharging at
+an average of 10 kW, 500 MW of distributed export capability would be unlocked for the grid. With
+an aggregation of just 500 customers operating in V2G mode, the grid could benefit from 10 MW
+of total instantaneous response (i.e., 5 MW of load reduction and 5 MW of export).
+While not all EVs and chargers are capable of bidirectional charging, the list of bidirectional-
+capable products currently available to customers has rapidly expanded in just the past year, with
+around 30,000 Nissan LEAFs in California that can pair with Fermata chargers and likely close to
+10,000 Ford F-150 Lightning Electric in California by summer 2023 that can pair with the
+bidirectional Ford Charge Station Pro.3 VGIC estimates this equates to over 500 MW in total
+technical potential, and 25 MW of potential net peak contribution from V2G exports with a 5%
+participation rate.
+In the medium and heavy-duty segment, electric school buses from BlueBird, Thomas Built,
+Proterra, and BYD, and bidirectional chargers from Nuvve and Rhombus are already planned to
+3 CEC’s EV sales dashboard indicates 30,000 post-2012 Nissan LEAFs. Fermata FE-20 chargers offer 20 kW of export
+capability. For Ford F-150 Lightning estimates, recent sales reports show Ford approaching 10,000 nationwide sales in
+the first three months of customer deliveries. VGIC believes it is conservative to estimate nationwide sales would
+approach 20,000 by the end of summer 2023. Assuming California holds 50% of all EVs sold nationwide, VGIC
+estimates it is reasonable to assume 10,000 Ford F-150 Lightnings will be in California by end of summer 2023. Ford
+Charge Station Pro offers 10 kW of export capability. https://thedriven.io/2022/10/06/ford-triples-ev-sales-in-the-us-
+led-by-f-150-lightning/
+
+November 30, 2022
+Page 3 of 10
+reach MW-scale export capability by summer 2023.4 Additionally, the upcoming Chevrolet
+Silverado EV and GMC Sierra EV will have bidirectional charging capabilities, and recent
+announcements from Hyundai, Kia, Volkswagen, Lucid, Rivian, Audi, and Volvo indicate upcoming
+bidirectional capability. Meanwhile, new bidirectional charging products, such as those from dcbel
+and Wallbox, are expected to be available soon.
+Despite the rapid expansion of available products and the significant potential grid capacity
+that could be unlocked, the deployment of bidirectional charging equipment is nascent in large part
+due to the higher upfront costs of installing the chargers and associated equipment relative to
+unidirectional charging equipment. Moreover, bidirectional charging equipment, though confirmed
+in California Public Utilities Commission’s (“CPUC”) Decision 20-09-035 to be energy storage, is
+not eligible for California’s popular Self Generation Incentive Program (“SGIP”) and is not offered
+any incremental incentives under existing CEC or utility transportation electrification (“TE”)
+programs. This presents a clear policy gap and bottleneck for the bidirectional charging market.
+With this in mind, VGIC strongly recommends the CEC offer a transparent $/kW incentive
+to support the construction of these critical grid resources. Additionally, compelling and simple
+vehicle-to-everything (“V2X”) technology incentives send a clear market signal to vehicle and
+charger manufacturers that have not yet begun offering bidirectional charging products to do so,
+thereby expanding customer choice and placing downward pressure on the future costs of installing
+bidirectional charging equipment. While cost data for the purchase and installation of today’s
+bidirectional charging equipment is limited, VGIC believes a flat $1,000/kW bidirectional charging
+equipment incentive is critically needed to unlock the gigawatt-scale distributed energy storage
+capacity already embedded in California’s on-road EVs.
+To reduce administrative burden, VGIC recommends the flat $/kW incentive be made
+available on a rolling basis to aggregators for aggregations greater than 25 kW, rather than to
+individual projects.5 Additionally, the incentive should accommodate the addition of individual
+customers that enter the aggregation at a later date. Furthermore, the minimum aggregation size
+should be 25 kW, to align with the Emergency Load Reduction Program’s (“ELRP”) Vehicle Grid
+Integration (“VGI”) Aggregation Pilot.
+VGIC also notes that V2B chargers and associated equipment, like automated transfer
+switches and meter-socket-based devices, can safely island a customer’s load from the grid,
+therefore supporting the grid during extreme heat events or other tight reliability conditions. In
+addition to V2G export solutions, these configurations should also be eligible to receive the simple
+$/kW incentive.
+Lastly, VGIC recommends that storage-backed managed charging should also be deemed
+eligible for the $1,000/kW incentive, as detailed further in Section IV below.
+4 See VGIC’s Comments on IRP Modeling Advisory Group Inputs and Assumptions.
+https://www.vgicouncil.org/s/2022-10-06-VGICs-Informal-Comments-on-IA-MAG-Meeting.pdf
+5 The 25 kW minimum aggregation size aligns with the Emergency Load Reduction Program’s VGI Pilot.
+
+November 30, 2022
+Page 4 of 10
+III. CEC SHOULD COORDINATE WITH CPUC TO ESTABLISH A PATHWAY TO
+PARTICIPATING IN ELRP AND OTHER DR PROGRAMS USING ONBOARD
+VEHICLE TELEMATICS.
+While bidirectional charging holds great promise as a grid resource, VGIC urges the CEC to
+consider the “low-hanging fruit” of unlocking greater load shift participation from EVs. VGIC
+estimates another 250,000 EVs will be sold in the state by summer 2023, on top of the 1 million
+already on California’s roads.6 Assuming an average charging load of only 5 kW per vehicle, this
+represents a total technical potential of 6,250 MW in instantaneous load that could theoretically be
+reduced via managed charging (“V1G”). Obviously, the practical potential is only a small fraction
+of that since not all of those devices will be charging during the critical net peak load hours of 6-
+9pm, and not all EV owners will choose to participate in V1G activities. However, VGIC estimates
+that even under a more reasonable participation rate of 5%, approximately 312 MW of net peak load
+reduction from V1G might be achievable by the end of summer 2023.
+Historically, customers with certain smart chargers have been able to participate in
+California’s limited portfolio of smart charging pilots and programs. Meanwhile, the underlying tech
+needed to facilitate greater participation in load shift programs and rates is embedded in most EVs
+themselves via the onboard vehicle telematics capabilities. Telematics-based pilots are increasing in
+number, for example, Sacramento Municipal Utility District’s (“SMUD”) recently announced
+BMW/Ford/GM pilot, PG&E’s evPulse program, and PG&E’s BMW ChargeForward pilot.
+However, the largest VGI pilot, ELRP, remains closed to telematics-based load management, and
+no mass-market (i.e., non-pilot) VGI program utilizing vehicle telematics has been proposed or
+established in California. By unlocking both smart chargers and vehicle telematics participation
+pathways for ELRP, DSGS, and any other upcoming load reduction programs and rates, California
+can solve for a critical “missing link” in its load reduction capabilities.
+VGIC strongly recommends the CEC work with the CPUC to enable telematics participation
+in ELRP, the CEC’s Demand Side Grid Support (“DSGS”) program, and other demand response or
+VGI program offerings. Recently, the CPUC directed that a workshop dedicated to this subject must
+be hosted by August 2023, and party proposals may be considered following this workshop.
+However, this workshop will be dedicated to a telematics submetering protocol for the purposes of
+rate participation and customer billing, but would not address expanding programs, such as ELRP,
+to allow for telematics-based participation.
+IV. STORAGE-BACKED MANAGED CHARGING SHOULD BE ASSESSED AS
+PART OF CERIP AND DEEMED ELIGIBLE FOR DEBA INCENTIVES.
+VGIC appreciates the CEC’s inclusion of V1G and V2B as demand resources and V2G as a
+supply/demand resource in its preliminary approach. However, VGIC encourages the CEC to also
+consider the attributes of storage-backed managed charging. Storage-backed managed charging
+utilizes stationary energy storage co-located or integrated with an EV charger to buffer charging
+6 CEC ZEV Sales Dashboard.
+
+November 30, 2022
+Page 5 of 10
+sessions and flatten a site’s peak load. This approach is currently in use at public Direct Current Fast
+Charger (“DCFC”) sites as well as fleet depots which otherwise may have had limited ability to
+reduce peak demand given the expectations of those drivers and fleets. While public DCFC is not
+typically considered a candidate use case for managed charging, utilizing a co-located or integrated
+stationary energy storage system can transform these sites into more flexible load management
+assets. Moreover, this storage-backed configuration can also support charger reliability and uptime
+by providing backup power during grid outages. Lastly, these sites can significantly reduce costs
+for grid upgrades in some cases, for example by deferring or avoiding transformer and other
+secondary distribution system upgrades, which in turn helps protect utility ratepayers from the rising
+costs of transportation electrification related utility infrastructure. Example commercial
+implementations of this configuration include recent installations from Electrify America7 and
+FreeWire Technologies8.
+Despite these many benefits, this type of configuration is not currently promoted or
+incentivized through CEC or utility programs, and is overall under deployed in California. VGIC
+believes adoption has been hampered due to the lack of promotion or incentive to elect these options,
+despite their obvious benefits. Namely, utility-side infrastructure upgrade costs are typically
+socialized to all ratepayers, leaving no reason for customers to choose these systems that can reduce
+system cost, help manage load, provide benefits such as site backup power, and alleviate congestion
+in backlogged utility service connection queues. VGIC believes an appropriate technology
+incentive, e.g., DEBA, can correct this market failure, although none has been proposed by the CEC
+or utilities to date.
+While energy storage appears in Tables 1 and 3, and managed charging appears in Table 2,
+VGIC strongly recommends the CEC consider the hybrid “Storage-backed electric vehicle managed
+charging” as a supply/demand resource type in Table 3 for the purposes of the resource evaluation
+effort as well as the DEBA incentive, as it is a unique resource configuration that holds significant
+potential benefits for the grid, drivers and fleets, and utility ratepayers. Moreover, VGIC strongly
+recommends that storage-backed V1G be eligible to receive the same DEBA incentive open to V2B
+and V2G charging equipment, given its similar costs, use cases, and customers.
+V. RESPONSES TO RFI QUESTIONS ON RESOURCE TYPES AND EVALUATION
+ATTRIBUTES.
+Question 2. Are there resources that should be added to or removed from the preliminary list under
+each of the categories (shown in Tables 1, 2, and 3)?
+VGIC recommends adding storage-backed managed charging to Table 3, as detailed above in
+Section IV.
+7 https://media.electrifyamerica.com/en-us/releases/199
+8 https://insideevs.com/news/613621/chevron-texaco-stations-freewire-chargers/
+
+November 30, 2022
+Page 6 of 10
+Question 4. How should the attributes be weighted relative to each other? Should some attributes
+be weighted more than others?
+California has a myriad of overlapping decarbonization goals, yet two of the largest culprits of
+greenhouse gas emissions and local air pollutants remain the transportation and electric sectors.
+With this in mind, VGIC recommends the CEC apply the strongest weighting to the “policy
+alignment” attribute, as it promotes much-needed efficiency in implementing intersecting state
+policy goals, such as electric and transportation sector decarbonization.
+Question 5. What data/information sources can help inform characterization and evaluation (both
+qualitative and quantitative) of the different resources?
+Regarding the permitting and interconnection attributes, VGIC notes that the CPUC’s Decision 20-
+09-035 determined that bidirectional charging systems are energy storage for the purposes of
+interconnection, therefore the CEC should equate the V2G, V2B, and stationary energy storage
+permitting and interconnection attributes in their assessment.
+Regarding the equity attributes of all four VGI resource types (V1G, storage-backed V1G, V2B, and
+V2G), VGIC notes that these solutions either reduce charging costs or offer grid services revenues,
+which ultimately lowers the total cost of ownership and, in turn, make EVs more accessible for low-
+income, DAC, and tribal communities. Additionally, these VGI approaches promote efficient use of
+existing grid infrastructure, thereby lowering the ratepayer impact of supporting transportation
+electrification and the electricity bills for all utility customers. Lastly, the lower total cost of
+ownership resulting from VGI is particularly supportive of medium- and heavy-duty vehicle
+electrification and thus lowers emissions, including pollution from diesel fuel, along trucking
+corridors, ports, and other industrial areas most often located in or near low-income, disadvantaged
+communities (“DACs”), and tribal communities.
+VI. RESPONSES TO RFI QUESTIONS ON RESOURCE CHARACTERIZATION.
+Question 1. Please provide a general overview of the resource, including the following: Resource
+category (e.g., supply, demand) and type (e.g., solar) and scale (e.g., utility, distributed)?
+VGIC supports the proposed resource categories and types in Tables 1-3 of the RFI, and references
+its above comment on adding storage-backed managed charging as a resource.
+Question 2. How does the resource compare to conventional generation in terms of greenhouse gas
+and priority pollutant emissions?
+All four VGI resources (V1G, storage-backed V1G, V2B, and V2G) not only represent clean grid
+resources, but also support reductions in greenhouse gas and priority pollutants in the transportation
+sector, California’s most polluting sector.
+
+November 30, 2022
+Page 7 of 10
+Question 3. How does the resource support reliability (e.g., supply, permanent load reduction, net
+peak reduction, or emergency asset?) (List all that apply.)
+ Managed charging (V1G) and vehicle-to-building (V2B): Demand resource, net peak
+reduction, emergency asset
+ Vehicle-to-grid (V2G) and storage-backed V1G: Supply/demand resource, net peak
+reduction, emergency asset
+Question 3a. How can the resource be used as an incremental on-call resource during emergencies?
+All four VGI resource types can participate in ELRP, DSGS, another utility pilot or program (e.g.,
+PG&E’s VGI Pilots), or dynamic rate option as incremental on-call resources during emergencies.
+By unlocking participation pathways for onboard vehicle telematics, incremental managed charging
+(V1G) resources can be used during emergencies. V2B and storage-backed V1G could be
+configured to island from the grid during emergencies, thereby providing instantaneous load
+reduction.
+Question 4. How many new MWs and MWhs can the resource provide per year, taking into account
+resource characteristics and known barriers between now and 2035?
+ Managed charging (V1G): As noted in Section III above, VGIC estimates a conservative 5%
+participation rate would yield approximately 312 MW of net peak load reduction from V1G
+by the end of summer 2023.
+ Storage-backed managed charging (V1G): VGIC has no estimate at this time, but offers that
+it is likely greater than the V1G capability since the average charger using storage-backed
+managed charging is much larger (e.g., 150 kW DCFC vs 7 kW Level 2). Conservatively,
+VGIC estimates this resource could yield at least 312 MW of net peak load reduction in the
+near-term, but acknowledges it may be much higher if construction is properly incentivized
+as discussed above in Section IV.
+ Vehicle-to-building (V2B): VGIC estimates around 30,000 Nissan LEAFs in California that
+can pair with 20 kW Fermata chargers and likely close to 10,000 Ford F-150 Lightning
+Electric in California that can pair with 10 kW Ford chargers by summer 2023 to offer over
+500 MW in total technical potential, and 25 MW of potential net peak contribution from
+V2G exports with a 5% participation rate. However, this capability, since non-exporting, is
+limited by the amount of co-mingled site load at the charging site that could be served
+through V2B discharging.
+ Vehicle-to-grid (V2G): With the proper export programs and rate designs in place, for
+example a full-scale ELRP, VGIC estimates the near-term capability from the light-duty
+segment to equal the 500 MW total technical capability and 25 MW using 5% participation
+rate noted above in the V2B case. Notably, V2G exports would not be limited by site load.
+The medium- and heavy-duty segment could also add significant capacity in the near-term,
+
+November 30, 2022
+Page 8 of 10
+considering that all new Blue Bird electric school buses arrive V2G-capable, and that
+Thomas Built, Proterra, and BYD, comprising the overwhelming majority of the electric
+school bus market, all offer bidirectional school buses.
+Question 9. What are the key non-financial barriers to the development and implementation of this
+resource (including, but not limited to, permitting, interconnection, supply chain, customer
+acceptance, and alignment with policy goals)?
+As discussed above in Section III, the key non-financial barrier to more significant implementation
+of managed charging (V1G) is the lack of a pathway for customers to participate in programs and
+rates via vehicle telematics.
+Question 10. What are the key financial barriers to the development and implementation of this
+resource?
+As discussed in Section II above, VGIC believes the key financial barriers to greater deployment of
+bidirectional charging equipment is the high upfront cost of the equipment as well as construction
+and installation costs. Storage-backed managed charging faces the same financial barrier, and VGIC
+reiterates its recommendation that an incentive is provided to offset the costs of storage-backed
+managed charging solutions.
+Question 11. What types of benefits or impacts is the resource anticipated to have on low income
+and
+disadvantaged communities, and tribes, if any in terms of development and deployment?
+As discussed above in Section V, VGIC believes each of the four VGI resources bring considerable
+benefits to low-income and DACs, as well as tribes, through reduced costs of ownership, reduced
+utility ratepayer impact, and reduced transportation sector emissions within those communities.
+VII. INPUT ON DISTRIBUTED ELECTRICTY BACKUP ASSETS PROGRAM
+DESIGN.
+VGIC believes that VGI solutions should be prioritized in the DEBA program as a solution set that:
+ Offers dispatchable assets to meet grid needs
+ Generates no onsite greenhouse gas (“GHG”) emissions or air pollution, and offsets
+emissions and air pollution from the transportation sector, California’s most polluting sector
+ Incurs relatively minimal incremental costs, since the underlying technology is purchased
+and, to some extent, already deployed for the transportation sector use case
+ Remains unsupported through existing mass-market CEC or utility programs
+
+November 30, 2022
+Page 9 of 10
+VGI technology is therefore a critical resource type for the new DEBA program, as it will both add
+capacity to California’s Strategic Reliability Reserve and offset the use of normally prohibited
+resources. Additionally, bidirectional charging resources specifically can support community
+resiliency during local grid outages by providing backup power directly to a site or islanded
+microgrid.
+VGIC, therefore, commends the CEC for considering VGI resources in their initial resource
+classification and recommends the below modifications and enhancements to the CEC’s proposed
+approach:
+Question 1) What size of resource and what types of customers should the program target?
+VGIC believes the program should target small distributed resources, including VGI aggregations,
+that are historically under procured relative to large, in-front-of-the-meter, utility-scale resources.
+Question 2) What types of incentive structures and amounts are needed to accelerate the
+development and deployment of this resource?
+See VGIC’s response in Section II above, detailing a flat $1,000/kW for bidirectional charging
+equipment and storage-backed V1G configurations.
+Question 3) What types of conditionalities and measurement and verification requirements should
+the program include to ensure funded resources participate and deliver during emergency events?
+VGIC recommends that resources receiving DEBA incentives be required to participate in one of
+the following programs or rates:
+ ELRP
+ DSGS or other Load-Serving Entity (“LSE”) program
+ Dynamic rates, including PG&E’s Day-Ahead Hourly Real-Time Pricing (“DAHRTP”)
+Commercial EV Rate
+ PG&E’s VGI Pilots, SDG&E’s proposed EV DR Pilot, SCE’s proposed V1G pilot, or any
+similar pilots or programs available to EVs that include a price signal or alert during
+emergency events
+ Islanding in response to grid emergency signal, i.e. for V2B and storage-backed V1G
+ Direct wholesale market participation
+Critically, customers must be given a choice as to which pathway they would like to participate in.
+
+November 30, 2022
+Page 10 of 10
+VIII. CONCLUSION.
+VGIC appreciates the opportunity to provide this response to the RFI and looks forward to
+collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle Grid Integration Council
+Zach Woogen
+Policy Manager
+Vehicle Grid Integration Council

@@ -1,0 +1,150 @@
+DOCKETED
+Docket Number: 22-RENEW-01
+Project Title: Reliability Reserve Incentive Programs
+TN #: 259792
+Vehicle-Grid Integration Council Comments - Comments of
+Document Title:
+VGIC on DSGS 4th Guidelines
+Description: N/A
+Filer: System
+Organization: Vehicle-Grid Integration Council
+Submitter Role: Public
+Submission Date: 10/30/2024 3:54:44 PM
+Docketed Date: 10/30/2024
+
+Comment Received From: Vehicle-Grid Integration Council
+Submitted On: 10/30/2024
+Docket Number: 22-RENEW-01
+Comments of VGIC on DSGS 4th Guidelines
+Additional submitted attachment is included below.
+
+October 30, 2024
+Email to: docket@energy.ca.gov
+Docket Number: 22-RENEW-01
+Subject: California Energy Commission Demand Side Grid Support Program Guidelines
+RE: Comments of the Vehicle Grid Integration Council on Demand Side Grid Support
+Program Draft Guidelines, Fourth Edition
+Dear Sir or Madam:
+The Vehicle-Grid Integration Council (VGIC) appreciates the opportunity to provide comments
+on the Demand Side Grid Support (DSGS) Program Draft Guidelines, Fourth Edition, and the
+October 18, 2024, Workshop hosted by the California Energy Commission (CEC), which reviewed
+the proposed guidelines and program budget updates.
+The DSGS program has achieved significant success in 2024, with over 500 MW of resources
+participating. VGIC appreciates the inclusion of bidirectional electric vehicles (EVs) in DSGS, as
+the program not only allows EV discharge (V2X) to provide emergency capacity and respond to
+extreme events, but it also establishes a foundation for future V2X programs in California.
+California already has 1.5 million EVs that can contribute to the Strategic Reliability Reserve, and
+with exponential growth expected, these EVs will support California’s long-term clean energy
+needs.
+VGIC commends the CEC's work to establish DSGS and its efforts last year to add EVs to Option
+3. We believe the program's success should be maintained and, therefore, submit the following
+recommendations:
+● The 100 kW minimum aggregation size should be maintained for EV resources.
+● VGIC supports allowing aggregators to enroll aggregations from partner companies in
+DSGS.
+● CEC should consider how to account for V1G load reduction within Option 4.
+THE 100 KW MINIMUM AGGREGATION SIZE SHOULD BE MAINTAINED FOR EV
+RESOURCES.
+VGIC opposes the proposal to increase the minimum aggregation size for V2X resources
+in Option 3. The Draft Guidelines suggest increasing the minimum aggregation size for all Option
+3 resources from 100 kW to 500 kW, which would significantly reduce the number of V2X
+1
+
+resources able to participate in DSGS. We recommend that V2X aggregations retain a 100 kW
+minimum aggregation size.
+Currently, many V2X portfolios developed by aggregators would struggle to meet a 500
+kW minimum aggregation threshold. V2X remains a relatively nascent industry with many
+barriers, most notably the limited availability and high cost of bidirectional chargers and the
+associated enabling technologies. Bidirectional equipment is more costly than standard
+unidirectional chargers and requires additional investment for installation and interconnection.
+Furthermore, there are limited compensation programs to incentivize V2X installations. DSGS is
+currently the only statewide program in California that compensates for energy from EV
+discharge and exports, and, therefore, is critical to supporting VGI market development and
+achieving the vision set forth in SB 676 (Bradford, 2019). Other California programs, such as
+the Emergency Load Reduction Program (ELRP), are available only for investor-owned utility
+customers, while others are limited to specific utilities or Community Choice Aggregators. These
+barriers have resulted in a low number of V2X installations in California and much smaller
+aggregations. Until V2X technology achieves broader deployment comparable to stationary
+energy storage, a 100 kW minimum aggregation size remains appropriate.
+Additionally, maintaining stability in DSGS is essential so that participants can rely on and
+plan for engaging in the program. Customers and aggregators are currently making investment
+decisions with the understanding that current DSGS opportunities would be maintained and even
+increased in 2025. If the CEC changes program rules such that customers lose eligibility between
+years, or aggregators must adapt to new processes, many may shy away from the program due to
+increased uncertainty. Frequent rule changes can be particularly disruptive for smaller or early-
+stage participants who have limited resources to adapt quickly, which are precisely the participants
+engaging from the relatively nascent V2X community. These companies often invest significant
+time and capital upfront with the expectation of relatively stable program requirements. The CEC
+has developed a strong program with substantial participation. While minor adjustments and
+modifications to expand the program may be appropriate, the CEC should avoid changes that
+would force participants out of the program, such as increasing the minimum aggregation size,
+especially participants that are minimally supported yet are referenced as an important solution for
+meeting long-term reliability and multi-sectoral decarbonization goals.
+VGIC SUPPORTS ALLOWING AGGREGATORS TO ENROLL AGGREGATIONS
+FROM PARTNER COMPANIES IN DSGS.
+VGIC supports modifications that increase participation in DSGS, including allowing
+aggregators to enroll resources from partner companies. Some businesses may manage V2X or
+other resources suitable for DSGS but may not wish to act as formal DSGS participants. By
+enabling these businesses to partner with experienced aggregators who can integrate the resources
+2
+
+into the program, the CEC can expand participation. This is particularly relevant for V2X
+resources, where technology providers and EVSE service providers may manage the chargers,
+EVs, and customer interactions but lack the expertise to participate directly in DSGS. VGIC thus
+supports the clarification that allows partner aggregations to enroll in DSGS.
+CEC SHOULD CONSIDER HOW TO ACCOUNT FOR V1G LOAD REDUCTION
+WITHIN OPTION 4.
+The CEC should consider how to account for unidirectional or “V1G” load reduction
+within the new Option 4: Emergency Load Flexibility Virtual Power Plant. As California
+experiences consistent growth in EV deployment, using every tool in the toolkit will be critical to
+enable EV load flexibility. EVs are different from other loads, they are:
+• “New: Doubling every 2-3 years
+• High Powered: L2 chargers often >8 kW
+• Flexible: Drivers typically charge for 2 hrs during 10 hr plug-in session
+• Mobile: Home charging common (~80%) and public charging impacts commercial
+class
+• Hyperconnected: ~85+% of EV customers have capable vehicles or chargers”1
+Current residential EV charging behavior in California is generally aligned with TOU periods.2
+However, additional load reduction is still available from residential customers. For example, in
+Pacific Gas and Electric’s evPulse (Resilient Charging Pilot), the utility achieved an average 0.81
+kW capacity reduction per EV.3 While this capacity reduction is below the 8 kW L2 charging rate
+noted above, it still offers immense potential load reduction, if enabled, given the scale and pace
+of EV charging load growth. With nearly 2 million EVs already sold in California, and millions
+more expected to achieve California’s Advanced Clean Cars II, Advanced Clean Fleets, and
+Advanced Clean Trucks rules, VGIC urges the CEC to consider opening Option 4 up to residential
+V1G load reduction, in addition to smart thermostat and water heaters. It would be a mistake to
+overlook the V1G load reduction potential, as even if it is only a fraction of the average nameplate
+EV charger rating, it is still, in aggregate, a meaningful opportunity to support the goals of the
+Demand Side Grid Support program.
+Additionally, there are very few initiatives that seek grid support from these customers beyond
+TOU rates, so offering DSGS Option 4 to V1G aggregations would fill an important gap in VGI
+1 SEPA State of Managed Charging 2024. Pg 8. https://sepapower.org/resource/state-of-managed-
+charging-in-2024/
+2 See, for example, PG&E Vehicle-Grid Integration Strategies Semi-Annual Report for 2023. March 15,
+2024. Pg 26-30. https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M527/K737/527737436.PDF.
+3 SEPA State of Managed Charging 2024. Pg 8. https://sepapower.org/resource/state-of-managed-
+charging-in-2024/
+3
+
+programming. While dynamic rates are being piloted, only two residential charging customers
+have enrolled in this approach.4 The investor-owned utilities’ (IOU) Emergency Load Reduction
+Program does allow for residential EV charging aggregations to enroll and meet the emergency
+demand response needs of these IOUs. However, this offering is limited to customers of IOUs.
+Regarding non-residential V1G load reduction, VGIC notes significant charging still occurs on-
+peak, even though TOU price signals are currently in place for these customers:5
+With this in mind, VGIC respectfully requests the CEC staff continue collaborating with
+stakeholders to develop DSGS enhancements that promote greater EV participation, including in
+unidirectional or “V1G” mode for both residential and non-residential customers.
+CONCLUSION.
+VGIC appreciates the opportunity to provide these comments and looks forward to
+collaborating with the CEC and other stakeholders in this docket.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Interim Executive Director
+Vehicle Grid Integration Council
+vgicregulatory@vgicouncil.org
+4 PG&E Q3 2024 Program Advisory Council Meeting. October 23, 2024. Pg 32.
+5 PG&E Vehicle-Grid Integration Strategies Semi-Annual Report for 2023. March 15, 2024. Pg 26-30.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M527/K737/527737436.PDF.
+4

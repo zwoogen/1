@@ -1,0 +1,154 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+for Approval of its Electric Vehicle Charge 2 Application No. 21-10-010
+Program. (U39E) (Filed October 26, 2021)
+REPLY COMMENTS OF THE VEHICLE GRID INTEGRATION
+COUNCIL ON PROPOSED DECISION AUTHORIZING PACIFIC GAS
+AND ELECTRIC COMPANY’S ELECTRIC VEHICLE CHARGE 2
+PROGRAM
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Manager
+Vehicle-Grid Integration Council
+10265 Rockingham Dr., Suite #100-4061
+Sacramento, California 95827
+Tel: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+December 5, 2022
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Application of Pacific Gas and Electric Company
+for Approval of its Electric Vehicle Charge 2 Application No. 21-10-010
+Program. (U39E) (Filed October 26, 2021)
+REPLY COMMENTS OF THE VEHICLE GRID INTEGRATION
+COUNCIL ON PROPOSED DECISION AUTHORIZING PACIFIC GAS
+AND ELECTRIC COMPANY’S ELECTRIC VEHICLE CHARGE 2
+PROGRAM
+In accordance with Rules of Practice and Procedure of the California Public Utilities Commission
+(“Commission”), the Vehicle Grid Integration Council (“VGIC”) hereby submits these reply
+comments on the Proposed Decision (“PD”) Authorizing Pacific Gas and Electric Company’s
+(“PG&E”) Electric Vehicle Charge 2 (“EVC2”) issued on November 4, 2022.
+I. VGIC APPRECIATES PG&E’S CONTINUED EFFORTS AND LEADERSHIP
+IN PROMOTING ALM BUT BELIEVES THAT CUSTOMERS ELECTING
+ALM SHOULD RECEIVE A FAIR PORTION OF THE RESULTING COST
+SAVINGS.
+VGIC appreciates PG&E’s continued efforts to advance the use of Automated Load Management
+(“ALM”) solutions that allow EV customers the option to choose behind-the-meter technologies
+that allow for charger installation while avoiding or deferring utility-side or additional customer-
+side infrastructure costs. VGIC believes that the EVC 2 approach to “opportunistic ALM” could
+unlock increased use of ALM for some customers that would have otherwise been unaware of
+ALM options. While ALM has many benefits, its strongest impact on the customer experience and
+broader transportation electrification (“TE”) effort will be to accelerate the energization timeline
+for customers that elect it. To the extent ALM avoids the need to install new customer or utility-
+1
+
+side infrastructure at a site, it can shorten the construction timeline, especially for utility-side
+upgrades that are out of the customer’s controls.
+To incentivize ALM in EVC 2, PG&E states that “if costs per port come in below the
+program cost thresholds, savings will be shared with the host customer via the cost share
+methodology and tiered incentive structure of EVC 2.”1 VGIC believes this shared savings model,
+paired with PG&E taking on the role of alerting customers to ALM opportunities, may result in
+increased use of ALM. However, VGIC remains concerned that many host customers may not be
+adequately incentivized to adopt ALM solutions, as EVC 2 host customers choosing an ALM
+solution would only benefit from the savings from the “Realm of EVC 2” and not the “Realm of
+Rule 29.” 2 Under EVC 2, both the host customer and PG&E will benefit from savings on behind-
+the-meter (“BTM”) make-ready infrastructure costs. However, under Rule 29, the host customer
+would not realize the savings on to-the-meter (“TTM”) infrastructure costs that could be a direct
+result of their choice to implement ALM solutions. For example, consider a hypothetical EVC 2
+workplace charging customer outside of an AB 841 Prioritized Community with BTM make-ready
+infrastructure costs of $12,500 per port without ALM solutions and $10,000 per port with ALM
+solutions. Without ALM, this customer would pay 20% or $2,500 of per port make-ready costs,
+and with ALM the customer would pay $2,000 per port in make-ready costs. If this customer
+believes an ALM solution is appropriate and desirable in their situation, they could implement
+ALM to save $500 on their BTM make-ready costs. Meanwhile, the resulting cost savings on TTM
+costs (e.g., service transformer, service/network upgrades3) that are in the realm of Rule 29 are not
+realized by that customer. In addition, implementing power-sharing capabilities and other ALM
+1 Id.
+2 PG&E Prepared Testimony Ch 4-8, Figure 4-1.
+3 PG&E Prepared Testimony Ch 5-AtchA-3.
+2
+
+solutions may require customers to incur incremental costs (i.e., in partnership with their EV
+service provider or “EVSP”). Therefore, certain EVC 2 customers may have relatively little
+incentive to select an ALM solution, even if it would lead to reduced total EVC 2 program costs
+and/or increased ports deployed under EVC 2.
+VGIC has on several occasions flagged the lack of incentive for customers to choose ALM
+when it is well-suited for them.4 Meanwhile, the sweeping Transportation Electrification Policy
+and Investment Decision (“TEPID”) fails to adopt an incentive or overarching strategy for
+implementing ALM. In fact, TEPID repeals the critical guidance issued in D.20-12-029 that
+requires utilities to implement ALM in TE programs, rates, rules, and tariffs. TEPID states this is
+done to “reduce ambiguity,” and provides no further justification. TEPID therefore significantly
+undermines SB 676, and we urge the Commission to reconsider how to advance ALM broadly.
+ALM remains the only VGI strategy that can:
+ Streamline the energization experience for customers;
+ Alleviate congested service connection queues;
+ Mitigate against increased ratepayer impact of TE; and,
+ Deploy technologies that yield critical co-benefits, including batteries that support charger
+uptime during outages.
+With this in mind, VGIC reiterates that EVC 2 customers should be offered an additional incentive
+for electing ALM solutions that is commensurate with the full grid value they provide from TTM
+cost savings, rather than limiting this value to BTM cost savings.
+4 See: January 15, 2021 Pre-Workshop Comments in Advance of January 29, 2021 EV EMS Workshop;
+VGIC Presentation during January 29, 2021 EV EMS Workshop;
+Comments of VGIC on Assigned Commissioners Ruling on AB 841 Implementation on February 5, 2021
+https://www.vgicouncil.org/s/Comments-of-VGIC-on-ACR-Regarding-Implementation-of-AB-841.PDF ;
+Reply Comments of VGIC on Assigned Commissioners Ruling on AB 841 Implementation on February 19, 2021
+https://www.vgicouncil.org/s/VGIC-Reply-Comments-on-ACR-for-AB-841-R18-12-006.pdf ;
+Multi-Stakeholder Letter on ALM Circulated to Commissioners and Energy Division staff on June 16, 2021
+https://www.vgicouncil.org/s/Enabling-ALM-Stakeholder-Letter-to-CPUC.pdf ;
+VGIC Comments on EV Infrastructure Rules Resolution on August 25, 2021 https://www.vgicouncil.org/s/VGICs-
+Comments-on-Draft-Resolution-E-5167-R18-12-006.pdf ;
+3
+
+II. VGIC RECOMMENDS THE COMMISSION ADOPT A MORE SPECIFIC SET
+OF ALM DEFINITIONS AND TECHNICAL REQUIREMENTS.
+The PD appropriately recognizes ALM as a set of solutions that includes software to share power
+across several chargers as well as co-located/integrated energy storage systems. VGIC appreciates
+the Commission’s recognition of this expansive definition proposed by VGIC in the past.
+However, VGIC requests PG&E or the Commission establish clear technical standards for what
+constitutes an ALM system. As proposed, the PD does not clarify what a system needs to look like
+in order for PG&E to accept it as a trustworthy, eligible ALM. Without this, VGIC is concerned
+that ALM implementation will be limited and that general confusion over what is and isn’t an
+eligible ALM solution will radiate out into the marketplace. Specifically, VGIC recommends
+PG&E establish either an approved vendor list or a set of minimum technical standards (e.g., UL
+standards) to provide a clear, consistent set of signals to technology and service providers, as well
+as customers.
+III. THE PD SHOULD DIRECT PG&E’s MARKETING, EDUCATION, AND
+OUTREACH PLAN TO INCLUDE COORDINATION WITH AUTHORITY
+HAVING JURISDICTIONS ON ALM.
+Successful ALM implementation relies on appropriate utility program design and customer
+decision making, as well as – critically – the understanding and coordination of local authority
+having jurisdictions (“AHJs”). Specifically, VGIC believes that PG&E’s opportunistic ALM
+approach must be paired with a concerted outreach campaign by PG&E to AHJs to confirm and
+coordinate approval of ALM systems. Without this step, the Commission risks approving an ALM
+framework in EVC 2 that could confuse and frustrate customers and installers as their ALM site
+designs may be rejected by AHJs. PG&E reaching out to AHJs to streamline the rollout of ALM
+technology is paramount to the success of ALM and, in turn, SB 676 and the (now repealed)
+directives in D.20-12-029.
+4
+
+IV. THE PD SHOULD CLARIFY THE DEFAULT RATE CONFIGURATIONS.
+EVC 2 would also provide an opportunity for customers to learn about EV rate options.
+VGIC supports that PG&E will default participants to TOU or real-time rates, with the ability for
+participants to opt out if they submit a load management plan. However, VGIC requests the
+Commission clarify whether participants will be defaulted to static TOU rates, or real-time rates,
+given that the two choices offer significantly different customer experiences and values to the grid.
+Moreover, VGIC recommends the PD clarify whether or how this default rate requirement differs
+across market segments. VGIC posits that DCFC public destination may be a good candidate for
+default TOU rates. In contrast, Level 2 workplace or multi-family home sites may be a relatively
+more appropriate site type for default real-time rates. Lastly, VGIC strongly recommends that
+segments deemed appropriate for default real-time rates be provided with ample education about
+the rate, benefits and costs, and third-party providers that can help them respond to the rate.
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these reply comments to the PG&E EVC 2 PD. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Ed Burgess
+Ed Burgess
+Senior Policy Director
+Vehicle-Grid Integration Council
+Date: December 5, 2022
+5

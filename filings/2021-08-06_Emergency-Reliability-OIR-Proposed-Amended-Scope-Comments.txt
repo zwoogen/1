@@ -1,0 +1,248 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON E-MAIL
+RULING SEEKING RESPONSES REGARDING A PROPOSED AMENDED SCOPE
+AND SCHEDULE TO ADDRESS RELIABILITY ISSUES IN 2022 AND 2023
+Edward Burgess
+Senior Policy Director
+Zach Woogen
+Policy Specialist
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+August 6, 2021
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to
+Establish Policies, Processes, and Rulemaking 20-11-003
+Rules to Ensure Reliable Electric (Filed November 19, 2020)
+Service in California in the Event of an
+Extreme Weather Event in 2021.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON E-MAIL
+RULING SEEKING RESPONSES REGARDING A PROPOSED AMENDED SCOPE
+AND SCHEDULE TO ADDRESS RELIABILITY ISSUES IN 2022 AND 2023
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these comments on the E-mail Ruling Seeking Responses Regarding a Proposed Amended Scope
+and Schedule to Address Reliability Issues in 2022 and 2023 (“Ruling”), issued by Administrative
+Law Judge (“ALJ”) Brian R. Stevens on August 2, 2021.
+I. INTRODUCTION.
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role of
+electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy development,
+education, outreach, and research. VGIC supports the transition to a decarbonized transportation
+and electric sector by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+VGIC commends the ALJ for issuing the Ruling to address California’s pressing reliability
+concerns, as detailed in Governor Newsom’s July 30th emergency proclamation. As VGIC
+1
+
+understands, California’s available options to ensure reliability for 2022 and 2023 on short notice
+are substantially limited. Relying on hydro capacity is risky as extreme heat and drought continue
+to plague the west. On the other hand, reliance on fossil fuel generation jeopardizes California’s
+climate goals and would likely further exacerbate the power sector’s contribution to global
+emissions and, ultimately, the very extreme weather events that are contributing to the current
+reliability concerns.
+Meanwhile, efforts to deploy additional, utility-scale renewable energy and energy storage
+are underway, and the Governor’s emergency proclamation directs and requests bold action from
+state agencies, including the Commission, to streamlining permitting and construction for these
+resources.1 However, to mitigate reliability concerns without compromising its climate goals,
+California needs an all-of-the-above approach that includes both utility-scale renewables and
+energy storage, but also distributed energy resources (“DERs”). VGIC believes California must
+make significant progress in its ability to leverage DERs and encourages the Commission to take
+bold and decisive action to unlock latent capacity in already deployed resources, including EVs.
+VGIC offers the following comments focusing on how to refine the scope to unlock EVs as a grid
+resource for Summer 2022 and 2023.
+II. COMMENTS ON THE PROPOSED SCOPE.
+A. VGIC supports the inclusion of EV load management or “V1G” in the Ruling’s
+proposed scope.
+Each of California’s three major investor-owned utilities (“IOUs”) offer whole-home time-
+of-use (“TOU”) rates, and PG&E and SDG&E offer a separately metered residential EV TOU rate.
+1 Kavya Balaraman. California governor moves to free up electricity supply amid projected 3.5 GW summer shortfall.
+Utility Dive. August 3, 2021. https://www.utilitydive.com/news/california-governor-moves-to-free-up-electricity-
+supply-amid-projected-35/604344/
+2
+
+The IOUs also offer separately metered EV TOU rates for commercial customers and multi-unity
+dwellings (“MUDs”), with SCE waiving demand charges and PG&E and SDG&E offering
+subscription rate structures. While these TOU rates have been effective in shaping EV load, VGIC
+believes much more should be done to unlock additional load reduction from EVs through EV load
+management or “V1G.” Decision (“D.”) 20-12-029 (the “VGI Decision”) adopted EV load
+management as a strategy to achieve the goals of SB 676, and PG&E and SCE recently filed advice
+letters seeking approval of VGI pilots.2 While VGIC is encouraged by several of the proposed VGI
+pilots, the Governor’s proclamation highlights an urgent and important need to promote VGI
+strategies far beyond the limited VGI pilots that have been proposed. With this in mind, VGIC
+recommends the EV load management scope item include approaches to unlock third-party
+submetering pathways to alleviate the critical barriers detailed below.
+Existing IOU transportation electrification (“TE”) programs typically require EV load be
+separated from customers’ building load to be eligible for program incentives. Additionally,
+separately metered EV TOU rates typically have higher peak/off-peak differentials than their
+whole-home TOU counterparts, which may make them a more compelling choice for some
+customers. The combination of funding from TE programs and compelling value proposition of
+separately metered TOU rates creates an environment in which customers are nudged toward
+isolating EV load from site load. However, isolating EV load significantly limits the ability for
+EVs to achieve load reductions by using VGI technologies. First, standalone EV load is a unique
+end-use load that may benefit from additional consideration and methodology development to
+construct baselines within existing demand response (“DR”) programs. Second, isolated
+2 Advice Letter 6259-E Requesting for Approval of PG&E’s VGI Pilots in Compliance with Decision 20-
+12-029 and Advice Letter 4542-E Request for Approval of Proposed Vehicle Grid Integration Pilots,
+submitted on July 15, 2021.
+3
+
+bidirectional EVs and EV supply equipment (“EVSE”) cannot provide backup power, mitigate
+demand charges, or otherwise offset grid consumption by discharging. In addition, some customers
+may not want to expose their whole site load to a TOU rate or are unable to install level two (“L2”)
+charging stations. For these customers, vehicle telematics in particular offers a low-cost pathway
+to enable VGI.
+Unlocking the use of EVSE submeters and vehicle telematics to establish baselines and
+support settlement is a critical next step to alleviate these barriers by providing a low-cost way to
+separately measure comingled EV and site load. VGIC believes resolving this set of issues is
+required to enable additional EV load reductions in support of system reliability and recommends
+it be included in the amended scope ruling.
+B. Vehicle-to-grid exports should be added to the scope as a pathway to increase peak
+and net peak resources in 2022 and 2023.
+VGIC appreciates the Commission’s attention and consideration of bi-directional EV and
+EV supply equipment (“EVSE”) systems in the development of the Emergency Load Reduction
+Program (“ELRP”). For the past several years, the Commission and industry stakeholders have
+struggled with a “chicken or egg” problem when it comes to considering the ability of vehicle-to-
+grid (“V2G”) exports to support the grid. Due to the limited number of available products, it was
+challenging to generate stakeholder momentum to develop a pathway to incentivize V2G exports.
+Meanwhile the lack of any incentive structure to sustain V2G activities hampered the commercial
+activity and product development of these solutions, despite the technology being well understood
+and used in other markets.
+4
+
+Today, VGIC believes the V2G industry has reached an important tipping point as evident
+by the variety and magnitude of commercially available solutions, many of which are already on
+California’s roads. There are an estimated 27,000 V2G-capable Nissan LEAFs in California today,
+equal to approximately 876 MWh of energy storage capacity.3 In addition, Blue Bird has delivered
+over 100 V2G-capable electric school buses providing a potential 15 MWh of energy storage4,
+with Proterra and Lion also offering V2G-capable medium- and heavy-duty vehicles (“MHDV”).
+There are also V2G-capable Mitsubishi EVs in California, the i-MiEV and Outlander PHEV,
+which contribute an additional 2,121 vehicles and potential 27 MWh of energy storage capacity
+on the road in California.5 The recently announced Ford F-150 Lightning, scheduled to be on
+California’s roads in 2022, can provide full-home power for up to three days, or up to 10 days if
+power is rationed.6 VGIC notes that today’s bidirectional vehicles span the light-duty vehicle
+(“LDV”) and MHDV sectors, as do bidirectional EVSE offerings from providers like dcbel,
+Fermata Energy, and Nuvve Corporation.
+Meanwhile, D.20-09-035 (the “September 2020 Rule 21 Decision”) confirmed V2G Direct
+Current (“V2G DC”) EVSE can seek interconnection under Rule 21, and V2G systems have
+3 As of the end of 2020, an estimated 27,000 V2G-capable Nissan LEAFs are on the road in California,
+totaling an estimated 876 MWh of energy storage capacity, assuming only vehicles model year (“MY”)
+2013 or later are V2G-capable, MY2013-2015 vehicles have a 24 kWh battery, 2016 30 kWh, and 2017-
+2019 40 kWh. Assuming 7 kWh per home, VGIC estimates this is equivalent to 125,000 homes.
+California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and
+Infrastructure Statistics. Data last updated April 30, 2021. https://www.energy.ca.gov/zevstats
+4 According to Blue Bird Corporation, they have delivered more than 400 electric school buses, with more
+than 100 V2G-capable buses to California, each with a 155kWh battery pack.
+5 Mitsubishi i-MiEV has a 16 kWh battery and Outlander PHEV has a 12 kWh battery pack. There are
+1,750 Outlander PHEV and 371 i-MiEV in California.
+California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and
+Infrastructure Statistics. Data last updated August 28, 2020. https://www.energy.ca.gov/zevstats
+6 Ford. 2021. The Truck of the Future is Here: All-Electric Ford F-150 Lightning.
+https://media.ford.com/content/fordmedia/fna/us/en/news/2021/05/19/all-electric-ford-f-150-
+lightning.html
+5
+
+already sought Rule 21 interconnection.7 In addition, the ELRP’s inclusion of Rule 21 exporting
+DERs, which includes V2G DC EVSE, places V2G systems on a level playing field with stationary
+energy storage systems within the context of a specific compensation pathway for behind-the-
+meter (“BTM”) exports.
+To VGIC’s knowledge, the establishment of the ELRP is the first such action taken in
+California – and perhaps the nation – to compensate V2G exports alongside stationary energy
+storage exports. Although VGIC generally supports the proposed ELRP pilot, it has not been
+welcomed by industry actors given its limited ability to support a sustaining business model. VGIC
+believes that V2G resources, once incentivized to do so, will play an important role in increasing
+peak resources in 2022 and 2023. As such, VGIC strongly recommends that V2G exports be
+considered in scope as an opportunity to increase supply.
+C. The scope should consider how to leverage other programs in addition to ELRP
+and existing demand response programs.
+As explained above in Section II.B, VGIC believes the energy-only structure of the ELRP
+may be an insufficient mechanism to drive significant load reduction and exports from the over
+600,000 flexible EVs in California, an estimated 29,000 of which are already V2G-capable.8 VGIC
+urges the Commission to continue iterating on the ELRP pilot structure ahead of Summer 2022
+and Summer 2023, especially as EV adoption and EVSE deployment are expected to continue
+growing at a rapid pace. VGIC therefore supports the inclusion of ELRP in the proposed amended
+scoping ruling.
+7 See, for example, PG&E Quarterly Interconnection Timeline Report Q2 2021.
+8 As of the end of 2020, an estimated 27,000 V2G-capable Nissan LEAFs, 1,750 Mitsubishi Outlander
+PHEVs, and Mitsubishi 371 i-MiEV are on the road in California.
+California Energy Commission (2021). California Energy Commission Zero Emission Vehicle and
+Infrastructure Statistics. Data last updated August 28, 2020. https://www.energy.ca.gov/zevstats
+6
+
+Similarly, the IOUs should explore ways to integrate and compensate V2G exports into
+programs that already provide capacity payments. As such, VGIC supports the inclusion of
+modifications to existing demand response programs in the proposed amended scoping ruling, and
+specifically recommends modifications to capacity bidding programs to integrate and compensate
+V2G exports be considered as an opportunity to achieve incremental reductions in net load.
+VGIC believes that consideration of strategies to reduce demand in 2022 and 2023 should
+not be limited to ELRP, existing DR programs, and a new real-time capacity bidding program.
+VGIC recommends the following items also be considered in the scope of this proceeding:
+ Pathways to clarify and accelerate where reasonable the scale-up of the recently
+proposed VGI pilots to become full-scale programs
+ Creation and expansion of technology incentives, such as SGIP, to include V2G
+technologies
+ Pathways for BTM resources, including EVs, to support reliability through
+California’s resource adequacy (“RA”) framework.
+ Streamlining of Rule 21 processes for small DERs, including V2G DC EVSE.
+VGIC reiterates that in order to mitigate reliability concerns without compromising its
+climate goals, California must use an all-of-the-above approach to leverage all available resources
+at its disposal. VGIC urges the Commission take bold and decisive action to leverage both V1G
+and V2G resources to support Summer 2022 and 2023 reliability.
+D. VGIC believes the emergency proclamation’s intent to streamline permitting and
+construction for resources extends to behind-the-meter resources, including VGI-
+capable TE infrastructure.
+To better leverage VGI strategies to reduce peak demand and increase peak resources, the
+Commission should consider strategies to accelerate the deployment of VGI-capable TE
+infrastructure. Notably, the Governor’s emergency proclamation emphasizes the importance of
+7
+
+streamlining the permitting and construction of energy resources, and VGIC believes this directive
+extends to BTM resources, including VGI-capable TE infrastructure. Automated Load
+Management (“ALM”), which can streamline deployment of VGI resources, was a central part of
+the December VGI Decision. However, there is growing recognition among VGI stakeholders,
+including VGIC, that more needs to be done to facilitate the full range of ALM capabilities.9 To
+date, very little has been modified or advanced to integrate ALM into TE programs or EV
+infrastructure deployed outside of TE programs, despite the clear provisions and intent of the VGI
+Decision. VGIC believes “Type 2” ALM in particular can support streamlined deployment of VGI
+resources by adding EVSE on an existing service without triggering utility-side distribution system
+upgrades.10 This can be achieved by using customer-side ALM technologies (both software and
+hardware solutions) to reduce peak load of an multi-EVSE site, and in this way ALM would not
+only support the infrastructure deferral or avoidance, but also reduce net system peak per the goals
+of this proceeding. As such, VGIC recommends these concepts of streamlined permitting and
+construction of EVSE, including through Type 2 ALM, be explored within the scope of this
+proceeding.
+9 See, for example, Enabling Automated Load Management (ALM) – VGI Stakeholder Letter to CPUC.
+Advanced Energy Economy, AMPLY Power, Inc., California Energy Storage Alliance, Enel X North
+America, Inc., Greenlots, Mobility House, Nuvve, Powerflex, Siemens, Vehicle-Grid Integration Council,
+and Veloce Energy. June 16, 2021.
+https://static1.squarespace.com/static/5dcde7af8ed96b403d8aeb70/t/60d2dbd25b043e4141b16164/16244
+31572513/Enabling+ALM+-+Stakeholder+Letter+to+CPUC.pdf
+10 For clarification, “Type 1” ALM refers to the use of load management for participation in demand
+response or TOU rates, while “Type 2” ALM refers to load management used to avoid additional
+distribution system upgrades. Type 2 ALM is accomplished by using ALM solutions to safely connect
+multiple charging ports whose total nameplate load would otherwise exceed the rated capacity of the
+customer connection. This in turn can avoid the need to upgrade an existing customer site with a new service
+connection, customer-side panel upgrade, or utility-side distribution system upgrade. While the IOUs have
+implemented some Type 1 ALM applications, they have not all fully embraced Type 2 ALM.
+8
+
+III. CONCLUSION.
+VGIC appreciates the opportunity to these comments on the Ruling. We look forward to
+further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Edward Burgess
+Edward Burgess
+Senior Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: August 6, 2021
+9

@@ -1,0 +1,584 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue
+Rulemaking 18-12-006
+the Development of Rates and
+(Filed December 13, 2018)
+Infrastructure for Vehicle Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 7 AND 8)
+Edward Burgess
+Policy Director
+Zach Woogen
+Senior Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+Dated: July 14, 2020
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking to Continue the
+Rulemaking 18-12-006
+Development of Rates and Infrastructure for
+(Filed December 13, 2018)
+Vehicle Electrification.
+COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+TRANSPORTATION ELECTRIFICATION FRAMEWORK (SECTIONS 7 AND 8)
+In accordance with Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council1 (“VGIC”) hereby submits
+these comments on the Administrative Law Judge’s Ruling Adding Staff Proposal for a Draft
+Transportation Electrification Framework to the Record and Inviting Party Comments
+(“Ruling”) issued by Administrative Law Judge (“ALJ”) Patrick Doherty on February 3, 2020.
+Pursuant to Email Granting Request for Extension of Time to Submit Comments on Sections 7
+and 8 of the Transportation Electrification Framework issued by ALJ Sasha Goldberg on July 2,
+2020, VGIC timely files these comments on Sections 7 and 8 of the Draft Transportation
+Electrification Framework (“Draft TEF”) on July 14, 2020.
+I. INTRODUCTION.
+A. Overview of VGIC
+VGIC is a 501(c)6 membership-based advocacy group committed to advancing the role
+of electric vehicles (“EVs”) and vehicle-grid integration (“VGI”) through policy development,
+1 VGIC member companies and supporters include American Honda Motor Co., Inc., Connect California LLC, Enel
+X North America, Inc., Fiat Chrysler Automobiles, Ford Motor Company, General Motors Company, Nissan North
+America, Inc., Nuvve Corporation, and Toyota Motor North America, Inc. The views expressed in these Comments
+are those of VGIC, and do not necessarily reflect the views of all of the individual VGIC member companies or
+supporters. (https://www.vgicouncil.org/).
+1
+
+education, outreach, and research. VGIC supports the transition to decarbonized transportation
+and electric sectors by ensuring the value from EV deployments and flexible EV charging and
+discharging is recognized and compensated in support of achieving a more reliable, affordable,
+and efficient electric grid.
+B. Organization of VGIC’s Comments
+VGIC’s comments are organized as follows:
+ First, VGIC addresses a specific recommendation from Section 7 of the Draft TEF
+posed by the Commission related to IOU roles in pilot programs to evaluate pre-
+commercial technologies. In responding to this recommendation, VGIC provides
+several recommendations for the Commission’s consideration.
+ Second, VGIC addresses several critical questions and recommendations from
+Section 8 of the Draft TEF posed by the Commission which pose both material
+challenges and opportunities to accelerate transportation electrification. VGIC
+provides several recommendations for the Commission’s consideration.
+ Finally, VGIC provides a summary of recommendations from its answers to the
+questions.
+II. COMMENTS ON DRAFT TEF SECTION 7: SAFETY.
+A. Section 7.1, Recommendation 4: Consider limited roles for IOU pilot programs to
+evaluate pre-commercial technologies and associated safety needs.
+VGIC supports the development of a well-balanced, limited role for IOUs in the
+evaluation of pre-commercial TE technologies and associated safety needs. IOUs are tasked with
+maintaining a safe and reliable grid, which includes the safety needs associated with grid-
+2
+
+connected technologies. Deployment of many new grid-connected technologies is inevitable as
+California ramps up to achieve its TE goals. As such, it is appropriate for the IOUs, as operators
+of the distribution grid, to contribute productively to the evaluation of pre-commercial
+technologies in the TE industry and associated safety needs. Several VGI-related technologies
+may require safety needs assessments either now or in the future, and VGIC believes IOUs can
+and should pursue pilot scale implementation of novel or untested technologies to evaluate their
+impacts on grid safety reliability in anticipation of larger scale deployment.2 However, this
+testing phase must be well designed to ensure that it is does not impose new barriers technology
+deployment at scale. To that end, the Draft TEF states:
+“For example, the IOUs may propose pilots to test pre-commercial technologies
+that do not fall within existing safety certification systems. Pre-commercial
+stationary EVSE prototypes may contain features or configurations that appear
+promising but have not yet completed certification by a Nationally Recognized
+[Testing] Laboratory (“NRTL”).” 3
+VGIC supports IOU involvement in testing pre-commercial technologies, especially
+those with configurations not yet certified by a NRTL, as part of pre-commercial technology
+demonstrations. In fact, VGIC believes the TE industry would be well-served if IOUs were
+obligated to provide this support function, in response to reasonable requests from industry
+participants. Thus, VGIC recommends the Commission provide guidance in the TEF that
+establishes a uniform program and process by which market participants could request to
+conduct pre-commercial technology demonstrations and evaluations alongside IOUs. Such a
+2 See, for example, Connect California’s proposal for the use of smart meters for intentional islanding of customers
+in advance of a public safety power shutoff event to enable vehicle-to-home backup power solutions. See
+Administrative Law Judge’s Ruling Requesting Comments on Track 1 Microgrid and Resiliency Strategies Staff
+Proposal January 21, 2020 in R.19-09-009, Attachment A at 14.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M324/K963/324963031.PDF
+3 Draft TEF at 74.
+3
+
+program can result in stepwise advances in IOU understanding of safety and reliability issues
+related to new equipment and technologies developed by vehicles OEMs and EVSE companies.
+A standardized pilot program could be created that strikes a balance for IOU
+involvement, allowing demonstrable progress to be made without overcommitting IOU
+resources. For example, requests for demonstration projects could be capped, such that a given
+entity seeking testing and evaluation for a pre-commercial technology/equipment could only
+submit a maximum number of projects per year. A cap on the quantity of vehicle or charge ports
+could also be explored. As an illustrative example of the standardized pilot approach, a given
+OEM might be able to apply for a maximum of two demonstration projects per year or for up to
+20 ports in total for demonstrations that deepen IOU understanding of safety and reliability needs
+associated with a pre-commercial technology. A budget cap could also be an important
+consideration to ensure that standardized pilot requests do not lead to excessive costs to IOU
+ratepayers. Any standardized pilot program should also consider how to utilize existing IOU
+testing labs for reliability and safety.
+The creation of a standardized pilot program should also draw from past or existing
+approaches to TE pilots and demonstrations, such as the California Energy Commission’s
+(“CEC”) BESTFIT Innovative Charging Solutions solicitation for demonstrating innovative
+technologies.4 However, the Commission must also ensure that technologies are not “over-
+4 The CEC’s Built-Environment Electrification Solutions & Form Factors for Fitting Infrastructure to Transportation
+(“BESTFIT”) Innovative Charging Solutions solicitations will fund projects that demonstrate technologies and
+business models that are “best fit” for the local built environment, use case, and vehicle type. Along with the CEC’s
+ViGIL Solicitation, which addresses testing, certification, data, and technology gaps for EVSE, BESTFIT may
+meaningfully accelerate VGI in California. However, these programs as proposed pose risks of over-piloting
+technologies and funding duplicative pilots, and the Commission should consider this aspect of program design to
+avoid such risks. See https://www.energy.ca.gov/event/workshop/2020-05/staff-solicitation-scoping-workshop-pre-
+solicitation-concept-bestfit and https://www.energy.ca.gov/event/workshop/2020-05/staff-solicitation-scoping-
+workshop-pre-solicitation-concept-vehicle-grid
+4
+
+piloted,” and that pilot programs do not present a new barrier to commercial scale
+implementation. In some instances, IOUs may have a financial interest in limiting certain
+customer-sited technologies or use cases from deploying at scale. VGIC is concerned that this
+could lead to a scenario where pilot programs are used as a means to delay or constrain market
+development beyond the demonstration phase. Thus, VGIC cautions against authorizing
+redundant or duplicative pilot programs beyond what is reasonable to understand basic safety
+and reliability considerations. Additionally, a standardized pilot program should operate in
+coordination with pilot programs administered by the CEC, to further mitigate risks of requiring
+redundant or duplicative pilots. The Commission should consider providing guidance on how to
+determine whether technologies that have achieved certain milestones, whether through CEC-
+funded pilots or the standardized pilot program, can advance to larger scale deployments or
+warrant further testing. VGIC recommends that this guidance include processes and metrics to
+ensure pilots result in either tangible progress toward commercialization or concrete
+recommendations for next steps a pre-commercial technology should take toward market
+readiness. Finally, VGIC recommends the initial implementation of this standardized pilot
+program framework be focused on safety and near-term strategies to mitigate the impacts of
+wildfires and public safety power shutoff (“PSPS”) events.
+III. COMMENTS ON DRAFT TEF SECTION 8: TECHNOLOGY AND
+STANDARDS.
+A. Section 8.1, Question 5: What are the expected costs of requiring vehicle-grid
+integration (VGI)-enabled electric vehicle supply equipment (EVSE) across all
+investor-owned utility (IOU) EVSE investments?
+5
+
+According to the California Energy Commission (“CEC”) Staff Presentation for the
+CALeVIP Future Equipment Technology Workshop, deploying VGI-enabled EVSE may amount
+to de minimus incremental costs at scale, costing $5 to $25 per EVSE.5 VGIC supports the notion
+of encouraging IOU EVSE investments to include some form of VGI functionality to maximize
+the value of these assets. However, VGIC cautions against making this a requirement for IOU
+EVSE deployments absent a clear definition of “VGI-enabled.”
+B. Section 8.1, Question 5(a): What are the projected costs of requiring all ratepayer
+funded EVSE meet International Organization for Standardization (ISO) standard
+15118, and aligning with the protocol updates currently underway?
+The Draft TEF’s second recommendation in Section 8.1 is to:
+“Require that EVSE funded through [IOUs’] transportation electrification (TE)
+programs contain networking capabilities and can implement International
+Organization for Standardization (ISO) standard 15118 and other communication
+enabling requirements adopted by the California Energy Commission.”
+We reiterate that, at this time, the CEC is only considering ISO 15118 for publicly-
+accessible EV chargers funded through the CALeVIP program. VGIC believes the projected
+costs of requiring all ratepayer funded EVSE meet ISO 15118 are significantly higher than the
+incremental $5 - $25 per EVSE finding referenced above, as the opportunity cost resulting from
+such a mandate would be significant. Two primary factors contribute to this potentially high
+opportunity cost:
+1. The current state of the ISO 15118 standard
+5 CEC Docket 17-EVI-01 https://efiling.energy.ca.gov/GetDocument.aspx?tn=230794&DocumentContentId=62410
+6
+
+The Draft TEF notes “the standard is under review and not fully implemented in the US
+yet.” 6 ISO 15118-20, the specific standard with which market actors are being asked to comply,
+is not a complete standard, and may not be until 2021 or later, and therefore mandated
+compliance for IOU EVSE may stall expeditious progress on TE efforts in California. The Draft
+TEF correctly states that some auto manufacturers (“OEMs”) have “indicated they intend to
+deploy ISO 15118 as a communication solution…and generally do not want to support multiple
+protocols.”7 However, requiring all ratepayer funded EVSE to meet ISO 15118 is premature and
+unwarranted given the current state of the standard.
+The Draft TEF states the Energy Division Staff “finds that establishing a standard
+communication pathway could send a strong signal to the EVSE market that public charging
+stations deployed in California must be capable of these types of functions.”8 However, by
+requiring compliance with an incomplete standard to participate in IOU TE programs, VGIC
+believes the Commission would instead send a signal that restricts, rather than accelerates VGI
+market development. TE deployment may be stalled as some EVSE manufacturers wait for the
+standard to be complete before developing products. Others may exit the California market in
+favor of a less restrictive marketplace. It is worth noting that VGIC does not believe
+communications protocols require regulatory intervention to advance the marketplace in a
+common direction. This contrasts with the situation the EV industry faced in recent years
+regarding physical form factors for charging devices, which benefited from more direct
+intervention.
+6 Draft TEF at 82.
+7 Draft TEF at 83.
+8 Draft TEF at 84.
+7
+
+VGIC members and supporters have encountered EVSE manufacturers that have delayed
+entrance into the California marketplace over concerns that the ISO 15118 standard will be
+required. For some, their business model, which may leverage pathways that render ISO 15118
+unnecessary, could be made infeasible because of the proposed requirement. Through this lens,
+the opportunity cost associated with a contraction in available EVSE suppliers could have a
+significant impact on competition in the space, which in turn impacts the ability to provide VGI
+solutions through the most innovative and cost-effective means. VGIC strongly urges the
+Commission remain open to the concerns of the broader VGI industry and the practical, ground-
+truthing perspectives that industry participants can provide.
+2. The current state of the VGI market
+The proposal to require ISO 15118 does not consider the level of appropriateness that one
+standard may provide for a given use case. There exists a wealth of resources, including
+California ratepayer-funded research and stakeholder reports, such as the recently filed VGI
+Working Group Final Report9, that supports the following hypothesis: California’s transportation
+and electric sector decarbonization goals require the implementation of a diverse set of VGI
+functionalities and use cases. The ISO 15118 standard is a communications protocol that can
+enable important VGI functions and use cases, but it does not constitute a functionality or a use
+case on its own. Furthermore, ISO 15118 is not necessarily the best fit for all VGI use cases
+across all customer segments and charging levels. If the Commission were to require ISO 15118
+functionality for all EVSE at this time, it will likely bypass opportunities to save customers
+money, reduce rates, support the grid, and/or reduce greenhouse gas (“GHG”) emissions that
+may be achieved with existing or emerging functionalities and communication protocols. Thus,
+9 See VGI WG Final Report, filed in R.18-12-006 on June 30, 2020 at 7. https://gridworks.org/wp-
+content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf
+8
+
+there is an opportunity cost of unknown scale associated with focusing on one communications
+protocol or standard rather than focusing on achieving specific VGI use cases some of which
+might be delivered through more than one protocol. Furthermore, by imposing a standard on all
+segments, use cases, and charging levels, regardless of which business model may work most
+cost-efficiently for each, the requirement for ISO 15118 compliance in all IOU EVSE would
+directly impede the implementation of SB 676, which calls for strategies that maximize the use
+of cost-effective VGI.
+The 2017 Staff VGI Communication Protocols Working Group Report determined that
+“markets, protocols, and technology are rapidly developing and at this time we do not want to
+preclude any protocols or use cases that can deliver VGI value.”10 These domains continue to
+evolve at a rapid pace, and requirements that unnecessarily stifle progress represent significant
+barriers to achieving TE, VGI, decarbonization, and economic growth goals.
+Furthermore, the Draft TEF states that the CEC has proposed a similar requirement for
+EVSE supported by the CALeVIP program beginning in 2021.11 However, CALeVIP funding is
+only available to publicly-accessible chargers, while the Draft TEF proposes IOU roles for
+applications other than publicly-accessible chargers.12 The Draft TEF further explains that a
+standard communication pathway is needed to “send a strong signal…that public charging
+stations deployed in California must be capable of these types of functions.”13 VGIC believes
+this further conflates publicly-accessible chargers with ratepayer-funded chargers. It is important
+to note that the Draft TEF Section 4 on IOU Roles does not propose limiting potential IOU
+10 VGI Communication Protocol Working Group Energy Division Staff Report, October 2018
+https://www.cpuc.ca.gov/WorkArea/DownloadAsset.aspx?id=6442460144 at 18.
+11 Draft TEF at 83.
+12 Draft TEF at 33-42.
+13 Draft TEF at 84.
+9
+
+EVSE to publicly-accessible charging stations. Therefore, VGIC does not believe that the desire
+to have standardization among publicly-accessible charging stations constitutes a reasonable
+justification for the proposed requirement that all IOU EVSE, regardless of use case, meet a
+particular standard.
+VGIC believes that the deployment of VGI-enabled EVs and EVSE should be generally
+encouraged, but cautions against over-prescriptive mandates. To avoid commoditization of
+devices, and allow innovation to continue, VGIC prefers minimum functionalities that enable
+EVSEs to facilitate some set of appropriate use cases. This preference was revealed by the
+Commission in its May 31, 2018 Decision on the Transportation Electrification Standard
+Review Projects (D. 18-05-040), which found “Networked L2” charging can enable VGI services
+and rates.14 Rather than mandating use of a specific standard, Ordering Paragraph (“OP”) 10 of
+D. 18-05-040 states:
+“SDG&E must conduct an ongoing Requests for Qualifications to qualify L2 EVSE and
+corresponding network services from which participating customers can choose. SDG&E
+should ensure all qualified L2 EVSE are networked, include metering capabilities, and
+are NRTL certified.”15
+This language directed the IOU to focus on minimum functionalities (i.e., networked, metering
+capabilities), rather than requiring the EVSE to meet a specific standard. VGIC urges the
+Commission to act in accordance with the precedent set in D. 18-05-040, by continuing to focus
+on generally ensuring minimum capabilities, rather than implementing a specific standard.
+VGIC recommends the Commission explore levers to promote VGI strategies through the TEF
+and beyond that are based on best practices in clean energy and transportation policy design.
+14 Decision on the Transportation Electrification Standard Review Projects (D.18-05-040) May 31, 2018 in
+Application of San Diego Gas & Electric Company (U 902E) for Approval of SB 350 Transportation Electrification
+Proposals (A.17-01-020) And Related Matters (A.17-01-021; A.17-01-022) at 137.
+15 Ibid at 154.
+10
+
+Programs aimed toward accomplishing identified outcomes by incentivizing the adoption and
+use of VGI functionalities and use cases, such as the 320 identified in the VGI Working Group
+Final Report as “able to provide value now”16, are likely to be far more effective levers than
+those requiring EVs and EVSE be compliant with specific standards.
+C. Section 8.1, Question 6: How can IOUs account for and/or project the scale of vehicle-
+to-grid enabled EVs in their service territories within their TEPs?
+VGIC posits that the scale of V2G-enabled EVs may not be the most valuable metric for
+IOU TEPs to track and project. It may be more valuable to understand the scale of V2G-enabled
+EVSE that exist in an IOU’s service territory, as EVs can only export power via compatible
+EVSE, and at or below the kW rating of that EVSE. IOUs can account for V2G Direct Current
+(“V2G DC”) EVSE by tracking interconnections under Rule 21. For V2G Alternating Current
+(“V2G AC”), there may exist several data collection pathways to account for future deployment;
+however, without a viable interconnection pathway it is unclear whether an EVSE capable of
+V2G AC can or should be tracked.
+VGIC also questions whether the scale of V2G-enabled systems is as relevant or valuable
+in IOU TEPs as the scale of V2G-enabled systems that actually discharge or otherwise
+participate in providing V2G functionality. For example, if V2G-enabled systems were widely
+deployed without adequate tariffs, programs, or market pathways by which to monetize V2G
+services, a measurement of V2G-enabled systems could provide a false indication of an IOU TE
+program’s success (or potential success) in encouraging beneficial V2G operations. Thus, VGIC
+recommends the Commission require TEPs track and project V2G participation rather than just
+16 See VGI WG Final Report, filed in R.18-12-006 on June 30, 2020 at 8. https://gridworks.org/wp-
+content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf
+11
+
+capability. One potential data collection pathway for tracking this V2G activity may be
+measuring customer participation in relevant V2G rates or programs, including any credits or
+incentive payments provided to customers. This is consistent with some of the VGI-specific
+metrics considered during the VGI Working Group.
+D. Section 8.1, Question 6(a): Without existing interconnection standards, how can
+vehicle-to-grid (V2G) technology be tested and scaled?
+V2G technology has been tested several times in California for technical feasibility,
+economic viability, and operational considerations.17 It is also important to note that there are
+existing interconnection standards relevant to V2G DC. As mentioned in the Draft TEF, the Rule
+21 Working Group 3 (R.17-07-007) achieved consensus that Rule 21 – as currently written –
+sufficiently addresses the V2G DC configuration wherein the inverter is placed inside the EVSE
+and remains stationary.18 Additionally, it is worth noting that some existing EV models with
+bidirectional capabilities (specifically the Nissan Leaf) have already been widely deployed at
+scale in California and could provide grid services through a V2G DC configuration in the very
+near term.
+Without modifications to the existing interconnection process required under Rule 21,
+VGIC does not foresee a pathway for V2G AC technology to reach scale. This is due to onerous
+requirements imposed by two separate, misaligned, and potentially opposing regulatory
+environments in the electricity and transportation sectors. Specifically, the present UL 1741
+standard required under Rule 21 is not designed for vehicles and is not practical to incorporate
+17 See, for example, Electric Vehicle Storage Accelerator (EVSA), Intelligent Electric Vehicle Integration
+(INVENT), Marine Corps Air Station (MCAS) Miramar V2G Microgrid
+18 Working Group Three Final Report June 14, 2019 in R. 17-07-007 at 61.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M309/K943/309943907.PDF
+12
+
+into typical vehicle manufacturing processes. Instead of third party certification, manufacturers
+rely on a robust process of self-certification to meet the requirements of the regulatory body that
+oversees automotive product safety outcomes – namely the National Highway Safety Traffic
+Administration (“NHTSA”). To be clear, the process of self-certification to NHTSA is not a
+form a “self-regulation” but rather, it reflects strict requirements imposed upon the manufacturer
+for safety performance and functionality (with severe risks and penalties if these are not met).
+Under a self-certification approach, the automotive industry is held accountable for meeting
+certain safety and performance outcomes even in conditions where no standards exist and third-
+party certification is not possible. Moreover, the NHTSA’s regulatory authority is not limited
+explicitly to driver and passenger safety and as such, its regulatory actions could extend into
+issues affecting grid safety and reliability. Thus, manufactures are already compelled to ensure
+their products will not jeopardize those issues. However, we recognize that additional clarity and
+certainty could aid in the process of gaining trust in the self-certification approach. As such,
+VGIC has identified several potential pathways that the Commission could pursue to resolve this
+issue while preserving the ability for OEMs to use self-certification. These pathways were
+outlined in VGIC’s January 6, 2020 comments in response to the V2G AC Subgroup Report and
+include:
+ A CPUC Validation Process
+ A Federal Validation Process
+ An IOU Uniform Data Request
+ Allowing UL 9741 as the Relevant Third-Party Standard
+13
+
+ Establishing OEMs as NRTLs19
+Several of these pathways contemplate a validated process by which OEMs continue to self-
+certify to an overseeing regulatory body. This largely builds upon the industry’s standard
+practices for testing, inspection, and compliance with health and safety standards at the existing
+regulatory body for the transportation sector (i.e. NHTSA), as detailed above.
+It is important to note the severity of risk for not meeting safety and functionality
+requirements currently imposed on OEMs. Any vehicle can be recalled for a retroactive design
+change or even removed from the market if there is an indication of a problem. Additionally,
+anyone can report product issues with NHTSA. Therefore, it is in the best interest of the OEMs
+to avoid safety performance issues, and they are inclined to operate within severe safety limits
+(including grid safety) to ensure the health and safety of their customers.
+Given the current NHTSA regulatory framework and the underlying risks and incentives
+for OEMs, requiring third-party certification for V2G AC configurations will likely create
+duplicative and potentially opposing or unworkable regulatory processes. As long as third-party
+certification is required for interconnection, it will serve as a barrier to scaling VGI.
+Some of VGIC’s recommended self-certification pathways rely upon SAE standards and
+testing protocols that are currently in the process of being updated. At the time that VGIC’s
+January 6, 2020 comments were written, it was anticipated that these updates to the SAE
+standards and protocols for V2G AC systems would be ready in the July 2020 timeframe and
+could help inform further development of appropriate V2G interconnection pathways. Due to
+19 Comments of the Vehicle-Grid Integration Council on Vehicle to Grid Alternating Current Interconnection
+Subgroup Report (January 6, 2020) in R. 18-12-006 at 5-7.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M328/K685/328685720.PDF
+14
+
+COVID-19, these updates have been delayed by approximately 2-3 months. VGIC intends to
+provide additional details to inform the Commission of the progress on these updates in its Reply
+Comments. However, even as these updates progress, VGIC believes there are steps that the
+Commission could be contemplating now to facilitate a viable path for V2G AC interconnection
+at scale. Specifically, upon completion of the relevant SAE standards, the Commission should
+host a workshop to revisit the gaps listed in the V2G AC subgroup report.
+There also exist bi-directional charging configurations that do not require interconnection
+standards, such as those capable of providing backup power to temporarily islanded customers.
+These can be scaled through the deployment of enabling technology and the development of
+necessary programs to allow customers to be intentionally islanded ahead of a PSPS event.20
+VGIC urges the Commission direct IOUs to implement solutions that enable bi-directional
+charging to mitigate the impacts of PSPS events.
+Additionally, scaling any bi-directional program, whether subject to interconnection
+standards or strictly occurring in situations where customers or segments of the grid are safely
+islanded, could provide incremental testing and IOU evaluation of bi-directional systems to
+deepen IOU understanding of the technology. VGIC believes IOU familiarity and experience
+with bi-directional systems can help build trust and comfort with the technology, which is
+needed to alleviate barriers to interconnection and widespread adoption of bi-directional systems.
+E. Section 8.2, Question 6(b): How should V2G EVs, which can serve power back onto
+the grid, be forecasted differently than load-only EVs in IOU planning processes
+20 See, for example, Connect California’s proposal for the use of smart meters for intentional islanding of customers
+in advance of a public safety power shutoff event to enable vehicle-to-home backup power solutions. See
+Administrative Law Judge’s Ruling Requesting Comments on Track 1 Microgrid and Resiliency Strategies Staff
+Proposal January 21, 2020 in R.19-09-009, Attachment A at 14.
+15
+
+VGIC recognizes and appreciates the challenging nature of this question and the
+implications V2G forecasting decisions are likely to have on IOU planning processes in the
+future. VGIC posits there are two resource classifications to consider:
+“Base case” EVs are load-only EVs with predictable charging profiles. These base case
+EVs should continue to be forecasted as modifications to load. Meanwhile, VGIC recommends
+that the VGI functionality of VGI-enabled EVs should be treated as a resource in IOU planning
+processes. More specifically, V1G resources – those shifting or modulating charging time, level,
+or location – can meet IOU needs that may result from their load forecasts, including needs
+stemming from any projected growth of base case EVs. This is analogous to treating Demand
+Response as a resource. Similarly, V2G resources – EVs capable of bi-directional power flow –
+closely resemble other bi-directional DERs, such as behind-the-meter energy storage, and can
+provide output to the grid at critical times. Therefore V2G should also be included as a resource
+(rather than a load modifier) in any forecast used to help determine IOU loads, resources, and
+resource needs.
+In addition, both pilots and scaled implementation of V2G systems are required to better
+understand customer behavior, including responsiveness to price signals or programs that incent
+V2G exports. VGIC recommends the Commission continue to authorize innovative V2G pilots
+and programs that contribute to stakeholders’ collective understanding of EV charging and
+discharging profiles from learned experience.
+F. Section 8.1, Recommendation 2: Require that EVSE funded through their TE
+programs contain networking capabilities and can implement ISO standard 15118 and
+other communication enabling requirements adopted by the CEC.
+16
+
+VGIC strongly opposes the proposed requirement for all IOU EVSE to implement
+specific communication standards. As detailed above in VGIC’s response to Question 5(a),
+requiring the implementation of a single protocol or combination of protocols at this time would
+pose a significant barrier to VGI market development and broader TE deployment. Different
+communication protocols enable different business models, and requiring a specific protocol or
+combination of protocols will limit the overall value of VGI to the state of California.
+VGIC strongly urges the Commission not to adopt Recommendation 2 and instead, direct
+IOUs to propose strategies and planned investments to promote VGI use cases and
+functionalities. These planned investments should incorporate marketing, education, and
+outreach efforts to generate customer demand for VGI services. Additionally, IOUs should
+propose a suite of up-front incentives, performance-based incentives, and other programs in their
+TEPs that would encourage the deployment of EVSE with VGI capabilities.
+G. Section 8.3, Question 5: Should the Rule 15/16 exemption that has been offered to
+residential customers for over ten years be made permanent, or should other revisions
+to the IOUs’ rules be made to help socialize the cost of upstream upgrades that may be
+triggered by new residential electric vehicle load?
+VGIC believes that a more targeted application of the Rule 15/16 exemption should be
+considered through the lens of historical and expected upgrade costs that are incurred due to
+“non-program” EV charging load and pursuant to the IOUs’ typical business practices. The
+three IOUs’ most recent EV Infrastructure Cost Report (formerly the Load Research Report)
+filed April 1, 2020 reports on the following 2019 upgrade costs across the three IOUs:
+17
+
+Table 1. Summary Stats for Selected 2019 EV Impact Costs ($)21
+Residential Non-Residential Total
+Total Distribution System Costs
+Incurred by Utility for Upgrades 41,119 1,354,578 1,395,697
+Total Service Line costs Incurred by
+Utility for Upgrades 90,933 2,579,652 2,670,584
+Total Utility side costs
+588,702 4,099,614 4,688,317
+Total Customer Costs
+8,013 491,565 499,578
+These data suggest that the annual upgrade cost burden of non-program EV upgrades is
+relatively modest, even before considering the offsetting impact of new EV charging revenue,
+and that the majority of upgrade costs occur for non-residential segments. These data of course
+reflect the early days of the market, in which most of the vehicle electrification to date has been
+centered around light-duty vehicles. We should anticipate that these figures will grow in
+lockstep with increased deployment, and especially once medium- and heavy-duty charging gets
+integrated into the system in earnest.
+VGIC thus believes it is prudent to extend the residential exemption for above-allowance
+distribution upgrades as a simple way to continue to reduce barriers to EV adoption in the near
+term. However, in anticipation of adoption ramping up over the next decade and across vehicle
+classes – and ideally as part of a holistic examination of how all customer segments can receive
+streamlined access to the provision of EV infrastructure – the Commission should begin to
+21 Compliance Filing of San Diego Gas & Electric Company (U 902 E), Southern California Edison Company (U
+338 E) and Pacific Gas and Electric Company (U 93 E) Pursuant to Ordering Paragraph 2 of Decision 16-06-011
+(EV Infrastructure Cost Report), filed April 1, 2020. Data compiled from Table 3 in Attachments 1, 2, and 3. Data
+assumptions and methodologies for these categories differed between IOUs, as described in pages 7-19. Note that
+change in methodologies and sectors for this report also renders difficult year-by-year comparisons with previous
+years’ Load Research Reports that solely focused on residential upgrade costs (e.g., PG&E description found in
+Section 4 of page 11).
+18
+
+consider the role of VGI in limiting the occurrence of ratepayer-funded upgrade costs in the first
+place. The potential for VGI solutions to limit the occurrence of upgrade costs is explored in the
+VGI Working Group Final Report, which describes 320 VGI use cases as “able to provide value
+by 2022”. Many of the use cases considered high-value focus specifically on distribution system
+upgrade deferral.22
+A straightforward mechanism to mitigate costly distribution system upgrades would be to
+offer customers tariff-based solutions that promote VGI capabilities, such as a tariff that enables
+customer choice of Automated Load Management technologies to ensure site capacity, as
+measured at the Point of Common Coupling, stays within certain limits and avoids the need to
+upgrade primary or secondary infrastructure. Such an offering would support the deployment and
+utilization of the flexible charging capabilities of EVs and networked EVSE and would mitigate
+the ratepayer impact of the state’s deployment of EV infrastructure.
+H. Section 8.4, General Comment:
+VGIC recommends the Commission convene a workshop to discuss the next steps for the
+Revised Strawman for EV Submetering Protocol, to ensure that the protocol practically enables
+the marketplace for third-party submetering technologies. Submetering provides the lowest-cost
+means to maximize customer choice of time-varying and dynamic rates for EV charging and
+enables a wide variety of configurations for flexible EV charging and discharging to provide
+services in different energy markets.
+22 See VGI WG Final Report, filed in R.18-12-006 on June 30, 2020 at 8. https://gridworks.org/wp-
+content/uploads/2020/07/VGI-Working-Group-Final-Report-6.30.20.pdf
+19
+
+A. Section 8.5, Recommendation 6: Consider requiring IOUs to consult with the CEC,
+Energy Division staff and other stakeholders to propose an emerging technology
+program scope and budget.
+VGIC strongly supports this recommendation. Well-coordinated support for emerging TE
+and VGI technologies is needed to further develop the pipeline of technologies that will lead the
+way to California’s decarbonized energy and transportation future. The standardized pilot
+program approach VGIC proposed in Section II of these comments should be considered as one
+component of an overarching emerging technologies program scope.
+IV. SUMMARY OF RECOMMENDATIONS.
+In responding to the questions above, VGIC proposes several recommendations, which can be
+summarized as follows:
+Section 7
+ Based on existing IOU labs and lessons learned from CEC solicitations, a
+standardized pilot program should be implemented to test pre-commercial
+technologies for basic safety and reliability considerations. VGIC proposes a
+balanced approach that could meet the needs of IOUs and industry participants
+alike while maintaining progress toward statewide TE goals.
+Section 8
+ VGIC supports the notion of encouraging IOU EVSE investments to include
+some form of VGI functionality to maximize the value of these assets. However,
+VGIC cautions against making this a requirement for IOU EVSE deployments
+absent a clear definition of “VGI-enabled.”
+ The requirement for all IOU EVSE to implement a specific communication
+standard should not be adopted. Implementing such a mandate would incur
+opportunity costs of an unknown scale as it effectively bypasses opportunities to
+20
+
+save customers money, reduce rates, support the grid, and/or reduce GHG
+emissions. VGIC instead recommends levers to incentivize the adoption and use
+of VGI functionalities and use cases, rather than pursue compliance with specific
+standards.
+ V2G activity could be accounted for and/or projected within TEPs by tracking
+interconnected V2G-compatible EVSE and measuring customer participation in
+V2G incentives, rates, and/or programs.
+ “Base case” EVs should be forecasted as load, while V1G and V2G resources
+should be treated as available resource options within IOU planning processes.
+For V2G resources, this aligns with current best practices for behind-the-meter
+stationary energy storage.
+ While V2G DC systems can currently interconnect under Rule 21, the
+Commission should reconvene the V2G AC subgroup upon standard development
+organizations’ completion/revision of the relevant standards.
+ Bi-directional charging configurations that do not require interconnection, such as
+those intended to provide backup power to temporarily islanded customers,
+should be pursued.
+ A targeted application of the Rule 15/16 exemption should be considered to
+capture the flexibility VGI strategies can offer. VGIC recommends the adoption
+of a straightforward mechanism to mitigate costly distribution system upgrades,
+for example through an Advanced Load Management tariff that enables customer
+choice.
+ The Commission should convene a workshop to discuss the next steps for the
+Revised Strawman for EV Submetering Protocol to ensure that the protocol
+adequately enables a marketplace third-party submetering technologies, which
+can lower cost, increase customer choice, and lift existing barriers to VGI
+strategies.
+ VGIC supports the recommendation for a well-coordinated emerging technology
+program scope and budget and recommends additional coordination with VGIC’s
+Section 7 recommendation for a standardized pilot program.
+21
+
+V. CONCLUSION.
+VGIC appreciates the opportunity to submit these opening comments on the Safety,
+Technology, and Standards sections of the Draft TEF. We look forward to further collaboration
+with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+Edward Burgess
+Policy Director
+VEHICLE-GRID INTEGRATION COUNCIL
+2150 Allston Way, Suite 400
+Berkeley, California 94704
+Telephone: (941) 266-0017
+Email: eburgess@vgicouncil.org
+Date: July 14, 2020
+22

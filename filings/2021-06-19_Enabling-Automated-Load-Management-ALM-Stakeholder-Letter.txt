@@ -1,0 +1,226 @@
+June 16, 2021
+To California Public Utilities Commission: Commissioner Rechtschaffen, Advisor Yuliya
+Shmidt, Deputy Executive Director Edward Randolph, and Energy Division Transportation
+Electrification staff
+From: Advanced Energy Economy, AMPLY Power, Inc., California Energy Storage Alliance
+(CESA), Enel X North America, Inc., Greenlots, Mobility House, Nuvve, Powerflex-EDF
+Renewables, Siemens, Vehicle-Grid Integration Council (VGIC), and Veloce Energy
+(collectively, ‘VGI Stakeholders’)
+RE: Enabling Automated Load Management (ALM)
+We are writing on behalf of a broad coalition of EV manufacturers and service providers
+(collectively, ‘VGI Stakeholders’) to underscore the importance of deploying commercially
+available Automated Load Management (ALM)1 solutions in conjunction with the deployment of
+EV charging infrastructure. ALM can provide substantial ratepayer benefits by mitigating certain
+customer-side and utility-side infrastructure costs related to transportation electrification. In
+recognition of the growing concern around rate and cost pressures outlined during the February
+En Banc on Energy Rates and Costs, we note that available evidence suggests that utility
+transportation electrification investments have the potential to drive electric rates down.2 Thus,
+while it would be inappropriate to scale back utility EV infrastructure investment, which would
+also hamper California’s electrification goals, it is also important to stand up solutions that can
+help empower customers to manage load and related infrastructure costs going forward, enabling
+deeper benefits for all ratepayers – especially as AB 841 (Ting, 2020) is implemented. Under these
+new rules, California ratepayers are poised to spend hundreds of millions of dollars on new EV
+infrastructure, without much time for the Commission to consider options for managing these
+costs. We believe ALM is a critical solution in this regard and could be broadly integrated into
+future EV infrastructure deployment, whether deployed through TE programs or even outside of
+TE programs (i.e., via AB 841). However, this must be done thoughtfully so that it does not present
+an added cost or burden to potential EV customers, and instead provides an added benefit.
+Regarding the use of ALM in TE programs, ALM was a central part of the December VGI
+decision to implement SB 676 (Decision 20-12-029), but there is growing recognition among the
+VGI Stakeholders that more needs to be done to facilitate the full range of ALM capabilities. At
+present, this full range of ALM capabilities – including both Type 1 ALM and Type 2 ALM
+applications -- is not being adequately promoted in utility TE efforts. For clarification, “Type 1”
+ALM refers to the use of load management for participation in demand response or TOU rates,
+while “Type 2” ALM refers to load management used to avoid additional distribution system
+upgrades. Type 2 ALM is accomplished by using ALM solutions to safely connect multiple
+charging ports whose total nameplate load would otherwise exceed the rated capacity of the
+1 ALM (for EV charging) can be broadly defined as “a system designed to manage charging capacity strategically
+among multiple electric vehicle supply equipment.”
+2 https://www.synapse-energy.com/sites/default/files/EV_Impacts_June_2020_18- 122.pdf
+1
+
+customer connection. This in turn can avoid the need to upgrade an existing customer site with a
+new service connection, customer-side panel upgrade, or utility-side distribution system upgrade.
+While the IOUs have implemented some Type 1 ALM applications, they have not all fully
+embraced Type 2 ALM.3 This may be in part due to a lack of clear financial incentives or guidance
+to consider Type 2 ALM within the scope of TE program or tariff design.
+On the other hand, we are also concerned that this lack of emphasis on certain ALM
+solutions may lead the Commission to implement AB 841 using heavy-handed measures. These
+might include a substantially increased customer cost responsibility for distribution upgrades that
+amounts to a de facto ALM requirement. Even if this is pursued in the spirit of managing overall
+infrastructure costs and benefiting ratepayers, it may not be sensible for all EV customers and
+could be counterproductive to broader transportation electrification goals. As such, we would like
+to propose a solution that is a "carrot" rather than a "stick" to encourage and incentivize
+ALM as an option for managing distribution system costs where it is cost-effective to do so
+and where customers have that flexibility and choose to pursue these measures.
+This would be akin to the approach California has taken for decades towards utility energy
+efficiency programs whereby incentives are offered to customers who voluntarily purchase more
+efficient appliances. This approach has the added benefit of potentially encouraging more EV
+adoption by maximizing the number of chargers on an existing service connection and lowering
+the total cost of ownership for EVs and charging site hosts. To resolve this, we respectfully request
+an additional stakeholder process be initiated to work through what an ALM incentive and program
+design could look like, and encourage the Commission to consider initiating this in its direction
+on AB 841 implementation. Additionally, as a threshold matter, we are seeking to answer a
+fundamental question: what is needed from a technical perspective for the IOUs to facilitate ALM
+solutions that can ensure safety for Type 2 applications?
+We look forward to working with the Commission on constructive solutions to these issues.
+Below we have also provided some more detailed background information and further discussion
+of key ALM matters for your consideration.
+Background
+Consideration of ALM as a discrete topic in the DRIVE OIR (R.18-12-006) began during
+comments on the Draft TEF when parties recommended an existing or new tariff be offered to
+3 In PG&E’s January 29, 2021 ALM/EV EMS Workshop, Panel 2 Presentation, PG&E indicates that they have
+deployed Type 2 ALM at 20 MUD and workplace host sites as of Q4 2020. PG&E saved $30,000 to $200,000 per
+project by implementing ALM with three different EV service providers at these 20 sites. In Reply to The Vehicle-
+Grid Integration Council’s Protest to Southern California Edison Company’s Advice 4439-E, SCE indicates “this is
+not to suggest, however, that customers cannot select a Type 2 ALM solution…SCE is open to other ALM options
+provided that they fit the circumstance (i.e., there has to be a need to upgrade the utility infrastructure systems) and
+are requested by customers.” SDG&E has not provided such indication for their TE programs. Based on our
+knowledge, none of the IOUs have indicated they will allow Type 2 ALM under their distribution system planning
+practices for customers that are not participating in a TE program.
+2
+
+enable customers to elect certified BTM ALM technologies (e.g., UL-certified and NEC-
+approved) that could avoid the need for upgrades to the primary and secondary distribution system
+and on-site electrical equipment.4 At the time, it was unclear based on the past experiences of
+customers and business whether existing utility planning processes and load assessment rules
+would allow a customer to elect certified load management technologies to avoid triggering
+upgrades to the primary and secondary distribution system and on-site electrical equipment.
+VGI Stakeholders were pleased to see a focus on ALM strategies within the SB 676
+Implementation and VGI Strategies Decision (D.20-12-029). We also commend the leadership of
+the Energy Division staff in planning and facilitating the ALM workshop held on January 29th,
+2021. However, there is growing concern among VGI Stakeholders that certain key elements of
+ALM have been lost as the focus has shifted toward program implementation. VGI Stakeholders
+commend Pacific Gas & Electric (PG&E) for its leadership on Type 2 ALM within the EV Charge
+Network program, which utilized ALM solutions at 20 MUD and workplace host sites as of Q4
+2020. PG&E saved $30,000 to $200,000 per project by implementing ALM with three different
+EV service providers at these 20 sites.5 However, to our knowledge, neither Southern California
+Edison (SCE) or San Diego Gas & Electric (SDG&E) have indicated whether customers may elect
+Type 2 ALM under current or upcoming TE programs, and none of the IOUs have explicitly stated
+that customers installing EVSE outside of TE programs may elect a Type 2 ALM solution.
+Aligning on ALM “Type” Terms and Definitions
+To ensure the policy and regulatory framework can enable the current state of
+commercially available technology, it is important for the Commission and stakeholders to align
+on key ALM definitions. Potential definitions of ALM were discussed in the lead-up to, and
+during, the January 29, 2021 ALM workshop, but the Commission has not yet proposed a final
+operational definition. Many signatories to this letter support defining ALM (for EV charging) as
+“a system designed to manage charging capacity strategically among multiple electric vehicle
+supply equipment.”
+ALM can be utilized for different use cases, or to capture different value streams. Notably,
+SCE has detailed a distinction between “Type 1” and “Type 2” ALM, explaining that Type 1 ALM
+relates to load management at an EV supply equipment (EVSE) site where there is no constraint
+to service (i.e., maximum connected EVSE load does not exceed site capacity).6 This is
+implemented throughout California today as a strategy for customers to manage their utility bills
+in response to Time-of-Use rates, for example. SCE defines Type 2 ALM as “energy management
+systems in which the connected load exceeds capacity, and the failure of such ALM would lead to
+4 Comments of Enel X North America, Inc. and Nuvve Corporation on Draft Transportation Electrification
+Framework Pertaining to Safety, Technology, and Standards filed in R.18-12-006 on July 14, 2020.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M344/K033/344033089.PDF
+5 Other than those participating in PG&E’s EVCN Program. See PG&E’s Presentation during January 29, 2021
+ALM/EV EMS Workshop, Panel 2.
+6 SCE, Presentation on Transportation Electrification, Charging Infrastructure Programs, Energy Management
+Systems, presented at EPRI IWC on March 20, 2019. See also Reply to The Vehicle-Grid Integration Council’s
+Protest to Southern California Edison Company’s Advice 4439-E. April 8, 2021. Page 2.
+3
+
+an unsafe condition.”7 SCE notes that “Type 2 ALM could have a potential for significant cost
+reduction and avoidance of major construction or upgrades by utilizing the existing capacity to the
+largest extent.”8
+VGI Stakeholders supports this key distinction between situations in which the maximum
+connected load is less than site capacity (Type 1 ALM) and situations in which the maximum
+connected load exceeds site capacity (Type 2 ALM). In seeking clarity and considering
+recommendations for strategies to promote Type 2 ALM, additional definitions of ALM
+“subtypes” may be necessary to capture the differences between when the maximum connected
+load exceeds service capacity versus customer electric panel size. Type 2A ALM should be used
+to describe situations in which maximum connected load exceeds site capacity, and customers
+have an inherent incentive to use load management to save on customer-side costs (e.g., panel
+upgrades). To our knowledge, this is done today at several sites in California to save customers
+costs on panel upgrades. Meanwhile, Type 2B ALM should be used to describe situations in which
+maximum connected load exceeds site capacity, and the use of load management is incentivized
+as a means to reduce utility-side costs (e.g., service drop or transformer upgrades). PG&E has
+reported on their efforts to implement Type 2B ALM in EV Charge Network. However, regardless
+of whether customers are allowed to elect these solutions under current TE program rules or utility
+distribution planning processes, customers currently have no incentive to pursue Type 2B
+ALM (except for a limited number of EV Charge Network customers9). This may persist as a
+significant barrier to realizing California’s transportation electrification goals, ability to maximize
+VGI according to SB 676 (Bradford, 2019), and ensure TE investments are in the best interests of
+ratepayers as defined in P.U. Code §740.8 (and consistent with §451).
+Cost Responsibility: AB 841 and ALM Incentives
+The matter of whether there is any incentive for customers to mitigate distribution-side
+costs appears to be up in the air pending implementation of AB 841 and disposition/resolution on
+the associated EV Infrastructure Rule 29/45 tariffs. To clarify, AB 841 implementation should
+proceed without delay. The proposed EV Infrastructure Rules 29/45 will accelerate EVSE
+deployment, helping to overcome a critical barrier to broader EV adoption. We struggle to see a
+clear pathway to address California’s 62,000 charger gap by 2025 – and 1.5 million charger gap
+by 2030 – without the timely approval of the proposed EV Infrastructure Rules 29/45.10
+However, given the changing cost responsibility paradigm directed by AB 841, the
+opportunity to increase ratepayer benefits by mitigating the transportation electrification-related
+distribution upgrade costs remains clear. We believe enabling customers to elect an ALM solution
+can be one key measure to help benefit ratepayers. As such, investor-owned utilities could be
+7 Ibid.
+8 Ibid.
+9 Other than those participating in PG&E’s EVCN Program. See PG&E’s Presentation during January 29, 2021
+ALM/EV EMS Workshop, Panel 2.
+10 Assembly Bill 2127 Electric Vehicle Charging Infrastructure Assessment: Analyzing Charging Needs to Support
+Zero-Emission Vehicles in 2030. California Energy Commission, Staff Report. January 2021. Page iii.
+https://efiling.energy.ca.gov/getdocument.aspx?tn=238032
+4
+
+directed to update their EV Infrastructure Rules 29/45 in the near term to promote a pathway for
+Type 2B ALM. In recognition of this dynamic and the remaining stakeholder work needed to
+design an ALM incentive, we would recommend that any next steps that may be taken by the
+Commission to promote ALM be explicitly linked to Type 2B ALM and consider how it can be
+promoted through the EV Infrastructure Rules 29/45 or a related tariff or program. This explicit
+call-out would provide clarity, align stakeholders around a common definition, and set
+expectations for the scope of the relevant workshop, ruling, or another relevant policy forum.
+Eligible ALM Solutions
+Regarding which solutions may be eligible to provide Type 2B ALM, the VGI Decision
+describes ALM as “software-based technology.”11 We believe that a range of BTM interfaces
+should be eligible as Type 2B ALM solutions. We encourage the Commission to remain
+technology-agnostic on exactly what customer-side solution is used and shift eligibility criteria to
+center on the ability of a given solution to ensure safety when the maximum connected load
+exceeds site capacity. For example, BTM stationary energy storage that is co-located with EVSE
+should be considered as an eligible ALM solution to ensure safety when the maximum connected
+load exceeds site capacity.
+Key Next Steps
+We appreciate the Commission’s continued efforts in considering ALM. Type 2B ALM
+can simultaneously accelerate EV adoption and benefit ratepayers. As a next step, VGI
+Stakeholders encourage the Commission to convene a stakeholder workshop to consider proposals
+for how to promote Type 2B ALM. A shared savings incentive mechanism may provide a valuable
+starting point to promote technology adoption and mitigate ratepayer costs, while still promoting
+cost recovery for investor-owned utilities per AB 841. We would encourage a workshop report
+from the January 29, 2021 ALM workshop be entered into the record of DRIVE OIR, and for the
+Commission to provide an opportunity for parties to submit comments. In addition, we reiterate
+our belief that the proposed EV Infrastructure Rules 29/45 should be approved without delay, and
+encouragement to the Commission to direct the IOUs to revise the tariffs within 6 months to
+incorporate the recommendations from the above-mentioned workshop report and subsequent
+party comments.
+The VGI Stakeholders appreciate the Commission’s efforts to promote ALM as a VGI
+strategy and respectfully submit this letter. We look forward to the opportunity to further
+collaborate with the Commission and other stakeholders on this initiative.
+Signed,
+11 Decision Concerning Implementation of Senate Bill 676 and Vehicle-Grid Integration Strategies. D.20-12-029
+issued in R.18-12-006 on December 21, 2020. Page 26.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M355/K794/355794454.PDF
+5
+
+The following VGI Stakeholders:
+Noah Garcia Heidi Sickler
+Policy Principal Director of Policy
+Advanced Energy Economy AMPLY Power, Inc.
+Jin Noh Marc Monbouquette
+Policy Director Regulatory Affairs Manager
+California Energy Storage Alliance (CESA) Enel X North America, Inc.
+Erick Karlen Gregor Hintler
+Sr. Advisory, Policy & Market Development Managing Director USA
+Greenlots The Mobility House
+Jackie Piero Jon Hart
+VP of Policy Virtual Power Plant Manager
+Nuvve Powerflex, EDF Renewables
+Chris King Ed Burgess
+SVP-eMobility Policy Director
+Siemens Vehicle-Grid Integration Council (VGIC)
+Bonnie Datta
+Advisor, Policy & Regulatory Affairs
+Veloce Energy
+6

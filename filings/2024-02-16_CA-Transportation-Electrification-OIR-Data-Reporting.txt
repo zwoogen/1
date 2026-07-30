@@ -1,0 +1,136 @@
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking
+Regarding Transportation Rulemaking 23-12-008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING REQUESTING COMMENT ON THE
+JOINT INVESTOR-OWNED UTILITIES DATA ASSESSMENTS PURSUANT TO
+DECISION 22-11-040
+Zach Woogen
+Senior Policy Manager
+Albert Tapia
+Policy Analyst
+VEHICLE-GRID INTEGRATION COUNCIL
+10265 Rockingham Dr.
+Suite#100-4061
+Sacramento, California 95827
+Telephone: (510) 665-7811
+Email: vgicregulatory@vgicouncil.org
+February 16, 2024
+
+BEFORE THE PUBLIC UTILITIES COMMISSION
+OF THE STATE OF CALIFORNIA
+Order Instituting Rulemaking
+Regarding Transportation Rulemaking 23-12-008
+Electrification Policy and (Filed December 14, 2023)
+Infrastructure.
+REPLY COMMENTS OF THE VEHICLE-GRID INTEGRATION COUNCIL ON THE
+ADMINISTRATIVE LAW JUDGE’S RULING REQUESTING COMMENT ON THE
+JOINT INVESTOR-OWNED UTILITIES DATA ASSESSMENTS PURSUANT TO
+DECISION 22-11-040
+In accordance with the Rules of Practice and Procedure of the California Public Utilities
+Commission (“Commission”), the Vehicle-Grid Integration Council (“VGIC”) hereby submits
+these reply comments on the Administrative Law Judge’s Ruling Requesting Comment on the Joint
+Investor-Owned Utilities Data Assessments Pursuant to Decision 22-11-040 (“Ruling”), issued by
+Administrative Law Judge (“ALJ”) on December 27, 2023.
+I. INTRODUCTION
+VGIC commends the Commission for issuing the ruling seeking comments from parties on
+the Joint Investor-Owned Utilities’ (“IOUs”) Data Assessment proposal.1 Decision (“D”) 22-11-
+040 adopted a Data Assessment structure that would capture all of the Joint IOUs’ transportation
+electrification (“TE”) data. In D.22-11-040, the Commission also determined that the objective of
+the Data Assessment is to streamline existing reporting requirements, minimize unnecessary or
+1 SDG&E Formal Proposal to CPUC on TE Reporting Requirement Streamlining. December 27, 2023.
+Attachment 1.
+1
+
+duplicative reports, and inform Funding Cycle 1.2 Although VGIC did not submit opening
+comments February 2nd, 2024 related to TE data reporting requirements, we offer several
+recommendations in these reply comments, summarized below:
+• VGIC opposes IOUs' proposal to "move [VGI reporting] away from numerous, detailed
+questions towards fewer, broader questions," as it strays too far from D.20-12-029 and
+subsequent decisions.
+• VGIC opposes eliminating the “VGI Stocktake,” as it is a valuable tool to inform VGI
+initiative/portfolio development.
+• VGIC generally supports Cal Advocates’ recommendation to require the IOUs to send their
+TE quarterly reports to all TE proceedings service lists and present the data at quarterly
+PAC meetings.
+II. VGIC OPPOSES IOUS' PROPOSAL TO "MOVE [VGI REPORTING] AWAY
+FROM NUMEROUS, DETAILED QUESTIONS TOWARDS FEWER, BROADER
+QUESTIONS," AS IT STRAYS TOO FAR FROM D.20-12-029 AND SUBSEQUENT
+DECISIONS.
+VGIC opposes the IOUs' proposed recommendation related to the VGI Report to “remove
+redundant and unnecessary information by moving away from numerous, detailed questions
+towards fewer, broader questions.”3 The intent of D.20-12-029 is to collect data on IOUs' VGI
+initiatives and the resulting "amount" of VGI, which could include specific measurements on
+customer enrollment, megawatt load reduction, deployment of automated load management
+(“ALM”)/vehicle-to-everything (“V2X”) technologies, and other quantitative answers to "detailed
+2 CPUC D.22-11-040, Decision on Transportation Electrification Policy and Investment. November 17,
+2022. Pg. 194.
+See: https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M499/K005/499005805.PDF
+3 SDG&E Formal Proposal to CPUC on TE Reporting Requirement Streamlining. December 27, 2023.
+Attachment 1. Page 2.
+2
+
+questions."4 In their proposal, the IOUs offer no justification for why their reporting should move
+away from numerous, detailed questions toward fewer, broader questions. VGIC urges the
+Commission to retain the requirement for IOUs to answer "numerous, detailed questions."
+Regarding exactly which "detailed questions" IOUs are required to answer, VGIC recommends
+the IOUs propose specific changes they would like to see to the list of questions and that
+stakeholders have an opportunity to work collaboratively to modify these questions. VGIC
+believes the Commission should not rule generally on whether VGI reporting should be
+"numerous, detailed questions" or "fewer, broader questions," but instead on precisely which
+questions ordered in D.20-12-029 should be retained, modified, or eliminated. As such, VGIC
+reiterates its recommendation that IOUs propose more precise questions that should be retained,
+modified, or eliminated, at which point parties can respond to the IOUs' proposal.
+III. VGIC OPPOSES ELIMINATING THE “VGI STOCKTAKE,” AS IT IS A
+VALUABLE TOOL TO INFORM VGI INITIATIVE/PORTFOLIO
+DEVELOPMENT.
+The annual VGI Stocktake update required by D.20-12-029 is intended to promote general
+awareness of VGI programs, rates, and pilots in order to inform development of each IOUs’ VGI
+initiatives. Specifically, the VGI Stocktake helps to ensure utility pilots are not duplicative of
+existing pilots or “re-piloting” technology that has already been proven, including in commercial
+settings. On the other hand, the VGI Stocktake serves as a repository of information that can reveal
+gaps in programs or pilots, thereby providing a key input into the ideation of new VGI programs,
+4 CPUC D.20-12-029, Decision Concerning Implementation of Senate Bill 676 and Vehicle-Grid
+Integration Strategies. “Energy Division staff may order the large electrical corporations to present the
+results of their annual reports at a workshop open to all interested stakeholders.”.
+See: https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M355/K794/355794454.PDF
+3
+
+rates, pilots, or related initiatives. As such, VGIC recommends the IOUs continue annually
+updating the VGI Stocktake.
+IV. VGIC GENERALLY SUPPORTS CAL ADVOCATES’ RECOMMENDATION TO
+REQUIRE TE QUARTERLY REPORTS BE SENT TO ALL TE PROCEEDINGS
+SERVICE LISTS AND PRESENT THE DATA AT QUARTERLY PAC
+MEETINGS.
+In opening comments, Cal Advocates recommends the Commission require the IOUs to
+send a public version of their TE quarterly reports to all TE proceedings service lists.5 Furthermore,
+Cal Advocates recommends that “each of the IOUs present the data in the public version of the TE
+quarterly reports…at the current quarterly [PAC] meetings.”6 Cal Advocates further recommends
+that “the TE quarterly reports include, for each program, data on how much money has been spent
+to date since the program started and how much funding remains unspent to date.”
+VGIC supports Cal Advocates’ recommendations to require the IOUs to send TE quarterly
+reports to all TE proceedings service lists and present the data at future IOU quarterly PAC
+meetings. VGIC believes Cal Advocates' recommendations align with the Data Collection and
+Reporting sections of D.20-12-0297 and D.22-11-040, which deemed the structure “a reasonable
+methodology to inventory all IOU TE data and ensure funds are properly spent.”8
+5 Cal Advocates Opening Comments at 5.
+6 Cal Advocates Opening Comments at 5.
+7 CPUC D.20-12-029, Decision Concerning Implementation of Senate Bill 676 and Vehicle-Grid
+Integration Strategies. “Energy Division staff may order the large electrical corporations to present the
+results of their annual reports at a workshop open to all interested stakeholders.” Pg. 60-61.
+8 D.22-11-040 at 194.
+4
+
+V. CONCLUSION.
+VGIC appreciates the opportunity to provide these reply comments in this proceeding. We
+look forward to further collaboration with the Commission and stakeholders on this initiative.
+Respectfully submitted,
+/s/ Zach Woogen
+Zach Woogen
+Senior Policy Manager
+VEHICLE-GRID INTEGRATION COUNCIL
+Date: February 16, 2024
+5

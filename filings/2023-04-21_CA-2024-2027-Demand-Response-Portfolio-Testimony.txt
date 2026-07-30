@@ -1,0 +1,861 @@
+Docket No.: A.22-05-002, A.22-05-003, A.22-05-004 (Consolidated)
+Exhibit No.:
+Date: April 21, 2023
+Witness: Ed Burgess
+TESTIMONY OF ED BURGESS
+ON BEHALF OF THE VEHICLE-GRID INTEGRATION COUNCIL
+
+Table of Contents
+Contents
+I. INTRODUCTION ...................................................................................................................................................... 1
+II. GENERAL OVERVIEW OF THE GRID BENEFITS OF VGI ............................................................................................ 4
+III. VGIC’S REVIEW OF THE IOUs’ PROPOSALS FOR ELRP AND RELATED RECOMMENDATIONS. .......................... 11
+IV. EXPANDING EV PARTICIPATION IN DR PROGRAMS ......................................................................................... 23
+V. SUMMARY OF RECOMMENDATIONS AND CONCLUSION .................................................................................... 31
+Appendix A: .................................................................................................................................................................... 1
+
+1 I. INTRODUCTION
+2 Q. Please state your name, title, and business address.
+3 A. My name is Ed Burgess. I am a Senior Director at Strategen Consulting and the Senior
+4 Policy Director for the Vehicle-Grid Integration Council (“VGIC”). My business address
+5 is 10265 Rockingham Drive, Suite #100-4061, Sacramento, California 95827.
+6 Q. On whose behalf are you testifying?
+7 A. I am testifying on behalf of the Vehicle Grid-Integration Council.
+8 Q. What is VGIC?
+9 A. VGIC is a 501(c)6 membership-based trade association committed to advancing the role
+10 of electric vehicles (“EV”) and vehicle-grid integration (“VGI”) through policy
+11 development, education, outreach, and research. VGIC supports the transition to
+12 decarbonized transportation and power sectors by ensuring the value from flexible EV
+13 charging and discharging is unlocked to achieve a more reliable, affordable, and efficient
+14 electric grid.
+15 Q. Who are VGIC’s current members?
+16 A. VGIC’s members represent a broad range of transportation electrification industry
+17 leaders, including American Honda Motor Co., Inc., Enel X North America, Inc.,
+18 Fermata Energy, Ford Motor Company, General Motors, Nissan Group of North
+19 America, Nuvve Holding Corporation, Stellantis N.V., Toyota Motor North America,
+20 BorgWarner, bp pulse, Customized Energy Solutions, dcbel, FlexCharging, FLO EV
+21 Charging, FreeWire Technologies, Inc., GridWiz, Innovation Core SEI, IoTecha, Kaluza,
+1
+
+1 Kitu Systems, NineDot Energy, Peak Power, Qcells, Sunrun, The Mobility House,
+2 Utilidata, Veloce Energy, Inc., Wallbox USA Inc., WeaveGrid, Hoosier Energy, and
+3 Sacramento Municipal Utility District.1
+4 Q. Please summarize your professional background and qualifications.
+5 A. I am a partner within Strategen’s consulting practice where one of my primary
+6 responsibilities is managing the VGIC, which is one of Strategen’s primary clients. In
+7 addition to VGIC, I oversee much of the firm’s practice for governmental clients, non-
+8 governmental organizations, and trade associations. Strategen’s team is globally
+9 recognized for its expertise in the electric power sector on issues relating to resource
+10 planning, renewable energy, energy storage, EVs, utility rate design and program design,
+11 and utility business models and strategy. During my time at Strategen, I have managed or
+12 supported projects for numerous client engagements related to these issues. Before
+13 joining Strategen in 2015, I worked as an independent consultant in Arizona for several
+14 years and regularly appeared before the Arizona Corporation Commission. I also worked
+15 for Arizona State University where I helped launch their Utility of the Future initiative as
+16 well as the Energy Policy Innovation Council. I have a Professional Science Master’s
+17 degree in Solar Energy Engineering and Commercialization from Arizona State
+18 University as well as a Master of Science in Sustainability, also from Arizona State. I
+19 also have a Bachelor of Arts degree in Chemistry from Princeton University.
+1 The opinions expressed in this testimony reflect those of VGIC, and do not necessarily reflect the views of all of
+the individual VGIC member companies.
+2
+
+1 Q. Have you ever testified before the California Public Utilities Commission, or any
+2 other state regulatory body?
+3 A. Yes. I testified before the California Public Utilities Commission in Application (“A.”)
+4 19-08-002 and A.20-08-002 both of which pertain to PacifiCorp’s 2020 and 2021 Energy
+5 Cost Adjustment Clause, as well as Rulemaking (“R.”) 20-11-003 on Emergency
+6 Reliability, A.21-10-010 related to Pacific Gas and Electric Company’s (“PG&E”)
+7 Electric Vehicle Charge 2 proposal, A.20-10-011 related to PG&E’s Commercial EV
+8 Rate, and A.21-12-006/008 related to San Diego Gas & Electric Company’s (“SDG&E”)
+9 Real Time Pricing and EV Export Compensation pilots. I have also provided expert
+10 testimony before the Massachusetts Department of Public Utilities, the South Carolina
+11 Public Service Commission, the Indiana Utility Regulatory Commission, the Nevada
+12 Public Utilities Commission, the Oregon Public Utilities Commission, and the
+13 Washington Utilities and Transportation Commission.
+14 Q. What is the purpose of your testimony?
+15 A. The purpose of my testimony is to provide VGIC’s review of PG&E, SCE, and
+16 SDG&E’s 2023-2027 Demand Response Program Applications. In particular, I focus on
+17 the role that EVs can play as a demand response (“DR”) resource through the existing
+18 Emergency Load Reduction Program (“ELRP”) (especially via the A.5 customer
+19 subgroup) as well as other novel approaches to supporting EVs as DR resources. I
+20 provide a critique of some of the investor-owned utilities’ (“IOUs”) proposed changes to
+21 the ELRP A.5 subgroup and offer some recommendations to improve participation going
+22 forward. I also provide recommendations for increasing participation from EVs in DR
+3
+
+1 programs via telematics. I begin with a brief general overview of the grid benefits of
+2 VGI.
+3 II. GENERAL OVERVIEW OF THE GRID BENEFITS OF VGI
+4 Q. Can you define some of the key terms related to using EVs as grid resources?
+5 A. Yes. The term vehicle-grid integration (“VGI”) encompasses the suite of approaches the
+6 leverage flexible EV charging and discharging to provide benefits to customers or the
+7 grid. Flexible unidirectional “V1G” charging, often called smart charging or managed
+8 charging, describes the shifting or modulating of charging load, especially to align with
+9 times of lower-cost or cleaner electricity generation, transmission, or distribution.
+10 Bidirectional vehicle-to-everything (“V2X”) charging describes discharging energy from
+11 the vehicle battery. This could be for a non-exporting use case like backup power or
+12 demand charge management, referred to as vehicle-to-home (“V2H”) or vehicle-to-
+13 building (“V2B”). This could also be for an exporting use case, considered vehicle-to-
+14 grid (“V2G”). Lastly, EV charging can be co-located with other types of distributed
+15 energy resources (“DERs”) to provide benefits to the local distribution system, bulk
+16 power system, and customer. These storage-backed charging solutions are in use today at
+17 many DCFC sites.2
+18 Q. Do you think EVs and EV Supply Equipment (“EVSE”) could provide a meaningful
+19 contribution, in MW terms, to grid reliability through 2027?
+2 Electrify America. Electrify America Unveils its First Application of Megawatt-Level Energy Storage to Enhance
+Customer Experience. October 19, 2022. https://media.electrifyamerica.com/en-us/releases/199
+4
+
+1 A. There is no doubt that EVs on the road today, plus those that will be purchased through
+2 2027, have the technical capability to meaningfully reduce demand through both
+3 unidirectional “V1G” managed charging and bidirectional vehicle-to-everything (“V2X”)
+4 activities. However, programs intended to incentivize these behaviors have been slower
+5 to develop. If appropriate customer incentives are adopted, VGIC is confident that
+6 meaningful EV/EVSE contributions can become a reality during the 2023-2027
+7 timeframe. VGIC believes that the adoption of successful EV/VGI DR program designs
+8 in this proceeding is one important element to achieving this goal. Meanwhile, since this
+9 is a novel type of grid resource, any incremental participation (even if small at first) will
+10 be beneficial and is still worth pursuing as part of a comprehensive approach to
+11 addressing reliability concerns.
+12 Q. Is there a significant amount of EV/EVSE equipment deployed in California today
+13 that can already provide aggregated, unidirectional “V1G” load reduction
+14 capabilities?
+15 A. Yes. Aggregators of EVs and EVSEs in California have already demonstrated their
+16 ability to modify charging schedules. Examples include PG&E’s ChargeForward pilot
+17 with BMW,3 SDG&E’s VGI Rate in the Power Your Drive program,4 and PG&E’s
+18 evPulse offering with WeaveGrid.5
+3 BMW. BMW ChargeForward Report. https://www.bmwchargeforward.com/assets/pdfs/BMW-ChargeForward-
+Report.pdf
+4 SDG&E. Power Your Drive Research Report. April 2021.
+https://www.sdge.com/sites/default/files/regulatory/SDG%26E%20FINAL%20Power%20Your%20Drive%20Resea
+rch%20Report%20April%202021.pdf
+5 PG&E. evPulse. https://join.pge.ev-pulse.com/.
+5
+
+1 As of the end of 2022 there were approximately 1.4 million EVs registered in California.6
+2 If adoption continues at a similar pace through 2027, it is conceivable there could be 4
+3 million light, medium, and heavy-duty EVs on the road in California.7 Assuming an
+4 average charging load of 5 kW per vehicle, this represents a total technical potential of
+5 20,000 MW in instantaneous load that could theoretically be reduced via V1G.8
+6 Obviously, the achievable potential is only a fraction of this since not all of those vehicles
+7 will be charging during the critical net peak load hours of 6-9pm, when either an
+8 economic or reliability demand response event is likely to be triggered, and not all EV
+9 owners will choose to participate in V1G activities. However, VGIC estimates that even
+10 under a more conservative participation rate of 5%, approximately 1,000 MW of net peak
+11 load reduction from V1G might be achievable.
+12 Additionally, an increasingly popular configuration for public direct current fast charging
+13 (“DCFC”) and fleet depot sites involves leveraging stationary energy storage solutions to
+14 manage charging load, effectively providing a “buffer” between an uninterrupted EV
+15 charging experience and the grid during peak demand. For example, Electrify America
+16 has deployed stationary energy storage at over 100 DCFC sites in California,9 and
+6 California Energy Commission. New EV Sales in California. Date Accessed: April 20, 2023.
+https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-
+zev-sales
+7 California Energy Commission. Final 2021 Integrated Energy Policy Report. Volume IV: California Energy
+Demand Forecast. February 2022. https://efiling.energy.ca.gov/GetDocument.aspx?tn=241581. Page 66.
+8 VGIC recognizes that a significant share of EV-owners that use Level 2 (or greater) chargers that would likely
+exceed 5 kW per vehicle. However, many EV-owners (particularly owners of plug-in hybrid electric vehicles with
+smaller ranges) also primarily rely on Level 1 charging. VGIC believes that 5 kW is a reasonable estimate based on
+an assumed 50/50 split between Level 1 and Level 2 charging. This would be consistent with studies of home
+charging behavior, for example Tal, G., Lee, J., & Nicholas, M. A. (2018). Observed Charging Rates in California.
+UC Davis: Plug-In Hybrid & Electric Vehicle Research Center. Retrieved from
+https://escholarship.org/uc/item/2038613r
+9 Electrify America. Electrify America Unveils its First Application of Megawatt-Level Energy Storage to Enhance
+Customer Experience. October 19, 2022. https://media.electrifyamerica.com/en-us/releases/199
+6
+
+1 FreeWire Technologies recently installed a new charging location in Fremont, California
+2 with integrated energy storage.10 These storage-backed charging solutions can provide an
+3 important source of load reduction at sites historically categorized as poor candidates for
+4 charging load management due to short dwell times.
+5 Q. Is there a significant amount of EV/EVSE equipment deployed today that can
+6 already provide aggregated bidirectional vehicle-to-building (“V2B”) or vehicle-to-
+7 grid (“V2G”) capabilities?
+8 A. Yes, although it is less widespread than V1G capabilities, a meaningful portion of EVs
+9 deployed today have bidirectional charging capabilities that would allow them to
+10 discharge to the grid, effectively doubling their ability to reduce net load peak. The most
+11 significant sources of V2X bidirectional charging potential today are in the form of the
+12 Nissan LEAF, Ford F-150 Lightning, and Blue Bird Electric School Buses. As of the end
+13 of 2022, over 30,000 Nissan LEAF vehicles sold in California were Model Year 2013 or
+14 later, equipped with V2X bidirectional charging capabilities.11 Assuming each vehicle
+15 could be discharged at 20 kW using an off-board V2X EVSE, this equates to 600 MW in
+16 the total technical potential for incremental contributions to the net peak load.12 As with
+17 V1G, it is unlikely that all vehicles will be plugged in at one time. However, VGIC
+18 estimates that under a participation rate of 5%, this would equate to approximately 30
+10 PR Newswire. Loop Neighborhood Market to Install New FreeWire EV Boost Chargers at Fremont Location.
+April 14, 2023. https://www.prnewswire.com/news-releases/loop-neighborhood-market-to-install-new-freewire-ev-
+boost-chargers-at-fremont-location-301797437.html
+11 California Energy Commission. New EV Sales in California. Date Accessed: April 20, 2023.
+https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-
+zev-sales
+12 Fermata Energy. October 6, 2022. Fermata Energy’s Newest V2X Bidirectional Charger – the FE-20 – Available
+Q1 2023. https://fermataenergy.com/article/fermata-energys-newest-v2x-bidirectional-charger-
+7
+
+1 MW of potential net peak contribution from today’s fleet of Nissan LEAFs located within
+2 California.
+3 As of the end of 2022, VGIC estimates around 8,000 Ford F-150 Lightning Electrics have
+4 been sold in California.13 While these vehicles are equipped with V2X bidirectional
+5 charging, the feature is designed and marketed as an emergency backup power source and
+6 is not configured for grid-parallel bidirectional charging. However, if the popular Ford F-
+7 150 Lightning and the upcoming Chevrolet Silverado EV and GMC Sierra EV models
+8 begin offering grid-parallel V2X capabilities, this would represent significant additional
+9 energy storage capacity that could soon be made available to support the grid.14 In
+10 addition to Nissan, Ford, Chevrolet, GMC, and Blue Bird, the following automotive
+11 brands have publicly stated they will offer V2X bidirectional charging: Genesis,15
+13 Ford reportedly sold 15,617 F-150 Lightning models in 2022. According to Veloz’s Electric Vehicle Market
+Report, California sales represent about half of U.S. EV sales. See CleanTechnica. You Can’t Order A Ford F-150
+Lightning Any Longer – Count This As A Fail. January 11, 2023. https://cleantechnica.com/2023/01/11/you-cant-
+order-a-ford-f-150-lightning-any-longer-count-this-as-a-fail/ and Veloz. Electric Vehicle Market Report. Posted
+February 2023. https://www.veloz.org/ev-market-report/.
+14 GM Energy (2022). Ultium Products: Ultium Home. https://gmenergy.gm.com/ultium-products ; GMC (2022).
+Introducing the First Ever Sierra EV Denali Edition 1: Plug and Play. https://www.gmc.com/future-vehicles/sierra-
+ev-denali
+15 Bengt Halvorson. Green Car Reports. Electric car platform for Hyundai, Kia, Genesis: Bi-directional charging,
+robotaxi ready. https://www.greencarreports.com/news/1130487_ev-platform-hyundai-kia-genesis-bi-directional-
+charging-robotaxi-ready
+8
+
+1 Hyundai,16 Kia,17 Volvo,18 Volkswagen,19 Lucid,20 Rivian,21 Polestar,22 Thomas Built
+2 Buses,23 Proterra,24 and BYD.25 Thus, it is reasonable to expect that several future EV
+3 models being launched before 2027 will be capable of V2X bidirectional charging.
+4 Q. Is the state of California making investments to advance the deployment of VGI-
+5 capable charging equipment?
+6 A. Yes. Senate Bill 676 (Bradford, 2019) resulted in a statutory definition for VGI and set
+7 California on a path toward addressing key barriers to VGI market development.26 More
+8 recently, California announced several key funding opportunities for VGI, including the
+9 California Energy Commission’s (“CEC”) open Grant Funding Opportunity (“GFO”) for
+10 Responsive, Easy Charging Products with Dynamic Signals (“REDWDS”). REDWDS
+16 Chris Randall. Electrive. Hyundai to include V2G capabilities for their EVs. April 12, 2022.
+https://www.electrive.com/2022/04/12/hyundai-to-include-v2g-capabilities-for-their-evs/
+17 Bengt Halvorson. Green Car Reports. Electric car platform for Hyundai, Kia, Genesis: Bi-directional charging,
+robotaxi ready. https://www.greencarreports.com/news/1130487_ev-platform-hyundai-kia-genesis-bi-directional-
+charging-robotaxi-ready
+18 Yusuf Latief. Smart Energy. Volvo’s first bi-directional EV brings the customer to the grid. October 8, 2022.
+https://www.smart-energy.com/industry-sectors/electric-vehicles/volvos-first-bi-directional-ev-brings-the-
+customer-to-the-grid/
+19 Charles Morris. VW to enable bidirectional charging on all EVs on its MEB platform starting next year. Charged
+Electric Vehicles Magazine. April 8, 2021. https://chargedevs.com/newswire/vw-to-enable-bidirectional-charging-
+on-all-evs-on-its-meb-platform-starting-next-year/. “The Volkswagen Group says it could produce as many as
+300,000 bidirectional charging-enabled vehicles next year, including models from VW, Audi, Skoda, and Seat-
+Cupra
+20 Nick Flaherty. Emobility Engineering. Accessed December 22, 2022. https://www.emobility-
+engineering.com/vehicle-to-grid-charging/
+21 Charles Morris. Charged. Rivian working on 800-volt architecture, bidirectional charging, in-house drive units and
+battery cells. https://chargedevs.com/newswire/rivian-working-on-800-volt-architecture-bidirectional-charging-in-
+house-drive-units-and-battery-cells/
+22 Roberto Baldwin. TechCrunch. Polestar CEO sees value in EVs, even when they’re parked. August 21, 2022.
+https://techcrunch.com/2022/08/21/polestar-ceo-sees-value-in-evs-even-when-theyre-parked/
+23 Thomas Built Buses / Daimler Trucks North America LLC (2021). The Safe-T-Liner C2 Jouley Electric School
+Bus. Retrieved September 1, 2021 from https://thomasbuiltbuses.com/school-buses/saf-t-liner-c2-jouley/
+24 Proterra (2022). Proterra Industrial Charging System. Retrieved December 23, 2022.
+https://www.proterra.com/products/charging-infrastructure/
+25 BYD. BYD Introduces Innovative and Safe Type A Battery Electric School Bus with V2G Technology. January 26,
+2022. https://en.byd.com/news/byd-introduces-innovative-and-safe-type-a-battery-electric-school-bus-with-v2g-
+technology/
+26 Public Utilities Code Section 740.16
+9
+
+1 makes up to $309 million available to support the development and deployment of VGI
+2 solutions.27 The CEC has also issued a GFO for Electric School Bus Bi-Directional
+3 Infrastructure, with up to $15 million available to fund V2X school bus charging
+4 infrastructure.28 Additionally, the CEC is launching the V2G Equipment List, which will
+5 facilitate the streamlined interconnection of V2X chargers in California.29 Lastly, the
+6 CEC’s forthcoming Distributed Electricity Backup Asset (“DEBA”) program would, as
+7 proposed, include V2X equipment as eligible resources for the incentive program
+8 intended to offset the deployment and construction costs of resources that can bolster
+9 California’s strategic reliability reserve.30
+10 Q. Once these initial investments in VGI equipment have been made, is there a
+11 comprehensive set of offerings available to EV owners that would encourage them to
+12 leverage their VGI-capable equipment to support the grid?
+13 A. Not yet. I am concerned there is a risk that California’s significant investments in VGI
+14 infrastructure will be underutilized, due to the overall lack of reasonable offerings that
+15 would attract customers to fully leverage their VGI-capable equipment, either in V1G or
+16 V2X modes. For V2G in particular, the only available offering to date that would
+17 encourage V2G behavior is in the form of the ELRP A.5 subgroup. As I will explain
+27 California Energy Commission. GFO-22-609 – Responsive, Easy Charging Products with Dynamic Signals
+(REDWDS). March 10, 2023. https://www.energy.ca.gov/solicitations/2023-03/gfo-22-609-responsive-easy-
+charging-products-dynamic-signals-redwds
+28 California Energy Commission. GFO 22-612 – Electric School Bus Bi-Directional Infrastructure. April 3, 2023.
+https://www.energy.ca.gov/solicitations/2023-04/gfo-22-612-electric-school-bus-bi-directional-infrastructure
+29 California Energy Commission. Vehicle-to-Grid Equipment List. https://www.energy.ca.gov/programs-and-
+topics/programs/vehicle-grid-integration/vehicle-grid-equipment-list
+30 California Energy Commission. Demand Side Grid Support and Distributed Electricity Backup Assets Program.
+Lead Commissioner Workshop. January 27, 2023. Session 2. Slide 42.
+https://efiling.energy.ca.gov/GetDocument.aspx?tn=248608
+10
+
+1 further in the next section of my testimony, this sole existing offering in CA provides a
+2 relatively modest customer incentive for V2G compared to those offered in other states.
+3 III. VGIC’S REVIEW OF THE IOUs’ PROPOSALS FOR ELRP AND RELATED
+4 RECOMMENDATIONS.
+5 Q. Do the IOUs generally support the continuation of ELRP and its various
+6 subgroups?
+7 A. Yes. VGIC is encouraged by this support and commends the IOUs for this. For example,
+8 SDG&E testifies that “it is prudent to keep all of the eligibility subgroups active. As the
+9 technology becomes more adapted and event experience is gained by SDG&E, especially
+10 in Subgroups such as A.4 -VPP and Subgroup A.5 -VGI, as well as the others, continuing
+11 the ELRP is important.”31 VGIC generally agrees with this position and believes it is
+12 important to find ways to enhance participation to support grid reliability, particularly for
+13 the A.5 subgroup.
+14 Q. Do the IOUs’ applications propose any significant changes to ELRP in the coming
+15 years?
+16 A. Yes. Each of the IOUs proposes to extend the program for 2 additional years, beyond the
+17 2025 timeframe that is currently authorized (i.e., the programs would run through 2027).
+18 However, simultaneously, the IOUs also propose changes that would significantly reduce
+19 or eliminate key features of the ELRP for certain subgroups that would effectively
+20 throttle or deter participation. For example, PG&E proposes to “remove all minimum
+21 dispatch requirements for group A.2 and A.4/A.5.”32 SCE also made a similar proposal
+31 See Supplemental Testimony of SDG&E witness E Bradford Mantz, page EBM-46, lines 7-10.
+32 See Exhibit PG&E-2, at 4-30, lines 16-19.
+11
+
+1 to “reduc[e] minimum dispatch hours for two subgroups” starting in the 2023 ELRP
+2 season.33 On January 17, 2023, all three IOUs also jointly filed an advice letter that
+3 detailed their proposed changes to the ELRP terms and conditions for 2023.34 Notably,
+4 this included a recommended reduction in the minimum dispatch hours for the A.5
+5 subgroup from the current level of 30 hours to just 10 hours.
+6 Q. Does VGIC support these proposed changes?
+7 A. Yes and no. VGIC supports the proposed 2-year extension of the ELRP program since it
+8 would provide greater market certainty, especially to prospective A.5 subgroup
+9 participants who comprise an emerging technology (i.e., vehicle-to-grid, or “V2G”) with
+10 no alternative compensation options within California. However, VGIC strongly opposes
+11 the proposed reduction or elimination of minimum dispatch hours for the A.5 subgroup.
+12 The minimum dispatch hour requirement is an essential feature of the ELRP program for
+13 current and prospective A.5 participants. As I will explain further in my testimony, this
+14 proposed reduction is egregiously premature and counter-productive to the goals of the
+15 ELRP program (i.e., supporting grid reliability).
+16 Q. Did the ELRP A.5 subgroup successfully contribute to grid reliability in the summer
+17 of 2022?
+18 A. Yes. While A.5 participation levels were very modest, my understanding is that multiple
+19 electric school buses did successfully participate in the A.5 subgroup during the summer
+20 of 2022. During the Labor Day heat wave, these electric school buses exported power to
+33 See Exhibit SCE-13, at page 4, lines 10-13.
+34 See Exhibit SCE-13, Attachment A
+12
+
+1 the grid via bidirectional, V2G charging systems installed in SDG&E’s service territory.
+2 Such exports were compensated according to the terms of the ELRP program.
+3 Q. What do you conclude from this experience?
+4 A. I conclude that the ELRP A.5 subgroup can be a viable model for encouraging beneficial
+5 VGI behavior and contributing to grid reliability through V2G systems.
+6 Q. Why do you think A.5 subgroup participation in 2022 was limited to just a handful
+7 of school buses in SDG&E’s service territory?
+8 A. From discussions with VGIC members and other industry stakeholders, I believe there
+9 was greater interest in the A.5 subgroup than the actual 2022 participation numbers
+10 would suggest. Furthermore, I believe the limited number of participants was not
+11 primarily due the program’s design, nor prospective participants’ technical capabilities,
+12 but rather due to numerous administrative barriers caused by the IOUs, the Commission
+13 itself, and the challenges that emerged from the expedited nature of proceedings in both
+14 phases of R.20-11-003, which ultimately delayed or discouraged participation in 2022 --
+15 the first year the A.5 group became available. Additionally, as I will explain further
+16 below, the compensation offered for V2G through ELRP is very modest compared to
+17 comparable V2G offerings other regions in the country (e.g., Connected Solutions in
+18 New England). Going forward, I expect A.5 participation levels will increase, presuming
+19 that 1) these administrative barriers can be addressed in a timely manner and 2)
+20 prospective participants can expect core features of the original A.5 program design to
+21 remain intact (such as the minimum number of dispatch hours), and 3) compensation
+13
+
+1 levels can be enhanced to make them more comparable to those in other regions of the
+2 country.
+3 Q. Do you agree with the IOUs’ rationale for reducing the number of dispatch hours
+4 for the A.5 subgroup?
+5 A. No. SCE testified that its proposed change to the minimum dispatch hours was “intended
+6 to make more effective use of the program’s incentive budget.”35 However, this is non-
+7 sensical because SCE had zero A.5 participants in 2022 and thus the corresponding
+8 incentive costs/budget in 2022 would have been $0.36 It is difficult to understand how
+9 incentive costs of $0 in 2022 could be seen as inefficient and thus requiring immediate
+10 reform shortly after A.5 became eligible. Moreover, it is difficult to understand why an
+11 incentive cost of $0 would cause SCE to propose punitive changes to the A.5 subgroup
+12 that would undoubtedly throttle future participation. Overall, across all three IOUs, total
+13 incentive costs for A.5 in 2022 were only $1,520,37 which is hardly a cause for alarm
+14 from a cost efficiency perspective.
+15 Q. Do you think the IOUs’ proposed changes to throttle participation in the A.5
+16 subgroup were premature?
+17 A. Yes. First, as I mentioned, participation levels in the first year of the A.5 subgroup were
+18 relatively low and therefore any changes proposed should be geared toward increasing
+35 Exhibit SCE-13, p 4, line 11.
+36 Administrative Law Judge’s Ruling Providing the ELRP Program Data for 2022 Summer Season. March 2, 2023.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M502/K977/502977248.PDF. Attachment A, Part 5.
+37 Administrative Law Judge’s Ruling Providing the ELRP Program Data for 2022 Summer Season. March 2, 2023.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M502/K977/502977248.PDF. Attachment A, Part 6, Page A.5.
+The overall Total Delivered kWh (interval positive performance) for subgroup A.5 over 32 hours in 2022 equaled
+760 kWh. Assuming the ELRP compensation rate of $2/kWh, SDG&E would have paid out $1,520 in ELRP
+compensation to these customers.
+14
+
+1 participation to support grid reliability rather than decreasing it. Second, based on
+2 conversations with VGIC members, my understanding is that significant pursuit of V2X
+3 projects in California has occurred over the last year with the expectation that the original
+4 ELRP A.5 structure would remain in place at least through 2025. Third, it is important to
+5 recognize that the ELRP A.5 subgroup is the only current option for V2G export
+6 compensation in California. Handicapping this program prematurely would cause an
+7 unnecessary and unhelpful hiatus on the development of the V2G industry in a state with
+8 one of the largest penetrations of EVs across the US. By way of contrast, some VGIC
+9 members have reported to me that they have successfully developed V2X projects in
+10 dozens of states around the US. These same members note that California has been a
+11 notoriously difficult environment to pursue V2X projects, in part due to the lack of
+12 existing V2X compensation rates or programs (with ELRP being the sole exception), as
+13 well as administrative barriers related to IOU implementation of ELRP.
+14 Q. What are some of the administrative barriers that prospective A.5 participants
+15 encountered in the 2022 ELRP season?
+16 A. To understand these barriers, it is worth examining the timeline of events in 2022 from a
+17 participant’s perspective. First, it is worth noting that while the A.5 subgroup framework
+18 and details were established on December 6, 2021,38 the Energy Division did not issue a
+19 Disposition on the proposed Terms and Conditions for the A.5 subgroup (including,
+20 crucially, the exemption from UL 1741 SA and subsequent smart inverter requirements)
+38 Phase 2 Decision Directing PG&E, SCE, and SDG&E to Take Actions to Prepare for Potential Extreme Weather
+in the Summers of 2022 and 2023. D.21-12-015. Ordering Paragraph 24 and Attachment 2 at 6.
+15
+
+1 until June 17, 2022.39 This was over a month after the start of the 2022 ELRP season.
+2 Once the final terms were established, several subsequent steps still needed to occur to
+3 achieve participation status, including 1) the utilities needed to finalize contracts with
+4 their program administrators (e.g., Olivine) and 2) prospective participants needed to
+5 complete an aggregator agreement with the program administrator, 3) aggregators were
+6 asked to complete technical integration with the utility/program administrator resource
+7 management platform. Given the number of subsequent steps required by the utilities, it
+8 was simply infeasible for some prospective participants to enroll in a timely manner to
+9 achieve participation status before the end of the ELRP season, let alone before the start
+10 of the season. In fact, the one A.5 participant who did successfully enroll with SDG&E
+11 was only able to practically do so more than halfway through the ELRP season.
+12 Moreover, for at least some portion of the 2022 enrollment timeline, the IOUs (or their
+13 program administrators) may have been providing incorrect information about the terms
+14 and conditions applicable to ELRP A.5 participants. For example, I am aware of at least
+15 one instance where PG&E’s program administrator informed a prospective participant
+16 that UL 1741 SA certification was required for interconnecting A.5 resources. This was
+17 in direct contradiction to D.21-12-015, which specifically provided an exemption from
+18 the SA requirement for ELRP A.5 participants, stating “DC V2G EVSE that have UL
+19 1741 certification, but not UL 1741 SA, may interconnect for the purposes of
+20 participating in the ELRP, subject to remaining Rule 21 interconnection requirements.”40
+39 Emergency Load Reduction Program Pilot Terms and Conditions of PG&E, SCE, and SDG&E adopted by the
+CPUC. June 17, 2022. https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6485-E.pdf
+40 Phase 2 Decision Directing PG&E, SCE, and SDG&E to Take Actions to Prepare for Potential Extreme Weather
+in the Summers of 2022 and 2023. D.21-12-015. Attachment 2 at 6.
+16
+
+1 VGIC assisted in getting this issue resolved through communications with Energy
+2 Division staff. However, there may have been other prospective participants that were
+3 deterred due to this misinformation.
+4 Lastly, it was not initially clear to participants how to indicate to the IOUs that a DC V2G
+5 EVSE interconnection application was specific to ELRP participation and, therefore,
+6 eligible for the UL 1741 SA exemption. On July 20, 2022, PG&E did properly address
+7 this issue by updating their interconnection form to (1) ask whether a DC V2G EVSE
+8 was interconnecting for purposes of the ELRP pilot and (2) request the ELRP Application
+9 Number.41
+10 Q. Despite these challenges, do you think that there is a good chance that more A.5
+11 participation will occur in the near term?
+12 A. Yes. Based on conversations I’ve had with VGIC members, I believe there is a
+13 meaningful amount of V2X projects in the pipeline that could be operational for the next
+14 few years of ELRP, including over 1 MW of electric school bus V2G under various
+15 stages of development. However, realizing these projects likely depends upon both a) the
+16 Commission acting expeditiously to preserve or enhance the original terms of the A.5
+17 subgroup (including the minimum dispatch hours) and b) the IOUs working expeditiously
+18 to interconnect these projects and eliminate unnecessary barriers to participation.
+41 PG&E. Advice 6609-E-A. Supplemental: Modifications to PG&E’s Form 79-1174-02 (“Rule 21 Generator
+Interconnection Application”) Attachments to Incorporate an Exception Option to the Latest Smart Inverter
+Requirements for Interconnections Participating in the Emergency Load Reduction Program. July 11, 2022.
+https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6609-E-A.pdf
+17
+
+1 Q. Are you concerned that prospective A.5 subgroup participants will face similar
+2 barriers and delays in the future ELRP seasons as they experienced in the 2022
+3 season?
+4 A. I am more confident that prospective participants will be able to navigate some of the
+5 barriers described above in future years. However, I’m concerned that there are also new
+6 barriers participants may need to contend with in the coming years. Chief among these
+7 barriers is the IOUs’ proposed change to the terms and conditions of the A.5 subgroup –
+8 including the proposed reduction in minimum dispatch hours -- which was detailed in the
+9 January 17, 2023, Joint IOU Advice Letter42 and in the testimony of both SCE and
+10 PG&E.43 This proposed change has generated substantial market uncertainty for
+11 prospective A.5 participants who had previously been expecting the terms and conditions
+12 in 2023 and beyond to be largely similar to those in 2022. Moreover, much like in 2022,
+13 the Commission has not provided a final resolution to this matter, even just a few weeks
+14 before the start of the 2023 ELRP season. While a Draft Resolution was issued on April
+15 13, 2023 (which VGIC generally supports),44 this leaves little time for a Final Resolution
+16 to be issued (optimistically by May 18, 2023, as noted in the Draft Resolution) and for
+17 participants to execute the necessary subsequent steps that I outlined above (i.e.,
+18 enrollment, integration with utility/program administrator). This is not meant as a critique
+19 of the Commission’s process itself -- VGIC recognizes that the Commission must balance
+20 many competing priorities and is appreciative of the Staff’s thoughtful consideration of
+42 SCE, PG&E, SDG&E. Joint Submittal of Proposed Modifications to the Emergency Load Reduction Program
+Pilot Pursuant to Decision 21-03-056, Decision 21-12-015, and Decision 21-12-069. January 17, 2023.
+https://www.pge.com/tariffs/assets/pdf/adviceletter/ELEC_6826-E.pdf
+43 See Exhibit PG&E-2, at 4-30, lines 16-19 and Exhibit SCE-13, at page 4, lines 10-13.
+44 Resolution E-5276. Approval, with modifications, of SCE’s, PG&E’s, and SDG&E’s proposed modifications to
+the Emergency Load Reduction Program.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M506/K169/506169469.PDF
+18
+
+1 these matters. However, it is worth noting that when the IOUs proposed these changes in
+2 January 2023 via an Advice Letter, the IOUs effectively “gummed up the works” for
+3 prospective A.5 participants who otherwise could have been preparing for the 2023
+4 ELRP season and future years under the original terms and conditions established last
+5 year. Moreover, as I discussed elsewhere in my testimony, it was unnecessary and
+6 premature for the IOUs to propose changes that would effectively throttle A.5
+7 participation levels, especially given that participation levels have been so minimal to
+8 date and were not even warranted on their merits.
+9 Q. Why do you think the IOUs’ proposed changes were not warranted on their merits?
+10 A. First, even though the subgroup A.5 dispatch minimum of 30 hours exceeds that other
+11 ELRP customer subgroups, these 30 hours are still inclusive of emergency hours, and
+12 would therefore still contribute to emergency reliability. Second, the additional hours
+13 relative to other subgroups are needed to help scale up VGI as a novel and underutilized
+14 reliability resource. As adopted in D.21-12-015, the Commission expressed its intent to
+15 provide “more certainty to aggregators regarding potential compensation.”45 Moreover,
+16 D.21-12-015 acknowledged that the VGI market development, including bidirectional
+17 V2X charging equipment deployment, is in its nascency, and the Commission described
+18 this approach “as an opportunity to deploy and scale this resource.”46 Reducing the
+19 dispatch hours to match other programs might mean that additional A.5 resources don't
+20 materialize at all, and thus reliability overall is harmed. Such an outcome would be a case
+45 Phase 2 Decision Directing PG&E, SCE, and SDG&E to Take Actions to Prepare for Potential Extreme Weather
+in the Summers of 2022 and 2023. D.21-12-015. Page 33.
+46 Phase 2 Decision Directing PG&E, SCE, and SDG&E to Take Actions to Prepare for Potential Extreme Weather
+in the Summers of 2022 and 2023. D.21-12-015. Page 39.
+19
+
+1 of "throwing the baby out with the bathwater," so to speak. Third, if the nomenclature is
+2 problematic, VGIC would support continuation of the ELRP A.5 program structure under
+3 another name that doesn't include "emergency" in the title, and thereby eliminate any
+4 confusion about whether dispatch should be limited just to true emergency conditions.
+5 However, such changes shouldn't occur in a way that disrupts or meaningfully alters 2023
+6 or subsequent participation. Lastly, ELRP is currently California's only compensation
+7 mechanism for V2G exports. Thus it serves a purpose beyond emergency reliability - that
+8 is to help animate the market for a new distributed, clean-energy technology. VGIC and
+9 its members consider this absolutely essential for developing the V2G market in the state.
+10 For these reasons, additional dispatch hours relative to other ELRP subgroups are
+11 justified.
+12 Q. Based on your testimony above, do you have any recommendations for the
+13 Commission for the A.5 subgroup in future years?
+14 A. Yes, I have several recommendations:
+15 • First, the Commission should reiterate in this proceeding the position it took in D.21-12-
+16 015 authorizing group A.5 and again in the Draft Resolution – specifically that the
+17 minimum dispatch hours for A.5 should not be reduced in future years of the ELRP
+18 program.
+19 • Second, since updated or reaffirmed A.5 terms and conditions generally may not see final
+20 resolution until after the start of the ELRP season, the IOUs should be required to offer
+21 more flexible participation options that can reduce further barriers and delays. For
+22 example, PG&E and SCE’s ELRP Frequently Asked Questions page states that
+20
+
+1 “aggregators and third-party demand response providers will be notified of events by
+2 email and/or text.”47 However, I’ve been informed that in some cases aggregators were
+3 requested to complete a technical integration with the utility/program administrator’s
+4 resource management system. A more flexible approach would have been to clearly
+5 communicate to participants that they may complete a full technical integration but are
+6 not required to. While basic email or text notifications may not be an ideal scalable, long-
+7 term solution, it will allow for faster enrollment in the near-term so that aggregators can
+8 begin deploying VGI resources even before they’ve fully integrated with the
+9 utility/program administrator’s system.
+10 • Third, the IOUs should be explicitly prohibited from proposing to implement
+11 fundamental ELRP program design changes that limit participation (such as lowering the
+12 minimum dispatch hours) outside of a formal proceeding. Such proposals cause
+13 significant uncertainty and disruption for participants who are attempting to bring novel
+14 technologies and services to market. Such technology and product development hinges
+15 upon reasonable expectations of market certainty, and as such there needs to be some
+16 level of consistency in ELRP terms and conditions across multiple seasons. In aid of this,
+17 the Commission should establish which terms and conditions for each sub group (e.g.,
+18 minimum dispatch) are “off-limits” for advice letter changes.
+19 • Fourth, the Commission could require that future changes to A.5 be limited to those that
+20 are intended to expand participation rather than constrain it. This is particularly true
+47 See PG&E and SCE. ELRP: Aggregator / DRP FAQ. Accessed April 21, 2023.
+https://elrp.olivineinc.com/aggregator-drp-faq/ or https://elrp.sce.com/aggregator-drp-faq/#events. Under “How
+will I be notified of an ELRP event for my aggregation?”, PG&E states “Aggregators and third-party demand
+response providers will be notified of events by email and/or text.”
+21
+
+1 since A.5 is the only current option in CA for compensating V2G, an emerging
+2 technology, at least until dynamic export rate options become available. For example, one
+3 potential constructive future change might be to allow for participation via telematics
+4 which I discuss further in the following section of my testimony.
+5 • Fifth, the Commission should move up the date after which utilities may submit Advice
+6 Letters from January 15 to November or December.
+7 Q. Is California currently viewed as a leader in leveraging V2X equipment to support
+8 the grid?
+9 A. No. Despite having the largest number of EVs, EV chargers, and electric school buses in
+10 the nation, California is not the largest market for V2G charging. In the northeast, the
+11 ConnectedSolutions Program in Massachusetts and Rhode Island, as well as Green
+12 Mountain Power’s Bring You Own Device program, offers comparatively compelling
+13 opportunities for V2G school buses to earn as much as $10,000 per year.48 Note this does
+14 not include funding support for infrastructure investments, which would further reduce
+15 the total cost of ownership. By contrast, the two customer accounts in California that
+48 National Grid Massachusetts’ ConnectedSolutions program offers $200/kW-Summer for 30-60 events per year at
+2-3 hours per event. Rhose Island Energy’s ConnectedSolutions program offers $300/kW-Summer for 30-60 events
+per year at 2-3 hours per event.
+22
+
+1 enrolled in A.5 in summer 2022, each containing several V2G school buses,49 made a
+2 combined $1,520.50
+3 Q. Do you have any additional recommendations based on this?
+4 A. Yes. Since one of the goals of the A.5 subgroup is to advance the market for emerging
+5 VGI technologies, I think the Commission should consider bolstering the compensation
+6 rate for A.5 participants to make it more aligned with those in the northeastern US.
+7 Q. Can California overcome its relative disadvantage to other states who are
+8 proactively developing customer program offerings aimed at incentivizing beneficial
+9 V2X exports?
+10 A. Yes. California can already compete with other states on technology deployment
+11 incentives with announced and proposed CEC funding opportunities (i.e., REDWDS,
+12 V2G school bus infra GFO, and DEBA). However, if California wishes to unlock EVs as
+13 a grid resource, it must complement these deployment funds with customer programs that
+14 are attractive enough to V2G site developers – many of whom are now flocking to
+15 higher-opportunity markets in the northeast.
+16 IV. EXPANDING EV PARTICIPATION IN DR PROGRAMS
+49 See Nuvve Holding Corp. SDG&E and Cajon Valley Union School District Flip the Switch on Region’s First Vehicle-
+to-Grid Project Featuring Local Electric School Buses Capable of Sending Power to the Grid. July 26, 2022.
+https://nuvve.com/sdge-and-cajon-valley-union-school-district-flip-the-switch-on-regions-first-vehicle-to-grid-
+project-featuring-local-electric-school-busescapable-of-sending-power-to-the-grid/ ; and Nuvve Holding Corp. San
+Diego County’s Ramona Unified School District, Blue Bird and Nuvve Unveil 8 New V2G-Enabled and Qualified
+Electric School Buses. October 11, 2022. https://nuvve.com/ramona-unified-school-district-blue-bird-nuvve-unveil-
+new-v2g-electric-school-buses/.
+50 Administrative Law Judge’s Ruling Providing the ELRP Program Data for 2022 Summer Season. March 2, 2023.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M502/K977/502977248.PDF. Attachment A, Part 6, Page A.5.
+The overall Total Delivered kWh (interval positive performance) for subgroup A.5 over 32 hours in 2022 equaled
+760 kWh. Assuming the ELRP compensation rate of $2/kWh, SDG&E would have paid out $1,520 in ELRP
+compensation to these customers.
+23
+
+1 Q. Are networked EVSEs the only means through which EV drivers can participate as
+2 a demand response resource?
+3 A. No. EV drivers could also theoretically participate as a DR resource by utilizing their
+4 EV’s onboard telematics data.
+5 Q. What are the benefits of promoting participation in DR programs using telematics
+6 rather than networked EVSE?
+7 A. Implementing onboard telematics as a pathway for participation in DR programs can
+8 support equity, customer choice, and access by extending program eligibility to EV
+9 customers with non-networked Level 2 EVSE, those who use non-networked Level 1
+10 plugs, and those who may simply prefer to participate via telematics rather than
+11 networked EVSE. From the customer perspective, unlocking vehicle-based VGI in
+12 addition to charger-based VGI can result in a larger list of eligible equipment. Utilities
+13 that offer both vehicle telematics and networked EVSE-based participation pathways will
+14 undoubtedly have the largest list of eligible equipment and, in turn, be able to offer the
+15 greatest amount of customer choice and access.
+16 Many Californians live in old, multi-unit dwellings that may not be able to accommodate
+17 Level 2 charging due to electrical infrastructure or physical space constraints. Offering
+18 vehicle-based enrollment and participation in DR programs allows these customers
+19 access to programs that can (1) reduce their total cost of vehicle ownership, (2) lower
+20 their electricity bills, and (3) support the local and system grid reliability needs. It would
+21 be unjust to restrict EV DR participation for certain customers simply because they
+22 cannot access a networked Level 2 chargers.
+24
+
+1 Q. Has the use of telematics been shown to shift EV charging off-peak?
+2 A. Yes. Using vehicle telematics represents an effective strategy to manage charging and
+3 can complement networked EVSE program participation.51 Telematics-based managed
+4 charging is being implemented around the country and can result in up to 95% off-peak
+5 charging.52 As part of a University of California, Berkely research effort funded by the
+6 California Energy Commission, researchers determined that telematics-based managed
+7 charging can provide viable grid services.53
+8 Q. Has the use of telematics for this purpose proliferated across the country?
+9 A. Yes. In California, PG&E currently offers a Low Carbon Fuel Standard-funded managed
+10 charging pilot with WeaveGrid called “evPulse.” PG&E has also partnered with BMW
+11 for several years on the telematics-based ChargeForward pilot. In Maryland, Baltimore
+12 Gas & Electric has also launched an “evPulse” offering with WeaveGrid.54 Meanwhile,
+13 Xcel’s Charging Perks Pilot in Colorado leverages telematics to promote smart
+14 charging.55 Other examples include: Sacramento Municipal Utility District’s Managed
+15 EV Charging pilot,56 offerings from Silicon Valley Clean Energy,57 Marin Clean
+51 See Opinion Dynamics. PG&E Electric Vehicle Automated Demand Response Study Report. February 2022
+https://opiniondynamics.com/wp-content/uploads/2022/03/PGE-EV-ADR-Study-Report-3-16.pdf; Smart Electric
+Power Alliance. The State of Managed Charging in 2021. November 2021. https://sepapower.org/resource/the-state-
+of-managed-charging-in-2021/, which finds that telematics and networked EVSEs can be complementary and are
+both effective strategies to manage charging.
+52 WeaveGrid. Opening Comments on WeaveGrid, Inc. DRIVE OIR. April 25, 2022. Page 4.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M471/K485/471485327.PDF
+53 California Energy Commission. Total Charge Management of Electric Vehicles. December 2021.
+https://www.energy.ca.gov/sites/default/files/2021-12/CEC-500-2021-055.pdf
+54 WeaveGrid. Opening Comments on WeaveGrid, Inc. DRIVE OIR. April 25, 2022. Page 4.
+https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M471/K485/471485327.PDF
+55 Xcel Energy. evPulse. https://chargingperks.xcelenergy.ev-pulse.com/
+56 Sacramento Municipal Utility District. Managed EV Charging. https://www.smud.org/en/Going-Green/Electric-
+Vehicles/Residential/Managed-EV-Charging
+57 Silicon Valley Clean Energy. GridShift: EV Charging. https://svcleanenergy.org/gridshift-ev/
+25
+
+1 Energy,58 and Peninsula Clean Energy,59 National Grid’s Charge Smart MA,60 Con
+2 Edison and Orange & Rockland’s SmartCharge New York Program,61 the Connecticut
+3 EV Charging Program,62 Portland General Electric’s Smart Charging evPulse,63 Duke’s
+4 proposed telematics-based charging subscription pilot,64 and ConEd and GM’s
+5 partnership on telematics.65
+6 Q. Besides the two limited offerings from PG&E that you described above, are
+7 customers of California’s IOUs currently able to use vehicle-based telematics to
+8 participate in DR programs?
+9 A. No. I am not aware of any other options for customers to leverage the capabilities
+10 embedded in the vehicle to participate in a DR program in California, including ELRP.
+11 Q. Do you support SDG&E’s proposed EV DR Pilot?
+12 A. Yes, I generally support SDG&E’s proposed EV DR Pilot. SDG&E’s proposed EV DR
+13 Pilot contemplates the use of third-party aggregators to tap into both vehicles and
+14 chargers to promote residential managed charging. Additionally, the pilot aims to align
+58 Marin Clean Energy. MCE Sync: EV Smart Charging App. https://www.mcecleanenergy.org/mce-sync/
+59 Peninsula Clean Energy. RFP Telematics-Based Electric Vehicle Managed Charging Pilot. August 30, 2021.
+https://www.peninsulacleanenergy.com/solicitation/rfp-telematics-based-electric-vehicle-managed-charging-
+pilot/
+60 National Grid. The EV Off-Peak Charging Program through Charge Smart MA.
+https://www.nationalgridus.com/Charge-Smart-MA
+61 ConEdison and Orange & Rockland. SmartCharge New York. https://scny.ev.energy/
+62 Eversource and UI. Connecticut Electric Vehicle Charging Program. 2023 Manual for Residential & Commercial
+Customers. April 5, 2023. https://www.eversource.com/content/docs/default-source/save-money-energy/ct-ev-
+comprehensive-program-manual.pdf?sfvrsn=9b958f62_6
+63 Portland General Electric. Earn money from your Tesla. https://portlandgeneral.com/ev-smart-charging-evpulse
+64 Robert Walton. Utility Dive. Duke may offer some EV customers ‘all you can charge’ for just $19.99/month
+(restrictions apply). February 23, 2022. https://www.utilitydive.com/news/duke-may-offer-some-ev-customers-all-
+you-can-charge-for-just-1999month/619210/
+65 Con Edison. Con Edison and General Motors Partner to Test Electric Vehicle Charging, Other Clean Energy
+Technologies. October 12, 2022. https://www.coned.com/en/about-us/media-center/news/2022/10-12/con-
+edison-and-general-motors-partner-to-test-electric-vehicle
+26
+
+1 EV charging load with renewable energy generation, which could help reduce renewable
+2 curtailment, increase the efficiency of the grid, and significantly reduce greenhouse gas
+3 emissions.
+4 Q. Do you believe SDG&E’s proposed EV DR Pilot will sufficiently promote V1G
+5 managed charging?
+6 A. Not to the extent possible. I believe SDG&E’s proposed program design may increase
+7 participation from EVs in DR. However, the program budget and customer enrollment
+8 targets are not as ambitious as they should be to fully leverage the opportunity for EVs
+9 and EVSE to support the grid. As proposed, the pilot would be implemented by testing
+10 three incentive structures for pilot enrollment and participation, with a budget of $3.3
+11 million over three years and the goal of enrolling 1,000 residential EVs. Meanwhile,
+12 SDG&E has approximately 50,000 residential EVs in its service territory.66 As such,
+13 SDG&E’s proposed pilot budget and customer target should be significantly expanded.
+14 At a minimum, SDG&E’s proposed EV DR pilot should be expanded to $9.6 million.
+15 Q. What is the basis for your proposed budget of $9.6 million?
+16 A. D.20-12-029 or the “VGI Strategies Decision” authorized the three major IOUs to
+17 propose up to a combined $35 million in VGI Pilots and SDG&E’s presumed allocation
+18 of these authorized funds totaled $6.3 million.67 Ultimately, SDG&E did not propose any
+19 VGI pilots per the July 15, 2021 advice letter deadline. VGIC believes SDG&E’s EV DR
+66 SDG&E Ch 1B at p 66 line 3.
+67 D.20-12-029, Ordering Paragraph 14 states “The large electrical corporations shall identify any non-ratepayer
+potential funding sources and shall not request, in their combined applications, more than $35 million.” In the March
+16, 2021 and June 4, 2021 workshops, each IOU proposed VGI pilot budgets roughly proportionate to their load
+share. PG&E and SCE requested a combined $28.7 million for VGI pilots. The remaining $6.3 million in authorized
+funds was not ultimately requested by SDG&E.
+27
+
+1 Pilot proposal design is very closely aligned with the directives in the VGI Strategies
+2 Decision. SDG&E’s EV DR Pilot would meaningfully and uniquely advance VGI
+3 because it would leverage third-party aggregators to monitor and manage charging via
+4 both vehicle telematics and EVSE submetering, which has not yet been done in
+5 California and which represents a critical gap for the market. Moreover, SDG&E’s EV
+6 DR Pilot would present a very logical complement to the $11.7 million PG&E VGI pilot
+7 focused on V2X bidirectional power flow recently approved in Resolution E-5192.68 I
+8 believe it would be reasonable to add the $6.3 million in pre-authorized funds that
+9 SDG&E could have requested in Summer 2021 to the present $3.3 million EV DR Pilot
+10 request, such that the SDG&E’s EV DR Pilot budget is at least $9.6 million and targets at
+11 least 3,000 customers.
+12 Q. Do PG&E’s evPulse pilot, PG&E’s BMW ChargeForward pilot, and SDG&E’s
+13 proposed EV DR pilot comprise a complete suite of telematics-based customer
+14 programs for all California IOU customers?
+15 A. No. California could unlock significantly more participation and, in turn, peak load
+16 reduction by establishing a more expansive, state-wide telematics-based managed
+17 charging program. This could take the shape of a new, large-scale telematics-based
+18 managed charging program, like the implementations in Colorado, Connecticut,
+19 Maryland, Massachusetts, New York, North Carolina, and Oregon I listed above.
+20 Alternatively, rather than creating a new program, telematics could be incorporated into
+21 ELRP (e.g., through subgroup A.5 eligibility), which offers an existing framework for
+22 measuring and compensating incremental load reduction (“ILR”) via VGI aggregations.
+68 Resolution E-5192. https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M474/K369/474369017.PDF
+28
+
+1 In either case – (i.e., either a new, statewide telematics-based managed charging program
+2 or telematics eligibility for ELRP), I believe utilities could unlock far more DR potential
+3 from EVs than with the current slate of limited ad-hoc pilots.
+4 Q. Are telematics participation pathways in DR programs currently being considered
+5 in another Commission proceeding?
+6 A. No. It is worth noting that telematics was addressed by the Commission’s decision
+7 adopting a submetering protocol for EVs (D.22-08-024). As part of this decision, the
+8 Commission directed the three major IOUs to jointly host a workshop to discuss
+9 telematics by August 5, 2023. The decision further specified that following this
+10 workshop, “parties may file a proposal for a PEV telematics submetering protocol or
+11 amendments to the submetering protocol to include telematics.”69 However, the
+12 Commission also clarified that D.22-08-024 applied specifically to customer billing and
+13 did not concern the utilities’ demand response programs.70 In other words, while the
+14 forthcoming workshop will consider telematics for customer billing purposes, the
+15 Commission’s guidance seems to suggest that use of telematics for DR programs would
+16 be out of scope for the workshop. As such, I recommend that the Commission provide
+17 guidance in this proceeding regarding whether telematics for DR programs could be
+18 considered in the same workshop or a subsequent one.
+19 Q. Does ELRP currently allow for telematics-based participation?
+69 Decision Adopting Plug-In Electric Vehicle Submetering Protocol and Electric Vehicle Supply Equipment
+Communication Protocols. August 5, 2022. D.22-08-024. Page 36.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M496/K419/496419890.PDF
+70 Decision Adopting Plug-In Electric Vehicle Submetering Protocol and Electric Vehicle Supply Equipment
+Communication Protocols. August 5, 2022. D.22-08-024. Page 35.
+https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M496/K419/496419890.PDF
+29
+
+1 A. No. While D.21-12-015 directed utilities to allow for EVSE submetering as a
+2 participation option, it did not specifically discuss the use of telematics for ELRP
+3 participation. Moreover, the submetering protocol that was recently adopted does not yet
+4 include a telematics component.
+5 Q. Do you anticipate that the submetering protocol might eventually be amended to
+6 include a telematics component?
+7 A. While this is entirely at the Commission’s discretion, it seems like a possibility, and
+8 appears to be contemplated by D.22-08-024 as described above. Whether and when such
+9 a change would occur is very uncertain though.
+10 Q. Could a telematics-based pathway be incorporated into ELRP on an interim basis
+11 until a permanent telematics protocol is adopted?
+12 A. Yes. This would be similar to the approach the Commission took to EVSE submetering,
+13 whereby it allowed for submetering to be used in ELRP on an interim basis until the final
+14 submetering protocol was adopted. As such, I recommend telematics be allowed in ELRP
+15 now on an interim basis until a new PEV telematics submetering protocol is adopted (or
+16 amendments to the existing PEV EVSE submetering protocol to incorporate telematics).
+17 Q. Has California established other policies that leverage vehicle telematics for
+18 program implementation purposes, as opposed to customer billing purposes?
+19 A. Yes. As noted above, PG&E leverages telematics-based VGI in its limited resilient
+20 charging pilot with WeaveGrid as well as its ChargeForward pilot with BMW.
+21 Additionally, under California’s LCFS program, any charging within 110 meters of a
+22 home is attributed to that home account, and any charging within 220 meters of a non-
+30
+
+1 residential site is associated with that non-residential site.71 This approach may be useful
+2 in determining load reduction within a given utility service territory and determining
+3 when load reductions may be ineligible for DR program compensation as a result (i.e., if
+4 charging outside of the utility territory in which the driver is enrolled in a DR program).
+5 V. SUMMARY OF RECOMMENDATIONS AND CONCLUSION
+6 Q. Can you please provide a summary of your recommendations?
+7 A. Yes. I have broken these recommendations down into two general categories which are
+8 listed below:
+9 Recommendations to Enhance ELRP and the A.5 subgroup:
+10 • Accept the IOUs’ proposal to extend ELRP for 2 years.
+11 • Reject the IOUs’ proposal to reduce the minimum dispatch hours for the A.5 subgroup.
+12 • Require the IOUs to clearly offer more flexible near-term participation options that can
+13 reduce near-term barriers and delays (e.g., email notification versus full technical
+14 integration).
+15 • Require that future Advice Letter changes be prohibited from proposing fundamental
+16 program design changes that would limit participation (e.g., reducing the minimum
+17 dispatch hours).
+18 • Move up the date after which utilities may submit Advice Letter changes (e.g., to
+19 November versus January).
+20 • Increase the compensation rate for the A.5 subgroup to make it comparable to V2G
+21 programs in the northeastern US.
+71 California Air Resources Board. Low Carbon Fuel Standard (LCFS) Guidance 19-03. Reporting for Incremental
+Credits for Residential EV Charging. June 2019.
+https://ww2.arb.ca.gov/sites/default/files/classic/fuels/lcfs/guidance/lcfsguidance_19-03.pdf
+31
+
+1 Recommendations to Expand EV DR Participation via Telematics:
+2 • Increase the budget for SDG&E’s proposed EV DR Pilot from $3.3 million to $9.6
+3 million to reflect the additional amount previously authorized under D.20-12-029.
+4 • Allow telematics-based aggregations to be eligible to participate in ELRP on an interim
+5 basis, until a more permanent telematics protocol is adopted.
+6 • Expand the scope of the workshop required under D.22-08-024 to include telematics for
+7 DR programs (in addition to customer billing) or schedule a separate workshop.
+8 Q. Does this conclude your testimony?
+9 A. Yes.
+32
+
+1 Appendix A:
+Declaration of Ed Burgess in Support of Testimony on Behalf of the Vehicle-Grid Integration
+Council
+A-1
+
+DECLARATION OF ED BURGESS IN SUPPORT OF REBUTTAL TESTIMONY ON
+BEHALF OF THE VEHICLE GRID INTEGRATION COUNCIL
+I, Ed Burgess, am the Senior Policy Director for the Vehicle-Grid Integration Council
+(VGIC). Having worked for VGIC since its founding in 2020, I am currently managing policy
+and regulatory affairs for VGIC and its 33 members. My business address is 10265 Rockingham
+Drive, Suite #100-4061, Sacramento, CA 95827. I declare under penalty of perjury that the
+foregoing facts in this document are true and correct.
+Executed on April 21, 2023 at Sacramento, California.
+Ed Burgess
+A-2
